@@ -54,4 +54,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: generate daily trend report"
-          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl public/pagefind/**"
+          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl"
