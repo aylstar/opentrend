@@ -1,0 +1,57 @@
+name: Generate trend report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 23 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    env:
+      X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate report
+        run: pnpm trends:run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+
+      - name: Generate X regional trends
+        if: ${{ env.X_BEARER_TOKEN != '' }}
+        run: pnpm trends:x
+        continue-on-error: true
+        env:
+          X_TREND_MAX_POSTS: ${{ vars.X_TREND_MAX_POSTS || '30' }}
+          X_TREND_REGIONS: ${{ vars.X_TREND_REGIONS || 'global:全球:1,us:美国:23424977,japan:日本:23424856,singapore:新加坡:23424948,hongkong:中国香港:24865698' }}
+
+      - name: Build check
+        run: pnpm build
+
+      - name: Commit generated data
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore: generate daily trend report"
+          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl public/pagefind/**"

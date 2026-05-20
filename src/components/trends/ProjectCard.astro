@@ -1,0 +1,68 @@
+---
+import type { TrendProject } from "@/lib/trends";
+import { windowLabel } from "@/lib/trends";
+
+type Props = {
+  project: TrendProject;
+  compact?: boolean;
+};
+
+const { project, compact = false } = Astro.props;
+---
+
+<article
+  class:list={[
+    "trend-panel rounded-md p-4",
+    "trend-project-card",
+  ]}
+  data-project-card
+  data-language={project.language || "未识别"}
+  data-tags={project.analysis.tags.join(",")}
+  data-score={project.analysis.recommendation}
+>
+  <div class="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+    <div class="min-w-0">
+      <a
+        href={`/projects/${project.slug}/`}
+        class="text-accent text-lg font-semibold decoration-dashed underline-offset-4 hover:underline"
+        style="color: var(--trend-accent)"
+      >
+        {project.fullName}
+      </a>
+      <p class="mt-1 text-sm leading-6">{project.analysis.oneLine}</p>
+    </div>
+    <div class="flex shrink-0 items-center gap-2 text-sm">
+      <span class="rounded border px-2 py-1" style="border-color: var(--trend-line)">{project.analysis.recommendation}/5</span>
+      <span>{project.stars.toLocaleString()} stars</span>
+    </div>
+  </div>
+
+  <div class="mt-3 flex flex-wrap gap-2 text-xs">
+    {project.language && <span class="rounded px-2 py-1" style="background: rgba(20, 24, 19, 0.06)">{project.language}</span>}
+    {project.trendWindows.map(item => <span class="rounded px-2 py-1" style="background: rgba(20, 24, 19, 0.06)">{windowLabel(item)}</span>)}
+    {project.analysis.tags.slice(0, compact ? 4 : 8).map(tag => <span class="rounded px-2 py-1" style="background: rgba(20, 24, 19, 0.06)">{tag}</span>)}
+  </div>
+
+  {
+    !compact && (
+      <dl class="mt-4 grid gap-3 text-sm sm:grid-cols-2">
+        <div>
+          <dt class="text-muted-foreground">使用场景</dt>
+          <dd class="mt-1">{project.analysis.scenarios[0]}</dd>
+        </div>
+        <div>
+          <dt class="text-muted-foreground">部署判断</dt>
+          <dd class="mt-1">{project.analysis.deployment}</dd>
+        </div>
+        <div>
+          <dt class="text-muted-foreground">商业价值</dt>
+          <dd class="mt-1">{project.analysis.commercialValue}</dd>
+        </div>
+        <div>
+          <dt class="text-muted-foreground">风险提示</dt>
+          <dd class="mt-1">{project.analysis.risk}</dd>
+        </div>
+      </dl>
+    )
+  }
+</article>

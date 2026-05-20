@@ -1,0 +1,56 @@
+---
+import type { TrendProject } from "@/lib/trends";
+
+type Props = {
+  title: string;
+  subtitle: string;
+  projects: TrendProject[];
+};
+
+const { title, subtitle, projects } = Astro.props;
+const maxStars = Math.max(...projects.map(project => project.stars), 1);
+const rankTier = (index: number) => {
+  if (index === 0) return "gold";
+  if (index === 1) return "silver";
+  if (index === 2) return "bronze";
+  return "plain";
+};
+---
+
+<section class="trend-panel trend-rank-board">
+  <div class="trend-rank-board-header">
+    <div>
+      <h2>{title}</h2>
+      <p>{subtitle} · 点击查看中文解读</p>
+    </div>
+    <span class="trend-board-count">{projects.length} repos</span>
+  </div>
+  <div class="trend-rank-list">
+    {
+      projects.map((project, index) => {
+        const width = Math.max(18, Math.round((project.stars / maxStars) * 100));
+        const tier = rankTier(index);
+        const featuredClass = index < 3 ? "is-featured" : "";
+        return (
+          <a
+            href={`/projects/${project.slug}/`}
+            class:list={["trend-rank-item", featuredClass, `rank-${tier}`]}
+            style={`--rank-width: ${width}%; --rank-delay: ${index * 58}ms`}
+          >
+            <span class="trend-rank-no">
+              <span>{String(index + 1).padStart(2, "0")}</span>
+            </span>
+            <span class="trend-rank-main">
+              <span class="trend-rank-name">{project.repo}</span>
+              <span class="trend-rank-author">{project.owner}</span>
+            </span>
+            <span class="trend-star-count">
+              <span>★</span>
+              {project.stars.toLocaleString()}
+            </span>
+          </a>
+        );
+      })
+    }
+  </div>
+</section>

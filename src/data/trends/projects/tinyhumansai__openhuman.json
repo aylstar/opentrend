@@ -1,0 +1,75 @@
+{
+  "slug": "tinyhumansai__openhuman",
+  "owner": "tinyhumansai",
+  "repo": "openhuman",
+  "name": "openhuman",
+  "fullName": "tinyhumansai/openhuman",
+  "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+  "language": "Rust",
+  "githubUrl": "https://github.com/tinyhumansai/openhuman",
+  "docsUrl": "https://tinyhumans.ai/openhuman",
+  "stars": 23109,
+  "forks": 2051,
+  "openIssues": 195,
+  "license": "GPL-3.0",
+  "pushedAt": "2026-05-20T13:14:17Z",
+  "updatedAt": "2026-05-20T13:40:06Z",
+  "createdAt": "2026-02-18T20:01:27Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "NAS",
+    "自部署",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "<h1 align=\"center\">OpenHuman</h1>\n\n<p align=\"center\">\n <img src=\"./gitbooks/.gitbook/assets/demo.png\" alt=\"The Tet\" />\n</p>\n\n<p align=\"center\" style=\"display: inline-block\">\n <a href=\"https://trendshift.io/repositories/23680\" target=\"_blank\" style=\"display: inline-block\">\n  <img src=\"https://trendshift.io/api/badge/repositories/23680\" alt=\"tinyhumansai%2Fopenhuman | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n </a> \n &nbsp;\n <a href=\"https://www.producthunt.com/products/openhuman?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_campaign=badge-openhuman\" target=\"_blank\" rel=\"noopener noreferrer\">\n  <img alt=\"OpenHuman - An open source AI harness built with the human in mind | Product Hunt\" width=\"250\" height=\"54\" src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1136902&amp;theme=light&amp;period=daily&amp;t=1778916022823\">\n </a>\n \n</p>\n \n<p align=\"center\">\n <strong>OpenHuman is your Personal AI super intelligence. Private, Simple and extremely powerful.</strong>\n</p>\n\n\n<p align=\"center\">\n <a href=\"https://discord.tinyhumans.ai/\">Discord</a> •\n <a href=\"https://www.reddit.com/r/tinyhumansai/\">Reddit</a> •\n <a href=\"https://x.com/intent/follow?screen_name=tinyhumansai\">X/Twitter</a> •\n <a href=\"https://tinyhumans.gitbook.io/openhuman/\">Docs</a> •\n <a href=\"https://x.com/intent/follow?screen_name=senamakel\">Follow @senamakel (Creator)</a>\n</p>\n\n<p align=\"center\">\n  🇺🇸 <a href=\"./README.md\">English</a> | 🇨🇳 <a href=\"./README.zh-CN.md\">简体中文</a> | 🇯🇵 <a href=\"./README.ja-JP.md\">日本語</a> | 🇰🇷 <a href=\"./README.ko.md\">한국어</a> | 🇩🇪 <a href=\"./README.de.md\">Deutsch</a>\n</p>\n\n\n<p align=\"center\">\n <img src=\"https://img.shields.io/badge/status-early%20beta-orange\" alt=\"Early Beta\" />\n <a href=\"https://github.com/tinyhumansai/openhuman/releases/latest\"><img src=\"https://img.shields.io/github/v/release/tinyhumansai/openhuman?label=latest\" alt=\"Latest Release\" /></a>\n <a href=\"https://github.com/tinyhumansai/openhuman/stargazers\"><img src=\"https://img.shields.io/github/stars/tinyhumansai/openhuman?style=flat\" alt=\"GitHub Stars\" /></a>\n <a href=\"./LICENSE\"><img src=\"https://img.shields.io/github/license/tinyhumansai/openhuman\" alt=\"License\" /></a>\n <a href=\"./README.zh-CN.md\"><img src=\"https://img.shields.io/badge/lang-简体中文-blue\" alt=\"简体中文\" /></a>\n <a href=\"./README.ja-JP.md\"><img src=\"https://img.shields.io/badge/lang-日本語-blue\" alt=\"日本語\" /></a>\n <a href=\"./README.ko.md\"><img src=\"https://img.shields.io/badge/lang-한국어-blue\" alt=\"한국어\" /></a>\n <a href=\"./README.de.md\"><img src=\"https://img.shields.io/badge/lang-Deutsch-blue\" alt=\"Deutsch\" /></a>\n</p>\n\n> **Early Beta**: Under active development. Expect rough edges.\n\nTo install or get started, either download from the website over at [tinyhumans.ai/openhuman](https://tinyhumans.ai/openhuman?utm_source=github&utm_medium=readme) or run\n\n```bash\n# Download DMG, EXEs over at https://tinyhumans.ai/openhuman or run in from yo",
+  "generatedAt": "2026-05-20T13:44:59.509Z",
+  "analysis": {
+    "oneLine": "openhuman 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
+    "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
+    "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
+    "detailParagraphs": [
+      "openhuman 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
+      "如果把它放进实际使用场景，openhuman 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 23,109，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "个人知识库与 AI 助手整合",
+      "小团队内部 AI 工作台",
+      "私有化 AI 工具原型验证",
+      "面向 NAS 用户的自部署 AI 应用评估"
+    ],
+    "interpretation": "openhuman 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Rust 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Rust 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。",
+    "recommendation": 2.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "NAS",
+      "自部署",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-05-20T09:13:56.350Z",
+  "nasUrl": "https://files.qiyuebao.xyz/opentrend/projects/tinyhumansai__openhuman/tinyhumansai__openhuman-2026-05-20.zip",
+  "nasSyncedAt": "2026-05-20T16:03:14.881Z",
+  "nasArchiveSize": 15748372
+}

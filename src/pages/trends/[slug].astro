@@ -1,0 +1,146 @@
+---
+import TrendShell from "@/components/trends/TrendShell.astro";
+import RankBoard from "@/components/trends/RankBoard.astro";
+import XTrendBoard from "@/components/trends/XTrendBoard.astro";
+import { formatTrendDate, getTrendProjectMap, getTrendReports, getXTrendReport } from "@/lib/trends";
+import type { TrendProject } from "@/lib/trends";
+
+export function getStaticPaths() {
+  return getTrendReports().map(report => ({
+    params: { slug: report.slug },
+    props: { report },
+  }));
+}
+
+const { report } = Astro.props;
+const projectMap = getTrendProjectMap();
+const xTrendReport = getXTrendReport(report.slug);
+const reportDate = formatTrendDate(report.date);
+const pick = (slugs: string[]) =>
+  slugs
+    .map(slug => projectMap.get(slug))
+    .filter((project): project is TrendProject => Boolean(project));
+const allProjects = pick(report.projectSlugs);
+const tagCounts = allProjects
+  .flatMap(project => project.analysis.tags ?? [])
+  .reduce((counts, tag) => {
+    counts.set(tag, (counts.get(tag) ?? 0) + 1);
+    return counts;
+  }, new Map<string, number>());
+const topTags = [...tagCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 3);
+const observation = topTags.length
+  ? `${topTags.map(([tag]) => tag).join(" / ")} 是今日上榜项目的主要线索，周榜更偏即时工具，月榜更适合沉淀为长期观察池。`
+  : "今日上榜项目以工具型项目为主，建议优先核查部署难度、许可证和国内访问依赖。";
+---
+
+<TrendShell title={report.title} description={report.description}>
+  <main id="main-content">
+    <article>
+      <header class="trend-container trend-report-header">
+        <div class="trend-report-title-block">
+          <a href="/trends/" class="trend-eyebrow">GitHub Intelligence</a>
+          <h1 class="trend-report-title">GitHub 趋势雷达</h1>
+          <p class="trend-report-subtitle">
+            {reportDate} · 周榜 / 月榜 · {report.stats.totalProjects} 个项目
+          </p>
+        </div>
+      </header>
+
+      <section class="trend-container trend-brief">
+        <div class="trend-observation">
+          <span>今日观察</span>
+          <p>{observation}</p>
+        </div>
+        <dl class="trend-report-metrics">
+          <div>
+            <dt>项目</dt>
+            <dd>{report.stats.totalProjects}</dd>
+          </div>
+          <div>
+            <dt>周榜</dt>
+            <dd>{report.stats.weeklyProjects}</dd>
+          </div>
+          <div>
+            <dt>月榜</dt>
+            <dd>{report.stats.monthlyProjects}</dd>
+          </div>
+          <div>
+            <dt>推荐</dt>
+            <dd>{report.stats.averageRecommendation}</dd>
+          </div>
+        </dl>
+        <div class="trend-tag-strip">
+          {topTags.map(([tag, count]) => <span>{tag} {count}</span>)}
+        </div>
+      </section>
+
+      <section class="trend-container trend-section trend-rank-section">
+        <div class="trend-rank-grid">
+          <RankBoard title="周趋势" subtitle="Top 10" projects={pick(report.sections.weekly)} />
+          <RankBoard title="月趋势" subtitle="Top 10" projects={pick(report.sections.monthly)} />
+        </div>
+      </section>
+
+      <XTrendBoard report={xTrendReport} />
+
+      <section class="trend-container trend-section">
+        <h2 class="trend-section-title">本期最值得关注的 3 个项目</h2>
+        <div class="trend-card-grid mt-4">
+          {pick(report.sections.recommended).map(project => (
+            <a href={`/projects/${project.slug}/`} class="trend-panel trend-feature-card">
+              <h2>{project.fullName}</h2>
+              <p>{project.analysis.oneLine}</p>
+              <p>推荐指数：{project.analysis.recommendation}/5 · {project.language || "未识别"}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="trend-container trend-section grid gap-6 md:grid-cols-2">
+        <div>
+          <h2 class="trend-section-title">适合商业化复用的项目</h2>
+          <ul class="mt-4 space-y-3">
+            {pick(report.sections.commercial).map(project => (
+              <li class="trend-panel p-4">
+                <a href={`/projects/${project.slug}/`} class="font-semibold">{project.fullName}</a>
+                <p class="trend-section-note text-sm">{project.analysis.commercialValue}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h2 class="trend-section-title">适合 NAS / Docker / 私有化部署的项目</h2>
+          <ul class="mt-4 space-y-3">
+            {pick(report.sections.deployable).map(project => (
+              <li class="trend-panel p-4">
+                <a href={`/projects/${project.slug}/`} class="font-semibold">{project.fullName}</a>
+                <p class="trend-section-note text-sm">{project.analysis.deployment}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      <section class="trend-container trend-section">
+        <h2 class="trend-section-title">风险较高但值得跟踪的项目</h2>
+        <div class="mt-4 grid gap-3">
+          {pick(report.sections.risky).map(project => (
+            <div class="trend-panel p-4">
+              <a href={`/projects/${project.slug}/`} class="font-semibold">{project.fullName}</a>
+              <p class="trend-section-note text-sm">{project.analysis.risk}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section class="trend-container trend-section">
+        <div class="trend-panel trend-feature-card">
+          <h2>今日结论</h2>
+          <p>{report.summary.conclusion}</p>
+        </div>
+      </section>
+    </article>
+  </main>
+</TrendShell>

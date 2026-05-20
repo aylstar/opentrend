@@ -1,0 +1,92 @@
+---
+import TrendShell from "@/components/trends/TrendShell.astro";
+import ProjectCard from "@/components/trends/ProjectCard.astro";
+import { getTrendProjects } from "@/lib/trends";
+
+const projects = getTrendProjects();
+const languages = [...new Set(projects.map(project => project.language).filter(Boolean))].sort();
+const tags = [...new Set(projects.flatMap(project => project.analysis.tags))].sort();
+---
+
+<TrendShell title="开源项目数据库">
+  <main id="main-content">
+    <section class="trend-container trend-hero">
+      <div>
+        <p class="trend-eyebrow">Project Database</p>
+        <h1 class="trend-title">开源项目数据库</h1>
+        <p class="trend-lead">
+        这里沉淀每日趋势报告中的项目，支持按语言、标签和推荐指数做快速筛选。
+        </p>
+      </div>
+    </section>
+
+    <section class="trend-container trend-section">
+    <div class="trend-panel p-4">
+      <div class="grid gap-3 sm:grid-cols-3">
+        <label class="text-sm">
+          <span class="block" style="color: var(--trend-muted)">语言</span>
+          <select id="language-filter" class="mt-1 w-full rounded-md border px-3 py-2" style="border-color: var(--trend-line); background: #fff">
+            <option value="">全部</option>
+            {languages.map(language => <option value={language}>{language}</option>)}
+          </select>
+        </label>
+        <label class="text-sm">
+          <span class="block" style="color: var(--trend-muted)">标签</span>
+          <select id="tag-filter" class="mt-1 w-full rounded-md border px-3 py-2" style="border-color: var(--trend-line); background: #fff">
+            <option value="">全部</option>
+            {tags.map(tag => <option value={tag}>{tag}</option>)}
+          </select>
+        </label>
+        <label class="text-sm">
+          <span class="block" style="color: var(--trend-muted)">最低推荐</span>
+          <select id="score-filter" class="mt-1 w-full rounded-md border px-3 py-2" style="border-color: var(--trend-line); background: #fff">
+            <option value="0">全部</option>
+            <option value="3">3 分以上</option>
+            <option value="4">4 分以上</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    </section>
+
+    <section class="trend-container trend-section">
+      <div class="mb-4 flex items-center justify-between gap-3">
+        <h2 class="trend-section-title">项目列表</h2>
+        <p id="project-count" class="text-sm" style="color: var(--trend-muted)">{projects.length} 个项目</p>
+      </div>
+      <div class="grid gap-4">
+        {projects.map(project => <ProjectCard project={project} compact />)}
+      </div>
+    </section>
+  </main>
+</TrendShell>
+
+<script>
+  const languageFilter = document.querySelector<HTMLSelectElement>("#language-filter");
+  const tagFilter = document.querySelector<HTMLSelectElement>("#tag-filter");
+  const scoreFilter = document.querySelector<HTMLSelectElement>("#score-filter");
+  const count = document.querySelector("#project-count");
+  const cards = [...document.querySelectorAll<HTMLElement>("[data-project-card]")];
+
+  function applyFilters() {
+    const language = languageFilter?.value ?? "";
+    const tag = tagFilter?.value ?? "";
+    const minScore = Number(scoreFilter?.value ?? 0);
+    let visible = 0;
+
+    for (const card of cards) {
+      const matchesLanguage = !language || card.dataset.language === language;
+      const matchesTag = !tag || (card.dataset.tags ?? "").split(",").includes(tag);
+      const matchesScore = Number(card.dataset.score ?? 0) >= minScore;
+      const show = matchesLanguage && matchesTag && matchesScore;
+      card.hidden = !show;
+      if (show) visible += 1;
+    }
+
+    if (count) count.textContent = `${visible} 个项目`;
+  }
+
+  languageFilter?.addEventListener("change", applyFilters);
+  tagFilter?.addEventListener("change", applyFilters);
+  scoreFilter?.addEventListener("change", applyFilters);
+</script>

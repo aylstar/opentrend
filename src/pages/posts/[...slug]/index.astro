@@ -60,6 +60,7 @@ const locale = Astro.currentLocale ?? config.site.lang;
 
 const {
   title,
+  author,
   description,
   ogImage: initOgImage,
   canonicalURL,
@@ -116,6 +117,8 @@ const ogImage = ogImageUrl
     >
       {title}
     </h1>
+
+    <p class="text-muted-foreground mt-2 text-sm">作者：{author}</p>
 
     <div class="my-2 flex items-center gap-2">
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />

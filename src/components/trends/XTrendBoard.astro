@@ -1,0 +1,114 @@
+---
+import type { XTrendReport, XTrendRegion } from "@/lib/trends";
+
+type Props = {
+  report: XTrendReport | null;
+};
+
+const { report } = Astro.props;
+const regions = report?.regions ?? [];
+const splitPosts = (region: XTrendRegion) => [
+  region.posts.slice(0, 15),
+  region.posts.slice(15, 30),
+];
+---
+
+<section class="trend-container trend-section x-trend-section" data-x-trend>
+  <div class="x-trend-header">
+    <div>
+      <span class="trend-eyebrow">X Intelligence</span>
+      <h2 class="trend-section-title">X 热门帖雷达</h2>
+      <p class="trend-section-note">按区域展示 X 上正在快速传播的 30 条热门帖，适合观察技术、AI、商业和舆论热点。</p>
+    </div>
+    <div class="x-region-tabs" role="tablist" aria-label="选择 X 热门帖区域">
+      {
+        regions.length ? (
+          regions.map((region, index) => (
+            <button
+              type="button"
+              class:list={["x-region-tab", { "is-active": index === 0 }]}
+              data-x-region-button={region.id}
+              aria-selected={index === 0 ? "true" : "false"}
+            >
+              {region.label}
+            </button>
+          ))
+        ) : (
+          <span class="x-region-empty">等待接入 X API</span>
+        )
+      }
+    </div>
+  </div>
+
+  {
+    regions.length ? (
+      <div class="x-region-panels">
+        {regions.map((region, regionIndex) => {
+          const columns = splitPosts(region);
+          return (
+            <section
+              class:list={["x-region-panel", { "is-active": regionIndex === 0 }]}
+              data-x-region-panel={region.id}
+              aria-hidden={regionIndex === 0 ? "false" : "true"}
+            >
+              <div class="x-region-meta">
+                <span>{region.label}</span>
+                <span>Top {region.posts.length}</span>
+                {region.updatedAt && <span>更新 {new Date(region.updatedAt).toLocaleString("zh-CN")}</span>}
+              </div>
+              <div class="x-trend-grid">
+                {columns.map(column => (
+                  <div class="x-trend-list">
+                    {column.map(post => (
+                      <a href={post.url} class="x-trend-item">
+                        <span class="trend-rank-no">
+                          <span>{String(post.rank).padStart(2, "0")}</span>
+                        </span>
+                        <span class="x-trend-main">
+                          <span class="x-trend-title">{post.title}</span>
+                          <span class="x-trend-author">{post.author}{post.topic ? ` · ${post.topic}` : ""}</span>
+                        </span>
+                        <span class="trend-star-count">
+                          <span>↗</span>
+                          {(post.metrics?.likes ?? 0).toLocaleString()}
+                        </span>
+                      </a>
+                    ))}
+                  </div>
+                ))}
+              </div>
+            </section>
+          );
+        })}
+      </div>
+    ) : (
+      <div class="trend-panel x-trend-empty">
+        <h3>还没有 X 热门帖数据</h3>
+        <p>配置 `X_BEARER_TOKEN` 后运行采集脚本，即可按地区写入 30 条热门帖并在这里展示。</p>
+      </div>
+    )
+  }
+</section>
+
+<script>
+  document.querySelectorAll("[data-x-trend]").forEach(root => {
+    const buttons = [...root.querySelectorAll("[data-x-region-button]")];
+    const panels = [...root.querySelectorAll("[data-x-region-panel]")];
+
+    buttons.forEach(button => {
+      button.addEventListener("click", () => {
+        const region = button.getAttribute("data-x-region-button");
+        buttons.forEach(item => {
+          const active = item === button;
+          item.classList.toggle("is-active", active);
+          item.setAttribute("aria-selected", active ? "true" : "false");
+        });
+        panels.forEach(panel => {
+          const active = panel.getAttribute("data-x-region-panel") === region;
+          panel.classList.toggle("is-active", active);
+          panel.setAttribute("aria-hidden", active ? "false" : "true");
+        });
+      });
+    });
+  });
+</script>
