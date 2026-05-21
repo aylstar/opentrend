@@ -28,6 +28,11 @@ const pickNews = (ids: string[] = []) =>
 const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
 const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 10) : [];
+const signalCount =
+  (latestNews ? latestNews.stats.globalItems + latestNews.stats.techItems : 0) +
+  (latest?.stats.totalProjects ?? 0) +
+  youtubeNews.length;
+const opportunityCount = latestProjects.filter(project => project.recommendation >= 2.7).length;
 ---
 
 <TrendShell
@@ -37,10 +42,10 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
   <main id="main-content">
     <section class="trend-container trend-home-hero">
       <div class="trend-home-copy">
-        <p class="trend-eyebrow">Personal Intelligence</p>
-        <h1 class="trend-home-title">今日信息概况</h1>
+        <p class="trend-eyebrow">Personal Intelligence Desk</p>
+        <h1 class="trend-home-title">今日趋势驾驶舱</h1>
         <p class="trend-home-lead">
-          汇总你需要跟踪的新闻排行、兴趣热点、科技项目和公开信息库。首页先看新闻，再看兴趣注意力，最后进入技术趋势。
+          用更轻的方式汇总新闻环境、兴趣注意力和科技项目，把分散信息压缩成每天可以快速判断的趋势面板。
         </p>
         <div class="trend-home-actions">
           <a class="trend-button primary" href="/news/">查看新闻雷达</a>
@@ -75,6 +80,10 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
         </div>
         <dl class="trend-home-metrics">
           <div>
+            <dt>今日信号</dt>
+            <dd>{signalCount}</dd>
+          </div>
+          <div>
             <dt>新闻</dt>
             <dd>{latestNews ? latestNews.stats.globalItems + latestNews.stats.techItems : 0}</dd>
           </div>
@@ -83,12 +92,8 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
             <dd>{youtubeNews.length}</dd>
           </div>
           <div>
-            <dt>科技</dt>
-            <dd>{latest?.stats.totalProjects ?? 0}</dd>
-          </div>
-          <div>
-            <dt>NAS</dt>
-            <dd>{nasMirrorCount}</dd>
+            <dt>机会</dt>
+            <dd>{opportunityCount}</dd>
           </div>
         </dl>
         <div class="trend-home-highlights">
@@ -181,17 +186,17 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
           <h2>当前接入能力</h2>
         </div>
       </div>
-      <div class="trend-card-grid">
+        <div class="trend-card-grid">
         <div class="trend-panel trend-feature-card">
-          <h2>中文解读</h2>
-          <p>从国内用户视角说明项目解决什么问题、适合谁使用，以及是否值得继续验证。</p>
+          <h2>快速判断</h2>
+          <p>把新闻、兴趣和科技项目压缩成可扫描的榜单，优先看变化，再进入详情页做判断。</p>
         </div>
         <div class="trend-panel trend-feature-card">
           <h2>NAS 镜像</h2>
-          <p>项目源码包自动同步到国内 NAS 链接，减少 GitHub 访问不稳定带来的使用阻力。</p>
+          <p>已同步 {nasMirrorCount} 个项目源码包到国内 NAS 链接，减少 GitHub 访问不稳定带来的使用阻力。</p>
         </div>
         <div class="trend-panel trend-feature-card">
-          <h2>持续更新</h2>
+          <h2>持续沉淀</h2>
           <p>每日任务自动完成抓取、归档、构建和发布，让项目库保持可追踪、可复用。</p>
         </div>
       </div>
