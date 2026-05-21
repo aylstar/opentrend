@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/oven-sh/bun",
   "docsUrl": "https://bun.com",
-  "stars": 92119,
-  "forks": 4612,
-  "openIssues": 6935,
+  "stars": 92145,
+  "forks": 4611,
+  "openIssues": 6902,
   "license": "NOASSERTION",
-  "pushedAt": "2026-05-20T13:32:05Z",
-  "updatedAt": "2026-05-20T13:38:18Z",
+  "pushedAt": "2026-05-21T01:23:28Z",
+  "updatedAt": "2026-05-21T01:23:09Z",
   "createdAt": "2021-04-14T00:48:17Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a>\n</p>\n<h1 align=\"center\">Bun</h1>\n\n<p align=\"center\">\n<a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a>\n<img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\">\n<a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https://img.shields.io/static/v1?label=speed&message=fast&color=success\" alt=\"Bun speed\" /></a>\n</p>\n\n<div align=\"center\">\n  <a href=\"https://bun.com/docs\">Documentation</a>\n  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>\n  <a href=\"https://bun.com/discord\">Discord</a>\n  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>\n  <a href=\"https://github.com/oven-sh/bun/issues/new\">Issues</a>\n  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>\n  <a href=\"https://github.com/oven-sh/bun/issues/159\">Roadmap</a>\n  <br />\n</div>\n\n### [Read the docs →](https://bun.com/docs)\n\n## What is Bun?\n\nBun is an all-in-one toolkit for JavaScript and TypeScript apps. It ships as a single executable called `bun`.\n\nAt its core is the _Bun runtime_, a fast JavaScript runtime designed as **a drop-in replacement for Node.js**. It's written in Zig and powered by JavaScriptCore under the hood, dramatically reducing startup times and memory usage.\n\n```bash\nbun run index.tsx             # TS and JSX supported out-of-the-box\n```\n\nThe `bun` command-line tool also implements a test runner, script runner, and Node.js-compatible package manager. Instead of 1,000 node_modules for development, you only need `bun`. Bun's built-in tools are significantly faster than existing options and usable in existing Node.js projects with little to no changes.\n\n```bash\nbun test                      # run tests\nbun run start                 # run the `start` script in `package.json`\nbun install <pkg>             # install a package\nbunx cowsay 'Hello, world!'   # execute a package\n```\n\n## Install\n\nBun supports Linux (x64 & arm64), macOS (x64 & Apple Silicon), and Windows (x64 & arm64).\n\n> **Linux users** — Kernel version 5.6 or higher is strongly recommended, but the minimum is 5.1.\n\n> **x64 users** — if you see \"illegal instruction\" or similar errors, check our [CPU requirements](https://bun.com/docs/installation#cpu-requirements-and-baseline-builds)\n\n```sh\n# with install script (recommended)\ncurl -fsSL https://bun.com/install | bash\n\n# on windows\npowershell -c \"irm bun.sh/install.ps1 | iex\"\n\n# with npm\nnpm install -g bun\n\n# with Homebrew\nbrew tap oven-sh/bun\nbrew install bun\n\n# with Docker\ndocker pull oven/bun\ndocker run --rm --init --ulimit memlock=-1:-1 oven/bun\n```\n\n### Upgrade\n\nTo upgrade to the latest version of Bun, run:\n\n```sh\nbun upgrade\n```\n\nBun automatically releases a canary build on every commit to `main`. To upgrade to the latest canary build, run:\n\n```sh\nbun upgrade --canary\n```\n\n[View canary build](https://github.com/oven-sh/b",
-  "generatedAt": "2026-05-20T13:45:00.208Z",
+  "generatedAt": "2026-05-21T01:30:29.347Z",
   "analysis": {
     "oneLine": "bun 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
     "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
     "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
     "detailParagraphs": [
       "bun 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
-      "如果把它放进实际使用场景，bun 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 92,119，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，bun 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 92,145，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

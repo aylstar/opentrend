@@ -4,59 +4,70 @@
   "repo": "hackingtool",
   "name": "hackingtool",
   "fullName": "Z4nzu/hackingtool",
-  "description": "GitHub Trending 上榜项目，详细能力需要进一步核对 README 和官方文档。",
+  "description": "ALL IN ONE Hacking Tool For Hackers",
   "language": "Python",
   "githubUrl": "https://github.com/Z4nzu/hackingtool",
-  "docsUrl": "",
-  "stars": 17621,
-  "forks": 0,
-  "openIssues": 0,
-  "license": "",
-  "pushedAt": "",
-  "updatedAt": "",
-  "createdAt": "",
+  "docsUrl": "https://img.shields.io/badge/Install_Now-00FF88?style=for-the-badge&logo=rocket&logoColor=black",
+  "stars": 75814,
+  "forks": 8547,
+  "openIssues": 108,
+  "license": "MIT",
+  "pushedAt": "2026-03-15T14:33:08Z",
+  "updatedAt": "2026-05-21T01:26:53Z",
+  "createdAt": "2020-04-11T09:21:31Z",
   "archived": false,
   "trendWindows": [
     "monthly"
   ],
   "tags": [
-    "值得跟踪"
+    "开发工具",
+    "NAS",
+    "自部署",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
   ],
-  "recommendation": 2.35242,
-  "readmeExcerpt": "",
-  "generatedAt": "2026-05-20T13:45:01.234Z",
+  "recommendation": 2.7,
+  "readmeExcerpt": "<div align=\"center\">\n\n<img src=\"images/logo.svg\" alt=\"HackingTool\" width=\"600\">\n\n<p><b>All-in-One Hacking Tool for Security Researchers & Pentesters</b></p>\n\n[![License](https://img.shields.io/github/license/Z4nzu/hackingtool)](LICENSE)&nbsp;\n[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)&nbsp;\n[![Version](https://img.shields.io/badge/v2.0.0-00FF88?style=flat-square)](#)&nbsp;\n[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;\n[![Forks](https://img.shields.io/github/forks/Z4nzu/hackingtool?style=flat-square&color=blue)](https://github.com/Z4nzu/hackingtool/network/members)&nbsp;\n[![Issues](https://img.shields.io/github/issues/Z4nzu/hackingtool?style=flat-square&color=red)](https://github.com/Z4nzu/hackingtool/issues)&nbsp;\n[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=flat-square&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)\n\n![](https://img.shields.io/badge/20_Categories-7B61FF?style=for-the-badge)\n![](https://img.shields.io/badge/185+_Tools-00FF88?style=for-the-badge)\n![](https://img.shields.io/badge/19_Tags-FF61DC?style=for-the-badge)\n![](https://img.shields.io/badge/Linux_%7C_Kali_%7C_Parrot_%7C_macOS-FFA116?style=for-the-badge&logo=linux&logoColor=white)\n\n<a href=\"#installation\"><img src=\"https://img.shields.io/badge/Install_Now-00FF88?style=for-the-badge&logo=rocket&logoColor=black\" alt=\"Install Now\"></a>&nbsp;\n<a href=\"#quick-commands\"><img src=\"https://img.shields.io/badge/Quick_Commands-7B61FF?style=for-the-badge&logo=terminal&logoColor=white\" alt=\"Quick Commands\"></a>&nbsp;\n<a href=\"https://github.com/Z4nzu/hackingtool/issues/new?template=tool_request.md\"><img src=\"https://img.shields.io/badge/Suggest_a_Tool-FF61DC?style=for-the-badge&logo=plus&logoColor=white\" alt=\"Suggest a Tool\"></a>\n\n</div>\n\n---\n\n\n## What's New in v2.0.0\n\n<table>\n<tr><td>\n\n| | Feature | Description |\n|:---:|---|---|\n| **🐍** | **Python 3.10+** | All Python 2 code removed, modern syntax throughout |\n| **🖥** | **OS-aware menus** | Linux-only tools hidden automatically on macOS |\n| **📦** | **185+ tools** | 35 new modern tools added across 6 categories |\n| **🔍** | **Search** | Type `/` to search all tools by name, description, or keyword |\n| **🏷** | **Tag filter** | Type `t` to filter by 19 tags — osint, web, c2, cloud, mobile... |\n| **💡** | **Recommend** | Type `r` — \"I want to scan a network\" → shows relevant tools |\n| **✅** | **Install status** | ✔/✘ shown next to every tool — know what's ready |\n| **⚡** | **Install all** | Option `97` in any category — batch install at once |\n| **🔄** | **Smart update** | Each tool has Update — auto-detects git pull / pip upgrade / go install |\n| **📂** | **Open folder** | Jump into any tool's directory for manual inspection |\n| **🐳** | **Docker** | Builds locally — no unverified extern",
+  "generatedAt": "2026-05-21T01:30:32.149Z",
   "analysis": {
-    "oneLine": "hackingtool 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
-    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
-    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "oneLine": "hackingtool 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
+    "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
+    "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
-      "hackingtool 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，hackingtool 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 17,621，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
-      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+      "hackingtool 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
+      "如果把它放进实际使用场景，hackingtool 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 75,814，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
-      "公开信息风险排查",
-      "账号暴露核查",
-      "安全培训演示",
-      "企业攻击面初筛"
+      "文献阅读工作流",
+      "研究资料整理",
+      "行业报告素材管理",
+      "AI 辅助研究流程"
     ],
     "interpretation": "hackingtool 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
     "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
-    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
-    "deployment": "重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
-    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
-    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "installGuide": "git clone https://github.com/Z4nzu/hackingtool.git\ndocker build -t hackingtool .\ndocker run -it --rm hackingtool\ndocker compose up -d\ndocker exec -it hackingtool bash",
+    "deployment": "具备 Docker Compose 线索，适合进一步评估 NAS 或服务器私有化部署。",
+    "commercialValue": "适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在改善文献检索、阅读、整理和研究输出流程，并减少从零选型和重复开发的时间。",
     "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
     "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
     "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
-    "risk": "近期活跃度可能不足；此外，风险主要是合规、隐私和误报，需要配套人工复核机制。",
-    "recommendation": 2.35242,
+    "risk": "近期活跃度可能不足；此外，风险在于不同研究场景差异较大，自动化效果需要真实任务验证。",
+    "recommendation": 2.7,
     "tags": [
-      "值得跟踪"
+      "开发工具",
+      "NAS",
+      "自部署",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
     ],
     "source": "rule-based-readme-analysis"
   },
   "nasUrl": "https://files.qiyuebao.xyz/opentrend/projects/z4nzu__hackingtool/z4nzu__hackingtool-2026-05-20.zip",
   "nasSyncedAt": "2026-05-20T16:03:14.915Z",
-  "nasArchiveSize": 1051169
+  "nasArchiveSize": 1051169,
+  "firstSeenAt": "2026-05-21T01:30:32.150Z"
 }

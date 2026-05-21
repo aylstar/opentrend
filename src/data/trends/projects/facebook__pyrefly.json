@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/facebook/pyrefly",
   "docsUrl": "http://pyrefly.org/",
-  "stars": 6324,
-  "forks": 371,
-  "openIssues": 570,
+  "stars": 6351,
+  "forks": 374,
+  "openIssues": 578,
   "license": "MIT",
-  "pushedAt": "2026-05-20T10:12:29Z",
-  "updatedAt": "2026-05-20T13:40:43Z",
+  "pushedAt": "2026-05-21T00:58:47Z",
+  "updatedAt": "2026-05-21T01:20:00Z",
   "createdAt": "2025-02-19T21:09:33Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "# Pyrefly: A fast type checker and language server for Python with powerful IDE features\n\n[![pyrefly](https://img.shields.io/endpoint?url=https://pyrefly.org/badge.json)](https://github.com/facebook/pyrefly)\n[![PyPI](https://img.shields.io/pypi/v/pyrefly?color=blue&label=pypi)](https://pypi.python.org/pypi/pyrefly)\n[![VS Code](https://img.shields.io/badge/VS%20Code-Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=meta.pyrefly)\n[![Open VSX](https://img.shields.io/open-vsx/dt/meta/pyrefly?color=blue&label=Open%20VSX)](https://open-vsx.org/extension/meta/pyrefly)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/Cf7mFQtW7W)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)\n\nPyrefly is a type checker and language server for Python, which provides\nlightning-fast type checking along with IDE features such as code navigation,\nsemantic highlighting, and code completion. It is available as a\n[command-line tool](https://pyrefly.org/en/docs/installation/) and an extension\nfor popular IDEs and editors such as\n[VSCode](https://marketplace.visualstudio.com/items?itemName=meta.pyrefly),\n[Neovim](https://pyrefly.org/en/docs/IDE/#neovim),\n[Zed](https://zed.dev/extensions/pyrefly), and\n[more](https://pyrefly.org/en/docs/IDE/).\n\nSee the [Pyrefly website](https://pyrefly.org) for full documentation and how to\nadd Pyrefly to your editor of choice.\n\nPyrefly's current development status is [stable](https://github.com/facebook/pyrefly/releases/tag/1.0.0).\n\n### Key Features\n\n- **Fast.** Pyrefly checks over 1.85 million lines of code per second, type checking projects like PyTorch 15x faster than Mypy and Pyright. In the IDE, rechecks typically complete in under 10 milliseconds after saving a file.\n- **Production-proven at scale.** Pyrefly is the default type checker for Instagram's 20-million-line Python codebase at Meta, and has been adopted by large open source projects including PyTorch and JAX.\n- **Full-featured language server.** Code navigation, autocomplete, hover information, inlay hints, semantic highlighting, and more, with consistent results across the CLI and your editor of choice.\n- **Understands real-world Python.** Built-in support for frameworks like [Pydantic](https://pyrefly.org/en/docs/pydantic/) and [Django](https://pyrefly.org/en/docs/django/), with model validation, field types, and autocomplete that work out of the box.\n- **Adoption-ready.** Migrate from Mypy or Pyright with `pyrefly init`, silence existing errors with `pyrefly suppress`, and generate type annotations with `pyrefly infer`. Start with one file and expand at your own pace.\n\n### Getting Started\n\n- Try out pyrefly in your browser: [Sandbox](https://pyrefly.org/sandbox/)\n- Get the command-line tool: `pip install pyrefly`\n- Get the IDE extension: [IDE installation page](https://pyrefly.org/en/docs/IDE/)\n\n### Version Policy\n\nPyrefly releases new mino",
-  "generatedAt": "2026-05-20T13:45:00.317Z",
+  "generatedAt": "2026-05-21T01:30:29.712Z",
   "analysis": {
     "oneLine": "pyrefly 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
     "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
     "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
     "detailParagraphs": [
       "pyrefly 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
-      "如果把它放进实际使用场景，pyrefly 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 6,324，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，pyrefly 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 6,351，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
