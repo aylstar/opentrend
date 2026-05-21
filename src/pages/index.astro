@@ -18,8 +18,6 @@ const pick = (slugs: string[] = []) =>
 const weekly = latest ? pick(latest.sections.weekly) : [];
 const monthly = latest ? pick(latest.sections.monthly) : [];
 const latestProjects = latest ? pick(latest.projectSlugs) : [];
-const nasMirrorCount = latestProjects.filter(project => Boolean(project.nasUrl)).length;
-const topWeekly = weekly[0];
 const newsReports = getNewsReports();
 const latestNews = newsReports[0];
 const newsMap = getNewsItemMap();
@@ -40,78 +38,51 @@ const opportunityCount = latestProjects.filter(project => project.recommendation
   description="面向个人订阅的信息概况、趋势报告和项目数据库"
 >
   <main id="main-content">
-    <section class="trend-container trend-home-hero">
-      <div class="trend-home-copy">
-        <p class="trend-eyebrow">Personal Intelligence Desk</p>
-        <h1 class="trend-home-title">今日趋势驾驶舱</h1>
-        <p class="trend-home-lead">
-          用更轻的方式汇总新闻环境、兴趣注意力和科技项目，把分散信息压缩成每天可以快速判断的趋势面板。
-        </p>
-        <div class="trend-home-actions">
-          <a class="trend-button primary" href="/news/">查看新闻雷达</a>
-          <a class="trend-button" href="/youtube/">查看兴趣雷达</a>
-          <a class="trend-button" href={latest ? `/trends/${latest.slug}/` : "/trends/"}>查看科技雷达</a>
-          <a class="trend-button" href="/library/">信息库</a>
-          <a class="trend-button" href="/settings/">个人设置</a>
+    <section class="trend-container trend-dashboard">
+      <div class="trend-dashboard-header">
+        <div>
+          <p class="trend-eyebrow">Trend Command Center</p>
+          <h1 class="trend-dashboard-title">今日趋势驾驶舱</h1>
         </div>
-        <div class="trend-home-feed" aria-label="今日信息模块">
-          <a class="trend-home-feed-card" href="/news/">
-            <span>新闻 Top</span>
-            <h2>{latestNews ? "新闻趋势已更新" : "待接入"}</h2>
-            <p>{latestNews ? "全球新闻与 AI 科技信号已生成中文榜单，可进入详情页查看。" : "后续汇总政策、科技、金融和产业新闻，把高频变化压缩成可读清单。"}</p>
-          </a>
-          <a class="trend-home-feed-card" href="/youtube/">
-            <span>兴趣雷达</span>
-            <h2>{youtubeNews.length ? "YouTube 热点已更新" : "等待数据"}</h2>
-            <p>{youtubeNews.length ? "YouTube Top 10 已独立成模块，X 趋势预留为下一步接入。" : "配置 YouTube API 后自动展示热门视频 Top 10。"}</p>
-          </a>
-          <a class="trend-home-feed-card" href={latest ? `/trends/${latest.slug}/` : "/trends/"}>
-            <span>科技雷达</span>
-            <h2>开源趋势已更新</h2>
-            <p>周榜、月榜、中文解读和 NAS 镜像已同步，可查看今日项目变化。</p>
-          </a>
-        </div>
+        <p class="trend-dashboard-meta">{latest ? formatTrendDate(latest.date) : "等待生成"}</p>
       </div>
 
-      <aside class="trend-home-card" aria-label="今日信息概览">
-        <div class="trend-home-card-head">
-          <span>今日概况</span>
-          <strong>{latest ? formatTrendDate(latest.date) : "等待生成"}</strong>
+      <dl class="trend-dashboard-metrics" aria-label="今日趋势指标">
+        <div>
+          <dt>今日信号</dt>
+          <dd>{signalCount}</dd>
         </div>
-        <dl class="trend-home-metrics">
-          <div>
-            <dt>今日信号</dt>
-            <dd>{signalCount}</dd>
-          </div>
-          <div>
-            <dt>新闻</dt>
-            <dd>{latestNews ? latestNews.stats.globalItems + latestNews.stats.techItems : 0}</dd>
-          </div>
-          <div>
-            <dt>兴趣</dt>
-            <dd>{youtubeNews.length}</dd>
-          </div>
-          <div>
-            <dt>机会</dt>
-            <dd>{opportunityCount}</dd>
-          </div>
-        </dl>
-        <div class="trend-home-highlights">
-          <div>
-            <span>新闻模块</span>
-            <strong>{latestNews ? "新闻雷达已接入" : "暂无"}</strong>
-          </div>
-          <div>
-            <span>兴趣雷达</span>
-            <strong>{youtubeNews[0]?.chineseTitle ?? "暂无"}</strong>
-          </div>
-          <div>
-            <span>科技雷达</span>
-            <strong>{topWeekly ? topWeekly.repo : "暂无"}</strong>
-          </div>
+        <div>
+          <dt>新闻</dt>
+          <dd>{latestNews ? latestNews.stats.globalItems + latestNews.stats.techItems : 0}</dd>
         </div>
-        <p class="trend-home-note">首页按照新闻、兴趣、科技的顺序组织，分别对应外部环境、大众注意力和技术项目三层信号。</p>
-      </aside>
+        <div>
+          <dt>兴趣</dt>
+          <dd>{youtubeNews.length}</dd>
+        </div>
+        <div>
+          <dt>机会</dt>
+          <dd>{opportunityCount}</dd>
+        </div>
+      </dl>
+
+      <div class="trend-module-grid" aria-label="核心雷达模块">
+        <a class="trend-module-card is-news" href="/news/">
+          <span>新闻雷达</span>
+          <strong>{latestNews ? `${latestNews.stats.globalItems + latestNews.stats.techItems} 条新闻信号` : "等待数据"}</strong>
+          <p>全球新闻与 AI 科技新闻排行</p>
+        </a>
+        <a class="trend-module-card is-interest" href="/youtube/">
+          <span>兴趣雷达</span>
+          <strong>{youtubeNews.length ? `${youtubeNews.length} 条注意力信号` : "等待数据"}</strong>
+          <p>YouTube 热门视频，X 趋势待接入</p>
+        </a>
+        <a class="trend-module-card is-tech" href="/trends/">
+          <span>科技雷达</span>
+          <strong>{latest ? `${latest.stats.totalProjects} 个开源项目` : "等待数据"}</strong>
+          <p>GitHub 周榜、月榜与项目详情</p>
+        </a>
+      </div>
     </section>
 
     {
@@ -122,7 +93,7 @@ const opportunityCount = latestProjects.filter(project => project.recommendation
               <p class="trend-eyebrow">News Intelligence</p>
               <h2>新闻雷达</h2>
             </div>
-            <a href="/news/">查看新闻报告</a>
+            <a href="/news/">进入新闻雷达</a>
           </div>
           <div class="trend-rank-grid">
             <NewsRankBoard title="全球新闻 Top 10" subtitle="GDELT / BBC / Guardian" items={globalNews} />
@@ -140,7 +111,7 @@ const opportunityCount = latestProjects.filter(project => project.recommendation
               <p class="trend-eyebrow">Attention Radar</p>
               <h2>兴趣雷达</h2>
             </div>
-            <a href="/youtube/">查看兴趣雷达</a>
+            <a href="/youtube/">进入兴趣雷达</a>
           </div>
           <div class="trend-rank-grid">
             <NewsRankBoard
@@ -162,7 +133,7 @@ const opportunityCount = latestProjects.filter(project => project.recommendation
               <p class="trend-eyebrow">Open Source</p>
               <h2>科技雷达</h2>
             </div>
-            <a href={`/trends/${latest.slug}/`}>查看科技报告</a>
+            <a href="/trends/">进入科技雷达</a>
           </div>
           <div class="trend-rank-grid">
             <RankBoard title="周趋势排名" subtitle="按 GitHub 周榜顺序展示" projects={weekly} />
@@ -179,27 +150,5 @@ const opportunityCount = latestProjects.filter(project => project.recommendation
       )
     }
 
-    <section class="trend-container trend-section trend-home-feature-section">
-      <div class="trend-section-heading">
-        <div>
-          <p class="trend-eyebrow">Current Modules</p>
-          <h2>当前接入能力</h2>
-        </div>
-      </div>
-        <div class="trend-card-grid">
-        <div class="trend-panel trend-feature-card">
-          <h2>快速判断</h2>
-          <p>把新闻、兴趣和科技项目压缩成可扫描的榜单，优先看变化，再进入详情页做判断。</p>
-        </div>
-        <div class="trend-panel trend-feature-card">
-          <h2>NAS 镜像</h2>
-          <p>已同步 {nasMirrorCount} 个项目源码包到国内 NAS 链接，减少 GitHub 访问不稳定带来的使用阻力。</p>
-        </div>
-        <div class="trend-panel trend-feature-card">
-          <h2>持续沉淀</h2>
-          <p>每日任务自动完成抓取、归档、构建和发布，让项目库保持可追踪、可复用。</p>
-        </div>
-      </div>
-    </section>
   </main>
 </TrendShell>
