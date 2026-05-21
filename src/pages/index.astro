@@ -17,7 +17,6 @@ const pick = (slugs: string[] = []) =>
 
 const weekly = latest ? pick(latest.sections.weekly) : [];
 const monthly = latest ? pick(latest.sections.monthly) : [];
-const latestProjects = latest ? pick(latest.projectSlugs) : [];
 const newsReports = getNewsReports();
 const latestNews = newsReports[0];
 const newsMap = getNewsItemMap();
@@ -26,11 +25,6 @@ const pickNews = (ids: string[] = []) =>
 const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
 const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 10) : [];
-const signalCount =
-  (latestNews ? latestNews.stats.globalItems + latestNews.stats.techItems : 0) +
-  (latest?.stats.totalProjects ?? 0) +
-  youtubeNews.length;
-const opportunityCount = latestProjects.filter(project => project.recommendation >= 2.7).length;
 ---
 
 <TrendShell
@@ -46,25 +40,6 @@ const opportunityCount = latestProjects.filter(project => project.recommendation
         </div>
         <p class="trend-dashboard-meta">{latest ? formatTrendDate(latest.date) : "等待生成"}</p>
       </div>
-
-      <dl class="trend-dashboard-metrics" aria-label="今日趋势指标">
-        <div>
-          <dt>今日信号</dt>
-          <dd>{signalCount}</dd>
-        </div>
-        <div>
-          <dt>新闻</dt>
-          <dd>{latestNews ? latestNews.stats.globalItems + latestNews.stats.techItems : 0}</dd>
-        </div>
-        <div>
-          <dt>兴趣</dt>
-          <dd>{youtubeNews.length}</dd>
-        </div>
-        <div>
-          <dt>机会</dt>
-          <dd>{opportunityCount}</dd>
-        </div>
-      </dl>
 
       <div class="trend-module-grid" aria-label="核心雷达模块">
         <a class="trend-module-card is-news" href="/news/">
