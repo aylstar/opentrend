@@ -1,0 +1,78 @@
+---
+import TrendShell from "@/components/trends/TrendShell.astro";
+import NewsRankBoard from "@/components/news/NewsRankBoard.astro";
+import { formatNewsDate, getNewsItemMap, getNewsReports } from "@/lib/news";
+import type { NewsItem } from "@/lib/news";
+
+const reports = getNewsReports();
+const latest = reports[0];
+const itemMap = getNewsItemMap();
+const pick = (ids: string[] = []) =>
+  ids.map(id => itemMap.get(id)).filter((item): item is NewsItem => Boolean(item));
+
+const youtubeItems = latest ? pick(latest.sections.youtube).slice(0, 10) : [];
+const totalViews = youtubeItems.reduce((sum, item) => sum + (item.viewCount ?? 0), 0);
+const translatedItems = youtubeItems.filter(item => item.translationStatus === "translated").length;
+---
+
+<TrendShell title="YouTube 热门视频" description="YouTube 每日热门视频 Top 10 中文趋势摘要">
+  <main id="main-content">
+    <section class="trend-container trend-report-header">
+      <div class="trend-report-title-block">
+        <p class="trend-eyebrow">Attention Radar</p>
+        <h1 class="trend-report-title">YouTube 热门视频</h1>
+        <p class="trend-report-subtitle">
+          {latest ? `${formatNewsDate(latest.date)} · Top 10 · YouTube Data API` : "等待生成 YouTube 数据"}
+        </p>
+      </div>
+    </section>
+
+    {
+      latest && youtubeItems.length ? (
+        <>
+          <section class="trend-container trend-brief">
+            <div class="trend-observation">
+              <span>今日观察</span>
+              <p>本期纳入 {youtubeItems.length} 条 YouTube 热门视频，用于观察大众注意力、内容叙事和跨平台选题机会。</p>
+            </div>
+            <dl class="trend-report-metrics">
+              <div><dt>视频</dt><dd>{youtubeItems.length}</dd></div>
+              <div><dt>总播放</dt><dd>{totalViews.toLocaleString("en-US")}</dd></div>
+              <div><dt>中文</dt><dd>{translatedItems}</dd></div>
+            </dl>
+            <div class="trend-tag-strip">
+              <span>YouTube</span>
+              <span>Most Popular</span>
+              <span>Top 10</span>
+            </div>
+          </section>
+
+          <section class="trend-container trend-section trend-rank-section">
+            <div class="trend-rank-grid">
+              <NewsRankBoard
+                title="YouTube 热门视频 Top 10"
+                subtitle="YouTube Data API / Most Popular"
+                items={youtubeItems}
+                basePath="/youtube/items"
+              />
+            </div>
+          </section>
+
+          <section class="trend-container trend-section">
+            <div class="trend-panel trend-feature-card">
+              <h2>今日结论</h2>
+              <p>YouTube 模块作为独立的大众注意力层，适合和新闻、GitHub 项目趋势分开观察，避免把视频热度误认为新闻事实或技术趋势。</p>
+            </div>
+          </section>
+        </>
+      ) : (
+        <section class="trend-container trend-section">
+          <div class="trend-panel trend-feature-card">
+            <h2>暂无 YouTube 数据</h2>
+            <p>需要在 GitHub Actions 中配置 YOUTUBE_API_KEY，定时任务运行后这里会展示 YouTube 热门视频 Top 10。</p>
+          </div>
+        </section>
+      )
+    }
+  </main>
+</TrendShell>

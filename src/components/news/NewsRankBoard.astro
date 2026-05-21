@@ -5,9 +5,10 @@ type Props = {
   title: string;
   subtitle: string;
   items: NewsItem[];
+  basePath?: string;
 };
 
-const { title, subtitle, items } = Astro.props;
+const { title, subtitle, items, basePath = "/news/items" } = Astro.props;
 const rankTier = (index: number) => {
   if (index === 0) return "gold";
   if (index === 1) return "silver";
@@ -28,7 +29,7 @@ const rankTier = (index: number) => {
     {
       items.map((item, index) => (
         <a
-          href={`/news/items/${item.slug}/`}
+          href={`${basePath}/${item.slug}/`}
           class:list={["trend-rank-item", index < 3 ? "is-featured" : "", `rank-${rankTier(index)}`]}
           style={`--rank-width: ${Math.max(18, item.score)}%; --rank-delay: ${index * 45}ms`}
         >
