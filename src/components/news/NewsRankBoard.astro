@@ -1,0 +1,50 @@
+---
+import type { NewsItem } from "@/lib/news";
+
+type Props = {
+  title: string;
+  subtitle: string;
+  items: NewsItem[];
+};
+
+const { title, subtitle, items } = Astro.props;
+const rankTier = (index: number) => {
+  if (index === 0) return "gold";
+  if (index === 1) return "silver";
+  if (index === 2) return "bronze";
+  return "plain";
+};
+---
+
+<section class="trend-panel trend-rank-board">
+  <div class="trend-rank-board-header">
+    <div>
+      <h2>{title}</h2>
+      <p>{subtitle} · 点击查看中文解读</p>
+    </div>
+    <span class="trend-board-count">{items.length} items</span>
+  </div>
+  <div class="trend-rank-list">
+    {
+      items.map((item, index) => (
+        <a
+          href={`/news/items/${item.slug}/`}
+          class:list={["trend-rank-item", index < 3 ? "is-featured" : "", `rank-${rankTier(index)}`]}
+          style={`--rank-width: ${Math.max(18, item.score)}%; --rank-delay: ${index * 45}ms`}
+        >
+          <span class="trend-rank-no">
+            <span>{String(index + 1).padStart(2, "0")}</span>
+          </span>
+          <span class="trend-rank-main">
+            <span class="trend-rank-name">{item.chineseTitle || item.originalTitle}</span>
+            <span class="trend-rank-author">{item.source}</span>
+          </span>
+          <span class="trend-star-count">
+            <span>{item.translationStatus === "translated" ? "中" : "原"}</span>
+            {item.score}
+          </span>
+        </a>
+      ))
+    }
+  </div>
+</section>

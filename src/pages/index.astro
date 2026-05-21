@@ -1,8 +1,11 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
 import RankBoard from "@/components/trends/RankBoard.astro";
+import NewsRankBoard from "@/components/news/NewsRankBoard.astro";
 import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
+import { getNewsItemMap, getNewsReports } from "@/lib/news";
+import type { NewsItem } from "@/lib/news";
 
 const reports = getTrendReports();
 const latest = reports[0];
@@ -18,6 +21,13 @@ const latestProjects = latest ? pick(latest.projectSlugs) : [];
 const nasMirrorCount = latestProjects.filter(project => Boolean(project.nasUrl)).length;
 const topWeekly = weekly[0];
 const topMonthly = monthly[0];
+const newsReports = getNewsReports();
+const latestNews = newsReports[0];
+const newsMap = getNewsItemMap();
+const pickNews = (ids: string[] = []) =>
+  ids.map(id => newsMap.get(id)).filter((item): item is NewsItem => Boolean(item));
+const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
+const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
 ---
 
 <TrendShell
@@ -45,11 +55,11 @@ const topMonthly = monthly[0];
             <h2>GitHub 趋势已更新</h2>
             <p>周榜、月榜、中文解读和 NAS 镜像已同步，可查看今日项目变化。</p>
           </a>
-          <div class="trend-home-feed-card is-muted">
+          <a class="trend-home-feed-card" href="/news/">
             <span>新闻 Top</span>
-            <h2>待接入</h2>
-            <p>后续汇总政策、科技、金融和产业新闻，把高频变化压缩成可读清单。</p>
-          </div>
+            <h2>{latestNews ? "新闻趋势已更新" : "待接入"}</h2>
+            <p>{latestNews ? "全球新闻与 AI 科技信号已生成中文榜单，可进入详情页查看。" : "后续汇总政策、科技、金融和产业新闻，把高频变化压缩成可读清单。"}</p>
+          </a>
           <div class="trend-home-feed-card is-muted">
             <span>X 趋势</span>
             <h2>待接入</h2>
@@ -92,7 +102,7 @@ const topMonthly = monthly[0];
           </div>
           <div>
             <span>新增模块</span>
-            <strong>新闻 Top / X 趋势</strong>
+            <strong>{latestNews ? "新闻雷达已接入" : "新闻 Top / X 趋势"}</strong>
           </div>
         </div>
         <p class="trend-home-note">当前开源项目模块已自动运行；新闻 Top 和 X 趋势保留入口，后续可按订阅需求接入。</p>
@@ -122,6 +132,24 @@ const topMonthly = monthly[0];
           </div>
         </section>
       )
+    }
+
+    {
+      latestNews ? (
+        <section class="trend-container trend-section trend-home-ranks">
+          <div class="trend-section-heading">
+            <div>
+              <p class="trend-eyebrow">News Intelligence</p>
+              <h2>新闻趋势雷达</h2>
+            </div>
+            <a href="/news/">查看新闻报告</a>
+          </div>
+          <div class="trend-rank-grid">
+            <NewsRankBoard title="全球新闻 Top 10" subtitle="GDELT / BBC / Guardian" items={globalNews} />
+            <NewsRankBoard title="AI 科技 Top 10" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techNews} />
+          </div>
+        </section>
+      ) : null
     }
 
     <section class="trend-container trend-section trend-home-feature-section">

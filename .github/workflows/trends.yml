@@ -39,6 +39,13 @@ jobs:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
 
+      - name: Generate news report
+        run: pnpm news:run
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+
       - name: Generate X regional trends
         if: ${{ env.X_BEARER_TOKEN != '' }}
         run: pnpm trends:x
@@ -54,4 +61,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: generate daily trend report"
-          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl"
+          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl src/data/news/**/*.json src/data/news/**/*.jsonl"

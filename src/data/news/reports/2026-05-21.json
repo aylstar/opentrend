@@ -1,0 +1,70 @@
+{
+  "slug": "2026-05-21",
+  "date": "2026-05-21",
+  "title": "2026-05-21 新闻趋势雷达",
+  "description": "全球新闻 Top 20 与 AI 科技 Top 20 中文摘要。",
+  "generatedAt": "2026-05-21T09:16:29.383Z",
+  "stats": {
+    "totalItems": 40,
+    "globalItems": 20,
+    "techItems": 20,
+    "translatedItems": 40
+  },
+  "sections": {
+    "global": [
+      "bbc-efceefc0",
+      "bbc-610041dd",
+      "bbc-c77cd62b",
+      "bbc-67d193bc",
+      "bbc-4d83d7a",
+      "bbc-68707759",
+      "bbc-4afe7c00",
+      "bbc-cd424b35",
+      "guardian-7a870963",
+      "guardian-57eb061d",
+      "guardian-f073b7f4",
+      "guardian-75082edd",
+      "guardian-694f8a16",
+      "guardian-dcc021ce",
+      "guardian-8c07640b",
+      "guardian-3c2b1d72",
+      "bbc-4b7cf038",
+      "bbc-5af773d2",
+      "bbc-18875da7",
+      "bbc-4d5e7269"
+    ],
+    "aiTech": [
+      "hacker-news-b901c652",
+      "hacker-news-63013bbc",
+      "product-hunt-1cfd7cd1",
+      "product-hunt-990436c9",
+      "product-hunt-39439c63",
+      "product-hunt-49a1a0d9",
+      "product-hunt-b0667b85",
+      "product-hunt-964c2e2a",
+      "hacker-news-341302fb",
+      "hacker-news-9f22969d",
+      "hacker-news-23ee5ae5",
+      "hacker-news-fbd46dfe",
+      "hacker-news-36ba3988",
+      "product-hunt-1f7923a",
+      "the-verge-3f181214",
+      "the-verge-c59aae4e",
+      "the-verge-43ff80d0",
+      "the-verge-187ffb8f",
+      "the-verge-e891ca06",
+      "the-verge-1752f3a7"
+    ]
+  },
+  "sources": [
+    "BBC",
+    "Guardian",
+    "Hacker News",
+    "Product Hunt",
+    "The Verge"
+  ],
+  "summary": {
+    "overview": "本期纳入 20 条全球新闻与 20 条 AI 科技信号。",
+    "conclusion": "建议把新闻模块作为趋势雷达的外部环境层，与 GitHub 项目趋势交叉观察。"
+  }
+}

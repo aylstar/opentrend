@@ -1,0 +1,6 @@
+{"type":"source_error","at":"2026-05-21T09:07:32.203Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"news_report_generated","at":"2026-05-21T09:07:32.212Z","date":"2026-05-21","total":40,"global":20,"aiTech":20}
+{"type":"source_error","at":"2026-05-21T09:13:37.452Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"429 Too Many Requests"}
+{"type":"news_report_generated","at":"2026-05-21T09:13:37.466Z","date":"2026-05-21","total":40,"global":20,"aiTech":20}
+{"type":"source_error","at":"2026-05-21T09:16:12.893Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"news_report_generated","at":"2026-05-21T09:16:29.383Z","date":"2026-05-21","total":40,"global":20,"aiTech":20}

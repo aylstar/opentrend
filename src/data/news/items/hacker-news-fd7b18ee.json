@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+  "summary": "817 points · 332 comments",
+  "content": "Previous thread in sequence: GitHub is investigating unauthorized access to their internal repositories - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316 - May 2026 (321 comments)",
+  "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+  "publishedAt": "2026-05-20T13:43:37.000Z",
+  "points": 817,
+  "id": "hacker-news-fd7b18ee",
+  "slug": "hacker-news-fd7b18ee",
+  "fetchedAt": "2026-05-21T09:07:32.209Z",
+  "score": 70,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 9,
+  "chineseTitle": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+  "chineseSummary": "817 points · 332 comments",
+  "chineseContent": "Previous thread in sequence: GitHub is investigating unauthorized access to their internal repositories - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201316 - May 2026 (321 comments)",
+  "whyItMatters": "该条目属于 AI 与科技趋势信号，适合用于工具选型、技术观察和产品机会判断。",
+  "translationStatus": "fallback"
+}
