@@ -6,7 +6,16 @@ type Props = {
   description?: string;
 };
 
-const { title = "开源趋势情报", description = "面向国内用户的开源项目趋势报告" } = Astro.props;
+const { title = "趋势雷达", description = "面向国内用户的信息趋势报告" } = Astro.props;
+const pathname = Astro.url.pathname;
+const isHome = pathname === "/";
+const navItems = [
+  { label: "新闻雷达", href: "/news/", match: "/news/" },
+  { label: "兴趣雷达", href: "/youtube/", match: "/youtube/" },
+  { label: "科技雷达", href: "/trends/", match: "/trends/" },
+  { label: "信息库", href: "/library/", match: "/library/" },
+  { label: "个人设置", href: "/settings/", match: "/settings/" },
+];
 ---
 
 <Layout title={title} description={description}>
@@ -16,13 +25,22 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
         <span>趋势雷达</span>
       </a>
       <nav class="trend-nav-links" aria-label="产品导航">
-        <a href="/news/">新闻雷达</a>
-        <a href="/youtube/">YouTube</a>
-        <a href="/trends/">GitHub 趋势</a>
-        <a href="/projects/">项目库</a>
-        <a href="/settings/">个人设置</a>
+        {
+          navItems.map(item => (
+            <a href={item.href} aria-current={pathname.startsWith(item.match) ? "page" : undefined}>
+              {item.label}
+            </a>
+          ))
+        }
       </nav>
     </header>
+    {
+      !isHome && (
+        <div class="trend-return-bar">
+          <a href="/" class="trend-home-return">← 返回主界面</a>
+        </div>
+      )
+    }
     <slot />
   </div>
 </Layout>
@@ -101,6 +119,8 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
 
   .trend-nav-links {
     gap: 0.25rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
   }
 
   .trend-nav-links a {
@@ -113,6 +133,45 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
   .trend-nav-links a:hover {
     background: rgba(20, 24, 19, 0.06);
     color: var(--trend-ink);
+  }
+
+  @media (max-width: 720px) {
+    .trend-nav {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .trend-nav-links {
+      justify-content: flex-start;
+    }
+  }
+
+  .trend-nav-links a[aria-current="page"] {
+    background: rgba(15, 107, 84, 0.1);
+    color: var(--trend-accent);
+    font-weight: 750;
+  }
+
+  .trend-return-bar {
+    width: min(1180px, calc(100vw - 2rem));
+    margin: 0.85rem auto 0;
+  }
+
+  .trend-home-return {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid rgba(18, 20, 17, 0.1);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.72);
+    padding: 0.42rem 0.7rem;
+    color: var(--trend-muted);
+    font-size: 0.8125rem;
+    font-weight: 700;
+  }
+
+  .trend-home-return:hover {
+    background: rgba(15, 107, 84, 0.08);
+    color: var(--trend-accent);
   }
 
   .trend-container {

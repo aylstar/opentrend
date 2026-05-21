@@ -34,14 +34,14 @@ const contentStatusLabel: Record<string, string> = {
 };
 ---
 
-<TrendShell title={`${item.chineseTitle} | 新闻趋势雷达`} description={item.chineseSummary}>
+<TrendShell title={`${item.chineseTitle} | 新闻雷达`} description={item.chineseSummary}>
   <main id="main-content">
     <article>
       <header class="trend-container trend-project-hero">
         <div class="trend-project-copy">
           <nav class="trend-project-nav" aria-label="新闻层级导航">
             <a href="/news/" class="trend-back-link">← 返回新闻雷达</a>
-            <span>新闻雷达</span>
+            <span>新闻排行</span>
             {reportDate && <span>/</span>}
             {reportDate && <span>{reportDate}</span>}
             <span>/</span>

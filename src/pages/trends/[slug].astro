@@ -1,8 +1,7 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
 import RankBoard from "@/components/trends/RankBoard.astro";
-import XTrendBoard from "@/components/trends/XTrendBoard.astro";
-import { formatTrendDate, getTrendProjectMap, getTrendReports, getXTrendReport } from "@/lib/trends";
+import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
 
 export function getStaticPaths() {
@@ -14,7 +13,6 @@ export function getStaticPaths() {
 
 const { report } = Astro.props;
 const projectMap = getTrendProjectMap();
-const xTrendReport = getXTrendReport(report.slug);
 const reportDate = formatTrendDate(report.date);
 const pick = (slugs: string[]) =>
   slugs
@@ -35,13 +33,13 @@ const observation = topTags.length
   : "今日上榜项目以工具型项目为主，建议优先核查部署难度、许可证和国内访问依赖。";
 ---
 
-<TrendShell title={report.title} description={report.description}>
+<TrendShell title={`科技雷达 | ${report.title}`} description={report.description}>
   <main id="main-content">
     <article>
       <header class="trend-container trend-report-header">
         <div class="trend-report-title-block">
-          <a href="/trends/" class="trend-eyebrow">GitHub Intelligence</a>
-          <h1 class="trend-report-title">GitHub 趋势雷达</h1>
+          <a href="/trends/" class="trend-eyebrow">Technology Radar</a>
+          <h1 class="trend-report-title">科技雷达</h1>
           <p class="trend-report-subtitle">
             {reportDate} · 周榜 / 月榜 · {report.stats.totalProjects} 个项目
           </p>
@@ -82,8 +80,6 @@ const observation = topTags.length
           <RankBoard title="月趋势" subtitle="Top 10" projects={pick(report.sections.monthly)} />
         </div>
       </section>
-
-      <XTrendBoard report={xTrendReport} />
 
       <section class="trend-container trend-section">
         <h2 class="trend-section-title">本期最值得关注的 3 个项目</h2>

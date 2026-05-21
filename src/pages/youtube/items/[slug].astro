@@ -33,13 +33,13 @@ const contentStatusLabel: Record<string, string> = {
 };
 ---
 
-<TrendShell title={`${item.chineseTitle} | YouTube 热门视频`} description={item.chineseSummary}>
+<TrendShell title={`${item.chineseTitle} | 兴趣雷达`} description={item.chineseSummary}>
   <main id="main-content">
     <article>
       <header class="trend-container trend-project-hero">
         <div class="trend-project-copy">
-          <nav class="trend-project-nav" aria-label="YouTube 层级导航">
-            <a href="/youtube/" class="trend-back-link">← 返回 YouTube</a>
+          <nav class="trend-project-nav" aria-label="兴趣雷达层级导航">
+            <a href="/youtube/" class="trend-back-link">← 返回兴趣雷达</a>
             <span>YouTube 热门</span>
             {reportDate && <span>/</span>}
             {reportDate && <span>{reportDate}</span>}
@@ -90,7 +90,7 @@ const contentStatusLabel: Record<string, string> = {
             <h2>视频链接</h2>
             <div class="mt-3 grid gap-3">
               <a class="trend-button primary" href={item.url}>打开 YouTube</a>
-              <a class="trend-button" href="/youtube/">返回 YouTube</a>
+              <a class="trend-button" href="/youtube/">返回兴趣雷达</a>
             </div>
           </section>
         </aside>
