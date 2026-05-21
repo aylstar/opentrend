@@ -3,13 +3,13 @@
   "date": "2026-05-21",
   "title": "2026-05-21 新闻趋势雷达",
   "description": "全球新闻 Top 20 与 AI 科技 Top 20 中文摘要。",
-  "generatedAt": "2026-05-21T13:58:30.770Z",
+  "generatedAt": "2026-05-21T14:01:54.571Z",
   "stats": {
-    "totalItems": 40,
+    "totalItems": 50,
     "globalItems": 20,
     "techItems": 20,
-    "youtubeItems": 0,
-    "translatedItems": 40
+    "youtubeItems": 10,
+    "translatedItems": 50
   },
   "sections": {
     "global": [
@@ -21,14 +21,14 @@
       "bbc-2740ae2b",
       "bbc-67d193bc",
       "bbc-68707759",
+      "guardian-75082edd",
+      "guardian-f8f2f3f7",
+      "guardian-9d8bd847",
       "guardian-7a870963",
       "guardian-425a692e",
       "guardian-34186f25",
-      "guardian-75082edd",
       "guardian-ee53b7d",
       "guardian-db29dda7",
-      "guardian-3e4e599f",
-      "guardian-6d890529",
       "bbc-6a9b86a8",
       "bbc-4afe7c00",
       "bbc-cd424b35",
@@ -36,17 +36,17 @@
     ],
     "aiTech": [
       "hacker-news-b901c652",
-      "product-hunt-49a1a0d9",
-      "product-hunt-39439c63",
-      "product-hunt-b0667b85",
       "product-hunt-1cfd7cd1",
+      "product-hunt-b0667b85",
+      "product-hunt-39439c63",
+      "product-hunt-49a1a0d9",
       "product-hunt-990436c9",
       "hacker-news-5598de31",
       "hacker-news-36ba3988",
-      "hacker-news-7e23c833",
-      "product-hunt-5f12fda5",
-      "product-hunt-1f7923a",
       "hacker-news-5b7b4d86",
+      "hacker-news-7e23c833",
+      "product-hunt-c80094f0",
+      "product-hunt-1f7923a",
       "the-verge-ef352c5a",
       "the-verge-659fa1d1",
       "the-verge-42563160",
@@ -56,17 +56,29 @@
       "hacker-news-6cc20d54",
       "hacker-news-fd7b18ee"
     ],
-    "youtube": []
+    "youtube": [
+      "youtube-b0970d7e",
+      "youtube-8a7d29f9",
+      "youtube-bfca1ad6",
+      "youtube-3dfcaadc",
+      "youtube-779ce51e",
+      "youtube-5df83286",
+      "youtube-cac38032",
+      "youtube-fe954d82",
+      "youtube-8c714e0",
+      "youtube-af5e8785"
+    ]
   },
   "sources": [
     "BBC",
     "Guardian",
     "Hacker News",
     "Product Hunt",
-    "The Verge"
+    "The Verge",
+    "YouTube"
   ],
   "summary": {
-    "overview": "本期纳入 20 条全球新闻、20 条 AI 科技信号与 0 条 YouTube 热门视频。",
+    "overview": "本期纳入 20 条全球新闻、20 条 AI 科技信号与 10 条 YouTube 热门视频。",
     "conclusion": "建议把新闻模块作为趋势雷达的外部环境层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。"
   }
 }
