@@ -14,10 +14,22 @@ const sourceReport =
   getNewsReports().find(report => [...report.sections.global, ...report.sections.aiTech].includes(item.id)) ??
   getNewsReports()[0];
 const reportDate = sourceReport ? formatNewsDate(sourceReport.date) : "";
-const paragraphs = String(item.chineseContent || item.chineseSummary || "")
+const chineseParagraphs = String(item.chineseContent || item.chineseSummary || "")
   .split(/\n+/)
   .map(item => item.trim())
   .filter(Boolean);
+const englishParagraphs = String(item.content || item.summary || item.originalTitle || "")
+  .split(/\n+/)
+  .map(item => item.trim())
+  .filter(Boolean);
+const contentStatusLabel: Record<string, string> = {
+  "source-fulltext": "来源全文",
+  "article-extracted": "已抓取正文",
+  "summary-fallback": "摘要降级",
+  "fetch-failed": "抓取失败",
+  "non-html": "非网页内容",
+  "no-url": "无原文链接",
+};
 ---
 
 <TrendShell title={`${item.chineseTitle} | 新闻趋势雷达`} description={item.chineseSummary}>
@@ -37,6 +49,7 @@ const paragraphs = String(item.chineseContent || item.chineseSummary || "")
           <h1 class="trend-project-title">{item.chineseTitle || item.originalTitle}</h1>
           <p class="trend-project-author">{item.source} · {newsCategoryLabel(item.category)}</p>
           <p class="trend-project-summary">{item.chineseSummary}</p>
+          <p class="trend-project-author">英文标题：{item.originalTitle}</p>
           <div class="trend-project-tags" aria-label="新闻标签">
             {item.tags.map(tag => <span>{tag}</span>)}
           </div>
@@ -46,18 +59,18 @@ const paragraphs = String(item.chineseContent || item.chineseSummary || "")
       <section class="trend-container trend-detail-layout">
         <div class="trend-panel trend-detail-main">
           <section class="trend-detail-card trend-detail-intro">
-            <h2>中文解读</h2>
-            {paragraphs.length ? paragraphs.map(paragraph => <p>{paragraph}</p>) : <p>{item.chineseSummary}</p>}
+            <h2>中文内容</h2>
+            {chineseParagraphs.length ? chineseParagraphs.map(paragraph => <p>{paragraph}</p>) : <p>{item.chineseSummary}</p>}
           </section>
 
           <section class="trend-detail-card">
-            <h2>为什么值得关注</h2>
+            <h2>英文原文内容</h2>
+            {englishParagraphs.length ? englishParagraphs.map(paragraph => <p>{paragraph}</p>) : <p>{item.originalTitle}</p>}
+          </section>
+
+          <section class="trend-detail-card">
+            <h2>研究提示</h2>
             <p>{item.whyItMatters}</p>
-          </section>
-
-          <section class="trend-detail-card">
-            <h2>原始标题</h2>
-            <p>{item.originalTitle}</p>
           </section>
         </div>
 
@@ -68,6 +81,7 @@ const paragraphs = String(item.chineseContent || item.chineseSummary || "")
             <div class="trend-metric"><span>分类</span><strong>{newsCategoryLabel(item.category)}</strong></div>
             <div class="trend-metric"><span>评分</span><strong>{item.score}</strong></div>
             <div class="trend-metric"><span>翻译</span><strong>{item.translationStatus === "translated" ? "已翻译" : "原文降级"}</strong></div>
+            <div class="trend-metric"><span>正文</span><strong>{contentStatusLabel[item.contentStatus ?? ""] ?? "已收录"}</strong></div>
           </section>
 
           <section class="trend-panel trend-side-card">

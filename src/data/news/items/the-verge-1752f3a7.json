@@ -7,8 +7,8 @@
   "publishedAt": "2026-05-20T16:41:40.000Z",
   "id": "the-verge-1752f3a7",
   "slug": "the-verge-1752f3a7",
-  "content": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into […]",
-  "fetchedAt": "2026-05-21T09:16:12.900Z",
+  "content": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people’s videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you’ll see an option to “reimagine” it. Here, you can prompt Gemini to turn a video into pixel art, an anime, or a found-footage horror film. But, beyond that, you can also alter the contents by, say, inflating heads, inserting background actors, dressing people in pirate costumes, or even putting yourself in the clip. Creators can enable or disable the ability to reimagine videos. So, if you upload a short of your kids and would prefer (for obvious and understandable reasons) that people not be able to manipulate it, you can turn off remixing. Google also says that shorts remixed through Omni will have a digital watermark and link back to the original video. [Media: https://youtube.com/shorts/YOlvs5idJ-w?si=MnCt12hRN-LmyE7A]",
+  "fetchedAt": "2026-05-21T09:35:34.951Z",
   "score": 72,
   "sourceWeight": 80,
   "tags": [
@@ -16,9 +16,10 @@
     "全球"
   ],
   "rank": 20,
+  "contentStatus": "article-extracted",
   "chineseTitle": "您现在可以使用 AI 重新混合其他人的 YouTube Shorts",
   "chineseSummary": "谷歌宣布推出新的 YouTube Shorts Remix 功能，用户可以使用 Gemini Omni 重新调整剪辑的样式，甚至将自己插入到其他人的视频中。现在，在 YouTube Short 的底部，当您点击混音图标时，您会看到一个“重新想象”它的选项。在这里，您可以提示 Gemini 将视频转换为 [...]",
-  "chineseContent": "谷歌宣布推出新的 YouTube Shorts Remix 功能，用户可以使用 Gemini Omni 重新调整剪辑的样式，甚至将自己插入到其他人的视频中。现在，在 YouTube Short 的底部，当您点击混音图标时，您会看到一个“重新想象”它的选项。在这里，您可以提示 Gemini 将视频转换为 [...]",
+  "chineseContent": "谷歌宣布推出新的 YouTube Shorts Remix 功能，用户可以使用 Gemini Omni 重新调整剪辑的样式，甚至将自己插入到其他人的视频中。现在，在 YouTube Short 的底部，当您单击混音图标时，您会看到一个“重新想象”它的选项。在这里，您可以提示 Gemini 将视频转换为像素艺术、动漫或发现的恐怖电影片段。但是，除此之外，您还可以通过例如使头部膨胀、插入背景演员、给人们穿上海盗服装，甚至将自己放入剪辑中来改变内容。创作者可以启用或禁用重新构思视频的功能。因此，如果您上传了您孩子的短片，并且希望（出于明显且可以理解的原因）人们无法操纵它，您可以关闭混音。谷歌还表示，通过 Omni 重新混合的短片将带有数字水印并链接回原始视频。 [媒体：https://youtube.com/shorts/YOlvs5idJ-w?si=MnCt12hRN-LmyE7A]",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -20,6 +20,7 @@ const userAgent =
 const globalLimit = Number.parseInt(process.env.NEWS_GLOBAL_LIMIT ?? "20", 10);
 const techLimit = Number.parseInt(process.env.NEWS_TECH_LIMIT ?? "20", 10);
 const sourceTimeoutMs = Number.parseInt(process.env.NEWS_FETCH_TIMEOUT_MS ?? "16000", 10);
+const articleContentLimit = Number.parseInt(process.env.NEWS_ARTICLE_CONTENT_LIMIT ?? "6000", 10);
 
 const openaiConfig = {
   apiKey: process.env.OPENAI_API_KEY,
@@ -68,6 +69,46 @@ async function fetchJson(url, options = {}) {
   return (await fetchWithTimeout(url, { ...options, accept: "application/json" })).json();
 }
 
+async function fetchArticleContent(item) {
+  const existing = stripHtml(item.content ?? "");
+  if (existing.length >= 800) {
+    return { ...item, content: existing.slice(0, articleContentLimit), contentStatus: "source-fulltext" };
+  }
+  if (!/^https?:\/\//i.test(item.url ?? "")) {
+    return { ...item, content: existing || item.summary || item.originalTitle, contentStatus: "no-url" };
+  }
+  try {
+    const response = await fetchWithTimeout(item.url, {
+      accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    });
+    const contentType = response.headers.get("content-type") ?? "";
+    if (!/html|xml|text/i.test(contentType)) {
+      return { ...item, content: existing || item.summary || item.originalTitle, contentStatus: "non-html" };
+    }
+    const html = await response.text();
+    const articleText = extractArticleText(html);
+    const fallback = existing || item.summary || item.originalTitle;
+    const content = articleText.length > fallback.length + 80 ? articleText : fallback;
+    return {
+      ...item,
+      content,
+      contentStatus: articleText ? "article-extracted" : "summary-fallback",
+    };
+  } catch (error) {
+    await appendLog("article_fetch_error", { id: item.id, source: item.source, url: item.url, error: error.message });
+    return { ...item, content: existing || item.summary || item.originalTitle, contentStatus: "fetch-failed" };
+  }
+}
+
+async function enrichArticleContent(items) {
+  const enriched = [];
+  const concurrency = Number.parseInt(process.env.NEWS_ARTICLE_CONCURRENCY ?? "4", 10);
+  for (let index = 0; index < items.length; index += concurrency) {
+    enriched.push(...(await Promise.all(items.slice(index, index + concurrency).map(fetchArticleContent))));
+  }
+  return enriched;
+}
+
 function decodeEntities(value = "") {
   return value
     .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
@@ -77,6 +118,7 @@ function decodeEntities(value = "") {
     .replace(/&apos;/g, "'")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCharCode(Number.parseInt(code, 16)))
     .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
 }
 
@@ -87,6 +129,78 @@ function stripHtml(value = "") {
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeText(value = "") {
+  return decodeEntities(value)
+    .replace(/\u00a0/g, " ")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function extractMetaContent(html, name) {
+  const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const patterns = [
+    new RegExp(`<meta[^>]+(?:name|property)=["']${escaped}["'][^>]+content=["']([^"']+)["'][^>]*>`, "i"),
+    new RegExp(`<meta[^>]+content=["']([^"']+)["'][^>]+(?:name|property)=["']${escaped}["'][^>]*>`, "i"),
+  ];
+  for (const pattern of patterns) {
+    const match = html.match(pattern);
+    if (match?.[1]) return stripHtml(match[1]);
+  }
+  return "";
+}
+
+function extractJsonLdArticleBody(html) {
+  const scripts = [...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+  for (const script of scripts) {
+    try {
+      const parsed = JSON.parse(decodeEntities(script[1]).trim());
+      const nodes = Array.isArray(parsed) ? parsed : [parsed, ...(parsed["@graph"] ?? [])];
+      for (const node of nodes.flat()) {
+        if (!node || typeof node !== "object") continue;
+        const type = Array.isArray(node["@type"]) ? node["@type"].join(" ") : node["@type"];
+        if (/Article|NewsArticle|BlogPosting/i.test(String(type ?? "")) && node.articleBody) {
+          return stripHtml(String(node.articleBody));
+        }
+      }
+    } catch {
+      // Publisher JSON-LD is often not strict JSON. Fall back to paragraph extraction.
+    }
+  }
+  return "";
+}
+
+function extractArticleText(html) {
+  const jsonLdBody = extractJsonLdArticleBody(html);
+  if (jsonLdBody.length > 240) return normalizeText(jsonLdBody).slice(0, articleContentLimit);
+
+  const cleaned = html
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi, " ")
+    .replace(/<svg[\s\S]*?<\/svg>/gi, " ")
+    .replace(/<(nav|header|footer|aside|form)\b[\s\S]*?<\/\1>/gi, " ");
+  const articleMatch =
+    cleaned.match(/<article\b[\s\S]*?<\/article>/i) ??
+    cleaned.match(/<main\b[\s\S]*?<\/main>/i) ??
+    cleaned.match(/<body\b[\s\S]*?<\/body>/i);
+  const scope = articleMatch?.[0] ?? cleaned;
+  const paragraphMatches = [...scope.matchAll(/<(p|h2|h3)\b[^>]*>([\s\S]*?)<\/\1>/gi)];
+  const paragraphs = paragraphMatches
+    .map(match => stripHtml(match[2]))
+    .map(text => text.replace(/\s+/g, " ").trim())
+    .filter(text => text.length >= 35)
+    .filter(text => !/cookies?|newsletter|sign up|subscribe|advertisement|privacy policy|all rights reserved/i.test(text));
+  const text = normalizeText([...new Set(paragraphs)].join("\n\n"));
+  if (text.length > 240) return text.slice(0, articleContentLimit);
+
+  const metaDescription =
+    extractMetaContent(html, "article:body") ||
+    extractMetaContent(html, "og:description") ||
+    extractMetaContent(html, "description");
+  return normalizeText(metaDescription).slice(0, articleContentLimit);
 }
 
 function pickXml(block, tag) {
@@ -440,6 +554,30 @@ async function translateTextPublic(text) {
   return (data?.[0] ?? []).map(part => part?.[0] ?? "").join("").trim();
 }
 
+async function translateLongTextPublic(text) {
+  const value = String(text ?? "").trim();
+  if (!value) return "";
+  const chunks = [];
+  let current = "";
+  for (const paragraph of value.split(/\n+/).map(item => item.trim()).filter(Boolean)) {
+    if ((current + "\n\n" + paragraph).length > 1700) {
+      if (current) chunks.push(current);
+      current = paragraph;
+    } else {
+      current = current ? `${current}\n\n${paragraph}` : paragraph;
+    }
+  }
+  if (current) chunks.push(current);
+  if (!chunks.length) {
+    for (let index = 0; index < value.length; index += 1700) chunks.push(value.slice(index, index + 1700));
+  }
+  const translated = [];
+  for (const chunk of chunks.slice(0, 4)) {
+    translated.push(await translateTextPublic(chunk));
+  }
+  return translated.filter(Boolean).join("\n\n").trim();
+}
+
 async function translateWithPublicEndpoint(items) {
   const translated = [];
   for (const item of items) {
@@ -447,7 +585,7 @@ async function translateWithPublicEndpoint(items) {
       const [chineseTitle, chineseSummary, chineseContentBase] = await Promise.all([
         translateTextPublic(item.originalTitle),
         translateTextPublic(item.summary),
-        translateTextPublic(item.content || item.summary),
+        translateLongTextPublic(item.content || item.summary),
       ]);
       const categoryReason =
         item.category === "ai-tech"
@@ -518,7 +656,8 @@ async function main() {
   const normalized = dedupe(sources.flat().map(normalizeItem));
   const globalTop = pickTop(normalized, "global", globalLimit);
   const techTop = pickTop(normalized, "ai-tech", techLimit);
-  const selected = await translateItems([...globalTop, ...techTop]);
+  const withArticleContent = await enrichArticleContent([...globalTop, ...techTop]);
+  const selected = await translateItems(withArticleContent);
 
   const selectedMap = new Map(selected.map(item => [item.id, item]));
   const globalIds = globalTop.map(item => item.id);

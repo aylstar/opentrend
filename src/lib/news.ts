@@ -12,6 +12,7 @@ export type NewsItem = {
   summary: string;
   chineseSummary: string;
   content: string;
+  contentStatus?: "source-fulltext" | "article-extracted" | "summary-fallback" | "fetch-failed" | "non-html" | "no-url";
   chineseContent: string;
   whyItMatters: string;
   url: string;
