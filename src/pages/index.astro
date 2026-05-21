@@ -24,7 +24,7 @@ const pickNews = (ids: string[] = []) =>
   ids.map(id => newsMap.get(id)).filter((item): item is NewsItem => Boolean(item));
 const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
-const financeNews = latestNews ? pickNews(latestNews.sections.finance).slice(0, 30) : [];
+const financeNews = latestNews ? pickNews(latestNews.sections.finance).slice(0, 10) : [];
 const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 10) : [];
 ---
 
@@ -96,7 +96,7 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
           </div>
           <div class="trend-rank-grid">
             <NewsRankBoard
-              title="全球财经 Top 30"
+              title="全球财经 Top 10"
               subtitle="Bloomberg / Reuters / FT / WSJ / CNBC / MarketWatch"
               items={financeNews}
               basePath="/finance/items"
