@@ -7,8 +7,8 @@
   "publishedAt": "2026-05-20T14:38:49.000Z",
   "id": "product-hunt-990436c9",
   "slug": "product-hunt-990436c9",
-  "content": "Product demo videos, recorded by your AI agent Discussion | Link",
-  "fetchedAt": "2026-05-21T13:45:51.552Z",
+  "content": "Give your AI agent a product flow to record. Slideshot drives your web app through MCP, captures the walkthrough, and returns a polished demo video and GIF with zooms, cursor motion, and custom intro animation. No manual recording or editing.",
+  "fetchedAt": "2026-05-21T13:58:03.585Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
@@ -17,11 +17,11 @@
     "产品",
     "视频"
   ],
-  "rank": 5,
-  "contentStatus": "fetch-failed",
+  "rank": 6,
+  "contentStatus": "article-extracted",
   "chineseTitle": "幻灯片",
   "chineseSummary": "产品演示视频，由您的 AI 代理录制 讨论 |关联",
-  "chineseContent": "产品演示视频，由您的 AI 代理录制 讨论 |关联",
+  "chineseContent": "为您的人工智能代理提供要记录的产品流程。 Slideshot 通过 MCP 驱动您的 Web 应用程序，捕获演练，并返回带有缩放、光标运动和自定义介绍动画的精美演示视频和 GIF。无需手动录制或编辑。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

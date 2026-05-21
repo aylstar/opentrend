@@ -8,16 +8,17 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/colbymchenry/codegraph",
   "docsUrl": "",
-  "stars": 9695,
-  "forks": 597,
-  "openIssues": 75,
+  "stars": 12200,
+  "forks": 713,
+  "openIssues": 95,
   "license": "MIT",
-  "pushedAt": "2026-05-20T23:43:25Z",
-  "updatedAt": "2026-05-21T01:30:21Z",
+  "pushedAt": "2026-05-21T13:47:55Z",
+  "updatedAt": "2026-05-21T13:57:25Z",
   "createdAt": "2026-01-18T21:45:37Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "weekly",
+    "monthly"
   ],
   "tags": [
     "AI",
@@ -29,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n# CodeGraph\n\n### Supercharge Claude Code, Cursor, Codex, and OpenCode with Semantic Code Intelligence\n\n**~35% cheaper · ~70% fewer tool calls · 100% local**\n\n[![npm version](https://img.shields.io/npm/v/@colbymchenry/codegraph.svg)](https://www.npmjs.com/package/@colbymchenry/codegraph)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Node.js](https://img.shields.io/badge/Node.js-20--24-green.svg)](https://nodejs.org/)\n\n[![Windows](https://img.shields.io/badge/Windows-supported-blue.svg)](#)\n[![macOS](https://img.shields.io/badge/macOS-supported-blue.svg)](#)\n[![Linux](https://img.shields.io/badge/Linux-supported-blue.svg)](#)\n\n[![Claude Code](https://img.shields.io/badge/Claude_Code-supported-blueviolet.svg)](#)\n[![Cursor](https://img.shields.io/badge/Cursor-supported-blueviolet.svg)](#)\n[![Codex CLI](https://img.shields.io/badge/Codex_CLI-supported-blueviolet.svg)](#)\n[![opencode](https://img.shields.io/badge/opencode-supported-blueviolet.svg)](#)\n\n<br />\n\n### Get Started\n\n```bash\nnpx @colbymchenry/codegraph\n```\n\n<sub>Interactive installer auto-configures your agent(s) — Claude Code, Cursor, Codex CLI, opencode</sub>\n\n#### Initialize Projects\n\n```bash\ncd your-project\ncodegraph init -i\n```\n\n![1_C_VYnhpys0UHrOuOgpgoyw](https://github.com/user-attachments/assets/f168182f-4d9a-44e0-94d7-08d018cc8a3a)\n\n</div>\n\n---\n\n## Why CodeGraph?\n\nWhen Claude Code explores a codebase, it spawns **Explore agents** that scan files with grep, glob, and Read — consuming tokens on every tool call.\n\n**CodeGraph gives those agents a pre-indexed knowledge graph** — symbol relationships, call graphs, and code structure. Agents query the graph instantly instead of scanning files.\n\n### Benchmark Results\n\nTested across **7 real-world open-source codebases** spanning 7 languages, comparing an agent (Claude Code, headless) answering one architecture question **with** and **without** CodeGraph. Each cell is the savings at the **median of 4 runs per arm**.\n\n> **Average: 35% cheaper · 59% fewer tokens · 49% faster · 70% fewer tool calls**\n\n| Codebase | Language | Cost | Tokens | Time | Tool calls |\n|----------|----------|------|--------|------|------------|\n| **VS Code** | TypeScript · ~10k files | 35% cheaper | 73% fewer | 41% faster | 72% fewer |\n| **Excalidraw** | TypeScript · ~600 | 47% cheaper | 73% fewer | 60% faster | 86% fewer |\n| **Django** | Python · ~2.7k | 34% cheaper | 64% fewer | 59% faster | 81% fewer |\n| **Tokio** | Rust · ~700 | 52% cheaper | 81% fewer | 63% faster | 89% fewer |\n| **OkHttp** | Java · ~640 | 17% cheaper | 41% fewer | 36% faster | 64% fewer |\n| **Gin** | Go · ~150 | 22% cheaper | 23% fewer | 34% faster | 19% fewer |\n| **Alamofire** | Swift · ~100 | 38% cheaper | 59% fewer | 51% faster | 77% fewer |\n\nThe gains scale with codebase size: on large repos the agent answers from the index in a handful of calls with **zero file reads**, while the no-CodeGraph agent fans out",
-  "generatedAt": "2026-05-21T01:30:28.200Z",
+  "generatedAt": "2026-05-21T13:57:45.286Z",
   "analysis": {
     "oneLine": "codegraph 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "codegraph 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，codegraph 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 9,695，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，codegraph 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 12,200，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

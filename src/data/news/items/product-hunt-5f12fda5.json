@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-20T07:02:17.000Z",
   "id": "product-hunt-5f12fda5",
   "slug": "product-hunt-5f12fda5",
-  "content": "Free tool to find your warmest path into any company Discussion | Link",
-  "fetchedAt": "2026-05-21T09:31:39.805Z",
+  "content": "Cold outreach doesn't work. WarmIntro finds the employees at any target company who share the most with your background - shared university, past employers, city, and title so every intro starts from a place of genuine connection.",
+  "fetchedAt": "2026-05-21T13:58:03.585Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球",
     "产品"
   ],
-  "rank": 13,
-  "contentStatus": "fetch-failed",
+  "rank": 10,
+  "contentStatus": "article-extracted",
   "chineseTitle": "温馨介绍",
   "chineseSummary": "免费工具，可帮助您找到进入任何公司的最佳路径关联",
-  "chineseContent": "免费工具，可帮助您找到进入任何公司的最佳途径关联",
+  "chineseContent": "冷酷的外展是行不通的。 WarmIntro 可以找到任何目标公司中与您的背景最相似的员工 - 共同的大学、过去的雇主、城市和头衔，因此每条介绍都从真正的联系开始。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

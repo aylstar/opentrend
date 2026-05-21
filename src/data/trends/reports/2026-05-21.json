@@ -3,7 +3,7 @@
   "date": "2026-05-21",
   "title": "2026年05月21日 GitHub 趋势项目报告",
   "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
-  "generatedAt": "2026-05-21T01:30:32.459Z",
+  "generatedAt": "2026-05-21T13:57:52.698Z",
   "stats": {
     "totalProjects": 17,
     "weeklyProjects": 10,
@@ -18,51 +18,51 @@
     ],
     "weekly": [
       "tinyhumansai__openhuman",
-      "rohitg00__agentmemory",
       "colbymchenry__codegraph",
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
       "cloakhq__cloakbrowser",
       "ruvnet__ruview",
-      "imbad0202__academic-research-skills",
       "oven-sh__bun",
-      "facebook__pyrefly",
-      "mattpocock__skills",
-      "yikart__aitoearn"
+      "humanlayer__12-factor-agents",
+      "datawhalechina__easy-vibe"
     ],
     "monthly": [
+      "colbymchenry__codegraph",
       "rohitg00__agentmemory",
       "cloakhq__cloakbrowser",
       "mattpocock__skills",
       "alishahryar1__free-claude-code",
+      "anthropics__financial-services",
+      "huggingface__ml-intern",
       "multica-ai__andrej-karpathy-skills",
       "aidc-ai__pixelle-video",
-      "anthropics__financial-services",
-      "soxoj__maigret",
-      "z4nzu__hackingtool",
-      "tauricresearch__tradingagents"
+      "soxoj__maigret"
     ],
     "commercial": [
       "tinyhumansai__openhuman",
-      "rohitg00__agentmemory",
       "colbymchenry__codegraph",
-      "cloakhq__cloakbrowser",
-      "ruvnet__ruview",
-      "imbad0202__academic-research-skills"
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser"
     ],
     "deployable": [
       "tinyhumansai__openhuman",
-      "rohitg00__agentmemory",
       "colbymchenry__codegraph",
-      "cloakhq__cloakbrowser",
-      "ruvnet__ruview",
-      "imbad0202__academic-research-skills"
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser"
     ],
     "risky": [
       "tinyhumansai__openhuman",
-      "rohitg00__agentmemory",
       "colbymchenry__codegraph",
-      "cloakhq__cloakbrowser",
-      "ruvnet__ruview",
-      "imbad0202__academic-research-skills"
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser"
     ]
   },
   "summary": {
@@ -71,21 +71,21 @@
   },
   "projectSlugs": [
     "tinyhumansai__openhuman",
-    "rohitg00__agentmemory",
     "colbymchenry__codegraph",
+    "imbad0202__academic-research-skills",
+    "supertone-inc__supertonic",
+    "rohitg00__agentmemory",
     "cloakhq__cloakbrowser",
     "ruvnet__ruview",
-    "imbad0202__academic-research-skills",
     "oven-sh__bun",
-    "facebook__pyrefly",
+    "humanlayer__12-factor-agents",
+    "datawhalechina__easy-vibe",
     "mattpocock__skills",
-    "yikart__aitoearn",
     "alishahryar1__free-claude-code",
+    "anthropics__financial-services",
+    "huggingface__ml-intern",
     "multica-ai__andrej-karpathy-skills",
     "aidc-ai__pixelle-video",
-    "anthropics__financial-services",
-    "soxoj__maigret",
-    "z4nzu__hackingtool",
-    "tauricresearch__tradingagents"
+    "soxoj__maigret"
   ]
 }

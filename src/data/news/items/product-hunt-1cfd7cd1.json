@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-21T01:40:49.000Z",
   "id": "product-hunt-1cfd7cd1",
   "slug": "product-hunt-1cfd7cd1",
-  "content": "Claude AI in your Safari sidebar Discussion | Link",
-  "fetchedAt": "2026-05-21T13:45:51.552Z",
+  "content": "Claude had a Chrome extension. Safari didn't. So I built AlliHat. Open the sidebar and it sees the page you're on. Ask anything. Highlight text for instant explanations. Agent Mode clicks, fills forms, and navigates. Workflows run repeated tasks in one click. Memory means you never re-explain yourself. History is saved per domain. Bring your own Claude API key, or use Apple Intelligence on-device. Your key goes straight to Anthropic. No tracking. No analytics. $29.99/year after a free trial.",
+  "fetchedAt": "2026-05-21T13:58:03.585Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 2,
-  "contentStatus": "fetch-failed",
+  "rank": 5,
+  "contentStatus": "article-extracted",
   "chineseTitle": "阿里哈特",
   "chineseSummary": "Safari 侧边栏中的 Claude AI 讨论 |关联",
-  "chineseContent": "Safari 侧边栏中的 Claude AI 讨论 |关联",
+  "chineseContent": "克劳德有一个 Chrome 扩展程序。 Safari 没有。所以我建立了AlliHat。打开侧边栏，它会看到您所在的页面。询问任何事情。突出显示文本以获得即时解释。代理模式可单击、填写表格和导航。工作流程一键运行重复任务。记忆意味着你永远不会重新解释自己。历史记录按域保存。带上您自己的 Claude API 密钥，或使用设备上的 Apple Intelligence。你的钥匙直接转到 Anthropic。没有跟踪。没有分析。免费试用后，每年 29.99 美元。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
