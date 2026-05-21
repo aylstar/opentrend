@@ -1,9 +1,18 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
-import { formatTrendDate, getTrendReports } from "@/lib/trends";
+import RankBoard from "@/components/trends/RankBoard.astro";
+import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
+import type { TrendProject } from "@/lib/trends";
 
 const reports = getTrendReports();
 const latest = reports[0];
+const projectMap = getTrendProjectMap();
+const pick = (slugs: string[] = []) =>
+  slugs
+    .map(slug => projectMap.get(slug))
+    .filter((project): project is TrendProject => Boolean(project));
+const weekly = latest ? pick(latest.sections.weekly) : [];
+const monthly = latest ? pick(latest.sections.monthly) : [];
 ---
 
 <TrendShell title="科技雷达">
@@ -13,48 +22,25 @@ const latest = reports[0];
         <p class="trend-eyebrow">Technology Radar</p>
         <h1 class="trend-title">科技雷达</h1>
         <p class="trend-lead">
-        每日汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断、商业价值和风险提示。
+          {latest
+            ? `${formatTrendDate(latest.date)} · GitHub 周榜 / 月榜 · ${latest.stats.totalProjects} 个项目`
+            : "等待生成 GitHub 趋势数据"}
         </p>
       </div>
     </section>
 
     {
       latest ? (
-        <section class="trend-container trend-section">
-          <h2 class="trend-section-title">最新报告</h2>
-          <a
-            href={`/trends/${latest.slug}/`}
-            class="trend-panel mt-4 block p-5"
-          >
-            <span class="text-lg font-semibold">{latest.title}</span>
-            <p class="trend-section-note">{latest.summary.overview}</p>
-            <div class="mt-3 flex flex-wrap gap-3 text-sm" style="color: var(--trend-muted)">
-              <span>{formatTrendDate(latest.date)}</span>
-              <span>{latest.stats.totalProjects} 个项目</span>
-              <span>平均推荐 {latest.stats.averageRecommendation}/5</span>
-            </div>
-          </a>
+        <section class="trend-container trend-section trend-rank-section">
+          <div class="trend-rank-grid">
+            <RankBoard title="周趋势排名" subtitle="按 GitHub 周榜顺序展示" projects={weekly} />
+            <RankBoard title="月趋势排名" subtitle="按 GitHub 月榜顺序展示" projects={monthly} />
+          </div>
         </section>
       ) : (
         <section class="trend-container trend-section">
-          <h2 class="trend-section-title">暂无报告</h2>
+          <h2 class="trend-section-title">暂无趋势数据</h2>
           <p class="trend-section-note">运行 <code>pnpm trends:sample</code> 或 <code>pnpm trends:run</code> 后会自动生成趋势报告。</p>
-        </section>
-      )
-    }
-
-    {
-      reports.length > 1 && (
-        <section class="trend-container trend-section">
-          <h2 class="trend-section-title">历史报告</h2>
-          <div class="mt-4 grid gap-3">
-            {reports.slice(1).map(report => (
-              <a href={`/trends/${report.slug}/`} class="trend-panel rounded-md p-4">
-                <span class="font-semibold">{report.title}</span>
-                <p class="mt-2 text-sm" style="color: var(--trend-muted)">{report.stats.totalProjects} 个项目 · 平均推荐 {report.stats.averageRecommendation}/5</p>
-              </a>
-            ))}
-          </div>
         </section>
       )
     }
