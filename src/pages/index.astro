@@ -1,7 +1,7 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
 import RankBoard from "@/components/trends/RankBoard.astro";
-import { getTrendProjectMap, getTrendReports } from "@/lib/trends";
+import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
 
 const reports = getTrendReports();
@@ -14,32 +14,101 @@ const pick = (slugs: string[] = []) =>
 
 const weekly = latest ? pick(latest.sections.weekly) : [];
 const monthly = latest ? pick(latest.sections.monthly) : [];
+const latestProjects = latest ? pick(latest.projectSlugs) : [];
+const nasMirrorCount = latestProjects.filter(project => Boolean(project.nasUrl)).length;
+const topWeekly = weekly[0];
+const topMonthly = monthly[0];
 ---
 
 <TrendShell
-  title="OpenTrend 开源趋势情报"
-  description="面向国内用户的 GitHub 趋势项目报告和项目数据库"
+  title="趋势雷达信息概况"
+  description="面向个人订阅的信息概况、趋势报告和项目数据库"
 >
   <main id="main-content">
-    <section class="trend-container trend-hero">
-      <div>
-        <p class="trend-eyebrow">GitHub Trend Intelligence</p>
-        <h1 class="trend-title">每天筛出值得跟踪的开源项目</h1>
-        <p class="trend-lead">
-          聚合 GitHub 周榜和月榜，用中文解释项目价值、使用场景、部署可行性和商业复用空间。
+    <section class="trend-container trend-home-hero">
+      <div class="trend-home-copy">
+        <p class="trend-eyebrow">Personal Intelligence</p>
+        <h1 class="trend-home-title">今日信息概况</h1>
+        <p class="trend-home-lead">
+          汇总你需要跟踪的开源项目、新闻 Top、X 趋势和可复用资源。首页先看今天发生了什么，再进入具体报告。
         </p>
+        <div class="trend-home-actions">
+          <a class="trend-button primary" href={latest ? `/trends/${latest.slug}/` : "/trends/"}>
+            查看今日报告
+          </a>
+          <a class="trend-button" href="/projects/">进入项目库</a>
+          <a class="trend-button" href="/settings/">个人设置</a>
+        </div>
+        <div class="trend-home-feed" aria-label="今日信息模块">
+          <a class="trend-home-feed-card" href={latest ? `/trends/${latest.slug}/` : "/trends/"}>
+            <span>开源项目</span>
+            <h2>GitHub 趋势已更新</h2>
+            <p>周榜、月榜、中文解读和 NAS 镜像已同步，可查看今日项目变化。</p>
+          </a>
+          <div class="trend-home-feed-card is-muted">
+            <span>新闻 Top</span>
+            <h2>待接入</h2>
+            <p>后续汇总政策、科技、金融和产业新闻，把高频变化压缩成可读清单。</p>
+          </div>
+          <div class="trend-home-feed-card is-muted">
+            <span>X 趋势</span>
+            <h2>待接入</h2>
+            <p>后续跟踪英文技术圈、AI 产品和独立开发者的高价值信号。</p>
+          </div>
+        </div>
       </div>
-      <div class="trend-actions">
-        <a class="trend-button primary" href={latest ? `/trends/${latest.slug}/` : "/trends/"}>
-          查看今日报告
-        </a>
-        <a class="trend-button" href="/projects/">进入项目库</a>
-      </div>
+
+      <aside class="trend-home-card" aria-label="今日信息概览">
+        <div class="trend-home-card-head">
+          <span>今日概况</span>
+          <strong>{latest ? formatTrendDate(latest.date) : "等待生成"}</strong>
+        </div>
+        <dl class="trend-home-metrics">
+          <div>
+            <dt>项目</dt>
+            <dd>{latest?.stats.totalProjects ?? 0}</dd>
+          </div>
+          <div>
+            <dt>周榜</dt>
+            <dd>{latest?.stats.weeklyProjects ?? 0}</dd>
+          </div>
+          <div>
+            <dt>月榜</dt>
+            <dd>{latest?.stats.monthlyProjects ?? 0}</dd>
+          </div>
+          <div>
+            <dt>NAS</dt>
+            <dd>{nasMirrorCount}</dd>
+          </div>
+        </dl>
+        <div class="trend-home-highlights">
+          <div>
+            <span>开源周榜</span>
+            <strong>{topWeekly ? topWeekly.repo : "暂无"}</strong>
+          </div>
+          <div>
+            <span>开源月榜</span>
+            <strong>{topMonthly ? topMonthly.repo : "暂无"}</strong>
+          </div>
+          <div>
+            <span>新增模块</span>
+            <strong>新闻 Top / X 趋势</strong>
+          </div>
+        </div>
+        <p class="trend-home-note">当前开源项目模块已自动运行；新闻 Top 和 X 趋势保留入口，后续可按订阅需求接入。</p>
+      </aside>
     </section>
 
     {
       latest ? (
-        <section class="trend-container trend-section">
+        <section class="trend-container trend-section trend-home-ranks">
+          <div class="trend-section-heading">
+            <div>
+              <p class="trend-eyebrow">Open Source</p>
+              <h2>开源项目趋势</h2>
+            </div>
+            <a href={`/trends/${latest.slug}/`}>查看完整报告</a>
+          </div>
           <div class="trend-rank-grid">
             <RankBoard title="周趋势排名" subtitle="按 GitHub 周榜顺序展示" projects={weekly} />
             <RankBoard title="月趋势排名" subtitle="按 GitHub 月榜顺序展示" projects={monthly} />
@@ -55,19 +124,25 @@ const monthly = latest ? pick(latest.sections.monthly) : [];
       )
     }
 
-    <section class="trend-container trend-section">
+    <section class="trend-container trend-section trend-home-feature-section">
+      <div class="trend-section-heading">
+        <div>
+          <p class="trend-eyebrow">Current Modules</p>
+          <h2>当前接入能力</h2>
+        </div>
+      </div>
       <div class="trend-card-grid">
         <div class="trend-panel trend-feature-card">
           <h2>中文解读</h2>
-          <p>每个项目都会从国内用户视角说明项目解决什么问题、适合谁用、是否值得投入时间。</p>
+          <p>从国内用户视角说明项目解决什么问题、适合谁使用，以及是否值得继续验证。</p>
         </div>
         <div class="trend-panel trend-feature-card">
-          <h2>部署判断</h2>
-          <p>优先识别 Docker、NAS、私有化部署和本地运行要求，降低用户筛选成本。</p>
+          <h2>NAS 镜像</h2>
+          <p>项目源码包自动同步到国内 NAS 链接，减少 GitHub 访问不稳定带来的使用阻力。</p>
         </div>
         <div class="trend-panel trend-feature-card">
-          <h2>商业价值</h2>
-          <p>不只看热度，还判断能否变成效率工具、企业组件、学习样本或可复用服务。</p>
+          <h2>持续更新</h2>
+          <p>每日任务自动完成抓取、归档、构建和发布，让项目库保持可追踪、可复用。</p>
         </div>
       </div>
     </section>

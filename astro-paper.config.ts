@@ -3,9 +3,9 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://open.qiyuebao.xyz/",
-    title: "OpenTrend 开源趋势情报",
+    title: "趋势雷达",
     description: "面向国内用户的 GitHub 趋势项目报告和项目数据库。",
-    author: "OpenTrend",
+    author: "趋势雷达",
     profile: "",
     ogImage: "default-og.jpg",
     lang: "en",

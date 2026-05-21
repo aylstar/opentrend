@@ -14,11 +14,12 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
     <header class="trend-nav">
       <a href="/" class="trend-brand" aria-label="开源趋势情报首页">
         <span class="trend-brand-mark">OT</span>
-        <span>OpenTrend</span>
+        <span>趋势雷达</span>
       </a>
       <nav class="trend-nav-links" aria-label="产品导航">
         <a href="/trends/">趋势报告</a>
         <a href="/projects/">项目库</a>
+        <a href="/settings/">个人设置</a>
       </nav>
     </header>
     <slot />
@@ -27,7 +28,7 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
 
 <style is:global>
   .trend-shell {
-    --trend-bg: #f7f8f5;
+    --trend-bg: #f6f7f4;
     --trend-panel: #ffffff;
     --trend-ink: #121411;
     --trend-muted: #747a72;
@@ -40,16 +41,14 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
     --trend-bronze: #876f5c;
     min-height: 100svh;
     background:
-      linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(247, 248, 245, 0.97)),
+      linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(246, 247, 244, 0.98) 42%, #f6f7f4),
       linear-gradient(rgba(18, 20, 17, 0.028) 1px, transparent 1px),
       linear-gradient(90deg, rgba(18, 20, 17, 0.028) 1px, transparent 1px),
-      radial-gradient(circle at 18% 10%, rgba(15, 107, 84, 0.1), transparent 28rem),
       var(--trend-bg);
     background-size:
       auto,
       2.5rem 2.5rem,
       2.5rem 2.5rem,
-      auto,
       auto;
     color: var(--trend-ink);
     font-family:
@@ -70,9 +69,9 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
     justify-content: space-between;
     gap: 1rem;
     border-bottom: 1px solid rgba(20, 24, 19, 0.08);
-    background: rgba(247, 248, 245, 0.88);
-    padding: 0.75rem max(1rem, calc((100vw - 1180px) / 2));
-    backdrop-filter: blur(18px);
+    background: rgba(247, 248, 245, 0.72);
+    padding: 0.8rem max(1rem, calc((100vw - 1180px) / 2));
+    backdrop-filter: blur(22px) saturate(145%);
   }
 
   .trend-brand,
@@ -239,6 +238,242 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
     padding: 3rem 0 1.5rem;
   }
 
+  .trend-home-hero {
+    display: grid;
+    gap: 1.5rem;
+    align-items: start;
+    padding: clamp(1.5rem, 3.2vw, 2.75rem) 0 1.25rem;
+  }
+
+  @media (min-width: 960px) {
+    .trend-home-hero {
+      grid-template-columns: minmax(0, 1fr) minmax(22rem, 27rem);
+    }
+  }
+
+  .trend-home-copy {
+    max-width: 760px;
+  }
+
+  .trend-home-title {
+    max-width: 680px;
+    margin-top: 0.55rem;
+    color: var(--trend-ink);
+    font-size: clamp(2rem, 3.5vw, 3.35rem);
+    font-weight: 780;
+    line-height: 1.04;
+    letter-spacing: 0;
+    text-wrap: balance;
+  }
+
+  .trend-home-lead {
+    max-width: 660px;
+    margin-top: 0.85rem;
+    color: #5d635c;
+    font-size: 0.98rem;
+    font-weight: 520;
+    line-height: 1.8;
+  }
+
+  .trend-home-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.15rem;
+  }
+
+  .trend-home-feed {
+    display: grid;
+    gap: 0.75rem;
+    margin-top: 1.35rem;
+  }
+
+  @media (min-width: 760px) {
+    .trend-home-feed {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  .trend-home-feed-card {
+    min-height: 7.5rem;
+    border: 1px solid rgba(18, 20, 17, 0.09);
+    border-radius: 1.15rem;
+    background: rgba(255, 255, 255, 0.66);
+    padding: 0.95rem;
+    box-shadow: 0 18px 52px rgba(18, 20, 17, 0.055);
+    backdrop-filter: blur(22px) saturate(130%);
+    transition:
+      background 160ms ease,
+      border-color 160ms ease,
+      transform 160ms ease;
+  }
+
+  a.trend-home-feed-card:hover {
+    border-color: rgba(18, 20, 17, 0.16);
+    background: rgba(255, 255, 255, 0.82);
+    transform: translateY(-2px);
+  }
+
+  .trend-home-feed-card span {
+    color: var(--trend-muted);
+    font-size: 0.72rem;
+    font-weight: 720;
+  }
+
+  .trend-home-feed-card h2 {
+    margin-top: 0.45rem;
+    color: var(--trend-ink);
+    font-size: 1rem;
+    font-weight: 780;
+  }
+
+  .trend-home-feed-card p {
+    margin-top: 0.45rem;
+    color: var(--trend-muted);
+    font-size: 0.84rem;
+    line-height: 1.65;
+  }
+
+  .trend-home-feed-card.is-muted {
+    background: rgba(255, 255, 255, 0.45);
+    box-shadow: none;
+  }
+
+  .trend-home-card {
+    overflow: hidden;
+    border: 1px solid rgba(18, 20, 17, 0.09);
+    border-radius: 1.2rem;
+    background: rgba(255, 255, 255, 0.68);
+    box-shadow:
+      0 32px 80px rgba(18, 20, 17, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.86);
+    backdrop-filter: blur(28px) saturate(135%);
+  }
+
+  .trend-settings {
+    padding: 2.25rem 0 4rem;
+  }
+
+  .trend-settings-grid {
+    margin-top: 1.5rem;
+  }
+
+  .trend-home-card-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.05rem;
+    border-bottom: 1px solid rgba(18, 20, 17, 0.08);
+  }
+
+  .trend-home-card-head span,
+  .trend-home-highlights span {
+    color: var(--trend-muted);
+    font-size: 0.76rem;
+    font-weight: 720;
+  }
+
+  .trend-home-card-head strong {
+    color: var(--trend-ink);
+    font-size: 0.95rem;
+    font-weight: 760;
+  }
+
+  .trend-home-metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-bottom: 1px solid rgba(18, 20, 17, 0.08);
+  }
+
+  .trend-home-metrics div {
+    padding: 0.85rem 0.75rem;
+    border-right: 1px solid rgba(18, 20, 17, 0.08);
+    text-align: center;
+  }
+
+  .trend-home-metrics div:last-child {
+    border-right: 0;
+  }
+
+  .trend-home-metrics dt {
+    color: var(--trend-muted);
+    font-size: 0.68rem;
+    font-weight: 720;
+  }
+
+  .trend-home-metrics dd {
+    margin-top: 0.32rem;
+    color: var(--trend-ink);
+    font-size: 1.55rem;
+    font-weight: 790;
+    line-height: 1;
+  }
+
+  .trend-home-highlights {
+    display: grid;
+    gap: 0;
+  }
+
+  .trend-home-highlights div {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.82rem 1.05rem;
+    border-bottom: 1px solid rgba(18, 20, 17, 0.07);
+  }
+
+  .trend-home-highlights strong {
+    overflow: hidden;
+    color: var(--trend-ink);
+    font-size: 1rem;
+    font-weight: 760;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .trend-home-note {
+    padding: 0.9rem 1.05rem 1rem;
+    color: var(--trend-muted);
+    font-size: 0.82rem;
+    line-height: 1.7;
+  }
+
+  .trend-section-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .trend-section-heading h2 {
+    margin-top: 0.25rem;
+    color: var(--trend-ink);
+    font-size: clamp(1.45rem, 2.2vw, 2.15rem);
+    font-weight: 780;
+    line-height: 1.12;
+  }
+
+  .trend-section-heading > a {
+    border: 1px solid rgba(18, 20, 17, 0.08);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 0.48rem 0.78rem;
+    color: #51574f;
+    font-size: 0.78rem;
+    font-weight: 720;
+  }
+
+  .trend-home-ranks {
+    padding-top: 1rem;
+  }
+
+  .trend-home-feature-section {
+    padding-bottom: 4rem;
+  }
+
   .trend-eyebrow {
     color: var(--trend-accent);
     font-size: 0.75rem;
@@ -279,10 +514,15 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
     justify-content: center;
     min-height: 2.75rem;
     border: 1px solid var(--trend-line);
-    border-radius: 0.5rem;
+    border-radius: 0.72rem;
     padding: 0 1rem;
-    background: var(--trend-panel);
+    background: rgba(255, 255, 255, 0.68);
     font-weight: 700;
+    box-shadow: 0 8px 24px rgba(18, 20, 17, 0.045);
+    transition:
+      background 160ms ease,
+      border-color 160ms ease,
+      transform 160ms ease;
   }
 
   .trend-button.primary {
@@ -291,12 +531,19 @@ const { title = "开源趋势情报", description = "面向国内用户的开源
     color: #fff;
   }
 
+  .trend-button:hover {
+    border-color: rgba(18, 20, 17, 0.18);
+    transform: translateY(-1px);
+  }
+
   .trend-panel {
     border: 1px solid rgba(18, 20, 17, 0.1);
-    border-radius: 1rem;
-    background: rgba(255, 255, 255, 0.82);
-    box-shadow: 0 18px 56px rgba(18, 20, 17, 0.07);
-    backdrop-filter: blur(18px);
+    border-radius: 1.25rem;
+    background: rgba(255, 255, 255, 0.72);
+    box-shadow:
+      0 24px 70px rgba(18, 20, 17, 0.065),
+      inset 0 1px 0 rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(24px) saturate(135%);
   }
 
   .trend-panel::selection,
