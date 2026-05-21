@@ -11,7 +11,7 @@ export function getStaticPaths() {
 
 const { item } = Astro.props;
 const sourceReport =
-  getNewsReports().find(report => [...report.sections.global, ...report.sections.aiTech].includes(item.id)) ??
+  getNewsReports().find(report => [...report.sections.global, ...report.sections.aiTech, ...(report.sections.youtube ?? [])].includes(item.id)) ??
   getNewsReports()[0];
 const reportDate = sourceReport ? formatNewsDate(sourceReport.date) : "";
 const chineseParagraphs = String(item.chineseContent || item.chineseSummary || "")
@@ -80,6 +80,7 @@ const contentStatusLabel: Record<string, string> = {
             <div class="trend-metric"><span>来源</span><strong>{item.source}</strong></div>
             <div class="trend-metric"><span>分类</span><strong>{newsCategoryLabel(item.category)}</strong></div>
             <div class="trend-metric"><span>评分</span><strong>{item.score}</strong></div>
+            {item.viewCount ? <div class="trend-metric"><span>播放量</span><strong>{item.viewCount.toLocaleString("en-US")}</strong></div> : null}
             <div class="trend-metric"><span>翻译</span><strong>{item.translationStatus === "translated" ? "已翻译" : "原文降级"}</strong></div>
             <div class="trend-metric"><span>正文</span><strong>{contentStatusLabel[item.contentStatus ?? ""] ?? "已收录"}</strong></div>
           </section>

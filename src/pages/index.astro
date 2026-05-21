@@ -28,6 +28,7 @@ const pickNews = (ids: string[] = []) =>
   ids.map(id => newsMap.get(id)).filter((item): item is NewsItem => Boolean(item));
 const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
+const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 10) : [];
 ---
 
 <TrendShell
@@ -147,6 +148,9 @@ const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) 
           <div class="trend-rank-grid">
             <NewsRankBoard title="全球新闻 Top 10" subtitle="GDELT / BBC / Guardian" items={globalNews} />
             <NewsRankBoard title="AI 科技 Top 10" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techNews} />
+            {youtubeNews.length ? (
+              <NewsRankBoard title="YouTube 热门视频 Top 10" subtitle="YouTube Data API / Most Popular" items={youtubeNews} />
+            ) : null}
           </div>
         </section>
       ) : null

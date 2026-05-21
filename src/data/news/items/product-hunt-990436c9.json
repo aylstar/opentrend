@@ -8,15 +8,16 @@
   "id": "product-hunt-990436c9",
   "slug": "product-hunt-990436c9",
   "content": "Product demo videos, recorded by your AI agent Discussion | Link",
-  "fetchedAt": "2026-05-21T09:35:34.950Z",
+  "fetchedAt": "2026-05-21T13:45:51.552Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球",
-    "产品"
+    "产品",
+    "视频"
   ],
-  "rank": 6,
+  "rank": 5,
   "contentStatus": "fetch-failed",
   "chineseTitle": "幻灯片",
   "chineseSummary": "产品演示视频，由您的 AI 代理录制 讨论 |关联",

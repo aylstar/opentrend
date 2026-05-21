@@ -6,7 +6,7 @@ export type NewsItem = {
   slug: string;
   rank: number;
   source: string;
-  category: "global" | "ai-tech";
+  category: "global" | "ai-tech" | "youtube";
   originalTitle: string;
   chineseTitle: string;
   summary: string;
@@ -20,6 +20,7 @@ export type NewsItem = {
   fetchedAt: string;
   score: number;
   sourceWeight: number;
+  viewCount?: number;
   tags: string[];
   translationStatus: "translated" | "fallback";
 };
@@ -34,11 +35,13 @@ export type NewsReport = {
     totalItems: number;
     globalItems: number;
     techItems: number;
+    youtubeItems?: number;
     translatedItems: number;
   };
   sections: {
     global: string[];
     aiTech: string[];
+    youtube?: string[];
   };
   sources: string[];
   summary: {
@@ -80,5 +83,6 @@ export function formatNewsDate(date: string) {
 export function newsCategoryLabel(category: string) {
   if (category === "global") return "全球新闻";
   if (category === "ai-tech") return "AI 科技";
+  if (category === "youtube") return "YouTube 热门";
   return category;
 }

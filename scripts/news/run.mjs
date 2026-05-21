@@ -19,8 +19,11 @@ const userAgent =
   "trend-radar-news-learning-bot/0.1 (+https://open.qiyuebao.xyz; headline summary)";
 const globalLimit = Number.parseInt(process.env.NEWS_GLOBAL_LIMIT ?? "20", 10);
 const techLimit = Number.parseInt(process.env.NEWS_TECH_LIMIT ?? "20", 10);
+const youtubeLimit = Number.parseInt(process.env.NEWS_YOUTUBE_LIMIT ?? "10", 10);
 const sourceTimeoutMs = Number.parseInt(process.env.NEWS_FETCH_TIMEOUT_MS ?? "16000", 10);
 const articleContentLimit = Number.parseInt(process.env.NEWS_ARTICLE_CONTENT_LIMIT ?? "6000", 10);
+const youtubeApiKey = process.env.YOUTUBE_API_KEY;
+const youtubeRegion = process.env.YOUTUBE_REGION ?? "US";
 
 const openaiConfig = {
   apiKey: process.env.OPENAI_API_KEY,
@@ -71,6 +74,13 @@ async function fetchJson(url, options = {}) {
 
 async function fetchArticleContent(item) {
   const existing = stripHtml(item.content ?? "");
+  if (item.source === "YouTube") {
+    return {
+      ...item,
+      content: existing || item.summary || item.originalTitle,
+      contentStatus: existing ? "source-fulltext" : "summary-fallback",
+    };
+  }
   if (existing.length >= 800) {
     return { ...item, content: existing.slice(0, articleContentLimit), contentStatus: "source-fulltext" };
   }
@@ -270,6 +280,7 @@ function scoreNews(item) {
   if (item.source === "BBC" || item.source === "Guardian") score += 5;
   if (item.source === "Hacker News") score += Math.min(20, Math.round((item.points ?? 0) / 80));
   if (item.source === "Product Hunt") score += 7;
+  if (item.source === "YouTube") score += Math.min(25, Math.round(Math.log10(Math.max(1, item.viewCount ?? 1)) * 4));
   if (item.publishedAt) {
     const ageHours = (Date.now() - new Date(item.publishedAt).getTime()) / 36e5;
     if (ageHours <= 24) score += 10;
@@ -288,11 +299,12 @@ function classifyTags(item) {
     ["金融", ["market", "stock", "bank", "rate", "inflation", "fed", "economy"]],
     ["安全", ["security", "cyber", "privacy", "hack", "breach"]],
     ["产品", ["product", "launch", "tool", "founder"]],
+    ["视频", ["video", "youtube", "views", "channel"]],
   ];
   for (const [tag, keywords] of rules) {
     if (keywords.some(keyword => text.includes(keyword))) tags.add(tag);
   }
-  if (!tags.size) tags.add(item.category === "ai-tech" ? "科技" : "全球");
+  if (!tags.size) tags.add(item.category === "ai-tech" ? "科技" : item.category === "youtube" ? "视频" : "全球");
   return [...tags].slice(0, 4);
 }
 
@@ -305,6 +317,7 @@ function sourceWeight(source) {
     "Product Hunt": 84,
     "Hugging Face": 82,
     "The Verge": 80,
+    YouTube: 78,
   }[source] ?? 60;
 }
 
@@ -321,6 +334,7 @@ function normalizeItem(raw) {
     category: raw.category,
     publishedAt: raw.publishedAt || "",
     fetchedAt: new Date().toISOString(),
+    viewCount: raw.viewCount,
   };
   item.score = scoreNews(item);
   item.sourceWeight = sourceWeight(item.source);
@@ -473,6 +487,43 @@ async function fetchHuggingFace() {
   }
 }
 
+async function fetchYouTube() {
+  if (!youtubeApiKey) {
+    await appendLog("source_skipped", {
+      source: "YouTube",
+      reason: "YOUTUBE_API_KEY is not configured",
+    });
+    return [];
+  }
+  const url =
+    `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,contentDetails&chart=mostPopular&maxResults=${youtubeLimit}` +
+    `&regionCode=${encodeURIComponent(youtubeRegion)}&key=${encodeURIComponent(youtubeApiKey)}`;
+  try {
+    const data = await fetchJson(url);
+    return (data.items ?? []).map(item => {
+      const snippet = item.snippet ?? {};
+      const statistics = item.statistics ?? {};
+      const viewCount = Number.parseInt(statistics.viewCount ?? "0", 10);
+      return {
+        source: "YouTube",
+        category: "youtube",
+        originalTitle: snippet.title,
+        summary: `${snippet.channelTitle ?? "Unknown channel"} · ${Number.isFinite(viewCount) ? viewCount.toLocaleString("en-US") : "0"} views`,
+        content:
+          snippet.description ||
+          `${snippet.title}\n\nChannel: ${snippet.channelTitle ?? "Unknown channel"}\nViews: ${Number.isFinite(viewCount) ? viewCount.toLocaleString("en-US") : "0"}`,
+        url: `https://www.youtube.com/watch?v=${item.id}`,
+        publishedAt: normalizeDate(snippet.publishedAt),
+        channelTitle: snippet.channelTitle,
+        viewCount: Number.isFinite(viewCount) ? viewCount : 0,
+      };
+    });
+  } catch (error) {
+    await appendLog("source_error", { source: "YouTube", region: youtubeRegion, error: error.message });
+    return [];
+  }
+}
+
 async function translateItems(items) {
   if (!openaiConfig.apiKey) {
     return translateWithPublicEndpoint(items);
@@ -590,6 +641,8 @@ async function translateWithPublicEndpoint(items) {
       const categoryReason =
         item.category === "ai-tech"
           ? "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。"
+          : item.category === "youtube"
+            ? "这条信息属于 YouTube 热门视频信号，适合用于观察大众注意力、内容叙事、传播主题和跨平台选题机会。"
           : "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。";
       translated.push({
         ...item,
@@ -623,7 +676,7 @@ function pickTop(items, category, limit) {
     .filter(item => item.category === category)
     .sort((a, b) => b.score - a.score || b.sourceWeight - a.sourceWeight);
   const sourceCount = new Map();
-  const sourceMax = category === "global" ? 8 : 7;
+  const sourceMax = category === "global" ? 8 : category === "youtube" ? 10 : 7;
   const selected = [];
   for (const item of sorted) {
     const count = sourceCount.get(item.source) ?? 0;
@@ -652,16 +705,19 @@ async function main() {
     fetchProductHunt(),
     fetchHuggingFace(),
     fetchTheVerge(),
+    fetchYouTube(),
   ]);
   const normalized = dedupe(sources.flat().map(normalizeItem));
   const globalTop = pickTop(normalized, "global", globalLimit);
   const techTop = pickTop(normalized, "ai-tech", techLimit);
-  const withArticleContent = await enrichArticleContent([...globalTop, ...techTop]);
+  const youtubeTop = pickTop(normalized, "youtube", youtubeLimit);
+  const withArticleContent = await enrichArticleContent([...globalTop, ...techTop, ...youtubeTop]);
   const selected = await translateItems(withArticleContent);
 
   const selectedMap = new Map(selected.map(item => [item.id, item]));
   const globalIds = globalTop.map(item => item.id);
   const techIds = techTop.map(item => item.id);
+  const youtubeIds = youtubeTop.map(item => item.id);
 
   await Promise.all(
     selected.map(item =>
@@ -679,16 +735,18 @@ async function main() {
       totalItems: selected.length,
       globalItems: globalIds.length,
       techItems: techIds.length,
+      youtubeItems: youtubeIds.length,
       translatedItems: selected.filter(item => item.translationStatus === "translated").length,
     },
     sections: {
       global: globalIds,
       aiTech: techIds,
+      youtube: youtubeIds,
     },
     sources: [...new Set(selected.map(item => item.source))],
     summary: {
-      overview: `本期纳入 ${globalIds.length} 条全球新闻与 ${techIds.length} 条 AI 科技信号。`,
-      conclusion: "建议把新闻模块作为趋势雷达的外部环境层，与 GitHub 项目趋势交叉观察。",
+      overview: `本期纳入 ${globalIds.length} 条全球新闻、${techIds.length} 条 AI 科技信号与 ${youtubeIds.length} 条 YouTube 热门视频。`,
+      conclusion: "建议把新闻模块作为趋势雷达的外部环境层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。",
     },
   };
   await writeFile(path.join(reportsDir, `${today}.json`), JSON.stringify(report, null, 2));
@@ -697,6 +755,7 @@ async function main() {
     total: selected.length,
     global: globalIds.length,
     aiTech: techIds.length,
+    youtube: youtubeIds.length,
   });
   console.log(`Generated ${report.title}`);
   console.log(`Items: ${selected.length}`);

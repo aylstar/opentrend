@@ -28,3 +28,15 @@
 {"type":"article_fetch_error","at":"2026-05-21T09:35:36.537Z","id":"hacker-news-36ba3988","source":"Hacker News","url":"https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5","error":"401 HTTP Forbidden"}
 {"type":"article_fetch_error","at":"2026-05-21T09:35:36.727Z","id":"product-hunt-1f7923a","source":"Product Hunt","url":"https://www.producthunt.com/products/google-antigravity","error":"403 Forbidden"}
 {"type":"news_report_generated","at":"2026-05-21T09:36:08.340Z","date":"2026-05-21","total":40,"global":20,"aiTech":20}
+{"type":"source_skipped","at":"2026-05-21T13:45:47.463Z","source":"YouTube","reason":"YOUTUBE_API_KEY is not configured"}
+{"type":"source_error","at":"2026-05-21T13:45:51.546Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.074Z","id":"product-hunt-1cfd7cd1","source":"Product Hunt","url":"https://www.producthunt.com/products/allihat","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.082Z","id":"product-hunt-39439c63","source":"Product Hunt","url":"https://www.producthunt.com/products/tacet","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.087Z","id":"product-hunt-49a1a0d9","source":"Product Hunt","url":"https://www.producthunt.com/products/tycoon-us","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.135Z","id":"hacker-news-b901c652","source":"Hacker News","url":"https://openai.com/index/model-disproves-discrete-geometry-conjecture/","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.408Z","id":"product-hunt-990436c9","source":"Product Hunt","url":"https://www.producthunt.com/products/slideshot","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.435Z","id":"product-hunt-b0667b85","source":"Product Hunt","url":"https://www.producthunt.com/products/basedash","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:54.904Z","id":"hacker-news-36ba3988","source":"Hacker News","url":"https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:55.319Z","id":"product-hunt-964c2e2a","source":"Product Hunt","url":"https://www.producthunt.com/products/autosubtitles","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-21T13:45:55.341Z","id":"product-hunt-c80094f0","source":"Product Hunt","url":"https://www.producthunt.com/products/instavm","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-05-21T13:46:50.122Z","date":"2026-05-21","total":40,"global":20,"aiTech":20,"youtube":0}

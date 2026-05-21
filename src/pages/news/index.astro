@@ -12,6 +12,7 @@ const pick = (ids: string[] = []) =>
 
 const globalItems = latest ? pick(latest.sections.global) : [];
 const techItems = latest ? pick(latest.sections.aiTech) : [];
+const youtubeItems = latest ? pick(latest.sections.youtube) : [];
 ---
 
 <TrendShell title="新闻趋势雷达" description="全球新闻与 AI 科技新闻中文趋势摘要">
@@ -21,7 +22,7 @@ const techItems = latest ? pick(latest.sections.aiTech) : [];
         <p class="trend-eyebrow">News Intelligence</p>
         <h1 class="trend-report-title">新闻趋势雷达</h1>
         <p class="trend-report-subtitle">
-          {latest ? `${formatNewsDate(latest.date)} · 全球新闻 / AI 科技 · ${latest.stats.totalItems} 条` : "等待生成新闻数据"}
+          {latest ? `${formatNewsDate(latest.date)} · 全球新闻 / AI 科技 / YouTube · ${latest.stats.totalItems} 条` : "等待生成新闻数据"}
         </p>
       </div>
     </section>
@@ -38,6 +39,7 @@ const techItems = latest ? pick(latest.sections.aiTech) : [];
               <div><dt>总量</dt><dd>{latest.stats.totalItems}</dd></div>
               <div><dt>全球</dt><dd>{latest.stats.globalItems}</dd></div>
               <div><dt>AI 科技</dt><dd>{latest.stats.techItems}</dd></div>
+              <div><dt>YouTube</dt><dd>{latest.stats.youtubeItems ?? 0}</dd></div>
               <div><dt>中文</dt><dd>{latest.stats.translatedItems}</dd></div>
             </dl>
             <div class="trend-tag-strip">
@@ -49,6 +51,9 @@ const techItems = latest ? pick(latest.sections.aiTech) : [];
             <div class="trend-rank-grid">
               <NewsRankBoard title="全球新闻 Top 20" subtitle="GDELT / BBC / Guardian" items={globalItems} />
               <NewsRankBoard title="AI 科技 Top 20" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techItems} />
+              {youtubeItems.length ? (
+                <NewsRankBoard title="YouTube 热门视频 Top 10" subtitle="YouTube Data API / Most Popular" items={youtubeItems} />
+              ) : null}
             </div>
           </section>
 
@@ -75,7 +80,7 @@ const techItems = latest ? pick(latest.sections.aiTech) : [];
         <section class="trend-container trend-section">
           <div class="trend-panel trend-feature-card">
             <h2>暂无新闻数据</h2>
-            <p>运行 pnpm news:run 后，这里会展示全球新闻 Top 20 和 AI 科技 Top 20。</p>
+            <p>运行 pnpm news:run 后，这里会展示全球新闻 Top 20、AI 科技 Top 20 和 YouTube 热门视频 Top 10。</p>
           </div>
         </section>
       )
