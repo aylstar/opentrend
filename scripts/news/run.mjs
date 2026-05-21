@@ -19,6 +19,7 @@ const userAgent =
   "trend-radar-news-learning-bot/0.1 (+https://open.qiyuebao.xyz; headline summary)";
 const globalLimit = Number.parseInt(process.env.NEWS_GLOBAL_LIMIT ?? "20", 10);
 const techLimit = Number.parseInt(process.env.NEWS_TECH_LIMIT ?? "20", 10);
+const financeLimit = Number.parseInt(process.env.NEWS_FINANCE_LIMIT ?? "30", 10);
 const youtubeLimit = Number.parseInt(process.env.NEWS_YOUTUBE_LIMIT ?? "10", 10);
 const sourceTimeoutMs = Number.parseInt(process.env.NEWS_FETCH_TIMEOUT_MS ?? "16000", 10);
 const articleContentLimit = Number.parseInt(process.env.NEWS_ARTICLE_CONTENT_LIMIT ?? "6000", 10);
@@ -275,12 +276,14 @@ function scoreNews(item) {
   let score = 50;
   const text = `${item.originalTitle} ${item.summary}`.toLowerCase();
   if (/breaking|live|war|election|policy|rate|ai|openai|nvidia|model|security/.test(text)) score += 12;
+  if (/market|stock|bond|yield|fed|inflation|earnings|bank|oil|gold|dollar|tariff|debt/.test(text)) score += 10;
   if (/analysis|explainer|exclusive|investigation/.test(text)) score += 8;
   if (item.source === "GDELT") score += 6;
   if (item.source === "BBC" || item.source === "Guardian") score += 5;
   if (item.source === "Hacker News") score += Math.min(20, Math.round((item.points ?? 0) / 80));
   if (item.source === "Product Hunt") score += 7;
   if (item.source === "YouTube") score += Math.min(25, Math.round(Math.log10(Math.max(1, item.viewCount ?? 1)) * 4));
+  if (item.category === "finance") score += 8;
   if (item.publishedAt) {
     const ageHours = (Date.now() - new Date(item.publishedAt).getTime()) / 36e5;
     if (ageHours <= 24) score += 10;
@@ -297,6 +300,7 @@ function classifyTags(item) {
     ["科技", ["tech", "software", "startup", "app", "platform", "internet"]],
     ["全球", ["world", "global", "china", "us", "europe", "russia", "ukraine", "israel"]],
     ["金融", ["market", "stock", "bank", "rate", "inflation", "fed", "economy"]],
+    ["财经", ["finance", "markets", "stocks", "bonds", "yield", "earnings", "oil", "gold", "dollar"]],
     ["安全", ["security", "cyber", "privacy", "hack", "breach"]],
     ["产品", ["product", "launch", "tool", "founder"]],
     ["视频", ["video", "youtube", "views", "channel"]],
@@ -304,7 +308,7 @@ function classifyTags(item) {
   for (const [tag, keywords] of rules) {
     if (keywords.some(keyword => text.includes(keyword))) tags.add(tag);
   }
-  if (!tags.size) tags.add(item.category === "ai-tech" ? "科技" : item.category === "youtube" ? "视频" : "全球");
+  if (!tags.size) tags.add(item.category === "ai-tech" ? "科技" : item.category === "youtube" ? "视频" : item.category === "finance" ? "财经" : "全球");
   return [...tags].slice(0, 4);
 }
 
@@ -318,6 +322,14 @@ function sourceWeight(source) {
     "Hugging Face": 82,
     "The Verge": 80,
     YouTube: 78,
+    Bloomberg: 95,
+    Reuters: 94,
+    "Financial Times": 93,
+    "Wall Street Journal": 92,
+    CNBC: 88,
+    MarketWatch: 84,
+    "Yahoo Finance": 82,
+    Investing: 80,
   }[source] ?? 60;
 }
 
@@ -524,6 +536,42 @@ async function fetchYouTube() {
   }
 }
 
+async function fetchFinanceFeeds() {
+  const feeds = [
+    {
+      source: "Yahoo Finance",
+      url: "https://feeds.finance.yahoo.com/rss/2.0/headline?s=^GSPC,^IXIC,^DJI&region=US&lang=en-US",
+    },
+    { source: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+    { source: "CNBC", url: "https://www.cnbc.com/id/10001147/device/rss/rss.html" },
+    { source: "MarketWatch", url: "https://www.marketwatch.com/rss/topstories" },
+    { source: "MarketWatch", url: "https://www.marketwatch.com/rss/marketpulse" },
+    { source: "Wall Street Journal", url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml" },
+    { source: "Wall Street Journal", url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" },
+    { source: "Investing", url: "https://www.investing.com/rss/news.rss" },
+    { source: "Investing", url: "https://www.investing.com/rss/market_overview.rss" },
+    { source: "Financial Times", url: "https://www.ft.com/rss/home" },
+    {
+      source: "Bloomberg",
+      url: "https://news.google.com/rss/search?q=site%3Abloomberg.com%20markets%20OR%20site%3Abloomberg.com%20finance&hl=en-US&gl=US&ceid=US%3Aen",
+    },
+    {
+      source: "Reuters",
+      url: "https://news.google.com/rss/search?q=site%3Areuters.com%20markets%20OR%20site%3Areuters.com%20business&hl=en-US&gl=US&ceid=US%3Aen",
+    },
+  ];
+  const all = [];
+  for (const feed of feeds) {
+    try {
+      const items = parseFeed(await fetchText(feed.url), feed.source, "finance");
+      all.push(...items);
+    } catch (error) {
+      await appendLog("source_error", { source: feed.source, url: feed.url, error: error.message });
+    }
+  }
+  return all;
+}
+
 async function translateItems(items) {
   if (!openaiConfig.apiKey) {
     return translateWithPublicEndpoint(items);
@@ -643,7 +691,9 @@ async function translateWithPublicEndpoint(items) {
           ? "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。"
           : item.category === "youtube"
             ? "这条信息属于 YouTube 热门视频信号，适合用于观察大众注意力、内容叙事、传播主题和跨平台选题机会。"
-          : "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。";
+            : item.category === "finance"
+              ? "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。"
+              : "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。";
       translated.push({
         ...item,
         chineseTitle: chineseTitle || item.originalTitle,
@@ -676,7 +726,7 @@ function pickTop(items, category, limit) {
     .filter(item => item.category === category)
     .sort((a, b) => b.score - a.score || b.sourceWeight - a.sourceWeight);
   const sourceCount = new Map();
-  const sourceMax = category === "global" ? 8 : category === "youtube" ? 10 : 7;
+  const sourceMax = category === "global" ? 8 : category === "youtube" ? 10 : category === "finance" ? 6 : 7;
   const selected = [];
   for (const item of sorted) {
     const count = sourceCount.get(item.source) ?? 0;
@@ -705,18 +755,21 @@ async function main() {
     fetchProductHunt(),
     fetchHuggingFace(),
     fetchTheVerge(),
+    fetchFinanceFeeds(),
     fetchYouTube(),
   ]);
   const normalized = dedupe(sources.flat().map(normalizeItem));
   const globalTop = pickTop(normalized, "global", globalLimit);
   const techTop = pickTop(normalized, "ai-tech", techLimit);
+  const financeTop = pickTop(normalized, "finance", financeLimit);
   const youtubeTop = pickTop(normalized, "youtube", youtubeLimit);
-  const withArticleContent = await enrichArticleContent([...globalTop, ...techTop, ...youtubeTop]);
+  const withArticleContent = await enrichArticleContent([...globalTop, ...techTop, ...financeTop, ...youtubeTop]);
   const selected = await translateItems(withArticleContent);
 
   const selectedMap = new Map(selected.map(item => [item.id, item]));
   const globalIds = globalTop.map(item => item.id);
   const techIds = techTop.map(item => item.id);
+  const financeIds = financeTop.map(item => item.id);
   const youtubeIds = youtubeTop.map(item => item.id);
 
   await Promise.all(
@@ -735,18 +788,20 @@ async function main() {
       totalItems: selected.length,
       globalItems: globalIds.length,
       techItems: techIds.length,
+      financeItems: financeIds.length,
       youtubeItems: youtubeIds.length,
       translatedItems: selected.filter(item => item.translationStatus === "translated").length,
     },
     sections: {
       global: globalIds,
       aiTech: techIds,
+      finance: financeIds,
       youtube: youtubeIds,
     },
     sources: [...new Set(selected.map(item => item.source))],
     summary: {
-      overview: `本期纳入 ${globalIds.length} 条全球新闻、${techIds.length} 条 AI 科技信号与 ${youtubeIds.length} 条 YouTube 热门视频。`,
-      conclusion: "建议把新闻模块作为趋势雷达的外部环境层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。",
+      overview: `本期纳入 ${globalIds.length} 条全球新闻、${techIds.length} 条 AI 科技信号、${financeIds.length} 条财经市场信号与 ${youtubeIds.length} 条 YouTube 热门视频。`,
+      conclusion: "建议把新闻模块作为外部环境层，把财经雷达作为市场变量层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。",
     },
   };
   await writeFile(path.join(reportsDir, `${today}.json`), JSON.stringify(report, null, 2));
@@ -755,6 +810,7 @@ async function main() {
     total: selected.length,
     global: globalIds.length,
     aiTech: techIds.length,
+    finance: financeIds.length,
     youtube: youtubeIds.length,
   });
   console.log(`Generated ${report.title}`);

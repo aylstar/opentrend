@@ -24,6 +24,7 @@ const pickNews = (ids: string[] = []) =>
   ids.map(id => newsMap.get(id)).filter((item): item is NewsItem => Boolean(item));
 const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
+const financeNews = latestNews ? pickNews(latestNews.sections.finance).slice(0, 30) : [];
 const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 10) : [];
 ---
 
@@ -46,6 +47,11 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
           <span>新闻雷达</span>
           <strong>{latestNews ? `${latestNews.stats.globalItems + latestNews.stats.techItems} 条新闻信号` : "等待数据"}</strong>
           <p>全球新闻与 AI 科技新闻排行</p>
+        </a>
+        <a class="trend-module-card is-finance" href="/finance/">
+          <span>财经雷达</span>
+          <strong>{financeNews.length ? `${financeNews.length} 条市场信号` : "等待数据"}</strong>
+          <p>彭博、Reuters、FT、WSJ 等财经头条</p>
         </a>
         <a class="trend-module-card is-interest" href="/youtube/">
           <span>兴趣雷达</span>
@@ -73,6 +79,28 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
           <div class="trend-rank-grid">
             <NewsRankBoard title="全球新闻 Top 10" subtitle="GDELT / BBC / Guardian" items={globalNews} />
             <NewsRankBoard title="AI 科技 Top 10" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techNews} />
+          </div>
+        </section>
+      ) : null
+    }
+
+    {
+      financeNews.length ? (
+        <section class="trend-container trend-section trend-home-ranks">
+          <div class="trend-section-heading">
+            <div>
+              <p class="trend-eyebrow">Finance Radar</p>
+              <h2>财经雷达</h2>
+            </div>
+            <a href="/finance/">进入财经雷达</a>
+          </div>
+          <div class="trend-rank-grid">
+            <NewsRankBoard
+              title="全球财经 Top 30"
+              subtitle="Bloomberg / Reuters / FT / WSJ / CNBC / MarketWatch"
+              items={financeNews}
+              basePath="/finance/items"
+            />
           </div>
         </section>
       ) : null

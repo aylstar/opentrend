@@ -11,6 +11,7 @@ const pathname = Astro.url.pathname;
 const isHome = pathname === "/";
 const navItems = [
   { label: "新闻雷达", href: "/news/", match: "/news/" },
+  { label: "财经雷达", href: "/finance/", match: "/finance/" },
   { label: "兴趣雷达", href: "/youtube/", match: "/youtube/" },
   { label: "科技雷达", href: "/trends/", match: "/trends/" },
   { label: "信息库", href: "/library/", match: "/library/" },
@@ -338,7 +339,7 @@ const navItems = [
 
   @media (min-width: 820px) {
     .trend-module-grid {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
+      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
   }
 
@@ -368,6 +369,10 @@ const navItems = [
 
   .trend-module-card.is-news {
     --module-color: var(--trend-blue);
+  }
+
+  .trend-module-card.is-finance {
+    --module-color: var(--trend-gold);
   }
 
   .trend-module-card.is-interest {

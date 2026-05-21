@@ -2,14 +2,15 @@
   "slug": "2026-05-21",
   "date": "2026-05-21",
   "title": "2026-05-21 新闻趋势雷达",
-  "description": "全球新闻 Top 20 与 AI 科技 Top 20 中文摘要。",
+  "description": "全球新闻、AI 科技、财经市场与 YouTube 热门信号中文摘要。",
   "generatedAt": "2026-05-21T14:01:54.571Z",
   "stats": {
-    "totalItems": 50,
+    "totalItems": 80,
     "globalItems": 20,
     "techItems": 20,
     "youtubeItems": 10,
-    "translatedItems": 50
+    "translatedItems": 50,
+    "financeItems": 30
   },
   "sections": {
     "global": [
@@ -67,6 +68,38 @@
       "youtube-fe954d82",
       "youtube-8c714e0",
       "youtube-af5e8785"
+    ],
+    "finance": [
+      "bloomberg-77848a51",
+      "bloomberg-626c1ece",
+      "bloomberg-597f9c98",
+      "bloomberg-3b3f1664",
+      "bloomberg-f9b706e9",
+      "bloomberg-3738a4db",
+      "reuters-a5af7dc0",
+      "reuters-7d7238b5",
+      "reuters-5ac39254",
+      "reuters-a3092b4",
+      "reuters-5c782ae0",
+      "reuters-97061c",
+      "financial-times-3790c1ff",
+      "financial-times-499ebf69",
+      "cnbc-32914a3a",
+      "cnbc-823ba78b",
+      "cnbc-a0e41b91",
+      "cnbc-3de8abcf",
+      "cnbc-d5c1db76",
+      "cnbc-e8527133",
+      "marketwatch-11b476bb",
+      "marketwatch-c87b9ce2",
+      "yahoo-finance-30eaca00",
+      "yahoo-finance-57180a1d",
+      "yahoo-finance-25e9c08",
+      "yahoo-finance-80e00961",
+      "yahoo-finance-dc57cb64",
+      "yahoo-finance-fa910bf0",
+      "investing-b4ddfd5",
+      "investing-1283f3bd"
     ]
   },
   "sources": [
@@ -75,10 +108,17 @@
     "Hacker News",
     "Product Hunt",
     "The Verge",
-    "YouTube"
+    "YouTube",
+    "Bloomberg",
+    "Reuters",
+    "Financial Times",
+    "CNBC",
+    "MarketWatch",
+    "Yahoo Finance",
+    "Investing"
   ],
   "summary": {
-    "overview": "本期纳入 20 条全球新闻、20 条 AI 科技信号与 10 条 YouTube 热门视频。",
-    "conclusion": "建议把新闻模块作为趋势雷达的外部环境层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。"
+    "overview": "本期纳入 20 条全球新闻、20 条 AI 科技信号、30 条财经市场信号与 10 条 YouTube 热门视频。",
+    "conclusion": "建议把新闻模块作为外部环境层，把财经雷达作为市场变量层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。"
   }
 }

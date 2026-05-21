@@ -6,7 +6,7 @@ export type NewsItem = {
   slug: string;
   rank: number;
   source: string;
-  category: "global" | "ai-tech" | "youtube";
+  category: "global" | "ai-tech" | "finance" | "youtube";
   originalTitle: string;
   chineseTitle: string;
   summary: string;
@@ -35,12 +35,14 @@ export type NewsReport = {
     totalItems: number;
     globalItems: number;
     techItems: number;
+    financeItems?: number;
     youtubeItems?: number;
     translatedItems: number;
   };
   sections: {
     global: string[];
     aiTech: string[];
+    finance?: string[];
     youtube?: string[];
   };
   sources: string[];
@@ -83,6 +85,7 @@ export function formatNewsDate(date: string) {
 export function newsCategoryLabel(category: string) {
   if (category === "global") return "全球新闻";
   if (category === "ai-tech") return "AI 科技";
+  if (category === "finance") return "财经市场";
   if (category === "youtube") return "YouTube 热门";
   return category;
 }
