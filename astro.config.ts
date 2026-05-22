@@ -53,7 +53,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
     ssr: {
-      external: ["@supabase/ssr", "@supabase/supabase-js", "tslib"],
+      external: ["@supabase/supabase-js", "tslib"],
     },
   },
   fonts: [

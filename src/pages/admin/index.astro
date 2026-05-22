@@ -1,36 +1,26 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
-import { createSupabaseAdminClient, getCurrentUser, isAdminEmail } from "@/lib/auth";
+import { createSupabaseAdminClient, isAdminRequest } from "@/lib/auth";
 
-const { user } = await getCurrentUser(Astro);
-const isAdmin = isAdminEmail(user?.email);
+const isAdmin = isAdminRequest(Astro);
 const admin = createSupabaseAdminClient();
 const { data: codes = [] } =
   isAdmin && admin
     ? await admin
         .from("activation_codes")
-        .select("code,plan,duration_days,status,order_no,used_at,created_at")
+        .select("code,plan,duration_days,status,order_no,activated_at,expires_at,device_limit,last_seen_at,created_at")
         .order("created_at", { ascending: false })
-        .limit(50)
+        .limit(80)
     : { data: [] };
 const codeRows = codes ?? [];
-const { data: subscriptions = [] } =
-  isAdmin && admin
-    ? await admin
-        .from("subscriptions")
-        .select("email,plan,status,expires_at,device_limit,source,updated_at")
-        .order("updated_at", { ascending: false })
-        .limit(50)
-    : { data: [] };
-const subscriptionRows = subscriptions ?? [];
 ---
 
-<TrendShell title="后台管理 | 趋势雷达" description="趋势雷达会员后台">
+<TrendShell title="后台管理 | 趋势雷达" description="趋势雷达激活码后台">
   <main id="main-content">
     <section class="trend-container trend-settings">
       <p class="trend-eyebrow">Admin</p>
       <h1 class="trend-report-title">后台管理</h1>
-      <p class="trend-lead">用于批量生成淘宝/闲鱼自动发货激活码，并查看最近会员状态。</p>
+      <p class="trend-lead">用于批量生成淘宝/闲鱼自动发货激活码。后台入口使用 ADMIN_TOKEN 保护。</p>
 
       {
         isAdmin ? (
@@ -65,36 +55,34 @@ const subscriptionRows = subscriptions ?? [];
             </section>
 
             <section class="trend-section">
-              <div class="trend-rank-grid">
-                <section class="trend-panel trend-feature-card">
-                  <h2>最近激活码</h2>
-                  <div class="trend-admin-table">
-                    {codeRows.map(code => (
-                      <div class="trend-admin-row">
-                        <strong>{code.code}</strong>
-                        <span>{code.plan} · {code.duration_days} 天 · {code.status}</span>
-                      </div>
-                    ))}
-                  </div>
-                </section>
-                <section class="trend-panel trend-feature-card">
-                  <h2>最近会员</h2>
-                  <div class="trend-admin-table">
-                    {subscriptionRows.map(subscription => (
-                      <div class="trend-admin-row">
-                        <strong>{subscription.email ?? "无邮箱"}</strong>
-                        <span>{subscription.plan} · {subscription.status} · {subscription.expires_at ? new Date(subscription.expires_at).toLocaleDateString("zh-CN") : "未到期"}</span>
-                      </div>
-                    ))}
-                  </div>
-                </section>
-              </div>
+              <section class="trend-panel trend-feature-card">
+                <h2>最近激活码</h2>
+                <div class="trend-admin-table">
+                  {codeRows.map(code => (
+                    <div class="trend-admin-row">
+                      <strong>{code.code}</strong>
+                      <span>
+                        {code.plan} · {code.duration_days} 天 · {code.status}
+                        {code.expires_at ? ` · 到期 ${new Date(code.expires_at).toLocaleDateString("zh-CN")}` : ""}
+                        {code.device_limit ? ` · ${code.device_limit} 台设备` : ""}
+                      </span>
+                    </div>
+                  ))}
+                </div>
+              </section>
             </section>
           </>
         ) : (
           <section class="trend-panel trend-feature-card">
-            <h2>无权限</h2>
-            <p>只有 ADMIN_EMAILS 环境变量中配置的邮箱可以访问后台。</p>
+            <h2>请输入后台口令</h2>
+            <p>访问方式：/admin/?token=你的 ADMIN_TOKEN。首次输入后会写入后台 Cookie。</p>
+            <form class="trend-auth-form" method="get" action="/admin/">
+              <label>
+                <span>后台口令</span>
+                <input type="password" name="token" autocomplete="off" />
+              </label>
+              <button type="submit">进入后台</button>
+            </form>
           </section>
         )
       }
@@ -135,3 +123,4 @@ const subscriptionRows = subscriptions ?? [];
     });
   </script>
 </TrendShell>
+

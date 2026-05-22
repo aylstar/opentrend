@@ -1,21 +1,22 @@
-import { createServerClient } from "@supabase/ssr";
 import { createClient } from "@supabase/supabase-js";
 import type { APIContext } from "astro";
 
-export type SubscriptionStatus = "free" | "active" | "expired" | "banned";
+export type PassStatus = "none" | "active" | "expired" | "disabled";
 
-export type Membership = {
-  userId: string;
-  email: string | null;
+export type AccessPass = {
+  code: string;
   plan: string;
-  status: SubscriptionStatus;
+  status: PassStatus;
   expiresAt: string | null;
   deviceLimit: number;
 };
 
 const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
-const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 const supabaseServiceRoleKey = import.meta.env.SUPABASE_SERVICE_ROLE_KEY;
+const adminToken = import.meta.env.ADMIN_TOKEN;
+
+export const accessCodeCookie = "tr_access_code";
+export const deviceCookie = "tr_device_id";
 
 export const protectedPrefixes = [
   "/news/",
@@ -27,46 +28,11 @@ export const protectedPrefixes = [
 ];
 
 export function isSupabaseConfigured() {
-  return Boolean(supabaseUrl && supabaseAnonKey);
-}
-
-export function isServiceRoleConfigured() {
   return Boolean(supabaseUrl && supabaseServiceRoleKey);
 }
 
-function parseCookieHeader(cookieHeader: string | null) {
-  if (!cookieHeader) return [];
-  return cookieHeader
-    .split(";")
-    .map(cookie => {
-      const [name, ...valueParts] = cookie.trim().split("=");
-      return { name, value: decodeURIComponent(valueParts.join("=")) };
-    })
-    .filter(cookie => cookie.name);
-}
-
-export function createSupabaseServerClient(context: Pick<APIContext, "cookies" | "request">) {
-  if (!isSupabaseConfigured()) return null;
-
-  return createServerClient(supabaseUrl, supabaseAnonKey, {
-    cookies: {
-      getAll() {
-        return parseCookieHeader(context.request.headers.get("cookie"));
-      },
-      setAll(cookieList) {
-        cookieList.forEach(cookie => {
-          context.cookies.set(cookie.name, cookie.value, {
-            ...cookie.options,
-            path: cookie.options?.path ?? "/",
-          });
-        });
-      },
-    },
-  });
-}
-
 export function createSupabaseAdminClient() {
-  if (!isServiceRoleConfigured()) return null;
+  if (!isSupabaseConfigured()) return null;
   return createClient(supabaseUrl, supabaseServiceRoleKey, {
     auth: {
       autoRefreshToken: false,
@@ -75,63 +41,70 @@ export function createSupabaseAdminClient() {
   });
 }
 
-export async function getCurrentUser(context: Pick<APIContext, "cookies" | "request">) {
-  const supabase = createSupabaseServerClient(context);
-  if (!supabase) return { supabase: null, user: null };
-
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
-
-  return { supabase, user };
+export function normalizeCode(value?: string | null) {
+  return String(value ?? "")
+    .trim()
+    .toUpperCase();
 }
 
-export async function getMembership(userId: string, email?: string | null): Promise<Membership> {
-  const admin = createSupabaseAdminClient();
-  const fallback: Membership = {
-    userId,
-    email: email ?? null,
-    plan: "free",
-    status: "free",
-    expiresAt: null,
-    deviceLimit: 1,
-  };
+export function planDeviceLimit(plan: string) {
+  if (plan === "team") return 5;
+  if (plan === "vip") return 3;
+  return 2;
+}
 
-  if (!admin) return fallback;
+export async function getAccessPass(code?: string | null): Promise<AccessPass | null> {
+  const normalizedCode = normalizeCode(code);
+  const admin = createSupabaseAdminClient();
+  if (!admin || !normalizedCode) return null;
 
   const { data } = await admin
-    .from("subscriptions")
-    .select("plan,status,expires_at,device_limit")
-    .eq("user_id", userId)
+    .from("activation_codes")
+    .select("code,plan,status,expires_at,device_limit")
+    .eq("code", normalizedCode)
     .maybeSingle();
 
-  if (!data) return fallback;
+  if (!data) return null;
 
   const expired =
-    data.expires_at && data.status === "active" && new Date(data.expires_at).getTime() < Date.now();
+    data.expires_at && new Date(data.expires_at).getTime() < Date.now();
 
   return {
-    userId,
-    email: email ?? null,
-    plan: data.plan ?? "free",
-    status: expired ? "expired" : (data.status ?? "free"),
+    code: data.code,
+    plan: data.plan ?? "monthly",
+    status: data.status === "disabled" ? "disabled" : expired ? "expired" : "active",
     expiresAt: data.expires_at ?? null,
-    deviceLimit: data.device_limit ?? 1,
+    deviceLimit: data.device_limit ?? planDeviceLimit(data.plan ?? "monthly"),
   };
 }
 
-export function hasActiveMembership(membership: Membership) {
-  return membership.status === "active";
+export function hasActivePass(pass: AccessPass | null) {
+  return pass?.status === "active";
 }
 
-export function getAdminEmails() {
-  return String(import.meta.env.ADMIN_EMAILS ?? "")
-    .split(",")
-    .map(email => email.trim().toLowerCase())
-    .filter(Boolean);
+export function isAdminRequest(context: Pick<APIContext, "cookies" | "url" | "request">) {
+  if (!adminToken) return false;
+  const cookieToken = context.cookies.get("tr_admin_token")?.value;
+  const queryToken = context.url.searchParams.get("token");
+  const headerToken = context.request.headers.get("x-admin-token");
+  return [cookieToken, queryToken, headerToken].some(token => token === adminToken);
 }
 
-export function isAdminEmail(email?: string | null) {
-  if (!email) return false;
-  return getAdminEmails().includes(email.toLowerCase());
+export function setAccessCookies(context: Pick<APIContext, "cookies" | "url">, code: string, deviceId: string) {
+  const secure = context.url.protocol === "https:";
+  context.cookies.set(accessCodeCookie, normalizeCode(code), {
+    path: "/",
+    httpOnly: true,
+    sameSite: "lax",
+    secure,
+    maxAge: 60 * 60 * 24 * 365,
+  });
+  context.cookies.set(deviceCookie, deviceId, {
+    path: "/",
+    httpOnly: true,
+    sameSite: "lax",
+    secure,
+    maxAge: 60 * 60 * 24 * 365,
+  });
 }
+

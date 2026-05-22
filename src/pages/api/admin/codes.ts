@@ -1,5 +1,5 @@
 import type { APIRoute } from "astro";
-import { createSupabaseAdminClient, getCurrentUser, isAdminEmail } from "@/lib/auth";
+import { createSupabaseAdminClient, isAdminRequest, planDeviceLimit } from "@/lib/auth";
 
 function json(data: unknown, status = 200) {
   return new Response(JSON.stringify(data), {
@@ -20,29 +20,11 @@ function makeCode(prefix: string) {
   return `${prefix}-${randomPart()}-${randomPart()}-${randomPart()}`;
 }
 
-export const GET: APIRoute = async context => {
-  const { user } = await getCurrentUser(context);
-  if (!isAdminEmail(user?.email)) return json({ error: "无权限" }, 403);
-
-  const admin = createSupabaseAdminClient();
-  if (!admin) return json({ error: "服务端未配置 SUPABASE_SERVICE_ROLE_KEY" }, 500);
-
-  const { data, error } = await admin
-    .from("activation_codes")
-    .select("code,plan,duration_days,status,order_no,used_at,created_at")
-    .order("created_at", { ascending: false })
-    .limit(100);
-
-  if (error) return json({ error: error.message }, 500);
-  return json({ codes: data ?? [] });
-};
-
 export const POST: APIRoute = async context => {
-  const { user } = await getCurrentUser(context);
-  if (!isAdminEmail(user?.email)) return json({ error: "无权限" }, 403);
+  if (!isAdminRequest(context)) return json({ error: "无权限" }, 403);
 
   const admin = createSupabaseAdminClient();
-  if (!admin) return json({ error: "服务端未配置 SUPABASE_SERVICE_ROLE_KEY" }, 500);
+  if (!admin) return json({ error: "账户系统未配置" }, 500);
 
   const body = await context.request.json().catch(() => null);
   const plan = String(body?.plan ?? "monthly");
@@ -55,12 +37,15 @@ export const POST: APIRoute = async context => {
     code: makeCode(prefix),
     plan,
     duration_days: durationDays,
+    device_limit: planDeviceLimit(plan),
     order_no: orderNo,
     status: "active",
-    created_by: user?.id,
   }));
 
-  const { data, error } = await admin.from("activation_codes").insert(rows).select("code,plan,duration_days");
+  const { data, error } = await admin
+    .from("activation_codes")
+    .insert(rows)
+    .select("code,plan,duration_days,device_limit");
   if (error) return json({ error: error.message }, 500);
 
   return json({ codes: data ?? [] });
