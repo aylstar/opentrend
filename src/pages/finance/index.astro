@@ -11,8 +11,6 @@ const pick = (ids: string[] = []) =>
   ids.map(id => itemMap.get(id)).filter((item): item is NewsItem => Boolean(item));
 
 const financeItems = latest ? pick(latest.sections.finance).slice(0, 30) : [];
-const financeSources = [...new Set(financeItems.map(item => item.source))];
-const translatedItems = financeItems.filter(item => item.translationStatus === "translated").length;
 ---
 
 <TrendShell title="财经雷达" description="全球财经市场头条 Top 30 中文趋势摘要">
@@ -30,22 +28,6 @@ const translatedItems = financeItems.filter(item => item.translationStatus === "
     {
       latest && financeItems.length ? (
         <>
-          <section class="trend-container trend-brief">
-            <div class="trend-observation">
-              <span>今日观察</span>
-              <p>本期纳入 {financeItems.length} 条全球财经市场信号，优先覆盖宏观政策、利率汇率、股债商品、金融机构和上市公司重大变化。</p>
-            </div>
-            <dl class="trend-report-metrics">
-              <div><dt>总量</dt><dd>{financeItems.length}</dd></div>
-              <div><dt>来源</dt><dd>{financeSources.length}</dd></div>
-              <div><dt>中文</dt><dd>{translatedItems}</dd></div>
-              <div><dt>定位</dt><dd>市场层</dd></div>
-            </dl>
-            <div class="trend-tag-strip">
-              {financeSources.slice(0, 10).map(source => <span>{source}</span>)}
-            </div>
-          </section>
-
           <section class="trend-container trend-section trend-rank-section">
             <div class="trend-rank-grid">
               <NewsRankBoard
@@ -54,13 +36,6 @@ const translatedItems = financeItems.filter(item => item.translationStatus === "
                 items={financeItems}
                 basePath="/finance/items"
               />
-            </div>
-          </section>
-
-          <section class="trend-container trend-section">
-            <div class="trend-panel trend-feature-card">
-              <h2>阅读口径</h2>
-              <p>财经雷达只做市场信号聚合和中文解读，不替代投资建议。重点看跨来源同时出现的主题，例如利率、通胀、能源、科技股、银行风险和政策变化。</p>
             </div>
           </section>
         </>

@@ -11,18 +11,16 @@ const pick = (ids: string[] = []) =>
   ids.map(id => itemMap.get(id)).filter((item): item is NewsItem => Boolean(item));
 
 const youtubeItems = latest ? pick(latest.sections.youtube).slice(0, 10) : [];
-const totalViews = youtubeItems.reduce((sum, item) => sum + (item.viewCount ?? 0), 0);
-const translatedItems = youtubeItems.filter(item => item.translationStatus === "translated").length;
 ---
 
-<TrendShell title="兴趣雷达" description="YouTube 每日热门视频 Top 10 与 X 趋势预留模块">
+<TrendShell title="兴趣雷达" description="YouTube 每日热门视频 Top 10">
   <main id="main-content">
     <section class="trend-container trend-report-header">
       <div class="trend-report-title-block">
         <p class="trend-eyebrow">Interest Radar</p>
         <h1 class="trend-report-title">兴趣雷达</h1>
         <p class="trend-report-subtitle">
-          {latest ? `${formatNewsDate(latest.date)} · YouTube Top 10 · X 趋势待落地` : "等待生成兴趣数据"}
+          {latest ? `${formatNewsDate(latest.date)} · YouTube Top 10` : "等待生成兴趣数据"}
         </p>
       </div>
     </section>
@@ -30,24 +28,6 @@ const translatedItems = youtubeItems.filter(item => item.translationStatus === "
     {
       latest && youtubeItems.length ? (
         <>
-          <section class="trend-container trend-brief">
-            <div class="trend-observation">
-              <span>今日观察</span>
-              <p>本期纳入 {youtubeItems.length} 条 YouTube 热门视频，用于观察大众注意力、内容叙事和跨平台选题机会；X 区域趋势保留为后续接入位。</p>
-            </div>
-            <dl class="trend-report-metrics">
-              <div><dt>YouTube</dt><dd>{youtubeItems.length}</dd></div>
-              <div><dt>总播放</dt><dd>{totalViews.toLocaleString("en-US")}</dd></div>
-              <div><dt>X 趋势</dt><dd>待落地</dd></div>
-              <div><dt>中文</dt><dd>{translatedItems}</dd></div>
-            </dl>
-            <div class="trend-tag-strip">
-              <span>YouTube</span>
-              <span>Most Popular</span>
-              <span>X 待落地</span>
-            </div>
-          </section>
-
           <section class="trend-container trend-section trend-rank-section">
             <div class="trend-rank-grid">
               <NewsRankBoard
@@ -56,13 +36,6 @@ const translatedItems = youtubeItems.filter(item => item.translationStatus === "
                 items={youtubeItems}
                 basePath="/youtube/items"
               />
-            </div>
-          </section>
-
-          <section class="trend-container trend-section">
-            <div class="trend-panel trend-feature-card">
-              <h2>X 趋势预留</h2>
-              <p>后续接入 X 区域趋势后，兴趣雷达将按地区展示社交热点，与 YouTube 视频热度并列观察，但不与新闻事实或科技项目混在同一判断层。</p>
             </div>
           </section>
         </>

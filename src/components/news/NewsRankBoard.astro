@@ -21,9 +21,8 @@ const rankTier = (index: number) => {
   <div class="trend-rank-board-header">
     <div>
       <h2>{title}</h2>
-      <p>{subtitle} · 点击查看中文解读</p>
+      <p>{subtitle}</p>
     </div>
-    <span class="trend-board-count">{items.length} items</span>
   </div>
   <div class="trend-rank-list">
     {
@@ -39,10 +38,6 @@ const rankTier = (index: number) => {
           <span class="trend-rank-main">
             <span class="trend-rank-name">{item.chineseTitle || item.originalTitle}</span>
             <span class="trend-rank-author">{item.source}</span>
-          </span>
-          <span class="trend-star-count">
-            <span>{item.translationStatus === "translated" ? "中" : "原"}</span>
-            {item.score}
           </span>
         </a>
       ))

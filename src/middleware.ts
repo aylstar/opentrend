@@ -74,6 +74,10 @@ export const onRequest = defineMiddleware(async (context, next) => {
 
   if (!isProtectedPath(pathname)) return next();
 
+  if (import.meta.env.DEV && !createSupabaseAdminClient()) {
+    return next();
+  }
+
   const code = context.cookies.get(accessCodeCookie)?.value;
   const pass = await getAccessPass(code);
   if (!pass || !hasActivePass(pass)) {

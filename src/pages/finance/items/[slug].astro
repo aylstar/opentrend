@@ -17,74 +17,44 @@ const englishParagraphs = String(item.content || item.summary || item.originalTi
   .split(/\n+/)
   .map(item => item.trim())
   .filter(Boolean);
-const contentStatusLabel: Record<string, string> = {
-  "source-fulltext": "来源全文",
-  "article-extracted": "已抓取正文",
-  "summary-fallback": "摘要降级",
-  "fetch-failed": "抓取失败",
-  "non-html": "非网页内容",
-  "no-url": "无原文链接",
-};
 ---
 
 <TrendShell title={`${item.chineseTitle} | 财经雷达`} description={item.chineseSummary}>
   <main id="main-content">
-    <article>
-      <header class="trend-container trend-project-hero">
-        <div class="trend-project-copy">
-          <nav class="trend-project-nav" aria-label="财经雷达层级导航">
-            <a href="/finance/" class="trend-back-link">← 返回财经雷达</a>
-            <span>财经排行</span>
-            {reportDate && <span>/</span>}
-            {reportDate && <span>{reportDate}</span>}
-            <span>/</span>
-            <strong>{item.source}</strong>
-          </nav>
-          <p class="trend-eyebrow">Finance Detail</p>
-          <h1 class="trend-project-title">{item.chineseTitle || item.originalTitle}</h1>
-          <p class="trend-project-author">{item.source} · {newsCategoryLabel(item.category)}</p>
-          <p class="trend-project-summary">{item.chineseSummary}</p>
-          <p class="trend-project-author">英文标题：{item.originalTitle}</p>
-          <div class="trend-project-tags" aria-label="财经标签">
-            {item.tags.map(tag => <span>{tag}</span>)}
-          </div>
-        </div>
+    <article class="trend-news-article">
+      <header class="trend-container trend-article-hero">
+        <nav class="trend-article-nav" aria-label="财经雷达层级导航">
+          <a href="/finance/">← 财经雷达</a>
+        </nav>
+        <p class="trend-article-kicker">财经雷达</p>
+        <h1 class="trend-article-title">{item.chineseTitle || item.originalTitle}</h1>
+        <p class="trend-article-meta">{item.source} · {newsCategoryLabel(item.category)}{reportDate ? ` · ${reportDate}` : ""}</p>
+        {item.chineseSummary && <p class="trend-article-deck">{item.chineseSummary}</p>}
+        <p class="trend-original-title">Original: {item.originalTitle}</p>
       </header>
 
-      <section class="trend-container trend-detail-layout">
-        <div class="trend-panel trend-detail-main">
-          <section class="trend-detail-card trend-detail-intro">
-            <h2>中文内容</h2>
+      <section class="trend-container trend-article-layout">
+        <div class="trend-article-body">
+          <section class="trend-article-section">
+            <h2>中文正文</h2>
             {chineseParagraphs.length ? chineseParagraphs.map(paragraph => <p>{paragraph}</p>) : <p>{item.chineseSummary}</p>}
           </section>
 
-          <section class="trend-detail-card">
-            <h2>英文原文内容</h2>
-            {englishParagraphs.length ? englishParagraphs.map(paragraph => <p>{paragraph}</p>) : <p>{item.originalTitle}</p>}
-          </section>
-
-          <section class="trend-detail-card">
-            <h2>研究提示</h2>
-            <p>{item.whyItMatters}</p>
-          </section>
+          <details class="trend-original-disclosure">
+            <summary>英文原文</summary>
+            <div>
+              {englishParagraphs.length ? englishParagraphs.map(paragraph => <p>{paragraph}</p>) : <p>{item.originalTitle}</p>}
+            </div>
+          </details>
         </div>
 
-        <aside class="trend-detail-side">
-          <section class="trend-panel trend-side-card">
-            <h2>财经指标</h2>
-            <div class="trend-metric"><span>来源</span><strong>{item.source}</strong></div>
-            <div class="trend-metric"><span>分类</span><strong>{newsCategoryLabel(item.category)}</strong></div>
-            <div class="trend-metric"><span>评分</span><strong>{item.score}</strong></div>
-            <div class="trend-metric"><span>翻译</span><strong>{item.translationStatus === "translated" ? "已翻译" : "原文降级"}</strong></div>
-            <div class="trend-metric"><span>正文</span><strong>{contentStatusLabel[item.contentStatus ?? ""] ?? "已收录"}</strong></div>
-          </section>
-
-          <section class="trend-panel trend-side-card">
-            <h2>原文链接</h2>
-            <div class="mt-3 grid gap-3">
-              <a class="trend-button primary" href={item.url}>打开原文</a>
-              <a class="trend-button" href="/finance/">返回财经雷达</a>
-            </div>
+        <aside class="trend-article-side">
+          <section class="trend-source-box">
+            <span>来源</span>
+            <strong>{item.source}</strong>
+            <p>{newsCategoryLabel(item.category)}{reportDate ? ` · ${reportDate}` : ""}</p>
+            <a class="trend-button primary" href={item.url}>打开原文</a>
+            <a class="trend-button" href="/finance/">返回财经雷达</a>
           </section>
         </aside>
       </section>

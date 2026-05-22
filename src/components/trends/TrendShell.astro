@@ -8,7 +8,6 @@ type Props = {
 
 const { title = "趋势雷达", description = "面向国内用户的信息趋势报告" } = Astro.props;
 const pathname = Astro.url.pathname;
-const isHome = pathname === "/";
 const navItems = [
   { label: "新闻雷达", href: "/news/", match: "/news/" },
   { label: "财经雷达", href: "/finance/", match: "/finance/" },
@@ -35,13 +34,6 @@ const navItems = [
         }
       </nav>
     </header>
-    {
-      !isHome && (
-        <div class="trend-return-bar">
-          <a href="/" class="trend-home-return">← 返回主界面</a>
-        </div>
-      )
-    }
     <slot />
   </div>
 </Layout>
@@ -1601,6 +1593,384 @@ const navItems = [
       animation: none;
       opacity: 1;
       transition: none;
+    }
+  }
+
+  .trend-shell {
+    --trend-bg: #f8f8f4;
+    --trend-panel: #fffefb;
+    --trend-ink: #141713;
+    --trend-muted: #666d66;
+    --trend-soft: #f1f0ea;
+    --trend-line: #e4e2da;
+    --trend-accent: #176b55;
+    background: var(--trend-bg);
+  }
+
+  .trend-nav {
+    border-bottom: 1px solid var(--trend-line);
+    background: rgba(248, 248, 244, 0.94);
+    padding-top: 0.82rem;
+    padding-bottom: 0.82rem;
+    backdrop-filter: blur(12px);
+  }
+
+  .trend-brand {
+    font-size: 0.96rem;
+    letter-spacing: 0.01em;
+  }
+
+  .trend-nav-links {
+    gap: 0.15rem;
+  }
+
+  .trend-nav-links a {
+    border-radius: 0.45rem;
+    padding: 0.38rem 0.58rem;
+    color: #555c55;
+    font-size: 0.84rem;
+    font-weight: 640;
+  }
+
+  .trend-nav-links a[aria-current="page"],
+  .trend-nav-links a:hover {
+    background: #eceee7;
+    color: var(--trend-ink);
+  }
+
+  .trend-container {
+    width: min(1120px, calc(100vw - 2rem));
+  }
+
+  .trend-report-header {
+    padding: 2.8rem 0 1rem;
+    border-bottom: 1px solid var(--trend-line);
+  }
+
+  .trend-report-title {
+    max-width: 900px;
+    font-family: Georgia, "Times New Roman", "Songti SC", serif;
+    font-size: clamp(2rem, 4vw, 3.7rem);
+    font-weight: 760;
+    line-height: 1.04;
+  }
+
+  .trend-report-subtitle {
+    max-width: 760px;
+    color: var(--trend-muted);
+    font-size: 0.95rem;
+    font-weight: 520;
+    line-height: 1.7;
+  }
+
+  .trend-eyebrow {
+    color: var(--trend-accent);
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+  }
+
+  .trend-section {
+    padding: 1.5rem 0;
+  }
+
+  .trend-rank-section {
+    padding-top: 1.2rem;
+  }
+
+  .trend-panel {
+    border: 1px solid var(--trend-line);
+    border-radius: 0.55rem;
+    background: var(--trend-panel);
+    box-shadow: none;
+    backdrop-filter: none;
+  }
+
+  .trend-rank-board {
+    padding: 0.9rem 1rem 0.25rem;
+  }
+
+  .trend-rank-board::before,
+  .trend-rank-item::before {
+    display: none;
+  }
+
+  .trend-rank-board-header {
+    padding: 0 0 0.75rem;
+    border-bottom: 1px solid var(--trend-line);
+  }
+
+  .trend-rank-board h2 {
+    font-family: Georgia, "Times New Roman", "Songti SC", serif;
+    font-size: 1.18rem;
+    font-weight: 760;
+  }
+
+  .trend-rank-board p {
+    margin-top: 0.18rem;
+    color: var(--trend-muted);
+    font-size: 0.75rem;
+  }
+
+  .trend-rank-list {
+    perspective: none;
+  }
+
+  .trend-rank-item {
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    min-height: 3.35rem;
+    border-bottom: 1px solid var(--trend-line);
+    padding: 0.68rem 0;
+    animation: trend-item-in 320ms ease both;
+  }
+
+  .trend-rank-item:last-child {
+    border-bottom: 0;
+  }
+
+  .trend-rank-item:hover {
+    background: #f2f3ee;
+    transform: none;
+  }
+
+  .trend-rank-no {
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 999px;
+    background: transparent;
+    color: #777f77;
+    font-size: 0.78rem;
+  }
+
+  .trend-rank-item.rank-gold .trend-rank-no,
+  .trend-rank-item.rank-silver .trend-rank-no,
+  .trend-rank-item.rank-bronze .trend-rank-no {
+    background: transparent;
+    color: var(--trend-ink);
+  }
+
+  .trend-rank-name {
+    color: var(--trend-ink);
+    font-size: 0.98rem;
+    font-weight: 700;
+  }
+
+  .trend-rank-author {
+    margin-top: 0.18rem;
+    color: var(--trend-muted);
+    font-size: 0.74rem;
+  }
+
+  .trend-star-count {
+    display: block;
+    max-width: 7rem;
+    overflow: hidden;
+    color: #4e554e;
+    font-size: 0.74rem;
+    font-weight: 600;
+    text-align: right;
+    text-overflow: ellipsis;
+  }
+
+  .trend-star-count span {
+    display: block;
+    color: #8b928a;
+    font-size: 0.66rem;
+    font-weight: 600;
+  }
+
+  .trend-news-article {
+    padding-bottom: 4rem;
+  }
+
+  .trend-article-hero {
+    padding: 2rem 0 1.8rem;
+    border-bottom: 1px solid var(--trend-line);
+  }
+
+  .trend-article-nav {
+    margin-bottom: 2rem;
+  }
+
+  .trend-article-nav a {
+    color: var(--trend-muted);
+    font-size: 0.84rem;
+    font-weight: 650;
+  }
+
+  .trend-article-nav a:hover {
+    color: var(--trend-ink);
+  }
+
+  .trend-article-kicker {
+    color: var(--trend-accent);
+    font-size: 0.76rem;
+    font-weight: 760;
+    letter-spacing: 0.06em;
+  }
+
+  .trend-article-title {
+    max-width: 850px;
+    margin-top: 0.7rem;
+    color: var(--trend-ink);
+    font-family: Georgia, "Times New Roman", "Songti SC", serif;
+    font-size: clamp(2rem, 3.25vw, 3.35rem);
+    font-weight: 760;
+    line-height: 1.08;
+    letter-spacing: 0;
+    text-wrap: balance;
+  }
+
+  .trend-article-meta {
+    margin-top: 0.9rem;
+    color: #4f5750;
+    font-size: 0.9rem;
+    font-weight: 650;
+  }
+
+  .trend-article-deck {
+    max-width: 760px;
+    margin-top: 1.15rem;
+    color: #3e453f;
+    font-size: clamp(1.02rem, 1.25vw, 1.15rem);
+    line-height: 1.8;
+  }
+
+  .trend-original-title {
+    max-width: 760px;
+    margin-top: 0.8rem;
+    color: #7a817a;
+    font-size: 0.82rem;
+    line-height: 1.55;
+  }
+
+  .trend-article-layout {
+    display: grid;
+    gap: 2rem;
+    padding-top: 2rem;
+  }
+
+  @media (min-width: 960px) {
+    .trend-article-layout {
+      grid-template-columns: minmax(0, 760px) 15.5rem;
+      justify-content: space-between;
+    }
+  }
+
+  .trend-article-body {
+    min-width: 0;
+  }
+
+  .trend-article-section,
+  .trend-original-disclosure {
+    border-bottom: 1px solid var(--trend-line);
+    padding-bottom: 1.7rem;
+  }
+
+  .trend-article-section h2 {
+    margin-bottom: 1rem;
+    color: var(--trend-ink);
+    font-size: 1rem;
+    font-weight: 760;
+  }
+
+  .trend-article-section p,
+  .trend-original-disclosure p {
+    color: #464d46;
+    font-size: 1.02rem;
+    line-height: 2;
+  }
+
+  .trend-article-section p + p,
+  .trend-original-disclosure p + p {
+    margin-top: 1.15rem;
+  }
+
+  .trend-original-disclosure {
+    margin-top: 1.7rem;
+  }
+
+  .trend-original-disclosure summary {
+    cursor: pointer;
+    color: var(--trend-ink);
+    font-size: 0.95rem;
+    font-weight: 750;
+  }
+
+  .trend-original-disclosure div {
+    margin-top: 1rem;
+  }
+
+  .trend-original-disclosure p {
+    color: #687068;
+    font-size: 0.96rem;
+  }
+
+  .trend-article-side {
+    align-self: start;
+  }
+
+  @media (min-width: 960px) {
+    .trend-article-side {
+      position: sticky;
+      top: 5.5rem;
+    }
+  }
+
+  .trend-source-box {
+    border-top: 2px solid var(--trend-ink);
+    padding-top: 0.85rem;
+  }
+
+  .trend-source-box span {
+    display: block;
+    color: var(--trend-muted);
+    font-size: 0.74rem;
+    font-weight: 760;
+  }
+
+  .trend-source-box strong {
+    display: block;
+    margin-top: 0.28rem;
+    color: var(--trend-ink);
+    font-family: Georgia, "Times New Roman", "Songti SC", serif;
+    font-size: 1.35rem;
+    line-height: 1.1;
+  }
+
+  .trend-source-box p {
+    margin-top: 0.5rem;
+    color: var(--trend-muted);
+    font-size: 0.8rem;
+    line-height: 1.55;
+  }
+
+  .trend-source-box .trend-button {
+    width: 100%;
+    margin-top: 0.85rem;
+  }
+
+  .trend-button {
+    min-height: 2.45rem;
+    border-radius: 0.45rem;
+    box-shadow: none;
+  }
+
+  .trend-button.primary {
+    border-color: var(--trend-ink);
+    background: var(--trend-ink);
+  }
+
+  @media (max-width: 720px) {
+    .trend-article-title {
+      font-size: clamp(1.8rem, 10vw, 2.65rem);
+    }
+
+    .trend-rank-item {
+      grid-template-columns: 2rem minmax(0, 1fr);
+    }
+
+    .trend-star-count {
+      display: none;
     }
   }
 </style>

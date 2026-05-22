@@ -13,8 +13,6 @@ const pick = (ids: string[] = []) =>
 const globalItems = latest ? pick(latest.sections.global) : [];
 const techItems = latest ? pick(latest.sections.aiTech) : [];
 const newsItems = [...globalItems, ...techItems];
-const newsSources = [...new Set(newsItems.map(item => item.source))];
-const translatedNewsItems = newsItems.filter(item => item.translationStatus === "translated").length;
 ---
 
 <TrendShell title="新闻雷达" description="全球新闻与 AI 科技新闻中文趋势摘要">
@@ -32,45 +30,10 @@ const translatedNewsItems = newsItems.filter(item => item.translationStatus === 
     {
       latest ? (
         <>
-          <section class="trend-container trend-brief">
-            <div class="trend-observation">
-              <span>今日观察</span>
-              <p>本期纳入 {globalItems.length} 条全球新闻与 {techItems.length} 条 AI 科技信号。</p>
-            </div>
-            <dl class="trend-report-metrics">
-              <div><dt>总量</dt><dd>{newsItems.length}</dd></div>
-              <div><dt>全球</dt><dd>{latest.stats.globalItems}</dd></div>
-              <div><dt>AI 科技</dt><dd>{latest.stats.techItems}</dd></div>
-              <div><dt>中文</dt><dd>{translatedNewsItems}</dd></div>
-            </dl>
-            <div class="trend-tag-strip">
-              {newsSources.slice(0, 8).map(source => <span>{source}</span>)}
-            </div>
-          </section>
-
           <section class="trend-container trend-section trend-rank-section">
             <div class="trend-rank-grid">
               <NewsRankBoard title="全球新闻 Top 20" subtitle="GDELT / BBC / Guardian" items={globalItems} />
               <NewsRankBoard title="AI 科技 Top 20" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techItems} />
-            </div>
-          </section>
-
-          <section class="trend-container trend-section">
-            <div class="trend-panel trend-feature-card">
-              <h2>今日结论</h2>
-              <p>建议把新闻雷达作为外部环境层，与兴趣雷达和科技雷达分开观察，避免把新闻热度、社交注意力和技术项目混为同一类信号。</p>
-            </div>
-          </section>
-
-          <section class="trend-container trend-section">
-            <h2 class="trend-section-title">历史新闻报告</h2>
-            <div class="mt-4 grid gap-3">
-              {reports.map(report => (
-                <a href={`/news/`} class="trend-panel p-4">
-                  <span class="font-semibold">{report.title}</span>
-                  <p class="trend-section-note text-sm">{(report.stats.globalItems ?? 0) + (report.stats.techItems ?? 0)} 条 · {report.sources.filter(source => source !== "YouTube").join(" / ")}</p>
-                </a>
-              ))}
             </div>
           </section>
         </>
