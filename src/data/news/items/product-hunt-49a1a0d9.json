@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-21T02:08:22.000Z",
   "id": "product-hunt-49a1a0d9",
   "slug": "product-hunt-49a1a0d9",
-  "content": "Tycoon.us enables you to run an entire company with AI agents, powered by Astra, an AI CEO, and 10+ ready-to-use AI agents you can choose from, from CMO who manages X to CTO who codes. Astra also manages Claude Code/Hermes. Give Astra a KPI or project, like “10x traffic this month,” or “launch onboarding flows.” She creates a plan, assigns agents, tracks progress, and asks for approval when needed. Every agent is out of box, so no setup, coding, or API keys required.",
-  "fetchedAt": "2026-05-21T14:01:40.517Z",
+  "content": "Run one-person companies entirely with AI agents Discussion | Link",
+  "fetchedAt": "2026-05-22T01:27:52.587Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 5,
-  "contentStatus": "article-extracted",
+  "rank": 3,
+  "contentStatus": "fetch-failed",
   "chineseTitle": "人工智能大亨",
   "chineseSummary": "完全由人工智能代理运营一个人的公司 讨论 |关联",
-  "chineseContent": "Tycoon.us 使您能够通过 AI 代理来运营整个公司，由 AI CEO Astra 提供支持，并且您可以从 10 多个现成的 AI 代理中进行选择，从管理 X 的 CMO 到编码的 CTO。 Astra 还管理着 Claude Code/Hermes。为 Astra 提供一个 KPI 或项目，例如“本月流量增加 10 倍”或“启动引导流程”。她制定计划、分配代理、跟踪进度并在需要时请求批准。每个代理都是开箱即用的，因此无需设置、编码或 API 密钥。",
+  "chineseContent": "完全由人工智能代理运营一个人的公司 讨论 |关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

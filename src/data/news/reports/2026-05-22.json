@@ -1,0 +1,84 @@
+{
+  "slug": "2026-05-22",
+  "date": "2026-05-22",
+  "title": "2026-05-22 新闻趋势雷达",
+  "description": "全球新闻 Top 20 与 AI 科技 Top 20 中文摘要。",
+  "generatedAt": "2026-05-22T01:29:02.058Z",
+  "stats": {
+    "totalItems": 50,
+    "globalItems": 20,
+    "techItems": 20,
+    "youtubeItems": 10,
+    "translatedItems": 50
+  },
+  "sections": {
+    "global": [
+      "guardian-e5b77a7a",
+      "bbc-610041dd",
+      "bbc-efceefc0",
+      "bbc-be07c090",
+      "bbc-5dbb67e7",
+      "bbc-baf6b051",
+      "bbc-461116f9",
+      "bbc-4b7cf038",
+      "bbc-d418ea34",
+      "guardian-565fa29e",
+      "guardian-3e4e599f",
+      "guardian-75c9de1",
+      "guardian-3daf2dab",
+      "guardian-d4557110",
+      "guardian-37b0afe5",
+      "guardian-1784a521",
+      "bbc-2740ae2b",
+      "bbc-4445d34d",
+      "bbc-fb2eaef",
+      "bbc-b3026e7a"
+    ],
+    "aiTech": [
+      "hacker-news-638b07ec",
+      "hacker-news-908cf5cc",
+      "product-hunt-49a1a0d9",
+      "product-hunt-b0667b85",
+      "product-hunt-1cfd7cd1",
+      "product-hunt-39439c63",
+      "hacker-news-f12c9e0",
+      "hacker-news-488b264b",
+      "hacker-news-dd43c62a",
+      "hacker-news-89c82c75",
+      "hacker-news-a6ab0742",
+      "product-hunt-990436c9",
+      "product-hunt-5f12fda5",
+      "product-hunt-1f7923a",
+      "the-verge-b96ccacf",
+      "the-verge-5ec49411",
+      "the-verge-b04a2066",
+      "the-verge-35f3e99d",
+      "the-verge-57f93402",
+      "the-verge-9de14500"
+    ],
+    "youtube": [
+      "youtube-3b1030db",
+      "youtube-7b74ac82",
+      "youtube-b0970d7e",
+      "youtube-4283ccd5",
+      "youtube-3a0c2d5c",
+      "youtube-1f26fd6e",
+      "youtube-3dfcaadc",
+      "youtube-a2c6b317",
+      "youtube-fe954d82",
+      "youtube-145c9384"
+    ]
+  },
+  "sources": [
+    "Guardian",
+    "BBC",
+    "Hacker News",
+    "Product Hunt",
+    "The Verge",
+    "YouTube"
+  ],
+  "summary": {
+    "overview": "本期纳入 20 条全球新闻、20 条 AI 科技信号与 10 条 YouTube 热门视频。",
+    "conclusion": "建议把新闻模块作为趋势雷达的外部环境层，把 YouTube 热门视频作为大众注意力层，与 GitHub 项目趋势交叉观察。"
+  }
+}

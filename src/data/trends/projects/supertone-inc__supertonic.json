@@ -8,12 +8,12 @@
   "language": "Swift",
   "githubUrl": "https://github.com/supertone-inc/supertonic",
   "docsUrl": "https://huggingface.co/spaces/Supertone/supertonic-3",
-  "stars": 9079,
-  "forks": 931,
+  "stars": 9155,
+  "forks": 939,
   "openIssues": 90,
   "license": "MIT",
   "pushedAt": "2026-05-21T02:25:13Z",
-  "updatedAt": "2026-05-21T13:46:34Z",
+  "updatedAt": "2026-05-22T01:26:08Z",
   "createdAt": "2025-11-18T08:23:58Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Supertonic — Lightning Fast, On-Device, Accurate TTS\n\n<p align=\"center\">\n  <img src=\"img/Supertonic3_HeroImage.png\" alt=\"Supertonic 3 Banner\">\n</p>\n\n[![GitHub | Official Repo](https://img.shields.io/badge/GitHub-Official%20Repo-black?logo=github)](https://github.com/supertone-inc/supertonic)\n[![Models](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-blue)](https://huggingface.co/Supertone/supertonic-3)\n[![Runs Locally via WebGPU](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/Supertone/supertonic-3)\n[![DemoPage | Audio Samples](https://img.shields.io/badge/DemoPage-Audio%20Samples-F5D90A?labelColor=0B0C0E)](https://supertonic3.github.io/)\n[![Voice Builder | Cloning Demo](https://img.shields.io/badge/Voice%20Builder-Cloning%20Demo-3457D5?logo=soundcloud&logoColor=white)](https://supertonic.supertone.ai/voice-builder)\n[![GitHub | Python Package](https://img.shields.io/badge/GitHub-Python%20Package-black?logo=github)](https://github.com/supertone-inc/supertonic-py)\n[![Docs | Python PyPI](https://img.shields.io/badge/Docs-Python%20PyPI-blue?logo=readthedocs&logoColor=white)](https://supertone-inc.github.io/supertonic-py/)\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/15657\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15657\" alt=\"supertone-inc%2Fsupertonic | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n**Supertonic** is a lightning-fast, on-device multilingual text-to-speech system designed for local inference with minimal overhead. Powered by ONNX Runtime, it runs entirely on your device—no cloud, no API calls, no privacy concerns.\n\n### ✨ Highlights\n\n- ⚡ **Blazingly Fast** — Low-latency, real-time synthesis across desktop, browser, mobile, and edge — fast enough to turn an entire webpage into audio in under a second\n- 🌍 **31-Language Multilingual** — Synthesize directly from text across 31 languages, or pass `lang=\"na\"` to let Supertonic process the text language-agnostically when you don't know the input language — no separate language adapters needed\n- 🪶 **99M-Parameter Open-Weight Model** — A compact, fully open-weight checkpoint — a fraction of the size of 0.7B–2B class open TTS systems — for smaller downloads, faster cold starts, and lower memory footprint\n- 📱 **Edge-Device Ready** — Runs locally on desktop, mobile, browsers, and resource-constrained hardware like Raspberry Pi or e-readers, with zero network dependency, complete privacy, and no GPU required\n- 🔊 **44.1kHz High-Quality Audio** — Outputs studio-grade 44.1kHz 16-bit WAV directly, ready for production playback without any external upsampler\n- 🎭 **Expression Tags** — 10 inline tags (e.g. `<laugh>`, `<breath>`, `<sigh>`) bring natural human nuance into generated speech without prompt engineering or reference audio\n- 🛠️ **Multi-Runtime SDKs** — Ready-to-use examples through ONNX Runtime across Python, Node.js, Browser (WebGPU), Java, C++, C#",
-  "generatedAt": "2026-05-21T14:01:26.151Z",
+  "generatedAt": "2026-05-22T01:27:36.735Z",
   "analysis": {
     "oneLine": "supertonic 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "supertonic 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，supertonic 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 9,079，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，supertonic 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 9,155，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
