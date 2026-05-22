@@ -2,14 +2,8 @@
 import TrendShell from "@/components/trends/TrendShell.astro";
 import { formatTrendDate, getTrendProjects, getTrendReports, windowLabel } from "@/lib/trends";
 
-export function getStaticPaths() {
-  return getTrendProjects().map(project => ({
-    params: { slug: project.slug },
-    props: { project },
-  }));
-}
-
-const { project } = Astro.props;
+const project = getTrendProjects().find(item => item.slug === Astro.params.slug);
+if (!project) return Astro.redirect("/projects/");
 const detailParagraphs =
   project.analysis.detailParagraphs && project.analysis.detailParagraphs.length >= 3
     ? project.analysis.detailParagraphs

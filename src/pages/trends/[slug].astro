@@ -4,14 +4,8 @@ import RankBoard from "@/components/trends/RankBoard.astro";
 import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
 
-export function getStaticPaths() {
-  return getTrendReports().map(report => ({
-    params: { slug: report.slug },
-    props: { report },
-  }));
-}
-
-const { report } = Astro.props;
+const report = getTrendReports().find(item => item.slug === Astro.params.slug);
+if (!report) return Astro.redirect("/trends/");
 const projectMap = getTrendProjectMap();
 const reportDate = formatTrendDate(report.date);
 const pick = (slugs: string[]) =>

@@ -2,16 +2,10 @@
 import TrendShell from "@/components/trends/TrendShell.astro";
 import { formatNewsDate, getNewsItems, getNewsReports, newsCategoryLabel } from "@/lib/news";
 
-export function getStaticPaths() {
-  return getNewsItems()
-    .filter(item => item.category === "global" || item.category === "ai-tech")
-    .map(item => ({
-      params: { slug: item.slug },
-      props: { item },
-    }));
-}
-
-const { item } = Astro.props;
+const item = getNewsItems()
+  .filter(item => item.category === "global" || item.category === "ai-tech")
+  .find(item => item.slug === Astro.params.slug);
+if (!item) return Astro.redirect("/news/");
 const sourceReport =
   getNewsReports().find(report => [...report.sections.global, ...report.sections.aiTech].includes(item.id)) ??
   getNewsReports()[0];

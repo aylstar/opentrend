@@ -1,0 +1,137 @@
+---
+import TrendShell from "@/components/trends/TrendShell.astro";
+import { createSupabaseAdminClient, getCurrentUser, isAdminEmail } from "@/lib/auth";
+
+const { user } = await getCurrentUser(Astro);
+const isAdmin = isAdminEmail(user?.email);
+const admin = createSupabaseAdminClient();
+const { data: codes = [] } =
+  isAdmin && admin
+    ? await admin
+        .from("activation_codes")
+        .select("code,plan,duration_days,status,order_no,used_at,created_at")
+        .order("created_at", { ascending: false })
+        .limit(50)
+    : { data: [] };
+const codeRows = codes ?? [];
+const { data: subscriptions = [] } =
+  isAdmin && admin
+    ? await admin
+        .from("subscriptions")
+        .select("email,plan,status,expires_at,device_limit,source,updated_at")
+        .order("updated_at", { ascending: false })
+        .limit(50)
+    : { data: [] };
+const subscriptionRows = subscriptions ?? [];
+---
+
+<TrendShell title="后台管理 | 趋势雷达" description="趋势雷达会员后台">
+  <main id="main-content">
+    <section class="trend-container trend-settings">
+      <p class="trend-eyebrow">Admin</p>
+      <h1 class="trend-report-title">后台管理</h1>
+      <p class="trend-lead">用于批量生成淘宝/闲鱼自动发货激活码，并查看最近会员状态。</p>
+
+      {
+        isAdmin ? (
+          <>
+            <section class="trend-panel trend-feature-card">
+              <h2>生成激活码</h2>
+              <form id="admin-code-form" class="trend-admin-form">
+                <label>
+                  <span>套餐</span>
+                  <select name="plan">
+                    <option value="monthly">月度会员</option>
+                    <option value="yearly">年度会员</option>
+                    <option value="vip">高级会员</option>
+                    <option value="team">团队会员</option>
+                  </select>
+                </label>
+                <label>
+                  <span>有效天数</span>
+                  <input type="number" name="durationDays" value="30" min="1" max="3650" />
+                </label>
+                <label>
+                  <span>数量</span>
+                  <input type="number" name="count" value="10" min="1" max="200" />
+                </label>
+                <label>
+                  <span>订单号/批次</span>
+                  <input name="orderNo" placeholder="taobao-batch-001" />
+                </label>
+                <button type="submit">生成</button>
+              </form>
+              <textarea id="admin-code-output" class="trend-code-output" readonly placeholder="生成后的激活码会出现在这里，复制到淘宝自动发货库存。"></textarea>
+            </section>
+
+            <section class="trend-section">
+              <div class="trend-rank-grid">
+                <section class="trend-panel trend-feature-card">
+                  <h2>最近激活码</h2>
+                  <div class="trend-admin-table">
+                    {codeRows.map(code => (
+                      <div class="trend-admin-row">
+                        <strong>{code.code}</strong>
+                        <span>{code.plan} · {code.duration_days} 天 · {code.status}</span>
+                      </div>
+                    ))}
+                  </div>
+                </section>
+                <section class="trend-panel trend-feature-card">
+                  <h2>最近会员</h2>
+                  <div class="trend-admin-table">
+                    {subscriptionRows.map(subscription => (
+                      <div class="trend-admin-row">
+                        <strong>{subscription.email ?? "无邮箱"}</strong>
+                        <span>{subscription.plan} · {subscription.status} · {subscription.expires_at ? new Date(subscription.expires_at).toLocaleDateString("zh-CN") : "未到期"}</span>
+                      </div>
+                    ))}
+                  </div>
+                </section>
+              </div>
+            </section>
+          </>
+        ) : (
+          <section class="trend-panel trend-feature-card">
+            <h2>无权限</h2>
+            <p>只有 ADMIN_EMAILS 环境变量中配置的邮箱可以访问后台。</p>
+          </section>
+        )
+      }
+    </section>
+  </main>
+
+  <script>
+    const form = document.querySelector<HTMLFormElement>("#admin-code-form");
+    const output = document.querySelector<HTMLTextAreaElement>("#admin-code-output");
+
+    form?.addEventListener("submit", async event => {
+      event.preventDefault();
+      const button = form.querySelector<HTMLButtonElement>("button");
+      const formData = new FormData(form);
+      if (!button || !output) return;
+      button.disabled = true;
+      output.value = "正在生成...";
+
+      const response = await fetch("/api/admin/codes", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          plan: formData.get("plan"),
+          durationDays: Number(formData.get("durationDays")),
+          count: Number(formData.get("count")),
+          orderNo: formData.get("orderNo"),
+        }),
+      });
+      const result = await response.json();
+      button.disabled = false;
+
+      if (!response.ok) {
+        output.value = result.error || "生成失败";
+        return;
+      }
+
+      output.value = result.codes.map((code: { code: string }) => code.code).join("\\n");
+    });
+  </script>
+</TrendShell>

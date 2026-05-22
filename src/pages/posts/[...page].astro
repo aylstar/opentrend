@@ -12,6 +12,8 @@ import { getSortedPosts } from "@/utils/getSortedPosts";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
+export const prerender = true;
+
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getCollection("posts", ({ data }) => !data.draft);
   return paginate(getSortedPosts(posts), { pageSize: config.posts.perPage });

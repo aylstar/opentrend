@@ -1,30 +1,163 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
+import { createSupabaseAdminClient, getCurrentUser, getMembership, isSupabaseConfigured } from "@/lib/auth";
+
+const configured = isSupabaseConfigured();
+const { user } = await getCurrentUser(Astro);
+const membership = user ? await getMembership(user.id, user.email) : null;
+const admin = createSupabaseAdminClient();
+const { data: devices = [] } =
+  user && admin
+    ? await admin
+        .from("user_devices")
+        .select("device_id,user_agent,ip_address,last_seen_at,revoked_at")
+        .eq("user_id", user.id)
+        .order("last_seen_at", { ascending: false })
+        .limit(20)
+    : { data: [] };
+const deviceRows = devices ?? [];
+
+const query = Astro.url.searchParams;
+const membershipRequired = query.get("membership") === "required";
+const deviceLimit = query.get("device_limit") === "1";
+const adminDenied = query.get("admin") === "denied";
 ---
 
 <TrendShell title="个人设置 | 趋势雷达" description="趋势雷达个人设置">
   <main id="main-content">
     <section class="trend-container trend-settings">
-      <p class="trend-eyebrow">Settings</p>
+      <p class="trend-eyebrow">Account</p>
       <h1 class="trend-report-title">个人设置</h1>
-      <p class="trend-lead">
-        后续用于配置个人信息、购买状态、关注主题、推送渠道和资源镜像策略。当前先保留清晰入口，避免主界面功能散落。
-      </p>
+      <p class="trend-lead">这里用于管理账号、会员有效期、激活码和登录设备。淘宝或闲鱼自动发货时，建议发放激活码，不直接发固定密码。</p>
 
-      <div class="trend-card-grid trend-settings-grid">
-        <section class="trend-panel trend-feature-card">
-          <h2>个人信息</h2>
-          <p>待落地。用于记录账号、联系方式、订阅来源和购买状态，后续可与淘宝自动发货或私域用户表打通。</p>
-        </section>
-        <section class="trend-panel trend-feature-card">
-          <h2>权益状态</h2>
-          <p>待落地。用于区分免费用户、月度订阅、年度订阅和企业账号，并控制可访问的内容范围。</p>
-        </section>
-        <section class="trend-panel trend-feature-card">
-          <h2>推送设置</h2>
-          <p>预留邮件、微信/企微、飞书和每日链接推送配置，适合后续订阅用户管理。</p>
-        </section>
-      </div>
+      {
+        !configured ? (
+          <section class="trend-panel trend-feature-card">
+            <h2>账户系统未配置</h2>
+            <p>请先配置 Supabase 环境变量，并执行 supabase/schema.sql 建表。</p>
+          </section>
+        ) : !user ? (
+          <section class="trend-panel trend-feature-card">
+            <h2>请先登录</h2>
+            <p>登录后可以兑换激活码并查看会员状态。</p>
+            <a class="trend-action-link" href="/login/?next=/settings/">去登录</a>
+          </section>
+        ) : (
+          <>
+            {
+              membershipRequired && (
+                <div class="trend-alert">当前内容需要有效会员。请先输入激活码开通。</div>
+              )
+            }
+            {deviceLimit && <div class="trend-alert">该账号活跃设备数已超过套餐限制。请撤销旧设备后再访问。</div>}
+            {adminDenied && <div class="trend-alert">当前账号没有后台权限。</div>}
+
+            <div class="trend-card-grid trend-settings-grid">
+              <section class="trend-panel trend-feature-card">
+                <h2>个人信息</h2>
+                <dl class="trend-account-list">
+                  <div><dt>邮箱</dt><dd>{user.email}</dd></div>
+                  <div><dt>用户 ID</dt><dd>{user.id}</dd></div>
+                </dl>
+                <form method="post" action="/auth/logout/">
+                  <button class="trend-secondary-button" type="submit">退出登录</button>
+                </form>
+              </section>
+
+              <section class="trend-panel trend-feature-card">
+                <h2>权益状态</h2>
+                <dl class="trend-account-list">
+                  <div><dt>套餐</dt><dd>{membership?.plan ?? "free"}</dd></div>
+                  <div><dt>状态</dt><dd>{membership?.status ?? "free"}</dd></div>
+                  <div><dt>到期时间</dt><dd>{membership?.expiresAt ? new Date(membership.expiresAt).toLocaleString("zh-CN") : "未开通"}</dd></div>
+                  <div><dt>设备上限</dt><dd>{membership?.deviceLimit ?? 1}</dd></div>
+                </dl>
+              </section>
+
+              <section class="trend-panel trend-feature-card">
+                <h2>激活会员</h2>
+                <form id="activation-form" class="trend-auth-form">
+                  <label>
+                    <span>激活码</span>
+                    <input name="code" placeholder="OPEN-XXXX-XXXX-XXXX" autocomplete="off" required />
+                  </label>
+                  <button type="submit">兑换</button>
+                  <p id="activation-message" class="trend-form-message" aria-live="polite"></p>
+                </form>
+              </section>
+            </div>
+
+            <section class="trend-section">
+              <div class="trend-panel trend-feature-card">
+                <h2>登录设备</h2>
+                <div class="trend-device-list">
+                  {
+                    deviceRows.length > 0 ? (
+                      deviceRows.map(device => (
+                        <article class="trend-device-row">
+                          <div>
+                            <strong>{device.revoked_at ? "已撤销设备" : "活跃设备"}</strong>
+                            <p>{device.user_agent || "未知设备"}</p>
+                            <small>{device.ip_address || "未知 IP"} · {device.last_seen_at ? new Date(device.last_seen_at).toLocaleString("zh-CN") : "未记录"}</small>
+                          </div>
+                          {!device.revoked_at && (
+                            <button type="button" class="trend-device-revoke" data-device-id={device.device_id}>撤销</button>
+                          )}
+                        </article>
+                      ))
+                    ) : (
+                      <p class="trend-section-note">暂无设备记录。访问会员页面后会自动记录。</p>
+                    )
+                  }
+                </div>
+              </div>
+            </section>
+          </>
+        )
+      }
     </section>
   </main>
+
+  <script>
+    const activationForm = document.querySelector<HTMLFormElement>("#activation-form");
+    const activationMessage = document.querySelector<HTMLElement>("#activation-message");
+
+    activationForm?.addEventListener("submit", async event => {
+      event.preventDefault();
+      const button = activationForm.querySelector<HTMLButtonElement>("button");
+      const code = new FormData(activationForm).get("code");
+      if (!button || !activationMessage) return;
+      button.disabled = true;
+      activationMessage.textContent = "正在兑换...";
+
+      const response = await fetch("/api/activate", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ code }),
+      });
+      const result = await response.json();
+      button.disabled = false;
+
+      if (!response.ok) {
+        activationMessage.textContent = result.error || "兑换失败";
+        return;
+      }
+
+      activationMessage.textContent = `兑换成功，到期时间：${new Date(result.expiresAt).toLocaleString("zh-CN")}`;
+      window.setTimeout(() => window.location.reload(), 1000);
+    });
+
+    document.querySelectorAll<HTMLButtonElement>(".trend-device-revoke").forEach(button => {
+      button.addEventListener("click", async () => {
+        const deviceId = button.getAttribute("data-device-id");
+        button.disabled = true;
+        await fetch("/api/devices/revoke", {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({ deviceId }),
+        });
+        window.location.reload();
+      });
+    });
+  </script>
 </TrendShell>

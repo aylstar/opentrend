@@ -560,6 +560,186 @@ const navItems = [
     margin-top: 1.5rem;
   }
 
+  .trend-auth-page {
+    padding: 3rem 0;
+  }
+
+  .trend-auth-panel {
+    margin-top: 1.25rem;
+    max-width: 560px;
+    padding: 1.25rem;
+  }
+
+  .trend-auth-form,
+  .trend-admin-form {
+    display: grid;
+    gap: 0.9rem;
+  }
+
+  .trend-auth-form label,
+  .trend-admin-form label {
+    display: grid;
+    gap: 0.4rem;
+    color: var(--trend-muted);
+    font-size: 0.82rem;
+    font-weight: 700;
+  }
+
+  .trend-auth-form input,
+  .trend-admin-form input,
+  .trend-admin-form select,
+  .trend-code-output {
+    width: 100%;
+    border: 1px solid rgba(23, 32, 27, 0.1);
+    border-radius: 0.75rem;
+    background: rgba(255, 255, 255, 0.88);
+    padding: 0.75rem 0.85rem;
+    color: var(--trend-ink);
+    font: inherit;
+    outline: none;
+  }
+
+  .trend-auth-form input:focus,
+  .trend-admin-form input:focus,
+  .trend-admin-form select:focus,
+  .trend-code-output:focus {
+    border-color: rgba(47, 143, 131, 0.45);
+    box-shadow: 0 0 0 4px rgba(47, 143, 131, 0.08);
+  }
+
+  .trend-auth-form button,
+  .trend-admin-form button,
+  .trend-secondary-button,
+  .trend-action-link,
+  .trend-device-revoke {
+    display: inline-flex;
+    width: fit-content;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    border-radius: 999px;
+    background: var(--trend-ink);
+    padding: 0.7rem 1rem;
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 760;
+    cursor: pointer;
+  }
+
+  .trend-secondary-button,
+  .trend-device-revoke {
+    border: 1px solid rgba(23, 32, 27, 0.1);
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--trend-ink);
+  }
+
+  .trend-auth-form button:disabled,
+  .trend-admin-form button:disabled,
+  .trend-device-revoke:disabled {
+    cursor: not-allowed;
+    opacity: 0.55;
+  }
+
+  .trend-form-message,
+  .trend-section-note {
+    color: var(--trend-muted);
+    font-size: 0.88rem;
+  }
+
+  .trend-alert {
+    margin: 1rem 0;
+    border: 1px solid rgba(180, 138, 59, 0.26);
+    border-radius: 0.9rem;
+    background: rgba(180, 138, 59, 0.08);
+    padding: 0.85rem 1rem;
+    color: #765a22;
+    font-size: 0.92rem;
+    font-weight: 700;
+  }
+
+  .trend-account-list {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0.85rem 0 1rem;
+  }
+
+  .trend-account-list div {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .trend-account-list dt {
+    color: var(--trend-muted);
+    font-size: 0.82rem;
+  }
+
+  .trend-account-list dd {
+    max-width: 70%;
+    overflow-wrap: anywhere;
+    color: var(--trend-ink);
+    font-size: 0.9rem;
+    font-weight: 720;
+    text-align: right;
+  }
+
+  .trend-device-list,
+  .trend-admin-table {
+    display: grid;
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+
+  .trend-device-row,
+  .trend-admin-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    border-top: 1px solid rgba(23, 32, 27, 0.08);
+    padding-top: 0.75rem;
+  }
+
+  .trend-device-row p,
+  .trend-admin-row span {
+    margin-top: 0.2rem;
+    color: var(--trend-muted);
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+
+  .trend-device-row small {
+    display: block;
+    margin-top: 0.25rem;
+    color: #8b948d;
+    font-size: 0.76rem;
+  }
+
+  .trend-admin-form {
+    grid-template-columns: repeat(4, minmax(0, 1fr)) auto;
+    align-items: end;
+  }
+
+  .trend-code-output {
+    min-height: 10rem;
+    margin-top: 1rem;
+    resize: vertical;
+    font-family: var(--font-google-sans-code), monospace;
+  }
+
+  @media (max-width: 860px) {
+    .trend-admin-form {
+      grid-template-columns: 1fr;
+    }
+
+    .trend-device-row,
+    .trend-admin-row {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+  }
+
   .trend-home-card-head {
     display: flex;
     align-items: baseline;

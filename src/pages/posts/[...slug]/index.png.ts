@@ -7,6 +7,8 @@ import { getFontPathByWeight } from "@/utils/getFontPathByWeight";
 import { getPostSlug } from "@/utils/getPostPaths";
 import config from "@/config";
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   if (!config.features.dynamicOgImage) {
     return [];
