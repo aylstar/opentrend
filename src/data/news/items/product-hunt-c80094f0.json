@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-20T07:05:28.000Z",
   "id": "product-hunt-c80094f0",
   "slug": "product-hunt-c80094f0",
-  "content": "Instant computers for AI agents Discussion | Link",
-  "fetchedAt": "2026-05-22T06:06:59.105Z",
+  "content": "The production control plane for AI agents. Run agents like production servers: isolated, observable, and controlled. Firecracker microVMs with sub-200ms boot.",
+  "fetchedAt": "2026-05-22T06:14:51.000Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 11,
-  "contentStatus": "fetch-failed",
+  "rank": 14,
+  "contentStatus": "article-extracted",
   "chineseTitle": "InstaVM",
   "chineseSummary": "人工智能代理的即时计算机讨论 |关联",
-  "chineseContent": "人工智能代理的即时计算机讨论 |关联",
+  "chineseContent": "AI 代理的生产控制平面。像生产服务器一样运行代理：隔离、可观察和受控。 Firecracker microVM 启动时间低于 200 毫秒。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

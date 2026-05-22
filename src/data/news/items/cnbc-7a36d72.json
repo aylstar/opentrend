@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "SoftBank Group extends scorching rally with shares in OpenAI, Arm-backer surging over 11%",
+  "summary": "Shares of SoftBank Group extended gains for a second straight session Friday.",
+  "url": "https://www.cnbc.com/2026/05/22/softbank-extends-scorching-rally-surging-over-12percent-as-investors-crowd-into-ai-trade.html",
+  "publishedAt": "2026-05-22T03:06:00.000Z",
+  "id": "cnbc-7a36d72",
+  "slug": "cnbc-7a36d72",
+  "content": "SoftBank Group shares extended their scorching rally to a second day, rising over 11% Friday, and building on momentum after Nvidia's blockbuster earnings boosted AI-linked stocks.\n\nThe company's shares had closed 20% higher Thursday, adding over $35 billion to its market cap.\n\nSoftbank rally is also being powered by a sharp rise in Arm Holdings, in which the Japanese company holds a majority stake. Arm shares advanced over 16% overnight, after gaining more than 15% in the prior session.\n\n\"SoftBank Group's share price is simply reflecting the moves of some of its stake holdings, including Arm, whose share price has been surging, and OpenAI which may file for an IPO in the coming weeks,\" UBP's senior equity advisor Vey Sern Ling told CNBC.\n\nHowever, Ling cautioned that investors typically apply a discount to holding companies such as SoftBank because shareholders do not always fully benefit from the value of the underlying assets they own.\n\n\"Net asset value (NAV) or sum-of-the-parts (SOTP) valuations usually warrant a significant discount or cautiousness as shareholders of the holding company rarely receive the full value of the underlying assets,\" he said.\n\nSoftBank has invested heavily into the ChatGPT maker, and the IPO set to unlock value for SoftBank, even as analysts suggest it might be limited. The company has emerged as one of OpenAI's largest backers, investing more than $30 billion into OpenAI and booking roughly $45 billion in related gains in the fiscal year ended March.\n\nNvidia recent results have reinforced optimism around continued spending on AI infrastructure and data centers. Arm Holdings' chip designs are used in AI servers and data centers powered by Nvidia systems.\n\n\"For investors, SoftBank is a compelling way to gain exposure to the data center CPU boom, which is the fastest growing segment in AI semis, and early exposure to the OpenAI IPO,\" said Rolf Bulk, head of semiconductor and infrastructure at Futurum Group.",
+  "fetchedAt": "2026-05-22T06:14:51.003Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "软银集团延续火热涨势，Arm 支持者 OpenAI 股价飙升逾 11%",
+  "chineseSummary": "软银集团股价周五连续第二个交易日上涨。",
+  "chineseContent": "软银集团股价延续第二天的强劲涨势，周五上涨超过 11%，在英伟达的巨额盈利提振人工智能相关股票后，软银集团股价继续上涨。\n\n该公司股价周四收盘上涨 20%，市值增加超过 350 亿美元。\n\n软银的涨势也受到了 Arm Holdings 大幅上涨的推动，这家日本公司持有该公司的多数股权。 Arm 股价继前一交易日上涨超过 15% 后，隔夜上涨超过 16%。\n\nUBP 的高级股权顾问 Vey Sern Ling 对 CNBC 表示：“软银集团的股价只是反映了其所持部分股份的变动，其中包括股价一直在飙升的 Arm，以及可能在未来几周内申请 IPO 的 OpenAI。”\n\n不过，Ling 警告说，投资者通常会对软银等控股公司进行折扣，因为股东并不总是能从他们所拥有的基础资产的价值中充分受益。\n\n他表示：“净资产价值（NAV）或分部总和（SOTP）估值通常需要大幅折扣或谨慎，因为控股公司的股东很少获得标的资产的全部价值。”\n\n软银已向 ChatGPT 制造商投入巨资，此次 IPO 将为软银释放价值，尽管分析师认为其价值可能有限。该公司已成为 OpenAI 最大的支持者之一，向 OpenAI 投资了超过 300 亿美元，并在截至 3 月份的财年中获得了约 450 亿美元的相关收益。\n\n英伟达最近的业绩增强了人们对人工智能基础设施和数据中心持续支出的乐观情绪。 Arm Holdings 的芯片设计用于由 Nvidia 系统提供支持的人工智能服务器和数据中心。\n\nFuturum Group 半导体和基础设施主管 Rolf Bulk 表示：“对于投资者而言，软银是获得数据中心 CPU 热潮（AI 半成品中增长最快的细分市场）以及早期参与 OpenAI IPO 的绝佳方式。”",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
