@@ -1,0 +1,91 @@
+{
+  "slug": "2026-05-22",
+  "date": "2026-05-22",
+  "title": "2026年05月22日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-05-22T06:06:48.212Z",
+  "stats": {
+    "totalProjects": 17,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "cloakhq__cloakbrowser",
+      "rohitg00__agentmemory",
+      "oven-sh__bun"
+    ],
+    "weekly": [
+      "tinyhumansai__openhuman",
+      "colbymchenry__codegraph",
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser",
+      "ruvnet__ruview",
+      "oven-sh__bun",
+      "humanlayer__12-factor-agents",
+      "datawhalechina__easy-vibe"
+    ],
+    "monthly": [
+      "colbymchenry__codegraph",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser",
+      "mattpocock__skills",
+      "alishahryar1__free-claude-code",
+      "anthropics__financial-services",
+      "huggingface__ml-intern",
+      "multica-ai__andrej-karpathy-skills",
+      "aidc-ai__pixelle-video",
+      "soxoj__maigret"
+    ],
+    "commercial": [
+      "tinyhumansai__openhuman",
+      "colbymchenry__codegraph",
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser"
+    ],
+    "deployable": [
+      "tinyhumansai__openhuman",
+      "colbymchenry__codegraph",
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser"
+    ],
+    "risky": [
+      "tinyhumansai__openhuman",
+      "colbymchenry__codegraph",
+      "imbad0202__academic-research-skills",
+      "supertone-inc__supertonic",
+      "rohitg00__agentmemory",
+      "cloakhq__cloakbrowser"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 17 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "tinyhumansai__openhuman",
+    "colbymchenry__codegraph",
+    "imbad0202__academic-research-skills",
+    "supertone-inc__supertonic",
+    "rohitg00__agentmemory",
+    "cloakhq__cloakbrowser",
+    "ruvnet__ruview",
+    "oven-sh__bun",
+    "humanlayer__12-factor-agents",
+    "datawhalechina__easy-vibe",
+    "mattpocock__skills",
+    "alishahryar1__free-claude-code",
+    "anthropics__financial-services",
+    "huggingface__ml-intern",
+    "multica-ai__andrej-karpathy-skills",
+    "aidc-ai__pixelle-video",
+    "soxoj__maigret"
+  ]
+}

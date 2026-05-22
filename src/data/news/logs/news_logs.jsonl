@@ -55,3 +55,15 @@
 {"type":"article_fetch_error","at":"2026-05-21T14:01:40.800Z","id":"hacker-news-b901c652","source":"Hacker News","url":"https://openai.com/index/model-disproves-discrete-geometry-conjecture/","error":"403 Forbidden"}
 {"type":"article_fetch_error","at":"2026-05-21T14:01:41.000Z","id":"hacker-news-36ba3988","source":"Hacker News","url":"https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5","error":"401 HTTP Forbidden"}
 {"type":"news_report_generated","at":"2026-05-21T14:01:54.572Z","date":"2026-05-21","total":50,"global":20,"aiTech":20,"youtube":10}
+{"type":"source_error","at":"2026-05-22T01:27:52.575Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-05-22T01:27:53.049Z","id":"product-hunt-b0667b85","source":"Product Hunt","url":"https://www.producthunt.com/products/basedash","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-22T01:27:53.063Z","id":"product-hunt-49a1a0d9","source":"Product Hunt","url":"https://www.producthunt.com/products/tycoon-us","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-05-22T01:29:02.058Z","date":"2026-05-22","total":50,"global":20,"aiTech":20,"youtube":10}
+{"type":"source_error","at":"2026-05-22T06:06:59.091Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-05-22T06:06:59.715Z","id":"product-hunt-39439c63","source":"Product Hunt","url":"https://www.producthunt.com/products/tacet","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-22T06:07:00.032Z","id":"hacker-news-784e6cb3","source":"Hacker News","url":"https://qz.com/samsung-chip-workers-bonus-ai-profits-052126","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-22T06:07:00.786Z","id":"product-hunt-1f7923a","source":"Product Hunt","url":"https://www.producthunt.com/products/google-antigravity","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-22T06:07:00.790Z","id":"product-hunt-49a1a0d9","source":"Product Hunt","url":"https://www.producthunt.com/products/tycoon-us","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-22T06:07:00.793Z","id":"product-hunt-c80094f0","source":"Product Hunt","url":"https://www.producthunt.com/products/instavm","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-05-22T06:07:00.796Z","id":"product-hunt-b0667b85","source":"Product Hunt","url":"https://www.producthunt.com/products/basedash","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-05-22T06:07:30.145Z","date":"2026-05-22","total":50,"global":20,"aiTech":20,"youtube":10}

@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-20T12:23:35.000Z",
   "id": "product-hunt-964c2e2a",
   "slug": "product-hunt-964c2e2a",
-  "content": "AI subtitles & animated captions with faster editing Discussion | Link",
-  "fetchedAt": "2026-05-21T13:45:51.552Z",
+  "content": "AutoSubtitles is a browser-based AI subtitle generator for creating engaging video content with animated captions. Generate accurate subtitles in 20+ languages, edit with a timeline and canvas editor, apply viral-style caption presets, and enhance videos with AI features like automatic emojis. Designed for creators, podcasts, online courses, marketing content, and social media videos. All without complicated editing software.",
+  "fetchedAt": "2026-05-22T06:06:59.105Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 10,
-  "contentStatus": "fetch-failed",
+  "rank": 13,
+  "contentStatus": "article-extracted",
   "chineseTitle": "自动字幕2.0",
   "chineseSummary": "AI 字幕和动画字幕，编辑速度更快关联",
-  "chineseContent": "AI 字幕和动画字幕，编辑速度更快关联",
+  "chineseContent": "AutoSubtitles 是一款基于浏览器的 AI 字幕生成器，用于创建带有动画字幕的引人入胜的视频内容。生成 20 多种语言的准确字幕，使用时间线和画布编辑器进行编辑，应用病毒式字幕预设，并使用自动表情符号等 AI 功能增强视频。专为创作者、播客、在线课程、营销内容和社交媒体视频而设计。全部无需复杂的编辑软件。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
