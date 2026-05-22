@@ -35,17 +35,10 @@ const configured = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.meta.en
   </main>
 
   <script>
-    import { createClient } from "@supabase/supabase-js";
-
     const form = document.querySelector<HTMLFormElement>("#login-form");
     const message = document.querySelector<HTMLElement>("#login-message");
 
     if (form && message) {
-      const supabase = createClient(
-        import.meta.env.PUBLIC_SUPABASE_URL,
-        import.meta.env.PUBLIC_SUPABASE_ANON_KEY
-      );
-
       form.addEventListener("submit", async event => {
         event.preventDefault();
         const submitter = form.querySelector<HTMLButtonElement>("button");
@@ -55,17 +48,16 @@ const configured = Boolean(import.meta.env.PUBLIC_SUPABASE_URL && import.meta.en
         submitter.disabled = true;
         message.textContent = "正在发送...";
 
-        const redirectTo = `${window.location.origin}/auth/callback/?next=${encodeURIComponent(next)}`;
-        const { error } = await supabase.auth.signInWithOtp({
-          email,
-          options: {
-            emailRedirectTo: redirectTo,
-          },
+        const response = await fetch("/api/auth/send-link", {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({ email, next }),
         });
+        const result = await response.json();
 
         submitter.disabled = false;
-        message.textContent = error
-          ? `发送失败：${error.message}`
+        message.textContent = !response.ok
+          ? `发送失败：${result.error || "请稍后重试"}`
           : "登录链接已发送，请打开邮箱完成登录。";
       });
     }
