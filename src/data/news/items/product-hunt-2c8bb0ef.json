@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "DCP",
+  "summary": "Give your AI agents encrypted permission and keys Discussion | Link",
+  "url": "https://www.producthunt.com/products/dcp",
+  "publishedAt": "2026-05-21T22:45:53.000Z",
+  "id": "product-hunt-2c8bb0ef",
+  "slug": "product-hunt-2c8bb0ef",
+  "content": "Today, many agents read keys and sensitive info from dotenv files, configs, or memory. One bad prompt or compromised tool can drain your wallet, API bill, or private data. DCP makes agents safe for real work: your wallets and API keys stay encrypted on your own machine. Give each agent only the scopes it needs; it asks, you approve from Telegram or App. Daily budgets, logs, and instant revoke keep you in control. Open source, non-custodial, and works with Claude, Cursor, OpenClaw, and Hermes.",
+  "fetchedAt": "2026-05-23T01:21:59.270Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "二氯苯酚",
+  "chineseSummary": "为您的人工智能代理提供加密的权限和密钥关联",
+  "chineseContent": "如今，许多代理从 dotenv 文件、配置或内存中读取密钥和敏感信息。一个错误的提示或受损的工具可能会耗尽您的钱包、API 账单或私人数据。 DCP 使代理能够安全地进行实际工作：您的钱包和 API 密钥在您自己的计算机上保持加密状态。仅向每个代理提供其所需的范围；它要求您通过 Telegram 或 App 进行批准。每日预算、日志和即时撤销让您掌控一切。开源、非托管，可与 Claude、Cursor、OpenClaw 和 Hermes 合作。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

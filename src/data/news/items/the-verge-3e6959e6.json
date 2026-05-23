@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
+  "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum […]",
+  "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+  "publishedAt": "2026-05-22T17:27:08.000Z",
+  "id": "the-verge-3e6959e6",
+  "slug": "the-verge-3e6959e6",
+  "content": "Meta’s new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking “Reddit” onto the end of a Google search, Forum users can view, search for, and post advice directly in their Facebook groups, with optional help from Meta’s AI.&nbsp; [Image: Verge editor Thomas Ricker’s interests include portable batteries and solar power. https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Image-from-iOS-3.jpg?quality=90&strip=all] After logging in with my Facebook account, Forum automatically pulled in the groups I was part of on Facebook and populated my feed with posts from those groups, along with suggestions from groups I’m not part of, similar to my Reddit feed, although without Reddit’s pseudonymity. Groups aren’t front-and-center in Facebook, so I wasn’t surprised to find some on my list that I had completely forgotten about. Aside from the feed, you can also view a mini version of your Facebook profile that just shows your group posts, browse new groups, and post directly to specific groups.&nbsp; Forum’s AI chatbot lives under the “Ask” tab, where you can get AI-generated responses pulling from posts to various Facebook groups, similar to the way Google’s search results and AI overviews pull from the Reddit content it licenses and other sources on the internet. To try it out, I asked the AI a few questions about Magic: The Gathering. Meta’s chatbot referenced posts from a couple of Magic groups I’m in and gave generally sound advice, with suggestions for groups in my area of New Jersey. The results included the posts the AI references, so you can tap them to view the full conversation around those posts. Meta communications manager Feryal Hemamda confirmed Forum’s launch in a statement to The Verge: “We test lots of new products publicly to see what people find interesting and useful to their experiences across our apps.”",
+  "fetchedAt": "2026-05-23T01:21:59.272Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Meta 的论坛是 Reddit、Facebook 和 Google AI 的一部分",
+  "chineseSummary": "Meta 的新 iPhone 论坛应用程序将 Facebook 群组转移到专门的应用程序中，并配备专门的人工智能聊天机器人，就像 Facebook 于 2017 年关闭的不幸的群组应用程序的人工智能改造一样。论坛不是去 ChatGPT 或将“Reddit”添加到谷歌搜索的末尾，而是 [...]",
+  "chineseContent": "Meta 的新 iPhone 论坛应用程序将 Facebook 群组转移到一个专门的应用程序中，并配备专门的人工智能聊天机器人，就像 Facebook 于 2017 年关闭的不幸的群组应用程序的人工智能改造一样。论坛用户可以直接在他们的 Facebook 群组中查看、搜索和发布建议，而不是去 ChatGPT 或在 Google 搜索的末尾添加“Reddit”，而可以选择使用 Meta 人工智能的帮助。  [图片：Verge 编辑 Thomas Ricker 的兴趣包括便携式电池和太阳能。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Image-from-iOS-3.jpg?quality=90&strip=all] 使用我的 Facebook 帐户登录后，论坛会自动拉入我在 Facebook 上所属的群组，并用这些群组的帖子填充我的 Feed，以及我不属于的群组的建议，类似于我的 Reddit Feed，尽管没有 Reddit 的假名。群组在 Facebook 中并不是最重要的，所以当我在列表中发现一些我完全忘记的群组时，我并不感到惊讶。除了提要之外，您还可以查看 Facebook 个人资料的迷你版本，其中仅显示您的群组帖子、浏览新群组以及直接向特定群组发帖。  论坛的人工智能聊天机器人位于“询问”选项卡下，您可以在其中获得人工智能生成的响应，这些响应从帖子中提取到各个 Facebook 群组，类似于谷歌的搜索结果和人工智能概述从其许可的 Reddit 内容和互联网上其他来源中提取的方式。为了尝试一下，我向人工智能询问了一些有关万智牌的问题。 Meta 的聊天机器人参考了我所在的几个万智牌小组的帖子，并给出了总体上合理的建议，并为我所在的新泽西地区的小组提供了建议。结果包括人工智能引用的帖子，因此您可以点击它们来查看完整的对话",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

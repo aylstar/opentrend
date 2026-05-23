@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/humanlayer/12-factor-agents",
   "docsUrl": "https://docs.llamaindex.ai/en/stable/examples/llm/openai_json_vs_function_calling/",
-  "stars": 21621,
-  "forks": 1625,
+  "stars": 21758,
+  "forks": 1633,
   "openIssues": 25,
   "license": "NOASSERTION",
   "pushedAt": "2025-09-21T14:37:40Z",
-  "updatedAt": "2026-05-22T06:14:02Z",
+  "updatedAt": "2026-05-23T01:18:18Z",
   "createdAt": "2025-03-30T22:10:39Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# 12-Factor Agents - Principles for building reliable LLM applications\n\n<div align=\"center\">\n<a href=\"https://www.apache.org/licenses/LICENSE-2.0\">\n        <img src=\"https://img.shields.io/badge/Code-Apache%202.0-blue.svg\" alt=\"Code License: Apache 2.0\"></a>\n<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">\n        <img src=\"https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg\" alt=\"Content License: CC BY-SA 4.0\"></a>\n<a href=\"https://humanlayer.dev/discord\">\n    <img src=\"https://img.shields.io/badge/chat-discord-5865F2\" alt=\"Discord Server\"></a>\n<a href=\"https://www.youtube.com/watch?v=8kMaTybvDUw\">\n    <img src=\"https://img.shields.io/badge/aidotengineer-conf_talk_(17m)-white\" alt=\"YouTube\nDeep Dive\"></a>\n<a href=\"https://www.youtube.com/watch?v=yxJDyQ8v6P0\">\n    <img src=\"https://img.shields.io/badge/youtube-deep_dive-crimson\" alt=\"YouTube\nDeep Dive\"></a>\n    \n</div>\n\n<p></p>\n\n*In the spirit of [12 Factor Apps](https://12factor.net/)*.  *The source for this project is public at https://github.com/humanlayer/12-factor-agents, and I welcome your feedback and contributions. Let's figure this out together!*\n\n> [!TIP]\n> Missed the AI Engineer World's Fair? [Catch the talk here](https://www.youtube.com/watch?v=8kMaTybvDUw)\n>\n> Looking for Context Engineering? [Jump straight to factor 3](https://github.com/humanlayer/12-factor-agents/blob/main/content/factor-03-own-your-context-window.md)\n>\n> Want to contribute to `npx/uvx create-12-factor-agent` - check out [the discussion thread](https://github.com/humanlayer/12-factor-agents/discussions/61)\n\n\n<img referrerpolicy=\"no-referrer-when-downgrade\" src=\"https://static.scarf.sh/a.png?x-pxid=2acad99a-c2d9-48df-86f5-9ca8061b7bf9\" />\n\n<a href=\"#visual-nav\"><img width=\"907\" alt=\"Screenshot 2025-04-03 at 2 49 07 PM\" src=\"https://github.com/user-attachments/assets/23286ad8-7bef-4902-b371-88ff6a22e998\" /></a>\n\n\nHi, I'm Dex. I've been [hacking](https://youtu.be/8bIHcttkOTE) on [AI agents](https://theouterloop.substack.com) for [a while](https://humanlayer.dev). \n\n\n**I've tried every agent framework out there**, from the plug-and-play crew/langchains to the \"minimalist\" smolagents of the world to the \"production grade\" langraph, griptape, etc. \n\n**I've talked to a lot of really strong founders**, in and out of YC, who are all building really impressive things with AI. Most of them are rolling the stack themselves. I don't see a lot of frameworks in production customer-facing agents.\n\n**I've been surprised to find** that most of the products out there billing themselves as \"AI Agents\" are not all that agentic. A lot of them are mostly deterministic code, with LLM steps sprinkled in at just the right points to make the experience truly magical.\n\nAgents, at least the good ones, don't follow the [\"here's your prompt, here's a bag of tools, loop until you hit the goal\"](https://www.anthropic.com/engineering/building-effective-agents#agents) pattern. Rather, they are comprised of mostly just sof",
-  "generatedAt": "2026-05-22T06:14:36.969Z",
+  "generatedAt": "2026-05-23T01:21:46.348Z",
   "analysis": {
     "oneLine": "12-factor-agents 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "12-factor-agents 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，12-factor-agents 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 21,621，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，12-factor-agents 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 21,758，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
