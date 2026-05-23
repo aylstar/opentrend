@@ -18,7 +18,7 @@
   ],
   "rank": 19,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Firefox 正在进行全面的重新设计，提供易于找到的隐私和人工智能控件",
+  "chineseTitle": "Firefox 正在进行全面的重新设计，提供易于找到的隐私和 AI 控件",
   "chineseSummary": "Firefox 正在进行彻底的视觉改革，重新设计了“设置”部分，这将使查找和使用隐私设置变得更加容易，包括用于关闭所有当前和未来人工智能功能的开关。 Mozilla 将重新设计称为“Project Nova”，并计划在今年晚些时候开始推出。它具有圆形用户界面 [...]",
   "chineseContent": "Firefox 正在进行彻底的视觉改革，重新设计了“设置”部分，这将使查找和使用隐私设置变得更加容易，包括用于关闭所有当前和未来人工智能功能的开关。 Mozilla 将重新设计称为“Project Nova”，并计划在今年晚些时候开始推出。它始终具有圆形的 UI 元素，包括气泡状选项卡，以及焕然一新的、受火启发的调色板。 Mozilla 表示，它还在更新图标，以便它们在浅色和深色主题上在视觉上更加一致。  [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/firefox-project-nova-redesign-tab-toolbar.png?quality=90&strip=all] [图片： https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-2.41.36PM.png?quality=90&strip=all] Firefox 的 AI 功能和模型不会下载到您的计算机，除非您选择使用它们，即使您没有在设置中打开完整的阻止功能。但如果你确实安装了任何软件，与 Google Chrome 备受争议的 4GB 下载相比，你可以更容易地看到哪些软件以及它们占用了多少空间。虽然重新设计要到今年晚些时候才会推出，但 Mozilla 还在周四宣布了一项现已推出的新功能：支持 Web Serial API。正如 Mozilla 指出的那样：“例如，网站可以控制设备或提供固件，而无需本机应用程序或安装程序。”新的 API 是本周发布的 Firefox 151 的一部分，还包括 Firefox 主页的更新设计、新壁纸以及在浏览器的 PDF 查看器中将多个 PDF 合并在一起的选项。  [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-21-at-3.47.22PM.png?quality=90&strip=all]",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",

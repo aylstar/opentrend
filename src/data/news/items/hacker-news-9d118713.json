@@ -17,7 +17,7 @@
   ],
   "rank": 12,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Models.dev：人工智能模型规格、定价和功能的开源数据库",
+  "chineseTitle": "Models.dev：AI 模型规格、定价和功能的开源数据库",
   "chineseSummary": "98 分 · 12 条评论",
   "chineseContent": "Models.dev 是一个包含 AI 模型规范、定价和功能的综合开源数据库。\n\n没有一个数据库包含所有可用人工智能模型的信息。我们启动了 Models.dev 作为社区贡献的项目来解决这个问题。我们还在 opencode 内部使用它。\n\n您可以通过 API 访问此数据。\n\n使用模型 ID 字段对任何模型进行查找；这是AI SDK使用的标识符。\n\n提供商徽标以 SVG 文件形式提供：\n\n将 {provider} 替换为提供商 ID（例如 anthropic 、 openai 、 google ）。如果我们没有提供商的徽标，则会提供默认徽标。\n\n数据以 TOML 文件的形式存储在存储库中；按提供商和模型组织。徽标存储为 SVG。这用于生成此页面并为 API 提供支持。\n\n我们需要您帮助保持数据最新。\n\n要添加新模型，请首先检查提供程序是否已存在于 apps/ 目录中。如果没有，那么：\n\n如果提供者尚未在providers/中：\n\n使用提供商的 ID 在providers/ 中创建一个新文件夹。例如，providers/newprovider/ 。\n\n添加包含提供者详细信息的provider.toml：\n\n如果提供商未发布 npm 包但公开 OpenAI 兼容端点，请相应地设置 npm 字段并包含基本 URL：\n\n在提供程序的 models/ 目录中创建一个新的 TOML 文件，其中文件名是模型 ID。\n\n如果模型 ID 包含 / ，则使用子文件夹。例如，对于模型 ID openai/gpt-5 ，创建一个文件夹 openai/ 并在其中放置一个名为 gpt-5.toml 的文件。\n\n对于镜像来自另一个提供程序的模型的包装提供程序，更喜欢重用规范模型定义，而不是复制整个文件。\n\n仅将扩展用于非第一方包装器和镜像。不要在充当模型系列规范源的实际实验室提供程序目录中使用它，例如providers/anthropic/、providers/openai/、providers/google/、providers/xai/、providers/minimax/或providers/moonshot/。\n\n当包装器模型与源模型本质上相同并且仅由一小组覆盖或省略字段不同时，请使用扩展。\n\n有一个 GitHub Action 会根据我们的架构自动验证您的提交，以确保：\n\n将现有包装器模型转换为 extends 时，比较更改前后生成的输出：\n\n这会打印每个更改的模型 TOML 的差异，以便您可以确认生成的 JSON 仅在您想要的位置进行了更改。\n\n模型必须符合以下架构，如packages/core/src/schema.ts中所定义。\n\n请参阅providers/目录中现有的提供程序以供参考：\n\n它将在 http://localhost:3000 打开前端\n\n您可以通过以下方式使用 opencode 手动检查提供商更改：\n\n如果您需要帮助或对贡献有疑问，请提出问题。\n\nModels.dev 是由 SST 的维护者创建的。\n\n加入我们的社区 Discord | YouTube | X.com",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",

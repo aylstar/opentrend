@@ -272,6 +272,67 @@ function stableId(item) {
   return `${slugify(item.source)}-${hash.toString(16)}`;
 }
 
+function cleanSourceTitle(value) {
+  return stripHtml(value)
+    .replace(/\s+[-–—]\s*(Bloomberg|Bloomberg\.com|bloomberg\.com|Reuters|Reuters\.com|The Verge|CNBC|MarketWatch)\s*$/i, "")
+    .replace(/\s+\|\s*(Reuters|The Verge|CNBC|MarketWatch)\s*$/i, "")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+}
+
+function polishChineseTitle(value, item = {}) {
+  const source = item.source || "";
+  const category = item.category || "";
+  let title = String(value ?? "").trim();
+  if (!title) return cleanSourceTitle(item.originalTitle ?? "");
+
+  title = title
+    .replace(/\s+[-–—]\s*(Bloomberg|Bloomberg\.com|bloomberg\.com|路透中文网|路透|Reuters|Reuters\.com)\s*$/i, "")
+    .replace(/\s+\|\s*(路透|Reuters|The Verge|CNBC|MarketWatch)\s*$/i, "")
+    .replace(/人工智能/g, "AI")
+    .replace(/从AI到拦截器，乌克兰正在努力保护其天空的无人机安全/g, "乌克兰如何用 AI 与拦截器构建无人机防空网")
+    .replace(/Google 的 AI正在被操纵。搜索巨头正在悄然反击/g, "Google 的 AI 正在被操纵，搜索巨头悄然反击")
+    .replace(/Google 的 AI搜索太糟糕了，它可以“忽略”你正在寻找的内容/g, "Google AI 搜索失灵：甚至会忽略用户真正想找的内容")
+    .replace(/高通的股价上涨表明投资者正在“觉醒”到AI设备的繁荣/g, "高通股价上涨显示投资者开始重估 AI 设备机会")
+    .replace(/安全帽、AI和假流行病：一群前世界领导人正在努力拯救世界/g, "安全帽、AI 与假疫情：前世界领导人模拟全球危机应对")
+    .replace(/谷歌反重力/g, "Google Antigravity")
+    .replace(/十二南方?/g, "Twelve South")
+    .replace(/万福玛丽项目/g, "《Project Hail Mary》")
+    .replace(/主要收获/g, "核心要点")
+    .replace(/股市原地踏步/g, "股市横盘")
+    .replace(/诱饵和开关/g, "诱导式换壳")
+    .replace(/银行老板在将员工描述为“低价值人力资本”后感到抱歉/g, "银行高管称员工为“低价值人力资本”后道歉")
+    .replace(/解散 Live Nation-Ticketmaster/g, "拆分 Live Nation-Ticketmaster")
+    .replace(/飓风智慧与说唱歌手机会/g, "Hurricane Wisdom 与 Chance the Rapper")
+    .replace(/说唱歌手机会/g, "Chance the Rapper")
+    .replace(/飓风智慧/g, "Hurricane Wisdom")
+    .replace(/埃隆·马斯克 \(Elon Musk\)/g, "埃隆·马斯克")
+    .replace(/凯文·沃什 \(Kevin Warsh\)/g, "凯文·沃什")
+    .replace(/罗·卡纳 \(Ro Khanna\)/g, "罗·卡纳")
+    .replace(/大卫·拉米 \(David Lammy\)/g, "大卫·拉米")
+    .replace(/古兹曼·戈麦斯 \(Guzman y Gomez\)/g, "Guzman y Gomez")
+    .replace(/Strategy创始人Michael Saylor/g, "Strategy 创始人 Michael Saylor")
+    .replace(/Jim Cramer/g, "吉姆·克莱默")
+    .replace(/Kevin Gordon/g, "凯文·戈登")
+    .replace(/(?<=[\u4e00-\u9fff])AI/g, " AI")
+    .replace(/AI(?=[\u4e00-\u9fff])/g, "AI ")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+
+  if (category === "youtube") {
+    title = title
+      .replace(/（官方音乐视频）/g, "（官方 MV）")
+      .replace(/\\|/g, " | ")
+      .replace(/\s{2,}/g, " ")
+      .trim();
+  }
+
+  if (/^[A-Za-z0-9\s:'’.,!?()&|/\\-–—]+$/.test(title) && category !== "youtube" && source !== "Product Hunt") {
+    return cleanSourceTitle(item.originalTitle ?? title);
+  }
+  return title;
+}
+
 function scoreNews(item) {
   let score = 50;
   const text = `${item.originalTitle} ${item.summary}`.toLowerCase();
@@ -338,7 +399,7 @@ function normalizeItem(raw) {
     ...raw,
     id: stableId(raw),
     slug: stableId(raw),
-    originalTitle: stripHtml(raw.originalTitle),
+    originalTitle: cleanSourceTitle(raw.originalTitle),
     summary: stripHtml(raw.summary ?? ""),
     content: stripHtml(raw.content ?? raw.summary ?? ""),
     url: raw.url,
@@ -604,11 +665,22 @@ async function translateItems(items) {
             {
               role: "system",
               content:
-                "你是面向中文商业用户的信息分析编辑。请把英文新闻标题和摘要翻译成中文，并补充简洁判断。只输出 JSON。",
+                "你是面向中文商业用户的信息分析编辑。请把英文新闻标题和摘要改写为准确、自然、可用于商业新闻网站的中文标题与正文。只输出 JSON。",
             },
             {
               role: "user",
-              content: `请处理以下新闻条目。输出格式：{"items":[{"id":"","chineseTitle":"","chineseSummary":"","chineseContent":"","whyItMatters":""}]}。要求：中文标题准确自然；中文摘要 1-2 句；内容页正文 2-3 段，说明事件、背景、可能影响；whyItMatters 说明为什么值得关注。不要编造原文没有的具体数字。\n\n${JSON.stringify(payload)}`,
+              content: `请处理以下新闻条目。输出格式：{"items":[{"id":"","chineseTitle":"","chineseSummary":"","chineseContent":"","whyItMatters":""}]}。
+
+标题翻译要求：
+1. 标题不是逐字直译，要按中文商业新闻标题重写，准确、短、自然。
+2. 删除来源尾缀，例如 Bloomberg.com、Reuters、The Verge、CNBC，不要写进中文标题。
+3. 公司、产品、艺名、项目名优先保留英文原名，例如 Twelve South、Google Antigravity、Chance the Rapper、Live Nation-Ticketmaster、Product Hunt 产品名；除非中文世界已有稳定译名。
+4. 不要把品牌或人名硬翻成中文，例如不要把 Twelve South 翻成“十二南”，不要把 Chance the Rapper 翻成“说唱歌手机会”。
+5. 常见新闻表达要意译：takeaways 译为“核心要点”；tread water 译为“横盘”；bait and switch 译为“诱导式换壳/先诱导后变卦”；sorry after describing 译为“称...后道歉”。
+6. 财经标题要使用专业表达，例如 “yield” 根据语境译为“收益率”，“buyout bankers” 可译为“并购融资银行家”，“debt pre-sales” 可译为“债务融资预售/提前配售”。
+7. YouTube 音乐、影视、游戏标题中，艺人名和作品名一般保留原文，只翻译 Official Video、Trailer、Music Video 等类型说明。
+
+中文摘要 1-2 句；内容页正文 2-3 段，说明事件、背景、可能影响；whyItMatters 说明为什么值得关注。不要编造原文没有的具体数字。\n\n${JSON.stringify(payload)}`,
             },
           ],
         }),
@@ -621,6 +693,7 @@ async function translateItems(items) {
         ...batch.map(item => ({
           ...item,
           ...(map.get(item.id) ?? {}),
+          chineseTitle: polishChineseTitle(map.get(item.id)?.chineseTitle, item),
           translationStatus: map.has(item.id) ? "translated" : "fallback",
         }))
       );
@@ -629,7 +702,7 @@ async function translateItems(items) {
       translated.push(
         ...batch.map(item => ({
           ...item,
-          chineseTitle: item.originalTitle,
+          chineseTitle: polishChineseTitle(item.originalTitle, item),
           chineseSummary: item.summary || "翻译服务暂不可用，已保留原始摘要。",
           chineseContent: item.content || item.summary || "翻译服务暂不可用，建议点击原文链接查看。",
           whyItMatters: "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
@@ -696,7 +769,7 @@ async function translateWithPublicEndpoint(items) {
               : "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。";
       translated.push({
         ...item,
-        chineseTitle: chineseTitle || item.originalTitle,
+        chineseTitle: polishChineseTitle(chineseTitle || item.originalTitle, item),
         chineseSummary: chineseSummary || item.summary || "该条目暂未抓取到摘要，建议点击原文链接核对完整信息。",
         chineseContent:
           chineseContentBase ||
@@ -710,7 +783,7 @@ async function translateWithPublicEndpoint(items) {
       await appendLog("public_translation_error", { id: item.id, error: error.message });
       translated.push({
         ...item,
-        chineseTitle: item.originalTitle,
+        chineseTitle: polishChineseTitle(item.originalTitle, item),
         chineseSummary: item.summary || "翻译服务暂不可用，已保留原始摘要。",
         chineseContent: item.content || item.summary || "翻译服务暂不可用，建议点击原文链接查看。",
         whyItMatters: "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",

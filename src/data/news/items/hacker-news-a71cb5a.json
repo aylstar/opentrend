@@ -16,7 +16,7 @@
     "科技"
   ],
   "rank": 13,
-  "chineseTitle": "Show HN: I reverse engineered Apple's video wallpapers",
+  "chineseTitle": "Show HN：我逆向工程了苹果视频壁纸",
   "chineseSummary": "269 points · 55 comments",
   "chineseContent": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do. I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn&#x27;t going to pay off. So I&#x27;m open-sourcing it. WallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what’s shows in the Settings app. It took a lot of trial and error to replicate the behavior, but the result is that your custom wallpapers appear alongside everything else. I wanted to have an “add” button there too, but I couldn’t find a way to do so, so there’s a companion app that will put your video where it needs to be. Unlike Apple&#x27;s Aerials, the video keeps playing on the desktop (not just the lock screen). The renderer drives AVSampleBufferDisplayLayer directly with PTS-offset gapless looping, and pauses or downshifts based on thermal state, battery level, brightness, and window occlusion. It’s free and works well.",
   "whyItMatters": "该条目属于 AI 与科技趋势信号，适合用于工具选型、技术观察和产品机会判断。",
