@@ -1778,6 +1778,57 @@ const navItems = [
     font-weight: 600;
   }
 
+  .trend-tech-rank-board .trend-rank-item {
+    grid-template-columns: 2.25rem minmax(0, 1fr) 5.75rem;
+    min-height: 3.45rem;
+    gap: 0.75rem;
+    padding: 0.62rem 0;
+  }
+
+  .trend-tech-rank-board .trend-rank-no {
+    align-self: center;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .trend-tech-rank-board .trend-rank-main {
+    align-self: center;
+  }
+
+  .trend-tech-rank-board .trend-rank-name {
+    font-size: 0.96rem;
+    line-height: 1.25;
+  }
+
+  .trend-tech-rank-board .trend-rank-author {
+    margin-top: 0.14rem;
+    font-size: 0.72rem;
+  }
+
+  .trend-tech-rank-board .trend-star-count {
+    display: inline-flex;
+    align-self: center;
+    justify-self: end;
+    max-width: none;
+    align-items: center;
+    gap: 0.25rem;
+    color: #59625a;
+    font-size: 0.82rem;
+    font-weight: 680;
+    font-variant-numeric: tabular-nums;
+    text-align: right;
+  }
+
+  .trend-tech-rank-board .trend-star-count span {
+    display: inline;
+    color: #8a928a;
+    font-size: 0.72rem;
+    line-height: 1;
+  }
+
+  .trend-tech-rank-board .trend-rank-item:hover .trend-rank-name {
+    color: var(--trend-accent);
+  }
+
   .trend-news-article {
     padding-bottom: 4rem;
   }
@@ -1969,8 +2020,17 @@ const navItems = [
       grid-template-columns: 2rem minmax(0, 1fr);
     }
 
+    .trend-tech-rank-board .trend-rank-item {
+      grid-template-columns: 2rem minmax(0, 1fr) auto;
+    }
+
     .trend-star-count {
       display: none;
+    }
+
+    .trend-tech-rank-board .trend-star-count {
+      display: inline-flex;
+      font-size: 0.76rem;
     }
   }
 </style>
