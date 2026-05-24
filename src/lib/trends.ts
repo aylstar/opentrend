@@ -112,24 +112,46 @@ export type XTrendReport = {
 };
 
 const dataRoot = path.join(process.cwd(), "src", "data", "trends");
+const projectRoot = path.join(dataRoot, "projects");
+const reportRoot = path.join(dataRoot, "reports");
+
+const jsonFileCache = new Map<string, unknown>();
+let trendProjectsCache: TrendProject[] | null = null;
+let trendReportsCache: TrendReport[] | null = null;
 
 function readJsonFiles<T>(folder: string): T[] {
   if (!existsSync(folder)) return [];
   return readdirSync(folder)
     .filter(file => file.endsWith(".json"))
-    .map(file => JSON.parse(readFileSync(path.join(folder, file), "utf8")) as T);
+    .map(file => readJsonFile<T>(path.join(folder, file)))
+    .filter((item): item is T => Boolean(item));
+}
+
+function readJsonFile<T>(file: string): T | null {
+  if (!existsSync(file)) return null;
+  const cached = jsonFileCache.get(file);
+  if (cached) return cached as T;
+  const parsed = JSON.parse(readFileSync(file, "utf8")) as T;
+  jsonFileCache.set(file, parsed);
+  return parsed;
 }
 
 export function getTrendProjects() {
-  return readJsonFiles<TrendProject>(path.join(dataRoot, "projects")).sort(
-    (a, b) => b.stars - a.stars
-  );
+  if (!trendProjectsCache) {
+    trendProjectsCache = readJsonFiles<TrendProject>(projectRoot).sort(
+      (a, b) => b.stars - a.stars
+    );
+  }
+  return trendProjectsCache;
 }
 
 export function getTrendReports() {
-  return readJsonFiles<TrendReport>(path.join(dataRoot, "reports")).sort(
-    (a, b) => b.date.localeCompare(a.date)
-  );
+  if (!trendReportsCache) {
+    trendReportsCache = readJsonFiles<TrendReport>(reportRoot).sort(
+      (a, b) => b.date.localeCompare(a.date)
+    );
+  }
+  return trendReportsCache;
 }
 
 export function getXTrendReport(slug: string) {
@@ -140,6 +162,19 @@ export function getXTrendReport(slug: string) {
 
 export function getTrendProjectMap() {
   return new Map(getTrendProjects().map(project => [project.slug, project]));
+}
+
+export function getTrendProjectBySlug(slug?: string) {
+  if (!slug) return null;
+  return readJsonFile<TrendProject>(path.join(projectRoot, `${slug}.json`)) ??
+    getTrendProjects().find(project => project.slug === slug) ??
+    null;
+}
+
+export function getTrendProjectsBySlugs(slugs: string[] = []) {
+  return slugs
+    .map(slug => getTrendProjectBySlug(slug))
+    .filter((project): project is TrendProject => Boolean(project));
 }
 
 export function formatTrendDate(date: string) {

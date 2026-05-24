@@ -36,6 +36,46 @@ const navItems = [
     </header>
     <slot />
   </div>
+  <script is:inline>
+    (() => {
+      const prefetched = new Set();
+      const prefetch = href => {
+        if (!href || prefetched.has(href)) return;
+        const url = new URL(href, location.href);
+        if (url.origin !== location.origin || url.pathname.startsWith("/api/")) return;
+        prefetched.add(url.href);
+        const link = document.createElement("link");
+        link.rel = "prefetch";
+        link.href = url.href;
+        document.head.appendChild(link);
+      };
+
+      const links = [...document.querySelectorAll('a[href^="/"]')];
+      const idle = window.requestIdleCallback || (callback => window.setTimeout(callback, 300));
+      const observer =
+        "IntersectionObserver" in window
+          ? new IntersectionObserver(
+              entries => {
+                entries.forEach(entry => {
+                  if (entry.isIntersecting) {
+                    idle(() => prefetch(entry.target.href));
+                    observer.unobserve(entry.target);
+                  }
+                });
+              },
+              { rootMargin: "240px" }
+            )
+          : null;
+
+      links.forEach(link => {
+        link.addEventListener("pointerenter", () => prefetch(link.href), { once: true });
+        link.addEventListener("focus", () => prefetch(link.href), { once: true });
+      });
+      links.slice(0, 32).forEach(link => {
+        observer?.observe(link);
+      });
+    })();
+  </script>
 </Layout>
 
 <style is:global>

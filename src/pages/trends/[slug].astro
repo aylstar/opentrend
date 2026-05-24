@@ -1,17 +1,14 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
 import RankBoard from "@/components/trends/RankBoard.astro";
-import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
+import { formatTrendDate, getTrendProjectsBySlugs, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
 
 const report = getTrendReports().find(item => item.slug === Astro.params.slug);
 if (!report) return Astro.redirect("/trends/");
-const projectMap = getTrendProjectMap();
 const reportDate = formatTrendDate(report.date);
 const pick = (slugs: string[]) =>
-  slugs
-    .map(slug => projectMap.get(slug))
-    .filter((project): project is TrendProject => Boolean(project));
+  getTrendProjectsBySlugs(slugs).filter((project): project is TrendProject => Boolean(project));
 const allProjects = pick(report.projectSlugs);
 const tagCounts = allProjects
   .flatMap(project => project.analysis.tags ?? [])

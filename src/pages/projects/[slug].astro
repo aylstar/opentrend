@@ -1,8 +1,8 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
-import { formatTrendDate, getTrendProjects, getTrendReports, windowLabel } from "@/lib/trends";
+import { formatTrendDate, getTrendProjectBySlug, getTrendReports, windowLabel } from "@/lib/trends";
 
-const project = getTrendProjects().find(item => item.slug === Astro.params.slug);
+const project = getTrendProjectBySlug(Astro.params.slug);
 if (!project) return Astro.redirect("/projects/");
 const detailParagraphs =
   project.analysis.detailParagraphs && project.analysis.detailParagraphs.length >= 3

@@ -1,14 +1,13 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
 import NewsRankBoard from "@/components/news/NewsRankBoard.astro";
-import { formatNewsDate, getNewsItemMap, getNewsReports } from "@/lib/news";
+import { formatNewsDate, getNewsItemsByIds, getNewsReports } from "@/lib/news";
 import type { NewsItem } from "@/lib/news";
 
 const reports = getNewsReports();
 const latest = reports[0];
-const itemMap = getNewsItemMap();
 const pick = (ids: string[] = []) =>
-  ids.map(id => itemMap.get(id)).filter((item): item is NewsItem => Boolean(item));
+  getNewsItemsByIds(ids).filter((item): item is NewsItem => Boolean(item));
 
 const globalItems = latest ? pick(latest.sections.global) : [];
 const techItems = latest ? pick(latest.sections.aiTech) : [];

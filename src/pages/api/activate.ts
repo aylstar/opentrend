@@ -5,6 +5,7 @@ import {
   normalizeCode,
   planDeviceLimit,
   setAccessCookies,
+  setAccessSessionCookie,
 } from "@/lib/auth";
 
 function json(data: unknown, status = 200) {
@@ -84,6 +85,13 @@ export const POST: APIRoute = async context => {
   }
 
   setAccessCookies(context, code, deviceId);
+  await setAccessSessionCookie(context, {
+    code,
+    plan: activationCode.plan,
+    status: "active",
+    expiresAt,
+    deviceLimit,
+  });
 
   return json({
     ok: true,
@@ -93,4 +101,3 @@ export const POST: APIRoute = async context => {
     deviceLimit,
   });
 };
-

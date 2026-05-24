@@ -2,26 +2,22 @@
 import TrendShell from "@/components/trends/TrendShell.astro";
 import RankBoard from "@/components/trends/RankBoard.astro";
 import NewsRankBoard from "@/components/news/NewsRankBoard.astro";
-import { formatTrendDate, getTrendProjectMap, getTrendReports } from "@/lib/trends";
+import { formatTrendDate, getTrendProjectsBySlugs, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
-import { getNewsItemMap, getNewsReports } from "@/lib/news";
+import { getNewsItemsByIds, getNewsReports } from "@/lib/news";
 import type { NewsItem } from "@/lib/news";
 
 const reports = getTrendReports();
 const latest = reports[0];
-const projectMap = getTrendProjectMap();
 const pick = (slugs: string[] = []) =>
-  slugs
-    .map(slug => projectMap.get(slug))
-    .filter((project): project is TrendProject => Boolean(project));
+  getTrendProjectsBySlugs(slugs).filter((project): project is TrendProject => Boolean(project));
 
 const weekly = latest ? pick(latest.sections.weekly) : [];
 const monthly = latest ? pick(latest.sections.monthly) : [];
 const newsReports = getNewsReports();
 const latestNews = newsReports[0];
-const newsMap = getNewsItemMap();
 const pickNews = (ids: string[] = []) =>
-  ids.map(id => newsMap.get(id)).filter((item): item is NewsItem => Boolean(item));
+  getNewsItemsByIds(ids).filter((item): item is NewsItem => Boolean(item));
 const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10) : [];
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
 const financeNews = latestNews ? pickNews(latestNews.sections.finance).slice(0, 10) : [];

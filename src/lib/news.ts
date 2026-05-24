@@ -53,28 +53,66 @@ export type NewsReport = {
 };
 
 const dataRoot = path.join(process.cwd(), "src", "data", "news");
+const itemRoot = path.join(dataRoot, "items");
+const reportRoot = path.join(dataRoot, "reports");
+
+const jsonFileCache = new Map<string, unknown>();
+let newsItemsCache: NewsItem[] | null = null;
+let newsReportsCache: NewsReport[] | null = null;
 
 function readJsonFiles<T>(folder: string): T[] {
   if (!existsSync(folder)) return [];
   return readdirSync(folder)
     .filter(file => file.endsWith(".json"))
-    .map(file => JSON.parse(readFileSync(path.join(folder, file), "utf8")) as T);
+    .map(file => readJsonFile<T>(path.join(folder, file)))
+    .filter((item): item is T => Boolean(item));
+}
+
+function readJsonFile<T>(file: string): T | null {
+  if (!existsSync(file)) return null;
+  const cached = jsonFileCache.get(file);
+  if (cached) return cached as T;
+  const parsed = JSON.parse(readFileSync(file, "utf8")) as T;
+  jsonFileCache.set(file, parsed);
+  return parsed;
 }
 
 export function getNewsItems() {
-  return readJsonFiles<NewsItem>(path.join(dataRoot, "items")).sort(
-    (a, b) => b.score - a.score || b.sourceWeight - a.sourceWeight
-  );
+  if (!newsItemsCache) {
+    newsItemsCache = readJsonFiles<NewsItem>(itemRoot).sort(
+      (a, b) => b.score - a.score || b.sourceWeight - a.sourceWeight
+    );
+  }
+  return newsItemsCache;
 }
 
 export function getNewsReports() {
-  return readJsonFiles<NewsReport>(path.join(dataRoot, "reports")).sort(
-    (a, b) => b.date.localeCompare(a.date)
-  );
+  if (!newsReportsCache) {
+    newsReportsCache = readJsonFiles<NewsReport>(reportRoot).sort(
+      (a, b) => b.date.localeCompare(a.date)
+    );
+  }
+  return newsReportsCache;
 }
 
 export function getNewsItemMap() {
   return new Map(getNewsItems().map(item => [item.id, item]));
+}
+
+export function getNewsItemBySlug(slug?: string, category?: NewsItem["category"]) {
+  if (!slug) return null;
+  const direct = readJsonFile<NewsItem>(path.join(itemRoot, `${slug}.json`));
+  if (direct && (!category || direct.category === category)) return direct;
+  return getNewsItems().find(item => item.slug === slug && (!category || item.category === category)) ?? null;
+}
+
+export function getNewsItemsByIds(ids: string[] = [], category?: NewsItem["category"]) {
+  return ids
+    .map(id => {
+      const item = readJsonFile<NewsItem>(path.join(itemRoot, `${id}.json`));
+      return item && (!category || item.category === category) ? item : null;
+    })
+    .filter((item): item is NewsItem => Boolean(item));
 }
 
 export function formatNewsDate(date: string) {

@@ -17,6 +17,8 @@ const adminToken = import.meta.env.ADMIN_TOKEN;
 
 export const accessCodeCookie = "tr_access_code";
 export const deviceCookie = "tr_device_id";
+export const accessSessionCookie = "tr_access_session";
+const sessionMaxAgeSeconds = 60 * 60 * 12;
 
 export const protectedPrefixes = [
   "/news/",
@@ -82,6 +84,67 @@ export function hasActivePass(pass: AccessPass | null) {
   return pass?.status === "active";
 }
 
+function getSessionSecret() {
+  return supabaseServiceRoleKey || adminToken || "";
+}
+
+function toBase64Url(value: ArrayBuffer | string) {
+  const bytes =
+    typeof value === "string"
+      ? new TextEncoder().encode(value)
+      : new Uint8Array(value);
+  let binary = "";
+  bytes.forEach(byte => {
+    binary += String.fromCharCode(byte);
+  });
+  return btoa(binary).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/g, "");
+}
+
+function fromBase64Url(value: string) {
+  const normalized = value.replace(/-/g, "+").replace(/_/g, "/");
+  const padded = normalized.padEnd(Math.ceil(normalized.length / 4) * 4, "=");
+  return atob(padded);
+}
+
+async function hmac(value: string) {
+  const secret = getSessionSecret();
+  if (!secret) return "";
+  const key = await crypto.subtle.importKey(
+    "raw",
+    new TextEncoder().encode(secret),
+    { name: "HMAC", hash: "SHA-256" },
+    false,
+    ["sign"]
+  );
+  const signature = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(value));
+  return toBase64Url(signature);
+}
+
+export async function createAccessSession(pass: AccessPass) {
+  const now = Date.now();
+  const absoluteExpiry = pass.expiresAt ? new Date(pass.expiresAt).getTime() : now + sessionMaxAgeSeconds * 1000;
+  const exp = Math.min(absoluteExpiry, now + sessionMaxAgeSeconds * 1000);
+  const payload = toBase64Url(JSON.stringify({ code: pass.code, exp, deviceLimit: pass.deviceLimit }));
+  const signature = await hmac(payload);
+  if (!signature) return "";
+  return `${payload}.${signature}`;
+}
+
+export async function verifyAccessSession(value?: string | null) {
+  if (!value) return null;
+  const [payload, signature] = value.split(".");
+  if (!payload || !signature) return null;
+  const expected = await hmac(payload);
+  if (!expected || expected !== signature) return null;
+  const parsed = JSON.parse(fromBase64Url(payload)) as { code?: string; exp?: number; deviceLimit?: number };
+  if (!parsed.code || !parsed.exp || parsed.exp < Date.now()) return null;
+  return {
+    code: normalizeCode(parsed.code),
+    deviceLimit: parsed.deviceLimit ?? 2,
+    expiresAt: new Date(parsed.exp).toISOString(),
+  };
+}
+
 export function isAdminRequest(context: Pick<APIContext, "cookies" | "url" | "request">) {
   if (!adminToken) return false;
   const cookieToken = context.cookies.get("tr_admin_token")?.value;
@@ -108,3 +171,14 @@ export function setAccessCookies(context: Pick<APIContext, "cookies" | "url">, c
   });
 }
 
+export async function setAccessSessionCookie(context: Pick<APIContext, "cookies" | "url">, pass: AccessPass) {
+  const session = await createAccessSession(pass);
+  if (!session) return;
+  context.cookies.set(accessSessionCookie, session, {
+    path: "/",
+    httpOnly: true,
+    sameSite: "lax",
+    secure: context.url.protocol === "https:",
+    maxAge: sessionMaxAgeSeconds,
+  });
+}

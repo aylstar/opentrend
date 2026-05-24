@@ -1,10 +1,8 @@
 ---
 import TrendShell from "@/components/trends/TrendShell.astro";
-import { formatNewsDate, getNewsItems, getNewsReports, newsCategoryLabel } from "@/lib/news";
+import { formatNewsDate, getNewsItemBySlug, getNewsReports, newsCategoryLabel } from "@/lib/news";
 
-const item = getNewsItems()
-  .filter(item => item.category === "finance")
-  .find(item => item.slug === Astro.params.slug);
+const item = getNewsItemBySlug(Astro.params.slug, "finance");
 if (!item) return Astro.redirect("/finance/");
 const sourceReport =
   getNewsReports().find(report => (report.sections.finance ?? []).includes(item.id)) ?? getNewsReports()[0];

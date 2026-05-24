@@ -1,6 +1,7 @@
 import { defineMiddleware } from "astro:middleware";
 import {
   accessCodeCookie,
+  accessSessionCookie,
   createSupabaseAdminClient,
   deviceCookie,
   getAccessPass,
@@ -8,6 +9,8 @@ import {
   isAdminRequest,
   protectedPrefixes,
   setAccessCookies,
+  setAccessSessionCookie,
+  verifyAccessSession,
 } from "@/lib/auth";
 
 function isProtectedPath(pathname: string) {
@@ -79,6 +82,13 @@ export const onRequest = defineMiddleware(async (context, next) => {
   }
 
   const code = context.cookies.get(accessCodeCookie)?.value;
+  const session = await verifyAccessSession(context.cookies.get(accessSessionCookie)?.value);
+  if (session && session.code === code) {
+    const response = await next();
+    response.headers.set("cache-control", "private, max-age=60, stale-while-revalidate=300");
+    return response;
+  }
+
   const pass = await getAccessPass(code);
   if (!pass || !hasActivePass(pass)) {
     return context.redirect("/settings/?membership=required");
@@ -93,5 +103,9 @@ export const onRequest = defineMiddleware(async (context, next) => {
     return context.redirect("/settings/?device_limit=1");
   }
 
-  return next();
+  await setAccessSessionCookie(context, pass);
+
+  const response = await next();
+  response.headers.set("cache-control", "private, max-age=60, stale-while-revalidate=300");
+  return response;
 });
