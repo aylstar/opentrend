@@ -74,15 +74,9 @@ const codeRows = codes ?? [];
           </>
         ) : (
           <section class="trend-panel trend-feature-card">
-            <h2>请输入后台口令</h2>
-            <p>访问方式：/admin/?token=你的 ADMIN_TOKEN。首次输入后会写入后台 Cookie。</p>
-            <form class="trend-auth-form" method="get" action="/admin/">
-              <label>
-                <span>后台口令</span>
-                <input type="password" name="token" autocomplete="off" />
-              </label>
-              <button type="submit">进入后台</button>
-            </form>
+            <h2>无后台权限</h2>
+            <p>当前浏览器没有后台管理权限。请使用管理员专用入口访问。</p>
+            <a class="trend-action-link" href="/">返回趋势雷达</a>
           </section>
         )
       }
@@ -123,4 +117,3 @@ const codeRows = codes ?? [];
     });
   </script>
 </TrendShell>
-

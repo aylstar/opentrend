@@ -69,6 +69,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
           secure: context.url.protocol === "https:",
           maxAge: 60 * 60 * 24 * 30,
         });
+        return context.redirect("/admin/");
       }
       return next();
     }
