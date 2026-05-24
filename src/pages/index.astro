@@ -6,15 +6,38 @@ import { formatTrendDate, getTrendProjectsBySlugs, getTrendReports } from "@/lib
 import type { TrendProject } from "@/lib/trends";
 import { getNewsItemsByIds, getNewsReports } from "@/lib/news";
 import type { NewsItem } from "@/lib/news";
+import {
+  accessCodeCookie,
+  accessSessionCookie,
+  getAccessPass,
+  hasActivePass,
+  isSupabaseConfigured,
+  normalizeCode,
+  setAccessSessionCookie,
+  verifyAccessSession,
+} from "@/lib/auth";
 
-const reports = getTrendReports();
+const configured = isSupabaseConfigured();
+const currentCode = Astro.cookies.get(accessCodeCookie)?.value;
+const currentSession = await verifyAccessSession(Astro.cookies.get(accessSessionCookie)?.value);
+let hasAccess = !configured || Boolean(currentSession && currentSession.code === normalizeCode(currentCode));
+
+if (!hasAccess && currentCode) {
+  const pass = await getAccessPass(currentCode);
+  hasAccess = hasActivePass(pass);
+  if (pass && hasAccess) {
+    await setAccessSessionCookie(Astro, pass);
+  }
+}
+
+const reports = hasAccess ? getTrendReports() : [];
 const latest = reports[0];
 const pick = (slugs: string[] = []) =>
   getTrendProjectsBySlugs(slugs).filter((project): project is TrendProject => Boolean(project));
 
 const weekly = latest ? pick(latest.sections.weekly) : [];
 const monthly = latest ? pick(latest.sections.monthly) : [];
-const newsReports = getNewsReports();
+const newsReports = hasAccess ? getNewsReports() : [];
 const latestNews = newsReports[0];
 const pickNews = (ids: string[] = []) =>
   getNewsItemsByIds(ids).filter((item): item is NewsItem => Boolean(item));
@@ -27,127 +50,317 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
 <TrendShell
   title="趋势雷达信息概况"
   description="面向个人订阅的信息概况、趋势报告和项目数据库"
+  minimal={!hasAccess}
 >
-  <main id="main-content">
-    <section class="trend-container trend-dashboard">
-      <div class="trend-dashboard-header">
-        <div>
-          <p class="trend-eyebrow">Trend Command Center</p>
-          <h1 class="trend-dashboard-title">今日趋势驾驶舱</h1>
-        </div>
-        <p class="trend-dashboard-meta">{latest ? formatTrendDate(latest.date) : "等待生成"}</p>
-      </div>
-
-      <div class="trend-module-grid" aria-label="核心雷达模块">
-        <a class="trend-module-card is-news" href="/news/">
-          <span>新闻雷达</span>
-          <strong>{latestNews ? `${latestNews.stats.globalItems + latestNews.stats.techItems} 条新闻信号` : "等待数据"}</strong>
-          <p>全球新闻与 AI 科技新闻排行</p>
-        </a>
-        <a class="trend-module-card is-finance" href="/finance/">
-          <span>财经雷达</span>
-          <strong>{financeNews.length ? `${financeNews.length} 条市场信号` : "等待数据"}</strong>
-          <p>彭博、Reuters、FT、WSJ 等财经头条</p>
-        </a>
-        <a class="trend-module-card is-interest" href="/youtube/">
-          <span>兴趣雷达</span>
-          <strong>{youtubeNews.length ? `${youtubeNews.length} 条注意力信号` : "等待数据"}</strong>
-          <p>YouTube 热门视频，X 趋势待接入</p>
-        </a>
-        <a class="trend-module-card is-tech" href="/trends/">
-          <span>科技雷达</span>
-          <strong>{latest ? `${latest.stats.totalProjects} 个开源项目` : "等待数据"}</strong>
-          <p>GitHub 周榜、月榜与项目详情</p>
-        </a>
-      </div>
-    </section>
-
-    {
-      latestNews ? (
-        <section class="trend-container trend-section trend-home-ranks">
-          <div class="trend-section-heading">
+  {
+    hasAccess ? (
+      <main id="main-content">
+        <section class="trend-container trend-dashboard">
+          <div class="trend-dashboard-header">
             <div>
-              <p class="trend-eyebrow">News Intelligence</p>
-              <h2>新闻雷达</h2>
+              <p class="trend-eyebrow">Trend Command Center</p>
+              <h1 class="trend-dashboard-title">今日趋势驾驶舱</h1>
             </div>
-            <a href="/news/">进入新闻雷达</a>
+            <p class="trend-dashboard-meta">{latest ? formatTrendDate(latest.date) : "等待生成"}</p>
           </div>
-          <div class="trend-rank-grid">
-            <NewsRankBoard title="全球新闻 Top 10" subtitle="GDELT / BBC / Guardian" items={globalNews} />
-            <NewsRankBoard title="AI 科技 Top 10" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techNews} />
+
+          <div class="trend-module-grid" aria-label="核心雷达模块">
+            <a class="trend-module-card is-news" href="/news/">
+              <span>新闻雷达</span>
+              <strong>{latestNews ? `${latestNews.stats.globalItems + latestNews.stats.techItems} 条新闻信号` : "等待数据"}</strong>
+              <p>全球新闻与 AI 科技新闻排行</p>
+            </a>
+            <a class="trend-module-card is-finance" href="/finance/">
+              <span>财经雷达</span>
+              <strong>{financeNews.length ? `${financeNews.length} 条市场信号` : "等待数据"}</strong>
+              <p>彭博、Reuters、FT、WSJ 等财经头条</p>
+            </a>
+            <a class="trend-module-card is-interest" href="/youtube/">
+              <span>兴趣雷达</span>
+              <strong>{youtubeNews.length ? `${youtubeNews.length} 条注意力信号` : "等待数据"}</strong>
+              <p>YouTube 热门视频，X 趋势待接入</p>
+            </a>
+            <a class="trend-module-card is-tech" href="/trends/">
+              <span>科技雷达</span>
+              <strong>{latest ? `${latest.stats.totalProjects} 个开源项目` : "等待数据"}</strong>
+              <p>GitHub 周榜、月榜与项目详情</p>
+            </a>
           </div>
         </section>
-      ) : null
+
+        {
+          latestNews ? (
+            <section class="trend-container trend-section trend-home-ranks">
+              <div class="trend-section-heading">
+                <div>
+                  <p class="trend-eyebrow">News Intelligence</p>
+                  <h2>新闻雷达</h2>
+                </div>
+                <a href="/news/">进入新闻雷达</a>
+              </div>
+              <div class="trend-rank-grid">
+                <NewsRankBoard title="全球新闻 Top 10" subtitle="GDELT / BBC / Guardian" items={globalNews} />
+                <NewsRankBoard title="AI 科技 Top 10" subtitle="HN / Product Hunt / Hugging Face / The Verge" items={techNews} />
+              </div>
+            </section>
+          ) : null
+        }
+
+        {
+          financeNews.length ? (
+            <section class="trend-container trend-section trend-home-ranks">
+              <div class="trend-section-heading">
+                <div>
+                  <p class="trend-eyebrow">Finance Radar</p>
+                  <h2>财经雷达</h2>
+                </div>
+                <a href="/finance/">进入财经雷达</a>
+              </div>
+              <div class="trend-rank-grid">
+                <NewsRankBoard
+                  title="全球财经 Top 10"
+                  subtitle="Bloomberg / Reuters / FT / WSJ / CNBC / MarketWatch"
+                  items={financeNews}
+                  basePath="/finance/items"
+                />
+              </div>
+            </section>
+          ) : null
+        }
+
+        {
+          youtubeNews.length ? (
+            <section class="trend-container trend-section trend-home-ranks">
+              <div class="trend-section-heading">
+                <div>
+                  <p class="trend-eyebrow">Attention Radar</p>
+                  <h2>兴趣雷达</h2>
+                </div>
+                <a href="/youtube/">进入兴趣雷达</a>
+              </div>
+              <div class="trend-rank-grid">
+                <NewsRankBoard
+                  title="YouTube 热门视频 Top 10"
+                  subtitle="YouTube Data API / Most Popular"
+                  items={youtubeNews}
+                  basePath="/youtube/items"
+                />
+              </div>
+            </section>
+          ) : null
+        }
+
+        {
+          latest ? (
+            <section class="trend-container trend-section trend-home-ranks">
+              <div class="trend-section-heading">
+                <div>
+                  <p class="trend-eyebrow">Open Source</p>
+                  <h2>科技雷达</h2>
+                </div>
+                <a href="/trends/">进入科技雷达</a>
+              </div>
+              <div class="trend-rank-grid">
+                <RankBoard title="周趋势排名" subtitle="按 GitHub 周榜顺序展示" projects={weekly} />
+                <RankBoard title="月趋势排名" subtitle="按 GitHub 月榜顺序展示" projects={monthly} />
+              </div>
+            </section>
+          ) : (
+            <section class="trend-container trend-section">
+              <div class="trend-panel trend-feature-card">
+                <h2>暂无 GitHub 趋势数据</h2>
+                <p>运行 pnpm trends:sample 或 pnpm trends:run 后，这里会展示周榜和月榜排名。</p>
+              </div>
+            </section>
+          )
+        }
+      </main>
+    ) : (
+      <main id="main-content" class="trend-lock-page">
+        <section class="trend-lock-shell" aria-label="趋势雷达激活访问">
+          <div class="trend-lock-visual">
+            <img src="/images/trend-radar-lock.jpeg" alt="趋势雷达，每天筛选值得关注的新闻、财经、科技与开源项目信号。" />
+          </div>
+          <div class="trend-lock-panel-wrap">
+            <section class="trend-lock-panel" aria-labelledby="activation-title">
+              <h1 id="activation-title">输入激活码</h1>
+              <form id="activation-form" class="trend-lock-form">
+                <label>
+                  <span class="sr-only">激活码</span>
+                  <input name="code" placeholder="请输入激活码" autocomplete="off" required />
+                </label>
+                <button type="submit">确认进入</button>
+                <p id="activation-message" class="trend-lock-message" aria-live="polite"></p>
+              </form>
+            </section>
+          </div>
+        </section>
+      </main>
+    )
+  }
+
+  <script>
+    const activationForm = document.querySelector<HTMLFormElement>("#activation-form");
+    const activationMessage = document.querySelector<HTMLElement>("#activation-message");
+
+    activationForm?.addEventListener("submit", async event => {
+      event.preventDefault();
+      const button = activationForm.querySelector<HTMLButtonElement>("button");
+      const code = new FormData(activationForm).get("code");
+      if (!button || !activationMessage) return;
+      button.disabled = true;
+      activationMessage.textContent = "正在校验...";
+
+      const response = await fetch("/api/activate", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ code }),
+      });
+      const result = await response.json();
+      button.disabled = false;
+
+      if (!response.ok) {
+        activationMessage.textContent = result.error || "激活失败";
+        return;
+      }
+
+      activationMessage.textContent = "激活成功";
+      window.setTimeout(() => window.location.reload(), 350);
+    });
+  </script>
+
+  <style>
+    .trend-lock-page {
+      min-height: 100svh;
+      padding: clamp(1rem, 3vw, 2.25rem);
     }
 
-    {
-      financeNews.length ? (
-        <section class="trend-container trend-section trend-home-ranks">
-          <div class="trend-section-heading">
-            <div>
-              <p class="trend-eyebrow">Finance Radar</p>
-              <h2>财经雷达</h2>
-            </div>
-            <a href="/finance/">进入财经雷达</a>
-          </div>
-          <div class="trend-rank-grid">
-            <NewsRankBoard
-              title="全球财经 Top 10"
-              subtitle="Bloomberg / Reuters / FT / WSJ / CNBC / MarketWatch"
-              items={financeNews}
-              basePath="/finance/items"
-            />
-          </div>
-        </section>
-      ) : null
+    .trend-lock-shell {
+      display: grid;
+      min-height: calc(100svh - 4.5rem);
+      overflow: hidden;
+      border: 1px solid rgba(23, 32, 27, 0.08);
+      border-radius: 1.4rem;
+      background: #f9f5eb;
+      box-shadow: 0 24px 80px rgba(23, 32, 27, 0.08);
     }
 
-    {
-      youtubeNews.length ? (
-        <section class="trend-container trend-section trend-home-ranks">
-          <div class="trend-section-heading">
-            <div>
-              <p class="trend-eyebrow">Attention Radar</p>
-              <h2>兴趣雷达</h2>
-            </div>
-            <a href="/youtube/">进入兴趣雷达</a>
-          </div>
-          <div class="trend-rank-grid">
-            <NewsRankBoard
-              title="YouTube 热门视频 Top 10"
-              subtitle="YouTube Data API / Most Popular"
-              items={youtubeNews}
-              basePath="/youtube/items"
-            />
-          </div>
-        </section>
-      ) : null
+    .trend-lock-visual {
+      min-height: 22rem;
+      background: #f3eddf;
     }
 
-    {
-      latest ? (
-        <section class="trend-container trend-section trend-home-ranks">
-          <div class="trend-section-heading">
-            <div>
-              <p class="trend-eyebrow">Open Source</p>
-              <h2>科技雷达</h2>
-            </div>
-            <a href="/trends/">进入科技雷达</a>
-          </div>
-          <div class="trend-rank-grid">
-            <RankBoard title="周趋势排名" subtitle="按 GitHub 周榜顺序展示" projects={weekly} />
-            <RankBoard title="月趋势排名" subtitle="按 GitHub 月榜顺序展示" projects={monthly} />
-          </div>
-        </section>
-      ) : (
-        <section class="trend-container trend-section">
-          <div class="trend-panel trend-feature-card">
-            <h2>暂无 GitHub 趋势数据</h2>
-            <p>运行 pnpm trends:sample 或 pnpm trends:run 后，这里会展示周榜和月榜排名。</p>
-          </div>
-        </section>
-      )
+    .trend-lock-visual img {
+      width: 100%;
+      height: 100%;
+      min-height: inherit;
+      display: block;
+      object-fit: cover;
     }
 
-  </main>
+    .trend-lock-panel-wrap {
+      display: grid;
+      place-items: center;
+      padding: clamp(1.4rem, 5vw, 4.5rem);
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(251, 249, 243, 0.94)),
+        #fbf9f3;
+    }
+
+    .trend-lock-panel {
+      width: min(100%, 25rem);
+      border: 1px solid rgba(23, 32, 27, 0.08);
+      border-radius: 1rem;
+      background: rgba(255, 255, 255, 0.86);
+      padding: clamp(1.25rem, 3vw, 2rem);
+      box-shadow: 0 18px 44px rgba(23, 32, 27, 0.055);
+      backdrop-filter: blur(18px);
+    }
+
+    .trend-lock-panel h1 {
+      margin: 0 0 1.1rem;
+      color: #17201b;
+      font-size: 1.15rem;
+      font-weight: 760;
+      letter-spacing: 0;
+    }
+
+    .trend-lock-form {
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .trend-lock-form input {
+      width: 100%;
+      border: 1px solid rgba(23, 32, 27, 0.12);
+      border-radius: 0.75rem;
+      background: #fff;
+      padding: 0.86rem 0.95rem;
+      color: #17201b;
+      font-size: 0.98rem;
+      outline: none;
+    }
+
+    .trend-lock-form input:focus {
+      border-color: rgba(47, 143, 131, 0.55);
+      box-shadow: 0 0 0 3px rgba(47, 143, 131, 0.11);
+    }
+
+    .trend-lock-form button {
+      width: 100%;
+      border: 0;
+      border-radius: 0.75rem;
+      background: #11251f;
+      padding: 0.88rem 1rem;
+      color: #fff;
+      font-size: 0.98rem;
+      font-weight: 760;
+      cursor: pointer;
+      transition:
+        background 160ms ease,
+        transform 160ms ease;
+    }
+
+    .trend-lock-form button:hover {
+      background: #16362e;
+      transform: translateY(-1px);
+    }
+
+    .trend-lock-form button:disabled {
+      cursor: wait;
+      opacity: 0.62;
+      transform: none;
+    }
+
+    .trend-lock-message {
+      min-height: 1.25rem;
+      margin: 0;
+      color: #6b756d;
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+
+    @media (min-width: 860px) {
+      .trend-lock-shell {
+        grid-template-columns: minmax(0, 55fr) minmax(22rem, 45fr);
+      }
+
+      .trend-lock-visual {
+        min-height: calc(100svh - 4.5rem);
+      }
+    }
+
+    @media (max-width: 859px) {
+      .trend-lock-page {
+        padding: 0;
+      }
+
+      .trend-lock-shell {
+        min-height: 100svh;
+        border-radius: 0;
+        border-left: 0;
+        border-right: 0;
+      }
+    }
+  </style>
 </TrendShell>

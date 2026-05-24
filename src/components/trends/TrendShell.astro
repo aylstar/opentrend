@@ -4,9 +4,10 @@ import Layout from "@/layouts/Layout.astro";
 type Props = {
   title?: string;
   description?: string;
+  minimal?: boolean;
 };
 
-const { title = "趋势雷达", description = "面向国内用户的信息趋势报告" } = Astro.props;
+const { title = "趋势雷达", description = "面向国内用户的信息趋势报告", minimal = false } = Astro.props;
 const pathname = Astro.url.pathname;
 const navItems = [
   { label: "新闻雷达", href: "/news/", match: "/news/" },
@@ -20,20 +21,24 @@ const navItems = [
 
 <Layout title={title} description={description}>
   <div class="trend-shell">
-    <header class="trend-nav">
-      <a href="/" class="trend-brand" aria-label="趋势雷达首页">
-        <span>趋势雷达</span>
-      </a>
-      <nav class="trend-nav-links" aria-label="产品导航">
-        {
-          navItems.map(item => (
-            <a href={item.href} aria-current={pathname.startsWith(item.match) ? "page" : undefined}>
-              {item.label}
-            </a>
-          ))
-        }
-      </nav>
-    </header>
+    {
+      !minimal && (
+        <header class="trend-nav">
+          <a href="/" class="trend-brand" aria-label="趋势雷达首页">
+            <span>趋势雷达</span>
+          </a>
+          <nav class="trend-nav-links" aria-label="产品导航">
+            {
+              navItems.map(item => (
+                <a href={item.href} aria-current={pathname.startsWith(item.match) ? "page" : undefined}>
+                  {item.label}
+                </a>
+              ))
+            }
+          </nav>
+        </header>
+      )
+    }
     <slot />
   </div>
   <script is:inline>
