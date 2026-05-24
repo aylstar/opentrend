@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+  "summary": "66 points · 12 comments",
+  "content": "The no-bid deal is five times the size of the agency's previous contract with the Massachusetts company and could put devices in agents' hands by late June.\n\nICE has finalized the no-bid iris-scanning contract that Project Salt Box reported on this month, awarding Bi2 Technologies $25.1 million on May 22, according to a contract award posted to SAM.gov. The figure is more than five times what ICE spent on its first contract with the Massachusetts company eight months ago.\n\nThe award describes the purchase as covering iris biometric recognition technology and access to a biometric information system \"to allow ICE agents to quickly authenticate the identity of subjects during field operations.\"\n\nIt gives ICE's Enforcement and Removal Operations division continuous access to Bi2's database of more than five million booking records.\n\nThe procurement did not require the system to clear FedRAMP, the government’s security review for cloud systems handling sensitive data, before deployment. It described no independent audit, congressional notification or outside review of how the system would be used.\n\nThe May 22 award is roughly five times the $4.6 million DHS paid Bi2 in September 2025, and nearly eight times the device count — 1,570 units compared to 200.\n\nUnder the contract terms, those devices are due at ICE locations by late June.",
+  "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+  "publishedAt": "2026-05-23T23:39:43.000Z",
+  "points": 66,
+  "id": "hacker-news-d4a85cc4",
+  "slug": "hacker-news-d4a85cc4",
+  "fetchedAt": "2026-05-24T01:27:53.749Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "ICE 授予 Bi2 Technologies 价值 2500 万美元的虹膜扫描合同",
+  "chineseSummary": "66 分 · 12 条评论",
+  "chineseContent": "这份无投标协议的规模是该机构之前与这家马萨诸塞州公司签订的合同规模的五倍，并且可能会在 6 月底之前将设备交到代理商手中。\n\n根据 SAM.gov 发布的合同授予信息，ICE 已敲定了 Project Salt Box 本月报道的无投标虹膜扫描合同，并于 5 月 22 日授予 Bi2 Technologies 2510 万美元。这个数字是 ICE 八个月前与这家马萨诸塞州公司第一份合同花费的五倍多。\n\n该奖项将此次采购描述为涵盖虹膜生物识别技术和生物识别信息系统的访问权限，“使 ICE 特工能够在现场操作期间快速验证受试者的身份”。\n\n它使 ICE 的执法和驱逐行动部门能够持续访问 Bi2 的数据库，该数据库包含超过 500 万条预订记录。\n\n此次采购并不要求系统在部署前通过 FedRAMP（政府对处理敏感数据的云系统的安全审查）。它没有描述对该系统如何使用进行独立审计、国会通知或外部审查。\n\n5 月 22 日的奖金大约是国土安全部 2025 年 9 月向 Bi2 支付的 460 万美元的五倍，也是设备数量的近八倍——设备数量为 1,570 台，而设备数量为 200 台。\n\n根据合同条款，这些设备将于 6 月底运抵 ICE 地点。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

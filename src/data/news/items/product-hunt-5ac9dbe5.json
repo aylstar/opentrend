@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Reader Alive",
+  "summary": "Translate, listen to, and ask questions about your ebooks Discussion | Link",
+  "url": "https://www.producthunt.com/products/reader-alive",
+  "publishedAt": "2026-05-21T08:06:07.000Z",
+  "id": "product-hunt-5ac9dbe5",
+  "slug": "product-hunt-5ac9dbe5",
+  "content": "Reader Alive is an AI ebook reader for iPhone and iPad. Import EPUB, PDF, AZW3, and MOBI, then translate chapters, listen with natural text-to-speech, summarize dense sections, and ask questions grounded in the book.",
+  "fetchedAt": "2026-05-24T01:27:53.750Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "活着的读者",
+  "chineseSummary": "翻译、收听电子书并提出有关电子书的问题关联",
+  "chineseContent": "Reader Alive 是一款适用于 iPhone 和 iPad 的人工智能电子书阅读器。导入 EPUB、PDF、AZW3 和 MOBI，然后翻译章节，用自然的文本到语音进行聆听，总结密集的部分，并提出基于书中的问题。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

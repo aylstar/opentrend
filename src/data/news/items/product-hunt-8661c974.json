@@ -7,18 +7,18 @@
   "publishedAt": "2026-05-22T03:17:59.000Z",
   "id": "product-hunt-8661c974",
   "slug": "product-hunt-8661c974",
-  "content": "Just tell your guitar pedal how to sound Discussion | Link",
-  "fetchedAt": "2026-05-23T01:21:59.270Z",
-  "score": 79,
+  "content": "Tweaking knobs is a time-honored tradition in sound design. Chatting with AI is revolutionizing industries. JAMtime.ai embraces both, while keeping the human firmly in the driver's seat. Build and tweak your guitar pedal with phrases as simple or technical as you like, from \"brighter\" to \"comb filter into a plate reverb.\" The AI writes a real DSP graph, not generated audio. Come fall in love with the JAMtime.ai workflow. Then take it to your DAW with free VST/AU plugins for Mac, Windows, Linux.",
+  "fetchedAt": "2026-05-24T01:27:53.750Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 6,
-  "contentStatus": "fetch-failed",
+  "rank": 10,
+  "contentStatus": "article-extracted",
   "chineseTitle": "JAMtime.ai",
   "chineseSummary": "只需告诉您的吉他踏板如何发声即可 讨论 |关联",
-  "chineseContent": "只需告诉您的吉他踏板如何发声即可 讨论 |关联",
+  "chineseContent": "调整旋钮是声音设计中历史悠久的传统。与人工智能聊天正在彻底改变行业。 JAMtime.ai 兼顾了两者，同时让人类牢牢掌握在驾驶座上。使用简单或技术性的短语来构建和调整您的吉他踏板，从“更明亮”到“将滤波器梳入板式混响”。 AI 编写真实的 DSP 图表，而不是生成的音频。爱上 JAMtime.ai 工作流程吧。然后使用适用于 Mac、Windows、Linux 的免费 VST/AU 插件将其带到您的 DAW 中。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

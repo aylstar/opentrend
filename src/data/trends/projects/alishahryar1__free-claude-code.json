@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/Alishahryar1/free-claude-code",
   "docsUrl": "https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.sh?raw=1",
-  "stars": 28048,
-  "forks": 4170,
-  "openIssues": 147,
+  "stars": 28619,
+  "forks": 4292,
+  "openIssues": 156,
   "license": "MIT",
-  "pushedAt": "2026-05-23T00:25:09Z",
-  "updatedAt": "2026-05-23T01:16:23Z",
+  "pushedAt": "2026-05-24T00:04:01Z",
+  "updatedAt": "2026-05-24T01:26:57Z",
   "createdAt": "2026-01-28T19:02:30Z",
   "archived": false,
   "trendWindows": [
@@ -25,18 +25,19 @@
     "开发工具",
     "自部署",
     "企业工具",
+    "自动化办公",
     "安全隐私"
   ],
   "recommendation": 2.7,
-  "readmeExcerpt": "<div align=\"center\">\n\n# 🤖 Free Claude Code\n\nUse Claude Code CLI, VS Code, JetBrains ACP, or chat bots through your own Anthropic-compatible proxy.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)\n[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=for-the-badge)](https://github.com/astral-sh/uv)\n[![Tested with Pytest](https://img.shields.io/badge/testing-Pytest-00c0ff.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/actions/workflows/tests.yml)\n[![Type checking: Ty](https://img.shields.io/badge/type%20checking-ty-ffcc00.svg?style=for-the-badge)](https://pypi.org/project/ty/)\n[![Code style: Ruff](https://img.shields.io/badge/code%20formatting-ruff-f5a623.svg?style=for-the-badge)](https://github.com/astral-sh/ruff)\n[![Logging: Loguru](https://img.shields.io/badge/logging-loguru-4ecdc4.svg?style=for-the-badge)](https://github.com/Delgan/loguru)\n\nFree Claude Code routes Anthropic Messages API traffic from Claude Code to any provider. It keeps Claude Code's client-side protocol stable while letting you choose free, paid, or local models.\n\n[Quick Start](#quick-start) · [Providers](#choose-a-provider) · [Clients](#connect-claude-code) · [Integrations](#optional-integrations) · [Development](#development)\n\n</div>\n\n<div align=\"center\">\n  <img src=\"assets/pic.png\" alt=\"Free Claude Code in action\" width=\"700\">\n</div>\n\n## Star History\n\n<div align=\"center\">\n  <a href=\"https://star-history.com/#Alishahryar1/free-claude-code&Date\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date&theme=dark\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date\">\n      <img alt=\"Star History Chart\" src=\"https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date\" width=\"700\">\n    </picture>\n  </a>\n</div>\n\n## What You Get\n\n- Drop-in proxy for Claude Code's Anthropic API calls.\n- Eleven provider backends: NVIDIA NIM, Kimi, Wafer, OpenRouter, DeepSeek, LM Studio, llama.cpp, Ollama, OpenCode Zen, OpenCode Go, and Z.ai.\n- Per-model routing: send Opus, Sonnet, Haiku, and fallback traffic to different providers.\n- Native Claude Code `/model` picker support through the proxy's `/v1/models` endpoint (Claude Code must opt in to Gateway model discovery; see [Model Picker](#model-picker)).\n- Streaming, tool use, reasoning/thinking block handling, and local request optimizations.\n- Optional Discord or Telegram bot wrapper for remote coding sessions.\n- Optional Usage through the VSCode extension.\n- Optional voice-note transcription through local Whisper or NVIDIA ",
-  "generatedAt": "2026-05-23T01:21:47.167Z",
+  "readmeExcerpt": "<div align=\"center\">\n\n# 🤖 Free Claude Code\n\nUse Claude Code CLI, VS Code, JetBrains ACP, or chat bots through your own Anthropic-compatible proxy.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)\n[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=for-the-badge)](https://github.com/astral-sh/uv)\n[![Tested with Pytest](https://img.shields.io/badge/testing-Pytest-00c0ff.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/actions/workflows/tests.yml)\n[![Type checking: Ty](https://img.shields.io/badge/type%20checking-ty-ffcc00.svg?style=for-the-badge)](https://pypi.org/project/ty/)\n[![Code style: Ruff](https://img.shields.io/badge/code%20formatting-ruff-f5a623.svg?style=for-the-badge)](https://github.com/astral-sh/ruff)\n[![Logging: Loguru](https://img.shields.io/badge/logging-loguru-4ecdc4.svg?style=for-the-badge)](https://github.com/Delgan/loguru)\n\nFree Claude Code routes Anthropic Messages API traffic from Claude Code to any provider. It keeps Claude Code's client-side protocol stable while letting you choose free, paid, or local models.\n\n[Quick Start](#quick-start) · [Providers](#choose-a-provider) · [Clients](#connect-claude-code) · [Integrations](#optional-integrations) · [Development](#development)\n\n</div>\n\n<div align=\"center\">\n  <img src=\"assets/pic.png\" alt=\"Free Claude Code in action\" width=\"700\">\n</div>\n\n## Star History\n\n<div align=\"center\">\n  <a href=\"https://star-history.com/#Alishahryar1/free-claude-code&Date\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date&theme=dark\">\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date\">\n      <img alt=\"Star History Chart\" src=\"https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date\" width=\"700\">\n    </picture>\n  </a>\n</div>\n\n## What You Get\n\n- Drop-in proxy for Claude Code's Anthropic API calls.\n- Sixteen provider backends: NVIDIA NIM, OpenRouter, Mistral La Plateforme, DeepSeek, Kimi, Wafer, LM Studio, llama.cpp, Ollama, OpenCode Zen, OpenCode Go, Z.ai, Fireworks AI, Google AI Studio (Gemini), Groq, and Cerebras Inference.\n- Per-model routing: send Opus, Sonnet, Haiku, and fallback traffic to different providers.\n- Native Claude Code `/model` picker support through the proxy's `/v1/models` endpoint (Claude Code must opt in to Gateway model discovery; see [Model Picker](#model-picker)).\n- Streaming, tool use, reasoning/thinking block handling, and local request optimizations.\n- Optional Discord or Telegram bot wrapper for remote coding sessions.\n- Optional Usage through",
+  "generatedAt": "2026-05-24T01:27:42.912Z",
   "analysis": {
     "oneLine": "free-claude-code 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "free-claude-code 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，free-claude-code 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 28,048，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，free-claude-code 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 28,619，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
@@ -62,6 +63,7 @@
       "开发工具",
       "自部署",
       "企业工具",
+      "自动化办公",
       "安全隐私"
     ],
     "source": "rule-based-readme-analysis"

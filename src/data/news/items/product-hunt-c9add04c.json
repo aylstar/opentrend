@@ -1,0 +1,27 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Zero Assist",
+  "summary": "Real-time AI cheating detection for technical interviews Discussion | Link",
+  "url": "https://www.producthunt.com/products/zero-assist",
+  "publishedAt": "2026-05-21T15:06:30.000Z",
+  "id": "product-hunt-c9add04c",
+  "slug": "product-hunt-c9add04c",
+  "content": "Detect Parakeet AI, Final Round AI, Cluely & 20+ AI cheating tools in real time. Secure your remote technical interviews with Zero Assist.Zero Assist is a forensic-grade interview monitor that detects AI cheating tools like ChatGPT, Parakeet AI, and Copilot in real time. Deploy a silent agent and get instant alerts on your dashboard if candidates use unauthorized AI assistance.",
+  "fetchedAt": "2026-05-24T01:27:53.750Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "视频"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "零辅助",
+  "chineseSummary": "技术面试实时AI作弊检测讨论|关联",
+  "chineseContent": "实时检测Parakeet AI、Final Round AI、Cluely 和 20 多个 AI 作弊工具。使用 Zero Assist 保护您的远程技术面试。Zero Assist 是一款取证级面试监控器，可以实时检测 ChatGPT、Parakeet AI 和 Copilot 等 AI 作弊工具。如果候选人使用未经授权的人工智能帮助，部署静默代理并在仪表板上立即收到警报。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US oil producers increase output to capture price surge from Iran war",
+  "summary": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president’s approval ratings",
+  "url": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
+  "publishedAt": "2026-05-23T11:00:07.000Z",
+  "id": "financial-times-be56bc28",
+  "slug": "financial-times-be56bc28",
+  "content": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president’s approval ratings",
+  "fetchedAt": "2026-05-24T01:27:53.758Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "全球",
+    "财经"
+  ],
+  "rank": 7,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "美国石油生产商增加产量以应对伊朗战争造成的价格飙升",
+  "chineseSummary": "全球供应紧缩导致成本上涨 40%，导致总统的支持率下降，导致钻探扩张",
+  "chineseContent": "全球供应紧缩导致成本上涨 40%，导致总统的支持率下降，导致钻探扩张",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
