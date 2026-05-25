@@ -36,8 +36,8 @@ const weiboItems = latest ? pick(latest.sections.weibo).slice(0, 100) : [];
 
     {
       latest ? (
-        <section class="trend-container trend-section trend-rank-section">
-          <div class="trend-rank-grid">
+        <section class="trend-container trend-section trend-rank-section trend-social-section">
+          <div class="trend-rank-grid trend-social-grid">
             <SocialRankBoard title={`小红书每日热门 Top ${xiaohongshuItems.length}`} subtitle="热门笔记 / 话题趋势" items={xiaohongshuItems} />
             <SocialRankBoard title={`抖音每日热度 Top ${douyinItems.length}`} subtitle="热点榜 / 搜索热词" items={douyinItems} />
             <SocialRankBoard title={`微博每日热搜 Top ${weiboItems.length}`} subtitle="热搜榜 / 实时热点" items={weiboItems} />
@@ -54,3 +54,56 @@ const weiboItems = latest ? pick(latest.sections.weibo).slice(0, 100) : [];
     }
   </main>
 </TrendShell>
+
+<style>
+  .trend-social-section {
+    margin-top: clamp(1.25rem, 3vw, 2rem);
+  }
+
+  .trend-social-grid {
+    align-items: start;
+    gap: 0.85rem;
+  }
+
+  @media (min-width: 1180px) {
+    .trend-social-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (min-width: 760px) and (max-width: 1179px) {
+    .trend-social-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  :global(.trend-social-grid .trend-rank-board) {
+    padding: 0.72rem 0.82rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-board-header) {
+    padding-bottom: 0.5rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-item) {
+    grid-template-columns: 1.85rem minmax(0, 1fr);
+    gap: 0.65rem;
+    min-height: 2.85rem;
+    padding-block: 0.46rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-no) {
+    width: 1.65rem;
+    height: 1.65rem;
+    border-radius: 0.5rem;
+    font-size: 0.68rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-name) {
+    font-size: 0.86rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-author) {
+    font-size: 0.7rem;
+  }
+</style>
