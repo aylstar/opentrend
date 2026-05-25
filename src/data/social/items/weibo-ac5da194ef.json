@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ac5da194ef",
+  "slug": "weibo-棣月系",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "棣月系",
+  "summary": "微博热榜第 47 位：棣月系，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A3%A3%E6%9C%88%E7%B3%BB%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 09:26:00",
+  "fetchedAt": "2026-05-25T01:31:48.530Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

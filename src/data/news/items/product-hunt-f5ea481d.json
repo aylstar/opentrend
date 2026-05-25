@@ -7,9 +7,9 @@
   "publishedAt": "2026-05-22T02:35:07.000Z",
   "id": "product-hunt-f5ea481d",
   "slug": "product-hunt-f5ea481d",
-  "content": "Turn customer interviews into your product roadmap Discussion | Link",
-  "fetchedAt": "2026-05-23T01:21:59.271Z",
-  "score": 79,
+  "content": "Nugget AI turns customer interviews into product evidence. Record or upload calls → AI extracts pain points and feature requests → synthesis surfaces themes → auto-generated PRDs with real customer quotes → dev-ready handoff to Linear & GitHub. NEW: MCP server. Connect Claude, ChatGPT, Cursor, or Codex — your AI agent can search every interview and draft specs grounded in real evidence. No more copy-pasting. Half the price of Dovetail.",
+  "fetchedAt": "2026-05-25T01:30:41.912Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
@@ -17,11 +17,11 @@
     "产品",
     "视频"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
+  "rank": 5,
+  "contentStatus": "article-extracted",
   "chineseTitle": "AI 金块",
   "chineseSummary": "将客户访谈转化为您的产品路线图关联",
-  "chineseContent": "将客户访谈转化为您的产品路线图关联",
+  "chineseContent": "Nugget AI 将客户访谈转化为产品证据。记录或上传通话 → AI 提取痛点和功能请求 → 综合表面主题 → 自动生成带有真实客户报价的 PRD → 开发就绪移交给 Linear 和 GitHub。新：MCP 服务器。连接 Claude、ChatGPT、Cursor 或 Codex — 您的 AI 代理可以搜索每一次采访并起草基于真实证据的规范。不再需要复制粘贴。燕尾价格的一半。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

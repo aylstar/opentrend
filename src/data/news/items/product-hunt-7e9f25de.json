@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-22T13:47:02.000Z",
   "id": "product-hunt-7e9f25de",
   "slug": "product-hunt-7e9f25de",
-  "content": "Turn voice, scans, sketches, and text into notes with AI Discussion | Link",
-  "fetchedAt": "2026-05-23T01:21:59.270Z",
-  "score": 79,
+  "content": "Most notes apps make you choose: a clean writer (Apple Notes), a heavy database (Notion), or yet another AI chatbot. Nota is none of those. Capture by voice, type, sketch, or scan on iPhone, iPad, Mac, and Apple Watch...then refine with AI right inside the note. Talk in 45 languages, scan any page without the ChatGPT detour, pick your model (OpenAI, Claude, Gemini, Grok and more). Fast, local-first, private. Not a chatbot — it starts with your words. Free to start.",
+  "fetchedAt": "2026-05-25T01:30:41.912Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 5,
-  "contentStatus": "fetch-failed",
+  "rank": 7,
+  "contentStatus": "article-extracted",
   "chineseTitle": "笔记：AI 笔记和语音",
   "chineseSummary": "使用 AI 讨论将语音、扫描、草图和文本转化为笔记 |关联",
-  "chineseContent": "使用 AI 讨论将语音、扫描、草图和文本转化为笔记 |关联",
+  "chineseContent": "大多数笔记应用程序都会让你选择：干净的书写器（Apple Notes）、重型数据库（Notion）或另一个人工智能聊天机器人。诺塔不是其中之一。在 iPhone、iPad、Mac 和 Apple Watch 上通过语音、打字、草图或扫描进行捕捉...然后在笔记中使用 AI 进行优化。用 45 种语言交谈，扫描任何页面，无需绕道 ChatGPT，选择您的模型（OpenAI、Claude、Gemini、Grok 等）。快速、本地优先、私密。不是聊天机器人——它从你的话语开始。免费开始。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

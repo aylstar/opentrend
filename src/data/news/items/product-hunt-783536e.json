@@ -7,18 +7,18 @@
   "publishedAt": "2026-05-22T06:49:14.000Z",
   "id": "product-hunt-783536e",
   "slug": "product-hunt-783536e",
-  "content": "AI-powered news made fun and habit-forming Discussion | Link",
-  "fetchedAt": "2026-05-23T01:21:59.271Z",
-  "score": 79,
+  "content": "Shroomie is an AI-powered news app that makes reading fun, effortless and habit-forming. Every story is bite-sized and interactive, and every day you read, you grow a mushroom garden — turning daily news into a game. AI handles everything behind the scenes, from sourcing stories and generating visuals to personalizing your feed.",
+  "fetchedAt": "2026-05-25T01:30:41.913Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 7,
-  "contentStatus": "fetch-failed",
+  "rank": 8,
+  "contentStatus": "article-extracted",
   "chineseTitle": "什鲁米",
   "chineseSummary": "人工智能驱动的新闻变得有趣并养成习惯 讨论 |关联",
-  "chineseContent": "人工智能驱动的新闻变得有趣并养成习惯 讨论 |关联",
+  "chineseContent": "Shroomie 是一款人工智能驱动的新闻应用程序，让阅读变得有趣、轻松且养成习惯。每个故事都很短小且具有互动性，你每天阅读，你就种植了一个蘑菇园——将每日新闻变成一个游戏。人工智能处理幕后的一切，从获取故事和生成视觉效果到个性化您的提要。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

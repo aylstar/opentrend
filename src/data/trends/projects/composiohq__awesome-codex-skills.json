@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/ComposioHQ/awesome-codex-skills",
   "docsUrl": "",
-  "stars": 11263,
-  "forks": 1075,
+  "stars": 11487,
+  "forks": 1094,
   "openIssues": 46,
   "license": "",
   "pushedAt": "2026-05-15T06:24:47Z",
-  "updatedAt": "2026-05-24T01:21:12Z",
+  "updatedAt": "2026-05-25T01:27:33Z",
   "createdAt": "2026-01-12T11:58:21Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1 align=\"center\">Awesome Codex Skills</h1>\n\n<p align=\"center\">\n<a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeCodexSkills\">\n\n  <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"codex_cover_image.png\">\n</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://awesome.re\">\n    <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" />\n  </a>\n  <a href=\"https://makeapullrequest.com\">\n    <img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square\" alt=\"PRs Welcome\" />\n  </a>\n</p>\n<div>\n<p align=\"center\">\n  <a href=\"https://twitter.com/composio\">\n    <img src=\"https://img.shields.io/badge/Follow on X-000000?style=for-the-badge&logo=x&logoColor=white\" alt=\"Follow on X\" />\n  </a>\n  <a href=\"https://www.linkedin.com/company/composiohq/\">\n    <img src=\"https://img.shields.io/badge/Follow on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"Follow on LinkedIn\" />\n  </a>\n  <a href=\"https://discord.com/invite/composio\">\n    <img src=\"https://img.shields.io/badge/Join our Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Join our Discord\" />\n  </a>\n  </p>\n</div>\n\nA curated list of practical Codex skills for automating workflows across the Codex CLI and API.\n\n\n> **Want skills that do more than generate text?** Codex can send emails, create issues, post to Slack, and take actions across 1000+ apps. [See how →](./connect/)\n\n---\n\n## Quickstart: Add Skills to Codex\n\n### Install with the Skill Installer (recommended)\n\n```bash\ngit clone https://github.com/ComposioHQ/awesome-codex-skills.git\ncd awesome-codex-skills\n# Install one or more skills into $CODEX_HOME/skills (defaults to ~/.codex/skills)\npython skill-installer/scripts/install-skill-from-github.py --repo ComposioHQ/awesome-codex-skills --path meeting-notes-and-actions\n```\n\nThe installer fetches the skill and places it in `$CODEX_HOME/skills/<skill-name>`. Restart Codex to pick up new skills.\n\n### Manual install\n\n1. Copy the desired skill folder (e.g., `./spreadsheet-formula-helper`) into `$CODEX_HOME/skills/` (defaults to `~/.codex/skills/`).\n2. Restart Codex so it loads the new metadata.\n3. In your next session, describe the task or mention the skill name; Codex will trigger matching skills based on their `description` frontmatter.\n\n---\n\n## Contents\n\n- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator with Codex CLI adapter. Runs parallel Codex agents in isolated git worktrees with quality gates.\n- [What Are Codex Skills?](#what-are-codex-skills)\n- [Skills](#skills)\n  - [Development & Code Tools](#development--code-tools)\n  - [Productivity & Collaboration](#productivity--collaboration)\n  - [Communication & Writing](#communication--writing)\n  - [Data & Analysis](#data--analysis)\n  - [Meta & Utilities](#meta--utilities)\n- [Using Skills in Codex](#using-skills-in-codex)\n- [Creating Skills](#creating-skills)\n- [Contributing](#contributing)\n- ",
-  "generatedAt": "2026-05-24T01:27:43.291Z",
+  "generatedAt": "2026-05-25T01:30:29.334Z",
   "analysis": {
     "oneLine": "awesome-codex-skills 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "awesome-codex-skills 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，awesome-codex-skills 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 11,263，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，awesome-codex-skills 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 11,487，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

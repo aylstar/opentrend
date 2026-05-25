@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "summary": "170 points · 84 comments",
+  "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
+  "url": "https://arxiv.org/abs/2605.06445",
+  "publishedAt": "2026-05-24T12:55:53.000Z",
+  "points": 170,
+  "id": "hacker-news-db563023",
+  "slug": "hacker-news-db563023",
+  "fetchedAt": "2026-05-25T01:30:41.910Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "约束衰减：LLM 代理在后端代码生成中的脆弱性",
+  "chineseSummary": "170 分 · 84 条评论",
+  "chineseContent": "arXivLabs 是一个框架，允许合作者直接在我们的网站上开发和共享新的 arXiv 功能。\n\n与 arXivLabs 合作的个人和组织都接受并接受了我们开放、社区、卓越和用户数据隐私的价值观。 arXiv 致力于这些价值观，并且只与遵守这些价值观的合作伙伴合作。\n\n您有一个可以为 arXiv 社区增加价值的项目想法吗？了解有关 arXivLabs 的更多信息。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

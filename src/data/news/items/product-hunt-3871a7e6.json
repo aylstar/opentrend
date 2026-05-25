@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Edgee Fallback Models",
+  "summary": "Claude Code that never stops Discussion | Link",
+  "url": "https://www.producthunt.com/products/edgee",
+  "publishedAt": "2026-05-21T21:20:06.000Z",
+  "id": "product-hunt-3871a7e6",
+  "slug": "product-hunt-3871a7e6",
+  "content": "Edgee compresses tokens before they reach LLM providers, reducing the token cost by up to 50%. Same code, fewer tokens, lower bills.",
+  "fetchedAt": "2026-05-25T01:30:41.911Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Edgee 后备模型",
+  "chineseSummary": "永远不会停止讨论的克劳德代码关联",
+  "chineseContent": "Edgee 在令牌到达 LLM 提供商之前对其进行压缩，从而将令牌成本降低高达 50%。相同的代码，更少的代币，更低的费用。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

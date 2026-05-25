@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/TauricResearch/TradingAgents",
   "docsUrl": "https://arxiv.org/pdf/2412.20138",
-  "stars": 77798,
-  "forks": 15151,
-  "openIssues": 356,
+  "stars": 79257,
+  "forks": 15452,
+  "openIssues": 373,
   "license": "Apache-2.0",
   "pushedAt": "2026-05-17T07:54:07Z",
-  "updatedAt": "2026-05-21T01:28:23Z",
+  "updatedAt": "2026-05-25T01:30:14Z",
   "createdAt": "2024-12-28T03:31:08Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\">\n</p>\n\n<div align=\"center\" style=\"line-height: 1;\">\n  <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a>\n  <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a>\n  <a href=\"./assets/wechat.png\" target=\"_blank\"><img alt=\"WeChat\" src=\"https://img.shields.io/badge/WeChat-TauricResearch-brightgreen?logo=wechat&logoColor=white\"/></a>\n  <a href=\"https://x.com/TauricResearch\" target=\"_blank\"><img alt=\"X Follow\" src=\"https://img.shields.io/badge/X-TauricResearch-white?logo=x&logoColor=white\"/></a>\n  <br>\n  <a href=\"https://github.com/TauricResearch/\" target=\"_blank\"><img alt=\"Community\" src=\"https://img.shields.io/badge/Join_GitHub_Community-TauricResearch-14C290?logo=discourse\"/></a>\n</div>\n\n<div align=\"center\">\n  <!-- Keep these links. Translations will automatically update with the README. -->\n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=de\">Deutsch</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=es\">Español</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=fr\">français</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=ja\">日本語</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=ko\">한국어</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=pt\">Português</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=ru\">Русский</a> | \n  <a href=\"https://www.readme-i18n.com/TauricResearch/TradingAgents?lang=zh\">中文</a>\n</div>\n\n---\n\n# TradingAgents: Multi-Agents LLM Financial Trading Framework\n\n## News\n- [2026-05] **TradingAgents v0.2.5** released with the grounded Sentiment Analyst, GPT-5.5 etc. model coverage, Qwen/GLM/MiniMax dual-region support, `TRADINGAGENTS_*` env-var configurability with API-key auto-detection, remote Ollama support, non-US alpha benchmarks, and ticker path-traversal hardening. See [CHANGELOG.md](CHANGELOG.md) for the full list.\n- [2026-04] **TradingAgents v0.2.4** released with structured-output agents (Research Manager, Trader, Portfolio Manager), LangGraph checkpoint resume, persistent decision log, DeepSeek/Qwen/GLM/Azure provider support, Docker, and a Windows UTF-8 encoding fix.\n- [2026-03] **TradingAgents v0.2.3** released with multi-language support, GPT-5.4 family models, unified model catalog, backtesting date fidelity, and proxy support.\n- [2026-03] **TradingAgents v0.2.2** released with GPT-5.4/Gemini 3.1/Claude 4.6 model coverage, five-tier rating scale, OpenAI Responses API, Anthropic effort control, and cross-platform stability.\n- [2026-02] **TradingAgents v0.2.0** released with multi-provider LLM sup",
-  "generatedAt": "2026-05-21T01:30:32.457Z",
+  "generatedAt": "2026-05-25T01:30:31.097Z",
   "analysis": {
     "oneLine": "TradingAgents 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "TradingAgents 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，TradingAgents 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 77,798，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，TradingAgents 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 79,257，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

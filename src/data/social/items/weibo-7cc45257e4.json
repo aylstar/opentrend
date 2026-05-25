@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7cc45257e4",
+  "slug": "weibo-nba最佳阵容",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "NBA最佳阵容",
+  "summary": "微博热榜第 9 位：NBA最佳阵容，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23NBA%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 09:26:00",
+  "fetchedAt": "2026-05-25T01:31:48.530Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

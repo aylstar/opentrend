@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e4b706fcc",
+  "slug": "weibo-汪峰发文夸醒宝",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "汪峰发文夸醒宝",
+  "summary": "微博热榜第 28 位：汪峰发文夸醒宝，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%8F%91%E6%96%87%E5%A4%B8%E9%86%92%E5%AE%9D%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 09:26:00",
+  "fetchedAt": "2026-05-25T01:31:48.530Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

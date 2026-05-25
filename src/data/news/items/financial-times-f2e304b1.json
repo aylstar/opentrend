@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Trump says US will not ‘rush into a deal’ with Iran as talks continue",
+  "summary": "Price of oil falls on hopes of an agreement that could reopen the Strait of Hormuz",
+  "url": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
+  "publishedAt": "2026-05-24T22:40:46.000Z",
+  "id": "financial-times-f2e304b1",
+  "slug": "financial-times-f2e304b1",
+  "content": "Price of oil falls on hopes of an agreement that could reopen the Strait of Hormuz",
+  "fetchedAt": "2026-05-25T01:30:41.919Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "财经"
+  ],
+  "rank": 6,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "特朗普表示，随着谈判继续进行，美国不会与伊朗“仓促达成协议”",
+  "chineseSummary": "由于希望达成重新开放霍尔木兹海峡的协议，石油价格下跌",
+  "chineseContent": "由于希望达成重新开放霍尔木兹海峡的协议，石油价格下跌",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
