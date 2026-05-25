@@ -36,7 +36,7 @@ const weiboItems = latest ? pick(latest.sections.weibo).slice(0, 100) : [];
 
     {
       latest ? (
-        <section class="trend-container trend-section trend-rank-section trend-social-section">
+        <section class="trend-section trend-rank-section trend-social-section">
           <div class="trend-rank-grid trend-social-grid">
             <SocialRankBoard title={`小红书每日热门 Top ${xiaohongshuItems.length}`} subtitle="热门笔记 / 话题趋势" items={xiaohongshuItems} />
             <SocialRankBoard title={`抖音每日热度 Top ${douyinItems.length}`} subtitle="热点榜 / 搜索热词" items={douyinItems} />
@@ -57,53 +57,65 @@ const weiboItems = latest ? pick(latest.sections.weibo).slice(0, 100) : [];
 
 <style>
   .trend-social-section {
+    width: min(1560px, calc(100vw - 2rem));
     margin-top: clamp(1.25rem, 3vw, 2rem);
+    margin-inline: auto;
   }
 
   .trend-social-grid {
     align-items: start;
-    gap: 0.85rem;
+    gap: clamp(1rem, 1.5vw, 1.35rem);
   }
 
-  @media (min-width: 1180px) {
+  @media (min-width: 1080px) {
     .trend-social-grid {
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
   }
 
-  @media (min-width: 760px) and (max-width: 1179px) {
+  @media (min-width: 760px) and (max-width: 1079px) {
     .trend-social-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
 
   :global(.trend-social-grid .trend-rank-board) {
-    padding: 0.72rem 0.82rem;
+    padding: clamp(0.95rem, 1.35vw, 1.2rem);
   }
 
   :global(.trend-social-grid .trend-rank-board-header) {
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.75rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-board h2) {
+    font-size: 1.05rem;
+  }
+
+  :global(.trend-social-grid .trend-rank-board p) {
+    font-size: 0.78rem;
   }
 
   :global(.trend-social-grid .trend-rank-item) {
-    grid-template-columns: 1.85rem minmax(0, 1fr);
-    gap: 0.65rem;
-    min-height: 2.85rem;
-    padding-block: 0.46rem;
+    grid-template-columns: 2.2rem minmax(0, 1fr);
+    gap: 0.82rem;
+    min-height: 3.35rem;
+    padding-block: 0.62rem;
   }
 
   :global(.trend-social-grid .trend-rank-no) {
-    width: 1.65rem;
-    height: 1.65rem;
-    border-radius: 0.5rem;
-    font-size: 0.68rem;
+    width: 1.95rem;
+    height: 1.95rem;
+    border-radius: 0.58rem;
+    font-size: 0.74rem;
   }
 
   :global(.trend-social-grid .trend-rank-name) {
-    font-size: 0.86rem;
+    font-size: 0.94rem;
+    line-height: 1.35;
   }
 
   :global(.trend-social-grid .trend-rank-author) {
-    font-size: 0.7rem;
+    margin-top: 0.14rem;
+    font-size: 0.76rem;
   }
 </style>
