@@ -1,0 +1,21 @@
+{
+  "id": "weibo-edf67ce998",
+  "slug": "weibo-武汉停课停业",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "武汉停课停业",
+  "summary": "微博热榜第 24 位：武汉停课停业，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%81%9C%E8%AF%BE%E5%81%9C%E4%B8%9A%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

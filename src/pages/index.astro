@@ -2,10 +2,13 @@
 import TrendShell from "@/components/trends/TrendShell.astro";
 import RankBoard from "@/components/trends/RankBoard.astro";
 import NewsRankBoard from "@/components/news/NewsRankBoard.astro";
+import SocialRankBoard from "@/components/social/SocialRankBoard.astro";
 import { formatTrendDate, getTrendProjectsBySlugs, getTrendReports } from "@/lib/trends";
 import type { TrendProject } from "@/lib/trends";
 import { getNewsItemsByIds, getNewsReports } from "@/lib/news";
 import type { NewsItem } from "@/lib/news";
+import { getSocialItemsByIds, getSocialReports } from "@/lib/social";
+import type { SocialItem } from "@/lib/social";
 import {
   accessCodeCookie,
   accessSessionCookie,
@@ -45,6 +48,13 @@ const globalNews = latestNews ? pickNews(latestNews.sections.global).slice(0, 10
 const techNews = latestNews ? pickNews(latestNews.sections.aiTech).slice(0, 10) : [];
 const financeNews = latestNews ? pickNews(latestNews.sections.finance).slice(0, 10) : [];
 const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 10) : [];
+const socialReports = hasAccess ? getSocialReports() : [];
+const latestSocial = socialReports[0];
+const pickSocial = (ids: string[] = []) =>
+  getSocialItemsByIds(ids).filter((item): item is SocialItem => Boolean(item));
+const xiaohongshuSocial = latestSocial ? pickSocial(latestSocial.sections.xiaohongshu).slice(0, 10) : [];
+const douyinSocial = latestSocial ? pickSocial(latestSocial.sections.douyin).slice(0, 10) : [];
+const weiboSocial = latestSocial ? pickSocial(latestSocial.sections.weibo).slice(0, 10) : [];
 ---
 
 <TrendShell
@@ -79,6 +89,11 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
               <span>兴趣雷达</span>
               <strong>{youtubeNews.length ? `${youtubeNews.length} 条注意力信号` : "等待数据"}</strong>
               <p>YouTube 热门视频，X 趋势待接入</p>
+            </a>
+            <a class="trend-module-card is-social" href="/social/">
+              <span>社媒雷达</span>
+              <strong>{latestSocial ? `${latestSocial.stats.totalItems} 条社媒热点` : "等待数据"}</strong>
+              <p>小红书、抖音、微博每日热榜</p>
             </a>
             <a class="trend-module-card is-tech" href="/trends/">
               <span>科技雷达</span>
@@ -145,6 +160,25 @@ const youtubeNews = latestNews ? pickNews(latestNews.sections.youtube).slice(0, 
                   items={youtubeNews}
                   basePath="/youtube/items"
                 />
+              </div>
+            </section>
+          ) : null
+        }
+
+        {
+          latestSocial ? (
+            <section class="trend-container trend-section trend-home-ranks">
+              <div class="trend-section-heading">
+                <div>
+                  <p class="trend-eyebrow">Social Radar</p>
+                  <h2>社媒雷达</h2>
+                </div>
+                <a href="/social/">进入社媒雷达</a>
+              </div>
+              <div class="trend-rank-grid">
+                <SocialRankBoard title="小红书热门 Top 10" subtitle="每日热门笔记 / 话题" items={xiaohongshuSocial} />
+                <SocialRankBoard title="抖音热度 Top 10" subtitle="热点榜 / 搜索热词" items={douyinSocial} />
+                <SocialRankBoard title="微博热搜 Top 10" subtitle="实时热搜 / 公共议题" items={weiboSocial} />
               </div>
             </section>
           ) : null

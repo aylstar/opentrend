@@ -24,6 +24,7 @@ export const protectedPrefixes = [
   "/news/",
   "/finance/",
   "/youtube/",
+  "/social/",
   "/trends/",
   "/projects/",
   "/library/",

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-59e9016ed3",
+  "slug": "weibo-死了么app又改名了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "死了么APP又改名了",
+  "summary": "微博热榜第 13 位：死了么APP又改名了，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%86%E4%B9%88APP%E5%8F%88%E6%94%B9%E5%90%8D%E4%BA%86%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

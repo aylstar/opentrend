@@ -1,0 +1,21 @@
+{
+  "id": "weibo-503a58dc90",
+  "slug": "weibo-王濛-我们就一个群",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "王濛 我们就一个群",
+  "summary": "微博热榜第 6 位：王濛 我们就一个群，当前热度为 54万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B+%E6%88%91%E4%BB%AC%E5%B0%B1%E4%B8%80%E4%B8%AA%E7%BE%A4%23",
+  "hotValue": "54万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

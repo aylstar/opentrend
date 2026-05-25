@@ -1,0 +1,21 @@
+{
+  "id": "weibo-94d34d9793",
+  "slug": "weibo-王鹤棣直播人气",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "王鹤棣直播人气",
+  "summary": "微博热榜第 11 位：王鹤棣直播人气，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9B%B4%E6%92%AD%E4%BA%BA%E6%B0%94%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

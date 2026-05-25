@@ -15,6 +15,7 @@
     "trends:nas": "node scripts/trends/sync-nas.mjs",
     "trends:x": "node scripts/trends/fetch-x.mjs",
     "news:run": "node scripts/news/run.mjs",
+    "social:run": "node scripts/social/run.mjs",
     "trends:sample": "TREND_LIMIT=3 node scripts/trends/run.mjs",
     "format:check": "prettier --check .",
     "format": "prettier --write .",

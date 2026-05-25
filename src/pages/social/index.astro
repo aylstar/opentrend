@@ -1,0 +1,56 @@
+---
+import TrendShell from "@/components/trends/TrendShell.astro";
+import SocialRankBoard from "@/components/social/SocialRankBoard.astro";
+import {
+  formatSocialDate,
+  getSocialItemsByIds,
+  getSocialReports,
+} from "@/lib/social";
+import type { SocialItem } from "@/lib/social";
+
+const reports = getSocialReports();
+const latest = reports[0];
+const pick = (ids: string[] = []) =>
+  getSocialItemsByIds(ids).filter((item): item is SocialItem => Boolean(item));
+
+const xiaohongshuItems = latest ? pick(latest.sections.xiaohongshu).slice(0, 50) : [];
+const douyinItems = latest ? pick(latest.sections.douyin).slice(0, 100) : [];
+const weiboItems = latest ? pick(latest.sections.weibo).slice(0, 100) : [];
+---
+
+<TrendShell title="社媒雷达" description="小红书、抖音、微博每日热榜">
+  <main id="main-content">
+    <section class="trend-container trend-report-header">
+      <div class="trend-report-title-block">
+        <p class="trend-eyebrow">Social Radar</p>
+        <h1 class="trend-report-title">社媒雷达</h1>
+        <p class="trend-report-subtitle">
+          {
+            latest
+              ? `${formatSocialDate(latest.date)} · 小红书 Top ${xiaohongshuItems.length} / 抖音 Top ${douyinItems.length} / 微博 Top ${weiboItems.length}`
+              : "等待生成社媒数据"
+          }
+        </p>
+      </div>
+    </section>
+
+    {
+      latest ? (
+        <section class="trend-container trend-section trend-rank-section">
+          <div class="trend-rank-grid">
+            <SocialRankBoard title={`小红书每日热门 Top ${xiaohongshuItems.length}`} subtitle="热门笔记 / 话题趋势" items={xiaohongshuItems} />
+            <SocialRankBoard title={`抖音每日热度 Top ${douyinItems.length}`} subtitle="热点榜 / 搜索热词" items={douyinItems} />
+            <SocialRankBoard title={`微博每日热搜 Top ${weiboItems.length}`} subtitle="热搜榜 / 实时热点" items={weiboItems} />
+          </div>
+        </section>
+      ) : (
+        <section class="trend-container trend-section">
+          <div class="trend-panel trend-feature-card">
+            <h2>暂无社媒数据</h2>
+            <p>运行 pnpm social:run 后，这里会展示小红书、抖音、微博每日热榜。</p>
+          </div>
+        </section>
+      )
+    }
+  </main>
+</TrendShell>

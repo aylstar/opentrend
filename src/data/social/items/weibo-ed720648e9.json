@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ed720648e9",
+  "slug": "weibo-热刺保级成功",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "热刺保级成功",
+  "summary": "微博热榜第 50 位：热刺保级成功，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%88%BA%E4%BF%9D%E7%BA%A7%E6%88%90%E5%8A%9F%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

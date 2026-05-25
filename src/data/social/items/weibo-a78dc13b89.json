@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a78dc13b89",
+  "slug": "weibo-侯宇淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "侯宇淘汰",
+  "summary": "微博热榜第 39 位：侯宇淘汰，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E5%AE%87%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

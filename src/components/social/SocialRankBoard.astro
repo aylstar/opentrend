@@ -1,0 +1,46 @@
+---
+import type { SocialItem } from "@/lib/social";
+
+type Props = {
+  title: string;
+  subtitle: string;
+  items: SocialItem[];
+  basePath?: string;
+};
+
+const { title, subtitle, items, basePath = "/social/items" } = Astro.props;
+const rankTier = (index: number) => {
+  if (index === 0) return "gold";
+  if (index === 1) return "silver";
+  if (index === 2) return "bronze";
+  return "plain";
+};
+---
+
+<section class="trend-panel trend-rank-board">
+  <div class="trend-rank-board-header">
+    <div>
+      <h2>{title}</h2>
+      <p>{subtitle}</p>
+    </div>
+  </div>
+  <div class="trend-rank-list">
+    {
+      items.map((item, index) => (
+        <a
+          href={`${basePath}/${item.slug}/`}
+          class:list={["trend-rank-item", index < 3 ? "is-featured" : "", `rank-${rankTier(index)}`]}
+          style={`--rank-width: ${Math.max(18, 100 - index * 3)}%; --rank-delay: ${index * 32}ms`}
+        >
+          <span class="trend-rank-no">
+            <span>{String(index + 1).padStart(2, "0")}</span>
+          </span>
+          <span class="trend-rank-main">
+            <span class="trend-rank-name">{item.title}</span>
+            <span class="trend-rank-author">{item.platformLabel}{item.hotValue ? ` · ${item.hotValue}` : ""}</span>
+          </span>
+        </a>
+      ))
+    }
+  </div>
+</section>

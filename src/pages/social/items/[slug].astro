@@ -1,0 +1,63 @@
+---
+import TrendShell from "@/components/trends/TrendShell.astro";
+import {
+  formatSocialDate,
+  getSocialItemBySlug,
+  getSocialReports,
+} from "@/lib/social";
+
+const item = getSocialItemBySlug(Astro.params.slug);
+if (!item) return Astro.redirect("/social/");
+const sourceReport =
+  getSocialReports().find(report => report.sections[item.platform].includes(item.id)) ?? getSocialReports()[0];
+const reportDate = sourceReport ? formatSocialDate(sourceReport.date) : "";
+const summaryParagraphs = String(item.summary || item.title)
+  .split(/\n+/)
+  .map(paragraph => paragraph.trim())
+  .filter(Boolean);
+---
+
+<TrendShell title={`${item.title} | 社媒雷达`} description={item.summary}>
+  <main id="main-content">
+    <article class="trend-news-article">
+      <header class="trend-container trend-article-hero">
+        <nav class="trend-article-nav" aria-label="社媒雷达层级导航">
+          <a href="/social/">← 社媒雷达</a>
+        </nav>
+        <p class="trend-article-kicker">社媒雷达</p>
+        <h1 class="trend-article-title">{item.title}</h1>
+        <p class="trend-article-meta">
+          {item.platformLabel} · 第 {item.rank} 位{item.hotValue ? ` · ${item.hotValue}` : ""}{reportDate ? ` · ${reportDate}` : ""}
+        </p>
+        {item.summary && <p class="trend-article-deck">{item.summary}</p>}
+      </header>
+
+      <section class="trend-container trend-article-layout">
+        <div class="trend-article-body">
+          <section class="trend-article-section">
+            <h2>内容解读</h2>
+            {summaryParagraphs.map(paragraph => <p>{paragraph}</p>)}
+          </section>
+
+          <section class="trend-article-section">
+            <h2>观察要点</h2>
+            <p>
+              该条目进入 {item.platformLabel} 热榜，说明它正在获得平台注意力。第一阶段先保留标题、热度与原始入口，
+              后续可继续加入 CloakBrowser 对正文、评论与作者信息的抓取，用于判断消费趋势、内容选题和商业机会。
+            </p>
+          </section>
+        </div>
+
+        <aside class="trend-article-side">
+          <section class="trend-source-box">
+            <span>平台</span>
+            <strong>{item.platformLabel}</strong>
+            <p>第 {item.rank} 位{item.hotValue ? ` · ${item.hotValue}` : ""}</p>
+            <a class="trend-button primary" href={item.url}>打开原始链接</a>
+            <a class="trend-button" href="/social/">返回社媒雷达</a>
+          </section>
+        </aside>
+      </section>
+    </article>
+  </main>
+</TrendShell>

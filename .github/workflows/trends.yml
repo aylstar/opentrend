@@ -48,6 +48,12 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_REGION: ${{ vars.YOUTUBE_REGION || 'US' }}
 
+      - name: Generate social radar
+        run: pnpm social:run
+        env:
+          SOCIAL_HOT_API_BASE: ${{ vars.SOCIAL_HOT_API_BASE || 'https://api-hot.imsyy.top' }}
+          CLOAKBROWSER_SOCIAL_EXPORT: ${{ vars.CLOAKBROWSER_SOCIAL_EXPORT }}
+
       - name: Generate X regional trends
         if: ${{ env.X_BEARER_TOKEN != '' }}
         run: pnpm trends:x
@@ -63,4 +69,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: generate daily trend report"
-          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl src/data/news/**/*.json src/data/news/**/*.jsonl"
+          file_pattern: "src/data/trends/**/*.json src/data/trends/**/*.jsonl src/data/news/**/*.json src/data/news/**/*.jsonl src/data/social/**/*.json src/data/social/**/*.jsonl"

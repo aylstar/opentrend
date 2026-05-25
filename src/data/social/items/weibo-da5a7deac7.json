@@ -1,0 +1,21 @@
+{
+  "id": "weibo-da5a7deac7",
+  "slug": "weibo-张艺上打车走了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "张艺上打车走了",
+  "summary": "微博热榜第 15 位：张艺上打车走了，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E4%B8%8A%E6%89%93%E8%BD%A6%E8%B5%B0%E4%BA%86%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

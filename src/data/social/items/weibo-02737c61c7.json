@@ -1,0 +1,21 @@
+{
+  "id": "weibo-02737c61c7",
+  "slug": "weibo-小澈复出了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "小澈复出了",
+  "summary": "微博热榜第 41 位：小澈复出了，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E5%A4%8D%E5%87%BA%E4%BA%86%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-05-25 08:10:02",
+  "fetchedAt": "2026-05-25T00:18:31.897Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
