@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Cox Media fined after bragging it spied on users through their phones",
+  "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, and 1010 Digital Works would pay a total […]",
+  "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+  "publishedAt": "2026-05-25T18:28:30.000Z",
+  "id": "the-verge-d1d7d61f",
+  "slug": "the-verge-d1d7d61f",
+  "content": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices —&nbsp;despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, and 1010 Digital Works would pay a total of $930,000 to settle allegations that they were in fact lying about spying on people to target ads. As chronicled by Techdirt a couple of years ago, Cox publicly boasted about a system called Voice Data back in 2023, telling potential digital marketing clients they could ensure “every casual conversation between two consumers becomes a tool for you to target, retarget, and retain customers.” It compared the tech to an episode of Black Mirror and described it as a real version of the persistent, largely unsubstantiated rumor that social media companies routinely listen to users through phone microphones. Cox backpedaled and denied it was listening to conversations, but 404 Media published multiple internal pitch decks making essentially the same highly dystopian claim. At the time, there were significant doubts this was actually happening, and the FTC complaints back this up. “This service did not, in fact, listen in on consumers’ conversations or use voice data at all — nor did the service accurately place ads in customers’ desired locations,” it says in its press release. “Instead, the service the companies provided consisted of reselling — at a significant markup — email lists obtained from other data brokers.” The agency also says the companies lied about consumers having opted into this system — so even if they could spy on people, it alleges, they’d still have been breaking the law.",
+  "fetchedAt": "2026-05-26T01:24:50.353Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "考克斯媒体因吹嘘通过手机监视用户而被罚款",
+  "chineseSummary": "一场异常奇怪的争议再次困扰着考克斯媒体和两家营销公司，这些公司声称他们正在通过手机和智能设备秘密倾听用户的声音——尽管几乎没有证据表明他们实际上可以这样做。周四，联邦贸易委员会宣布 Cox、MindSift 和 1010 Digital Works 将支付总计 [...]",
+  "chineseContent": "一场异常奇怪的争议再次困扰着考克斯媒体和两家营销公司，这些公司声称他们正在通过手机和智能设备秘密倾听用户的声音——尽管几乎没有证据表明他们实际上可以做到这一点。周四，美国联邦贸易委员会宣布，Cox、MindSift 和 1010 Digital Works 将支付总计 93 万美元，以了结有关他们实际上在监视人们以投放目标广告方面撒谎的指控。正如 Techdirt 几年前所记录的那样，考克斯早在 2023 年就公开吹嘘了一个名为“语音数据”的系统，告诉潜在的数字营销客户，他们可以确保“两个消费者之间的每一次随意对话都成为你定位、重新定位和留住客户的工具。”它将这项技术与《黑镜》中的一集进行了比较，并将其描述为社交媒体公司经常通过手机麦克风监听用户的长期存在且基本上未经证实的谣言的真实版本。 Cox 反悔并否认自己正在监听对话，但 404 Media 发布了多个内部宣传材料，基本上提出了同样高度反乌托邦的主张。当时，人们对这是否真的发生了很大的怀疑，联邦贸易委员会的投诉也证实了这一点。该公司在新闻稿中表示：“事实上，这项服务根本没有监听消费者的对话或使用语音数据，也没有准确地将广告放置在客户想要的位置。” “相反，这些公司提供的服务包括以大幅加价转售从其他数据经纪人那里获得的电子邮件列表。”该机构还表示，这些公司在消费者选择使用该系统的问题上撒了谎——因此，即使他们可以监视人们，他们仍然违法。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

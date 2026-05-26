@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "tldx",
+  "summary": "Fast CLI to bulk-check domains via RDAP & MCP Discussion | Link",
+  "url": "https://www.producthunt.com/products/tldx",
+  "publishedAt": "2026-05-24T14:53:43.000Z",
+  "id": "product-hunt-64f1d3ae",
+  "slug": "product-hunt-64f1d3ae",
+  "content": "Fast CLI to bulk-check domains via RDAP & MCP Discussion | Link",
+  "fetchedAt": "2026-05-26T01:24:50.351Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 10,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "tldx",
+  "chineseSummary": "快速 CLI 通过 RDAP 和 MCP 批量检查域关联",
+  "chineseContent": "快速 CLI 通过 RDAP 和 MCP 批量检查域关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

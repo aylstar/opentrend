@@ -1,0 +1,21 @@
+{
+  "id": "weibo-de86f20537",
+  "slug": "weibo-吴泽林体面",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "吴泽林体面",
+  "summary": "微博热榜第 22 位：吴泽林体面，当前热度为 49万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%B3%BD%E6%9E%97%E4%BD%93%E9%9D%A2%23",
+  "hotValue": "49万热度",
+  "author": "",
+  "publishedAt": "2026-05-26 09:24:25",
+  "fetchedAt": "2026-05-26T01:25:40.966Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

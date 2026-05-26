@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ad8d64a4a5",
+  "slug": "weibo-王鹤棣掉粉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "王鹤棣掉粉",
+  "summary": "微博热榜第 39 位：王鹤棣掉粉，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%8E%89%E7%B2%89%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-05-26 09:24:25",
+  "fetchedAt": "2026-05-26T01:25:40.966Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Two LNG tankers pass through Strait of Hormuz",
+  "summary": "Another vessel carrying crude oil crossed the vital shipping lane on Saturday",
+  "url": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9",
+  "publishedAt": "2026-05-25T13:36:37.000Z",
+  "id": "financial-times-52e4bc66",
+  "slug": "financial-times-52e4bc66",
+  "content": "Another vessel carrying crude oil crossed the vital shipping lane on Saturday",
+  "fetchedAt": "2026-05-26T01:24:50.359Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "财经"
+  ],
+  "rank": 8,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "两艘液化天然气船通过霍尔木兹海峡",
+  "chineseSummary": "周六，另一艘运载原油的船只穿越了重要的航道",
+  "chineseContent": "周六，另一艘运载原油的船只穿越了重要的航道",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

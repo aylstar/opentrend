@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9fd080b03d",
+  "slug": "weibo-刘亦菲真的大大方方的",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "刘亦菲真的大大方方的",
+  "summary": "微博热榜第 16 位：刘亦菲真的大大方方的，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9C%9F%E7%9A%84%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-05-26 09:24:25",
+  "fetchedAt": "2026-05-26T01:25:40.966Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

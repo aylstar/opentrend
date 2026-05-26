@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9352373024",
+  "slug": "weibo-jdg运营",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "JDG运营",
+  "summary": "微博热榜第 48 位：JDG运营，当前热度为 42万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23JDG%E8%BF%90%E8%90%A5%23",
+  "hotValue": "42万热度",
+  "author": "",
+  "publishedAt": "2026-05-26 09:24:25",
+  "fetchedAt": "2026-05-26T01:25:40.966Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
