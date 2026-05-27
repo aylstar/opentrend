@@ -1,0 +1,21 @@
+{
+  "id": "weibo-028454f23a",
+  "slug": "weibo-万花世界",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "万花世界",
+  "summary": "微博热榜第 27 位：万花世界，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.331Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

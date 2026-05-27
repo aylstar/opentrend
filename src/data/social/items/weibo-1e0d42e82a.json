@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e0d42e82a",
+  "slug": "weibo-小米mimo模型api降价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "小米MiMo模型API降价",
+  "summary": "微博热榜第 18 位：小米MiMo模型API降价，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3MiMo%E6%A8%A1%E5%9E%8BAPI%E9%99%8D%E4%BB%B7%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.331Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

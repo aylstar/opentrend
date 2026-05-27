@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid uncertainty over US-Iran talks",
+  "summary": "US stock futures wavered as investors watched for updates on negotiations between the US and Iran.",
+  "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-uncertainty-over-us-iran-talks-222255345.html?.tsrc=rss",
+  "publishedAt": "2026-05-26T22:22:55.000Z",
+  "id": "yahoo-finance-42d4414c",
+  "slug": "yahoo-finance-42d4414c",
+  "content": "US stock futures wavered as investors watched for updates on negotiations between the US and Iran.\n\nFutures attached to the Dow Jones Industrial Average (YM=F) , the benchmark S&P 500 (ES=F) , and the tech-heavy Nasdaq 100 (NQ=F) slipped roughly 0.1%.\n\nIn day trading on Tuesday, the S&P 500 ( ^GSPC ) and Nasdaq Composite ( ^IXIC ) both rose to record highs . Optimism that the US and Iran could reach a lasting peace agreement somewhat soon , as well as confidence in the chip trade, lifted markets.\n\nA conclusive end to the US-Iran war, however, remains murky, with Secretary of State Marco Rubio cautioning that any deal would likely take a few days to formalize. In the meantime, the Strait of Hormuz remains mostly shut to commercial traffic .\n\nEarnings season continues to wrap up this week, with Marvell Technology ( MRVL ), Salesforce ( CRM ), Snowflake ( SNOW ), and Abercrombie & Fitch ( ANF ) set to report their results Wednesday.",
+  "fetchedAt": "2026-05-27T01:32:19.975Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 23,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：由于美伊谈判存在不确定性，道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌",
+  "chineseSummary": "由于投资者关注美国和伊朗之间谈判的最新进展，美国股指期货出现波动。",
+  "chineseContent": "由于投资者关注美国和伊朗之间谈判的最新进展，美国股指期货出现波动。\n\n道琼斯工业平均指数 (YM=F)、基准标准普尔 500 指数 (ES=F) 和以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货下跌约 0.1%。\n\n在周二的日内交易中，标准普尔 500 指数 (^GSPC) 和纳斯达克综合指数 (^IXIC) 双双升至历史新高。对美国和伊朗可能很快达成持久和平协议的乐观情绪以及对芯片贸易的信心提振了市场。\n\n然而，美伊战争能否最终结束仍不明朗，国务卿马可·卢比奥警告称，任何协议可能需要几天时间才能正式敲定。与此同时，霍尔木兹海峡仍基本禁止商业交通。\n\n财报季本周继续结束，Marvell Technology ( MRVL )、Salesforce ( CRM )、Snowflake ( SNOW ) 和 Abercrombie & Fitch ( ANF ) 将于周三公布业绩。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

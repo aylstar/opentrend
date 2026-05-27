@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5b390f9efa",
+  "slug": "weibo-联想集团涨疯了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "联想集团涨疯了",
+  "summary": "微博热榜第 22 位：联想集团涨疯了，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2%E6%B6%A8%E7%96%AF%E4%BA%86%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.331Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

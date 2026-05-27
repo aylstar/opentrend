@@ -1,0 +1,21 @@
+{
+  "id": "weibo-50a83ba38f",
+  "slug": "weibo-钎城官宣演唱会",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "钎城官宣演唱会",
+  "summary": "微博热榜第 8 位：钎城官宣演唱会，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%92%8E%E5%9F%8E%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.331Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

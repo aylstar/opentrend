@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+  "summary": "4 points · 0 comments",
+  "content": "There's a quiet anxiety spreading through engineering teams right now: Am I becoming dependent on AI? Is my judgment atrophying?\n\nMy take: that's the wrong question. The right one is whether you're using AI in a way that sharpens your judgment or replaces it. Those are genuinely different modes of use, and most engineers drift into the second one without noticing.\n\nThe Dependency Trap Is Real — But Misdiagnosed\n\nThe common critique is that AI tools make engineers lazy. I don't think that's it. The problem isn't laziness — it's abdication . When you accept a generated solution without interrogating it, you're not saving time. You're deferring a debt that compounds interest.\n\nThe engineer who copy-pastes an AI-generated auth middleware without reading it isn't moving faster. They're moving faster now and slower — much slower — when that middleware silently fails in a production edge case at 2am.\n\nBut here's where I'll stake the actual opinion: the solution isn't to use AI less. It's to use it adversarially.\n\nWhat does adversarial use look like? You treat the AI output as a first draft from a smart-but-overconfident junior engineer. You don't reject it reflexively and you don't accept it wholesale. You interrogate it.\n\nHere's a prompt pattern I've baked into my actual workflow:\n\nRun that after any non-trivial AI-generated solution. What comes back is almost always useful — missed error states, implicit assumptions about input shape, security surface area that got glossed over. And critically: you are now thinking alongside the tool , not just consuming its output.\n\nThat loop — generate, interrogate, revise — is where judgment lives. It's where you stay sharp.\n\nThe engineers who will be dangerous with AI five years from now aren't the ones who have memorized the best prompt templates. They're the ones who can look at any generated output — code, architecture diagram, spec, test suite — and immediately ask the right skeptical questions.\n\nThat skill is built by practice. Adversarial prompting is one way to practice it deliberately rather than accidentally.\n\nAI doesn't erode engineering judgment. Passive AI use does. The distinction matters, and it's entirely within your control.\n\nPractical AI workflows for engineers. One issue a week, no fluff.",
+  "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+  "publishedAt": "2026-05-27T00:00:35.000Z",
+  "points": 4,
+  "id": "hacker-news-d913668d",
+  "slug": "hacker-news-d913668d",
+  "fetchedAt": "2026-05-27T01:32:19.972Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "产品"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 工具的好坏取决于您的判断——这就是重点",
+  "chineseSummary": "4 分 · 0 条评论",
+  "chineseContent": "现在，工程团队中弥漫着一种悄然的焦虑：我是否开始依赖人工智能？我的判断力在衰退吗？\n\n我的看法：这是一个错误的问题。正确的一个是你使用人工智能的方式是增强你的判断力还是取代它。这些是真正不同的使用模式，大多数工程师在没有注意到的情况下就转向了第二种。\n\n依赖陷阱确实存在——但被误诊了\n\n普遍的批评是人工智能工具让工程师变得懒惰。我不认为是这样。问题不在于懒惰，而在于放弃。当您接受生成的解决方案而不询问它时，您并没有节省时间。您推迟偿还复利债务。\n\n复制粘贴人工智能生成的身份验证中间件而不阅读它的工程师并没有进步得更快。现在，当中间件在凌晨 2 点的生产边缘情况下悄无声息地失败时，他们的移动速度更快了，而且速度更慢了——慢得多。\n\n但在这里我要表达自己的实际观点：解决方案并不是减少人工智能的使用。这是为了对抗性地使用它。\n\n对抗性使用是什么样的？你将人工智能的输出视为聪明但过于自信的初级工程师的初稿。你不会本能地拒绝它，也不会全盘接受它。你质问它。\n\n这是我在实际工作流程中融入的提示模式：\n\n在任何重要的人工智能生成的解决方案之后运行它。返回的结果几乎总是有用的——错过的错误状态、关于输入形状的隐含假设、被掩盖的安全表面区域。至关重要的是：您现在正在与该工具一起思考，而不仅仅是消耗它的输出。\n\n这个循环——生成、询问、修改——就是判断的所在。这是你保持敏锐的地方。\n\n五年后将面临人工智能危险的工程师并不是那些记住了最好的提示模板的人。他们可以查看任何生成的输出（代码、架构图、规范、测试套件）并立即提出正确的怀疑问题。\n\n这种技能是通过练习建立的。对抗性提示是有意而不是偶然练习的一种方法。\n\n人工智能不会削弱工程判断力。被动人工智能的使用确实如此。区别很重要，并且完全在您的控制范围内。\n\n面向工程师的实用人工智能工作流程。每周一期，无废话。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

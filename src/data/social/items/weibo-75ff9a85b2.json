@@ -1,0 +1,21 @@
+{
+  "id": "weibo-75ff9a85b2",
+  "slug": "weibo-张雪机车回复余华",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "张雪机车回复余华",
+  "summary": "微博热榜第 2 位：张雪机车回复余华，当前热度为 124万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E%23",
+  "hotValue": "124万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.331Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

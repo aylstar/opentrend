@@ -1,0 +1,21 @@
+{
+  "id": "weibo-99673fd930",
+  "slug": "weibo-罗永浩回复余华",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "罗永浩回复余华",
+  "summary": "微博热榜第 47 位：罗永浩回复余华，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%A4%8D%E4%BD%99%E5%8D%8E%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.332Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

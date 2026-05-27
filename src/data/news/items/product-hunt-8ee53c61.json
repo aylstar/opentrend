@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "marpy.io",
+  "summary": "AI coding platform built specifically for the Python stack Discussion | Link",
+  "url": "https://www.producthunt.com/products/marpy-io-python-first-ai-dev-platform",
+  "publishedAt": "2026-05-24T17:10:41.000Z",
+  "id": "product-hunt-8ee53c61",
+  "slug": "product-hunt-8ee53c61",
+  "content": "Marpy is a web-based IDE and AI coding assistant built specifically for the Python stack. It helps you go from idea to deployed app without wrestling infra, glue code, or half-baked JS-focused tools. Get Python-native autocomplete, refactors, and AI-generated modules that actually understand Django, FastAPI, and real-world backends. Marpy lets you prototype, iterate, and ship production-grade Python apps faster, all from your browser.",
+  "fetchedAt": "2026-05-27T01:32:19.973Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "marpy.io",
+  "chineseSummary": "专为 Python 堆栈构建的 AI 编码平台 讨论 |关联",
+  "chineseContent": "Marpy 是一款专门为 Python 堆栈构建的基于 Web 的 IDE 和 AI 编码助手。它可以帮助您从想法转变为部署的应用程序，而无需费劲基础设施、粘合代码或不成熟的 JS 工具。获取真正理解 Django、FastAPI 和现实世界后端的 Python 原生自动完成、重构和 AI 生成模块。 Marpy 可让您更快地制作原型、迭代和交付生产级 Python 应用程序，所有这些都可以通过浏览器完成。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

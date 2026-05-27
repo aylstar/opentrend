@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Cybersecurity stocks are surging. One looks promising into earnings",
+  "summary": "Mike Khouw is long Zscaler into earnings after the close.",
+  "url": "https://www.cnbc.com/2026/05/26/cybersecurity-stocks-are-surging-one-looks-promising-into-earnings.html",
+  "publishedAt": "2026-05-26T17:25:56.000Z",
+  "id": "cnbc-291ecf4a",
+  "slug": "cnbc-291ecf4a",
+  "content": "Zscaler reports after the close. I'm leaning long the stock, which appears to be in the midst of a bearish-to-bullish reversal, but not long premium (the options).\n\nAt a 12.2% implied move versus an 11.3% long-term average, options aren't cheap.\n\nI want to be relatively net flat premium with a bullish tilt/sentiment (aka \"delta\"). A call spread risk reversal, selling an out-of-the-money put and using the proceeds to buy a call spread, gives me long exposure, little to no premium outlay, while taking slightly less risk than purchasing the stock outright in the event earnings aren't well-received. The selling of the downside put will tie up cash, but no more than if you simply bought the stock.\n\nRevenue is growing 26% year-over-year, trailing 12-month revenues are expected to hit $3.32 billion, and free cash flow margins are running at roughly 27%. With ~$1 billion in NTM free cash flow and nearly 24% expected YoY FCF growth, this may well become a cash compounding machine, and the $1.7 billion in net cash means no lurking balance sheet land mines. The Zero Trust Exchange platform is the linchpin for AI security, and that's not marketing language — it's architecture. When every enterprise AI agent needs a secure, inspectable pathway to cloud resources, Zscaler's inline proxy model is structurally positioned in a way that legacy firewall vendors simply cannot replicate. Palo Alto and Fortinet are retrofitting on-premise mindsets onto a cloud-native problem. ZS was born in the cloud, which is one reason why this is a SaaS business that can succeed in an AI world.\n\nThe AI agent exposure is the under-appreciated catalyst. Every new AI workload — Copilots, autonomous agents, LLM API calls — is a new traffic stream that needs to be inspected, secured, and governed by policy. Zscaler's AI Guardrails for public and private apps, along with its expanding AI security portfolio, are being built specifically to address the emerging risks posed by AI models and applications.\n\nNone of this suggests there aren't any business risks. Net retention could decelerate if enterprise budget cycles tighten. Hyperscaler competition, macro headwinds, and unmonetized AI features. The GAAP losses, while narrowing, give ammunition to critics who argue the profitability story keeps getting pushed out. This is an important quarter because the street's expectation is for reported profits. The stock has already recovered meaningfully from its lows on this expectation, so some of the good news may already be priced in.\n\nThe bottom line: The fundamentals are compounding, the AI security thesis is real and accelerating, the balance sheet is clean, and the market has already told me the fear is fairly priced.\n\nI'll take the other side of that fear all day.",
+  "fetchedAt": "2026-05-27T01:32:19.976Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融",
+    "财经",
+    "安全"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "网络安全股票正在飙升。盈利前景看好",
+  "chineseSummary": "Mike Khouw 在收盘后看多 Zscaler 的收益。",
+  "chineseContent": "Zscaler 收盘后报告。我倾向于做多该股，该股似乎正处于从看跌到看涨的逆转之中，但不做多溢价（期权）。\n\n隐含波动率为 12.2%，而长期平均波动率为 11.3%，期权并不便宜。\n\n我希望获得相对净的平溢价，并具有看涨倾向/情绪（又名“Delta”）。看涨期权价差风险逆转，即卖出价外看跌期权，然后用收益购买看涨期权价差，这给了我长期敞口，几乎没有溢价支出，同时在收益不理想的情况下，比直接购买股票承担的风险略低。卖出看跌期权会占用现金，但不会比您简单地购买股票更多。\n\n收入同比增长 26%，过去 12 个月的收入预计将达到 33.2 亿美元，自由现金流利润率约为 27%。凭借约 10 亿美元的 NTM 自由现金流和近 24% 的预期同比 FCF 增长，这很可能成为一台现金复利机器，而 17 亿美元的净现金意味着资产负债表上没有潜伏的地雷。零信任交换平台是人工智能安全的关键，这不是营销语言，而是架构。当每个企业人工智能代理都需要一条安全、可检查的云资源路径时，Zscaler 的内联代理模型在结构上的定位是传统防火墙供应商根本无法复制的。 Palo Alto 和 Fortinet 正在将本地思维方式转变为解决云原生问题。 ZS 诞生于云中，这也是它作为 SaaS 业务能够在 AI 世界中取得成功的原因之一。\n\n人工智能代理的曝光是一个被低估的催化剂。每个新的人工智能工作负载——副驾驶、自主代理、LLM API 调用——都是一个新的流量流，需要通过策略进行检查、保护和管理。 Zscaler 针对公共和私人应用程序的 AI Guardrails 及其不断扩展的 AI 安全产品组合是专门为解决 AI 模型和应用程序带来的新风险而构建的。\n\n所有这些并不表明不存在任何商业风险。如果企业预算周期收紧，净保留率可能会放缓。超大规模竞争、宏观阻力和未货币化的人工智能功能。公认会计准则亏损虽然有所收窄，但也为那些认为盈利故事不断被推倒的批评者提供了弹药。这是一个重要的季度，因为华尔街的预期是报告的利润。由于这一预期，该股已经从低点大幅反弹，因此一些好消息可能已经被定价。\n\n底线：基本面正在复合，人工智能安全理论是真实的并且正在加速发展，资产负债表是干净的，市场已经告诉我，恐惧是合理的。\n\n我会整天克服恐惧的另一面。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

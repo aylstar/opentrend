@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "MiniCPM5-1B",
+  "summary": "A new SOTA for compact open models on the edge Discussion | Link",
+  "url": "https://www.producthunt.com/products/minicpm-4-0",
+  "publishedAt": "2026-05-26T03:07:00.000Z",
+  "id": "product-hunt-8c91ba11",
+  "slug": "product-hunt-8c91ba11",
+  "content": "MiniCPM is a family of ultra-efficient, open-source models for on-device AI. Offers significant speed-ups on edge chips, strong performance, and includes highly quantized BitCPM versions.",
+  "fetchedAt": "2026-05-27T01:32:19.974Z",
+  "score": 79,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "迷你CPM5-1B",
+  "chineseSummary": "用于边缘紧凑开放模型的新 SOTA 讨论 |关联",
+  "chineseContent": "MiniCPM 是一系列用于设备上 AI 的超高效开源模型。在边缘芯片上提供显着的加速、强大的性能，并包括高度量化的 BitCPM 版本。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Sage Care (YC S24) Is Hiring Software Engineers",
+  "summary": "1 points · 0 comments",
+  "content": "Automating home care agency operations with AI\n\nHome care agencies run on relationships — but they're drowning in paperwork. Intake coordinators spend hours manually transcribing calls, building care plans, and chasing follow-ups. That overhead slows agencies down and pulls their attention away from the people they're trying to serve.\n\nSage is building the operating system for home care agencies — an AI-native CRM and virtual assistant that turns every client call and home visit into structured care plans, follow-up tasks, and system records, automatically.\n\nWe integrate directly with the tools agencies already use (WellSky, AxisCare), work on iOS and desktop, and save agencies over 100 minutes per client intake.\n\nWe're early, well-funded, and signing agencies fast. Now we're looking for the engineers who'll help us build what comes next.\n\nAs one of Sage’s earliest engineering hires, you’ll play a crucial role in shaping our technical foundation and driving the development of our platform. Reporting directly to the CTO, you’ll have a significant impact on the company's trajectory and growth.",
+  "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+  "publishedAt": "2026-05-26T17:00:40.000Z",
+  "points": 1,
+  "id": "hacker-news-23d651f2",
+  "slug": "hacker-news-23d651f2",
+  "fetchedAt": "2026-05-27T01:32:19.972Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Sage Care (YC S24) 正在招聘软件工程师",
+  "chineseSummary": "1 分 · 0 条评论",
+  "chineseContent": "利用人工智能实现家庭护理机构运营自动化\n\n家庭护理机构依靠关系运作，但他们却淹没在文书工作中。接诊协调员花费数小时手动记录电话、制定护理计划和追踪后续行动。这种开销会拖慢各机构的速度，并将他们的注意力从他们试图服务的人们身上转移开。\n\nSage 正在为家庭护理机构构建操作系统——一个人工智能原生 CRM 和虚拟助理，可以自动将每次客户呼叫和家访转化为结构化护理计划、后续任务和系统记录。\n\n我们直接与代理机构已经使用的工具（WellSky、AxisCare）集成，在 iOS 和桌面上工作，并为代理机构为每个客户节省超过 100 分钟的时间。\n\n我们起步早，资金充足，签约代理机构快。现在，我们正在寻找能够帮助我们构建未来产品的工程师。\n\n作为 Sage 最早聘用的工程师之一，您将在塑造我们的技术基础和推动我们平台的发展方面发挥至关重要的作用。直接向首席技术官汇报，您将对公司的发展轨迹和增长产生重大影响。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

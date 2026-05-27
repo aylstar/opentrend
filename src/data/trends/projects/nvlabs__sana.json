@@ -1,0 +1,72 @@
+{
+  "slug": "nvlabs__sana",
+  "owner": "NVlabs",
+  "repo": "Sana",
+  "name": "Sana",
+  "fullName": "NVlabs/Sana",
+  "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+  "language": "Python",
+  "githubUrl": "https://github.com/NVlabs/Sana",
+  "docsUrl": "https://nvlabs.github.io/Sana/docs/",
+  "stars": 7713,
+  "forks": 592,
+  "openIssues": 122,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-05-26T17:39:42Z",
+  "updatedAt": "2026-05-27T01:28:37Z",
+  "createdAt": "2024-10-11T20:19:45Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<p align=\"center\" style=\"border-radius: 10px\">\n  <img src=\"asset/logo.png\" width=\"35%\" alt=\"logo\"/>\n</p>\n\n<h3 align=\"center\">\n<a href=\"https://nvlabs.github.io/Sana/docs/\"><b>📚 Docs</b></a> | <a href=\"https://nvlabs.github.io/Sana/\"><b>SANA</b></a> | <a href=\"https://nvlabs.github.io/Sana/Sana-1.5/\"><b>SANA-1.5</b></a> | <a href=\"https://nvlabs.github.io/Sana/Sprint/\"><b>SANA-Sprint</b></a> | <a href=\"https://nvlabs.github.io/Sana/Video/\"><b>SANA-Video</b></a> | <a href=\"https://nvlabs.github.io/Sana/WM/\"><b>SANA-WM</b></a> | <a href=\"https://nvlabs.github.io/Sana/Sol-RL/\"><b>Sol-RL</b></a>\n\n<a href=\"https://nv-sana.mit.edu/\"><b>Demo</b></a> | <a href=\"https://huggingface.co/collections/Efficient-Large-Model/sana\"><b>🤗 HuggingFace</b></a> | <a href=\"https://github.com/lawrence-cj/ComfyUI_ExtraModels\"><b>ComfyUI</b></a> | <a href=\"https://github.com/sgl-project/sglang\"><b>SGLang</b></a> | <a href=\"https://github.com/nvidia-cosmos/cosmos-rl/blob/main/examples/sana.md\"><b>Cosmos-RL</b></a>\n\n</h3>\n\n<p align=\"center\">\n  <a href=\"https://nv-sana.mit.edu/\"><img src=\"https://img.shields.io/static/v1?label=Demo:6x3090&message=SANA&color=yellow\"></a> &ensp;\n  <a href=\"https://nv-sana.mit.edu/4bit/\"><img src=\"https://img.shields.io/static/v1?label=Demo:1x3090&message=4bit&color=yellow\"></a> &ensp;\n  <a href=\"https://nv-sana.mit.edu/ctrlnet/\"><img src=\"https://img.shields.io/static/v1?label=Demo:1x3090&message=ControlNet&color=yellow\"></a> &ensp;\n  <a href=\"https://nv-sana.mit.edu/sprint/\"><img src=\"https://img.shields.io/static/v1?label=Demo:1x3090&message=SANA-Sprint&color=yellow\"></a> &ensp;\n  <a href=\"https://huggingface.co/spaces/Efficient-Large-Model/SanaSprint\"><img src=\"https://img.shields.io/static/v1?label=Huggingface%20Demo&message=SANA-Sprint&color=yellow\"></a> &ensp;\n</p>\n\n<p align=\"center\">\n  <a href=\"https://replicate.com/chenxwh/sana\"><img src=\"https://img.shields.io/static/v1?label=API:H100&message=Replicate&color=pink\"></a> &ensp;\n  <a href=\"https://discord.gg/rde6eaE5Ta\"><img src=\"https://img.shields.io/static/v1?label=Discuss&message=Discord&color=purple&logo=discord\"></a> &ensp;\n</p>\n\n<h4 align=\"center\">ICLR 2025 Oral | ICML 2025 | ICCV 2025 Highlight | ICLR 2026 Oral </h4>\n\n**SANA** is an efficiency-oriented codebase for high-resolution image and video generation, providing complete training and inference pipelines. This repository contains code for [SANA](https://nvlabs.github.io/Sana/), [SANA-1.5](https://nvlabs.github.io/Sana/Sana-1.5/), [SANA-Sprint](https://nvlabs.github.io/Sana/Sprint/), [SANA-Video](https://nvlabs.github.io/Sana/Video/), [SANA-WM](https://nvlabs.github.io/Sana/WM/), and [Sol-RL](https://nvlabs.github.io/Sana/Sol-RL/). More details can be found in our [📚 documentation](https://nvlabs.github.io/Sana/docs/).\n\nJoin our [Discord](https://discord.gg/rde6eaE5Ta) to engage in discussions with the community! If you have any questions, run into issues, or are interested in contributing, don't hesitate to reach out!\n\n<p ",
+  "generatedAt": "2026-05-27T01:32:08.244Z",
+  "analysis": {
+    "oneLine": "Sana 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
+    "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
+    "audience": "研究人员、学生、行业分析师、知识工作者",
+    "detailParagraphs": [
+      "Sana 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
+      "如果把它放进实际使用场景，Sana 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 7,713，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "文献阅读工作流",
+      "研究资料整理",
+      "行业报告素材管理",
+      "AI 辅助研究流程"
+    ],
+    "interpretation": "Sana 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/NVlabs/Sana.git",
+    "deployment": "重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在改善文献检索、阅读、整理和研究输出流程，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于不同研究场景差异较大，自动化效果需要真实任务验证。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-05-27T01:32:08.246Z"
+}

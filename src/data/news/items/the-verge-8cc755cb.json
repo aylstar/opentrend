@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "American Airlines is getting Starlink Wi-Fi",
+  "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as […]",
+  "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+  "publishedAt": "2026-05-26T16:07:39.000Z",
+  "id": "the-verge-8cc755cb",
+  "slug": "the-verge-8cc755cb",
+  "content": "American Airlines is planning to install SpaceX’s Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink will join Viastat and SES (previously known as Intelstat) as among the airline’s Wi-Fi providers. American is the latest air carrier to turn to Elon Musk’s Starlink for its Wi-Fi needs. Others include United Airlines, Southwest Airlines, Lufthansa Group, British Airways, Qatar Airways, Alaska Airlines, and Hawaiian Airlines. Meanwhile, Delta Air Lines recently struck a deal with Amazon Leo for Wi-Fi connectivity. Airlines are scrambling to make deals with satellite internet providers in the hopes of improving the traditionally dismal connectivity offerings on flights. Wi-Fi that relies on low-earth orbit satellites, like Starlink, tend to offer lower latency thanks to the shorter distance the signal has to travel as compared to satellites in geostationary orbit. Viasat uses geostationary satellites, while SES uses multi-orbit, low-earth orbit, and geostationary satellites. A recent report from Ookla found that SES-powered flights reported median download speeds of 61.61 Mbps, while Starlink-powered ones were averaging 152.37 Mbps. I got to test out Starlink on a United flight last year, and was getting download speeds of around 128 megabits-per-second (Mbps), while upload speeds were coming in a little slower at an average of 23.9 Mbps. “As a premium global airline, we are continuously seeking out world-class partners like Starlink to deliver what our customers need and want,” American Airlines Chief Customer Officer Heather Garboden said in a statement. “The addition of Starlink solidifies American as a leading airline in keeping passengers connected in flight.” SpaceX’s recent IPO filing revealed that Starlink is the financial engine of the company, generating roughly $11 billion in annual revenue and acting as its only consistently profitable division. In the filing, SpaceX says that Starlink’s global network is designed to eliminate “dead zones” and supports performance on high-latitude routes “that can be challenging for traditional providers.” In recent years, airlines have been racing to integrate more tech features in hopes of winning over customers. JetBlue has offered free Wi-Fi on its flights since 2017, United and Delta have been looking to make it easy for customers to use Bluetooth headphones for the in-flight entertainment, and almost every company is adding content from popular streaming services to their seat-back displays or in-flight web portals. But while select video content and Spotify can help pass the time, nothing compares to just being able to use the internet on your own device.",
+  "fetchedAt": "2026-05-27T01:32:19.975Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美国航空将获得 Starlink Wi-Fi",
+  "chineseSummary": "美国航空 (American Airlines) 今天宣布，计划在其数百架飞机上安装 SpaceX 的 Starlink Wi-Fi。美国航空表示，部署将于 2027 年第一季度开始，涉及 500 多架飞机，其中包括空中客车公司的新型 A321XLR 和 A321neo 飞机。 Starlink 将加入 Viastat 和 SES（以前称为 [...]",
+  "chineseContent": "美国航空 (American Airlines) 今天宣布，计划在其数百架飞机上安装 SpaceX 的 Starlink Wi-Fi。美国航空表示，部署将于 2027 年第一季度开始，涉及 500 多架飞机，其中包括空中客车公司的新型 A321XLR 和 A321neo 飞机。 Starlink 将与 Viastat 和 SES（之前称为 Intelstat）一起成为该航空公司的 Wi-Fi 提供商。美国航空是最新一家求助于埃隆·马斯克的 Starlink 来满足 Wi-Fi 需求的航空公司。其他航空公司包括联合航空、西南航空、汉莎航空集团、英国航空、卡塔尔航空、阿拉斯加航空和夏威夷航空。与此同时，达美航空最近与 Amazon Leo 达成了 Wi-Fi 连接协议。航空公司正争先恐后地与卫星互联网提供商达成交易，希望改善传统上令人沮丧的航班连接服务。依赖于近地轨道卫星（例如 Starlink）的 Wi-Fi 往往会提供较低的延迟，因为与地球静止轨道上的卫星相比，信号传输的距离较短。 Viasat 使用地球静止卫星，而 SES 使用多轨道、近地轨道和地球静止卫星。 Ookla 最近的一份报告发现，SES 驱动的航班报告的平均下载速度为 61.61 Mbps，而 Starlink 驱动的航班平均下载速度为 152.37 Mbps。去年，我在联合航空的航班上测试了 Starlink，下载速度约为每秒 128 兆比特 (Mbps)，而上传速度则稍慢一些，平均为 23.9 Mbps。美国航空首席客户官希瑟·加博登 (Heather Garboden) 在一份声明中表示：“作为一家优质的全球航空公司，我们不断寻找像 Starlink 这样的世界级合作伙伴，以满足客户的需求和需求。” “斯塔尔的加入",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

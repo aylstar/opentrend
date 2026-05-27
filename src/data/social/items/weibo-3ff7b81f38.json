@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3ff7b81f38",
+  "slug": "weibo-耀眼",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "耀眼",
+  "summary": "微博热榜第 45 位：耀眼，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E7%9C%BC%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.332Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

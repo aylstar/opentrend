@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Did the Pope use AI to write about the dangers of AI?",
+  "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+  "publishedAt": "2026-05-27T00:38:11.000Z",
+  "id": "the-verge-d1d3290c",
+  "slug": "the-verge-d1d3290c",
+  "content": "It’s possible that AI was used to write parts of Pope Leo XIV’s latest encyclical about AI’s impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The document includes known traits that appear in AI-generated writing, such as a higher use of the word “genuinely” — which crops up in writing by Anthropic’s Claude — than previous encyclicals, Zhang says. Another person ran the text of the document section by section through Pangram, finding that 62 percent of its first chapter was flagged as AI generated. When The Verge ran roughly 2,000 words of the document through Pangram, it estimated that 46 percent was AI-written. Still, other portions register as being written by humans. Zhang notes that Pangram flagged some sections as “essentially 0% AI.” The first 20 paragraphs of the last four encyclicals, when run through Pangram, had a 100 percent confidence of being human written. And a transcript of Pope Leo’s speech, run through Pangram, was also rated as 100 percent human. AI detection isn’t foolproof. Different AI detectors can display different results, and even when there’s consensus there’s no guarantee they’re correct. But Pangram is generally respected among AI researchers. In March 2025, Pangram said it estimated its false positive rate of reporting human-written work as AI-generated “to be approximately 1 in 10,000.” Encyclicals are lengthy letters published by the pope, meant to impart teachings that address important moral and social challenges of the time, according to The New York Times. This encyclical is the pope’s first, with the most recent one written by Pope Francis in October 2024. It’s also the first to focus on AI and its wide-ranging influences, with Pope Leo notably presenting it alongside Christopher Olah, a co-founder of Anthropic. The Vatican didn’t immediately reply to a request for comment.",
+  "fetchedAt": "2026-05-27T01:32:19.974Z",
+  "score": 80,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "教皇是否使用 AI 来写 AI 的危险？",
+  "chineseSummary": "教皇利奥十四世关于人工智能对人类影响的最新通谕的部分内容可能是用人工智能编写的。 Linch 张在 LessWrong 论坛上发布的一项分析发现，根据流行的人工智能检测器 Pangram，《Magnifica Humanitas》的某些段落 40% 到 100% 是由人工智能编写的。这 […]",
+  "chineseContent": "教皇利奥十四世关于人工智能对人类影响的最新通谕的部分内容可能是用人工智能编写的。 Linch 张在 LessWrong 论坛上发布的一项分析发现，根据流行的人工智能检测器 Pangram，《Magnifica Humanitas》的某些段落 40% 到 100% 是由人工智能编写的。张说，该文件包括人工智能生成的写作中出现的已知特征，例如比以前的通谕更多地使用“真正”一词（Anthropic 的克劳德在写作中出现该词）。另一个人通过 Pangram 逐节运行该文档的文本，发现其第一章的 62% 被标记为人工智能生成。当 The Verge 通过 Pangram 运行该文档的大约 2,000 个单词时，估计 46% 是人工智能编写的。尽管如此，其他部分仍被认为是由人类编写的。张指出，Pangram 将某些部分标记为“基本上 0% 人工智能”。最后四本通谕的前 20 段，当通过 Pangram 运行时，有 100% 的信心是人类写的。通过 Pangram 运行的教皇利奥 (Pope Leo) 演讲的文字记录也被评为 100% 人性化。人工智能检测并非万无一失。不同的人工智能探测器可以显示不同的结果，即使达成共识，也不能保证它们是正确的。但 Pangram 普遍受到人工智能研究人员的尊重。 2025 年 3 月，Pangram 表示，估计将人类撰写的作品报告为人工智能生成的误报率“约为万分之一”。据《纽约时报》报道，通谕是教皇发表的长篇信件，旨在传授解决当时重要道德和社会挑战的教义。这是教皇的第一本通谕，最新的通谕是由教皇方济各于 2024 年 10 月撰写的。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

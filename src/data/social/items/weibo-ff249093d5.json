@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ff249093d5",
+  "slug": "weibo-恰逢春",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "恰逢春",
+  "summary": "微博热榜第 44 位：恰逢春，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%81%B0%E9%80%A2%E6%98%A5%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-05-27 09:24:56",
+  "fetchedAt": "2026-05-27T01:32:59.331Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
