@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7f213ea9e9",
+  "slug": "weibo-小雪-句号",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "小雪 句号",
+  "summary": "微博热榜第 18 位：小雪 句号，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%9B%AA+%E5%8F%A5%E5%8F%B7%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-05-28 09:14:01",
+  "fetchedAt": "2026-05-28T01:23:06.644Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

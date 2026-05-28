@@ -1,0 +1,21 @@
+{
+  "id": "weibo-45774c61b4",
+  "slug": "weibo-vogue活动阵容",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "VOGUE活动阵容",
+  "summary": "微博热榜第 47 位：VOGUE活动阵容，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23VOGUE%E6%B4%BB%E5%8A%A8%E9%98%B5%E5%AE%B9%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-05-28 09:14:01",
+  "fetchedAt": "2026-05-28T01:23:06.644Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

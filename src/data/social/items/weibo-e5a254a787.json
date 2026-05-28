@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e5a254a787",
+  "slug": "weibo-凯凯道歉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "凯凯道歉",
+  "summary": "微博热榜第 17 位：凯凯道歉，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%87%AF%E5%87%AF%E9%81%93%E6%AD%89%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-05-28 09:14:01",
+  "fetchedAt": "2026-05-28T01:23:06.644Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

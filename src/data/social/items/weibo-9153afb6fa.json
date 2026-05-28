@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9153afb6fa",
+  "slug": "weibo-给阿嬷的情书",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "给阿嬷的情书",
+  "summary": "微博热榜第 22 位：给阿嬷的情书，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-05-28 09:14:01",
+  "fetchedAt": "2026-05-28T01:23:06.644Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

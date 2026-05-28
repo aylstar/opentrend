@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d2c8534b96",
+  "slug": "weibo-2026高考",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "2026高考",
+  "summary": "微博热榜第 34 位：2026高考，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%232026%E9%AB%98%E8%80%83%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-05-28 09:14:01",
+  "fetchedAt": "2026-05-28T01:23:06.644Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

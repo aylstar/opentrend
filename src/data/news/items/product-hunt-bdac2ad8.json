@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Chunk sidecars",
+  "summary": "Validate agent-generated code before it ever reaches CI Discussion | Link",
+  "url": "https://www.producthunt.com/products/circleci",
+  "publishedAt": "2026-05-26T13:49:27.000Z",
+  "id": "product-hunt-bdac2ad8",
+  "slug": "product-hunt-bdac2ad8",
+  "content": "Validate agent-generated code before it ever reaches CI Discussion | Link",
+  "fetchedAt": "2026-05-28T01:21:55.908Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "块边车",
+  "chineseSummary": "在代理生成的代码到达 CI 之前对其进行验证 讨论 |关联",
+  "chineseContent": "在代理生成的代码到达 CI 之前对其进行验证 讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

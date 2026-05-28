@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as AI lifts tech earnings",
+  "summary": "US stock futures edged up as a wave of tech earnings boosted confidence in the AI trade.",
+  "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-ai-lifts-tech-earnings-231358420.html?.tsrc=rss",
+  "publishedAt": "2026-05-27T23:13:58.000Z",
+  "id": "yahoo-finance-9203f8d4",
+  "slug": "yahoo-finance-9203f8d4",
+  "content": "US stock futures edged up as a wave of tech earnings boosted confidence in the AI trade.\n\nFutures attached to the Dow Jones Industrial Average (YM=F) and the benchmark S&P 500 (ES=F) rose roughly 0.1%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) hovered just about the flatline.\n\nAfter the closing bell, Snowflake ( SNOW ), Marvell ( MRVL ), and HP ( HP ) reported strong earnings results that showcased AI driving spending on cloud, chips, and computers. Snowflake’s earnings and its announcement of a $6 billion deal with Amazon Web Services stole the after-hours show, sending its stock up more than 30%.\n\nSalesforce ( CRM ) earnings , meanwhile, also beat Wall Street’s expectations, but a tepid forecast stoked investor concerns about AI disrupting the software business.\n\nIn day trading, stocks cautiously rose to records as investors continued to wait for an official update on US-Iran negotiations.\n\nOn Thursday, Wall Street will receive the latest reading of the Federal Reserve's preferred inflation gauge, the Personal Consumption Expenditures index. The data will indicate whether rising prices are increasing pressure on the central bank to raise interest rates.\n\nEarnings season also continues to draw to a close Thursday, with Costco Wholesale ( COST ), Dell Technologies ( DELL ), Dollar Tree ( DLTR ), Best Buy ( BBY ), and The Gap ( GAP ) expected to report their results.",
+  "fetchedAt": "2026-05-28T01:21:55.909Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 27,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：随着 AI 提升科技股盈利，道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨",
+  "chineseSummary": "随着一波科技财报提振了人们对人工智能行业的信心，美国股指期货小幅上涨。",
+  "chineseContent": "随着一波科技财报提振了人们对人工智能行业的信心，美国股指期货小幅上涨。\n\n道琼斯工业平均指数 (YM=F) 和基准标准普尔 500 指数 (ES=F) 的期货上涨约 0.1%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货价格徘徊在平坦线附近。\n\n收盘后，Snowflake (SNOW)、Marvell (MRVL) 和 HP (HP) 公布了强劲的盈利业绩，显示人工智能推动了云、芯片和计算机方面的支出。 Snowflake 的财报以及宣布与 Amazon Web Services 达成 60 亿美元交易的消息抢尽风头，导致其股价上涨超过 30%。\n\n与此同时，Salesforce (CRM) 的盈利也超出了华尔街的预期，但不温不火的预测引发了投资者对人工智能扰乱软件业务的担忧。\n\n在日内交易中，由于投资者继续等待美伊谈判的官方最新消息，股市谨慎升至历史新高。\n\n周四，华尔街将收到美联储首选通胀指标个人消费支出指数的最新数据。该数据将表明物价上涨是否加大了央行加息的压力。\n\n周四财报季也即将结束，好市多批发 (COST)、戴尔科技 (DELL)、Dollar Tree (DLTR)、百思买 (BBY) 和 The Gap (GAP) 预计将公布业绩。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

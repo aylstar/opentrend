@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-18T13:20:56.000Z",
   "id": "product-hunt-d169684c",
   "slug": "product-hunt-d169684c",
-  "content": "Brew is the fastest way to design and send beautiful, on-brand emails and automations that render perfectly in every inbox. Describe a campaign or a multi-step automation in plain English, and Brew builds the whole thing in seconds: copy, design, audience, and logic. Works with any AI agent: paste our docs into OpenClaw, Viktor, Claude, or Lovable. No lock-in: send from Brew or export to your ESP. Free to get started.",
-  "fetchedAt": "2026-05-27T01:32:19.974Z",
+  "content": "Like Claude design for email marketing Discussion | Link",
+  "fetchedAt": "2026-05-28T01:21:55.909Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
     "全球",
     "金融"
   ],
-  "rank": 5,
-  "contentStatus": "article-extracted",
+  "rank": 8,
+  "contentStatus": "fetch-failed",
   "chineseTitle": "酿造",
   "chineseSummary": "喜欢克劳德的电子邮件营销设计讨论|关联",
-  "chineseContent": "Brew 是设计和发送精美的品牌电子邮件和自动化的最快方式，可在每个收件箱中完美呈现。用简单的英语描述一个活动或多步骤自动化，Brew 在几秒钟内构建整个事情：文案、设计、受众和逻辑。可与任何 AI 代理配合使用：将我们的文档粘贴到 OpenClaw、Viktor、Claude 或 Lovable 中。无锁定：从 Brew 发送或导出到您的 ESP。免费开始。",
+  "chineseContent": "喜欢克劳德的电子邮件营销设计讨论|关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Motorola says affiliate hijacking of Amazon app was ‘unintended’",
+  "summary": "Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was \"unintended\" and has been \"promptly corrected.\" The company didn't explain how the error was introduced in the first place. \"Recently, Motorola acted quickly to resolve an issue that was identified, […]",
+  "url": "https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack",
+  "publishedAt": "2026-05-27T16:42:46.000Z",
+  "id": "the-verge-5d3ab1b4",
+  "slug": "the-verge-5d3ab1b4",
+  "content": "Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was “unintended” and has been “promptly corrected.” The company didn’t explain how the error was introduced in the first place. “Recently, Motorola acted quickly to resolve an issue that was identified, which caused some users in the US launching the Amazon Shopping app to be routed through a web tracking link before opening the app. This behavior was unintended and resulted in an inconsistent user experience,” Allison Yi, Motorola’s executive director of product management, told The Verge in a statement. “Upon identifying the issue, we promptly corrected the routing configuration. Users can now expect all installed apps to launch directly as intended.” The unusual situation was first reported by 9to5Google after it was spotted by a Reddit user. On opening the Amazon app, the phone would first briefly open the phone’s browser before returning to Amazon. Strangest of all, users were sent to a website that appears to be linked to fashion influencer Kira Abboud, though it isn’t actually referenced on any of her other pages. That split-second visit was enough to install a tracking cookie however, which in turn added an affiliate code to the user’s shopping session — though, again, not one that matches any of Abboud’s other content. The code wouldn’t make any direct difference to the end user, but could theoretically allow whoever installed it to receive a small percentage of any purchase that was made. The Verge uses similar Amazon affiliate links for some of our shopping content, though always with a disclaimer, rather than installed covertly. Yi blamed the redirect on “an app search and suggestion experience for the Moto App Launcher” codeveloped with Device Native. It was Device Native’s website that Reddit user Trypocopris noticed was being queried by the phone behind the scenes before users were sent to kira-abboud.com. The company says on its website that it delivers “personalized, on-device mobile ad serving without sharing user data.” Amusingly, until yesterday Device Native had a public page listing the documentation for its Motorola integration. That page has now been taken offline, though not before the Internet Archive made a copy. Motorola did not comment on how the “issue” was introduced, or whether Device Native was to blame, but did reiterate its commitment to user privacy. “Motorola takes user experience, privacy, and platform integrity seriously and will continue to closely monitor the system to ensure expected behavior across devices,” Yi said.",
+  "fetchedAt": "2026-05-28T01:21:55.909Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "摩托罗拉表示附属公司劫持亚马逊应用程序是“无意的”",
+  "chineseSummary": "摩托罗拉表示，最近发现的行为是“无意的”，已“立即纠正”，该行为是其一些手机在打开亚马逊应用程序之前将用户发送到附属跟踪网站。该公司没有解释该错误最初是如何产生的。 “最近，摩托罗拉迅速采取行动解决了发现的问题，[...]",
+  "chineseContent": "摩托罗拉表示，最近发现的行为是“无意的”，并且已“立即纠正”，该行为是其一些手机在打开亚马逊应用程序之前将用户发送到附属跟踪网站。该公司没有解释这个错误最初是如何产生的。摩托罗拉产品管理执行总监 Allison Yi 在一份声明中告诉 The Verge：“最近，摩托罗拉迅速采取行动解决了发现的一个问题，该问题导致一些在美国启动亚马逊购物应用程序的用户在打开该应用程序之前就通过了网络跟踪链接。这种行为是无意的，导致了不一致的用户体验。” “发现问题后，我们立即纠正了路由配置。用户现在可以期望所有已安装的应用程序都能按预期直接启动。”一名 Reddit 用户发现后，9to5Google 最先报道了这种不寻常的情况。打开亚马逊应用程序时，手机首先会短暂打开手机浏览器，然后返回亚马逊。最奇怪的是，用户被发送到一个似乎与时尚影响者基拉·阿布德 (Kira Abboud) 链接的网站，尽管她的任何其他页面实际上并未引用该网站。然而，这一瞬间的访问足以安装一个跟踪 cookie，这反过来又在用户的购物会话中添加了一个附属代码——不过，同样，这与阿布德的任何其他内容都不匹配。该代码不会对最终用户产生任何直接影响，但理论上可以允许安装它的人获得所购买商品的一小部分。 The Verge 对我们的一些购物内容使用类似的亚马逊附属链接，但始终带有免责声明，而不是秘密安装。 Yi 将重定向归咎于“Mo 的应用程序搜索和建议体验”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "rmyndharis__openwa",
+  "owner": "rmyndharis",
+  "repo": "OpenWA",
+  "name": "OpenWA",
+  "fullName": "rmyndharis/OpenWA",
+  "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/rmyndharis/OpenWA",
+  "docsUrl": "https://www.open-wa.org",
+  "stars": 6715,
+  "forks": 1378,
+  "openIssues": 59,
+  "license": "MIT",
+  "pushedAt": "2026-05-25T13:59:21Z",
+  "updatedAt": "2026-05-28T01:15:46Z",
+  "createdAt": "2026-02-02T12:14:45Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 3,
+  "readmeExcerpt": "<p align=\"center\">\n  <img src=\"docs/logo/openwa_logo.webp\" alt=\"OpenWA Logo\" width=\"200\"/>\n</p>\n\n<h1 align=\"center\">OpenWA</h1>\n<p align=\"center\">\n  <strong>Open Source WhatsApp API Gateway</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"#-features\">Features</a> •\n  <a href=\"#-quick-start\">Quick Start</a> •\n  <a href=\"#-documentation\">Docs</a> •\n  <a href=\"#-api-examples\">API</a> •\n  <a href=\"#-contributing\">Contributing</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/version-0.1.6-blue.svg\" alt=\"Version\"/>\n  <img src=\"https://img.shields.io/badge/license-MIT-green.svg\" alt=\"License\"/>\n  <img src=\"https://img.shields.io/badge/node-22_LTS-brightgreen.svg\" alt=\"Node\"/>\n  <img src=\"https://img.shields.io/badge/NestJS-11.x-red.svg\" alt=\"NestJS\"/>\n  <img src=\"https://img.shields.io/badge/docker-ready-blue.svg\" alt=\"Docker\"/>\n  <img src=\"https://img.shields.io/badge/TypeScript-5.x-3178C6.svg\" alt=\"TypeScript\"/>\n</p>\n\n---\n\n## ✨ Why OpenWA?\n\n**OpenWA** is a free, open-source WhatsApp API Gateway designed for developers who need full control over their messaging infrastructure—without vendor lock-in or hidden paywalls.\n\nBuilt on a **pluggable architecture**, OpenWA lets you swap database engines (SQLite/PostgreSQL), storage backends (Local/S3), and cache layers (Memory/Redis) without changing a single line of application code.\n\n|                               |                                                              |\n| ----------------------------- | ------------------------------------------------------------ |\n| 🔓 **100% Open Source**       | No licensing fees, no feature locks, full source code access |\n| 🏗️ **Pluggable Architecture** | Swap adapters for database, storage, and cache via config    |\n| 🖥️ **Full Dashboard**         | Modern React UI for session, webhook, and API key management |\n| 🔹 **Multi-Session Ready**    | Run multiple WhatsApp sessions concurrently on one instance  |\n| 🐳 **Docker Native**          | Production-ready with zero configuration                     |\n| 🔗 **n8n Integration**        | Community nodes for workflow automation                      |\n\n---\n\n## 🎯 Features\n\n### Core Features\n\n| Feature       | Status | Description                          |\n| ------------- | ------ | ------------------------------------ |\n| REST API      | ✅     | Full WhatsApp API via HTTP endpoints |\n| Multi-Session | ✅     | Manage multiple WhatsApp accounts    |\n| Webhooks      | ✅     | Real-time events with HMAC signature |\n| Web Dashboard | ✅     | Visual management interface          |\n| API Key Auth  | ✅     | Secure API authentication            |\n| Swagger Docs  | ✅     | Interactive API documentation        |\n\n### Messaging\n\n| Feature           | Status | Description                      |\n| ----------------- | ------ | -------------------------------- |\n| Text Messages     | ✅     | Send/receive text messages       |\n| Media Messages    | ✅     | Images, videos, documents, audio |\n| Message Reactions |",
+  "generatedAt": "2026-05-28T01:21:45.291Z",
+  "analysis": {
+    "oneLine": "OpenWA 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
+    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
+    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "detailParagraphs": [
+      "OpenWA 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
+      "如果把它放进实际使用场景，OpenWA 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 6,715，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "公开信息风险排查",
+      "账号暴露核查",
+      "安全培训演示",
+      "企业攻击面初筛"
+    ],
+    "interpretation": "OpenWA 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/rmyndharis/OpenWA.git\ndocker compose -f docker-compose.dev.yml up -d\ngit clone https://github.com/rmyndharis/OpenWA.git\nnpm install\nnpm run dev",
+    "deployment": "具备 Docker Compose 线索，适合进一步评估 NAS 或服务器私有化部署。",
+    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险主要是合规、隐私和误报，需要配套人工复核机制。",
+    "recommendation": 3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-05-28T01:21:45.291Z"
+}
