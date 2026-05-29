@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d156ebb7b5",
+  "slug": "weibo-日本迎来坏消息",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "日本迎来坏消息",
+  "summary": "微博热榜第 1 位：日本迎来坏消息，当前热度为 172万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%8E%E6%9D%A5%E5%9D%8F%E6%B6%88%E6%81%AF%23",
+  "hotValue": "172万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 12:12:49",
+  "fetchedAt": "2026-05-29T04:13:40.159Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -7,8 +7,8 @@
   "publishedAt": "2026-05-26T09:59:31.000Z",
   "id": "product-hunt-94583009",
   "slug": "product-hunt-94583009",
-  "content": "Add fully functional chat to your React app using AI agent skills. Drop in a skill file and your agent handles the full integration: installation, environment setup, SSR-safe rendering, and the correct init and login flow. One file per framework. Works seamlessly with Cursor, Kiro, VS Code Copilot, Claude, and Codex. Go from zero to a working chat in minutes, built on CometChat's proven foundation and ready for real projects from day one.",
-  "fetchedAt": "2026-05-28T01:21:55.908Z",
+  "content": "Add voice and video calling via your coding agent Discussion | Link",
+  "fetchedAt": "2026-05-29T04:11:47.897Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "全球",
     "视频"
   ],
-  "rank": 13,
-  "contentStatus": "article-extracted",
+  "rank": 12,
+  "contentStatus": "fetch-failed",
   "chineseTitle": "AI 座席的呼叫技巧",
-  "chineseSummary": "通过您的编码代理添加语音和视频通话关联",
-  "chineseContent": "使用 AI 代理技能将功能齐全的聊天添加到您的 React 应用程序中。放入技能文件后，您的代理将处理完整的集成：安装、环境设置、SSR 安全渲染以及正确的初始化和登录流程。每个框架一个文件。与 Cursor、Kiro、VS Code Copilot、Claude 和 Codex 无缝协作。在几分钟内从零开始进行有效聊天，建立在 CometChat 成熟的基础上，从第一天起就为实际项目做好准备。",
+  "chineseSummary": "通过编码代理添加语音和视频通话关联",
+  "chineseContent": "通过您的编码代理添加语音和视频通话关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

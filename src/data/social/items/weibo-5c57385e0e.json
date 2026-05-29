@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5c57385e0e",
+  "slug": "weibo-全员加速中没有停播",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "全员加速中没有停播",
+  "summary": "微博热榜第 48 位：全员加速中没有停播，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E6%B2%A1%E6%9C%89%E5%81%9C%E6%92%AD%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 12:12:49",
+  "fetchedAt": "2026-05-29T04:13:40.159Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -4,71 +4,55 @@
   "repo": "presenton",
   "name": "presenton",
   "fullName": "presenton/presenton",
-  "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+  "description": "GitHub Trending 上榜项目，详细能力需要进一步核对 README 和官方文档。",
   "language": "TypeScript",
   "githubUrl": "https://github.com/presenton/presenton",
-  "docsUrl": "https://presenton.ai",
-  "stars": 7303,
-  "forks": 1184,
-  "openIssues": 49,
-  "license": "Apache-2.0",
-  "pushedAt": "2026-05-28T13:52:25Z",
-  "updatedAt": "2026-05-29T01:22:24Z",
-  "createdAt": "2025-05-10T14:12:46Z",
+  "docsUrl": "",
+  "stars": 1740,
+  "forks": 0,
+  "openIssues": 0,
+  "license": "",
+  "pushedAt": "",
+  "updatedAt": "",
+  "createdAt": "",
   "archived": false,
   "trendWindows": [
     "weekly"
   ],
   "tags": [
-    "AI",
-    "效率工具",
-    "NAS",
-    "自部署",
-    "数据分析",
-    "企业工具",
-    "自动化办公",
-    "安全隐私"
+    "值得跟踪"
   ],
-  "recommendation": 3,
-  "readmeExcerpt": "<p align=\"center\">\n  <img src=\"./readme_assets/images/logo.png\" alt=\"Presenton\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://presenton.ai/download\"><strong>Quickstart</strong></a> &middot;\n  <a href=\"https://docs.presenton.ai/\"><strong>Docs</strong></a> &middot;\n  <a href=\"https://www.youtube.com/@presentonai\"><strong>Youtube</strong></a> &middot;\n  <a href=\"https://discord.gg/9ZsKKxudNE\"><strong>Discord</strong></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/presenton/presenton/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-blue?style=flat\" alt=\"Apache2.0\" /></a>\n  <a href=\"https://github.com/presenton/presenton\"><img src=\"https://img.shields.io/github/stars/presenton/presenton?style=flat\" alt=\"Stars\" /></a>\n  <a href=\"https://presenton.ai/\"><img src=\"https://img.shields.io/badge/Platform-Docker%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat\" alt=\"Platform\" /></a>\n</p>\n\n# Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)\n\n\n\n### ✨ Why Presenton\n\nNo SaaS lock-in · No forced subscriptions · Full control over models and data\n\nWhat makes Presenton different?\n\n- Use Fully **self-hosted** in Web through [Docker Package](https://docs.presenton.ai/v3/get-started/quickstart)\n- Or Download [Desktop App](https://presenton.ai/download) (Mac, Windows & Linux)\n- Works with OpenAI, Gemini, Vertex AI, Azure OpenAI, Amazon Bedrock, Fireworks, Together AI, Anthropic, LM Studio, Ollama, or custom models\n- Comes with AI Presentation Generation API\n- Fully open-source (Apache 2.0)\n- Works with your own design/templates\n- **Fully editable PPTX export**\n\n> [!TIP]\n> **Star us!** A ⭐ shows your support and encourages us to keep building! 😇\n\n<p align=\"center\">\n  <img src=\"./readme_assets/images/banner_bg.gif\" alt=\"Presenton\" />\n</p>\n\n#\n\n### 🎛 Features\n\n<p align=\"center\">\n  <img src=\"./readme_assets/images/features.png\" alt=\"Presenton Features\" />\n</p>\n\n#\n\n### 💻 Presenton Desktop\n\nCreate AI-powered presentations using your own model provider (BYOK) or run everything locally on your own machine for full control and data privacy.\n\n<p align=\"center\">\n  <a href=\"https://presenton.ai/download\">\n    <img src=\"./readme_assets/images/banner.png\" alt=\"Cloud deployment\" />\n  </a>\n</p>\n\n**Available Platforms**\n\n<table>\n<tr>\n<th align=\"left\">Platform</th>\n<th align=\"left\">Architecture</th>\n<th align=\"left\">Package</th>\n<th align=\"left\">Download</th>\n</tr>\n\n<tr>\n<td><b>macOS</b></td>\n<td>Apple Silicon / Intel</td>\n<td><code>.dmg</code></td>\n<td><a href=\"https://presenton.ai/download\">Download ↗</a></td>\n</tr>\n\n<tr>\n<td><b>Windows</b></td>\n<td>x64</td>\n<td><code>.exe</code></td>\n<td><a href=\"https://presenton.ai/download\">Download ↗</a></td>\n</tr>\n\n<tr>\n<td><b>Linux</b></td>\n<td>x64</td>\n<td> <code>.deb</code></td>\n<td><a href=\"https://presenton.ai/download\">Download ↗</a></td>\n</tr>\n\n</table>\n\n\n**Deploy to Cloud Providers**\n\n<div style=\"display:flex; gap:12px; align-items:center;",
-  "generatedAt": "2026-05-29T01:30:33.916Z",
+  "recommendation": 2,
+  "readmeExcerpt": "",
+  "generatedAt": "2026-05-29T04:10:22.949Z",
   "analysis": {
-    "oneLine": "presenton 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
-    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
-    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "oneLine": "presenton 是一个值得跟踪的开源项目，适合用于技术选型、原型验证和同类产品研究。",
+    "problem": "降低技术团队发现、理解和验证新工具的成本",
+    "audience": "技术负责人、独立开发者、小团队和需要寻找可复用工具的业务人员",
     "detailParagraphs": [
-      "presenton 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，presenton 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 7,303，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
-      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+      "presenton 更准确地说是一个值得跟踪的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：降低技术团队发现、理解和验证新工具的成本。",
+      "如果把它放进实际使用场景，presenton 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 1,740，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性。需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。当前最需要警惕的是：主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
-      "公开信息风险排查",
-      "账号暴露核查",
-      "安全培训演示",
-      "企业攻击面初筛"
+      "技术选型初筛",
+      "内部工具原型验证",
+      "同类产品和工程实践研究"
     ],
     "interpretation": "presenton 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
     "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
-    "installGuide": "npm run setup:env</code></pre>\nnpm run dist</code></pre>\ndocker run -it --name presenton -p 5000:80 -v \"./app_data:/app_data\" ghcr.io/presenton/presenton:latest\ndocker run -it --name presenton -p 5000:80 -e AUTH_USERNAME=admin -e AUTH_PASSWORD=changeme123 -v \"./app_data:/app_data\" ghcr.io/presenton/presenton:latest\ndocker run -it --name presenton -p 5000:80 -e AUTH_USERNAME=admin -e AUTH_PASSWORD=changeme123 -v \"${PWD}\\app_data:/app_data\" ghcr.io/presenton/presenton:latest",
-    "deployment": "具备 Docker Compose 线索，适合进一步评估 NAS 或服务器私有化部署。",
-    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
-    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在技术选型、原型验证和同类产品研究，并减少从零选型和重复开发的时间。",
     "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
     "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
     "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
-    "risk": "风险主要是合规、隐私和误报，需要配套人工复核机制。",
-    "recommendation": 3,
+    "risk": "近期活跃度可能不足；此外，主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。",
+    "recommendation": 2,
     "tags": [
-      "AI",
-      "效率工具",
-      "NAS",
-      "自部署",
-      "数据分析",
-      "企业工具",
-      "自动化办公",
-      "安全隐私"
+      "值得跟踪"
     ],
     "source": "rule-based-readme-analysis"
-  },
-  "firstSeenAt": "2026-05-29T01:30:33.918Z"
+  }
 }

@@ -304,72 +304,38 @@
 {"time":"2026-05-25T01:30:30.013Z","level":"info","message":"processed multica-ai/andrej-karpathy-skills"}
 {"time":"2026-05-25T01:30:30.577Z","level":"info","message":"processed soxoj/maigret"}
 {"time":"2026-05-25T01:30:31.098Z","level":"info","message":"processed TauricResearch/TradingAgents"}
-{"time":"2026-05-26T01:24:28.673Z","level":"info","message":"trend run started, limit=10"}
-{"time":"2026-05-26T01:24:30.011Z","level":"info","message":"processed colbymchenry/codegraph"}
-{"time":"2026-05-26T01:24:30.283Z","level":"info","message":"processed tinyhumansai/openhuman"}
-{"time":"2026-05-26T01:24:30.538Z","level":"info","message":"processed Lum1104/Understand-Anything"}
-{"time":"2026-05-26T01:24:30.815Z","level":"info","message":"processed Imbad0202/academic-research-skills"}
-{"time":"2026-05-26T01:24:31.059Z","level":"info","message":"processed rohitg00/ai-engineering-from-scratch"}
-{"time":"2026-05-26T01:24:31.287Z","level":"info","message":"processed ruvnet/RuView"}
-{"time":"2026-05-26T01:24:31.537Z","level":"info","message":"processed rohitg00/agentmemory"}
-{"time":"2026-05-26T01:24:31.845Z","level":"info","message":"processed CloakHQ/CloakBrowser"}
-{"time":"2026-05-26T01:24:32.122Z","level":"info","message":"processed supertone-inc/supertonic"}
-{"time":"2026-05-26T01:24:32.359Z","level":"info","message":"processed can1357/oh-my-pi"}
-{"time":"2026-05-26T01:24:32.599Z","level":"info","message":"processed mattpocock/skills"}
-{"time":"2026-05-26T01:24:32.875Z","level":"info","message":"processed anthropics/financial-services"}
-{"time":"2026-05-26T01:24:33.163Z","level":"info","message":"processed soxoj/maigret"}
-{"time":"2026-05-26T01:24:33.448Z","level":"info","message":"processed TauricResearch/TradingAgents"}
-{"time":"2026-05-26T01:24:33.738Z","level":"info","message":"processed multica-ai/andrej-karpathy-skills"}
-{"time":"2026-05-26T01:24:34.008Z","level":"info","message":"processed AIDC-AI/Pixelle-Video"}
-{"time":"2026-05-27T01:32:03.702Z","level":"info","message":"trend run started, limit=10"}
-{"time":"2026-05-27T01:32:05.577Z","level":"info","message":"processed colbymchenry/codegraph"}
-{"time":"2026-05-27T01:32:05.847Z","level":"info","message":"processed Lum1104/Understand-Anything"}
-{"time":"2026-05-27T01:32:06.095Z","level":"info","message":"processed rohitg00/ai-engineering-from-scratch"}
-{"time":"2026-05-27T01:32:06.409Z","level":"info","message":"processed tinyhumansai/openhuman"}
-{"time":"2026-05-27T01:32:06.707Z","level":"info","message":"processed Imbad0202/academic-research-skills"}
-{"time":"2026-05-27T01:32:07.002Z","level":"info","message":"processed ruvnet/RuView"}
-{"time":"2026-05-27T01:32:07.381Z","level":"info","message":"processed HKUDS/ViMax"}
-{"time":"2026-05-27T01:32:07.659Z","level":"info","message":"processed rohitg00/agentmemory"}
-{"time":"2026-05-27T01:32:07.959Z","level":"info","message":"processed can1357/oh-my-pi"}
-{"time":"2026-05-27T01:32:08.248Z","level":"info","message":"processed NVlabs/Sana"}
-{"time":"2026-05-27T01:32:08.557Z","level":"info","message":"processed mattpocock/skills"}
-{"time":"2026-05-27T01:32:08.872Z","level":"info","message":"processed anthropics/financial-services"}
-{"time":"2026-05-27T01:32:09.230Z","level":"info","message":"processed CloakHQ/CloakBrowser"}
-{"time":"2026-05-27T01:32:09.558Z","level":"info","message":"processed soxoj/maigret"}
-{"time":"2026-05-27T01:32:09.874Z","level":"info","message":"processed TauricResearch/TradingAgents"}
-{"time":"2026-05-27T01:32:10.172Z","level":"info","message":"processed multica-ai/andrej-karpathy-skills"}
-{"time":"2026-05-28T01:21:40.550Z","level":"info","message":"trend run started, limit=10"}
-{"time":"2026-05-28T01:21:42.660Z","level":"info","message":"processed colbymchenry/codegraph"}
-{"time":"2026-05-28T01:21:43.046Z","level":"info","message":"processed Lum1104/Understand-Anything"}
-{"time":"2026-05-28T01:21:43.475Z","level":"info","message":"processed rohitg00/ai-engineering-from-scratch"}
-{"time":"2026-05-28T01:21:43.917Z","level":"info","message":"processed ruvnet/RuView"}
-{"time":"2026-05-28T01:21:44.400Z","level":"info","message":"processed anthropics/knowledge-work-plugins"}
-{"time":"2026-05-28T01:21:44.826Z","level":"info","message":"processed Imbad0202/academic-research-skills"}
-{"time":"2026-05-28T01:21:45.292Z","level":"info","message":"processed rmyndharis/OpenWA"}
-{"time":"2026-05-28T01:21:45.839Z","level":"info","message":"processed HKUDS/ViMax"}
-{"time":"2026-05-28T01:21:46.329Z","level":"info","message":"processed tinyhumansai/openhuman"}
-{"time":"2026-05-28T01:21:46.821Z","level":"info","message":"processed can1357/oh-my-pi"}
-{"time":"2026-05-28T01:21:47.258Z","level":"info","message":"processed anthropics/financial-services"}
-{"time":"2026-05-28T01:21:47.774Z","level":"info","message":"processed CloakHQ/CloakBrowser"}
-{"time":"2026-05-28T01:21:48.193Z","level":"info","message":"processed mattpocock/skills"}
-{"time":"2026-05-28T01:21:48.712Z","level":"info","message":"processed warpdotdev/warp"}
-{"time":"2026-05-28T01:21:49.119Z","level":"info","message":"processed rohitg00/agentmemory"}
-{"time":"2026-05-28T01:21:49.592Z","level":"info","message":"processed 1jehuang/jcode"}
-{"time":"2026-05-29T01:30:31.010Z","level":"info","message":"trend run started, limit=10"}
-{"time":"2026-05-29T01:30:32.523Z","level":"info","message":"processed Lum1104/Understand-Anything"}
-{"time":"2026-05-29T01:30:32.779Z","level":"info","message":"processed colbymchenry/codegraph"}
-{"time":"2026-05-29T01:30:33.029Z","level":"info","message":"processed rohitg00/ai-engineering-from-scratch"}
-{"time":"2026-05-29T01:30:33.341Z","level":"info","message":"processed anthropics/knowledge-work-plugins"}
-{"time":"2026-05-29T01:30:33.600Z","level":"info","message":"processed harry0703/MoneyPrinterTurbo"}
-{"time":"2026-05-29T01:30:33.918Z","level":"info","message":"processed presenton/presenton"}
-{"time":"2026-05-29T01:30:34.157Z","level":"info","message":"processed hardikpandya/stop-slop"}
-{"time":"2026-05-29T01:30:34.432Z","level":"info","message":"processed ruvnet/RuView"}
-{"time":"2026-05-29T01:30:34.710Z","level":"info","message":"processed mukul975/Anthropic-Cybersecurity-Skills"}
-{"time":"2026-05-29T01:30:35.054Z","level":"info","message":"processed cursor/plugins"}
-{"time":"2026-05-29T01:30:35.384Z","level":"info","message":"processed anthropics/financial-services"}
-{"time":"2026-05-29T01:30:35.679Z","level":"info","message":"processed CloakHQ/CloakBrowser"}
-{"time":"2026-05-29T01:30:35.990Z","level":"info","message":"processed rohitg00/agentmemory"}
-{"time":"2026-05-29T01:30:36.313Z","level":"info","message":"processed mattpocock/skills"}
-{"time":"2026-05-29T01:30:36.625Z","level":"info","message":"processed Imbad0202/academic-research-skills"}
-{"time":"2026-05-29T01:30:36.955Z","level":"info","message":"processed decolua/9router"}
-{"time":"2026-05-29T01:30:37.235Z","level":"info","message":"processed soxoj/maigret"}
+{"time":"2026-05-27T02:27:03.952Z","level":"info","message":"trend run started, limit=10"}
+{"time":"2026-05-27T02:27:07.396Z","level":"info","message":"processed colbymchenry/codegraph"}
+{"time":"2026-05-27T02:27:08.201Z","level":"info","message":"processed Lum1104/Understand-Anything"}
+{"time":"2026-05-27T02:27:09.071Z","level":"info","message":"processed rohitg00/ai-engineering-from-scratch"}
+{"time":"2026-05-27T02:27:09.809Z","level":"info","message":"processed tinyhumansai/openhuman"}
+{"time":"2026-05-27T02:27:10.641Z","level":"info","message":"processed Imbad0202/academic-research-skills"}
+{"time":"2026-05-27T02:27:11.399Z","level":"info","message":"processed ruvnet/RuView"}
+{"time":"2026-05-27T02:27:12.216Z","level":"info","message":"processed HKUDS/ViMax"}
+{"time":"2026-05-27T02:27:12.970Z","level":"info","message":"processed rohitg00/agentmemory"}
+{"time":"2026-05-27T02:27:13.899Z","level":"info","message":"processed can1357/oh-my-pi"}
+{"time":"2026-05-27T02:27:14.835Z","level":"info","message":"processed NVlabs/Sana"}
+{"time":"2026-05-27T02:27:15.541Z","level":"info","message":"processed mattpocock/skills"}
+{"time":"2026-05-27T02:27:16.404Z","level":"info","message":"processed anthropics/financial-services"}
+{"time":"2026-05-27T02:27:17.172Z","level":"info","message":"processed CloakHQ/CloakBrowser"}
+{"time":"2026-05-27T02:27:17.981Z","level":"info","message":"processed soxoj/maigret"}
+{"time":"2026-05-27T02:27:18.701Z","level":"info","message":"processed TauricResearch/TradingAgents"}
+{"time":"2026-05-27T02:27:19.400Z","level":"info","message":"processed multica-ai/andrej-karpathy-skills"}
+{"time":"2026-05-29T04:10:18.420Z","level":"info","message":"trend run started, limit=10"}
+{"time":"2026-05-29T04:10:21.244Z","level":"info","message":"processed Lum1104/Understand-Anything"}
+{"time":"2026-05-29T04:10:21.995Z","level":"info","message":"processed colbymchenry/codegraph"}
+{"time":"2026-05-29T04:10:22.543Z","level":"info","message":"processed rohitg00/ai-engineering-from-scratch"}
+{"time":"2026-05-29T04:10:22.658Z","level":"warn","message":"created fallback anthropics/knowledge-work-plugins: 403 rate limit exceeded: https://api.github.com/repos/anthropics/knowledge-work-plugins"}
+{"time":"2026-05-29T04:10:22.773Z","level":"warn","message":"created fallback harry0703/MoneyPrinterTurbo: 403 rate limit exceeded: https://api.github.com/repos/harry0703/MoneyPrinterTurbo"}
+{"time":"2026-05-29T04:10:22.950Z","level":"warn","message":"created fallback presenton/presenton: 403 rate limit exceeded: https://api.github.com/repos/presenton/presenton"}
+{"time":"2026-05-29T04:10:23.063Z","level":"warn","message":"created fallback hardikpandya/stop-slop: 403 rate limit exceeded: https://api.github.com/repos/hardikpandya/stop-slop"}
+{"time":"2026-05-29T04:10:23.175Z","level":"warn","message":"reused cached ruvnet/RuView: 403 rate limit exceeded: https://api.github.com/repos/ruvnet/RuView"}
+{"time":"2026-05-29T04:10:23.290Z","level":"warn","message":"created fallback mukul975/Anthropic-Cybersecurity-Skills: 403 rate limit exceeded: https://api.github.com/repos/mukul975/Anthropic-Cybersecurity-Skills"}
+{"time":"2026-05-29T04:10:23.474Z","level":"warn","message":"created fallback cursor/plugins: 403 rate limit exceeded: https://api.github.com/repos/cursor/plugins"}
+{"time":"2026-05-29T04:10:23.589Z","level":"warn","message":"reused cached anthropics/financial-services: 403 rate limit exceeded: https://api.github.com/repos/anthropics/financial-services"}
+{"time":"2026-05-29T04:10:23.703Z","level":"warn","message":"reused cached CloakHQ/CloakBrowser: 403 rate limit exceeded: https://api.github.com/repos/CloakHQ/CloakBrowser"}
+{"time":"2026-05-29T04:10:23.817Z","level":"warn","message":"reused cached rohitg00/agentmemory: 403 rate limit exceeded: https://api.github.com/repos/rohitg00/agentmemory"}
+{"time":"2026-05-29T04:10:24.000Z","level":"warn","message":"reused cached mattpocock/skills: 403 rate limit exceeded: https://api.github.com/repos/mattpocock/skills"}
+{"time":"2026-05-29T04:10:24.113Z","level":"warn","message":"reused cached Imbad0202/academic-research-skills: 403 rate limit exceeded: https://api.github.com/repos/Imbad0202/academic-research-skills"}
+{"time":"2026-05-29T04:10:24.227Z","level":"warn","message":"created fallback decolua/9router: 403 rate limit exceeded: https://api.github.com/repos/decolua/9router"}
+{"time":"2026-05-29T04:10:24.340Z","level":"warn","message":"reused cached soxoj/maigret: 403 rate limit exceeded: https://api.github.com/repos/soxoj/maigret"}

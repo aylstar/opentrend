@@ -7,18 +7,18 @@
   "publishedAt": "2026-05-26T10:02:57.000Z",
   "id": "product-hunt-664f4a3f",
   "slug": "product-hunt-664f4a3f",
-  "content": "Most dogs left alone for four or more hours show measurable stress responses. Most apps respond with playlists. Pawse.ai is an acoustic regulation system for dogs. It plays scientifically structured audio through your Apple TV or iPad while you're out, frequencies and patterns calibrated for canine hearing, not human preference. You start and stop it from your phone, anywhere. BETA TestFlight links live on https://pawse.ai Five modes: Sleep, Home Alone, Loud Noise, Travel, and Vet Visit.",
-  "fetchedAt": "2026-05-28T01:21:55.908Z",
+  "content": "An acoustic regulation system for dogs Discussion | Link",
+  "fetchedAt": "2026-05-29T04:11:47.897Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
   "rank": 14,
-  "contentStatus": "article-extracted",
+  "contentStatus": "fetch-failed",
   "chineseTitle": "波斯.ai",
   "chineseSummary": "狗的声音调节系统关联",
-  "chineseContent": "大多数狗单独呆四个小时或更长时间都会表现出明显的压力反应。大多数应用程序都会以播放列表进行响应。 Pawse.ai 是一种狗的声音调节系统。当你外出时，它会通过你的 Apple TV 或 iPad 播放科学结构的音频，频率和模式是针对犬类听力而不是人类偏好进行校准的。您可以随时随地通过手机启动和停止它。 BETA TestFlight 链接位于 https://pawse.ai 五种模式：睡眠、独自在家、大声喧哗、旅行和兽医就诊。",
+  "chineseContent": "狗的声音调节系统关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

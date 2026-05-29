@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fc7035cb4f",
+  "slug": "weibo-周深实体专辑销售额破5000万",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "周深实体专辑销售额破5000万",
+  "summary": "微博热榜第 20 位：周深实体专辑销售额破5000万，当前热度为 45万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%AE%9E%E4%BD%93%E4%B8%93%E8%BE%91%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B45000%E4%B8%87%23",
+  "hotValue": "45万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 12:12:49",
+  "fetchedAt": "2026-05-29T04:13:40.159Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
