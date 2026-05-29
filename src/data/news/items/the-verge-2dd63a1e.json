@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+  "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes […]",
+  "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+  "publishedAt": "2026-05-28T20:14:07.000Z",
+  "id": "the-verge-2dd63a1e",
+  "slug": "the-verge-2dd63a1e",
+  "content": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes with a feature Microsoft calls “progressive disclosure.” That means Copilot will present you with tools and controls based on your prompt, instead of showing a bunch of options at once. You can now format your text directly inside Copilot’s upgraded prompt box as well, which will expand to fit everything you type or paste in. [Media: https://www.youtube.com/watch?v=ACiJFw5Rr6k] Google similarly launched a big design update for its Gemini AI app last week, allowing the chatbot to structure its responses based on your prompt. Inside Microsoft 365 apps, Copilot opens within a side panel, where it can answer questions, or suggest and make changes to your document. You can also open up a chat window from within a paragraph, spreadsheet cell, or slide.",
+  "fetchedAt": "2026-05-29T01:30:53.519Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Microsoft 365 Copilot 速度提升且设计更简洁",
+  "chineseSummary": "微软正在推出 Microsoft 365 Copilot 的改进版本，提供更简洁的设计，该公司声称加载速度提高了一倍。微软表示，作为本次更新的一部分，Copilot 将提供更可靠、更结构化、更易于扫描的响应。重新设计正在桌面和移动设备上推出，[...]",
+  "chineseContent": "微软正在推出 Microsoft 365 Copilot 的改进版本，提供更简洁的设计，该公司声称加载速度提高了一倍。微软表示，作为本次更新的一部分，Copilot 将提供更可靠、更结构化、更易于扫描的响应。此次重新设计正在桌面和移动设备上推出，并附带了微软称之为“渐进式披露”的功能。这意味着 Copilot 将根据您的提示向您提供工具和控件，而不是一次显示一堆选项。现在，您还可以直接在 Copilot 升级后的提示框中设置文本格式，该提示框将扩展以适合您输入或粘贴的所有内容。 [媒体：https://www.youtube.com/watch?v=ACiJFw5Rr6k] 谷歌上周同样为其 Gemini AI 应用程序推出了重大设计更新，允许聊天机器人根据您的提示构建其响应。在 Microsoft 365 应用程序中，Copilot 在侧面板中打开，可以在其中回答问题，或建议并对文档进行更改。您还可以从段落、电子表格单元格或幻灯片中打开聊天窗口。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

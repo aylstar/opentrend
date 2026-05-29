@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures slide as Wall Street braces for US-Iran update",
+  "summary": "US stock futures edged up as Wall Street cheered Dell's earnings and awaited an official update on US negotiations with Iran.",
+  "url": "https://finance.yahoo.com/news/live/stock-market-today-friday-may-29-222720064.html?.tsrc=rss",
+  "publishedAt": "2026-05-28T22:27:20.000Z",
+  "id": "yahoo-finance-34c8e3df",
+  "slug": "yahoo-finance-34c8e3df",
+  "content": "US stock futures edged down despite Dell's earnings report as Wall Street awaited an official update on US negotiations with Iran. Futures attached to the Dow Jones Industrial Average (YM=F) and the benchmark S&P 500 (ES=F) slipped roughly 0.1%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) lowered 0.3%. After the bell, Dell’s (DELL) results blew past investors’ expectations, lifting its stock close to 40%. The company issued an upbeat outlook, indicating the rapid expansion of data centers amid the AI boom would continue to drive demand for its servers, which run on Nvidia (NVDA) chips. In day trading, stocks rose, with the S&P 500 (^GSPC) and Nasdaq (^IXIC) touching record highs, as confidence in the AI trade and hopes of easing global tensions boosted sentiment. Since Trump signaled last week that the US is in the “final stages” of talks with Iran, markets have largely been upbeat. The trend continued this week, with the S&P 500 and Nasdaq hitting record highs three days in a row. An official update on the negotiations, however, remains elusive, even as reports circulate of a deal for a ceasefire extension reaching Trump’s desk. Markets are eager for relief on the US-Iran war front as the closure of the Strait of Hormuz exacerbates rapidly rising prices and drums up concerns about the Federal Reserve’s next moves on interest rates.",
+  "fetchedAt": "2026-05-29T01:30:53.520Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌，华尔街为美国-伊朗局势更新做好准备",
+  "chineseSummary": "由于华尔街对戴尔的财报欢呼雀跃，并等待美国与伊朗谈判的官方最新消息，美国股指期货小幅上涨。",
+  "chineseContent": "尽管戴尔发布了盈利报告，但由于华尔街等待美国与伊朗谈判的官方最新消息，美国股指期货仍小幅下跌。道琼斯工业平均指数 (YM=F) 和基准标准普尔 500 指数 (ES=F) 的期货下跌约 0.1%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货下跌 0.3%。盘后，戴尔 (DELL) 业绩超出投资者预期，股价上涨近 40%。该公司发布了乐观的前景，表明人工智能热潮中数据中心的快速扩张将继续推动对其运行英伟达（NVDA）芯片的服务器的需求。在日内交易中，股市上涨，标准普尔 500 指数 (^GSPC) 和纳斯达克指数 (^IXIC) 触及历史新高，因为对人工智能行业的信心和缓解全球紧张局势的希望提振了市场情绪。自特朗普上周表示美国与伊朗的谈判已进入“最后阶段”以来，市场基本持乐观态度。本周这一趋势仍在延续，标准普尔 500 指数和纳斯达克指数连续三天创下历史新高。然而，尽管有报道称延长停火协议已送达特朗普办公桌，但有关谈判的官方最新进展仍然难以捉摸。由于霍尔木兹海峡的关闭加剧了物价的快速上涨，并引发了人们对美联储下一步利率举措的担忧，市场迫切希望美伊战争局势得到缓解。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

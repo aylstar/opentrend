@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Claude’s new model is more ‘honest’ when it messes up",
+  "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+  "publishedAt": "2026-05-28T17:00:00.000Z",
+  "id": "the-verge-1bba697d",
+  "slug": "the-verge-1bba697d",
+  "content": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model’s “honesty.” According to Anthropic, it trains “all [its] models to be honest — for instance, to avoid making claims that they can’t support.” But it notes that “a general problem with AI models is that they sometimes jump to conclusions, confidently presenting their work as making progress despite thin evidence.” The AI lab claims that early testers have found that Opus 4.8 “is more likely to flag uncertainties about its work and less likely to make unsupported claims.” In the company’s evaluations, Opus 4.8 is “around 4x less likely than its predecessor to allow flaws in code it’s written to pass unremarked.” In addition to the honesty improvements, with Opus 4.8, users can direct the amount of effort Claude puts into a task. Higher-effort responses will use more tokens, giving users the option of lower-effort responses if they don’t want to burn through their rate limits as quickly. Anthropic is also launching a feature called “dynamic workflows” in research preview, which the company says will let Claude “take on even bigger tasks.” With dynamic workflows, “Claude can plan the work and then run hundreds of parallel subagents in a single session (and with Opus 4.8, the agents can run for even longer). It then verifies its outputs before reporting back to the user.”",
+  "fetchedAt": "2026-05-29T01:30:53.520Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克劳德的新模型在混乱时更加“诚实”",
+  "chineseSummary": "Anthropic 将于周四发布 Claude Opus 4.8，该公司正在宣传该模型的“诚实”。根据 Anthropic 的说法，它训练“所有[其]模型都是诚实的——例如，避免做出他们无法支持的主张。”但它指出，“人工智能模型的一个普遍问题是它们有时会草率下结论，[…]",
+  "chineseContent": "Anthropic 将于周四发布 Claude Opus 4.8，该公司正在宣传该模型的“诚实”。根据 Anthropic 的说法，它训练“所有[其]模型都要诚实——例如，避免做出他们无法支持的主张。”但它指出，“人工智能模型的一个普遍问题是，它们有时会草率下结论，尽管证据不足，却自信地表示自己的工作正在取得进展。” AI 实验室声称，早期测试人员发现 Opus 4.8“更有可能标记其工作的不确定性，并且不太可能提出未经证实的主张。”在该公司的评估中，Opus 4.8“允许其编写的代码中的缺陷未被注意到的可能性比其前身低约 4 倍”。除了诚实性方面的改进之外，通过 Opus 4.8，用户还可以指示 Claude 在任务中投入的精力。较高努力的响应将使用更多的代币，如果用户不想很快耗尽速率限制，则可以选择较低努力的响应。 Anthropic 还在研究预览中推出了一项名为“动态工作流程”的功能，该公司表示，该功能将使 Claude “承担更大的任务”。借助动态工作流程，“Claude 可以规划工作，然后在单个会话中运行数百个并行子代理（使用 Opus 4.8，代理可以运行更长时间）。然后在向用户报告之前验证其输出。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

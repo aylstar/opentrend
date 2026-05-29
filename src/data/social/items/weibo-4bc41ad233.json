@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4bc41ad233",
+  "slug": "weibo-全职高手",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "全职高手",
+  "summary": "微博热榜第 20 位：全职高手，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 09:31:02",
+  "fetchedAt": "2026-05-29T01:31:40.483Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

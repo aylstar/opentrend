@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b2c0b33c38",
+  "slug": "weibo-宋茜竟然是李佳琦超粉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "宋茜竟然是李佳琦超粉",
+  "summary": "微博热榜第 24 位：宋茜竟然是李佳琦超粉，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%AB%9F%E7%84%B6%E6%98%AF%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%B6%85%E7%B2%89%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 09:31:02",
+  "fetchedAt": "2026-05-29T01:31:40.483Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7e1c464ba4",
+  "slug": "weibo-claudeopus4-8发布",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "ClaudeOpus4.8发布",
+  "summary": "微博热榜第 48 位：ClaudeOpus4.8发布，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23ClaudeOpus4.8%E5%8F%91%E5%B8%83%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 09:31:02",
+  "fetchedAt": "2026-05-29T01:31:40.483Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

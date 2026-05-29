@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "AgenticCalling AI",
+  "summary": "Give your AI the power to make phone calls Discussion | Link",
+  "url": "https://www.producthunt.com/products/agenticcalling-ai",
+  "publishedAt": "2026-05-26T10:43:30.000Z",
+  "id": "product-hunt-b2e4ee8e",
+  "slug": "product-hunt-b2e4ee8e",
+  "content": "Give your AI a dedicated phone number and the power to make calls. AgenticCalling lets Claude, ChatGPT, OpenClaw or any custom agent execute unscripted, goal-oriented calls. We handle the messy infra - Numbers, A2P, IVRs, voicemails, & retries. Your agent dials out, navigates conversations, and returns clean JSON data. Built for action: rate shopping, negotiations, & real-world execution. Just say: “Hey Claude, call my mom at +1-786786786 and tell her I love her!”",
+  "fetchedAt": "2026-05-29T01:30:53.519Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "代理呼叫 AI",
+  "chineseSummary": "给你的人工智能打电话的能力 讨论 |关联",
+  "chineseContent": "为您的人工智能提供专用的电话号码和拨打电话的能力。 AgenticCalling 允许 Claude、ChatGPT、OpenClaw 或任何自定义代理执行无脚本、面向目标的呼叫。我们处理混乱的基础设施 - 号码、A2P、IVR、语音邮件和重试。您的代理拨出、导航对话并返回干净的 JSON 数据。专为行动而打造：定价购物、谈判和现实世界的执行。只需说：“嘿，克劳德，给我妈妈打电话+1-786786786，告诉她我爱她！”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

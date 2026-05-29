@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal",
+  "summary": "Billionaire says the arrangement, described in IPO filings as a three-year agreement, only lasts for 180 days",
+  "url": "https://www.ft.com/content/7df0906c-6d9b-4440-b94e-65af0a785f7b",
+  "publishedAt": "2026-05-28T19:17:18.000Z",
+  "id": "financial-times-d762bea",
+  "slug": "financial-times-d762bea",
+  "content": "Billionaire says the arrangement, described in IPO filings as a three-year agreement, only lasts for 180 days",
+  "fetchedAt": "2026-05-29T01:30:53.525Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "马斯克的推文削弱了 SpaceX 关于 Anthropic 数据中心交易的说法",
+  "chineseSummary": "亿万富翁表示，IPO 文件中描述的为期三年的协议仅持续 180 天",
+  "chineseContent": "亿万富翁表示，IPO 文件中描述的为期三年的协议仅持续 180 天",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

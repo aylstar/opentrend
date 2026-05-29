@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8c2121f7bb",
+  "slug": "weibo-金价又跌麻了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "金价又跌麻了",
+  "summary": "微博热榜第 12 位：金价又跌麻了，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 09:31:02",
+  "fetchedAt": "2026-05-29T01:31:40.482Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

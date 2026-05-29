@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Disney says US regulator aims to ‘suppress speech’ with licence review",
+  "summary": "FCC has ordered the ABC owner to reapply for broadcast permissions after clash with Trump administration",
+  "url": "https://www.ft.com/content/cb33ed1a-28c2-4398-b688-71c843d91582",
+  "publishedAt": "2026-05-29T00:50:23.000Z",
+  "id": "financial-times-6a6db004",
+  "slug": "financial-times-6a6db004",
+  "content": "FCC has ordered the ABC owner to reapply for broadcast permissions after clash with Trump administration",
+  "fetchedAt": "2026-05-29T01:30:53.526Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 22,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "迪士尼称美国监管机构旨在通过许可审查“压制言论”",
+  "chineseSummary": "在与特朗普政府发生冲突后，美国联邦通信委员会 (FCC) 已命令美国广播公司 (ABC) 所有者重新申请广播许可",
+  "chineseContent": "在与特朗普政府发生冲突后，美国联邦通信委员会 (FCC) 已命令美国广播公司 (ABC) 所有者重新申请广播许可",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

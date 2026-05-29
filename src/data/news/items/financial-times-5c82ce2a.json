@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation",
+  "summary": "New round values Claude AI maker at $965bn including the latest money",
+  "url": "https://www.ft.com/content/fd0aec4a-50d1-4594-b489-7420bd0b4268",
+  "publishedAt": "2026-05-28T23:36:11.000Z",
+  "id": "financial-times-5c82ce2a",
+  "slug": "financial-times-5c82ce2a",
+  "content": "New round values Claude AI maker at $965bn including the latest money",
+  "fetchedAt": "2026-05-29T01:30:53.525Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI"
+  ],
+  "rank": 18,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Anthropic 敲定 650 亿美元融资交易，估值超越 OpenAI",
+  "chineseSummary": "新一轮融资对 Claude AI 制造商的估值为 9650 亿美元，包括最新资金",
+  "chineseContent": "新一轮融资对 Claude AI 制造商的估值为 9650 亿美元，包括最新资金",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

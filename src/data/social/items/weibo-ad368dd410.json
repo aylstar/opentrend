@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ad368dd410",
+  "slug": "weibo-姜乘澜眼镜妆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "姜乘澜眼镜妆",
+  "summary": "微博热榜第 8 位：姜乘澜眼镜妆，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%9C%BC%E9%95%9C%E5%A6%86%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-05-29 09:31:02",
+  "fetchedAt": "2026-05-29T01:31:40.482Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
