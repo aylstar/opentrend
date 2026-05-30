@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+  "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now Arm has followed […]",
+  "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+  "publishedAt": "2026-05-29T23:03:29.000Z",
+  "id": "the-verge-727af367",
+  "slug": "the-verge-727af367",
+  "content": "It’s the world’s worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted “A new era of PC” earlier today, and now Arm has followed up with an identical post. All three posts include coordinates pointing to where Computex is hosted in Taipei. Nvidia is holding a Computex keynote in Taipei at 8PM PT / 11PM ET on Sunday night, where it’s rumored to be announcing its new N1 and N1x laptop chips. [Media: https://twitter.com/Windows/status/2060390712567300176] [Media: https://twitter.com/NVIDIAGeForce/status/2060390710759612662] [Media: https://twitter.com/Arm/status/2060483398746214837] These Arm-powered Nvidia processors have been long-rumored, with reports earlier this year suggesting that both Lenovo and Dell have been preparing new laptops with the N1X chips. We first heard rumors about Nvidia’s laptop processors in 2023, and Dell CEO Michael Dell hinted at the possibility of an AI PC with Nvidia during an interview in 2024. Nvidia’s entry into Windows on Arm will mean Qualcomm will no longer have an exclusive license for Microsoft’s Windows 11 Arm variant of its operating system. That’s good news for laptop competition, even if Qualcomm is trying to keep entry-level laptops affordable with its new Snapdragon C platform.",
+  "fetchedAt": "2026-05-30T01:26:09.544Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Nvidia、微软和 Arm 都在宣传 Nvidia 的新型 N1X 笔记本电脑处理器",
+  "chineseSummary": "Nvidia 即将在本周末的 Computex 上宣布自己的基于 Arm 的笔记本电脑芯片，这是世界上最保守的秘密，而现在微软、Nvidia 和 Arm 都在公开嘲笑这一消息。今天早些时候，X 上的 Windows 和 Nvidia GeForce 帐户都发布了“PC 新时代”，现在 Arm 也紧随其后 [...]",
+  "chineseContent": "Nvidia 即将在本周末的 Computex 上发布自己的基于 Arm 的笔记本电脑芯片，这是世界上最保守的秘密，而现在微软、Nvidia 和 Arm 都在公开嘲笑这一消息。今天早些时候，X 上的 Windows 和 Nvidia GeForce 帐户都发布了“PC 新时代”，现在 Arm 也跟进了同样的帖子。所有三篇文章都包含指向台北电脑展举办地的坐标。 Nvidia 将于周日晚上太平洋时间晚上 8 点/东部时间晚上 11 点在台北举办 Computex 主题演讲，据传该公司将在会上宣布推出新的 N1 和 N1x 笔记本电脑芯片。 [媒体：https://twitter.com/Windows/status/2060390712567300176] [媒体：https://twitter.com/NVIDIAGeForce/status/2060390710759612662] [媒体：https://twitter.com/Arm/status/2060483398746214837] 这些基于 Arm 的 Nvidia 处理器已传闻已久，今年早些时候有报道称联想和戴尔一直在准备配备 N1X 芯片的新笔记本电脑。我们第一次听到有关 Nvidia 笔记本电脑处理器的传闻是在 2023 年，戴尔首席执行官迈克尔·戴尔 (Michael Dell) 在 2024 年接受采访时暗示了与 Nvidia 合作推出 AI PC 的可能性。Nvidia 进入 Windows on Arm 将意味着高通将不再拥有微软 Windows 11 Arm 操作系统变体的独家许可。这对于笔记本电脑竞争来说是个好消息，即使高通试图通过其新的 Snapdragon C 平台保持入门级笔记本电脑的价格实惠。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

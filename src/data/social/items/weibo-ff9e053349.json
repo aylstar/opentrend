@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ff9e053349",
+  "slug": "weibo-欧冠",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "欧冠",
+  "summary": "微博热榜第 16 位：欧冠，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.099Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

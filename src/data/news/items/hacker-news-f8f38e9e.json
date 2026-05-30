@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Shift will clean homes for free to train future robots",
+  "summary": "81 points · 107 comments",
+  "content": "AI training startup Shift wants to clean your home for free. The catch — because, despite what its website says, there’s always a catch — is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on Thursday, explaining that the value of the training data generated from the cleanings is more than enough to fund the service. As its website puts it: “You get a spotless apartment. We get training data. Everyone wins.” A promotional video shows a cleaner in a crisp white uniform and awkward-looking hat (more on that later) washing windows, mopping and vacuuming floors, scrubbing dishes, and wiping down counters. According to Shift’s co-CEO and co-founder Bercan Kilic, this “magic hat” is what records the work. Peak fashion it is not, but it does contain a camera that captures footage from the cleaner’s point of view.&nbsp; [Media: https://twitter.com/joinshiftX/status/2060044783519735987?s=20] Footage from inside your home is, of course, what you’re paying for the cleaning service with. On its website, Shift says customers’ “privacy is fully protected,” with sensitive details like names, faces, or personal information from screens and ID cards blurred and anonymized before being used for AI training. Shift says its cleaners are also vetted by its partners, though stresses they are not Shift employees. “Every home cleaned today lays the groundwork for a home that cleans itself tomorrow,” the company says in the video. As it happens, the dirtier the better. An FAQ on the company’s website says “more challenging cleaning environments can be especially useful.” There are limits, however, and cleaners “may decline any specific task they are not comfortable performing.” The service is initially only available in New York, but Kilic says it will be available “very soon” in San Francisco, London, Zurich, and Munich. The free cleanings are only available for a “limited time,” but the model fits within a growing market for recordings of human tasks that can be used to train AI systems and robots. Shift says it already pays tens of thousands of people across 15 countries to record their activities through its app.&nbsp; Cleaning may only be the start. Shift’s video says it eventually plans to move into other areas like plumbing, cooking, and building.&nbsp;",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+  "publishedAt": "2026-05-29T19:16:32.000Z",
+  "points": 81,
+  "id": "hacker-news-f8f38e9e",
+  "slug": "hacker-news-f8f38e9e",
+  "fetchedAt": "2026-05-30T01:26:09.541Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Shift将免费打扫房屋以训练未来机器人",
+  "chineseSummary": "81 分 · 107 条评论",
+  "chineseContent": "人工智能培训初创公司 Shift 希望免费清洁你的家。其亮点在于，无论其网站如何描述，总有一个亮点是，它将记录清洁工擦洗、吸尘、除尘、整理和清洗的过程，并使用这些镜头来训练机器人。 Shift 周四在社交媒体上宣布了这一不寻常的优惠，并解释说，清理过程中产生的培训数据的价值足以为该服务提供资金。正如其网站所说：“你会得到一间一尘不染的公寓。我们得到训练数据。每个人都赢了。”一段宣传视频显示，一名清洁工穿着清爽的白色制服，戴着看起来很尴尬的帽子（稍后会详细介绍），清洗窗户、拖地和吸尘、擦洗碗碟以及擦拭柜台。据 Shift 联合首席执行官兼联合创始人 Bercan Kilic 介绍，这顶“魔法帽”就是记录工作的东西。它不是巅峰时尚，但它确实包含一个摄像头，可以从清洁工的角度捕捉镜头。  [媒体：https://twitter.com/joinshiftX/status/2060044783519735987?s=20]当然，您家中的视频就是您支付清洁服务费用的费用。 Shift 在其网站上表示，客户的“隐私受到充分保护”，屏幕和身份证上的姓名、面孔或个人信息等敏感细节在用于人工智能训练之前会经过模糊处理和匿名处理。 Shift 表示，其清洁工也经过其合作伙伴的审查，但强调他们不是 Shift 员工。该公司在视频中表示：“今天清洁的每个家庭都为明天自我清洁的家庭奠定了基础。”事实上，越脏越好。该公司网站上的常见问题解答称“更具挑战性的清洁环境可能特别有用。”然而，这是有限制的，清洁工“可能会拒绝他们不舒服的任何特定任务。”这",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

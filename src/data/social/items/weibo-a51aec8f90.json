@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a51aec8f90",
+  "slug": "weibo-窦靖童完全王菲",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "窦靖童完全王菲",
+  "summary": "微博热榜第 48 位：窦靖童完全王菲，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%AE%8C%E5%85%A8%E7%8E%8B%E8%8F%B2%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.100Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

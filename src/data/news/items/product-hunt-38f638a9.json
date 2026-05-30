@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Integuru",
+  "summary": "Generate fast, reliable APIs for any platform. No browsers Discussion | Link",
+  "url": "https://www.producthunt.com/products/integuru",
+  "publishedAt": "2026-05-28T13:41:04.000Z",
+  "id": "product-hunt-38f638a9",
+  "slug": "product-hunt-38f638a9",
+  "content": "Integuru generates fast, reliable APIs for any platform, without browsers or RPA. API calls complete in ~3 seconds with 99.9%+ success. Most agents today use browser automation to control web apps that lack official APIs, but this is slow and brittle. Integuru replaces browsers entirely and connects directly with the backend. Integuru covers authentication and edge cases. Integrations get auto-healing, API docs, and a 24/7 on-call maintenance team. Each API is generated end-to-end in minutes.",
+  "fetchedAt": "2026-05-30T01:26:09.542Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "因特古鲁",
+  "chineseSummary": "为任何平台生成快速、可靠的 API。没有浏览器讨论 |关联",
+  "chineseContent": "Integuru 为任何平台生成快速、可靠的 API，无需浏览器或 RPA。 API 调用在大约 3 秒内完成，成功率超过 99.9%。如今，大多数代理都使用浏览器自动化来控制缺乏官方 API 的 Web 应用程序，但这速度慢且脆弱。 Integuru 完全取代了浏览器并直接与后端连接。 Integuru 涵盖身份验证和边缘情况。集成获得自动修复、API 文档和 24/7 待命维护团队。每个 API 都是在几分钟内端到端生成的。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

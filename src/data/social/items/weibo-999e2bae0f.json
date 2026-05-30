@@ -1,0 +1,21 @@
+{
+  "id": "weibo-999e2bae0f",
+  "slug": "weibo-上交所重要公告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "上交所重要公告",
+  "summary": "微博热榜第 1 位：上交所重要公告，当前热度为 107万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%BA%A4%E6%89%80%E9%87%8D%E8%A6%81%E5%85%AC%E5%91%8A%23",
+  "hotValue": "107万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.099Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3073d7f9ec",
+  "slug": "weibo-ai产业逻辑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "AI产业逻辑",
+  "summary": "微博热榜第 10 位：AI产业逻辑，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23AI%E4%BA%A7%E4%B8%9A%E9%80%BB%E8%BE%91%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.099Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

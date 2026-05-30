@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "We should be more tired than the model",
+  "summary": "148 points · 131 comments",
+  "content": "Lately, I&rsquo;ve been feeling like I&rsquo;m losing control over the code I write when I work with agentic code generation.\n\nWhen I finish an agentic session, I get all the outward signs of having written code, but none of the internal processes that happen when we write code by hand .\n\nAs a quick primer, the human brain has several types of memory, short-term, working, and long-term. Short-term memory gathers information temporarily and processes it quickly, like RAM. Long-term memory includes things you’ve learned previously and tucked away, like database storage. Working memory takes the information from short-term memory and long-term memory and combines them to synthesize, or process the information and come up with a solution.\n\nWhen we’re working on code, (and by working on, we mean most often reading someone else’s code) all of these processes are going on in our brain simultaneously to try to help us make sense of the programming environment.\n\nIt&rsquo;s not surprising. Code generation, in its default mode, is antithetical to skill retention , particularly because its UX affordances are reminiscent of a slot machine&rsquo;s: you pull the lever, you get a reward (a solution to your coding problem.) In some ways, we&rsquo;ve replaced the social media feed with a stream of tokens, and I look forward to reading those papers in ten years.\n\nIt really does take extra concerted effort to move from just generating answers to using the tool deliberately. One thing Oz suggested when I posted on X that I felt like I came away from an agentic session with a brain fog was rewriting portions of code myself.\n\nInspired by that advice, the paper, thoughts on slowing down , and using AI to write better code more slowly , and Mitchell&rsquo;s adoption journey , I&rsquo;ve been working on using the tool more deliberately and adding friction back into development.\n\nHere&rsquo;s what&rsquo;s worked for me so far:\n\nAll of these negate the supposed speed up effects of LLM-generated code in the short-term by adding friction, and yet, in the longer term, make me better at using the tool, because they solidify my own foundation instead of the foundation models'.\n\nWe should be more tired than the model.",
+  "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+  "publishedAt": "2026-05-29T12:12:16.000Z",
+  "points": 148,
+  "id": "hacker-news-2f343ac4",
+  "slug": "hacker-news-2f343ac4",
+  "fetchedAt": "2026-05-30T01:26:09.542Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我们应该比模特还累",
+  "chineseSummary": "148 分 · 131 条评论",
+  "chineseContent": "最近，当我使用代理代码生成时，我一直感觉自己失去了对所编写代码的控制。\n\n当我完成一次代理会话时，我得到了编写代码的所有外在迹象，但没有得到我们手工编写代码时发生的内部过程。\n\n作为快速入门，人脑有多种类型的记忆：短期记忆、工作记忆和长期记忆。短期记忆会临时收集信息并快速处理它，就像 RAM 一样。长期记忆包括您之前学过并隐藏的内容，例如数据库存储。工作记忆从短期记忆和长期记忆中获取信息，并将它们组合起来合成或处理信息并提出解决方案。\n\n当我们编写代码时（我们所说的“编写”通常指的是阅读别人的代码）所有这些过程都会同时在我们的大脑中进行，以试图帮助我们理解编程环境。\n\n这并不奇怪。默认模式下的代码生成与技能保留是对立的，特别是因为它的用户体验可供性让人想起老虎机：你拉动杠杆，你就会得到奖励（编码问题的解决方案）。在某些方面，我们已经用一系列代币取代了社交媒体源，我期待着十年后阅读这些论文。\n\n从仅仅生成答案到有意识地使用该工具确实需要付出额外的努力。当我在 X 上发帖时，Oz 提出的一件事是我自己重写了部分代码，感觉自己从一次代理会议中摆脱了脑雾。\n\n受到这个建议、这篇论文、关于放慢速度的想法、使用人工智能更慢地编写更好的代码以及米切尔的采用之旅的启发，我一直致力于更谨慎地使用该工具，并在开发中增加摩擦。\n\n到目前为止，这是对我有用的：\n\n所有这些都通过增加摩擦而在短期内否定了 LLM 生成的代码所谓的加速效果，但从长远来看，使我更好地使用该工具，因为它们巩固了我自己的基础而不是基础模型。\n\n我们应该比模特更累。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

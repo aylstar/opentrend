@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ece858026e",
+  "slug": "weibo-vogue晚宴",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "VOGUE晚宴",
+  "summary": "微博热榜第 35 位：VOGUE晚宴，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23VOGUE%E6%99%9A%E5%AE%B4%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.099Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

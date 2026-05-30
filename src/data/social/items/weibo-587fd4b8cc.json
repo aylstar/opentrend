@@ -1,0 +1,21 @@
+{
+  "id": "weibo-587fd4b8cc",
+  "slug": "weibo-歌手-倒数第一竞争激烈",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "歌手 倒数第一竞争激烈",
+  "summary": "微博热榜第 2 位：歌手 倒数第一竞争激烈，当前热度为 76万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B+%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88%23",
+  "hotValue": "76万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.099Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

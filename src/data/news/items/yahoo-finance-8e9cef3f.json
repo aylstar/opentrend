@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock Market Today, May 29: Microsoft Rises as $37 Billion AI Run Rate Highlights Cloud Growth",
+  "summary": "The $37 billion AI run rate gives Microsoft a clearer monetization benchmark, while in-house models could help manage the cost of serving AI demand across Azure and Microsoft 365.",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/05/29/stock-market-today-may-29-microsoft-rises-as-usd37-billion-ai-run-rate-highlights-cloud-growth/?.tsrc=rss",
+  "publishedAt": "2026-05-29T23:48:43.000Z",
+  "id": "yahoo-finance-8e9cef3f",
+  "slug": "yahoo-finance-8e9cef3f",
+  "content": "The $37 billion AI run rate gives Microsoft a clearer monetization benchmark, while in-house models could help manage the cost of serving AI demand across Azure and Microsoft 365.",
+  "fetchedAt": "2026-05-30T01:26:09.545Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 28,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "5 月 29 日今日股市：微软股价上涨，AI 运行率达 370 亿美元，凸显云计算增长",
+  "chineseSummary": "370 亿美元的 AI 运行率为 Microsoft 提供了更清晰的货币化基准，而内部模型可以帮助管理跨 Azure 和 Microsoft 365 满足 AI 需求的成本。",
+  "chineseContent": "370 亿美元的 AI 运行率为 Microsoft 提供了更清晰的货币化基准，而内部模型可以帮助管理跨 Azure 和 Microsoft 365 满足 AI 需求的成本。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

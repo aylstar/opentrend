@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7497bdca61",
+  "slug": "weibo-单依纯含金量",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "单依纯含金量",
+  "summary": "微博热榜第 45 位：单依纯含金量，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%AB%E9%87%91%E9%87%8F%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-05-30 09:17:13",
+  "fetchedAt": "2026-05-30T01:26:52.100Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

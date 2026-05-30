@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+  "summary": "30 points · 5 comments",
+  "content": "Hey everyone, I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412 . It was called Privastead then and it's now renamed to Secluso. John Kaczman found my project from here and has been working on it with me over the last year and half. We've made a lot of improvements to the software, which we would like to share with you: - You can now set this up on your Raspberry Pi in less than 5 minutes with no technical expertise using our easy-to-use GUI deploy tool. We've put together a comprehensive build-your-own guide that walks you through the required steps (you can find a link at the top of the repository README). - We use a customized, minimal OS based on the Yocto project for the camera. - Every part of our stack except for the iOS app has reproducible builds. This includes our Android app, camera/server binaries, deploy tool, and the aforementioned OS. - We've re-designed our mobile app, which is now on the iOS App Store and Google Play store. - We now support UnifiedPush for more privacy-preserving push notifications. Looking forward to seeing what you all think!",
+  "url": "https://github.com/secluso/core",
+  "publishedAt": "2026-05-29T22:32:29.000Z",
+  "points": 30,
+  "id": "hacker-news-91839fba",
+  "slug": "hacker-news-91839fba",
+  "fetchedAt": "2026-05-30T01:26:09.542Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 17,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：开源私人家庭安全摄像头系统（端到端加密）",
+  "chineseSummary": "30 分 · 5 条评论",
+  "chineseContent": "大家好，我之前在 2024 年介绍过一款开源私人家庭安全摄像头，它使用 OpenMLS 进行端到端加密：https://news.ycombinator.com/item?id=42284412 。当时它被称为 Privastead，现在更名为 Secluso。约翰·卡兹曼 (John Kaczman) 从这里找到了我的项目，并在过去一年半的时间里一直与我一起工作。我们对该软件进行了大量改进，希望与您分享： - 您现在可以使用我们易于使用的 GUI 部署工具，在不到 5 分钟的时间内在 Raspberry Pi 上进行设置，无需任何技术专业知识。我们整理了一份全面的构建您自己的指南，引导您完成所需的步骤（您可以在存储库自述文件的顶部找到一个链接）。 - 我们为相机使用基于 Yocto 项目的定制最小操作系统。 - 除了 iOS 应用程序之外，我们堆栈的每个部分都具有可重复的构建。这包括我们的 Android 应用程序、相机/服务器二进制文件、部署工具和上述操作系统。 - 我们重新设计了移动应用程序，现已在 iOS App Store 和 Google Play 商店上架。 - 我们现在支持 UnifiedPush，以提供更多保护隐私的推送通知。期待看到大家的想法！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
