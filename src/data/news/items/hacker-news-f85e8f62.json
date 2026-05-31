@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+  "summary": "23 points · 2 comments",
+  "content": "Built an open JSON Schema for defining AI agent teams. Multi-agent systems are becoming a real deployment pattern — not single assistants, but teams with roles, handoffs, and human checkpoints. But there's no shared way to define one that travels across frameworks. Every implementation is scattered, locked to whichever tool you picked first. Built the schema to fix that. The schema lives at schema.openenvelope.org and is registered in SchemaStore, so if you drop a .envelope.json file in VS Code you get autocomplete and validation without installing anything. It's also on npm as @openenvelope/schema if you want to validate programmatically. The spec covers: agent definitions (role, prompt, model, access policy), supervisor/sub-agent hierarchy, human-in-the-loop gates, pipelines, schedules, and secrets/variables that get injected at deploy time. Access policies let you declare exactly which hosts each agent can call — the runtime enforces this at the network level, not in the prompt. The goal is a portable definition format — define a team once, any compatible runtime can execute it. Similar to how Dockerfiles describe a container without being tied to a specific host. There's a managed runtime at openenvelope.org but the schema is Apache 2.0 and anyone can implement it. Happy to answer questions on any part of the spec — especially interested in feedback from people who've built multi-agent systems and have opinions on what's missing.",
+  "url": "https://openenvelope.org/docs/schema/",
+  "publishedAt": "2026-05-28T20:30:20.000Z",
+  "points": 23,
+  "id": "hacker-news-f85e8f62",
+  "slug": "hacker-news-f85e8f62",
+  "fetchedAt": "2026-05-31T01:33:45.273Z",
+  "score": 66,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 19,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：开放信封——用于定义 AI 代理团队的开放模式",
+  "chineseSummary": "23 分 · 2 条评论",
+  "chineseContent": "构建了一个开放的 JSON 架构来定义 AI 代理团队。多代理系统正在成为一种真正的部署模式——不是单个助手，而是具有角色、切换和人工检查点的团队。但没有一种共享的方法来定义跨框架的方法。每个实现都是分散的，锁定到您首先选择的工具。构建架构来解决这个问题。该架构位于 schema.openenvelope.org 并在 SchemaStore 中注册，因此，如果您在 VS Code 中删除 .envelope.json 文件，您无需安装任何内容即可获得自动完成和验证。如果您想以编程方式进行验证，它也在 npm 上作为 @openenvelope/schema 。该规范涵盖：代理定义（角色、提示、模型、访问策略）、主管/子代理层次结构、人机循环门、管道、时间表以及在部署时注入的秘密/变量。访问策略允许您准确声明每个代理可以调用​​哪些主机 - 运行时在网络级别强制执行此操作，而不是在提示中。目标是一种可移植的定义格式——定义一个团队一次，任何兼容的运行时都可以执行它。类似于 Dockerfile 描述容器而不绑定到特定主机的方式。 openenvelope.org 上有一个托管运行时，但架构是 Apache 2.0，任何人都可以实现它。很乐意回答有关规范任何部分的问题——尤其对构建多代理系统的人的反馈感兴趣，并对缺少的内容有意见。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -8,7 +8,7 @@
   "id": "product-hunt-38f638a9",
   "slug": "product-hunt-38f638a9",
   "content": "Integuru generates fast, reliable APIs for any platform, without browsers or RPA. API calls complete in ~3 seconds with 99.9%+ success. Most agents today use browser automation to control web apps that lack official APIs, but this is slow and brittle. Integuru replaces browsers entirely and connects directly with the backend. Integuru covers authentication and edge cases. Integrations get auto-healing, API docs, and a 24/7 on-call maintenance team. Each API is generated end-to-end in minutes.",
-  "fetchedAt": "2026-05-30T01:26:09.542Z",
+  "fetchedAt": "2026-05-31T01:33:45.274Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,7 +16,7 @@
     "全球",
     "金融"
   ],
-  "rank": 15,
+  "rank": 9,
   "contentStatus": "article-extracted",
   "chineseTitle": "因特古鲁",
   "chineseSummary": "为任何平台生成快速、可靠的 API。没有浏览器讨论 |关联",

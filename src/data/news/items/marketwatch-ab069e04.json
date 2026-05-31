@@ -1,25 +1,24 @@
 {
   "source": "MarketWatch",
   "category": "finance",
-  "originalTitle": "The Iran war costs more than you think — it boosts inflation and threatens stocks",
-  "summary": "Pentagon’s ‘fuzzy math’ impacts prices and your portfolio.",
+  "originalTitle": "Your portfolio can’t afford the real bill for the Iran war",
+  "summary": "The Pentagon claims the conflict has cost $29 billion — but the true cost is much higher and it’s fueling inflation.",
   "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
-  "publishedAt": "2026-05-28T21:58:00.000Z",
+  "publishedAt": "2026-05-30T18:18:00.000Z",
   "id": "marketwatch-ab069e04",
   "slug": "marketwatch-ab069e04",
-  "content": "Pentagon’s ‘fuzzy math’ impacts prices and your portfolio.",
-  "fetchedAt": "2026-05-29T04:11:47.901Z",
+  "content": "The Pentagon claims the conflict has cost $29 billion — but the true cost is much higher and it’s fueling inflation.",
+  "fetchedAt": "2026-05-31T01:33:45.279Z",
   "score": 90,
   "sourceWeight": 84,
   "tags": [
-    "金融",
-    "财经"
+    "金融"
   ],
-  "rank": 22,
+  "rank": 11,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "伊朗战争的代价比你想象的要大——它推高了通货膨胀并威胁到股市",
-  "chineseSummary": "五角大楼的“模糊数学”会影响价格和您的投资组合。",
-  "chineseContent": "五角大楼的“模糊数学”会影响价格和您的投资组合。",
+  "chineseTitle": "你的投资组合无法承担伊朗战争的实际费用",
+  "chineseSummary": "五角大楼声称这场冲突已造成 290 亿美元的损失，但实际成本要高得多，而且还加剧了通货膨胀。",
+  "chineseContent": "五角大楼声称这场冲突已造成 290 亿美元的损失，但实际成本要高得多，而且还加剧了通货膨胀。",
   "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
   "translationStatus": "translated"
 }

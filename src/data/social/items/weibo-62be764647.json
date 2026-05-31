@@ -1,0 +1,21 @@
+{
+  "id": "weibo-62be764647",
+  "slug": "weibo-马刺vs雷霆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "马刺vs雷霆",
+  "summary": "微博热榜第 10 位：马刺vs雷霆，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%88%BAvs%E9%9B%B7%E9%9C%86%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-05-31 09:26:53",
+  "fetchedAt": "2026-05-31T01:34:22.916Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

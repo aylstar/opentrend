@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1b59daf7f4",
+  "slug": "weibo-最强智能是人工",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "最强智能是人工",
+  "summary": "微博热榜第 49 位：最强智能是人工，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E6%99%BA%E8%83%BD%E6%98%AF%E4%BA%BA%E5%B7%A5%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-05-31 09:26:53",
+  "fetchedAt": "2026-05-31T01:34:22.916Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

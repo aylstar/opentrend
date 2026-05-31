@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenRouter raises $113M Series B",
+  "summary": "354 points · 172 comments",
+  "content": "Today we're announcing our $113M Series B, led by CapitalG (opens in new tab) (Alphabet's independent growth fund), with participation from NVentures (opens in new tab) (NVIDIA's venture capital arm), ServiceNow (opens in new tab) Ventures, MongoDB (opens in new tab) Ventures, Snowflake (opens in new tab) Ventures, Databricks (opens in new tab) Ventures, AMP PBC (opens in new tab) , and Pace Capital (opens in new tab) , alongside our existing investors Andreessen Horowitz (opens in new tab) and Menlo Ventures (opens in new tab) .\n\nOver the last six months, weekly volume on OpenRouter has grown from 5 trillion to 25 trillion tokens. We are on pace to process over a quadrillion tokens this year and serve 8M+ developers building across 400+ models. AI is rapidly shifting from experimentation into critical production apps and agents, and that transition requires infrastructure that works reliably at scale, across providers, across modalities, and across use cases. This growth reflects the simple fact that developers love building on OpenRouter.\n\nThe composition of this investor group is deliberate. CapitalG, NVentures, ServiceNow Ventures, MongoDB Ventures, Snowflake Ventures, and Databricks Ventures are more than financial backers; they are the infrastructure and platform companies that enterprises already depend on. Their participation reflects a shared view: as organizations move from single-model pilots to multi-model production systems, they need a routing and gateway layer purpose-built for that complexity.\n\nOpenRouter is that layer. We sit between agents and model providers, handling the routing, reliability, cost optimization, and compliance that production AI demands. The breadth of strategic investors in this round signals that the market has converged on this as a critical piece of the stack.\n\nThe past year has been focused on expanding what OpenRouter can do for production workloads:\n\nWe'll use this funding to continue scaling our infrastructure, deepen enterprise capabilities, and continue to invest in intelligent routing; teams need help finding the right model and provider for every request. We're grateful to our customers, partners, investors, and the developer community building with us as we continue scaling the infrastructure layer for the multi-model AI era.",
+  "url": "https://openrouter.ai/announcements/series-b",
+  "publishedAt": "2026-05-30T17:27:28.000Z",
+  "points": 354,
+  "id": "hacker-news-3725cad2",
+  "slug": "hacker-news-3725cad2",
+  "fetchedAt": "2026-05-31T01:33:45.273Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenRouter 筹集 1.13 亿美元 B 轮融资",
+  "chineseSummary": "354 分 · 172 条评论",
+  "chineseContent": "今天，我们宣布完成 1.13 亿美元的 B 轮融资，由 CapitalG（在新选项卡中打开）（Alphabet 的独立增长基金）牵头，NVentures（在新选项卡中打开）（NVIDIA 的风险投资部门）、ServiceNow（在新选项卡中打开）Ventures、MongoDB（在新选项卡中打开）Ventures、Snowflake（在新选项卡中打开）Ventures、Databricks（在新选项卡中打开）Ventures、AMP PBC 参与（在新选项卡中打开）和 Pace Capital（在新选项卡中打开），以及我们现有的投资者 Andreessen Horowitz（在新选项卡中打开）和 Menlo Ventures（在新选项卡中打开）。\n\n在过去六个月中，OpenRouter 上的每周交易量从 5 万亿个代币增长到 25 万亿个代币。今年我们预计将处理超过 1000 亿个代币，并为构建 400 多个模型的 800 万多个开发者提供服务。人工智能正在迅速从实验转向关键的生产应用程序和代理，而这种转变需要基础设施能够跨提供商、跨模​​式和跨用例可靠地大规模运行。这种增长反映了一个简单的事实：开发人员喜欢在 OpenRouter 上进行构建。\n\n这个投资者群体的构成是经过深思熟虑的。 CapitalG、NVentures、ServiceNow Ventures、MongoDB Ventures、Snowflake Ventures 和 Databricks Ventures 不仅仅是财务支持者；他们是企业已经依赖的基础设施和平台公司。他们的参与反映了一个共同的观点：随着组织从单模型试点转向多模型生产系统，他们需要专门针对这种复杂性构建的路由和网关层。\n\nOpenRouter 就是这一层。我们位于代理和模型提供商之间，处理生产人工智能所需的路由、可靠性、成本优化和合规性。本轮战略投资者的广泛性表明，市场已将其视为其中的关键部分。\n\n过去一年的重点是扩展 OpenRouter 对生产工作负载的功能：\n\n我们将利用这笔资金继续扩展我们的基础设施，深化企业能力，并继续投资于智能路由；团队需要帮助为每个请求找到合适的模型和提供商。在我们继续扩展多模型人工智能时代的基础设施层时，我们感谢我们的客户、合作伙伴、投资者和开发者社区与我们一起建设。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

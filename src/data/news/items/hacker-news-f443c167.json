@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
+  "summary": "113 points · 37 comments",
+  "content": "Plug-in solar panels will be available in the UK soon, letting you generate electricity from your balcony without expensive installation fees or planning permission.\n\nEnter your postcode and house or flat number to see how much energy you could generate, and whether it&rsquo;s likely to be worth it.\n\nWe resolve your postcode against Ordnance Survey data, ray-trace the surrounding buildings from Environment Agency LIDAR, then ask PVGIS for an annual yield given the shading we found. We have no database — your address isn't stored.\n\nPostcode is required. House number or flat is optional — we use it to pinpoint your building for this calculation, not to store your address. Privacy.\n\nGround floor is 0. Higher floors clear more obstructions but also shift the solar peak season.\n\nPick the compass direction the panel will point. South is typically best in the UK; east and west still produce well.\n\nRoughly how much electricity do you use a year? Pick the closest band — the medium default works for most UK homes.\n\nUK rules cap plug-in kits at 800 W inverter output, so most kits sold here are around 0.8 kWp — two panels and a microinverter.\n\n£0 assumes a DIY socket install. Until the plug-in safety standard lands (expected mid-2026), the compliant route is a quick hardwire by a registered electrician — add their cost here if that applies.\n\nDefaults to 0. The Smart Export Guarantee needs an MCS-certified install, which DIY plug-in kits can't get — so most owners earn nothing for exported power, and the value is in what you use yourself. Set a rate only if you have an MCS install.\n\nThese are estimates to help you weigh it up — not financial advice. Real yield and savings vary with the weather, your day-to-day electricity use, and how the kit is installed.\n\nWhat the sun sees from your balcony\n\nGrey is the sky blocked by nearby buildings (LIDAR-derived). Gold arcs trace the sun on midsummer, the equinox, and midwinter. Where a gold arc dips into the grey, the sun is hidden then.\n\nSavings come from the power you use yourself: most plug-in kits can't claim the Smart Export Guarantee (it needs an MCS install), so exported energy is assumed to earn nothing. Self-consumption defaults to 60% (spec §3.7). Time-of-use tariffs use a typical-day model. Refresh quarterly.\n\nTell me when kits arrive in the UK.\n\nPlug-in solar is in regulatory limbo here — the kits available elsewhere in Europe aren't legally for sale in Britain yet. We're tracking the market. Leave your email and we'll let you know when things change.",
+  "url": "https://helios.southlondonscientific.com/",
+  "publishedAt": "2026-05-30T11:08:37.000Z",
+  "points": 113,
+  "id": "hacker-news-f443c167",
+  "slug": "hacker-news-f443c167",
+  "fetchedAt": "2026-05-31T01:33:45.273Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：Helios – 插入式太阳能可以为英国的任何地址发电",
+  "chineseSummary": "113 分 · 37 条评论",
+  "chineseContent": "插入式太阳能电池板即将在英国上市，您可以在阳台上发电，无需昂贵的安装费用或规划许可。\n\n输入您的邮政编码和房屋或公寓号码，看看您可以产生多少能源，以及是否值得。\n\n我们根据地形测量数据解析您的邮政编码，通过环境局激光雷达对周围建筑物进行光线追踪，然后根据我们发现的阴影向 PVGIS 询问年产量。我们没有数据库——您的地址不会被存储。\n\n需要邮政编码。门牌号或公寓是可选的 - 我们用它来精确定位您的建筑物以进行计算，而不是存储您的地址。隐私。\n\n底层为 0。楼层越高，可以清除更多障碍物，但也会改变太阳能高峰季节。\n\n选择面板将指向的罗盘方向。英国南部通常是最好的；东部和西部仍然产量良好。\n\n您一年大约用多少度电？选择最接近的频段——中等默认频段适用于大多数英国家庭。\n\n英国规定插件套件的逆变器输出功率上限为 800 W，因此这里出售的大多数套件的功率约为 0.8 kWp——两个面板和一个微型逆变器。\n\n£0 假设安装 DIY 插座。在插入式安全标准落地（预计 2026 年中期）之前，合规路线是由注册电工进行快速硬连线 - 如果适用，请在此处添加其成本。\n\n默认为 0。智能出口保证需要经过 MCS 认证的安装，这是 DIY 插件套件无法获得的，因此大多数所有者不会从出口电力中获得任何收益，而价值在于您自己使用的电力。仅当您安装了 MCS 时才设置费率。\n\n这些是帮助您权衡的估计，而不是财务建议。实际产量和节省量因天气、日常用电量以及套件的安装方式而异。\n\n太阳从你的阳台看到什么\n\n灰色是被附近建筑物遮挡的天空（源自激光雷达）。仲夏、春分和仲冬时，金色的弧线会追踪太阳。当金色的弧线陷入灰色时，太阳就被隐藏了。\n\n节省的费用来自您自己使用的电力：大多数插件套件无法申请智能出口保证（它需要安装 MCS），因此假设出口能源不会带来任何收益。自耗默认为 60%（规范§3.7）。分时资费使用典型的日模型。每季度刷新一次。\n\n告诉我套件何时到达英国。\n\n插电式太阳能在这里处于监管困境——欧洲其他地方提供的套件尚未在英国合法销售。我们正在跟踪市场。留下您的电子邮件，当情况发生变化时我们会通知您。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

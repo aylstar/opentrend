@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3ad56734c0",
+  "slug": "weibo-巴黎卫冕欧冠冠军",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "巴黎卫冕欧冠冠军",
+  "summary": "微博热榜第 34 位：巴黎卫冕欧冠冠军，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%8D%AB%E5%86%95%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-05-31 09:26:53",
+  "fetchedAt": "2026-05-31T01:34:22.916Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

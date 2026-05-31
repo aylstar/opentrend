@@ -8,16 +8,16 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/yikart/AiToEarn",
   "docsUrl": "https://aitoearn.ai/",
-  "stars": 15781,
-  "forks": 2568,
-  "openIssues": 14,
+  "stars": 17114,
+  "forks": 2734,
+  "openIssues": 20,
   "license": "MIT",
-  "pushedAt": "2026-05-20T12:15:25Z",
-  "updatedAt": "2026-05-21T01:28:14Z",
+  "pushedAt": "2026-05-21T02:55:15Z",
+  "updatedAt": "2026-05-31T01:28:32Z",
   "createdAt": "2025-02-24T08:03:24Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "monthly"
   ],
   "tags": [
     "AI",
@@ -27,15 +27,15 @@
     "安全隐私"
   ],
   "recommendation": 2.7,
-  "readmeExcerpt": "# [Aitoearn：OPC（一人公司）的AI内容营销智能体](https://aitoearn.ai)\n\n<a href=\"https://trendshift.io/repositories/20785\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/20785\" alt=\"yikart%2FAiToEarn | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub stars](https://img.shields.io/github/stars/yikart/AiToEarn?color=fa6470)](https://github.com/yikart/AiToEarn/stargazers)\n[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Required Node.JS 20.18.x](https://img.shields.io/static/v1?label=node&message=20.18.x&logo=node.js&color=3f893e)](https://nodejs.org/about/releases)\n\n简体中文 | [English](README_EN.md) | [日本語](README_JA.md)\n\n**Monetize · Publish · Engage · Create —— 一站式平台。**\n\nAiToEarn 通过 **AI Agent自动化**，帮助 OPC（一人公司）、创作者、品牌与企业在全球主流平台上构建、分发并变现内容。\n\n支持渠道：\n抖音、小红书（Rednote）、快手、哔哩哔哩、视频号、TikTok、YouTube、Facebook、Instagram、Threads、Twitter（X）、Pinterest、LinkedIn\n\n## 🚀 快速使用 AiToEarn（5 种方式）\n\n| 方式 | 适合谁 | 需要部署吗 |\n|------|--------|-----------|\n| [① 打开网站直接用](#use-web) | 所有用户 | ❌ 不需要 |\n| [② 在龙虾 OpenClaw 中用](#use-in-openclaw) | 龙虾用户 | ❌ 不需要 |\n| [③ 在 Claude / Cursor 等 AI 助手中用](#use-in-claude) | AI 工具用户 | ❌ 不需要 |\n| [④ Docker 一键部署](#use-docker) | 想私有化部署的团队 | ✅ 需要服务器 |\n| [⑤ 源码开发](#use-source) | 开发者 | ✅ 需要开发环境 |\n\n> 💡 **方式 ②③④ 都需要先获取 API Key**，请先看 [如何获取 API Key](#get-api-key)。\n\n## 最新动态\n\n- **2026-04-20**: OpenClaw（龙虾）新增 AiToEarn 赚钱支持，可在龙虾中直接接收并执行内容变现任务。\n- **2026-03-26**: [2.1 version](https://www.aitoearn.ai/) — 内容交易市场上线；新增 OpenClaw（龙虾）支持，可在龙虾中直接使用 AiToEarn；新增 MCP 协议支持，可在 Claude、Cursor 等任何支持 MCP 的 Agent 或大模型中使用 AiToEarn。\n- **2026-02-07**: [1.8.0 version](https://www.aitoearn.ai/)，新增线下商户推广解决方案，支持餐厅、零售店、民宿、美容美发、健身房等多种线下业态，将线下推广活动转化为可执行的线上传播任务，通过内容发布与用户参与机制，帮助门店获取更多线上曝光和到店流量。\n- **2025-12-15**: \"All In Agent\" 的开始！我们加入了能够自动内容生成和发布以及一些帮助你操作 Aitoearn 的超级 AI 智能 Agent。[v1.4.3](https://github.com/yikart/AiToEarn/releases/tag/v1.4.3)\n- **2025-11-28**: 支持应用内自动更新。在创作界面新增大量 AI 功能，例如：缩写、扩写、图片生成、视频生成、标签生成等，并支持 Nano Banana Pro。[v1.4.0](https://github.com/yikart/AiToEarn/releases/tag/v1.4.0)\n- **2025-11-12**: 首个开源且可完全使用的版本。[v1.3.2](https://github.com/yikart/AiToEarn/releases/tag/v1.3.2)\n- **2025-09-16**: 首个出海版本，新增支持 Facebook、Instagram、Threads、Twitter、YouTube、TikTok、Pinterest。[v1.0.18](https://github.com/yikart/AiToEarn/releases/tag/v1.0.18)\n- **2025-02-26**: 首个开源版本，初步实现小红书、抖音、快手、视频号视频一键发布。[v0.1.1](https://github.com/yikart/AiToEarn/releases/tag/v0.1.1)\n\n<details>\n  <summary><h2 style=\"display:inline;margin:0\">目录</h2></summary>\n\n  <br/>\n\n  1. [快速使用 AiToEarn（5 种方式）](#-快速使用-aitoearn5-种方式)\n  2. [最新动态](#最新动态)\n  3. [核心功能](#核心功能)\n  4. [如何获取 API Key](#get-api-key)\n  5. [贡献指南](#贡献指南)\n  6. [联系](#联系)\n  7. [推荐](#推荐)\n</details>\n\n## 核心功能\n\nAiToEarn 围绕内容创作者的完整变现链路，提供四大 Agent 能力：\n\n> **Monetize · Publish · Engage · Create**\n\n---\n\n### 💰 Monetize —— 内容赚钱\n\nAiToEarn 最核心的目标：**帮助每一位创作者赚钱**。\n\n创作者可以在平台出售内容以完成商家的推广任务。所有结算以结果为导向，我们提供三种结算模式：\n\n| 结算模式 | 全称 | 含义 |\n|---------|------|------|\n| **CPS** | Cost Per Sale | 按成交额结算 |\n| **CPE** | Cost Per ",
-  "generatedAt": "2026-05-21T01:30:30.341Z",
+  "readmeExcerpt": "# [Aitoearn：OPC（一人公司）的AI内容营销智能体](https://aitoearn.ai)\n\n<a href=\"https://trendshift.io/repositories/20785\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/20785\" alt=\"yikart%2FAiToEarn | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n[![GitHub stars](https://img.shields.io/github/stars/yikart/AiToEarn?color=fa6470)](https://github.com/yikart/AiToEarn/stargazers)\n[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Required Node.JS 20.18.x](https://img.shields.io/static/v1?label=node&message=20.18.x&logo=node.js&color=3f893e)](https://nodejs.org/about/releases)\n\n简体中文 | [English](README_EN.md) | [日本語](README_JA.md)\n\n**Monetize · Publish · Engage · Create —— 一站式平台。**\n\nAiToEarn 通过 **AI Agent自动化**，帮助 OPC（一人公司）、创作者、品牌与企业在全球主流平台上构建、分发并变现内容。\n\n支持渠道：\n抖音、小红书（Rednote）、快手、哔哩哔哩、视频号、TikTok、YouTube、Facebook、Instagram、Threads、Twitter（X）、Pinterest、LinkedIn\n\n## 🚀 快速使用 AiToEarn（5 种方式）\n\n| 方式 | 适合谁 | 需要部署吗 |\n|------|--------|-----------|\n| [① 打开网站直接用](#use-web) | 所有用户 | ❌ 不需要 |\n| [② 在龙虾 OpenClaw 中用](#use-in-openclaw) | 龙虾用户 | ❌ 不需要 |\n| [③ 在 Claude / Cursor 等 AI 助手中用](#use-in-claude) | AI 工具用户 | ❌ 不需要 |\n| [④ Docker 一键部署](#use-docker) | 想私有化部署的团队 | ✅ 需要服务器 |\n| [⑤ 源码开发](#use-source) | 开发者 | ✅ 需要开发环境 |\n\n> 💡 **方式 ②③④ 都需要先获取 API Key**，请先看 [如何获取 API Key](#get-api-key)。\n\n## 最新动态\n\n- **2026-05-21**: [2.4 version](https://github.com/yikart/AiToEarn/releases/tag/v2.4.0) — 草稿生成新增支持 HappyHorse 1.0 和 Seedance 2.0，增强视频/图文草稿批量生成、多模型选择、参考图片/视频、目标平台限制与文案提示词；带来全新界面风格，并增强 Twitter/X 探索与互动能力。\n- **2026-04-20**: OpenClaw（龙虾）新增 AiToEarn 赚钱支持，可在龙虾中直接接收并执行内容变现任务。\n- **2026-03-26**: [2.1 version](https://www.aitoearn.ai/) — 内容交易市场上线；新增 OpenClaw（龙虾）支持，可在龙虾中直接使用 AiToEarn；新增 MCP 协议支持，可在 Claude、Cursor 等任何支持 MCP 的 Agent 或大模型中使用 AiToEarn。\n- **2026-02-07**: [1.8.0 version](https://www.aitoearn.ai/)，新增线下商户推广解决方案，支持餐厅、零售店、民宿、美容美发、健身房等多种线下业态，将线下推广活动转化为可执行的线上传播任务，通过内容发布与用户参与机制，帮助门店获取更多线上曝光和到店流量。\n- **2025-12-15**: \"All In Agent\" 的开始！我们加入了能够自动内容生成和发布以及一些帮助你操作 Aitoearn 的超级 AI 智能 Agent。[v1.4.3](https://github.com/yikart/AiToEarn/releases/tag/v1.4.3)\n- **2025-11-28**: 支持应用内自动更新。在创作界面新增大量 AI 功能，例如：缩写、扩写、图片生成、视频生成、标签生成等，并支持 Nano Banana Pro。[v1.4.0](https://github.com/yikart/AiToEarn/releases/tag/v1.4.0)\n- **2025-11-12**: 首个开源且可完全使用的版本。[v1.3.2](https://github.com/yikart/AiToEarn/releases/tag/v1.3.2)\n- **2025-09-16**: 首个出海版本，新增支持 Facebook、Instagram、Threads、Twitter、YouTube、TikTok、Pinterest。[v1.0.18](https://github.com/yikart/AiToEarn/releases/tag/v1.0.18)\n- **2025-02-26**: 首个开源版本，初步实现小红书、抖音、快手、视频号视频一键发布。[v0.1.1](https://github.com/yikart/AiToEarn/releases/tag/v0.1.1)\n\n<details>\n  <summary><h2 style=\"display:inline;margin:0\">目录</h2></summary>\n\n  <br/>\n\n  1. [快速使用 AiToEarn（5 种方式）](#-快速使用-aitoearn5-种方式)\n  2. [最新动态](#最新动态)\n  3. [核心功能](#核心功能)\n  4. [如何获取 API Key](#get-api-key)\n  5. [贡献指南](#贡献指南)\n  6. [联系](#联系)\n  7. [推荐](#推荐)\n</details>\n\n## 核心功能\n\nAiToEarn 围绕内容创作者的完整变现链路，提供四大 Agent 能力：\n\n> **Monetize · Publish · Engage · Create**\n\n---\n\n### 💰",
+  "generatedAt": "2026-05-31T01:33:37.732Z",
   "analysis": {
     "oneLine": "AiToEarn 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "AiToEarn 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，AiToEarn 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 15,781，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，AiToEarn 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 17,114，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
