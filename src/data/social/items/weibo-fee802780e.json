@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fee802780e",
+  "slug": "weibo-一个普通人的最大幸运",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "一个普通人的最大幸运",
+  "summary": "微博热榜第 28 位：一个普通人的最大幸运，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B9%B8%E8%BF%90%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 07:28:14",
+  "fetchedAt": "2026-06-01T23:31:03.035Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

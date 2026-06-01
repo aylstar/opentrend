@@ -1,0 +1,21 @@
+{
+  "id": "weibo-872e31f42c",
+  "slug": "weibo-top-新疆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "TOP 新疆",
+  "summary": "微博热榜第 17 位：TOP 新疆，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23TOP+%E6%96%B0%E7%96%86%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 07:28:14",
+  "fetchedAt": "2026-06-01T23:31:03.035Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

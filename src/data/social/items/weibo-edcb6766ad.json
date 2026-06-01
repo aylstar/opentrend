@@ -1,0 +1,21 @@
+{
+  "id": "weibo-edcb6766ad",
+  "slug": "weibo-奚梦瑶婚礼",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "奚梦瑶婚礼",
+  "summary": "微博热榜第 10 位：奚梦瑶婚礼，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%A9%9A%E7%A4%BC%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 07:28:14",
+  "fetchedAt": "2026-06-01T23:31:03.035Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Trump claims Israel and Hizbollah agree ceasefire after Iran threats",
+  "summary": "President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher",
+  "url": "https://www.ft.com/content/a4f1e36d-f3a5-4959-b227-133300f01be1",
+  "publishedAt": "2026-06-01T22:18:22.000Z",
+  "id": "financial-times-42e64816",
+  "slug": "financial-times-42e64816",
+  "content": "President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher",
+  "fetchedAt": "2026-06-01T23:27:30.087Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "财经"
+  ],
+  "rank": 12,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "特朗普声称以色列和真主党在伊朗威胁后同意停火",
+  "chineseSummary": "总统发表此番言论之前，德黑兰表示将暂停与美国的和谈，导致油价走高",
+  "chineseContent": "总统发表此番言论之前，德黑兰表示将暂停与美国的和谈，导致油价走高",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-99600322ab",
+  "slug": "weibo-豆包将正式付费",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "豆包将正式付费",
+  "summary": "微博热榜第 1 位：豆包将正式付费，当前热度为 98万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%B0%86%E6%AD%A3%E5%BC%8F%E4%BB%98%E8%B4%B9%23",
+  "hotValue": "98万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 07:28:14",
+  "fetchedAt": "2026-06-01T23:31:03.035Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
   "docsUrl": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
-  "stars": 12956,
-  "forks": 1514,
-  "openIssues": 17,
+  "stars": 13259,
+  "forks": 1555,
+  "openIssues": 14,
   "license": "Apache-2.0",
-  "pushedAt": "2026-05-30T09:32:09Z",
-  "updatedAt": "2026-06-01T01:37:04Z",
+  "pushedAt": "2026-06-01T10:15:48Z",
+  "updatedAt": "2026-06-01T23:20:39Z",
   "createdAt": "2026-02-25T09:47:50Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"Anthropic Cybersecurity Skills\" width=\"100%\">\n</p>\n\n<div align=\"center\">\n\n#  Anthropic Cybersecurity Skills\n\n### The largest open-source cybersecurity skills library for AI agents\n\n[![GARS-2026 Survey](https://img.shields.io/badge/GARS--2026-Take%20the%20Survey-E8B84B?style=for-the-badge&logo=googleforms&logoColor=black)](https://mahipal.engineer/survey?utm_source=github_badge&utm_medium=readme&utm_campaign=gars2026)\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](LICENSE)\n[![Skills](https://img.shields.io/badge/skills-754-brightgreen?style=flat-square)](#whats-inside--26-security-domains)\n[![Frameworks](https://img.shields.io/badge/frameworks-5-orange?style=flat-square)](#five-frameworks-one-skill-library)\n[![Domains](https://img.shields.io/badge/domains-26-9cf?style=flat-square)](#whats-inside--26-security-domains)\n[![Platforms](https://img.shields.io/badge/platforms-26%2B-blueviolet?style=flat-square)](#compatible-platforms)\n[![GitHub stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/stargazers)\n[![GitHub forks](https://img.shields.io/github/forks/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/network/members)\n[![Last Commit](https://img.shields.io/github/last-commit/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/commits/main)\n[![agentskills.io](https://img.shields.io/badge/standard-agentskills.io-ff6600?style=flat-square)](https://agentskills.io)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)\n[![Playground](https://img.shields.io/badge/Playground-Casky.ai-blue)](https://casky.ai/?utm_source=github&utm_medium=readme&utm_campaign=cohort_launch#waitlist)\n[![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-compatible-blueviolet?style=flat)](https://github.com/NousResearch/hermes-agent)\n\n\n**754 production-grade cybersecurity skills · 26 security domains · 5 framework mappings · 26+ AI platforms**\n\n[Get Started](#quick-start) · [What's Inside](#whats-inside--26-security-domains) · [Frameworks](#five-frameworks-one-skill-library) · [Platforms](#compatible-platforms) · [Contributing](#contributing)\n\n</div>\n\n---\n\n> ⚠️ **Community Project** — This is an independent, community-created project. Not affiliated with Anthropic PBC. \n\n## Give any AI agent the security skills of a senior analyst\n\nA junior analyst knows which Volatility3 plugin to run on a suspicious memory dump, which Sigma rules catch Kerberoasting, and how to scope a cloud breach across three providers. **Your AI agent doesn't — unless you give it these skills.**\n\nThis repo contains **754 structured cybersecurity skills** spanning **26 security domains**, each following the [a",
-  "generatedAt": "2026-06-01T01:37:51.569Z",
+  "generatedAt": "2026-06-01T23:26:34.722Z",
   "analysis": {
     "oneLine": "Anthropic-Cybersecurity-Skills 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "Anthropic-Cybersecurity-Skills 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，Anthropic-Cybersecurity-Skills 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 12,956，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Anthropic-Cybersecurity-Skills 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 13,259，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

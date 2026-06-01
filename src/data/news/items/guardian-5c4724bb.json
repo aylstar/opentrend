@@ -1,0 +1,27 @@
+{
+  "source": "Guardian",
+  "category": "global",
+  "originalTitle": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
+  "summary": "Breach confirmed by Meta raises concerns about how safe it is to rely on AI for security measures like passwords",
+  "content": "Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company confirmed on Monday, saying it had resolved the problem after researchers exposed it. The targets ranged from Barack Obama’s White House account to Sephora and the US Space Force Chief Master Sergeant, according to reporting from 404 Media. Everyday users complained of similar hijackings on Reddit and X over the weekend. Security researchers and hacking groups posted videos and screenshots of how to steal an account on Telegram, and a video shared on X appears to show a hacker telling Meta’s AI assistant to link the account to a new email address; the bot assures the hacker a verification code has been sent to that new email, and asks to input the numbers in the chat interface. Once the hacker pastes the correct number, they are shown a button to reset the targeted accounts’ password. In at least one video, the hacker used a virtual private network to spoof the account holder’s location and avoid Meta’s safeguards. Meta said in a statement: “This issue has been resolved, and we are securing impacted accounts.” It is unclear how many accounts were affected. The breach raises concerns about just how safe it is to rely on AI for key security measures such as passwords. Meta, which is rapidly reorganizing its workers’ jobs around AI and increasing the use of AI features in its platforms, rolled out the AI support assistant globally on Facebook and Instagram earlier this year. The press release for the new AI feature explained that the new AI support assistant can “take action for you on a growing set of requests directly within Facebook and in the future, on Instagram”. The list of actions included reporting scams, impersonation accounts, or problematic content, as well as resetting passwords. “The Meta AI support assistant is a major step in our work to deliver stronger support on our apps,” reads a March press release from Meta.",
+  "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+  "publishedAt": "2026-06-01T22:32:26.000Z",
+  "id": "guardian-5c4724bb",
+  "slug": "guardian-5c4724bb",
+  "fetchedAt": "2026-06-01T23:27:30.074Z",
+  "score": 77,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "安全"
+  ],
+  "rank": 16,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "黑客欺骗 Meta AI 支持机器人渗透奥巴马白宫 Instagram 账户",
+  "chineseSummary": "Meta 证实的违规行为引发了人们对依赖人工智能来实施密码等安全措施的安全性的担忧",
+  "chineseContent": "该公司周一证实，黑客利用 Meta 的人工智能支持聊天机器人渗透了知名的 Instagram 账户，并表示在研究人员揭露该问题后已解决该问题。据 404 Media 报道，这些目标包括巴拉克·奥巴马 (Barack Obama) 的白宫账户、丝芙兰 (Sephora) 和美国太空军首席军士长。周末，日常用户抱怨 Reddit 和 X 上发生了类似的劫持事件。安全研究人员和黑客组织发布了如何在 Telegram 上窃取帐户的视频和屏幕截图，X 上共享的视频似乎显示黑客告诉 Meta 的 AI 助手将该帐户链接到新的电子邮件地址；该机器人向黑客保证验证码已发送到该新电子邮件，并要求在聊天界面中输入数字。一旦黑客粘贴了正确的号码，他们就会看到一个按钮来重置目标帐户的密码。至少在一段视频中，黑客使用虚拟专用网络来欺骗账户持有人的位置并避开 Meta 的保护措施。 Meta 在一份声明中表示：“这个问题已经解决，我们正在保护受影响的帐户。”目前尚不清楚有多少帐户受到影响。此次泄露事件引发了人们对依赖人工智能来实施密码等关键安全措施的安全性的担忧。 Meta 正在围绕人工智能迅速重组员工的工作，并在其平台上增加人工智能功能的使用，今年早些时候，Meta 在 Facebook 和 Instagram 上在全球推出了人工智能支持助手。新人工智能功能的新闻稿解释说，新的人工智能支持助手可以“直接在 Facebook 以及未来在 Instagram 上针对越来越多的请求采取行动”。行动列表还包括举报诈骗、冒充帐户或有问题的内容",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

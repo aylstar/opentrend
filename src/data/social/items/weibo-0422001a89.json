@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0422001a89",
+  "slug": "weibo-灵魂摆渡",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "灵魂摆渡",
+  "summary": "微博热榜第 47 位：灵魂摆渡，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 07:28:14",
+  "fetchedAt": "2026-06-01T23:31:03.035Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

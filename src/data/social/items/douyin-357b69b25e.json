@@ -1,0 +1,21 @@
+{
+  "id": "douyin-357b69b25e",
+  "slug": "douyin-treasure回归",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 48,
+  "title": "TREASURE回归",
+  "summary": "抖音热榜第 48 位：TREASURE回归，当前热度为 768万热度。",
+  "url": "https://www.douyin.com/search/TREASURE%E5%9B%9E%E5%BD%92?type=general",
+  "hotValue": "768万热度",
+  "author": "",
+  "publishedAt": "2026-06-01T19:32:00.859Z",
+  "fetchedAt": "2026-06-01T23:31:03.035Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

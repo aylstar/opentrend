@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures slip as US-Iran tensions weigh on AI optimism",
+  "summary": "US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest developments in AI.",
+  "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-us-iran-tensions-weigh-on-ai-optimism-231755783.html?.tsrc=rss",
+  "publishedAt": "2026-06-01T23:17:55.000Z",
+  "id": "yahoo-finance-db14993a",
+  "slug": "yahoo-finance-db14993a",
+  "content": "US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest developments in AI.\n\nFutures attached to the Dow Jones Industrial Average (YM=F) and the benchmark S&P 500 (ES=F) slipped 0.2%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) fell 0.3%.\n\nAfter the closing bell, Alphabet ( GOOG ) stock edged lower after the company said it aims to raise $80 billion to realize its AI infrastructure plans. Hewlett Packard Enterprise ( HPE ), meanwhile, reported a record quarter driven by AI data center expansion, sending its stock up more than 20%.\n\nIn day trading, stocks clinched records as President Trump intervened in a news cycle that was pointing to a breakdown in US-Iran negotiations, announcing Israel and Hezbollah had agreed to stop attacks. Shortly after, the president added that talks with Iran were continuing “at a rapid pace.”\n\nOn Tuesday, investors will get fresh insight into the health of the economy with the release of the Job Openings and Labor Turnover Survey (JOLTS) report. The JOLTS report is the first in a series of employment data releases this week that culminate with the May jobs report on Friday. Investors are looking for signs of economic strain amid rising prices, which could put the Federal Reserve in a difficult position on interest rates.\n\nEarnings season also continues to wind down this week, with Palo Alto Networks ( PANW ), Dollar General ( DG ), Ulta Beauty ( ULTA ), Victoria’s Secret ( VSCO ) scheduled to report their results Tuesday.",
+  "fetchedAt": "2026-06-01T23:27:30.080Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 24,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌，因美伊紧张局势打压 AI 乐观情绪",
+  "chineseSummary": "由于投资者权衡伊朗谈判的不确定性以及人工智能的最新发展，美国股指期货下跌。",
+  "chineseContent": "由于投资者权衡伊朗谈判的不确定性以及人工智能的最新发展，美国股指期货下跌。\n\n道琼斯工业平均指数 (YM=F) 和基准标准普尔 500 指数 (ES=F) 的期货下跌 0.2%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货下跌 0.3%。\n\n收盘后，Alphabet (GOOG) 表示计划筹集 800 亿美元以实现其人工智能基础设施计划，该公司股价小幅走低。与此同时，惠普企业 (HPE) 报告称，在人工智能数据中心扩张的推动下，该季度业绩创历史新高，导致其股价上涨超过 20%。\n\n在日内交易中，随着特朗普总统介入一个指向美国与伊朗谈判破裂的新闻周期，宣布以色列和真主党已同意停止袭击，股市创下历史新高。不久之后，总统补充说，与伊朗的谈判正在“快速”进行。\n\n周二，随着职位空缺和劳动力流动调查（JOLTS）报告的发布，投资者将获得对经济健康状况的新见解。 JOLTS 报告是本周发布的一系列就业数据中的第一份，周五的 5 月份就业报告将其推向高潮。投资者正在物价上涨中寻找经济紧张的迹象，这可能使美联储在利率问题上陷入困境。\n\n本周财报季也继续结束，Palo Alto Networks ( PANW )、Dollar General ( DG )、Ulta Beauty ( ULTA )、Victoria’s Secret ( VSCO ) 计划于周二公布业绩。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
