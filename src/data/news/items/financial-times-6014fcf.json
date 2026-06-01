@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Operation Jailbreak: lessons from Ukraine on making weapons talk to each other",
+  "summary": "Defence companies join with Army personnel in hackathon to apply AI to ‘interoperability’ puzzle",
+  "url": "https://www.ft.com/content/1699e348-02d5-491a-9924-1d5914d540f7",
+  "publishedAt": "2026-05-31T16:50:21.000Z",
+  "id": "financial-times-6014fcf",
+  "slug": "financial-times-6014fcf",
+  "content": "Defence companies join with Army personnel in hackathon to apply AI to ‘interoperability’ puzzle",
+  "fetchedAt": "2026-06-01T01:38:04.894Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "越狱行动：乌克兰关于让武器相互对话的经验教训",
+  "chineseSummary": "国防公司与陆军人员一起参加黑客马拉松，将人工智能应用于“互操作性”难题",
+  "chineseContent": "国防公司与陆军人员一起参加黑客马拉松，将人工智能应用于“互操作性”难题",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a51338a2a3",
+  "slug": "weibo-儿童节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "儿童节",
+  "summary": "微博热榜第 19 位：儿童节，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E8%8A%82%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

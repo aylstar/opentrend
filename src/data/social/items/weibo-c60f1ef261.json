@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c60f1ef261",
+  "slug": "weibo-6月金股",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "6月金股",
+  "summary": "微博热榜第 28 位：6月金股，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%236%E6%9C%88%E9%87%91%E8%82%A1%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

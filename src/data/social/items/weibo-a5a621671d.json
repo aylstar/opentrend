@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a5a621671d",
+  "slug": "weibo-樊振东德甲夺冠",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "樊振东德甲夺冠",
+  "summary": "微博热榜第 40 位：樊振东德甲夺冠，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E5%A4%BA%E5%86%A0%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

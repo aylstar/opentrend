@@ -1,0 +1,21 @@
+{
+  "id": "weibo-625eec5db2",
+  "slug": "weibo-城事日记津彩有你",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "城事日记津彩有你",
+  "summary": "微博热榜第 3 位：城事日记津彩有你，当前热度为 82万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9F%8E%E4%BA%8B%E6%97%A5%E8%AE%B0%E6%B4%A5%E5%BD%A9%E6%9C%89%E4%BD%A0%23",
+  "hotValue": "82万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

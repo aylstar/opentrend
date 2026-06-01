@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "United flight forced to turn around because of a Bluetooth speaker name",
+  "summary": "United flight 236 from Newark to Palma de Mallorca on Saturday night was forced to turn around just an hour after takeoff due to security concerns around a Bluetooth signal. Multiple Redditors claimed to be on the flight and reported that the crew repeatedly requested passengers to turn off their Bluetooth. According to one poster, […]",
+  "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
+  "publishedAt": "2026-05-31T15:50:02.000Z",
+  "id": "the-verge-c0501fb2",
+  "slug": "the-verge-c0501fb2",
+  "content": "United flight 236 from Newark to Palma de Mallorca on Saturday night was forced to turn around just an hour after takeoff due to security concerns around a Bluetooth signal. Multiple Redditors claimed to be on the flight and reported that the crew repeatedly requested passengers to turn off their Bluetooth. According to one poster, the crew issued a one-minute warning, saying that two devices were still active. One Redditor reported flight attendants making comments like, “This little joke is ruining it for everyone.” An archived recording from Air Traffic Control (embedded below) confirms that the root of the issue was the name of a discoverable Bluetooth speaker. > “There’s a security detail out there. Someone had a Bluetooth speaker, and they named it a certain four-letter word. So they have to inspect the whole aircraft, including the cargo area, and the passengers have to evacuate.” --- --- While the recording does not explicitly confirm the speculation that the Bluetooth name in question was “bomb,” it would certainly make sense given the response from the crew and security personnel on the ground. It also serves as a friendly reminder that what you think is a clever WiFi or Bluetooth name probably isn’t.",
+  "fetchedAt": "2026-06-01T01:38:04.888Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美联航航班因蓝牙音箱名称被迫返航",
+  "chineseSummary": "周六晚，美联航 236 号航班从纽瓦克飞往马略卡岛帕尔马，由于蓝牙信号的安全问题，在起飞仅一小时后就被迫返航。多名 Reddit 用户声称自己在该航班上，并报告说机组人员多次要求乘客关闭蓝牙。根据一张海报，[…]",
+  "chineseContent": "周六晚，美联航 236 号航班从纽瓦克飞往马略卡岛帕尔马，由于蓝牙信号的安全问题，在起飞仅一小时后就被迫返航。多名 Reddit 用户声称自己在该航班上，并报告说机组人员多次要求乘客关闭蓝牙。据一张海报称，机组人员发出了一分钟警告，称有两个设备仍然处于活动状态。一位 Reddit 用户报道说，空乘人员发表了这样的评论：“这个小笑话毁了每个人的生活。”空中交通管制局的存档录音（嵌入如下）证实，问题的根源在于可发现的蓝牙扬声器的名称。 > “那里有一个安全细节。有人有一个蓝牙扬声器，他们将其命名为某个四个字母的单词。所以他们必须检查整个飞机，包括货运区，乘客必须撤离。” --- --- 虽然录音没有明确证实有关蓝牙名称是“炸弹”的猜测，但考虑到机组人员和地面安全人员的反应，这肯定是有道理的。它还可以友好地提醒您，您认为聪明的 WiFi 或蓝牙名称可能并非如此。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

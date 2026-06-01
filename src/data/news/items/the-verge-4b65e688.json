@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "How to watch Nvidia’s Computex keynote",
+  "summary": "NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today's presentation, but the big one is the possibility of a partnership with Microsoft and […]",
+  "url": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
+  "publishedAt": "2026-05-31T20:20:35.000Z",
+  "id": "the-verge-4b65e688",
+  "slug": "the-verge-4b65e688",
+  "content": "NVIDIA’s CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to expect from today’s presentation, but the big one is the possibility of a partnership with Microsoft and a renewed Windows on ARM push. Microsoft has been teasing a “new era of PC” for its Surface lineup, and expectations are that new ARM processors from NVIDIA, dubbed the N1 and N1X, will be powering these yet-to-be-announced computers. [Media: https://youtu.be/wSp6AiNIrsY] Microsoft actually tapped NVIDIA’s Tegra ARM CPUs for the Surface RT way back in 2012. But that machine was largely considered a hamstrung disaster. NVIDIA has also largely struggled to find a footing in the world of ARM processors, with Qualcomm cornering the high-end, and companies like MediaTek dominating the budget world. This rumored “new era of PC” teased by Microsoft, NVIDIA, and ARM on social media likely means that Qualcomm’s exclusive license for Windows 11’s ARM variant has come to an end.",
+  "fetchedAt": "2026-06-01T01:38:04.888Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "如何观看 Nvidia 的 Computex 主题演讲",
+  "chineseSummary": "NVIDIA 首席执行官黄仁勋将于太平洋时间晚上 8 点/东部时间晚上 11 点在 GTC 台北发表主题演讲。您可以在此处观看所有公告并嵌入在下面。关于今天的演示会发生什么的谣言四起，但最重要的是与微软和 [...] 合作的可能性。",
+  "chineseContent": "NVIDIA 首席执行官黄仁勋将于太平洋时间晚上 8 点/东部时间晚上 11 点在 GTC 台北发表主题演讲。您可以在此处观看所有公告并嵌入在下面。关于今天的演示会发生什么的谣言四起，但最重要的是与微软合作的可能性以及在 ARM 上更新 Windows 的可能性。微软一直在为其 Surface 系列打造“PC 新时代”，人们期望 NVIDIA 的新型 ARM 处理器（称为 N1 和 N1X）将为这些尚未发布的计算机提供动力。 [媒体：https://youtu.be/wSp6AiNIrsY] 早在 2012 年，微软就在 Surface RT 上使用了 NVIDIA 的 Tegra ARM CPU。但该机器在很大程度上被认为是一场严重的灾难。 NVIDIA 在很大程度上也难以在 ARM 处理器领域立足，高通垄断了高端市场，而联发科等公司则主导了廉价市场。微软、NVIDIA 和 ARM 在社交媒体上调侃的“PC 新时代”传闻很可能意味着高通对 Windows 11 ARM 版本的独家授权已经结束。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

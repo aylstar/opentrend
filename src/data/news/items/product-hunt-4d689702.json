@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Wingbits AI",
+  "summary": "AI agents for real-time aircraft monitoring and alerts Discussion | Link",
+  "url": "https://www.producthunt.com/products/wingbits-ai",
+  "publishedAt": "2026-05-11T19:20:03.000Z",
+  "id": "product-hunt-4d689702",
+  "slug": "product-hunt-4d689702",
+  "content": "Create agents that monitor airspace activity 24/7 - military aircraft in a region, private or government jets, a GPS-jamming spike, or a travelling friend or family member - and get alerts the moment something relevant happens. Or just ask anything about what's flying right now. Powered by our own independent network of 5,600+ antennas across 120 countries. No code, no data engineering, no terabytes to store.",
+  "fetchedAt": "2026-06-01T01:38:04.886Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "翼位 AI",
+  "chineseSummary": "用于实时飞机监控和警报的人工智能代理关联",
+  "chineseContent": "创建 24/7 全天候监控空域活动的代理 - 某个地区的军用飞机、私人或政府飞机、GPS 干扰尖峰或旅行的朋友或家人 - 并在相关事件发生时收到警报。或者只是询问有关目前正在飞行的航班的任何信息。由我们自己的独立网络提供支持，该网络由遍布 120 个国家/地区的 5,600 多个天线组成。无需代码，无需数据工程，无需存储 TB 数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

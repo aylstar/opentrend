@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9887d7732f",
+  "slug": "weibo-天涯社区曾2次重启失败",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "天涯社区曾2次重启失败",
+  "summary": "微博热榜第 6 位：天涯社区曾2次重启失败，当前热度为 48万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E6%9B%BE2%E6%AC%A1%E9%87%8D%E5%90%AF%E5%A4%B1%E8%B4%A5%23",
+  "hotValue": "48万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

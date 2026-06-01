@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3dbdc2f2c7",
+  "slug": "weibo-日系车溃败",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "日系车溃败",
+  "summary": "微博热榜第 33 位：日系车溃败，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E7%B3%BB%E8%BD%A6%E6%BA%83%E8%B4%A5%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-29T05:25:33.000Z",
   "id": "product-hunt-b54d8645",
   "slug": "product-hunt-b54d8645",
-  "content": "It’s never been easier to design your dream house. Draw any footprint, choose your rooms, and Drafted generates complete floor plans, elevations, and 3D home designs in seconds. Explore ideas instantly, customize layouts, and export CAD and PDF files when you're ready to move forward. Over the last month, more than 120,000 people have come to the product and generated over 325,000 home designs. Most of our growth has come from viral social sharing and word of mouth.",
-  "fetchedAt": "2026-05-31T01:33:45.274Z",
+  "content": "Design a home instantly with AI Discussion | Link",
+  "fetchedAt": "2026-06-01T01:38:04.886Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 7,
-  "contentStatus": "article-extracted",
+  "rank": 12,
+  "contentStatus": "fetch-failed",
   "chineseTitle": "起草",
   "chineseSummary": "利用 AI 即时设计家居讨论 |关联",
-  "chineseContent": "设计您的梦想之家从未如此简单。绘制任何足迹，选择您的房间，Drafted 在几秒钟内生成完整的平面图、立面图和 3D 家居设计。当您准备好继续前进时，立即探索想法、自定义布局并导出 CAD 和 PDF 文件。上个月，已有超过 120,000 人使用该产品，并生成了超过 325,000 种家居设计。我们的增长大部分来自病毒式社交分享和口碑。",
+  "chineseContent": "利用 AI 即时设计家居讨论 |关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

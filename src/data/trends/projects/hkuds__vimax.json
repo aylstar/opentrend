@@ -8,16 +8,15 @@
   "language": "Python",
   "githubUrl": "https://github.com/HKUDS/ViMax",
   "docsUrl": "https://docs.astral.sh/uv/getting-started/installation/.",
-  "stars": 7816,
-  "forks": 1213,
-  "openIssues": 35,
+  "stars": 8452,
+  "forks": 1298,
+  "openIssues": 33,
   "license": "MIT",
   "pushedAt": "2026-05-27T08:56:30Z",
-  "updatedAt": "2026-05-28T01:21:15Z",
+  "updatedAt": "2026-06-01T01:28:40Z",
   "createdAt": "2025-03-30T13:36:35Z",
   "archived": false,
   "trendWindows": [
-    "weekly",
     "monthly"
   ],
   "tags": [
@@ -27,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n  <img src=\"./assets/vimax.png\"> \n\t<br>\n  <br>\n<a href=\"https://trendshift.io/repositories/15299\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15299\" alt=\"HKUDS%2FViMax | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n  <h1 align=\"center\">ViMax: Agentic Video Generation</h1>\n\n  <div align=\"center\">\n  </div>\n\n  <p align=\"center\">\n    <img src=\"https://img.shields.io/badge/🐍Python-3.12-00d9ff?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e\">\n\t<a href=\"https://github.com/astral-sh/uv\"><img src=\"https://img.shields.io/badge/⚡uv-Ready-ff6b6b?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e\"></a>\n\t<img src=\"https://img.shields.io/badge/License-MIT-4ecdc4?style=for-the-badge&logo=opensourceinitiative&logoColor=white\" alt=\"MIT License\">\n  </p>\n\n  <p align=\"center\">\n    <a href=\"./Communication.md\"><img src=\"https://img.shields.io/badge/💬Feishu-Group-07c160?style=for-the-badge&logoColor=white&labelColor=1a1a2e\"></a>\n    <a href=\"./Communication.md\"><img src=\"https://img.shields.io/badge/WeChat-Group-07c160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=1a1a2e\"></a>\n  </p>\n\n  <p align=\"center\">\n    <a href='https://www.youtube.com/@AI-Creator-is-here'><img src='https://badges.aleen42.com/src/youtube.svg' /></a>\n  </p>\n\n</div>\n<div align=\"center\">\n\t\n<p>\n\t<a href=\"readme.md\"><img src=\"https://img.shields.io/badge/English-1a1a2e?style=for-the-badge\"></a>\n    <a href=\"README_ZH.md\"><img src=\"https://img.shields.io/badge/中文版-1a1a2e?style=for-the-badge\"></a>\n</p>\n    <a href=\"#quick-start\" style=\"text-decoration: none;\">\n      <img src=\"https://img.shields.io/badge/Quick%20Start-Get%20Started%20Now-FFC107?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e\">\n    </a>\n\n</div>\n\n---\n\n### 🚨 Current Video Generation Limitations:\n- ❌ **Limited to Short Clips** - Most AI tools generate only seconds of footage. <br>\n- ❌ **Consistency Chaos** - Characters and scenes change unpredictably across frames. <br>\n- ❌ **Visual-Only Focus** - Missing scripts, audio, narrative structure, and storytelling depth. <br>\n\n### 💡 ViMax Solution:\n🎬 **Director**, **Screenwriter**, **Producer**, and **Video Generator** **All-in-One**! We're exploring a future where AI becomes a complete creative powerhouse. 💡 Simply input your concept. ViMax autonomously handles the rest. It orchestrates scriptwriting, storyboarding, character creation, and final video generation—all end-to-end. 🚀\n\nhttps://github.com/user-attachments/assets/5bad46b2-8276-4e1d-9480-3522640744b2\n\n\n\n</div>\n\n---\n\n\n## 📑 Table of Contents\n\n- [💡 Key Features](#key-features)\n- [🔮 Demos](#Video-Demos-Generated-from-Scratch)\n- [🏗️ Architecture](#️-architecture)\n- [🚀 Quick Start](#quick-start)\n\n---\n## 💡 Key Features\n\n<br/>\n\n<table align=\"center\" width=\"100%\" style=\"border: none; table-layout: fixed;\">\n<tr>\n<td width=\"25%\" align=\"center\" style=\"vertical-align: top; padding: 20px;\">\n\n<di",
-  "generatedAt": "2026-05-28T01:21:45.837Z",
+  "generatedAt": "2026-06-01T01:37:53.445Z",
   "analysis": {
     "oneLine": "ViMax 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "ViMax 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，ViMax 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 7,816，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ViMax 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 8,452，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

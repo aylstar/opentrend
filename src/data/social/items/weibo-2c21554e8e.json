@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2c21554e8e",
+  "slug": "weibo-天涯社区",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "天涯社区",
+  "summary": "微博热榜第 2 位：天涯社区，当前热度为 150万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%23",
+  "hotValue": "150万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

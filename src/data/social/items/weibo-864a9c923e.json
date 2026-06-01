@@ -1,0 +1,21 @@
+{
+  "id": "weibo-864a9c923e",
+  "slug": "weibo-arashi解散演唱会",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "ARASHI解散演唱会",
+  "summary": "微博热榜第 26 位：ARASHI解散演唱会，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23ARASHI%E8%A7%A3%E6%95%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

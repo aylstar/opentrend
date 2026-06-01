@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3a75468ece",
+  "slug": "weibo-天涯神帖",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "天涯神帖",
+  "summary": "微博热榜第 1 位：天涯神帖，当前热度为 298万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E7%A5%9E%E5%B8%96%23",
+  "hotValue": "298万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

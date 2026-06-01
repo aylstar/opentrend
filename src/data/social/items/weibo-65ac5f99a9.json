@@ -1,0 +1,21 @@
+{
+  "id": "weibo-65ac5f99a9",
+  "slug": "weibo-王源工体上座率",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "王源工体上座率",
+  "summary": "微博热榜第 37 位：王源工体上座率，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%B7%A5%E4%BD%93%E4%B8%8A%E5%BA%A7%E7%8E%87%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-06-01 09:38:35",
+  "fetchedAt": "2026-06-01T01:39:54.906Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
