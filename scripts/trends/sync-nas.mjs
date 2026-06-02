@@ -6,6 +6,7 @@ import { pipeline } from "node:stream/promises";
 
 const rootDir = process.cwd();
 const projectsDir = path.join(rootDir, "src", "data", "trends", "projects");
+const reportsDir = path.join(rootDir, "src", "data", "trends", "reports");
 const cacheDir = path.join(rootDir, ".cache", "trend-archives");
 
 const nasDir = process.env.TREND_NAS_DIR;
@@ -73,6 +74,8 @@ async function withRetry(label, fn, attempts = 3) {
 
 async function readProjects() {
   const files = (await readdir(projectsDir)).filter(file => file.endsWith(".json"));
+  const latestReportSlugs = await readLatestReportSlugs();
+  const latestPriority = new Map(latestReportSlugs.map((slug, index) => [slug, index]));
   const projects = [];
   for (const file of files) {
     const fullPath = path.join(projectsDir, file);
@@ -84,10 +87,27 @@ async function readProjects() {
   }
   return projects
     .sort((a, b) => {
+      const aPriority = latestPriority.has(a.data.slug) ? latestPriority.get(a.data.slug) : Number.POSITIVE_INFINITY;
+      const bPriority = latestPriority.has(b.data.slug) ? latestPriority.get(b.data.slug) : Number.POSITIVE_INFINITY;
+      if (aPriority !== bPriority) return aPriority - bPriority;
       const rec = (b.data.analysis?.recommendation ?? 0) - (a.data.analysis?.recommendation ?? 0);
       return rec || (b.data.stars ?? 0) - (a.data.stars ?? 0);
     })
-    .slice(0, maxProjects);
+    .slice(0, Math.max(maxProjects, latestReportSlugs.length));
+}
+
+async function readLatestReportSlugs() {
+  try {
+    const files = (await readdir(reportsDir))
+      .filter(file => /^\d{4}-\d{2}-\d{2}\.json$/.test(file))
+      .sort()
+      .reverse();
+    if (!files.length) return [];
+    const latest = JSON.parse(await readFile(path.join(reportsDir, files[0]), "utf8"));
+    return Array.isArray(latest.projectSlugs) ? latest.projectSlugs : [];
+  } catch {
+    return [];
+  }
 }
 
 async function downloadArchive(project, archivePath) {
