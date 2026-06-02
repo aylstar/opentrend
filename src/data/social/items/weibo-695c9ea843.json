@@ -1,0 +1,21 @@
+{
+  "id": "weibo-695c9ea843",
+  "slug": "weibo-黄金震荡下跌",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "黄金震荡下跌",
+  "summary": "微博热榜第 27 位：黄金震荡下跌，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%9C%87%E8%8D%A1%E4%B8%8B%E8%B7%8C%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 09:39:54",
+  "fetchedAt": "2026-06-02T01:44:47.239Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0a4e480948",
+  "slug": "weibo-夏美",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "夏美",
+  "summary": "微博热榜第 30 位：夏美，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%BE%8E%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 09:39:54",
+  "fetchedAt": "2026-06-02T01:44:47.239Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

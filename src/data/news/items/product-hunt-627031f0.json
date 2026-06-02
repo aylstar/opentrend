@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Mina Meeting Assistant",
+  "summary": "Your AI Teammate now responds and executes during your calls Discussion | Link",
+  "url": "https://www.producthunt.com/products/mina-meeting-assistant",
+  "publishedAt": "2026-05-26T18:29:06.000Z",
+  "id": "product-hunt-627031f0",
+  "slug": "product-hunt-627031f0",
+  "content": "Mina is an AI meeting assistant that actively participates in meetings, responds in real time, pulls context from your tools, and helps move work forward while the conversation is still happening. Unlike traditional meeting tools, Mina can speak during calls, use skills, generate outputs, and support sales calls, interviews, standups, customer conversations, and team workflows before, during, and after meetings.",
+  "fetchedAt": "2026-06-02T01:43:29.054Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "米娜会议助理",
+  "chineseSummary": "您的 AI 队友现在可以在您的通话期间做出响应并执行操作关联",
+  "chineseContent": "Mina 是一款人工智能会议助手，可以积极参与会议、实时响应、从工具中提取上下文，并在对话仍在进行时帮助推动工作。与传统的会议工具不同，Mina 可以在通话期间发言、使用技能、生成输出，并在会议之前、期间和之后支持销售电话、访谈、站立会议、客户对话和团队工作流程。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

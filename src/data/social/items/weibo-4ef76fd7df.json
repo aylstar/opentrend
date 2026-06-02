@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4ef76fd7df",
+  "slug": "weibo-世界杯",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 29,
+  "title": "世界杯",
+  "summary": "微博热榜第 29 位：世界杯，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 09:39:54",
+  "fetchedAt": "2026-06-02T01:44:47.239Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

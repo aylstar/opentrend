@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ffe4f43bfe",
+  "slug": "weibo-库里签约李宁",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "库里签约李宁",
+  "summary": "微博热榜第 4 位：库里签约李宁，当前热度为 63万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81%23",
+  "hotValue": "63万热度",
+  "author": "",
+  "publishedAt": "2026-06-02 09:39:54",
+  "fetchedAt": "2026-06-02T01:44:47.239Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

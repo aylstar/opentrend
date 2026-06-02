@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI frontier models and Codex are now available on AWS",
+  "summary": "123 points · 45 comments",
+  "content": "123 points · 45 comments",
+  "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+  "publishedAt": "2026-06-01T21:50:02.000Z",
+  "points": 123,
+  "id": "hacker-news-a10fc46",
+  "slug": "hacker-news-a10fc46",
+  "fetchedAt": "2026-06-02T01:43:29.052Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 8,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "OpenAI 前沿模型和 Codex 现已在 AWS 上提供",
+  "chineseSummary": "123 分 · 45 条评论",
+  "chineseContent": "123 分 · 45 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
