@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dea48b87e9",
+  "slug": "weibo-世界是本巨大的番茄小说",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "世界是本巨大的番茄小说",
+  "summary": "微博热榜第 30 位：世界是本巨大的番茄小说，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%98%AF%E6%9C%AC%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

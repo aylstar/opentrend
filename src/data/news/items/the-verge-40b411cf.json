@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing",
+  "summary": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft's claims, the software giant is announcing Majorana 2 today, the next generation of its topological quantum chip. Majorana 2 contains qubits, a unit of information in […]",
+  "url": "https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build",
+  "publishedAt": "2026-06-02T18:15:00.000Z",
+  "id": "the-verge-40b411cf",
+  "slug": "the-verge-40b411cf",
+  "content": "Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company’s first quantum processor. While physicists were immediately skeptical of Microsoft’s claims, the software giant is announcing Majorana 2 today, the next generation of its topological quantum chip. Majorana 2 contains qubits, a unit of information in quantum computing much like the binary bits that computers use today, that are 1,000 times more reliable, according to Microsoft. It’s a milestone that helps make quantum computing more reliable, thanks to the use of a new material stack and some help from Microsoft Discovery’s agentic AI. [Image: Majorana 2 should help cut the time to useful quantum computing. https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Majorana-2-full-size_2.jpg?quality=90&strip=all] “To create Majorana 2, the Microsoft Quantum team improved Majorana 1’s material stack to create a more stable topological phase,” explains Chetan Nayak, Microsoft technical fellow and corporate vice president of quantum hardware. “Majorana 2 replaces Majorana 1’s superconductor, aluminum, with lead, and also updates the semiconductor active region to a combination of indium arsenide and indium arsenide antimonide.” The improved materials mean better performance of qubits, according to Microsoft. “In the aluminum-based Majorana 1, qubit lifetimes were between one and 12 milliseconds, whereas in Majorana 2, the lifetimes exceed 20 seconds, representing more than 1,000x improvement in stability,” says Nayak. Some qubit lifetimes now exceed a minute, enough to convince Microsoft that it has made enough significant progress to promise useful quantum computing much sooner. “Based on this rapid progress, we are accelerating our roadmap to a scalable, practical quantum computer,” says Nayak. “We have cut our timeline in half and now aim to reach this target by 2029.” Microsoft is working toward building a fault-tolerant prototype quantum computer based on topological qubits, with an aim of quantum computing solving some of the world’s most difficult problems. Microsoft is now releasing Discovery, the platform that helped improve its Majorana chips, to its customers today. Microsoft Discovery is designed to help apply agentic workflows to research and development programs. A local app version of Microsoft Discovery is now available on GitHub, and researchers can use a GitHub Copilot account to access it.",
+  "fetchedAt": "2026-06-03T02:04:51.716Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软的下一代量子芯片缩短了实用量子计算的时间",
+  "chineseSummary": "微软去年声称，其首款量子处理器Majorana 1在量子计算领域取得了关键突破。尽管物理学家立即对微软的说法表示怀疑，但这家软件巨头今天宣布推出Majorana 2，这是其下一代拓扑量子芯片。 Majorana 2 包含量子位，这是 [...] 中的信息单位",
+  "chineseContent": "微软去年声称，其首款量子处理器Majorana 1在量子计算方面取得了关键突破。尽管物理学家立即对微软的说法表示怀疑，但这家软件巨头今天宣布推出Majorana 2，这是其下一代拓扑量子芯片。据微软称，Majorana 2 包含量子位，这是量子计算中的一种信息单位，与当今计算机使用的二进制位非常相似，可靠性高出 1000 倍。这是一个里程碑，有助于使量子计算更加可靠，这要归功于新材料堆栈的使用以及 Microsoft Discovery 代理人工智能的帮助。 [图片：Majorana 2 应该有助于缩短有用的量子计算的时间。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Majorana-2-full-size_2.jpg?quality=90&strip=all]“为了创建 Majorana 2，微软量子团队改进了 Majorana 1 的材料堆栈，以创建更稳定的拓扑相，”微软技术研究员兼量子硬件公司副总裁 Chetan Nayak 解释道。 “Majorana 2 用铅取代了 Majorana 1 的超导体铝，并将半导体活性区域更新为砷化铟和砷化铟锑的组合。”微软表示，改进的材料意味着量子位的性能更好。 Nayak 表示：“在铝基 Majorana 1 中，量子位寿命在 1 到 12 毫秒之间，而在 Majorana 2 中，量子位寿命超过 20 秒，稳定性提高了 1,000 倍以上。”一些量子位的寿命现在超过一分钟，足以让微软相信它已经取得了足够重大的进展，可以更快地实现有用的量子计算。 “基于这一快速进展，我们正在加快实现可扩展的路线图",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

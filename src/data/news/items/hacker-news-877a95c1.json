@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Trump signs downsized AI order after weeks of reversals",
+  "summary": "175 points · 122 comments",
+  "content": "https://www.whitehouse.gov/presidential-actions/2026/06/prom... https://www.nytimes.com/2026/06/02/technology/trump-executiv...",
+  "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+  "publishedAt": "2026-06-02T16:40:16.000Z",
+  "points": 175,
+  "id": "hacker-news-877a95c1",
+  "slug": "hacker-news-877a95c1",
+  "fetchedAt": "2026-06-03T02:04:51.713Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 7,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "经过几周的逆转后，特朗普签署了缩小 AI 订单规模",
+  "chineseSummary": "175 分 · 122 条评论",
+  "chineseContent": "https://www.whitehouse.gov/presidential-actions/2026/06/prom... https://www.nytimes.com/2026/06/02/technology/trump-executiv...",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

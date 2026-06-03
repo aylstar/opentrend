@@ -1,0 +1,21 @@
+{
+  "id": "weibo-992eb87ed9",
+  "slug": "weibo-陈都灵回复",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "陈都灵回复",
+  "summary": "微博热榜第 47 位：陈都灵回复，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%9B%9E%E5%A4%8D%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

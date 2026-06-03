@@ -7,18 +7,18 @@
   "publishedAt": "2026-05-31T23:30:09.000Z",
   "id": "product-hunt-d43163ab",
   "slug": "product-hunt-d43163ab",
-  "content": "Never miss a celestial event, anywhere on Earth Discussion | Link",
-  "fetchedAt": "2026-06-02T01:43:29.054Z",
+  "content": "SkyLive is creating the world's first community-powered network of sky cameras. Our mission is to deploy cameras across the globe, enabling people to watch celestial events live regardless of weather, location, or time zone. By combining real-time streaming, global coverage, and event tracking, SkyLive makes astronomy more accessible than ever before.",
+  "fetchedAt": "2026-06-03T02:04:51.715Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 12,
-  "contentStatus": "fetch-failed",
+  "rank": 15,
+  "contentStatus": "article-extracted",
   "chineseTitle": "天空直播",
   "chineseSummary": "永远不会错过地球上任何地方的天体事件关联",
-  "chineseContent": "永远不会错过地球上任何地方的天体事件关联",
+  "chineseContent": "SkyLive 正在创建世界上第一个由社区供电的天空摄像机网络。我们的使命是在全球范围内部署摄像机，使人们能够实时观看天体事件，无论天气、地点或时区如何。通过结合实时流媒体、全球覆盖和事件跟踪，SkyLive 使天文学比以往任何时候都更容易获得。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

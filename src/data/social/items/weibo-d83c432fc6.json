@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d83c432fc6",
+  "slug": "weibo-top团综飞行嘉宾",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "TOP团综飞行嘉宾",
+  "summary": "微博热榜第 34 位：TOP团综飞行嘉宾，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23TOP%E5%9B%A2%E7%BB%BC%E9%A3%9E%E8%A1%8C%E5%98%89%E5%AE%BE%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -7,19 +7,19 @@
   "publishedAt": "2026-05-31T19:03:57.000Z",
   "id": "product-hunt-dff7f22b",
   "slug": "product-hunt-dff7f22b",
-  "content": "Generate more accurate investment dashboards and reports Discussion | Link",
-  "fetchedAt": "2026-06-02T01:43:29.054Z",
+  "content": "R0Y is a natural language financial studio that builds full investing dashboards in seconds. Ask for projections, macro analysis, backtests, or strategy models — it connects hundreds of trillions of data points and generates live, interactive financial systems instantly. Collaborate with your team, share dashboards, and tailor everything to you or your organization. No code. No templates. Just intelligence on demand.",
+  "fetchedAt": "2026-06-03T02:04:51.715Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球",
     "金融"
   ],
-  "rank": 9,
-  "contentStatus": "fetch-failed",
+  "rank": 13,
+  "contentStatus": "article-extracted",
   "chineseTitle": "罗伊全能1.0",
   "chineseSummary": "生成更准确的投资仪表板和报告关联",
-  "chineseContent": "生成更准确的投资仪表板和报告关联",
+  "chineseContent": "R0Y 是一家自然语言金融工作室，可在几秒钟内构建完整的投资仪表板。要求预测、宏观分析、回溯测试或策略模型——它连接数百万亿个数据点，并立即生成实时、交互式的金融系统。与您的团队协作、共享仪表板并为您或您的组织量身定制一切。没有代码。没有模板。只是按需提供情报。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

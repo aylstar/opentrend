@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2d8531bb06",
+  "slug": "weibo-樊振东发文庆祝三冠王",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "樊振东发文庆祝三冠王",
+  "summary": "微博热榜第 9 位：樊振东发文庆祝三冠王，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D%E4%B8%89%E5%86%A0%E7%8E%8B%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.945Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

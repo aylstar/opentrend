@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e9b4586cd4",
+  "slug": "weibo-傅首尔瘦了38斤",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "傅首尔瘦了38斤",
+  "summary": "微博热榜第 20 位：傅首尔瘦了38斤，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%98%A6%E4%BA%8638%E6%96%A4%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

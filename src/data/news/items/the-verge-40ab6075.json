@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Trump signs executive order to review AI models before they’re released",
+  "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this […]",
+  "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+  "publishedAt": "2026-06-02T18:33:42.000Z",
+  "id": "the-verge-40ab6075",
+  "slug": "the-verge-40ab6075",
+  "content": "President Donald Trump signed an executive order Tuesday creating a “voluntary framework” for AI companies to share their frontier models with the federal government before they’re released “to promote secure innovation and strengthen the cybersecurity of critical infrastructure.” The order says the US AI industry has succeeded in part “because we refuse to stifle this innovation with overly burdensome regulation,” but that it also recognizes new AI capabilities come with security risks. Accordingly, it directs several federal agencies to come up with a framework to “assess the advanced cyber capabilities of AI models” before they’re released to the public. Companies would have the discretion of whether to share their models with the government pre-release, but could get certain confidentiality protections if they choose to do so. It also requires the federal government to prepare cyber defenses for AI, especially for critical infrastructure. The order comes after Trump postponed at the last minute signing a previously planned executive order that he worried could “get in the way” of competing with China. While the earlier version would have allowed AI companies to voluntarily share their models 14 to 90 days before release, according to The New York Times, the current version asks companies to share their models up to 30 days before public release. Google, Microsoft, and xAI agreed last month to allow pre-release review by the Commerce Department’s Center for AI Standards and Innovation (CAISI). OpenAI and Anthropic had already agreed to share their models with CAISI back in 2024 under President Joe Biden as part of Biden’s push for AI safety guardrails. But until recently, the Trump administration downplayed safety concerns and took a hands-off approach under former White House AI czar David Sacks. The order signed Tuesday explicitly says it shouldn’t be taken as a form of mandatory licensing or preclearance. Still, it reflects some willingness of the Trump administration to employ oversight of AI companies.&nbsp; One factor in this shift may be Anthropic’s limited April rollout of its powerful Mythos model, which the company said had flagged “thousands of high-severity vulnerabilities, including some in every major operating system and web browser.” Mythos also seemed to create an opening to thaw tensions between Anthropic and the administration, following its legal battle with the Pentagon over its use of AI for autonomous lethal weapons and mass surveillance.&nbsp; The newly signed order has so far garnered praise even from groups that have advocated against restrictions on state AI laws. “The White House is officially Mythos-pilled,” Americans for Responsible Innovation President Brad Carson said in a statement, adding that the order shows the Trump administration is taking AI vulnerabilities seriously. Alliance for Secure AI CEO Brendan Steinhauser said his group is “pleased to see that the Trump administration is taking the risks of these models seriously,” and both Steinhauser and Carson urged Congress to codify mandatory protections.",
+  "fetchedAt": "2026-06-03T02:04:51.716Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "安全"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "特朗普签署行政命令，在 AI 模型发布前对其进行审查",
+  "chineseSummary": "唐纳德·特朗普总统周二签署了一项行政命令，为人工智能公司创建一个“自愿框架”，以便在其前沿模型发布之前与联邦政府分享，“以促进安全创新并加强关键基础设施的网络安全”。该命令称，美国人工智能行业取得了成功，部分原因是“我们拒绝扼杀这一[...]",
+  "chineseContent": "唐纳德·特朗普总统周二签署了一项行政命令，为人工智能公司创建一个“自愿框架”，以便在发布前沿模型之前与联邦政府分享，“以促进安全创新并加强关键基础设施的网络安全”。该命令称，美国人工智能行业取得了成功，部分原因是“我们拒绝用过于繁琐的监管来扼杀这种创新”，但它也认识到新的人工智能功能会带来安全风险。因此，它指示几个联邦机构在向公众发布之前提出一个框架来“评估人工智能模型的先进网络能力”。公司可以自行决定是否与政府预发布共享他们的模型，但如果他们选择这样做，可以获得一定的保密保护。它还要求联邦政府为人工智能准备网络防御，特别是关键基础设施。该命令是在特朗普在最后一刻推迟签署先前计划的行政命令之后发布的，他担心该命令可能“妨碍”与中国的竞争。据《纽约时报》报道，虽然早期版本允许人工智能公司在发布前 14 至 90 天自愿分享其模型，但当前版本要求公司在公开发布前最多 30 天分享其模型。谷歌、微软和 xAI 上个月同意允许美国商务部人工智能标准与创新中心 (CAISI) 进行预发布审查。早在 2024 年，乔·拜登总统领导下，OpenAI 和 Anthropic 就已同意与 CAISI 分享他们的模型，作为拜登推动人工智能安全护栏的一部分。但直到最近，特朗普政府淡化了安全担忧，并在前白宫领导下采取了不干涉的态度。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

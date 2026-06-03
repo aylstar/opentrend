@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Open Repair Data Standard – Open Repair Alliance",
+  "summary": "91 points · 3 comments",
+  "content": "The Open Repair Data Standard (ORDS) defines a shared approach towards collecting and sharing repair data about small electricals and electronics. The goal of this standard is to make it easy to combine open data on electronics repair that has been collected by many different groups.\n\nFollowing a common standard helps us to identify trends and patterns globally, and also within countries and regions, by combining data from local community repair events.&nbsp; For example, when we combine our data, we could identify the most recurrent failures and fixes of blenders brought to community repair events in the UK, across Europe and even globally.\n\nThe definition of the standard is an ongoing process, with version 0.3 the latest released version as of December 2021. If you would like to contribute to future discussions of ORDS, please get in touch with us .\n\nOur data available for download is combined using ORDS.\n\nIn version 0.1 we concentrated on standardising elements already captured by most members, prioritising areas where there was already convergence, while leaving out other areas where more work was needed.\n\nVersion 0.2 updated the standard based on insights learned from the first data aggregations.&nbsp; The main changes were\n\nThe modules of collected information are as follows:\n\nWe collect repair data from organisations and community groups and compile this in to the common ORDS format.&nbsp; We publish these combined datasets every six months.\n\nThe Open Repair Alliance keeps a record of all datasets complying with the standard, published on the Open Repair Alliance’s website , allowing interested parties to access them.\n\nThe ORDS is always evolving. Some points for discussion for future versions:\n\nIf you would like would like to get involved in these discussions, please get in touch with us .",
+  "url": "https://openrepair.org/open-data/open-standard/",
+  "publishedAt": "2026-06-02T19:37:10.000Z",
+  "points": 91,
+  "id": "hacker-news-737c63fc",
+  "slug": "hacker-news-737c63fc",
+  "fetchedAt": "2026-06-03T02:04:51.713Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "开放维修数据标准 – 开放维修联盟",
+  "chineseSummary": "91 分 · 3 条评论",
+  "chineseContent": "开放维修数据标准 (ORDS) 定义了一种收集和共享小型电气和电子产品维修数据的共享方法。该标准的目标是轻松整合许多不同团体收集的电子维修开放数据。\n\n遵循通用标准有助于我们通过结合当地社区维修事件的数据来识别全球以及国家和地区内的趋势和模式。  例如，当我们结合数据时，我们可以识别英国、整个欧洲甚至全球社区维修活动中搅拌机最常见的故障和修复方法。\n\n标准的定义是一个持续的过程，0.3 版是截至 2021 年 12 月发布的最新版本。如果您想为 ORDS 的未来讨论做出贡献，请与我们联系。\n\n我们可供下载的数据是使用 ORDS 合并的。\n\n在 0.1 版本中，我们集中精力标准化大多数成员已经掌握的元素，优先考虑已经趋同的领域，同时忽略其他需要更多工作的领域。\n\n0.2 版根据从第一次数据聚合中学到的见解更新了标准。  主要变化是\n\n采集信息的模块如下：\n\n我们从组织和社区团体收集维修数据，并将其编译为通用 ORDS 格式。  我们每六个月发布一次这些组合数据集。\n\n开放维修联盟保留所有符合标准的数据集的记录，并发布在开放维修联盟的网站上，允许感兴趣的各方访问它们。\n\nORDS 始终在不断发展。未来版本讨论的一些要点：\n\n如果您愿意参与这些讨论，请与我们联系。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -7,18 +7,18 @@
   "publishedAt": "2026-05-31T21:45:07.000Z",
   "id": "product-hunt-f6893405",
   "slug": "product-hunt-f6893405",
-  "content": "Real API data in your mockups made as easy as lorem ipsum. Discussion | Link",
-  "fetchedAt": "2026-06-02T01:43:29.054Z",
+  "content": "A Figma plugin that binds layers to live REST endpoints. Paste a URL, map JSON paths to layer names, save the recipe as a Palette, and apply it to any frame. Design with real data instead of lorem ipsum.",
+  "fetchedAt": "2026-06-03T02:04:51.715Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 11,
-  "contentStatus": "fetch-failed",
+  "rank": 14,
+  "contentStatus": "article-extracted",
   "chineseTitle": "通过 JSON 绘制 | Figma API 客户端",
   "chineseSummary": "模型中的真实 API 数据就像 lorem ipsum 一样简单。讨论 |关联",
-  "chineseContent": "模型中的真实 API 数据就像 lorem ipsum 一样简单。讨论 |关联",
+  "chineseContent": "一个 Figma 插件，将层绑定到实时 REST 端点。粘贴 URL，将 JSON 路径映射到图层名称，将配方保存为调色板，并将其应用到任何框架。使用真实数据而不是 lorem ipsum 进行设计。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

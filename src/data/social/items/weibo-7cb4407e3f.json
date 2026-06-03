@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7cb4407e3f",
+  "slug": "weibo-国内金价跌破980元每克",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "国内金价跌破980元每克",
+  "summary": "微博热榜第 15 位：国内金价跌破980元每克，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

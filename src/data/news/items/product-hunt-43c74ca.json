@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "GlowPulse",
+  "summary": "Your Mac's camera is now a heart-rate sensor Discussion | Link",
+  "url": "https://www.producthunt.com/products/glowpulse",
+  "publishedAt": "2026-05-31T11:48:31.000Z",
+  "id": "product-hunt-43c74ca",
+  "slug": "product-hunt-43c74ca",
+  "content": "GlowPulse measures your heart rate from your Mac's built-in camera using rPPG – no watch, no chest strap, no wearable. Lives in the menu bar with live BPM, sparkline, and color-coded zones. 100% on-device. Camera frames are processed in memory and discarded. No cloud, no account, no telemetry. Pomodoro focus with live HR chart. Breathing sessions with real-time HRV. 30-second stress check. $2.99 once. macOS 13+.",
+  "fetchedAt": "2026-06-03T02:04:51.715Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "辉光脉冲",
+  "chineseSummary": "您的 Mac 相机现在是一个心率传感器关联",
+  "chineseContent": "GlowPulse 使用 rPPG 通过 Mac 的内置摄像头测量您的心率 - 无需手表、无需胸带、无需可穿戴设备。菜单栏中包含实时 BPM、迷你图和颜色编码区域。 100% 在设备上。相机帧在内存中处理并丢弃。没有云、没有帐户、没有遥测。番茄工作法重点关注实时心率图。实时 HRV 呼吸课程。 30 秒压力检查。一次 2.99 美元。 macOS 13+。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

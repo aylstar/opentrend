@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fc8eca88db",
+  "slug": "weibo-王源工作强度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "王源工作强度",
+  "summary": "微博热榜第 37 位：王源工作强度，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%B7%A5%E4%BD%9C%E5%BC%BA%E5%BA%A6%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-06-03 10:04:58",
+  "fetchedAt": "2026-06-03T02:06:26.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
