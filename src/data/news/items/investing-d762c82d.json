@@ -8,18 +8,18 @@
   "id": "investing-d762c82d",
   "slug": "investing-d762c82d",
   "content": "Oil and US Dollar Gain Support as Middle East Tensions Escalate",
-  "fetchedAt": "2026-06-04T02:03:35.862Z",
+  "fetchedAt": "2026-06-04T06:57:08.702Z",
   "score": 90,
   "sourceWeight": 80,
   "tags": [
     "全球",
     "财经"
   ],
-  "rank": 28,
-  "contentStatus": "fetch-failed",
-  "chineseTitle": "中东紧张局势升级，石油和美元获得支撑",
-  "chineseSummary": "该条目暂未抓取到摘要，建议点击原文链接核对完整信息。",
-  "chineseContent": "中东紧张局势升级，石油和美元获得支撑",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "rank": 29,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Oil and US Dollar Gain Support as Middle East Tensions Escalate",
+  "chineseSummary": "翻译服务暂不可用，已保留原始摘要。",
+  "chineseContent": "Oil and US Dollar Gain Support as Middle East Tensions Escalate",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-79e14b6f17",
+  "slug": "weibo-京东方a再涨停",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "京东方A再涨停",
+  "summary": "微博热榜第 20 位：京东方A再涨停，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E6%96%B9A%E5%86%8D%E6%B6%A8%E5%81%9C%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 14:51:59",
+  "fetchedAt": "2026-06-04T06:59:17.172Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fca6432efc",
+  "slug": "weibo-歌手第三期歌单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "歌手第三期歌单",
+  "summary": "微博热榜第 9 位：歌手第三期歌单，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%B8%89%E6%9C%9F%E6%AD%8C%E5%8D%95%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 14:51:59",
+  "fetchedAt": "2026-06-04T06:59:17.172Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

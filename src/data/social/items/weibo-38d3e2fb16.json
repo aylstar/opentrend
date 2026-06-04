@@ -1,0 +1,21 @@
+{
+  "id": "weibo-38d3e2fb16",
+  "slug": "weibo-乘风2026",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "乘风2026",
+  "summary": "微博热榜第 50 位：乘风2026，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 14:51:59",
+  "fetchedAt": "2026-06-04T06:59:17.172Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,18 +8,18 @@
   "id": "product-hunt-74561eb6",
   "slug": "product-hunt-74561eb6",
   "content": "Teach your AI to build document templates Discussion | Link",
-  "fetchedAt": "2026-06-04T02:03:35.854Z",
+  "fetchedAt": "2026-06-04T06:57:08.696Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 10,
+  "rank": 14,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "AI 的 Carbone 技能",
-  "chineseSummary": "教你的 AI 构建文档模板 讨论 |关联",
-  "chineseContent": "教你的 AI 构建文档模板 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Carbone Skill for AI",
+  "chineseSummary": "Teach your AI to build document templates Discussion | Link",
+  "chineseContent": "Teach your AI to build document templates Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

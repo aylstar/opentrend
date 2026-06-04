@@ -8,7 +8,7 @@
   "id": "marketwatch-9e8b9e46",
   "slug": "marketwatch-9e8b9e46",
   "content": "Like Palo Alto Networks before it, CrowdStrike beats financial expectations but sees its stock get punished",
-  "fetchedAt": "2026-06-04T02:03:35.858Z",
+  "fetchedAt": "2026-06-04T06:57:08.699Z",
   "score": 90,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "财经",
     "安全"
   ],
-  "rank": 20,
+  "rank": 21,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "随着投资者找到更多理由关注网络安全收益，CrowdStrike 股价下跌",
-  "chineseSummary": "与之前的 Palo Alto Networks 一样，CrowdStrike 超出了财务预期，但其股票却受到了惩罚",
-  "chineseContent": "与之前的 Palo Alto Networks 一样，CrowdStrike 超出了财务预期，但其股票却受到了惩罚",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "CrowdStrike’s stock falls as investors find more reason to pan cybersecurity earnings",
+  "chineseSummary": "Like Palo Alto Networks before it, CrowdStrike beats financial expectations but sees its stock get punished",
+  "chineseContent": "Like Palo Alto Networks before it, CrowdStrike beats financial expectations but sees its stock get punished",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

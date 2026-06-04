@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-02T12:37:56.000Z",
   "id": "product-hunt-7c9dc568",
   "slug": "product-hunt-7c9dc568",
-  "content": "Every edit the agent proposes arrives with a built-in explanation and its own chat. Ask why, what it touches, or tell it to redo it. None of it derails the main agent.",
-  "fetchedAt": "2026-06-04T02:03:35.854Z",
+  "content": "Review AI edits like stacked PRs at generation time. Discussion | Link",
+  "fetchedAt": "2026-06-04T06:57:08.696Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 14,
-  "contentStatus": "article-extracted",
-  "chineseTitle": "处理程序",
-  "chineseSummary": "在生成时像堆叠 PR 一样审查 AI 编辑。讨论 |关联",
-  "chineseContent": "代理提出的每项编辑都会附带内置解释和自己的聊天。询问原因、触及什么，或者告诉它重做。这些都没有让主要特工脱轨。",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "rank": 15,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Handler",
+  "chineseSummary": "Review AI edits like stacked PRs at generation time. Discussion | Link",
+  "chineseContent": "Review AI edits like stacked PRs at generation time. Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

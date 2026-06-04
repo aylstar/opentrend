@@ -1,0 +1,21 @@
+{
+  "id": "weibo-26df27d01f",
+  "slug": "weibo-小英都变张元英了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "小英都变张元英了",
+  "summary": "微博热榜第 12 位：小英都变张元英了，当前热度为 49万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%8B%B1%E9%83%BD%E5%8F%98%E5%BC%A0%E5%85%83%E8%8B%B1%E4%BA%86%23",
+  "hotValue": "49万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 14:51:59",
+  "fetchedAt": "2026-06-04T06:59:17.172Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

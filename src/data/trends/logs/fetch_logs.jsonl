@@ -462,3 +462,21 @@
 {"time":"2026-06-04T02:03:26.042Z","level":"info","message":"processed HKUDS/ViMax"}
 {"time":"2026-06-04T02:03:26.605Z","level":"info","message":"processed Imbad0202/academic-research-skills"}
 {"time":"2026-06-04T02:03:27.076Z","level":"info","message":"processed fathah/hermes-desktop"}
+{"time":"2026-06-04T06:55:43.677Z","level":"info","message":"trend run started, limit=10"}
+{"time":"2026-06-04T06:55:45.748Z","level":"warn","message":"reused cached harry0703/MoneyPrinterTurbo: 403 rate limit exceeded: https://api.github.com/repos/harry0703/MoneyPrinterTurbo"}
+{"time":"2026-06-04T06:55:45.858Z","level":"warn","message":"reused cached chopratejas/headroom: 403 rate limit exceeded: https://api.github.com/repos/chopratejas/headroom"}
+{"time":"2026-06-04T06:55:46.032Z","level":"warn","message":"reused cached microsoft/markitdown: 403 rate limit exceeded: https://api.github.com/repos/microsoft/markitdown"}
+{"time":"2026-06-04T06:55:46.152Z","level":"warn","message":"reused cached Lum1104/Understand-Anything: 403 rate limit exceeded: https://api.github.com/repos/Lum1104/Understand-Anything"}
+{"time":"2026-06-04T06:55:46.287Z","level":"warn","message":"reused cached revfactory/harness: 403 rate limit exceeded: https://api.github.com/repos/revfactory/harness"}
+{"time":"2026-06-04T06:55:46.407Z","level":"warn","message":"reused cached hardikpandya/stop-slop: 403 rate limit exceeded: https://api.github.com/repos/hardikpandya/stop-slop"}
+{"time":"2026-06-04T06:55:46.552Z","level":"warn","message":"reused cached EveryInc/compound-engineering-plugin: 403 rate limit exceeded: https://api.github.com/repos/EveryInc/compound-engineering-plugin"}
+{"time":"2026-06-04T06:55:46.660Z","level":"warn","message":"reused cached Leonxlnx/taste-skill: 403 rate limit exceeded: https://api.github.com/repos/Leonxlnx/taste-skill"}
+{"time":"2026-06-04T06:55:46.769Z","level":"warn","message":"reused cached supermemoryai/supermemory: 403 rate limit exceeded: https://api.github.com/repos/supermemoryai/supermemory"}
+{"time":"2026-06-04T06:55:46.880Z","level":"warn","message":"reused cached colbymchenry/codegraph: 403 rate limit exceeded: https://api.github.com/repos/colbymchenry/codegraph"}
+{"time":"2026-06-04T06:55:47.077Z","level":"warn","message":"reused cached anthropics/financial-services: 403 rate limit exceeded: https://api.github.com/repos/anthropics/financial-services"}
+{"time":"2026-06-04T06:55:47.186Z","level":"warn","message":"reused cached CloakHQ/CloakBrowser: 403 rate limit exceeded: https://api.github.com/repos/CloakHQ/CloakBrowser"}
+{"time":"2026-06-04T06:55:47.294Z","level":"warn","message":"reused cached Hmbown/CodeWhale: 403 rate limit exceeded: https://api.github.com/repos/Hmbown/CodeWhale"}
+{"time":"2026-06-04T06:55:47.405Z","level":"warn","message":"reused cached rohitg00/agentmemory: 403 rate limit exceeded: https://api.github.com/repos/rohitg00/agentmemory"}
+{"time":"2026-06-04T06:55:47.603Z","level":"warn","message":"reused cached HKUDS/ViMax: 403 rate limit exceeded: https://api.github.com/repos/HKUDS/ViMax"}
+{"time":"2026-06-04T06:55:47.711Z","level":"warn","message":"reused cached Imbad0202/academic-research-skills: 403 rate limit exceeded: https://api.github.com/repos/Imbad0202/academic-research-skills"}
+{"time":"2026-06-04T06:55:47.820Z","level":"warn","message":"reused cached fathah/hermes-desktop: 403 rate limit exceeded: https://api.github.com/repos/fathah/hermes-desktop"}

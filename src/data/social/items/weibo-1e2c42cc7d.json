@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e2c42cc7d",
+  "slug": "weibo-尼克斯1比0马刺",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "尼克斯1比0马刺",
+  "summary": "微博热榜第 48 位：尼克斯1比0马刺，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%96%AF1%E6%AF%940%E9%A9%AC%E5%88%BA%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 14:51:59",
+  "fetchedAt": "2026-06-04T06:59:17.172Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

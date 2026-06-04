@@ -8,18 +8,18 @@
   "id": "product-hunt-d46f62da",
   "slug": "product-hunt-d46f62da",
   "content": "Native Android AI chat with chats stored locally Discussion | Link",
-  "fetchedAt": "2026-06-04T02:03:35.854Z",
+  "fetchedAt": "2026-06-04T06:57:08.696Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 12,
+  "rank": 13,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "回声流",
-  "chineseSummary": "原生 Android AI 聊天，聊天记录保存在本地 讨论 |关联",
-  "chineseContent": "原生 Android AI 聊天，聊天记录保存在本地 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "EchoFlow",
+  "chineseSummary": "Native Android AI chat with chats stored locally Discussion | Link",
+  "chineseContent": "Native Android AI chat with chats stored locally Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

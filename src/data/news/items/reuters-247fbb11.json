@@ -8,7 +8,7 @@
   "id": "reuters-247fbb11",
   "slug": "reuters-247fbb11",
   "content": "Revolut's US bank aims to offer FDIC-insured products, stablecoin &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-06-04T02:03:35.867Z",
+  "fetchedAt": "2026-06-04T06:57:08.705Z",
   "score": 90,
   "sourceWeight": 94,
   "tags": [
@@ -18,9 +18,9 @@
   ],
   "rank": 11,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Revolut 的美国银行旨在提供 FDIC 承保的产品和稳定币",
-  "chineseSummary": "Revolut 的美国银行旨在提供 FDIC 承保的产品和稳定币 路透",
-  "chineseContent": "Revolut 的美国银行旨在提供 FDIC 承保的产品和稳定币 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Revolut's US bank aims to offer FDIC-insured products, stablecoin",
+  "chineseSummary": "Revolut's US bank aims to offer FDIC-insured products, stablecoin &nbsp;&nbsp; Reuters",
+  "chineseContent": "Revolut's US bank aims to offer FDIC-insured products, stablecoin &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
