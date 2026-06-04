@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7b064121e2",
+  "slug": "weibo-中国机器人亮相美国达人秀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "中国机器人亮相美国达人秀",
+  "summary": "微博热榜第 10 位：中国机器人亮相美国达人秀，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E7%BE%8E%E5%9B%BD%E8%BE%BE%E4%BA%BA%E7%A7%80%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 10:00:02",
+  "fetchedAt": "2026-06-04T02:04:50.003Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

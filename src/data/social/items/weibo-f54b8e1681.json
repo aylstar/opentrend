@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f54b8e1681",
+  "slug": "weibo-nba总决赛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "NBA总决赛",
+  "summary": "微博热榜第 2 位：NBA总决赛，当前热度为 82万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23NBA%E6%80%BB%E5%86%B3%E8%B5%9B%23",
+  "hotValue": "82万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 10:00:02",
+  "fetchedAt": "2026-06-04T02:04:50.002Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

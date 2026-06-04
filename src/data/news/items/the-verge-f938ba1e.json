@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple is bringing age verification to Texas this week",
+  "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a […]",
+  "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+  "publishedAt": "2026-06-03T21:49:51.000Z",
+  "id": "the-verge-f938ba1e",
+  "slug": "the-verge-f938ba1e",
+  "content": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas’ App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a new Apple account will need to verify they’re over 18 using a credit card or government ID. Apple may also automatically verify users’ age using the age of their account and whether they have a credit card on file. Meanwhile, users under 18 must join a Family Sharing group, where a parent or guardian will need to provide consent for app downloads and in-app purchases. Developers must also ensure they’re providing age-appropriate experiences for users under 18 and can use Apple’s Declared Age Range API to check a user’s age range. Despite Apple’s attempts to push back on app store-level age verification, the company has announced plans to implement age checks to comply with laws in places like Utah, Louisiana, Brazil, Australia, Singapore, and the UK. Google is required to make similar changes to the Play Store and is also introducing age-checking tools for developers. Last December, a judge blocked the App Store Accountability Act (SB 2420) from taking effect, but an appeals court has now reversed this decision — at least while the court figures out whether the law is constitutional. Even if this law gets struck down in Texas, a federal version with the same name is still making its way through Congress and could impose age verification at the app store nationwide.",
+  "fetchedAt": "2026-06-04T02:03:35.855Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果本周将在德克萨斯州推出年龄验证功能",
+  "chineseSummary": "Apple 将于 6 月 4 日星期四开始在 App Store 中为德克萨斯州用户引入年龄验证功能。据 MacRumors 报道，就在几天前，联邦上诉法院允许德克萨斯州的《应用商店责任法案》生效，同时针对该法案的诉讼仍在进行中。德克萨斯州的人们正在创建一个[...]",
+  "chineseContent": "Apple 将于 6 月 4 日星期四开始在 App Store 中为德克萨斯州用户引入年龄验证功能。据 MacRumors 报道，就在几天前，联邦上诉法院允许德克萨斯州的《应用商店责任法案》生效，同时针对该法案的诉讼仍在进行中。德克萨斯州的用户要创建新的 Apple 帐户，需要使用信用卡或政府身份证件验证自己已年满 18 岁。苹果还可以根据用户账户的年龄以及他们是否有信用卡记录来自动验证用户的年龄。同时，18 岁以下的用户必须加入家庭共享群组，在该群组中，应用下载和应用内购买需要获得家长或监护人的同意。开发者还必须确保为 18 岁以下的用户提供适合年龄的体验，并可以使用 Apple 的声明年龄范围 API 来检查用户的年龄范围。尽管苹果试图阻止应用商店级别的年龄验证，但该公司已宣布计划实施年龄检查，以遵守犹他州、路易斯安那州、巴西、澳大利亚、新加坡和英国等地的法律。谷歌被要求对 Play 商店做出类似的改变，并且还为开发者引入了年龄检查工具。去年 12 月，一名法官阻止了《应用商店责任法案》(SB 2420) 的生效，但上诉法院现已推翻了这一决定——至少在法院确定该法律是否符合宪法时是这样。即使这项法律在德克萨斯州被废除，同名的联邦版本仍在国会通过，并可能在全国范围内的应用商店强制实施年龄验证。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

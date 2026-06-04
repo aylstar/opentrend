@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d40a578f2b",
+  "slug": "weibo-新闻联播披露a股重要数据",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "新闻联播披露A股重要数据",
+  "summary": "微博热榜第 37 位：新闻联播披露A股重要数据，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 10:00:02",
+  "fetchedAt": "2026-06-04T02:04:50.003Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Rootshell: A new E2EE email service hosted in Iceland",
+  "summary": "43 points · 39 comments",
+  "content": "43 points · 39 comments",
+  "url": "https://rootshell.is",
+  "publishedAt": "2026-06-03T18:58:05.000Z",
+  "points": 43,
+  "id": "hacker-news-e4b36181",
+  "slug": "hacker-news-e4b36181",
+  "fetchedAt": "2026-06-04T02:03:35.853Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "Rootshell：冰岛托管的新 E2EE 电子邮件服务",
+  "chineseSummary": "43 分 · 39 条评论",
+  "chineseContent": "43 分 · 39 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

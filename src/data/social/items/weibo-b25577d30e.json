@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b25577d30e",
+  "slug": "weibo-古师下线",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "古师下线",
+  "summary": "微博热榜第 46 位：古师下线，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B8%88%E4%B8%8B%E7%BA%BF%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 10:00:02",
+  "fetchedAt": "2026-06-04T02:04:50.003Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

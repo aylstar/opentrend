@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Gemma 4 12B: A unified, encoder-free multimodal model",
+  "summary": "688 points · 289 comments",
+  "content": "Gemma 4 12B is designed to bring high-performance multimodal intelligence directly to your laptop, combining mobile-first efficiency with advanced reasoning.\n\nYour browser does not support the audio element.\n\nToday, we are introducing Gemma 4 12B, our latest model designed to bring agentic multimodal intelligence directly to laptops. Bridging the gap between our edge-friendly E4B and our more advanced 26B Mixture of Experts (MoE), Gemma 4 12B packages powerful capabilities inside a reduced memory footprint. It is also our first mid-sized model to feature native audio inputs.\n\nThanks to the developer community, Gemma 4 models have now crossed 150 million downloads. You’ve built everything from wearable robotic arms for physical assistance to enterprise-grade AI security . We're excited to see what you build with this latest addition.\n\nHere’s an overview of what makes Gemma 4 12B unique:\n\nTogether, these features bring advanced multimodal capabilities to everyday hardware without sacrificing speed or reasoning. Let's now take a closer look at how Gemma 4 12B achieves this.\n\nRun state-of-the-art agents locally\n\nGemma 4 12B delivers performance nearing our larger 26B MoE model on standard benchmarks, but at less than half the total memory footprint. Small enough to run locally on consumer laptops with 16GB of RAM, it unlocks powerful multimodal and agentic experiences right on your machine.\n\nExperience a uniquely efficient, unified architecture\n\nWhat makes Gemma 4 12B stand out is its streamlined approach to processing visual and audio inputs. Traditional multimodal models typically rely on separate encoders to translate images and audio before passing those representations to the language model. Because these split encoders add latency and increase memory usage, we trained Gemma 4 12B with an encoder-free architecture to integrate audio and vision input directly.\n\nHere is how Gemma 4 12B processes multimodal inputs natively:\n\nFor developers who want a breakdown, head over to our companion Gemma 4 12B Developer Guide .",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+  "publishedAt": "2026-06-03T16:04:42.000Z",
+  "points": 688,
+  "id": "hacker-news-1df504e1",
+  "slug": "hacker-news-1df504e1",
+  "fetchedAt": "2026-06-04T02:03:35.852Z",
+  "score": 81,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gemma 4 12B：统一的、无编码器的多模态模型",
+  "chineseSummary": "688 分 · 289 条评论",
+  "chineseContent": "Gemma 4 12B 旨在将高性能多模式智能直接带入您的笔记本电脑，将移动优先的效率与先进的推理相结合。\n\n您的浏览器不支持音频元素。\n\n今天，我们推出 Gemma 4 12B，这是我们的最新型号，旨在将代理多模式智能直接引入笔记本电脑。 Gemma 4 12B 弥补了我们的边缘友好型 E4B 和更先进的 26B Mixture of Experts (MoE) 之间的差距，在更小的内存占用范围内提供了强大的功能。这也是我们首款配备原生音频输入的中型型号。\n\n感谢开发者社区，Gemma 4 模型的下载量现已突破 1.5 亿次。您已经构建了从用于物理协助的可穿戴机械臂到企业级人工智能安全的一切。我们很高兴看到您使用这个最新功能构建的内容。\n\n以下概述了 Gemma 4 12B 的独特之处：\n\n这些功能共同为日常硬件带来了先进的多模式功能，而无需牺牲速度或推理能力。现在让我们仔细看看 Gemma 4 12B 如何实现这一目标。\n\n在本地运行最先进的代理\n\nGemma 4 12B 在标准基准测试中提供的性能接近我们更大的 26B MoE 模型，但总内存占用量还不到一半。它足够小，可以在具有 16GB RAM 的消费类笔记本电脑上本地运行，可以在您的计算机上解锁强大的多模式和代理体验。\n\n体验独特高效、统一的架构\n\nGemma 4 12B 的突出之处在于其处理视觉和音频输入的简化方法。传统的多模态模型通常依赖单独的编码器来翻译图像和音频，然后再将这些表示传递给语言模型。由于这些分离编码器会增加延迟并增加内存使用量，因此我们使用无编码器架构来训练 Gemma 4 12B，以直接集成音频和视觉输入。\n\n以下是 Gemma 4 12B 如何原生处理多模式输入：\n\n对于想要详细了解的开发人员，请参阅我们的配套 Gemma 4 12B 开发人员指南。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

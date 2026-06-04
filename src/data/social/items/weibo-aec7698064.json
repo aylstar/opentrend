@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aec7698064",
+  "slug": "weibo-刘浩存演技",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "刘浩存演技",
+  "summary": "微博热榜第 11 位：刘浩存演技，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%BC%94%E6%8A%80%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-06-04 10:00:02",
+  "fetchedAt": "2026-06-04T02:04:50.003Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

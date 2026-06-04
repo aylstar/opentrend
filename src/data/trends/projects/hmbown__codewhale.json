@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/Hmbown/CodeWhale",
   "docsUrl": "https://codewhale.net/",
-  "stars": 36720,
-  "forks": 3155,
-  "openIssues": 454,
+  "stars": 36906,
+  "forks": 3175,
+  "openIssues": 498,
   "license": "MIT",
-  "pushedAt": "2026-06-03T01:41:14Z",
-  "updatedAt": "2026-06-03T01:56:41Z",
+  "pushedAt": "2026-06-03T23:25:19Z",
+  "updatedAt": "2026-06-04T02:02:55Z",
   "createdAt": "2026-01-19T18:21:01Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "# CodeWhale\n\n> Terminal coding agent for DeepSeek V4. It runs from the `codewhale` command, streams reasoning blocks, edits local workspaces with approval gates, and includes an auto mode that chooses both model and thinking level per turn.\n\n[简体中文 README](README.zh-CN.md)\n[日本語 README](README.ja-JP.md)\n[Tiếng Việt README](README.vi.md)\n\n\n## Install\n\n`codewhale` installs as a matched pair of self-contained Rust release binaries:\nthe `codewhale` dispatcher command and the sibling `codewhale-tui` runtime it\nlaunches for interactive sessions. npm and Docker install both for you; Cargo\nand manual installs must put both binaries in the same directory\n(normally a directory on your `PATH`). The npm package is only an\ninstaller/wrapper for those release binaries; the agent does not run on Node.\n\n```bash\n# 1. npm — easiest if you already use Node. The package downloads the\n#    matching prebuilt Rust binaries from GitHub Releases.\nnpm install -g codewhale\n\n# 2. Cargo — no Node needed. Requires Rust 1.88+ (the crates use the\n#    2024 edition; older toolchains fail with \"feature `edition2024` is\n#    required\"). Run `rustup update` first, or use a non-Cargo path below.\ncargo install codewhale-cli --locked   # `codewhale` (entry point)\ncargo install codewhale-tui     --locked   # `codewhale-tui` (TUI binary)\n\n# 3. Homebrew — legacy compatibility only.\n#    The tap/formula still uses the old deepseek-tui name. Prefer npm, Cargo,\n#    Docker, or direct downloads for new installs until the formula is renamed.\nbrew tap Hmbown/deepseek-tui\nbrew install deepseek-tui\n\n# 4. Direct download — platform archive from GitHub Releases.\n#    https://github.com/Hmbown/CodeWhale/releases\n#    Archives include both codewhale and codewhale-tui plus an install script.\n#    Individual binaries are also attached for scripts; keep the pair together.\n\n# 5. Docker — prebuilt release image.\ndocker volume create codewhale-home\ndocker run --rm -it \\\n  -e DEEPSEEK_API_KEY=\"$DEEPSEEK_API_KEY\" \\\n  -v codewhale-home:/home/codewhale/.codewhale \\\n  -v \"$PWD:/workspace\" \\\n  -w /workspace \\\n  ghcr.io/hmbown/codewhale:latest\n```\n\n> In mainland China, speed up the npm path with\n> `--registry=https://registry.npmmirror.com`, or use the\n> [Cargo mirror](#china--mirror-friendly-installation) below.\n>\n> Download safety: official release binaries live under\n> `https://github.com/Hmbown/CodeWhale/releases`. For manual downloads,\n> verify the SHA-256 manifest and avoid look-alike repositories or search-result\n> mirrors. See [download safety and checksums](docs/INSTALL.md#2-download-safety-and-checksums).\n\nAlready installed? Use the updater that matches the install path:\n\n```bash\ncodewhale update                         # release-binary updater\nnpm install -g codewhale@latest      # npm wrapper\nbrew update && brew upgrade deepseek-tui  # legacy Homebrew installs only\ncargo install codewhale-cli --locked --force\ncargo install codewhale-tui     --locked --force\n```\n\n> codewhale update now supports --proxy,",
-  "generatedAt": "2026-06-03T02:04:38.477Z",
+  "generatedAt": "2026-06-04T02:03:24.916Z",
   "analysis": {
     "oneLine": "CodeWhale 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "CodeWhale 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，CodeWhale 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 36,720，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，CodeWhale 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 36,906，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
