@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030",
+  "summary": "Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO",
+  "url": "https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4",
+  "publishedAt": "2026-06-04T14:50:46.000Z",
+  "id": "financial-times-1ccb1b74",
+  "slug": "financial-times-1ccb1b74",
+  "content": "Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO",
+  "fetchedAt": "2026-06-05T01:35:41.390Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 10,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "高盛预计 SpaceX 的 AI 收入到 2030 年将增长 100 倍",
+  "chineseSummary": "华尔街银行的预测支撑了 1.78 万亿美元的估值，该集团正在筹划 IPO",
+  "chineseContent": "华尔街银行的预测支撑了 1.78 万亿美元的估值，该集团正在筹划 IPO",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

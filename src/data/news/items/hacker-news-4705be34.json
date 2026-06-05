@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Hitoku Draft – Context aware local assistant",
+  "summary": "13 points · 1 comments",
+  "content": "Hi guys. I have been working on Hitoku Draft, an open-source, voice-first AI assistant that runs entirely locally. I posted about it already, and now it has also transcription with voice editing. Looking for feedback, as I found that outside tech circles other people still do not use this tech much. It's context-aware, in the sense that it reads your screen, documents, and active app to understand what you're working on. You can ask about PDFs, reply to emails, create calendar events, use web search, editing text, all by voice. You can download a compiled version for free with the code HITOKUHN2026 https://hitoku.me/draft/ (base price is 5 dollars) It supports Gemma 4 and Qwen 3.5 for text generation, plus multiple STT backends (Parakeet, Qwen3-ASR). Examples: - Gemma4 in action, https://www.youtube.com/watch?v=OgfI-3YjEVU - query a pdf document, https://www.youtube.com/watch?v=ggaDhut7FnU - reply to email, https://www.youtube.com/watch?v=QFnHXMBp1gA - and the usual voice dictation (with optional polishing) I currently use it a lot with Claude Code and Logseq. Now with some friends we are also building a new cross-platform version. The goal is on the long run to have AI interactive local models serving people and professionals.",
+  "url": "https://hitoku.me/draft/",
+  "publishedAt": "2026-06-04T17:48:58.000Z",
+  "points": 13,
+  "id": "hacker-news-4705be34",
+  "slug": "hacker-news-4705be34",
+  "fetchedAt": "2026-06-05T01:35:41.380Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Hitoku Draft – 上下文感知本地助手",
+  "chineseSummary": "13 分 · 1 条评论",
+  "chineseContent": "嗨，大家好。我一直在研究 Hitoku Draft，这是一个完全在本地运行的开源、语音优先的人工智能助手。我已经发布过相关内容，现在它还具有语音编辑转录功能。寻求反馈，因为我发现技术圈之外的其他人仍然不太使用这项技术。它具有上下文感知功能，可以读取您的屏幕、文档和活动应用程序以了解您正在处理的内容。您可以通过语音询问 PDF、回复电子邮件、创建日历活动、使用网络搜索、编辑文本。您可以使用代码 HITOKUHN2026 https://hitoku.me/draft/ 免费下载编译版本（基础价格为 5 美元）。它支持 Gemma 4 和 Qwen 3.5 进行文本生成，以及多个 STT 后端（Parakeet、Qwen3-ASR）。示例： - Gemma4 运行中，https://www.youtube.com/watch?v=OgfI-3YjEVU - 查询 pdf 文档，https://www.youtube.com/watch?v=ggaDhut7FnU - 回复电子邮件，https://www.youtube.com/watch?v=QFnHXMBp1gA - 以及通常的语音听写（带有可选的修饰）我目前经常将其与 Claude Code 一起使用对数序列。现在我们也和一些朋友一起构建一个新的跨平台版本。从长远来看，我们的目标是让人工智能交互式本地模型为人们和专业人士服务。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

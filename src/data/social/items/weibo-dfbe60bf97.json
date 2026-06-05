@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dfbe60bf97",
+  "slug": "weibo-芒种",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "芒种",
+  "summary": "微博热榜第 34 位：芒种，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8A%92%E7%A7%8D%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-06-05 09:36:13",
+  "fetchedAt": "2026-06-05T01:36:23.615Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6cc90bdea9",
+  "slug": "weibo-济南冰雹",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 31,
+  "title": "济南冰雹",
+  "summary": "微博热榜第 31 位：济南冰雹，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%86%B0%E9%9B%B9%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-06-05 09:36:13",
+  "fetchedAt": "2026-06-05T01:36:23.615Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

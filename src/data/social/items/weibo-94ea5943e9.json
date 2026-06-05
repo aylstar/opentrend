@@ -1,0 +1,21 @@
+{
+  "id": "weibo-94ea5943e9",
+  "slug": "weibo-高考加油",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "高考加油",
+  "summary": "微博热榜第 50 位：高考加油，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-06-05 09:36:13",
+  "fetchedAt": "2026-06-05T01:36:23.615Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Curata",
+  "summary": "A shared workspace for AI agents and humans. Discussion | Link",
+  "url": "https://www.producthunt.com/products/curata-3",
+  "publishedAt": "2026-06-03T15:27:22.000Z",
+  "id": "product-hunt-385e5016",
+  "slug": "product-hunt-385e5016",
+  "content": "Curata is an AI-native knowledge base where agents and humans build knowledge together. AI agents write structured pages from your live data or inputs - CRM, calls, tickets, Slack. Your team reviews and annotates in the browser. Every run compounds on the last. Connect any agent via MCP, give it read/write access, and your docs stay current without manual updates. 20+ rich components, version history, and an annotation layer closing the loop between what agents write and what humans know.",
+  "fetchedAt": "2026-06-05T01:35:41.381Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "洁净",
+  "chineseSummary": "人工智能代理和人类的共享工作空间。讨论 |关联",
+  "chineseContent": "Curata 是一个人工智能原生知识库，智能体和人类共同构建知识。人工智能代理根据您的实时数据或输入（CRM、电话、工单、Slack）编写结构化页面。您的团队在浏览器中进行审阅和注释。每一次的跑动都会对最后的跑动产生影响。通过 MCP 连接任何代理，为其提供读/写访问权限，您的文档无需手动更新即可保持最新状态。 20 多个丰富的组件、版本历史记录和注释层闭合了代理编写的内容和人类所知的内容之间的循环。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

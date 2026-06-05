@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/fathah/hermes-desktop",
   "docsUrl": "https://github.com/fathah/hermes-desktop",
-  "stars": 9966,
-  "forks": 1186,
-  "openIssues": 256,
+  "stars": 10297,
+  "forks": 1207,
+  "openIssues": 249,
   "license": "MIT",
-  "pushedAt": "2026-06-03T21:39:46Z",
-  "updatedAt": "2026-06-04T02:02:59Z",
+  "pushedAt": "2026-06-04T23:27:26Z",
+  "updatedAt": "2026-06-05T01:33:12Z",
   "createdAt": "2026-04-02T15:26:49Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<img width=\"100%\" alt=\"HERMES DESKTOP\" src=\"previews/header.webp\" />\n\n<br/>\n<p align=\"center\">\n  <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a>\n  <a href=\"https://t.me/hermes_agent_desktop\"><img src=\"https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white\" alt=\"Telegram\"></a>\n  <a href=\"https://github.com/fathah/hermes-desktop/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-green?style=for-the-badge\" alt=\"License: MIT\"></a>\n  <a href=\"https://hermesagents.cc/\"><img src=\"https://img.shields.io/badge/Download-Releases-FF6600?style=for-the-badge\" alt=\"Releases\"></a>\n<a href=\"https://github.com/fathah/hermes-desktop/stargazers\">\n  <img src=\"https://img.shields.io/github/stars/fathah/hermes-desktop?style=for-the-badge&color=FFD700&label=Stars\" alt=\"Stars\">\n</a>\n  <a href=\"https://github.com/fathah/hermes-desktop/releases/\">\n  <img src=\"https://img.shields.io/github/downloads/fathah/hermes-desktop/total?style=for-the-badge&color=00B496&label=Total%20Downloads\" alt=\"Downloads\">\n</a>\n</p>\n\n> **This project is in active development.** Features may change, and some things might break. If you run into a problem or have an idea, [open an issue](https://github.com/fathah/hermes-desktop/issues). Contributions are welcome!\n\n## Languages\n\n- English: `README.md`\n- 简体中文: `README.zh-CN.md`\n- 日本語: `README.ja-JP.md`\n- 🌎 Español (LATAM): `README.es-LATAM.md`\n\nHermes Desktop is a native desktop app for installing, configuring, and chatting with [Hermes Agent](https://github.com/NousResearch/hermes-agent) — a self-improving AI assistant with tool use, multi-platform messaging, and a closed learning loop.\n\nInstead of managing the CLI by hand, the app walks through install, provider setup, and day-to-day usage in one place. It uses the official Hermes install script, stores Hermes in `~/.hermes`, and gives you a GUI for chat, sessions, profiles, memory, skills, tools, scheduling, messaging gateways, and more.\n\n## Install\n\n<a href=\"https://hermesagents.cc/\"><img width=\"380\" alt=\"Download Now\" src=\"previews/download.webp\" /></a>\n\n### Windows\n\n> **Windows users:** The installer is not code-signed. Windows SmartScreen will warn on first launch — click \"More info\" → \"Run anyway\".\n\n> **WSL users:** If the installer stalls at `Switching to root user to install dependencies...`, Playwright is waiting for a sudo password that has no TTY to read from. Grant passwordless sudo for the install, then revert when finished:\n>\n> ```bash\n> echo \"$USER ALL=(ALL) NOPASSWD: ALL\" | sudo tee /etc/sudoers.d/hermes-install\n> # …re-run the installer; once it finishes:\n> sudo rm /etc/sudoers.d/hermes-install\n> ```\n>\n> Tracked in [#109](https://github.com/fathah/hermes-desktop/issues/109).\n\n### Fedora (RPM)\n\n```bash\nsudo dnf install ./hermes-desktop-<version>.rpm\n```\n\n> **Fedora users:** The `.rpm` is not ",
-  "generatedAt": "2026-06-04T06:55:47.819Z",
+  "generatedAt": "2026-06-05T01:35:32.549Z",
   "analysis": {
     "oneLine": "hermes-desktop 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "hermes-desktop 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，hermes-desktop 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 9,966，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，hermes-desktop 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 10,297，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
