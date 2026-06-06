@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+  "summary": "264 points · 86 comments",
+  "content": "Our new versions of the Gemma 4 family are optimized with Quantization-Aware Training (QAT) to dramatically reduce memory requirements and maximize on-device performance.\n\nYour browser does not support the audio element.\n\nSince releasing Gemma 4 two months ago, we've been continuously working to expand its capabilities. First, we introduced Multi-Token Prediction (MTP) to accelerate inference, and just a couple of days ago, we released a 12B model to bridge the gap between our E4B and 26B MOE models.\n\nToday, we are releasing new checkpoints optimized with Quantization-Aware Training (QAT) to make Gemma 4 even more efficient, so you can run models locally on everyday edge devices and consumer GPUs.\n\nBy simulating quantization during training, QAT minimizes quality loss when the model is compressed. This release includes QAT checkpoints for the popular Q4_0 quantization format as well as a novel quantization format specialized for mobile use cases. Using this mobile format, we’ve reduced the memory footprint of Gemma 4 E2B to 1GB. Together, these dramatically reduce memory requirements while preserving the capabilities and quality you expect from Gemma 4.\n\nKeeping model quality while making them smaller\n\nQuantization is a key technology to run models on consumer hardware by reducing their memory footprint while also accelerating decode speed. However, standard Post-Training Quantization (PTQ) often leads to performance degradation. Instead of simply quantizing the model after training, QAT integrates the quantization process directly into training. While PTQ is already effective at preserving quality, our QAT results yield even higher overall quality compared to standard PTQ baselines.\n\nWe applied this QAT recipe to the popular Q4_0 format to maximize performance for all the models. For the edge models (E2B and E4B), we rethought how we approach quantization with a special mobile-specialized quantization schema.\n\nBelow are the approximate memory requirements indicating how much VRAM is required to load the models:\n\nOptimizing for mobile devices under the hood\n\nStandard compression formats are often hard for mobile processors to run efficiently. To ensure Gemma 4 performs smoothly on mobile, we engineered a custom mobile-quantization schema designed for edge hardware:\n\nBecause our audio and vision encoders are not needed in many use cases, you can optimize your memory footprint even further by deploying only the modalities you need. For example, the Gemma 4 E2B text-only model (without Per-Layer Embeddings) requires less than 1 GB of memory.\n\nTo make those models easily usable with your preferred workflow, we’ve partnered with popular developer tools across the ecosystem to seamlessly support the Gemma 4 QAT checkpoints starting today:\n\nWe can't wait to see what you build with Gemma 4 running locally!",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+  "publishedAt": "2026-06-05T16:18:48.000Z",
+  "points": 264,
+  "id": "hacker-news-629833bc",
+  "slug": "hacker-news-629833bc",
+  "fetchedAt": "2026-06-06T01:27:24.974Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gemma 4 QAT 模型：优化压缩以提高移动和笔记本电脑的效率",
+  "chineseSummary": "264 分 · 86 条评论",
+  "chineseContent": "我们的 Gemma 4 系列新版本通过量化感知训练 (QAT) 进行了优化，可显着降低内存需求并最大限度地提高设备性能。\n\n您的浏览器不支持音频元素。\n\n自从两个月前发布 Gemma 4 以来，我们一直在不断努力扩展其功能。首先，我们引入了多令牌预测 (MTP) 来加速推理，就在几天前，我们发布了 12B 模型来弥补 E4B 和 26B MOE 模型之间的差距。\n\n今天，我们发布了通过量化感知训练 (QAT) 进行优化的新检查点，使 Gemma 4 更加高效，以便您可以在日常边缘设备和消费类 GPU 上本地运行模型。\n\n通过在训练期间模拟量化，QAT 可以最大限度地减少模型压缩时的质量损失。此版本包括流行的 Q4_0 量化格式的 QAT 检查点以及专门针对移动用例的新颖量化格式。使用这种移动格式，我们将 Gemma 4 E2B 的内存占用量减少到 1GB。总之，这些显着降低了内存需求，同时保留了您期望从 Gemma 4 获得的功能和质量。\n\n保持模型质量，同时缩小模型\n\n量化是在消费类硬件上运行模型的一项关键技术，它可以减少内存占用，同时加快解码速度。然而，标准的训练后量化 (PTQ) 通常会导致性能下降。 QAT 不是在训练后简单地量化模型，而是将量化过程直接集成到训练中。虽然 PTQ 在保持质量方面已经很有效，但与标准 PTQ 基线相比，我们的 QAT 结果产生了更高的整体质量。\n\n我们将此 QAT 配方应用于流行的 Q4_0 格式，以最大限度地提高所有模型的性能。对于边缘模型（E2B 和 E4B），我们重新思考了如何使用特殊的移动专用量化模式来实现量化。\n\n以下是大概的内存要求，表明加载模型需要多少 VRAM：\n\n针对移动设备进行底层优化\n\n标准压缩格式通常很难让移动处理器高效运行。为了确保 Gemma 4 在移动设备上顺利运行，我们设计了专为边缘硬件设计的定制移动量化模式：\n\n由于许多用例不需要我们的音频和视觉编码器，因此您可以通过仅部署所需的模式来进一步优化内存占用。例如，Gemma 4 E2B 纯文本模型（无每层嵌入）需要不到 1 GB 的内存。\n\n为了使这些模型能够轻松地用于您首选的工作流程，我们与整个生态系统中流行的开发人员工具合作，从今天开始无缝支持 Gemma 4 QAT 检查点：\n\n我们迫不及待地想看看您使用本地运行的 Gemma 4 构建了什么！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

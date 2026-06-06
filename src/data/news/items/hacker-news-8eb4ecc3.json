@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Dutch gov't will only allow European company to operate DigiD platform",
+  "summary": "254 points · 74 comments",
+  "content": "The next company to manage part of DigiD must be European, State Secretary Eric van der Burg of Interior wrote in a letter to parliament. The tender for the contract after August 2028 will be conducted via the Defense and Security Procurement Act (ADV).\n\n“The reason for this is that the ADV offers more possibilities than a regular European tender to limit risks to national security,” said the VVD Cabinet member. The ADV stipulates that only European companies are eligible to guarantee security.\n\nCurrently, DigiD is partially managed by Solvinity , a company owned by a British investor. The American company Kyndryl wanted to acquire that company .\n\nThe Cabinet blocked that takeover last week following advice from the Investment Review Office (BTI). Parliament was concerned that the U.S. government would gain access to DigiD or could shut it down via Kyndryl.\n\nThe company itself stated that it would do everything possible to prevent this , but could not guarantee that it was impossible . Due to U.S. legislation, the government there can intervene excessively or request data from American tech companies.\n\nBy conducting the next tender through the ADV, countries with such legislation are excluded from the management of DigiD, Van der Burg said.\n\nThe State Secretary also said that data on DigiD and MijnOverheid will be better encrypted following recommendations from a non-public investigation into the possible acquisition of Solvinity by Kyndryl.",
+  "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+  "publishedAt": "2026-06-05T14:48:44.000Z",
+  "points": 254,
+  "id": "hacker-news-8eb4ecc3",
+  "slug": "hacker-news-8eb4ecc3",
+  "fetchedAt": "2026-06-06T01:27:24.975Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "荷兰政府将只允许欧洲公司运营 DigiD 平台",
+  "chineseSummary": "254 分 · 74 条评论",
+  "chineseContent": "内政部国务秘书 Eric van der Burg 在给议会的一封信中写道，下一家管理 DigiD 部分业务的公司必须是欧洲公司。 2028 年 8 月之后的合同招标将通过《国防与安全采购法》（ADV）进行。\n\nVVD 内阁成员表示：“这样做的原因是，ADV 比常规欧洲招标提供了更多的可能性来限制国家安全风险。” ADV 规定，只有欧洲公司才有资格提供安全保障。\n\n目前，DigiD 部分由 Solvinity 管理，这是一家英国投资者拥有的公司。美国公司 Kyndryl 想收购该公司。\n\n根据投资审查办公室（BTI）的建议，内阁上周阻止了这项收购。议会担心美国政府会通过 Kyndryl 获得 DigiD 的访问权或将其关闭。\n\n该公司本身表示，将尽一切可能防止这种情况发生，但不能保证这是不可能的。根据美国立法，美国政府可能会过度干预或要求美国科技公司提供数据。\n\nVan der Burg 表示，通过 ADV 进行下一次招标，拥有此类立法的国家将被排除在 DigiD 的管理之外。\n\n国务秘书还表示，根据对 Kyndryl 可能收购 Solvinity 的非公开调查的建议，DigiD 和 MijnOverheid 的数据将得到更好的加密。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

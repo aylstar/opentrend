@@ -1,0 +1,74 @@
+{
+  "slug": "open-llm-vtuber__open-llm-vtuber",
+  "owner": "Open-LLM-VTuber",
+  "repo": "Open-LLM-VTuber",
+  "name": "Open-LLM-VTuber",
+  "fullName": "Open-LLM-VTuber/Open-LLM-VTuber",
+  "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+  "language": "Python",
+  "githubUrl": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+  "docsUrl": "https://open-llm-vtuber.github.io/",
+  "stars": 10010,
+  "forks": 1193,
+  "openIssues": 129,
+  "license": "NOASSERTION",
+  "pushedAt": "2026-05-15T07:18:04Z",
+  "updatedAt": "2026-06-06T01:09:16Z",
+  "createdAt": "2023-11-24T04:55:43Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.7,
+  "readmeExcerpt": "![](./assets/banner.jpg)\n\n<h1 align=\"center\">Open-LLM-VTuber</h1>\n<h3 align=\"center\">\n\n[![GitHub release](https://img.shields.io/github/v/release/Open-LLM-VTuber/Open-LLM-VTuber)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases) \n[![license](https://img.shields.io/github/license/Open-LLM-VTuber/Open-LLM-VTuber)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/blob/master/LICENSE) \n[![CodeQL](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/codeql.yml/badge.svg)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/codeql.yml)\n[![Ruff](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/ruff.yml/badge.svg)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/ruff.yml)\n[![Docker](https://img.shields.io/badge/Open-LLM-VTuber%2FOpen--LLM--VTuber-%25230db7ed.svg?logo=docker&logoColor=blue&labelColor=white&color=blue)](https://hub.docker.com/r/Open-LLM-VTuber/open-llm-vtuber) \n[![QQ User Group](https://img.shields.io/badge/QQ_User_Group-792615362-white?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/ngvNUQpuKI)\n[![Static Badge](https://img.shields.io/badge/Join%20Chat-Zulip?style=flat&logo=zulip&label=Zulip(dev-community)&color=blue&link=https%3A%2F%2Folv.zulipchat.com)](https://olv.zulipchat.com)\n\n> **📢 v2.0 Development**: We are focusing on Open-LLM-VTuber v2.0 — a complete rewrite of the codebase. v2.0 is currently in its early discussion and planning phase. We kindly ask you to refrain from opening new issues or pull requests for feature requests on v1. To participate in the v2 discussions or contribute, join our developer community on [Zulip](https://olv.zulipchat.com). Weekly meeting schedules will be announced on Zulip. We will continue fixing bugs for v1 and work through existing pull requests.\n\n[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yi.ting)\n[![](https://dcbadge.limes.pink/api/server/3UDA8YFDXx)](https://discord.gg/3UDA8YFDXx)\n\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Open-LLM-VTuber/Open-LLM-VTuber)\n\nENGLISH README | [中文 README](./README.CN.md) | [한국어 README](./README.KR.md) | [日本語 README](./README.JP.md)\n\n[Documentation](https://open-llm-vtuber.github.io/docs/quick-start) | [![Roadmap](https://img.shields.io/badge/Roadmap-GitHub_Project-yellow)](https://github.com/orgs/Open-LLM-VTuber/projects/2)\n\n<a href=\"https://trendshift.io/repositories/27063\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/27063\" alt=\"Open-LLM-VTuber%2FOpen-LLM-VTuber | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n</h3>\n\n\n> 常见问题 Common Issues doc (Written in Chinese): https://docs.qq.com/pdf/DTFZGQXdTUXhIYWRq\n>\n> User Survey: https://forms.gle/w6Y6PiHTZr1nzbtWA\n>\n> 调查问卷(中文): https://wj.qq.com/s2/16150415/f50a/\n\n\n\n> :warning: This project is in its early stages and is cu",
+  "generatedAt": "2026-06-06T01:27:18.255Z",
+  "analysis": {
+    "oneLine": "Open-LLM-VTuber 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
+    "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
+    "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
+    "detailParagraphs": [
+      "Open-LLM-VTuber 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
+      "如果把它放进实际使用场景，Open-LLM-VTuber 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 10,010，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "个人知识库与 AI 助手整合",
+      "小团队内部 AI 工作台",
+      "私有化 AI 工具原型验证",
+      "面向 NAS 用户的自部署 AI 应用评估"
+    ],
+    "interpretation": "Open-LLM-VTuber 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 中出现 Docker，可进一步核对镜像、端口和持久化目录。",
+    "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
+    "commercialValue": "价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。",
+    "recommendation": 2.7,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-06-06T01:27:18.256Z"
+}

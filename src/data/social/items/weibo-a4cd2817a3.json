@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a4cd2817a3",
+  "slug": "weibo-温峥嵘道歉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "温峥嵘道歉",
+  "summary": "微博热榜第 4 位：温峥嵘道歉，当前热度为 101万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E9%81%93%E6%AD%89%23",
+  "hotValue": "101万热度",
+  "author": "",
+  "publishedAt": "2026-06-06 09:23:29",
+  "fetchedAt": "2026-06-06T01:29:04.322Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

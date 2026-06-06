@@ -1,0 +1,24 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Crypto mutiny on Strategy: Shorts target 'MSTR' in bitcoin bloodbath",
+  "summary": "Flows around Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week.",
+  "url": "https://www.cnbc.com/2026/06/05/crypto-mutiny-on-strategy-shorts-target-mstr-in-bitcoin-bloodbath.html",
+  "publishedAt": "2026-06-05T18:14:15.000Z",
+  "id": "cnbc-ac846d8a",
+  "slug": "cnbc-ac846d8a",
+  "content": "Options traders are storming into bets against crypto's most vocal evangelist Michael Saylor. Call it mutiny on Strategy. Flows around Saylor's Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week after traders had been more balanced in the preceding month despite a steady decline in bitcoin that began in mid-May. More than twice as many puts traded versus calls in Strategy Friday and more than three times as many puts were bought than calls, on almost three times the daily average volume the past month. Of the $335 million in premium traded as of writing, $250 was tied to puts. Some of the biggest put-buying was tied to spread strategies used in the YieldMax Short MSTR Option Strategy ETF (WNTR) , a fund that shorts Strategy stock while collecting income in put spreads, according to sources familiar with the trading. WNTR shares are up 30% since May 11 as Strategy stock has struggled.\n\nSTRC, the bond-like preferred stock Saylor describes as \"digital credit\" that he's presented as an alternative to money market funds, fell 3.6% Thursday to $92, the lowest price since November last year. \"There's a higher Michael Saylor risk factor being priced in right now after he touted STRC as a strategy to avoid selling bitcoin but then moved away from that, spending cash he said would be on the balance sheet to buy back bonds, and then selling bitcoin,\" said David Dziekanski, CEO at Quantify Funds, who runs a hybrid bitcoin-stocks strategy. \"It's now going to take a significantly higher yield for STRC to get back to 100.\"\n\nOptions volumes in STRC amounted to just over 6,000 contracts, but the most popular directional trades were selling calls and buying puts, according to data from ThinkOrSwim. A selloff in Treasury bonds and rising yields isn't helping as the odds of a rate-hike this year moved above 40% after solid employment data Friday morning, according to CME's FedWatch tool. Crypto prices have struggled during past regimes of rising interest rates, and can particularly stress a credit instrument like STRC.\n\nBitcoin broke below $60,000 for the first time since late 2024 on Friday.",
+  "fetchedAt": "2026-06-06T01:27:24.978Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "加密策略叛变：空头在比特币大屠杀中瞄准“MSTR”",
+  "chineseSummary": "Strategy (MSTR) 和该公司可变利率优先股 STRC 的资金流向本周转为看跌。",
+  "chineseContent": "期权交易员纷纷押注加密货币最有声望的布道者迈克尔·塞勒(Michael Saylor)。称之为战略叛变。尽管比特币从 5 月中旬开始稳步下跌，但交易员在上个月变得更加平衡，围绕 Saylor's Strategy (MSTR) 和该公司可变利率优先股 STRC 的资金流本周转为看跌。在《周五策略》中，看跌期权的交易量是看涨期权的两倍多，看跌期权的买入量是看涨期权的三倍多，几乎是上个月日均交易量的三倍。截至撰写本文时，在 3.35 亿美元的溢价交易中，有 250 美元与看跌期权挂钩。据熟悉交易的消息人士透露，一些最大的看跌期权买入与 YieldMax Short MSTR Option Strategy ETF (WNTR) 中使用的价差策略有关，该基金在做空策略股票的同时从看跌期权价差中获取收入。由于 Strategy 股票表现不佳，WNTR 股价自 5 月 11 日以来上涨了 30%。\n\n赛勒将类似债券的优先股 STRC 描述为“数字信贷”，作为货币市场基金的替代品，该股周四下跌 3.6%，至 92 美元，为去年 11 月以来的最低价格。 Quantify Funds 首席执行官 David Dziekanski 表示，“迈克尔·塞勒 (Michael Saylor) 吹捧 STRC 是一种避免出售比特币的策略，但随后又放弃了这一策略，他称将在资产负债表上花费现金来回购债券，然后出售比特币，因此现在定价中存在较高的风险因素。”Quantify Funds 的首席执行官 David Dziekanski 负责实施比特币股票混合策略。 “现在 STRC 的收益率需要大幅提高才能回到 100。”\n\n根据 ThinkOrSwim 的数据，STRC 的期权交易量仅为 6,000 多份合约，但最受欢迎的定向交易是卖出看涨期权和买入看跌期权。根据 CME 的 FedWatch 工具，周五上午就业数据强劲后，今年加息的可能性升至 40% 以上，国债抛售和收益率上升无济于事。在过去利率上升的情况下，加密货币价格一直举步维艰，尤其会对 STRC 等信贷工具造成压力。\n\n周五，比特币自 2024 年底以来首次跌破 60,000 美元。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

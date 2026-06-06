@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f48ef70909",
+  "slug": "weibo-心疼范玮琪",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "心疼范玮琪",
+  "summary": "微博热榜第 49 位：心疼范玮琪，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E8%8C%83%E7%8E%AE%E7%90%AA%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-06-06 09:23:29",
+  "fetchedAt": "2026-06-06T01:29:04.322Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

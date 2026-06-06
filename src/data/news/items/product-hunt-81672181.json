@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-03T17:38:03.000Z",
   "id": "product-hunt-81672181",
   "slug": "product-hunt-81672181",
-  "content": "AI Agents for Fortune 500 grade customer support Discussion | Link",
-  "fetchedAt": "2026-06-05T01:35:41.381Z",
+  "content": "Cignara provides enterprise grade AI agents that handle end to end customer conversations over voice and chat. Built with strict policy governance, our agents reason within your specific business rules to deliver verifiable, completely hallucination free actions. Backed by Y Combinator. Trusted by Fortune 500 companies like LG.",
+  "fetchedAt": "2026-06-06T01:27:24.976Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 7,
-  "contentStatus": "fetch-failed",
+  "rank": 12,
+  "contentStatus": "article-extracted",
   "chineseTitle": "西格纳拉",
   "chineseSummary": "财富 500 强级客户支持的 AI 代理讨论 |关联",
-  "chineseContent": "财富 500 强级客户支持的 AI 代理讨论 |关联",
+  "chineseContent": "Cignara 提供企业级人工智能代理，通过语音和聊天处理端到端客户对话。我们的代理以严格的策略治理为基础，根据您的特定业务规则进行推理，以提供可验证的、完全无幻觉的操作。由 Y Combinator 支持。受到 LG 等财富 500 强公司的信赖。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

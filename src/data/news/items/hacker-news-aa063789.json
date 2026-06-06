@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+  "summary": "42 points · 14 comments",
+  "content": "Hey HN, Guanming and Bill here from General Instinct ( https://general-instinct.com/ ). After years of working in robotics, we kept running into the same problem: the best models never fit the hardware we actually had available. The models that performed best were usually designed around datacenter assumptions: large GPUs, lots of memory bandwidth, and reliable network access. But most physical systems have the opposite constraints. That led us down the path of figuring out how much of a frontier model could be preserved while still making it practical to run on edge hardware. As part of that work, we recently open sourced InstinctRazor ( https://github.com/General-Instinct/InstinctRazor ) One result we're excited about is compressing Qwen3.5-122B-A10B, a roughly 245 GB BF16 MoE model, into a 48 GiB GGUF. The resulting model is actually smaller than Gemma-4-26B-A4B while outperforming it on benchmarks like MMLU-Pro and GPQA-D etc. we preserve the parts that are always active (router, norms, Gated-DeltaNet/SSM layers, vision pathway, etc.) and quantize the routed experts much more aggressively. We then use on-policy distillation to recover capability lost during quantization. The model can also run in a \"small GPU\" configuration where experts are streamed from system RAM. With an 8k context window, peak VRAM usage is around 7.6–8 GB. If you're interested in the technical details, we wrote up the approach here ( https://general-instinct.com/blog/frontier-moe-sub-4-bit ) We're especially interested in hearing from people deploying models onto robots or other edge devices. What models are you trying to run locally today? What has been the biggest bottleneck in getting them into production?",
+  "url": "https://news.ycombinator.com/item?id=48414869",
+  "publishedAt": "2026-06-05T16:33:00.000Z",
+  "points": 42,
+  "id": "hacker-news-aa063789",
+  "slug": "hacker-news-aa063789",
+  "fetchedAt": "2026-06-06T01:27:24.975Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 5,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "推出 HN：一般本能 (YC P26) – 边缘设备上的前沿模型",
+  "chineseSummary": "42 分 · 14 条评论",
+  "chineseContent": "嘿，HN、Guanming 和 Bill 来自 General Instinct ( https://general-instinct.com/ )。经过多年的机器人研究，我们不断遇到同样的问题：最好的模型永远不适合我们实际可用的硬件。表现最佳的模型通常是围绕数据中心假设设计的：大型 GPU、大量内存带宽和可靠的网络访问。但大多数物理系统都有相反的限制。这引导我们弄清楚可以保留多少前沿模型，同时仍然使其能够在边缘硬件上运行。作为这项工作的一部分，我们最近开源了 InstinctRazor (https://github.com/General-Instinct/InstinctRazor)，我们感到兴奋的一个结果是将 Qwen3.5-122B-A10B（大约 245 GB BF16 MoE 模型）压缩为 48 GiB GGUF。生成的模型实际上比 Gemma-4-26B-A4B 小，但在 MMLU-Pro 和 GPQA-D 等基准上表现优于它。我们保留始终处于活动状态的部分（路由器、规范、Gated-DeltaNet/SSM 层、视觉路径等），并更积极地量化路由专家。然后，我们使用同策略蒸馏来恢复量化期间损失的能力。该模型还可以在“小型 GPU”配置中运行，其中专家从系统 RAM 中流式传输。对于 8k 上下文窗口，VRAM 使用峰值约为 7.6-8 GB。如果您对技术细节感兴趣，我们在这里写了该方法（https://general-instinct.com/blog/frontier-moe-sub-4-bit），我们特别有兴趣听取人们将模型部署到机器人或其他边缘设备上的意见。您今天尝试在本地运行哪些模型？将它们投入生产的最大瓶颈是什么？",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Agent Browser Shield",
+  "summary": "Block prompt inject & cut token costs for AI browser agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/agent-browser-shield",
+  "publishedAt": "2026-06-04T20:50:10.000Z",
+  "id": "product-hunt-711d5418",
+  "slug": "product-hunt-711d5418",
+  "content": "AI agents browsing the web have a problem: they read everything — cookie banners, hidden instructions, dark patterns — and can't tell real content from a trap. Agent Browser Shield sits between your agent and the web, stripping prompt injections, masking PII, removing dark patterns, and filtering page noise that burns tokens. Free, source-available, works with browser-use and Browserbase.",
+  "fetchedAt": "2026-06-06T01:27:24.976Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "代理浏览器盾",
+  "chineseSummary": "阻止提示注入并降低 AI 浏览器代理的代币成本 讨论 |关联",
+  "chineseContent": "浏览网络的人工智能代理有一个问题：他们读取所有内容——cookie横幅、隐藏指令、黑暗图案——并且无法区分真实内容和陷阱。 Agent Browser Shield 位于代理和网络之间，可剥离提示注入、屏蔽 PII、删除暗模式以及过滤会消耗令牌的页面噪音。免费，有源代码，可与浏览器使用和 Browserbase 配合使用。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

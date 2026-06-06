@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eab6085fc0",
+  "slug": "weibo-锤娜丽莎歌手口碑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "锤娜丽莎歌手口碑",
+  "summary": "微博热榜第 36 位：锤娜丽莎歌手口碑，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E6%AD%8C%E6%89%8B%E5%8F%A3%E7%A2%91%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-06-06 09:23:29",
+  "fetchedAt": "2026-06-06T01:29:04.322Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

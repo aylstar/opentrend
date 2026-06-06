@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3dc3695eec",
+  "slug": "weibo-歌手工作人员录入数据失误",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "歌手工作人员录入数据失误",
+  "summary": "微博热榜第 38 位：歌手工作人员录入数据失误，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%BD%95%E5%85%A5%E6%95%B0%E6%8D%AE%E5%A4%B1%E8%AF%AF%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-06-06 09:23:29",
+  "fetchedAt": "2026-06-06T01:29:04.322Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
