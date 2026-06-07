@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/EveryInc/compound-engineering-plugin",
   "docsUrl": "https://every.to/guides/compound-engineering",
-  "stars": 19947,
-  "forks": 1481,
-  "openIssues": 92,
+  "stars": 20113,
+  "forks": 1498,
+  "openIssues": 90,
   "license": "MIT",
-  "pushedAt": "2026-06-05T07:05:36Z",
-  "updatedAt": "2026-06-06T01:26:04Z",
+  "pushedAt": "2026-06-06T23:36:01Z",
+  "updatedAt": "2026-06-07T01:34:58Z",
   "createdAt": "2025-10-09T19:43:46Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Compound Engineering\n\n[![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml)\n[![npm](https://img.shields.io/npm/v/@every-env/compound-plugin)](https://www.npmjs.com/package/@every-env/compound-plugin)\n\nAI skills and agents that make each unit of engineering work easier than the last.\n\n## Philosophy\n\n**Each unit of engineering work should make subsequent units easier -- not harder.**\n\nTraditional development accumulates technical debt. Every feature adds complexity. Every bug fix leaves behind a little more local knowledge that someone has to rediscover later. The codebase gets larger, the context gets harder to hold, and the next change becomes slower.\n\nCompound engineering inverts this. 80% is in planning and review, 20% is in execution:\n\n- Plan thoroughly before writing code with `/ce-brainstorm` and `/ce-plan`\n- Review to catch issues and calibrate judgment with `/ce-code-review` and `/ce-doc-review`\n- Codify knowledge so it is reusable with `/ce-compound`\n- Keep quality high so future changes are easy\n\nThe point is not ceremony. The point is leverage. A good brainstorm makes the plan sharper. A good plan makes execution smaller. A good review catches the pattern, not just the bug. A good compound note means the next agent does not have to learn the same lesson from scratch.\n\n**Learn more**\n\n- [Full component reference](plugins/compound-engineering/README.md) - all agents and skills\n- [Compound engineering: how Every codes with agents](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents)\n- [The story behind compounding engineering](https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it)\n\n## Workflow\n\n`/ce-strategy` is upstream of the loop -- it captures the product's target problem, approach, persona, metrics, and tracks as a short durable anchor at `STRATEGY.md`. Ideate, brainstorm, and plan read it as grounding when present, so strategy choices flow into feature conception, prioritization, and spec.\n\nThe core loop is: brainstorm the requirements, plan the implementation, work through the plan, review the result, compound the learning, then repeat with better context.\n\nUse `/ce-ideate` before the loop when you want the agent to generate and critique bigger ideas before choosing one to brainstorm. It produces a ranked ideation artifact, not requirements, plans, or code.\n\n| Skill | Purpose |\n|-------|---------|\n| `/ce-strategy` | Create or maintain `STRATEGY.md` -- the product's target problem, approach, persona, key metrics, and tracks. Read as grounding by ideate, brainstorm, and plan |\n| `/ce-ideate` | Optional big-picture ideation: generate and critically evaluate grounded ideas, then route the strongest one into brainstorming |\n| `/ce-brainstorm` | Interactive Q&A to think through a feature or problem and write a right-sized requirements doc before p",
-  "generatedAt": "2026-06-06T01:27:17.360Z",
+  "generatedAt": "2026-06-07T01:35:33.308Z",
   "analysis": {
     "oneLine": "compound-engineering-plugin 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "compound-engineering-plugin 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，compound-engineering-plugin 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 19,947，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，compound-engineering-plugin 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 20,113，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

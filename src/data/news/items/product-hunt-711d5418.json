@@ -8,14 +8,14 @@
   "id": "product-hunt-711d5418",
   "slug": "product-hunt-711d5418",
   "content": "AI agents browsing the web have a problem: they read everything — cookie banners, hidden instructions, dark patterns — and can't tell real content from a trap. Agent Browser Shield sits between your agent and the web, stripping prompt injections, masking PII, removing dark patterns, and filtering page noise that burns tokens. Free, source-available, works with browser-use and Browserbase.",
-  "fetchedAt": "2026-06-06T01:27:24.976Z",
+  "fetchedAt": "2026-06-07T01:35:45.507Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 9,
+  "rank": 15,
   "contentStatus": "article-extracted",
   "chineseTitle": "代理浏览器盾",
   "chineseSummary": "阻止提示注入并降低 AI 浏览器代理的代币成本 讨论 |关联",

@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Trump relaunches tariffs war after court struck down levies",
+  "summary": "President attempts to craft a regime of punitive trade measures that can survive legal challenges",
+  "url": "https://www.ft.com/content/7e5cfed4-dd91-435d-914a-677f97822724",
+  "publishedAt": "2026-06-06T12:00:04.000Z",
+  "id": "financial-times-e42c19cb",
+  "slug": "financial-times-e42c19cb",
+  "content": "President attempts to craft a regime of punitive trade measures that can survive legal challenges",
+  "fetchedAt": "2026-06-07T01:35:45.515Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "产品"
+  ],
+  "rank": 4,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "法院撤销征税后特朗普重新发动关税战",
+  "chineseSummary": "总统试图制定一个能够经受住法律挑战的惩罚性贸易措施制度",
+  "chineseContent": "总统试图制定一个能够经受住法律挑战的惩罚性贸易措施制度",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

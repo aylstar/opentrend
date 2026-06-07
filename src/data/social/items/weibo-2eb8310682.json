@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2eb8310682",
+  "slug": "weibo-谢娜演唱会全国巡演",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "谢娜演唱会全国巡演",
+  "summary": "微博热榜第 9 位：谢娜演唱会全国巡演，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-07 09:33:19",
+  "fetchedAt": "2026-06-07T01:36:36.411Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -7,8 +7,8 @@
   "publishedAt": "2026-06-04T11:54:13.000Z",
   "id": "product-hunt-64ee1796",
   "slug": "product-hunt-64ee1796",
-  "content": "Leni is the most accurate and verifiable AI for serious investment work. Built on 21,000+ decision traces and processing 100M+ rows daily, it delivers finance-grade outputs with full auditability through source links, timestamps, and grounded comps. Leni outperforms GPT, Claude, and Manus on independent benchmarks for accuracy, modeling, and valuation while giving teams the trust they need when millions are on the line. Leni is part of Google Startups and a serious machine for investors.",
-  "fetchedAt": "2026-06-06T01:27:24.976Z",
+  "content": "The world’s most accurate AI for investors Discussion | Link",
+  "fetchedAt": "2026-06-07T01:35:45.506Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "全球",
     "金融"
   ],
-  "rank": 10,
-  "contentStatus": "article-extracted",
+  "rank": 11,
+  "contentStatus": "fetch-failed",
   "chineseTitle": "莱尼",
-  "chineseSummary": "The world’s most accurate AI for investors Discussion |关联",
-  "chineseContent": "Leni 是最准确、最可验证的人工智能，适用于严肃的投资工作。它基于 21,000 多个决策跟踪并每天处理 1 亿多行，通过源链接、时间戳和接地比较提供具有完全可审计性的财务级输出。 Leni 在准确性、建模和估值方面的独立基准方面优于 GPT、Claude 和 Manus，同时为团队提供了数百万人在线时所需的信任。 Leni 是 Google Startups 的一部分，也是投资者的重要机器。",
+  "chineseSummary": "世界上最准确的投资者人工智能讨论 |关联",
+  "chineseContent": "世界上最准确的投资者人工智能讨论 |关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

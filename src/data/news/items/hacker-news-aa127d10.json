@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Ask HN: Why is the HN crowd so anti-AI?",
+  "summary": "390 points · 647 comments",
+  "content": "Genuine question. Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines. I’ll probably make a lot of enemies by saying this, but do people realize that code is just a means to an end? Users don’t care whether the code was written by AI or by hand, or which framework you used. They care that the product works. I say this as someone who has spent more than 20 years honing their craft as a software engineer. Let’s face it: by the time I manually ship version 1.0 of a product, the AI-assisted version could have been deployed 10x faster. By then, enough real-world feedback would have surfaced to identify the major issues, and tools like Claude Code would make it possible to fix and ship version 2.0 at an incredible pace. At some point, execution speed starts to matter more than the elegance of the code.",
+  "url": "https://news.ycombinator.com/item?id=48420827",
+  "publishedAt": "2026-06-06T02:31:51.000Z",
+  "points": 390,
+  "id": "hacker-news-aa127d10",
+  "slug": "hacker-news-aa127d10",
+  "fetchedAt": "2026-06-07T01:35:45.505Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "问 HN：为什么 HN 人群如此反 AI？",
+  "chineseSummary": "390 分 · 647 条评论",
+  "chineseContent": "真正的问题。在过去的六个月里，我每天检查 HN Best RSS feed 时都会看到一篇关于人工智能如何“编写糟糕的代码”、“引入错误”、“产生技术债务”或类似内容的帖子。我这样说可能会树敌很多，但是人们是否意识到代码只是达到目的的一种手段？用户并不关心代码是人工智能写的还是手工写的，也不关心你使用的是哪个框架。他们关心产品是否有效。我是作为一个花了 20 多年磨练软件工程师技能的人这么说的。让我们面对现实吧：当我手动发布产品的 1.0 版本时，AI 辅助版本的部署速度可能会快 10 倍。到那时，足够的现实世界反馈将会浮出水面来识别主要问题，而像 Claude Code 这样的工具将使以令人难以置信的速度修复和发布 2.0 版本成为可能。在某些时候，执行速度开始比代码的优雅更重要。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

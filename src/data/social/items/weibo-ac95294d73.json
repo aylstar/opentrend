@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ac95294d73",
+  "slug": "weibo-李佳航这是咋了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "李佳航这是咋了",
+  "summary": "微博热榜第 12 位：李佳航这是咋了，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E8%BF%99%E6%98%AF%E5%92%8B%E4%BA%86%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-06-07 09:33:19",
+  "fetchedAt": "2026-06-07T01:36:36.411Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

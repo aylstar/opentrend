@@ -1,0 +1,21 @@
+{
+  "id": "weibo-af615279fc",
+  "slug": "weibo-百妖谱-邓为",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "百妖谱 邓为",
+  "summary": "微博热榜第 35 位：百妖谱 邓为，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%A6%96%E8%B0%B1+%E9%82%93%E4%B8%BA%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-06-07 09:33:19",
+  "fetchedAt": "2026-06-07T01:36:36.411Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

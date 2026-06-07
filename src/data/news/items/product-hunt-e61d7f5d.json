@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-04T20:02:11.000Z",
   "id": "product-hunt-e61d7f5d",
   "slug": "product-hunt-e61d7f5d",
-  "content": "Powers faster, efficient reasoning for long-running agents Discussion | Link",
-  "fetchedAt": "2026-06-06T01:27:24.976Z",
+  "content": "NVIDIA, inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more. We created the world’s largest gaming platform and the world’s fastest supercomputer. We are the brains of self-driving cars, intelligent machines, and IoT.",
+  "fetchedAt": "2026-06-07T01:35:45.507Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
+  "rank": 13,
+  "contentStatus": "article-extracted",
   "chineseTitle": "NVIDIA Nemotron 3 Ultra",
   "chineseSummary": "为长时间运行的代理提供更快、更高效的推理关联",
-  "chineseContent": "为长时间运行的代理提供更快、更高效的推理关联",
+  "chineseContent": "NVIDIA，GPU 的发明者，可在笔记本电脑、工作站、移动设备、笔记本电脑、PC 等上创建交互式图形。我们创建了世界上最大的游戏平台和世界上最快的超级计算机。我们是自动驾驶汽车、智能机器和物联网的大脑。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

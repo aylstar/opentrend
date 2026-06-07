@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+  "summary": "546 points · 943 comments",
+  "content": "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws. Then ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that would never amount to much. Using LLMs for coding initially was a only small step up from basic code completion, and a welcome farewell to Stack Overflow. I am curious: what was the specific moment that you went from those quaint, dismissive observations to a slightly panicked, \"Uh Oh\" realization of what these models can do?",
+  "url": "https://news.ycombinator.com/item?id=48406174",
+  "publishedAt": "2026-06-04T23:42:20.000Z",
+  "points": 546,
+  "id": "hacker-news-a9f8ee99",
+  "slug": "hacker-news-a9f8ee99",
+  "fetchedAt": "2026-06-07T01:35:45.505Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "问 HN：您对 GenAI 感到“糟糕”的时刻是什么？",
+  "chineseSummary": "546 分 · 943 条评论",
+  "chineseContent": "当 DALL-E 及其同行成为主流时，我们大多数人都感到好笑，并且我们很快指出了明显的缺陷。然后 ChatGPT 再次出现，我们中的许多人将其视为一个永远不会有多大作用的客厅把戏。最初使用 LLM 进行编码只是基本代码完成的一小步，也是对 Stack Overflow 的欢迎告别。我很好奇：您从那些古怪的、不屑一顾的观察到对这些模型可以做什么感到有点惊慌、“哦哦”的认识的具体时刻是什么？",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

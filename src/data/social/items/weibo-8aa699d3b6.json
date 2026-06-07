@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8aa699d3b6",
+  "slug": "weibo-安崎的情商",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "安崎的情商",
+  "summary": "微博热榜第 8 位：安崎的情商，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%B4%8E%E7%9A%84%E6%83%85%E5%95%86%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-06-07 09:33:19",
+  "fetchedAt": "2026-06-07T01:36:36.411Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

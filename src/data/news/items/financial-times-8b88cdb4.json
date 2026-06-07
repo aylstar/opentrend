@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Abu Dhabi’s Etihad to surpass pre-Iran War capacity without price cuts",
+  "summary": "Airline had its planes grounded when fighting began but demand for transit through region has recovered",
+  "url": "https://www.ft.com/content/07b1eaa6-725a-406e-aa8b-020dbe53aaea",
+  "publishedAt": "2026-06-06T21:56:16.000Z",
+  "id": "financial-times-8b88cdb4",
+  "slug": "financial-times-8b88cdb4",
+  "content": "Airline had its planes grounded when fighting began but demand for transit through region has recovered",
+  "fetchedAt": "2026-06-07T01:35:45.515Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "财经"
+  ],
+  "rank": 28,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "阿布扎比阿提哈德航空运力将在不降价的情况下超越伊朗战争前",
+  "chineseSummary": "战斗开始时，航空公司的飞机停飞，但通过该地区的运输需求已恢复",
+  "chineseContent": "战斗开始时，航空公司的飞机停飞，但通过该地区的运输需求已恢复",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

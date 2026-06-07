@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/CloakHQ/CloakBrowser",
   "docsUrl": "https://cloakbrowser.dev/",
-  "stars": 24192,
-  "forks": 1922,
-  "openIssues": 112,
+  "stars": 24482,
+  "forks": 1949,
+  "openIssues": 114,
   "license": "MIT",
   "pushedAt": "2026-05-31T20:50:52Z",
-  "updatedAt": "2026-06-06T01:19:31Z",
+  "updatedAt": "2026-06-07T01:30:41Z",
   "createdAt": "2026-02-22T08:09:57Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<p align=\"center\">\n<img src=\"https://i.imgur.com/cqkp6fG.png\" width=\"500\" alt=\"CloakBrowser\">\n</p>\n\n<p align=\"center\">\n<a href=\"https://pypi.org/project/cloakbrowser/\"><img src=\"https://img.shields.io/pypi/v/cloakbrowser\" alt=\"PyPI\"></a>\n<a href=\"https://www.npmjs.com/package/cloakbrowser\"><img src=\"https://img.shields.io/npm/v/cloakbrowser\" alt=\"npm\"></a>\n<a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/cloakhq/cloakbrowser?v=1\" alt=\"License\"></a>\n<a href=\"https://github.com/CloakHQ/CloakBrowser\"><img src=\"https://img.shields.io/github/last-commit/cloakhq/cloakbrowser\" alt=\"Last Commit\"></a>\n<br>\n<a href=\"https://github.com/CloakHQ/CloakBrowser\"><img src=\"https://img.shields.io/github/stars/cloakhq/cloakbrowser\" alt=\"Stars\"></a>\n<a href=\"https://pypi.org/project/cloakbrowser/\"><img src=\"https://img.shields.io/pepy/dt/cloakbrowser?label=pypi&logo=pypi&logoColor=white\" alt=\"PyPI Downloads\"></a>\n<a href=\"https://www.npmjs.com/package/cloakbrowser\"><img src=\"https://img.shields.io/npm/dt/cloakbrowser?label=npm&logo=npm&logoColor=white\" alt=\"npm Downloads\"></a>\n<a href=\"https://hub.docker.com/r/cloakhq/cloakbrowser\"><img src=\"https://img.shields.io/docker/pulls/cloakhq/cloakbrowser?label=docker&logo=docker&logoColor=white\" alt=\"Docker Pulls\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://ko-fi.com/cloakhq\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"Support on Ko-fi\"></a>\n</p>\n\n<br>\n\n<h3 align=\"center\">Stealth Chromium that passes every bot detection test.</h3>\n\n<table><tr><td>\nNot a patched config. Not a JS injection. A real Chromium binary with fingerprints modified at the C++ source level. Antibot systems score it as a normal browser — because it <em>is</em> a normal browser.\n</td></tr></table>\n\n<br>\n\n<p align=\"center\">\n<img src=\"https://i.imgur.com/IvB0It7.gif\" width=\"600\" alt=\"Cloudflare Turnstile — 3 Tests Passing\">\n<br><em>Cloudflare Turnstile — 3 live tests passing (headed mode, macOS)</em>\n</p>\n\n<br>\n\n<p align=\"center\">\nDrop-in Playwright/Puppeteer replacement for Python and JavaScript.<br>\nSame API, same code — just swap the import. <strong>3 lines of code, 30 seconds to unblock.</strong>\n</p>\n\n- **58 source-level C++ patches** — canvas, WebGL, audio, fonts, GPU, screen, WebRTC, network timing, automation signals, CDP input behavior\n- **`humanize=True`** — human-like mouse curves, keyboard timing, and scroll patterns. One flag, behavioral detection passes\n- **0.9 reCAPTCHA v3 score** — human-level, server-verified\n- **Passes Cloudflare Turnstile**, FingerprintJS, BrowserScan — tested against 30+ detection sites\n- **Auto-updating binary** — background update checks, always on the latest stealth build\n- **`pip install cloakbrowser`** or **`npm install cloakbrowser`** — binary auto-downloads, zero config\n- **Free and open source** — no subscriptions, no usage limits\n\n**Try it now** — no install needed:\n```bash\ndocker run --rm cloakhq/cloakbrowser cloaktest\n```\n\n**Python:**\n```python\nfrom cloakbrowser import launc",
-  "generatedAt": "2026-06-06T01:27:19.090Z",
+  "generatedAt": "2026-06-07T01:35:34.613Z",
   "analysis": {
     "oneLine": "CloakBrowser 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "CloakBrowser 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，CloakBrowser 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 24,192，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，CloakBrowser 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 24,482，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

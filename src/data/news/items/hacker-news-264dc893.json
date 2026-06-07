@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+  "summary": "227 points · 424 comments",
+  "content": "Nvidia is proposing a beast of a CPU system for Windows PCs. It has 128 GB of shared memory and comes with up to 6,144 state-of-the-art CUDA cores. CPU wise, the chip has 10 performance cores and 10 efficiency cores. The performance cores are based on the Cortex-X925. These",
+  "url": "https://twitter.com/lemire/status/2062880075117113739",
+  "publishedAt": "2026-06-06T12:52:18.000Z",
+  "points": 227,
+  "id": "hacker-news-264dc893",
+  "slug": "hacker-news-264dc893",
+  "fetchedAt": "2026-06-07T01:35:45.504Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Nvidia 正在为 Windows PC 推出一款野兽般的 CPU 系统",
+  "chineseSummary": "227 分 · 424 条评论",
+  "chineseContent": "Nvidia 正在为 Windows PC 推出一款强大的 CPU 系统。它拥有 128 GB 共享内存，并配备多达 6,144 个最先进的 CUDA 核心。 CPU方面，该芯片拥有10个性能核心和10个效率核心。性能内核基于 Cortex-X925。这些",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

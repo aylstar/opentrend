@@ -1,0 +1,21 @@
+{
+  "id": "weibo-df162bc00d",
+  "slug": "weibo-赵兆情商",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 43,
+  "title": "赵兆情商",
+  "summary": "微博热榜第 43 位：赵兆情商，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%85%86%E6%83%85%E5%95%86%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-06-07 09:33:19",
+  "fetchedAt": "2026-06-07T01:36:36.411Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

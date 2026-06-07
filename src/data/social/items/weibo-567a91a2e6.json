@@ -1,0 +1,21 @@
+{
+  "id": "weibo-567a91a2e6",
+  "slug": "weibo-阿根廷vs洪都拉斯",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "阿根廷vs洪都拉斯",
+  "summary": "微博热榜第 10 位：阿根廷vs洪都拉斯，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-07 09:33:19",
+  "fetchedAt": "2026-06-07T01:36:36.411Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
