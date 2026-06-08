@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-04T16:57:47.000Z",
   "id": "product-hunt-cfabb7a5",
   "slug": "product-hunt-cfabb7a5",
-  "content": "Where strategy execution meets the people doing the work Discussion | Link",
-  "fetchedAt": "2026-06-07T01:35:45.507Z",
-  "score": 73,
+  "content": "Existing tools help you write a strategic plan. VisionSync makes sure it actually happens. It links every goal to the people executing it and shows the live status of each initiative, so leaders see what's slipping before it hits quarterly results, not after. Add ValueSync 360 to connect strategy to performance on the people side. Proven across all four University of Nebraska campuses, Maryville University, and the Greater Omaha Chamber of Commerce.",
+  "fetchedAt": "2026-06-08T01:38:40.646Z",
+  "score": 69,
   "sourceWeight": 84,
   "tags": [
     "全球",
     "金融"
   ],
-  "rank": 12,
-  "contentStatus": "fetch-failed",
+  "rank": 18,
+  "contentStatus": "article-extracted",
   "chineseTitle": "视觉同步",
   "chineseSummary": "战略执行与工作人员相遇的地方 讨论 |关联",
-  "chineseContent": "战略执行与工作人员相遇的地方 讨论 |关联",
+  "chineseContent": "现有工具可帮助您制定战略计划。 VisionSync 确保它确实发生。它将每个目标与执行人员联系起来，并显示每个计划的实时状态，因此领导者可以在季度业绩公布之前（而不是之后）看到出现下滑的情况。添加 ValueSync 360 将战略与人员绩效联系起来。在内布拉斯加大学所有四个校区、玛丽维尔大学和大奥马哈商会得到验证。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

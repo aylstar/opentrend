@@ -8,13 +8,13 @@
   "id": "cnbc-ac846d8a",
   "slug": "cnbc-ac846d8a",
   "content": "Options traders are storming into bets against crypto's most vocal evangelist Michael Saylor. Call it mutiny on Strategy. Flows around Saylor's Strategy (MSTR) and the company's variable-rate preferred stock STRC are turning bearish this week after traders had been more balanced in the preceding month despite a steady decline in bitcoin that began in mid-May. More than twice as many puts traded versus calls in Strategy Friday and more than three times as many puts were bought than calls, on almost three times the daily average volume the past month. Of the $335 million in premium traded as of writing, $250 was tied to puts. Some of the biggest put-buying was tied to spread strategies used in the YieldMax Short MSTR Option Strategy ETF (WNTR) , a fund that shorts Strategy stock while collecting income in put spreads, according to sources familiar with the trading. WNTR shares are up 30% since May 11 as Strategy stock has struggled.\n\nSTRC, the bond-like preferred stock Saylor describes as \"digital credit\" that he's presented as an alternative to money market funds, fell 3.6% Thursday to $92, the lowest price since November last year. \"There's a higher Michael Saylor risk factor being priced in right now after he touted STRC as a strategy to avoid selling bitcoin but then moved away from that, spending cash he said would be on the balance sheet to buy back bonds, and then selling bitcoin,\" said David Dziekanski, CEO at Quantify Funds, who runs a hybrid bitcoin-stocks strategy. \"It's now going to take a significantly higher yield for STRC to get back to 100.\"\n\nOptions volumes in STRC amounted to just over 6,000 contracts, but the most popular directional trades were selling calls and buying puts, according to data from ThinkOrSwim. A selloff in Treasury bonds and rising yields isn't helping as the odds of a rate-hike this year moved above 40% after solid employment data Friday morning, according to CME's FedWatch tool. Crypto prices have struggled during past regimes of rising interest rates, and can particularly stress a credit instrument like STRC.\n\nBitcoin broke below $60,000 for the first time since late 2024 on Friday.",
-  "fetchedAt": "2026-06-07T01:35:45.510Z",
+  "fetchedAt": "2026-06-08T01:38:40.650Z",
   "score": 84,
   "sourceWeight": 88,
   "tags": [
     "金融"
   ],
-  "rank": 25,
+  "rank": 28,
   "contentStatus": "article-extracted",
   "chineseTitle": "加密策略叛变：空头在比特币大屠杀中瞄准“MSTR”",
   "chineseSummary": "Strategy (MSTR) 和该公司可变利率优先股 STRC 的资金流向本周转为看跌。",

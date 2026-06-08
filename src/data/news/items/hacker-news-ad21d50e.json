@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+  "summary": "245 points · 47 comments",
+  "content": "Hey HN! Lathe is an experiment in using LLMs to teach me something new, instead of doing the work for me. It generates a hands-on, source-backed tutorial for any technical topic you want to learn. Then you work through it yourself by reading and typing the code by hand ( gasp ) in a local UI built for exactly that. It's a Go CLI plus LLM agent skills (Claude Code / Cursor / Codex). You prompt something like \"/lathe build a 3D slicer in Erlang\", run `lathe serve` to spin up a local webapp, and read it in your browser. Every tutorial comes with the things that have made self-learning a pleasant experience for me in the past: - table of contents that follows along as you scroll - side-notes that nudge you to think - exercises for the reader - sources backing up the content that you can use to take you deeper To help make up for the lack of human brainpower behind the tutorial, you can also ask questions about the content, have another LLM verify the tutorial actually compiles and runs, or extend it with another part (no more \"Part 4 of 6\" that hasn't seen an update since 2021). I didn't build lathe to replace human-written tutorials. I built lathe because I _love_ human-written tutorials, but wanted to learn technical domains where no good human-written tutorial exists yet (building a 3D slicer from scratch, making embedded Zig approachable, etc). There's a longer story in the README about how I got started with programming through PSP homebrew tutorials, and why losing that to LLMs bugged me enough to build this. I'm not here to sell you anything (there's nothing close to a VC-backed startup here :D). It's an LLM, and its output is usually good but not perfect by any means. So far, my experience is that because you're the one typing and actually engaged, you catch the weird stuff (and I'm finding that pushing back on it is its own kind of learning). And yes, it's vibecoded, because it's low scope, low risk, and scratching a personal itch. I run it on Claude Code + macOS personally, other setups should work but I haven't been able to verify them yet. If you can find resources to learn something that was written by a human, read that first. But Lathe is here to fill in the gaps when that isn't the case, and I hope it serves as an example where LLMs can help us think better, rather than less. Repo: https://github.com/devenjarvis/lathe Would love your feedback if you decide to check it out!",
+  "url": "https://github.com/devenjarvis/lathe",
+  "publishedAt": "2026-06-07T11:16:46.000Z",
+  "points": 245,
+  "id": "hacker-news-ad21d50e",
+  "slug": "hacker-news-ad21d50e",
+  "fetchedAt": "2026-06-08T01:38:40.645Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 3,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN: Lathe – 使用法学硕士学习新领域，而不是跳过它",
+  "chineseSummary": "245 分 · 47 条评论",
+  "chineseContent": "嘿，HN！车床是一个利用法学硕士教我新东西，而不是为我做工作的实验。它为您想要学习的任何技术主题生成一个有源代码支持的实践教程。然后，您可以通过在专门为此构建的本地 UI 中手动阅读并键入代码 (gasp) 来自己完成它。它是 Go CLI 加上 LLM 代理技能（Claude Code / Cursor / Codex）。您会提示“/lathe 在 Erlang 中构建 3D 切片器”之类的内容，运行 `latheserve` 来启动本地 Web 应用程序，并在浏览器中读取它。每个教程都附带了一些让我过去自学成为愉快经历的东西： - 滚动时跟随的目录 - 推动你思考的旁注 - 供读者练习 - 备份内容的来源，你可以用它来让你更深入 为了帮助弥补教程背后人力的不足，你还可以提出有关内容的问题，让另一个法学硕士验证教程是否实际编译和运行，或用另一部分扩展它（不再是“第 4 部分，共 6 部分”）自 2021 年以来就没有看到更新）。我建造车床并不是为了取代人工编写的教程。我建造车床是因为我_喜欢_人类编写的教程，但想学习尚无良好的人类编写的教程的技术领域（从头开始构建 3D 切片机、使嵌入式 Zig 变得平易近人等）。自述文件中有一个较长的故事，讲述了我如何通过 PSP 自制教程开始编程，以及为什么失去了法学硕士让我足够烦恼并构建了这个。我来这里不是为了向你推销任何东西（这里没有任何东西可以与风险投资支持的初创公司相媲美：D）。它是法学硕士，其输出通常不错，但无论如何都不完美。到目前为止，我的经验是，因为你是那个打字并且真正参与的人，所以你会发现 wei",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

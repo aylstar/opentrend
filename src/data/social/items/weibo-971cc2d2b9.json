@@ -1,0 +1,21 @@
+{
+  "id": "weibo-971cc2d2b9",
+  "slug": "weibo-江语晨黑脸",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "江语晨黑脸",
+  "summary": "微博热榜第 7 位：江语晨黑脸，当前热度为 68万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E9%BB%91%E8%84%B8%23",
+  "hotValue": "68万热度",
+  "author": "",
+  "publishedAt": "2026-06-08 09:34:30",
+  "fetchedAt": "2026-06-08T01:39:57.304Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
