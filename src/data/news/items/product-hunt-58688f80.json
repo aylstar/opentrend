@@ -7,8 +7,8 @@
   "publishedAt": "2026-05-25T21:03:03.000Z",
   "id": "product-hunt-58688f80",
   "slug": "product-hunt-58688f80",
-  "content": "A team of AI agents that runs your stores across channels Discussion | Link",
-  "fetchedAt": "2026-06-08T01:38:40.646Z",
+  "content": "Running even one online store is a full-time job. SellerClaw is a team of AI agents that runs it for you: specialized agents for product sourcing, store management, and advertising, coordinated by a supervisor you direct. Tell it what to sell — the agents build listings, manage ads and pricing, and handle fulfillment and support across Shopify, eBay, and more. You stay in control: every action is visible and approvable, and you set how much runs on its own. Free to start.",
+  "fetchedAt": "2026-06-09T01:26:59.039Z",
   "score": 69,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "全球",
     "视频"
   ],
-  "rank": 15,
-  "contentStatus": "fetch-failed",
+  "rank": 20,
+  "contentStatus": "article-extracted",
   "chineseTitle": "卖家之爪",
   "chineseSummary": "一个人工智能代理团队，跨渠道运营您的商店关联",
-  "chineseContent": "一个人工智能代理团队，跨渠道运营您的商店关联",
+  "chineseContent": "即使经营一家在线商店也是一项全职工作。 SellerClaw 是一个为您运行的人工智能代理团队：产品采购、商店管理和广告的专业代理，由您指导的主管进行协调。告诉它要销售什么——代理商构建列表、管理广告和定价，并处理 Shopify、eBay 等平台的履行和支持。您保持控制：每个操作都是可见且可批准的，并且您可以自行设置运行次数。免费开始。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

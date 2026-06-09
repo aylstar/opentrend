@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Asia chip-linked shares recover after U.S. peers bounce back",
+  "summary": "In the U.S., chip stocks powered gains on Monday, helping the S&P 500 gain 0.3%, while the tech-heavy Nasdaq Composite advanced 0.86%.",
+  "url": "https://www.cnbc.com/2026/06/09/asia-tech-stocks-rebound-after-wall-street-chip-shares-recover-.html",
+  "publishedAt": "2026-06-09T01:25:56.000Z",
+  "id": "cnbc-56f17dc3",
+  "slug": "cnbc-56f17dc3",
+  "content": "Asian technology stocks rebounded Tuesday, tracking Wall Street's gains, as investors returned to artificial intelligence-linked names.\n\nSouth Korean memory chip giant SK Hynix climbed 6.44%, while Samsung Electronics gained 3.38%. Seoul Semiconductor jumped over 12%.\n\nJapanese semiconductor equipment makers also advanced, with Tokyo Electron rising 5.65%, Advantest adding 1.51%, and Renesas Electronics gaining 2.54%.\n\nHowever, shares of Japanese tech investment giant SoftBank extended their slide, dropping 2%.\n\nIn the U.S., chip stocks powered gains on Monday, helping the S&P 500 gain 0.3%, while the tech-heavy Nasdaq Composite advanced 0.86%, clawing back some of last week's losses amid a broader rout in technology shares.\n\n\"The rotation back to domestic defensives we saw yesterday will be short lived for now,\" said Andrew Jackson, an equity strategist at ORTUS Advisors.\n\nWhile it remains unclear whether the recent pullback will be enough to reset valuations, Jackson said markets were likely to remain volatile through the week as investors brace for the pricing of SpaceX's highly anticipated initial public offering on Thursday and the start of trading on Friday.\n\nInvestor attention is also turning to a potential wave of blockbuster AI listings afte r OpenAI said it had confidentially filed for an initial public offering , following a similar move by Anthropic and coming just days before SpaceX shares are expected to begin trading.\n\nJackson added that capital could become more constrained after OpenAI's IPO filing. The artificial intelligence company, which is valued at more than $850 billion , has been gearing up to go public as soon as the fourth quarter of this year.",
+  "fetchedAt": "2026-06-09T01:26:59.042Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美国同行反弹后，亚洲芯片相关股票回升",
+  "chineseSummary": "在美国，芯片股周一上涨，帮助标准普尔 500 指数上涨 0.3%，而以科技股为主的纳斯达克综合指数上涨 0.86%。",
+  "chineseContent": "随着投资者重新投资与人工智能相关的股票，亚洲科技股周二跟随华尔街的涨幅反弹。\n\n韩国存储芯片巨头SK海力士上涨6.44%，三星电子上涨3.38%。首尔半导体股价上涨超过 12%。\n\n日本半导体设备制造商也上涨，东京电子上涨5.65%，爱德万测试上涨1.51%，瑞萨电子上涨2.54%。\n\n然而，日本科技投资巨头软银的股价延续跌势，下跌 2%。\n\n在美国，芯片股周一上涨，帮助标准普尔 500 指数上涨 0.3%，而以科技股为主的纳斯达克综合指数上涨 0.86%，在科技股大范围暴跌的情况下收复了上周的部分跌幅。\n\nORTUS Advisors 股票策略师安德鲁·杰克逊 (Andrew Jackson) 表示：“我们昨天看到的转向国内防御的轮动目前将是短暂的。”\n\n尽管目前尚不清楚最近的回调是否足以重置估值，但杰克逊表示，本周市场可能会保持波动，因为投资者正在等待 SpaceX 周四备受期待的首次公开募股定价和周五开始交易。\n\n在 OpenAI 表示已秘密申请首次公开募股之后，投资者的注意力也转向了潜在的一波轰动一时的人工智能上市浪潮，此前 Anthropic 也采取了类似举措，而就在 SpaceX 股票预计开始交易的前几天。\n\nJackson 补充道，在 OpenAI 提交 IPO 申请后，资本可能会变得更加紧张。这家估值超过8500亿美元的人工智能公司一直在准备最快在今年第四季度上市。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

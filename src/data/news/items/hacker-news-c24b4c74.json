@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Apple reveals new AI architecture built around Google Gemini models",
+  "summary": "322 points · 313 comments",
+  "content": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family.\n\nThe new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure. Apple described the collaboration as a \"deep\" one that it says unlocks what it called a \"huge upgrade\" for &zwnj;Apple Intelligence&zwnj;, bringing state-of-the-art understanding and reasoning capabilities as well as multimodal support including image understanding and generation.\n\nThe upgraded models support new capabilities use cases, including realistic image creation, advanced photo editing, and visual question answering. Certain devices will receive a higher-power version of the model with additional capabilities including speech generation, improved dictation accuracy, and stronger natural language understanding, though Apple did not specify which devices qualify.\n\nA new system orchestrator sits at the center of the revised architecture, coordinating &zwnj;Apple Intelligence&zwnj; features securely across Apple's platforms. Apple says the orchestrator allows the system to tailor its responses based on the active app and the user's current task, enabling what the company described as truly system-wide intelligence.\n\nApple used the announcement to frame its approach as a contrast to competitors it characterized as \"racing forward\" without regard for users. The company reiterated that &zwnj;Apple Intelligence&zwnj; relies on on-device processing and Private Cloud Compute, with a promise that user data is only used to execute the immediate request and is not accessible to Apple or third parties. Apple added that outside experts can verify those privacy guarantees \"at any time.\"",
+  "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+  "publishedAt": "2026-06-08T19:14:47.000Z",
+  "points": 322,
+  "id": "hacker-news-c24b4c74",
+  "slug": "hacker-news-c24b4c74",
+  "fetchedAt": "2026-06-09T01:26:59.037Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Apple 展示了围绕 Google Gemini 模型构建的新 AI 架构",
+  "chineseSummary": "322 分 · 313 条评论",
+  "chineseContent": "Apple 今天宣布对其 Apple Intelligence 平台进行重大改革，揭示了一种基于与 Google 合作开发的基础模型的新架构，该模型使用 Gemini 系列背后的技术。\n\n新架构以与谷歌共同开发的苹果基础模型为中心，苹果表示，该模型适合通过其现有的私有云计算基础设施在设备上和服务器上运行。苹果将​​此次合作描述为一次“深度”合作，称其为 Apple Intelligence 带来了“巨大升级”，带来了最先进的理解和推理能力以及包括图像理解和生成在内的多模式支持。\n\n升级后的模型支持新的功能用例，包括逼真的图像创建、高级照片编辑和视觉问答。某些设备将获得该模型的更高功率版本，并具有附加功能，包括语音生成、改进的听写准确性和更强的自然语言理解，尽管苹果没有具体说明哪些设备符合资格。\n\n新的系统协调器位于修订后的架构的中心，在 Apple 平台上安全地协调“Apple Intelligence”功能。苹果表示，协调器允许系统根据活动应用程序和用户当前的任务定制其响应，从而实现该公司所描述的真正的全系统智能。\n\n苹果公司利用这一声明来阐述自己的做法，与竞争对手形成鲜明对比，称其为“不顾用户而奋力向前”。该公司重申，“Apple Intelligence”依赖于设备上处理和私有云计算，并承诺用户数据仅用于执行即时请求，苹果或第三方无法访问。苹果补充说，外部专家可以“随时”验证这些隐私保证。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

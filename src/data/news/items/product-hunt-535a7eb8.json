@@ -7,8 +7,8 @@
   "publishedAt": "2026-06-03T16:29:48.000Z",
   "id": "product-hunt-535a7eb8",
   "slug": "product-hunt-535a7eb8",
-  "content": "Daily AI stories personalised from your Google apps Discussion | Link",
-  "fetchedAt": "2026-06-08T01:38:40.646Z",
+  "content": "Google Labs is an experimental hub where Google publicly tests early-stage AI products and features. It includes projects like AI-powered search enhancements, Workspace integrations (e.g. Gmail and Docs assistants), and generative tools such as NotebookLM.",
+  "fetchedAt": "2026-06-09T01:26:59.039Z",
   "score": 69,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "科技",
     "全球"
   ],
-  "rank": 13,
-  "contentStatus": "fetch-failed",
+  "rank": 18,
+  "contentStatus": "article-extracted",
   "chineseTitle": "Google 实验室的 Dreambeans",
   "chineseSummary": "通过您的 Google 应用程序个性化的每日 AI 故事 讨论 |关联",
-  "chineseContent": "通过您的 Google 应用程序个性化的每日 AI 故事 讨论 |关联",
+  "chineseContent": "谷歌实验室是一个实验中心，谷歌在这里公开测试早期人工智能产品和功能。它包括人工智能驱动的搜索增强、工作区集成（例如 Gmail 和文档助手）以及 NotebookLM 等生成工具等项目。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

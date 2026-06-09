@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic",
+  "summary": "Transaction is one of the largest private credit fundraisings, fuelling the Claude maker’s AI growth plans",
+  "url": "https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f",
+  "publishedAt": "2026-06-08T23:50:11.000Z",
+  "id": "financial-times-56c7595e",
+  "slug": "financial-times-56c7595e",
+  "content": "Transaction is one of the largest private credit fundraisings, fuelling the Claude maker’s AI growth plans",
+  "fetchedAt": "2026-06-09T01:26:59.047Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Apollo 和 Blackstone 为 Anthropic 筹集 350 亿美元芯片融资",
+  "chineseSummary": "该交易是最大的私人信贷融资之一，推动了克劳德制造商的人工智能增长计划",
+  "chineseContent": "该交易是最大的私人信贷融资之一，推动了克劳德制造商的人工智能增长计划",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

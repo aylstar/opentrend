@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-04T03:20:01.000Z",
   "id": "product-hunt-74a83b0e",
   "slug": "product-hunt-74a83b0e",
-  "content": "Generate and edit images with precise scene control Discussion | Link",
-  "fetchedAt": "2026-06-08T01:38:40.646Z",
+  "content": "MAI-Image-2.5 is a text-to-image and image editing model that handles localized edits, identity preservation, and text rendering. Available via Foundry and OpenRouter for developers building production image workflows.",
+  "fetchedAt": "2026-06-09T01:26:59.039Z",
   "score": 69,
   "sourceWeight": 84,
   "tags": [
     "全球",
     "金融"
   ],
-  "rank": 14,
-  "contentStatus": "fetch-failed",
+  "rank": 19,
+  "contentStatus": "article-extracted",
   "chineseTitle": "MAI-图像-2.5",
   "chineseSummary": "通过精确的场景控制生成和编辑图像 讨论 |关联",
-  "chineseContent": "通过精确的场景控制生成和编辑图像 讨论 |关联",
+  "chineseContent": "MAI-Image-2.5 是一种文本到图像和图像编辑模型，可处理本地化编辑、身份保留和文本渲染。开发人员可通过 Foundry 和 OpenRouter 构建生产映像工作流程。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0414b35377",
+  "slug": "weibo-李小冉咋了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "李小冉咋了",
+  "summary": "微博热榜第 40 位：李小冉咋了，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%92%8B%E4%BA%86%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-06-09 09:19:16",
+  "fetchedAt": "2026-06-09T01:29:04.362Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

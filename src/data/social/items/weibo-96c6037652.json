@@ -1,0 +1,21 @@
+{
+  "id": "weibo-96c6037652",
+  "slug": "weibo-高考",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "高考",
+  "summary": "微博热榜第 1 位：高考，当前热度为 148万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23",
+  "hotValue": "148万热度",
+  "author": "",
+  "publishedAt": "2026-06-09 09:19:16",
+  "fetchedAt": "2026-06-09T01:29:04.362Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

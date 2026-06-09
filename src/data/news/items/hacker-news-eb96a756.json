@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Apple Core AI Framework",
+  "summary": "182 points · 37 comments",
+  "content": "182 points · 37 comments",
+  "url": "https://developer.apple.com/documentation/coreai/",
+  "publishedAt": "2026-06-08T18:47:38.000Z",
+  "points": 182,
+  "id": "hacker-news-eb96a756",
+  "slug": "hacker-news-eb96a756",
+  "fetchedAt": "2026-06-09T01:26:59.036Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果核心 AI 框架",
+  "chineseSummary": "182 分 · 37 条评论",
+  "chineseContent": "182 分 · 37 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

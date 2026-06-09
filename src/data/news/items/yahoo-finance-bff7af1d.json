@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures slip as AI trade takes center stage",
+  "summary": "US stock futures edged lower as the AI trade continued to take center stage on Wall Street.",
+  "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-ai-trade-takes-center-stage-225640461.html?.tsrc=rss",
+  "publishedAt": "2026-06-08T22:56:40.000Z",
+  "id": "yahoo-finance-bff7af1d",
+  "slug": "yahoo-finance-bff7af1d",
+  "content": "US stock futures edged lower as the AI trade continued to take center stage on Wall Street. Futures attached to the Dow Jones Industrial Average (YM=F) slipped 0.1%. Futures attached to the benchmark S&P 500 (ES=F) fell 0.2%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) tumbled 0.3%. After the bell, OpenAI announced that it confidentially filed paperwork for an initial public offering, a week after rival Anthropic took the same step. Both AI labs are now positioned to trade on Wall Street as soon as this fall. In day trading, tech stocks lifted markets to a modest rebound following a bruising session on Friday. The action highlighted the strength of AI optimism despite growing concerns that persistent inflation could prompt the Federal Reserve to consider a rate hike this year. Meanwhile, one of the primary drivers of rising prices — the war with Iran — shows no signs of ending. Attacks between Israel and Iran over the weekend further clouded prospects for US-Iran negotiations, even as the two countries said they would stop fighting for now. Wall Street is gearing up for a major event on Friday, when SpaceX (SPCX) could make its market debut and set a record for the largest public offering in history.",
+  "fetchedAt": "2026-06-09T01:26:59.042Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：AI 交易成为焦点，道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌",
+  "chineseSummary": "随着人工智能交易继续成为华尔街的中心舞台，美国股指期货小幅走低。",
+  "chineseContent": "随着人工智能交易继续成为华尔街的中心舞台，美国股指期货小幅走低。道琼斯工业平均指数期货 (YM=F) 下跌 0.1%。基准标准普尔 500 指数期货 (ES=F) 下跌 0.2%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货下跌 0.3%。开盘后，OpenAI 宣布已秘密提交首次公开募股的文件，一周前，竞争对手 Anthropic 也采取了同样的措施。这两个人工智能实验室目前都准备最快今年秋天在华尔街进行交易。在日内交易中，科技股在周五的惨淡交易后推动市场温和反弹。尽管人们越来越担心持续的通胀可能促使美联储考虑今年加息，但这一行动凸显了人工智能乐观情绪的强度。与此同时，物价上涨的主要推动因素之一——与伊朗的战争——没有显示出结束的迹象。周末以色列和伊朗之间的袭击进一步给美伊谈判的前景蒙上阴影，尽管两国表示将暂时停止战斗。华尔街正在为周五的一场重大活动做准备，届时 SpaceX (SPCX) 可能会首次上市，并创下历史上最大规模的公开发行记录。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

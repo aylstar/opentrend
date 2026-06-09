@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec8585cee8",
+  "slug": "weibo-张月方停止浪姐选歌",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "张月方停止浪姐选歌",
+  "summary": "微博热榜第 19 位：张月方停止浪姐选歌，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E6%96%B9%E5%81%9C%E6%AD%A2%E6%B5%AA%E5%A7%90%E9%80%89%E6%AD%8C%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-09 09:19:16",
+  "fetchedAt": "2026-06-09T01:29:04.362Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

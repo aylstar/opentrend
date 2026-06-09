@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4c2f7ede65",
+  "slug": "weibo-ios27升级汇总",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "iOS27升级汇总",
+  "summary": "微博热榜第 20 位：iOS27升级汇总，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23iOS27%E5%8D%87%E7%BA%A7%E6%B1%87%E6%80%BB%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-09 09:19:16",
+  "fetchedAt": "2026-06-09T01:29:04.362Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
