@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "RIP software hackathons. Long live the hardware hackathon",
+  "summary": "48 points · 9 comments",
+  "content": "I took part in a hackathon in Vilnius the other weekend (courtesy of Basedcollective) during the pink soup festival . I brought along an old rotary phone and our two-man team spent the next 48 hours sticking our fingers in it. We wired a Raspberry Pi into the phone which interfaced with all of its IO and communicated with our server via a single websocket connection which controlled everything from two-way audio, the bell ringer (with custom frequency and audio patterns) and the hangup switch. For the demo, we set up an AI agent which could research music, create playlists and play collections of niche music all via the Spotify API on request. Interpreting requests such as:\n\n“play some music by artists who are alleged to be on the Epstein files”\n\n“create me a playlist of 70s Zambian psychedelic rock”,\n\nWe put the personality of a warm Yorkshire gentleman on the other end of the line (courtesy of ElevenLabs) and had good fun getting all the parts working together ready for the final demo under 48 hours later.\n\nAs is the evolving trend with writing code nowadays, neither me nor my team-mate looked at a single line of code over the entire weekend. Something which would have been unheard of just 12 months ago has become today's reality. As it was a hackathon, all we cared about was that it worked and the inner lines of code didn't matter.\n\nFor this reason, the focus of hackathons has completely shifted away from typing code with aching fingers and zero sleep, to thinking of the system as a whole (not a very unique opinion now, I know) and iterating on intricacies of implementation with radical refactors has become a trivial task. This leaves free mental RAM to actually faff with hardware and how it interfaces with the physical world.\n\nWhat does a hackathon moonshot idea really look like nowadays?\n\nAs software subtends to becoming more and more \"solved\", a web-app which may have been a fantastic feat 24 months ago has now tumbled into mediocrity. How do we continue to push the hackathon bar further? This is where I think hardware comes in.\n\nIn the coming months, we are going to see more of an emphasis on hardware hackathons than we did before. Something I would like to see specifically is a renaissance of old tech which had previously required very niche and time consuming domain knowledge to mess with.\n\nSome project ideas off the top of my head:\n\nYes there’s probably no real sane business case in any of these projects but I am also of the opinion that hackathons should be a bit ridiculous. I don’t want to see your VC pitch and the problem you are solving, I want to see an unholy, overbuilt and morally confusing obelisk of wires and APIs, a hubris manifest in a breadboard paired with a frankenstein'd consumer electronics item that makes me question my very own reality.",
+  "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+  "publishedAt": "2026-06-09T22:35:57.000Z",
+  "points": 48,
+  "id": "hacker-news-9e5dc66e",
+  "slug": "hacker-news-9e5dc66e",
+  "fetchedAt": "2026-06-10T01:35:20.526Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技",
+    "安全"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "RIP 软件黑客马拉松。硬件黑客马拉松万岁",
+  "chineseSummary": "48 分 · 9 条评论",
+  "chineseContent": "另一个周末，我在粉红汤节期间参加了维尔纽斯的黑客马拉松（由 Basedcollective 提供）。我带来了一部旧的旋转电话，我们的两人团队在接下来的 48 小时里把手指伸进了它。我们将 Raspberry Pi 连接到手机，该手机与其所有 IO 接口，并通过单个 Websocket 连接与我们的服务器通信，该连接控制从双向音频、铃声（具有自定义频率和音频模式）和挂断开关等所有内容。在演示中，我们设置了一个 AI 代理，它可以根据请求通过 Spotify API 研究音乐、创建播放列表和播放小众音乐集。解释请求，例如：\n\n“播放一些据称在爱泼斯坦档案中的艺术家的音乐”\n\n“为我创建一个 70 年代赞比亚迷幻摇滚的播放列表”，\n\n我们将一位热情的约克郡绅士的个性置于线路的另一端（由 ElevenLabs 提供），并在 48 小时内将所有部件一起工作，为最终演示做好准备，非常有趣。\n\n随着当今编写代码的发展趋势，我和我的队友整个周末都没有看一行代码。 12 个月前还闻所未闻的事情如今已成为现实。由于这是一场黑客马拉松，我们只关心它是否有效，而内部代码行并不重要。\n\n出于这个原因，黑客马拉松的焦点已经完全从用酸痛的手指和零睡眠来敲代码，转变为将系统作为一个整体来思考（我知道现在这不是一个非常独特的观点），并且通过彻底的重构来迭代复杂的实现已经成为一项微不足道的任务。这使得空闲的心理 RAM 可以真正迷恋硬件以及它与物理世界的交互方式。\n\n如今，黑客马拉松登月想法到底是什么样的？\n\n随着软件趋于变得越来越“可解决”，一款 24 个月前可能是一项了不起的壮举的网络应用程序现在已经陷入平庸。我们如何继续推动黑客马拉松的发展？我认为这就是硬件发挥作用的地方。\n\n在接下来的几个月中，我们将看到比以前更加重视硬件黑客马拉松。我特别希望看到的是旧技术的复兴，这些技术以前需要非常小众且耗时的领域知识来处理。\n\n我脑海中浮现出一些项目想法：\n\n是的，这些项目中可能没有真正理智的商业案例，但我也认为黑客马拉松应该有点荒谬。我不想看到你的风险投资宣传和你正在解决的问题，我想看到一个邪恶的、过度建造的、道德上令人困惑的电线和 API 方尖碑，一个面包板与一个弗兰肯斯坦消费电子产品配对的傲慢态度，这让我质疑自己的现实。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

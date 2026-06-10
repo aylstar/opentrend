@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Nasdaq slips in volatile trading as 2026 high-flyers pull back",
+  "summary": "Losses for AI-linked stocks overshadow gains across rest of market",
+  "url": "https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede",
+  "publishedAt": "2026-06-09T20:15:48.000Z",
+  "id": "financial-times-18912d91",
+  "slug": "financial-times-18912d91",
+  "content": "Losses for AI-linked stocks overshadow gains across rest of market",
+  "fetchedAt": "2026-06-10T01:35:20.537Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "随着 2026 年的高飞者撤退，纳斯达克指数在波动性交易中下滑",
+  "chineseSummary": "人工智能相关股票的跌幅盖过了市场其他股票的涨幅",
+  "chineseContent": "人工智能相关股票的跌幅盖过了市场其他股票的涨幅",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

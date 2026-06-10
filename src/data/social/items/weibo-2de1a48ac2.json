@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2de1a48ac2",
+  "slug": "weibo-张月深夜发长文",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "张月深夜发长文",
+  "summary": "微博热榜第 4 位：张月深夜发长文，当前热度为 106万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E6%B7%B1%E5%A4%9C%E5%8F%91%E9%95%BF%E6%96%87%23",
+  "hotValue": "106万热度",
+  "author": "",
+  "publishedAt": "2026-06-10 09:35:34",
+  "fetchedAt": "2026-06-10T01:35:56.532Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

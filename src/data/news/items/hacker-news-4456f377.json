@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
+  "summary": "87 points · 29 comments",
+  "content": "A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially letting law enforcement identify specific drivers or passengers.\n\nThe technology, called SignalTrace, would turn ALPR cameras from devices focused on tracking cars to ones that can more readily track the location of particular people. ALPR cameras have become a commonly deployed technology all across the U.S.; SignalTrace would make some of those cameras capable of collecting much more data.",
+  "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+  "publishedAt": "2026-06-09T21:01:40.000Z",
+  "points": 87,
+  "id": "hacker-news-4456f377",
+  "slug": "hacker-news-4456f377",
+  "fetchedAt": "2026-06-10T01:35:20.527Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "公司将在 ALPR 中添加手机、AirPod 和智能手表追踪器",
+  "chineseSummary": "87 分 · 29 条评论",
+  "chineseContent": "一家监控公司计划在自动车牌读取器 (ALPR) 中添加传感器，这意味着这些设备不仅可以捕获过往车辆的车牌，还可以扫描这些汽车中的手机、可穿戴设备和其他支持蓝牙的设备的唯一标识符，从而有可能让执法部门识别特定的驾驶员或乘客。\n\n这项名为 SignalTrace 的技术将把 ALPR 摄像头从专注于跟踪汽车的设备转变为可以更轻松地跟踪特定人员位置的设备。 ALPR 摄像头已成为全美普遍部署的技术； SignalTrace 将使其中一些相机能够收集更多的数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

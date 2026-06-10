@@ -1,0 +1,27 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+  "summary": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
+  "url": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+  "publishedAt": "2026-06-09T22:29:25.000Z",
+  "id": "cnbc-4751079",
+  "slug": "cnbc-4751079",
+  "content": "Super Micro Computer shares sank 9% in extended trading on Tuesday after the computer server maker announced $7 billion in equity-related financing deals to help to cover the cost of hardware component purchases.\n\nThe company said it's planning $5 billion in underwritten stock offerings and a $2 billion at-the-market offering, starting in July, through arrangements with JPMorgan Chase , Goldman Sachs and Citigroup . Companies often see their share price drop after announcing stock sales, as investors prepare to see their existing holdings diluted in value.\n\nSuper Micro is the latest company tied to the artificial intelligence boom that's turning to the financial markets for more capital. Earlier this month Alphabet , which offers AI models and cloud infrastructure for model builders such as Anthropic, said it would sell $85 billion in stock, including a $10 billion investment from Berkshire Hathaway .\n\nSuper Micro said in Tuesday's statement that it's received $39 billion in AI server orders from more than 20 customers during the past few weeks. Demand for AI-ready servers has been climbing sharply, lifting Super Micro's revenue in the March quarter over 100% from a year earlier. Dell said revenue from its Infrastructure Solutions Group grew 181% year over year.\n\nBefore the after-house drop, Super Micro shares were up about 39% so far this year. In March, the company said a co-founder resigned from its board after he was named in a federal indictment over allegations of smuggling equipment containing Nvidia AI chips into China.\n\nSuper Micro CEO Charles Liang told analysts on the company's earnings call in May that the cost of memory has more than tripled in recent months.\n\nWATCH: Dell valuation is stretched at these levels, says Truist's Matthew Niknam",
+  "fetchedAt": "2026-06-10T01:35:20.531Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Super Micro 因 70 亿美元融资计划大跌，因公司兜售 AI 服务器订单",
+  "chineseSummary": "Super Micro 是最新一家宣布进军资本市场的与人工智能热潮相关的公司。",
+  "chineseContent": "计算机服务器制造商超微电脑公司宣布进行 70 亿美元的股权相关融资交易以帮助支付硬件组件采购成本后，该公司股价周二在盘后交易中下跌 9%。\n\n该公司表示，计划从 7 月份开始，通过与摩根大通、高盛和花旗集团的安排，进行 50 亿美元的承销股票发行和 20 亿美元的市场发行。公司在宣布出售股票后，其股价通常会下跌，因为投资者准备看到其现有持股价值被稀释。\n\n超微是最新一家与人工智能热潮相关的公司，该公司正在向金融市场寻求更多资本。本月早些时候，为 Anthropic 等模型构建者提供人工智能模型和云基础设施的 Alphabet 表示，将出售 850 亿美元的股票，其中包括伯克希尔哈撒韦公司 100 亿美元的投资。\n\n超微在周二的声明中表示，过去几周已收到来自 20 多家客户的 390 亿美元人工智能服务器订单。对人工智能服务器的需求急剧攀升，使超微第三季度的收入同比增长超过 100%。戴尔表示，其基础设施解决方案部门的收入同比增长 181%。\n\n在盘后下跌之前，超微股价今年迄今已上涨约 39%。今年 3 月，该公司表示，一名联合创始人因涉嫌将含有 Nvidia AI 芯片的设备走私到中国而在联邦起诉书中被点名，随后辞去董事会职务。\n\nSuper Micro 首席执行官梁朝阳 (Charles Liang) 在 5 月份的公司财报电话会议上对分析师表示，近几个月内存成本增加了两倍多。\n\n观察：Truist 的马修·尼克南 (Matthew Niknam) 表示，戴尔的估值在这些水平上已经过高",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

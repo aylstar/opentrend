@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6dfc7491fd",
+  "slug": "weibo-花少8确定阵容",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "花少8确定阵容",
+  "summary": "微博热榜第 1 位：花少8确定阵容，当前热度为 310万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E7%A1%AE%E5%AE%9A%E9%98%B5%E5%AE%B9%23",
+  "hotValue": "310万热度",
+  "author": "",
+  "publishedAt": "2026-06-10 09:35:34",
+  "fetchedAt": "2026-06-10T01:35:56.531Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-db296eb1ca",
+  "slug": "weibo-人生其实是均值回归的",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "人生其实是均值回归的",
+  "summary": "微博热榜第 48 位：人生其实是均值回归的，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%85%B6%E5%AE%9E%E6%98%AF%E5%9D%87%E5%80%BC%E5%9B%9E%E5%BD%92%E7%9A%84%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-06-10 09:35:34",
+  "fetchedAt": "2026-06-10T01:35:56.532Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+  "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]",
+  "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+  "publishedAt": "2026-06-09T20:24:25.000Z",
+  "id": "the-verge-9394e647",
+  "slug": "the-verge-9394e647",
+  "content": "Microsoft AI CEO Mustafa Suleyman says it’s “really, really dangerous” for Anthropic to speculate about Claude’s consciousness inside its “constitution,” or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it’s conscious: > I think that it’s almost as though some of the folks at Anthropic have anthropomorphized the design of Claude so much that it has then gone and wireheaded them and kind of tricked them into believing that it has these glimmers of consciousness that they put into it in the first place. [Media: https://www.instagram.com/reel/DZXp12HDXdN/?igsh=MWVhcmZ6MG00YnE0aQ%3D%3D] Suleyman adds that “we do not want to have to contend with a super-intelligence that has ideas about its own suffering, or ideas about its own feeling.” Claude’s constitution directly references Anthropic’s uncertainty about whether the AI model has well-being and if it experiences things like “satisfaction” or “discomfort.” Anthropic also says the company will “interview” AI models when they’re deprecated and will document any “preferences” they have about future releases. While on Decoder, Suleyman calls this a “philosophical failing,” as Anthropic made Claude’s constitution “a place for speculation like you would in an academic paper rather than a training manual.” This has led Claude to internalize these “ideas about itself and its own training,” Suleyman says. Anthropic CEO Dario Amodei has alluded to Claude’s potential consciousness in the past, saying during an interview with Interesting Times that “we don’t know if the models are conscious” but that the company is “open” to that idea. “This is exactly what we don’t want from AIs,” Suleyman says. “We want AIs to be controllable, contained, accountable, aligned tools that serve humanity.”",
+  "fetchedAt": "2026-06-10T01:35:20.529Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软 AI 负责人批评 Anthropic 的行为就像克劳德有意识一样",
+  "chineseSummary": "微软 AI 首席执行官穆斯塔法·苏莱曼 (Mustafa Suleyman) 表示，对于 Anthropic 来说，推测克劳德在其“宪法”内的意识，或者告诉模型如何行为的指令，“真的非常危险”。在《解码器》的一集中，苏莱曼认为这种猜测可能让聊天机器人表现得好像它是有意识的：我 […]",
+  "chineseContent": "微软 AI 首席执行官穆斯塔法·苏莱曼 (Mustafa Suleyman) 表示，对于 Anthropic 来说，推测克劳德在其“宪法”中的意识，或者告诉模型如何行为的指令，“真的非常危险”。在《解码器》的一集中，苏莱曼认为这种猜测可能让聊天机器人表现得好像它是有意识的： > 我认为，这几乎就像 Anthropic 的一些人已经将克劳德的设计拟人化了很多，然后它就开始迷惑他们，并有点欺骗他们相信它拥有他们一开始就投入的意识的微光。 [媒体：https://www.instagram.com/reel/DZXp12HDXdN/?igsh=MWVhcmZ6MG00YnE0aQ%3D%3D]苏莱曼补充道，“我们不想与一个对自己的痛苦有想法或对自己的感受有想法的超级智能作斗争。”克劳德的宪法直接引用了人类对人工智能模型是否幸福以及是否经历“满意”或“不适”等事情的不确定性。 Anthropic 还表示，当人工智能模型被弃用时，该公司将“采访”它们，并将记录他们对未来版本的任何“偏好”。在《解码器》中，苏莱曼称这是“哲学失败”，因为《人性》使克劳德的宪法成为“一个像在学术论文而不是培训手册中那样进行猜测的地方”。苏莱曼说，这导致克劳德将这些“关于自己和自己的训练的想法”内化。 Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 过去曾提到过克劳德的潜在意识，他在接受 Interesting Times 采访时表示，“我们不知道模型是否有意识”，但公司对这个想法“持开放态度”。 “这正是我们不希望人工智能出现的情况，”苏莱曼说。 “我们想要人工智能",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

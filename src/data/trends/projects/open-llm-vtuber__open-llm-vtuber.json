@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
   "docsUrl": "https://open-llm-vtuber.github.io/",
-  "stars": 10542,
-  "forks": 1232,
+  "stars": 10732,
+  "forks": 1246,
   "openIssues": 132,
   "license": "NOASSERTION",
   "pushedAt": "2026-05-15T07:18:04Z",
-  "updatedAt": "2026-06-09T01:09:01Z",
+  "updatedAt": "2026-06-10T01:27:37Z",
   "createdAt": "2023-11-24T04:55:43Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "![](./assets/banner.jpg)\n\n<h1 align=\"center\">Open-LLM-VTuber</h1>\n<h3 align=\"center\">\n\n[![GitHub release](https://img.shields.io/github/v/release/Open-LLM-VTuber/Open-LLM-VTuber)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases) \n[![license](https://img.shields.io/github/license/Open-LLM-VTuber/Open-LLM-VTuber)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/blob/master/LICENSE) \n[![CodeQL](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/codeql.yml/badge.svg)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/codeql.yml)\n[![Ruff](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/ruff.yml/badge.svg)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/actions/workflows/ruff.yml)\n[![Docker](https://img.shields.io/badge/Open-LLM-VTuber%2FOpen--LLM--VTuber-%25230db7ed.svg?logo=docker&logoColor=blue&labelColor=white&color=blue)](https://hub.docker.com/r/Open-LLM-VTuber/open-llm-vtuber) \n[![QQ User Group](https://img.shields.io/badge/QQ_User_Group-792615362-white?style=flat&logo=qq&logoColor=white)](https://qm.qq.com/q/ngvNUQpuKI)\n[![Static Badge](https://img.shields.io/badge/Join%20Chat-Zulip?style=flat&logo=zulip&label=Zulip(dev-community)&color=blue&link=https%3A%2F%2Folv.zulipchat.com)](https://olv.zulipchat.com)\n\n> **📢 v2.0 Development**: We are focusing on Open-LLM-VTuber v2.0 — a complete rewrite of the codebase. v2.0 is currently in its early discussion and planning phase. We kindly ask you to refrain from opening new issues or pull requests for feature requests on v1. To participate in the v2 discussions or contribute, join our developer community on [Zulip](https://olv.zulipchat.com). Weekly meeting schedules will be announced on Zulip. We will continue fixing bugs for v1 and work through existing pull requests.\n\n[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yi.ting)\n[![](https://dcbadge.limes.pink/api/server/3UDA8YFDXx)](https://discord.gg/3UDA8YFDXx)\n\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Open-LLM-VTuber/Open-LLM-VTuber)\n\nENGLISH README | [中文 README](./README.CN.md) | [한국어 README](./README.KR.md) | [日本語 README](./README.JP.md)\n\n[Documentation](https://open-llm-vtuber.github.io/docs/quick-start) | [![Roadmap](https://img.shields.io/badge/Roadmap-GitHub_Project-yellow)](https://github.com/orgs/Open-LLM-VTuber/projects/2)\n\n<a href=\"https://trendshift.io/repositories/27063\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/27063\" alt=\"Open-LLM-VTuber%2FOpen-LLM-VTuber | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n</h3>\n\n\n> 常见问题 Common Issues doc (Written in Chinese): https://docs.qq.com/pdf/DTFZGQXdTUXhIYWRq\n>\n> User Survey: https://forms.gle/w6Y6PiHTZr1nzbtWA\n>\n> 调查问卷(中文): https://wj.qq.com/s2/16150415/f50a/\n\n\n\n> :warning: This project is in its early stages and is cu",
-  "generatedAt": "2026-06-09T01:26:44.727Z",
+  "generatedAt": "2026-06-10T01:35:08.998Z",
   "analysis": {
     "oneLine": "Open-LLM-VTuber 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "Open-LLM-VTuber 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，Open-LLM-VTuber 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 10,542，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Open-LLM-VTuber 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 10,732，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

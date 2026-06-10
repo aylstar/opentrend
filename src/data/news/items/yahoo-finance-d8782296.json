@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures Fall On Iran News After Market Whipsaws; CPI Inflation On Tap",
+  "summary": "The stock market had a wild Tuesday, skidding but also coming off lows on AI fears and Trump's Iran threats. CPI inflation is on tap.",
+  "url": "https://finance.yahoo.com/m/25a6a429-345e-3138-9f10-7360fba3d0d1/dow-jones-futures-fall-on.html?.tsrc=rss",
+  "publishedAt": "2026-06-10T01:24:35.000Z",
+  "id": "yahoo-finance-d8782296",
+  "slug": "yahoo-finance-d8782296",
+  "content": "The stock market had a wild Tuesday, skidding but also coming off lows on AI fears and Trump's Iran threats. CPI inflation is on tap.",
+  "fetchedAt": "2026-06-10T01:35:20.530Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 25,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货因伊朗消息而下跌，市场遭受重创； CPI 通胀即将到来",
+  "chineseSummary": "股市周二经历了疯狂的走势，虽然有所下滑，但也因人工智能担忧和特朗普的伊朗威胁而跌破低点。 CPI 通胀即将来临。",
+  "chineseContent": "股市周二经历了疯狂的走势，虽然有所下滑，但也因人工智能担忧和特朗普的伊朗威胁而跌破低点。 CPI 通胀即将来临。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

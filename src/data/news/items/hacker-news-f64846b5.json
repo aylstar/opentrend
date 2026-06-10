@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "macOS Container Machines",
+  "summary": "83 points · 27 comments",
+  "content": "Container machine provides a highly integrated Linux environment that works seamlessly on your Mac. Container machines are fast, lightweight and persistent. They are based on standard OCI images that can be built and shared. Host integrations such as automatic user and home directory sharing provide quick and easy access to your Linux environment no matter where you are in a terminal.\n\nContainers are typically modeled after an application. A container machine is modeled after a Linux environment. It runs the image's init system allowing you to register long running services or test your application under a process supervisor. A container machine automatically maps your username and home directory into the Linux environment. Your repositories and dotfiles are available on both platforms. Use editors and tools directly on macOS simultaneously building and running your application inside of the Linux environment.\n\ncontainer machine run is how you get a shell or run a single command. If the container machine is stopped, run boots it first.\n\nOpen a shell, or run a single command\n\nWith no command, container machine run opens an interactive shell as a user that matches your host account:\n\nPass a command to run it once and exit:\n\nPick a default container machine so you can drop the -n flag:\n\ncontainer machine has the alias m , so m ls , m run , etc. all work.\n\nResize CPUs, memory, or change the home-mount\n\ncontainer machine set updates configuration on disk. Changes take effect after the next stop and start:\n\nMemory defaults to half of host memory. The home-mount can be rw (default), ro , or none .\n\nBring your own container machine image\n\nAny Linux image that includes /sbin/init works as a container machine. For example, this Dockerfile builds an Ubuntu 24.04 container machine image with systemd and common command-line tools:\n\nBuild it and create a container machine from it:\n\nBy default, container runs a built-in setup script on first boot to provision the user described above. To use your own setup instead, add an executable script at /etc/machine/create-user.sh to the image. It runs once, as root, on first boot, with these variables set:",
+  "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+  "publishedAt": "2026-06-10T00:29:01.000Z",
+  "points": 83,
+  "id": "hacker-news-f64846b5",
+  "slug": "hacker-news-f64846b5",
+  "fetchedAt": "2026-06-10T01:35:20.526Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "macOS 容器机",
+  "chineseSummary": "83 分 · 27 条评论",
+  "chineseContent": "容器机提供了一个高度集成的Linux环境，可以在您的Mac上无缝运行。集装箱机器快速、轻便且持久。它们基于可以构建和共享的标准 OCI 映像。无论您在终端中的哪个位置，自动用户和主目录共享等主机集成都可以快速轻松地访问您的 Linux 环境。\n\n容器通常是根据应用程序建模的。容器机器是根据 Linux 环境建模的。它运行映像的初始化系统，允许您注册长时间运行的服务或在进程管理程序下测试您的应用程序。容器机器会自动将您的用户名和主目录映射到 Linux 环境中。您的存储库和点文件在两个平台上都可用。直接在 macOS 上使用编辑器和工具，同时在 Linux 环境中构建和运行您的应用程序。\n\n容器机器运行是获取 shell 或运行单个命令的方式。如果容器机器已停止，请先运行启动它。\n\n打开 shell，或运行单个命令\n\n如果没有命令，容器机器运行会以与您的主机帐户匹配的用户身份打开交互式 shell：\n\n传递命令运行一次并退出：\n\n选择一个默认容器机器，以便您可以删除 -n 标志：\n\n容器机器有别名 m ，因此 m ls 、 m run 等都可以工作。\n\n调整 CPU、内存大小或更改家庭安装\n\n容器机器集更新磁盘上的配置。更改在下一站和开始后生效：\n\n内存默认为主机内存的一半。 home-mount 可以是 rw （默认）、 ro 或 none 。\n\n自带容器机器镜像\n\n任何包含 /sbin/init 的 Linux 映像都可以用作容器计算机。例如，此 Dockerfile 使用 systemd 和常用命令行工具构建 Ubuntu 24.04 容器机器映像：\n\n构建它并从中创建一个容器机器：\n\n默认情况下，容器在首次启动时运行内置设置脚本来配置上述用户。要使用您自己的设置，请将 /etc/machine/create-user.sh 处的可执行脚本添加到映像中。它在第一次启动时以 root 身份运行一次，并设置了以下变量：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
