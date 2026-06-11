@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f87b469784",
+  "slug": "weibo-美国通知日本",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "美国通知日本",
+  "summary": "微博热榜第 14 位：美国通知日本，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%80%9A%E7%9F%A5%E6%97%A5%E6%9C%AC%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

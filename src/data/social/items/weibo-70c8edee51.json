@@ -1,0 +1,21 @@
+{
+  "id": "weibo-70c8edee51",
+  "slug": "weibo-nba",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "NBA",
+  "summary": "微博热榜第 42 位：NBA，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23NBA%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.878Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

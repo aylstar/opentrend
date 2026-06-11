@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ae4da75ddd",
+  "slug": "weibo-旅游热度很低却很夯的城市",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "旅游热度很低却很夯的城市",
+  "summary": "微博热榜第 4 位：旅游热度很低却很夯的城市，当前热度为 91万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E7%83%AD%E5%BA%A6%E5%BE%88%E4%BD%8E%E5%8D%B4%E5%BE%88%E5%A4%AF%E7%9A%84%E5%9F%8E%E5%B8%82%23",
+  "hotValue": "91万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

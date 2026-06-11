@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Kalshi adds required employment verification for some prediction market bets",
+  "summary": "The CFTC is considering its first regulation for prediction markets, as arrests over \"insider trading\" on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says \"the proposal would establish a structured framework for evaluating whether such contracts involve an activity enumerated in Section […]",
+  "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+  "publishedAt": "2026-06-10T20:18:16.000Z",
+  "id": "the-verge-4f698188",
+  "slug": "the-verge-4f698188",
+  "content": "The CFTC is considering its first regulation for prediction markets, as arrests over “insider trading” on everything from military operations to Google Search data continue to stack up. As CoinDesk reports, a notice of proposed rulemaking says “the proposal would establish a structured framework for evaluating whether such contracts involve an activity enumerated in Section 5c(c)(5)(C) of the Commodity Exchange Act —activity that involves terrorism, assassination, war, gaming, or conduct that is unlawful under federal or state law—and, if so, whether that contract is contrary to the public interest.” Separately, Kalshi announced on Wednesday that it’s introducing new market integrity measures following the release of an “independent” audit committee report it commissioned a few months ago.&nbsp;&nbsp; The changes, which it says will be effective immediately, include a system for scoring a market’s risk of manipulation or insider trading, new whistleblower reporting tools, and employment verification for certain markets: > “For markets with heightened insider or manipulation risk, we now collect employment information before traders can participate. This lets us identify presumptive insiders – people who have material, non-public information about a market’s outcome – and screen them out before a trade is ever placed.” [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/kalshi-employment-verification.jpg?quality=90&strip=all]",
+  "fetchedAt": "2026-06-11T01:45:28.463Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Kalshi 为一些预测市场赌注增加了必要的就业验证",
+  "chineseSummary": "美国商品期货交易委员会正在考虑对预测市场进行首个监管，因为从军事行动到谷歌搜索数据等各种“内幕交易”的逮捕人数不断增加。正如 CoinDesk 报道的那样，拟议规则制定的通知称“该提案将建立一个结构化框架，用于评估此类合同是否涉及第 [...] 节中列举的活动。",
+  "chineseContent": "美国商品期货交易委员会正在考虑对预测市场进行首个监管，因为从军事行动到谷歌搜索数据等各种“内幕交易”的逮捕人数不断增加。正如 CoinDesk 报道的那样，一份拟议规则制定通知称，“该提案将建立一个结构化框架，用于评估此类合同是否涉及《商品交易法》第 5c(c)(5)(C) 条所列举的活动——涉及恐怖主义、暗杀、战争、赌博或联邦或州法律规定的非法行为——如果是，则该合同是否违反公共利益。”另外，卡尔希周三宣布，继几个月前委托发布“独立”审计委员会报告后，该公司将推出新的市场诚信措施。   该公司表示，这些变化将立即生效，包括对市场操纵或内幕交易风险进行评分的系统、新的举报工具以及某些市场的就业验证：“对于内幕或操纵风险较高的市场，我们现在在交易者参与之前收集就业信息。这使我们能够识别推定的内幕人士——掌握有关市场结果的重要非公开信息的人——并在进行交易之前将他们筛选出来。” [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/kalshi-employment-verification.jpg?quality=90&strip=all]",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

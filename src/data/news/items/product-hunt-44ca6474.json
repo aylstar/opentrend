@@ -7,8 +7,8 @@
   "publishedAt": "2026-06-08T20:01:02.000Z",
   "id": "product-hunt-44ca6474",
   "slug": "product-hunt-44ca6474",
-  "content": "De-slop your AI generated websites Discussion | Link",
-  "fetchedAt": "2026-06-10T01:35:20.528Z",
+  "content": "Website for developers featuring hundreds of community-made CSS and HTML UI elements like buttons, inputs, checkboxes, and cards. All elements are open source and free to use. We make it easy to find and customize the perfect element for your project.",
+  "fetchedAt": "2026-06-11T01:45:28.461Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "全球",
     "金融"
   ],
-  "rank": 9,
-  "contentStatus": "fetch-failed",
+  "rank": 15,
+  "contentStatus": "article-extracted",
   "chineseTitle": "宇宙设计",
   "chineseSummary": "消除人工智能生成的网站讨论 |关联",
-  "chineseContent": "消除人工智能生成的网站讨论 |关联",
+  "chineseContent": "面向开发人员的网站，具有数百个社区制作的 CSS 和 HTML UI 元素，例如按钮、输入、复选框和卡片。所有元素都是开源的并且可以免费使用。我们可以帮助您轻松找到并定制适合您项目的完美元素。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

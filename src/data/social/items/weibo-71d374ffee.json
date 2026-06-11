@@ -1,0 +1,21 @@
+{
+  "id": "weibo-71d374ffee",
+  "slug": "weibo-青春华章丝路逐光",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "青春华章丝路逐光",
+  "summary": "微博热榜第 3 位：青春华章丝路逐光，当前热度为 92万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E4%B8%9D%E8%B7%AF%E9%80%90%E5%85%89%23",
+  "hotValue": "92万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

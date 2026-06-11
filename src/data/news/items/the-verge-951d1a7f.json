@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple, Google add support for Thread 1.4",
+  "summary": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for these devices, which serve […]",
+  "url": "https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4",
+  "publishedAt": "2026-06-10T20:25:46.000Z",
+  "id": "the-verge-951d1a7f",
+  "slug": "the-verge-951d1a7f",
+  "content": "Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 developer beta and the Google TV Streamer through a software update. This lays the groundwork for these devices, which serve as Thread Border Routers, to implement&nbsp;Thread credential sharing, enabling them to connect more easily to an existing Thread network&nbsp;rather than creating their own. Thread is one of the connectivity protocols the interoperability standard Matter runs on. The original plan was for Thread Border Routers to all work seamlessly behind the scenes, but that didn’t pan out. In 2024, the Thread 1.4 spec introduced a standardized way for border routers to share credentials. Two years later, with 1.4 on board, the streamers should offer a more straightforward way for users, manufacturers, and ecosystems to share the credentials so they join your existing Thread network. Think of it like sharing a Wi-Fi password. [Image: The Google TV Streamer now gives me the option to share my Thread network credentials, but it hasn’t worked for me so far. https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_7136.jpg?quality=90&strip=all] However, it looks like I’ll still have to wait for a unified Thread network. While the Google TV Streamer now offers the option to generate a QR code to join a Thread network, it didn’t work for me. And although DNS discovery tools show my Apple TV is on Thread 1.4, there aren’t yet any options to share credentials in the current iOS and tvOS 27 dev betas. It’s worth noting that 1.4 appeared in a tvOS 26 beta, but got pulled before the final release. Since there’s still no dev beta for HomePod Software 27, the smart speakers aren’t joining the party yet, either, and Google’s Nest Hubs still haven’t got a 1.4 update. My guess is the Google Home Speaker will land later this month with Thread 1.4. The fact that the Apple TV and Google TV Streamer have Thread 1.4 at all is a big step in the right direction. To be fair, Apple and Google already handled this credential-sharing issue better than any other ecosystem — but unity here is only a good thing. And, considering Samsung&nbsp;added support for credential sharing&nbsp;on its SmartThings hubs last October, and Ikea’s Dirigera hub is on Thread 1.4, we’re now just waiting for Amazon to get on board and update its smart speakers to the latest spec. The company has said that will happen this year. Once Amazon updates, the major ecosystems will all be on the same version of Thread, which could bring significant improvements to Matter/Thread smart homes. I, for one, can’t wait to see my nine different Thread networks unified into one giant, meshy goodness.",
+  "fetchedAt": "2026-06-11T01:45:28.463Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Apple、Google 添加对 Thread 1.4 的支持",
+  "chineseSummary": "Apple 和 Google 正在将其智能家居流媒体设备更新至 Thread 1.4。正如 Matter Alpha 和 9to5 Google 首次发现的那样，最新规格已通过软件更新出现在兼容 Apple TV 的 tvOS 27 开发人员测试版和 Google TV Streamer 上。这为这些设备奠定了基础，这些设备服务于[...]",
+  "chineseContent": "Apple 和 Google 正在将其智能家居流媒体设备更新至 Thread 1.4。正如 Matter Alpha 和 9to5 Google 首次发现的那样，最新规格已通过软件更新出现在兼容 Apple TV 的 tvOS 27 开发人员测试版和 Google TV Streamer 上。这为这些充当 Thread 边界路由器的设备实现 Thread 凭据共享奠定了基础，使它们能够更轻松地连接到现有的 Thread 网络，而不是创建自己的网络。 Thread 是互操作性标准 Matter 运行的连接协议之一。最初的计划是让 Thread 边界路由器在幕后无缝工作，但这并没有成功。 2024 年，Thread 1.4 规范引入了边界路由器共享凭证的标准化方式。两年后，随着 1.4 版本的推出，流媒体应该为用户、制造商和生态系统提供一种更直接的方式来共享凭证，以便他们加入现有的 Thread 网络。可以将其想象为共享 Wi-Fi 密码。 [图片：Google TV Streamer 现在让我可以选择共享我的 Thread 网络凭据，但到目前为止它对我来说还不起作用。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_7136.jpg?quality=90&strip=all]但是，看来我仍然需要等待统一的Thread网络。虽然 Google TV Streamer 现在提供了生成 QR 码以加入 Thread 网络的选项，但它对我来说不起作用。尽管 DNS 发现工具显示我的 Apple TV 使用 Thread 1.4，但在当前的 iOS 和 tvOS 27 开发测试版中还没有任何共享凭据的选项。值得注意的是，1.4 出现在 tvOS 26 beta 中，但在最终版本发布之前就被下架了。由于 HomePod Software 27 仍然没有开发测试版，因此智能硬件",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

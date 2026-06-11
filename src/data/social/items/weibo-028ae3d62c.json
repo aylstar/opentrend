@@ -1,0 +1,21 @@
+{
+  "id": "weibo-028ae3d62c",
+  "slug": "weibo-疑似陈红在线了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "疑似陈红在线了",
+  "summary": "微博热榜第 12 位：疑似陈红在线了，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%99%88%E7%BA%A2%E5%9C%A8%E7%BA%BF%E4%BA%86%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

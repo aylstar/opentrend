@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2851e145ae",
+  "slug": "weibo-方博止步资格赛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "方博止步资格赛",
+  "summary": "微博热榜第 34 位：方博止步资格赛，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E6%AD%A2%E6%AD%A5%E8%B5%84%E6%A0%BC%E8%B5%9B%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

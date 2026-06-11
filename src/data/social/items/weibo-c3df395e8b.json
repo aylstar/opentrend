@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c3df395e8b",
+  "slug": "weibo-小米澎湃os4曝光",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "小米澎湃OS4曝光",
+  "summary": "微博热榜第 20 位：小米澎湃OS4曝光，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS4%E6%9B%9D%E5%85%89%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

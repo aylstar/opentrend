@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c6fbd9e8fd",
+  "slug": "weibo-金价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "金价",
+  "summary": "微博热榜第 11 位：金价，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-06-11 09:39:07",
+  "fetchedAt": "2026-06-11T01:47:45.877Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
