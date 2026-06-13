@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "If you are asking for human attention, demonstrate human effort",
+  "summary": "1501 points · 460 comments",
+  "content": "An ever-increasing volume of debug investigations, document writing, and code is written by robots. This has created a new etiquette question when working with a team - when is it OK to forward the output of an AI to another human to read?\n\nOn one hand, an AI with robust integration to internal code bases and documentation often produces genuinely 1 useful output.\n\nOn the other, as an increasing amount of a software engineer's day is spent reading AI text, a fatigue sets in. If I can have a robot say something, so can you . It reads as inconsiderate to post un-digested AI output as though it's your own writing.\n\nI remember the first time I experienced this annoyance. I proposed a design, and a teammate prompted an AI to critique it. The teammate sent an AI document to me, with the disclaimer: \"I didn't read this, so it might not be entirely accurate\". My thought was, if reading this wasn't worth your time, why is it worth mine? \"\n\nTherefore, I've adopted this principle in my work:\n\nIf you are requesting human attention, demonstrate human effort.\n\nIf useful, I send AI generated content to teammates. But when doing so, I take care to clearly label what is AI generated, and I add my own commentary alongside it. For human code review requests, I always review my AI-generated code first.\n\nAttention was already a scarce resource before AI, and it is even more so now. Keeping AI generated content clearly labeled and demonstrating human effort helps show consideration for teammates, and keeps a touch of humanity alive in our work.\n\nI promise I wrote this (and all the words in this post) with my meat fingers! ↩",
+  "url": "https://tombedor.dev/human-attention-and-human-effort/",
+  "publishedAt": "2026-06-11T23:01:55.000Z",
+  "points": 1501,
+  "id": "hacker-news-79f7c5ff",
+  "slug": "hacker-news-79f7c5ff",
+  "fetchedAt": "2026-06-13T01:36:52.317Z",
+  "score": 85,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "如果您要求人类关注，请展示人类的努力",
+  "chineseSummary": "1501 分 · 460 条评论",
+  "chineseContent": "越来越多的调试调查、文档编写和代码由机器人编写。这在与团队合作时产生了一个新的礼仪问题——什么时候可以将人工智能的输出转发给另一个人阅读？\n\n一方面，与内部代码库和文档强大集成的人工智能通常会产生真正有用的输出。\n\n另一方面，随着软件工程师每天花在阅读人工智能文本上的时间越来越多，疲劳就会开始出现。如果我能让机器人说话，你也可以。发布未经消化的人工智能输出，就好像这是你自己写的一样，这听起来很不体贴。\n\n我记得我第一次经历这种烦恼。我提出了一个设计，一位队友提示人工智能对其进行批评。队友给我发了一份人工智能文档，并附带免责声明：“我没有读过这篇文章，所以它可能不完全准确”。我的想法是，如果阅读这篇文章不值得你花时间，为什么它值得我花时间呢？ ”\n\n因此，我在工作中遵循了这样的原则：\n\n如果您需要人类的关注，请表现出人类的努力。\n\n如果有用，我会将人工智能生成的内容发送给队友。但在这样做时，我会注意清楚地标记人工智能生成的内容，并在旁边添加我自己的评论。对于人工代码审查请求，我总是首先审查人工智能生成的代码。\n\n在人工智能之前，注意力已经是一种稀缺资源，现在更是如此。清晰地标记人工智能生成的内容并展示人类的努力有助于表达对团队成员的考虑，并在我们的工作中保持人性化。\n\n我保证我用我的肉手指写了这篇文章（以及这篇文章中的所有文字）！ ↩",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

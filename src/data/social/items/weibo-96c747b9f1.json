@@ -1,0 +1,21 @@
+{
+  "id": "weibo-96c747b9f1",
+  "slug": "weibo-白鹿母校发文",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "白鹿母校发文",
+  "summary": "微博热榜第 14 位：白鹿母校发文，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%AF%8D%E6%A0%A1%E5%8F%91%E6%96%87%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.320Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

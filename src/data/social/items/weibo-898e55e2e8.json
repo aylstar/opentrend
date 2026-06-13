@@ -1,0 +1,21 @@
+{
+  "id": "weibo-898e55e2e8",
+  "slug": "weibo-何炅你不喜欢可以不说",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "何炅你不喜欢可以不说",
+  "summary": "微博热榜第 5 位：何炅你不喜欢可以不说，当前热度为 69万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%BD%A0%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%AF%B4%23",
+  "hotValue": "69万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.320Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

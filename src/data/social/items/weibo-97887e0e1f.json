@@ -1,0 +1,21 @@
+{
+  "id": "weibo-97887e0e1f",
+  "slug": "weibo-四级",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "四级",
+  "summary": "微博热榜第 28 位：四级，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E7%BA%A7%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.320Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

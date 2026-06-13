@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "LocIn AI",
+  "summary": "Localize your app with tone-aware AI, automated workflows Discussion | Link",
+  "url": "https://www.producthunt.com/products/locin-ai",
+  "publishedAt": "2026-06-11T20:04:57.000Z",
+  "id": "product-hunt-88b81432",
+  "slug": "product-hunt-88b81432",
+  "content": "Translate your app with tone-aware AI, automated localization workflows, CLI integration, and instant API access. Launch globally while keeping your brand voice consistent across every language.",
+  "fetchedAt": "2026-06-13T01:36:52.319Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "定位 AI",
+  "chineseSummary": "使用音调感知 AI、自动化工作流程本地化您的应用程序关联",
+  "chineseContent": "使用音调感知 AI、自动化本地化工作流程、CLI 集成和即时 API 访问来翻译您的应用程序。在全球范围内推出，同时保持您的品牌声音在每种语言中保持一致。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6f389b52ab",
+  "slug": "weibo-美国世界杯开幕式",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "美国世界杯开幕式",
+  "summary": "微博热榜第 4 位：美国世界杯开幕式，当前热度为 111万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%23",
+  "hotValue": "111万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.320Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

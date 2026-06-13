@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+  "summary": "42 points · 23 comments",
+  "content": "Claude Fable handles planning and review; GPT-5.5 Codex handles implementation and research. Two Claude Code skills wire that split into a repo-centered loop: specs and gates are written first, Codex works in fresh contexts, and Fable reviews the evidence before anything is integrated. It runs on the subscriptions you already have — no API keys required by default.\n\n./install.sh --project installs to the current repo only instead of globally. You need Claude Code on any paid plan and the Codex CLI signed into a ChatGPT plan.\n\n/architect runs one work block: judge the last run, spec the next slice, dispatch builders. /architect-research is for when you're still deciding what to build — its cited report feeds the build loop's PRD.\n\nOne short Fable session per work block — judgment only, it never writes code:\n\nScout-first, like the production deep-research systems — no fixed lane taxonomy:\n\nEach design choice is source-backed (full citations in DESIGN.md ):\n\nDo I need API keys? No. Claude Code runs on your Claude plan; Codex CLI on your ChatGPT plan.\n\nWhat does a run cost? Builder/researcher runs draw on your ChatGPT plan's 5-hour and weekly quotas; a multi-hour run is a meaningful fraction of a weekly window. Fable's architect sessions are minutes, not hours.\n\nWhat if a builder wrecks things? Nothing reaches a branch until the architect's tamper, boundary, and gate checks pass — worktrees are discarded and re-dispatched from the freeze commit.\n\nCan I watch a run? Yes — every dispatch prints the builder block, so you can paste it into an interactive codex session with /goal instead.\n\nWhy two skills? Research-grade fan-out costs ~15× chat-level tokens — it should be a deliberate act, not a side-effect of the build loop.\n\nThe original idea came from this X post by @jumperz about using Fable with Opus subagents. I built architect-loop because I couldn't find an easy way to run that pattern, and because it seemed useful to add a few extra operational best practices on top of what Fable can already do when calling Opus subagents.",
+  "url": "https://github.com/DanMcInerney/architect-loop",
+  "publishedAt": "2026-06-12T20:33:22.000Z",
+  "points": 42,
+  "id": "hacker-news-a2b3dc00",
+  "slug": "hacker-news-a2b3dc00",
+  "fetchedAt": "2026-06-13T01:36:52.317Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "金融",
+    "视频"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "/architect：将《Fable》代币减少 80%、《Fable》编排/审查、Codex 构建",
+  "chineseSummary": "42 分 · 23 条评论",
+  "chineseContent": "克劳德·法布尔 (Claude Fable) 负责规划和审查； GPT-5.5 Codex 负责实施和研究。两条 Claude Code 技能线分成一个以 repo 为中心的循环：首先编写规范和门，Codex 在新的环境中工作，Fable 在集成任何内容之前审查证据。它在您已有的订阅上运行 - 默认情况下不需要 API 密钥。\n\n./install.sh --project 仅安装到当前存储库，而不是全局安装。您需要在任何付费计划中使用 Claude Code，并在 ChatGPT 计划中签署 Codex CLI。\n\n/architect 运行一个工作块：判断最后一次运行，指定下一个切片，调度构建器。 /architect-research 适用于当您仍在决定构建什么时 - 它引用的报告为构建循环的 PRD 提供信息。\n\n每个工作块有一个简短的寓言会话——仅进行判断，它从不编写代码：\n\n侦察优先，就像生产深度研究系统一样——没有固定的车道分类法：\n\n每个设计选择都有源支持（DESIGN.md 中的完整引用）：\n\n我需要 API 密钥吗？不会。Claude Code 在您的 Claude 计划上运行；您的 ChatGPT 计划上的 Codex CLI。\n\n跑步要花多少钱？构建者/研究人员利用您的 ChatGPT 计划的 5 小时和每周配额进行运行；几个小时的跑步是每周窗口中有意义的一部分。 《神鬼寓言》的架构师会议只需几分钟，而不是几个小时。\n\n如果建筑商破坏了东西怎么办？在架构师的篡改、边界和门检查通过之前，没有任何东西到达分支——工作树被丢弃并从冻结提交中重新分派。\n\n我可以观看跑步吗？是的 - 每个调度都会打印构建器块，因此您可以使用 /goal 将其粘贴到交互式 Codex 会话中。\n\n为什么要两个技能呢？研究级扇出成本约为 15 倍聊天级代币——这应该是一个深思熟虑的行为，而不是构建循环的副作用。\n\n最初的想法来自 @jumperz 的 X 帖子，内容是关于将 Fable 与 Opus 子代理结合使用。我构建了架构师循环，因为我找不到运行该模式的简单方法，并且因为在调用 Opus 子代理时，在 Fable 已经可以执行的操作之上添加一些额外的操作最佳实践似乎很有用。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

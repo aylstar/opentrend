@@ -1,0 +1,21 @@
+{
+  "id": "weibo-efcfcef8d8",
+  "slug": "weibo-新闻女王3来了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "新闻女王3来了",
+  "summary": "微博热榜第 48 位：新闻女王3来了，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B3%E6%9D%A5%E4%BA%86%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.321Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

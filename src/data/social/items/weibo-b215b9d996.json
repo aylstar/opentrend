@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b215b9d996",
+  "slug": "weibo-张碧晨淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "张碧晨淘汰",
+  "summary": "微博热榜第 20 位：张碧晨淘汰，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.320Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

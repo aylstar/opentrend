@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Slightly reducing the sloppiness of AI generated front end",
+  "summary": "165 points · 110 comments",
+  "content": "I've been trying to make progress on a herculean task; I want decent looking programs for personal use which I can generate quickly using AI agents yet I'm a person without taste controlling an AI without taste. I found \"one weird trick\" that does enough for me, the results are not extra nice but it doesn't make me gag and I'll take what I can.\n\nI took a simple single web page app (more context below) and kept on asking the agent 1 to generate it in different styles. I found that there can be many different styles, all of which feel like slop. Slop is not a distinct style, it can be overlaid on top of many others. Even when I got it to make a page to look like X, it looked like X with slop.\n\nOnly one generation stuck out to me. Simply asking it to make it look like a Qt app - to my tasteless eyes - removed almost all feeling of slop. You can check some of the results out here . This is obviously subjective, hard to convince anyone of and I'd like feedback. I'd also like to see more experimentation in this area, are there any other styles or design guidelines which an AI can generate without adding slop on top?\n\nI read this article from Axios -- a forecast of how the electoral college will change in 2030 and I wanted to visualize it. I dumped a picture in to chatgpt and asked it for a 270-to-win style program with the forecast changes so I can see which routes open or close for R's vs D's.\n\nIt does translate well outside of this example. I've now gotten codex to translate all the other personal software I have to \"Qt style\" and I think they look much better.",
+  "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+  "publishedAt": "2026-06-12T14:48:38.000Z",
+  "points": 165,
+  "id": "hacker-news-e0e4ee9f",
+  "slug": "hacker-news-e0e4ee9f",
+  "fetchedAt": "2026-06-13T01:36:52.317Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "稍微减少 AI 生成前端的马虎程度",
+  "chineseSummary": "165 分 · 110 条评论",
+  "chineseContent": "我一直在努力在一项艰巨的任务上取得进展；我想要一些看起来不错的供个人使用的程序，我可以使用人工智能代理快速生成这些程序，但我是一个没有品味的人，控制着一个没有品味的人工智能。我发现“一个奇怪的技巧”对我来说已经足够了，结果不是特别好，但它不会让我作呕，我会尽我所能。\n\n我采用了一个简单的单网页应用程序（更多上下文见下文），并不断要求代理 1 以不同的样式生成它。我发现可以有很多不同的风格，所有这些都感觉很糟糕。 Slop 并不是一种独特的风格，它可以叠加在许多其他风格之上。即使当我用它来制作一个看起来像 X 的页面时，它看起来也像带有斜线的 X。\n\n只有一代人让我印象深刻。简单地要求它看起来像一个 Qt 应用程序——在我无品位的眼睛里——几乎消除了所有的拖沓感。您可以在此处查看一些结果。这显然是主观的，很难说服任何人，我希望得到反馈。我还希望看到这个领域的更多实验，人工智能是否可以生成任何其他样式或设计指南，而无需在上面添加任何内容？\n\n我读了 Axios 上的这篇文章——预测 2030 年选举团将如何变化，我想将其形象化。我将一张图片转储到 chatgpt 中，并要求它提供一个 270 获胜风格的计划以及预测变化，这样我就可以看到 R 与 D 的哪些路线开放或关闭。\n\n它在这个例子之外确实可以很好地翻译。我现在已经得到了 codex，将我拥有的所有其他个人软件翻译为“Qt 风格”，我认为它们看起来好多了。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

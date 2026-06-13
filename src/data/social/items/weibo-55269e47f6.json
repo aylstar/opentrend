@@ -1,0 +1,21 @@
+{
+  "id": "weibo-55269e47f6",
+  "slug": "weibo-侯明昊-歌手",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 29,
+  "title": "侯明昊 歌手",
+  "summary": "微博热榜第 29 位：侯明昊 歌手，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A+%E6%AD%8C%E6%89%8B%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-13 09:35:43",
+  "fetchedAt": "2026-06-13T01:37:59.320Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
