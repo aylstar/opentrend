@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI coding at home without going broke",
+  "summary": "229 points · 212 comments",
+  "content": "There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardware and model releases. The first is to self host. You buy the machine, run open source models locally, and pay nothing per token after that. The upfront cost is steep and the models you can actually run at home are weaker than what the frontier labs ship, so this only pays off if you can keep the rig busy with long running tasks where a slower, cheaper model grinds away overnight. Most people can’t keep a home machine that loaded, and the hardware you buy today may look like a bad bet in a year.\n\nThe second is to skip the hardware and rent those same open source models from a provider at API rates. For most people this is the right call. You avoid putting thousands of dollars on one GPU setup while configurations are still in flux, you skip the work of squeezing long running performance out of an open model, and you can switch to whatever is cheaper or better next month without reselling a box. Something like OpenRouter makes the move close to a one line change.\n\nThe third is to min-max the frontier subscriptions from OpenAI and Anthropic. Around $400 a month of plans buys roughly $2800 of API usage at list prices, which is a real bargain right up until you hit the ceiling. The plans are metered, and any large AI native workflow will chew through the included tokens fast. They shine for the work you drive by hand and fall short as the engine for an agent running all day.\n\nWhat I’ve seen work best is a blend of the last two. Keep a couple of frontier subscriptions for the hard thinking and the spec writing, and pay API rates for open source models to handle the small mechanical pieces. Lean on spec driven development so the expensive models produce the plan and the cheap ones fill it in. Do that well and you can build what a team of twenty engineers would put out in a month for around a thousand dollars.",
+  "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "publishedAt": "2026-06-13T16:45:03.000Z",
+  "points": 229,
+  "id": "hacker-news-de0a9c32",
+  "slug": "hacker-news-de0a9c32",
+  "fetchedAt": "2026-06-14T01:40:59.366Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "在家进行 AI 编码，不会破产",
+  "chineseSummary": "229 分 · 212 条评论",
+  "chineseContent": "有三种方法可以在家中进行人工智能编码，而无需像公司那样花钱，哪种方法适合主要取决于您对明年硬件和模型发布的信任程度。第一个是自我托管。您购买机器，在本地运行开源模型，之后无需为每个代币支付任何费用。前期成本很高，而且你实际上可以在家里运行的模型比前沿实验室提供的模型要弱，所以只有当你能让装备忙于长期运行的任务时，这才有回报，而较慢、更便宜的模型在一夜之间就被磨掉了。大多数人无法保持一台充满负载的家用机器，而您今天购买的硬件在一年后可能看起来是一个糟糕的选择。\n\n第二种是跳过硬件并以 API 价格从提供商处租用相同的开源模型。对于大多数人来说，这是正确的选择。当配置仍在不断变化时，您可以避免在一个 GPU 设置上投入数千美元，您可以跳过从开放模型中榨取长时间运行性能的工作，并且您可以在下个月切换到更便宜或更好的任何设备，而无需转售盒子。像 OpenRouter 这样的东西使得这一举动接近于一行的改变。\n\n第三个是最小化来自 OpenAI 和 Anthropic 的前沿订阅。每月大约 400 美元的计划可以按标价购买大约 2800 美元的 API 使用量，在您达到上限之前，这是真正的便宜货。这些计划是计量的，任何大型人工智能本机工作流程都会快速消化所包含的令牌。它们在您手动驾驶的工作中表现出色，但作为代理整天运行的引擎则显得不足。\n\n我所看到的最好的方法是将后两者结合起来。保留一些前沿订阅以进行认真思考和规范编写，并为开源模型支付 API 费率来处理小型机械部件。依靠规范驱动的开发，以便昂贵的模型产生计划，而廉价的模型填充它。如果做得好，您可以构建一个由 20 名工程师组成的团队在一个月内以大约 1000 美元的价格推出的产品。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

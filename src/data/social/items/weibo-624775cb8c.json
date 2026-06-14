@@ -1,0 +1,21 @@
+{
+  "id": "weibo-624775cb8c",
+  "slug": "weibo-海地vs苏格兰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "海地vs苏格兰",
+  "summary": "微博热榜第 28 位：海地vs苏格兰，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%9C%B0vs%E8%8B%8F%E6%A0%BC%E5%85%B0%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-14 09:40:00",
+  "fetchedAt": "2026-06-14T01:43:00.921Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

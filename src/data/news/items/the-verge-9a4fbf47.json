@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+  "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+  "publishedAt": "2026-06-13T21:39:26.000Z",
+  "id": "the-verge-9a4fbf47",
+  "slug": "the-verge-9a4fbf47",
+  "content": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series of prompts, it was able to get Fable 5 to serve up information that could be used in cyberattacks. Amazon has yet to respond to a request for comment. Shortly after Jassy shared the company’s findings with the government, it made the call to block its use by foreign nationals. Complicating this issue is that many of Anthropic’s researchers are foreign-born, meaning they were barred from accessing their own product. In a statement, Anthropic disputed the government’s characterization of the issue as a “jailbreak.” It argued that many of the same vulnerabilities could be discovered using other publicly available models, including GPT 5.5. Some security researchers appear to back the company’s interpretation. Katie Moussouris, the founder and CEO of LutaSecurity posted on BlueSky that “I’ve seen the paper. It’s not a jailbreak.” Former Commerce Department official Kate Koren speculated to the WSJ that the White House’s dislike of Anthropic may have influenced the decision. Anthropic and the Trump administration have been at odds for some time over the company’s refusal to allow its AI to be used for mass surveillance of Americans or to power lethal autonomous weapons. In February, Trump instructed federal agencies to stop using Anthropic’s AI. And just hours later, Secretary of Defense Pete Hegseth designated the company a supply chain risk. The government and the company seemed to have made amends, and the two had worked together to expand access to Mythos. However, now the two seem destined to clash again.",
+  "fetchedAt": "2026-06-14T01:40:59.369Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "据报道，亚马逊的安全研究导致了白宫对《人择寓言》的禁令",
+  "chineseSummary": "据《华尔街日报》报道，导致 Anthropic 切断《神鬼寓言 5》和《神话 5》访问权限的出口管制指令部分是由亚马逊的网络安全研究以及首席执行官安迪·贾西 (Andy Jassy) 与白宫之间的对话引发的。据报道，亚马逊的论文声称，通过一系列 […]",
+  "chineseContent": "据《华尔街日报》报道，导致 Anthropic 切断《神鬼寓言 5》和《神话 5》访问权限的出口管制指令部分是由亚马逊的网络安全研究以及首席执行官安迪·贾西 (Andy Jassy) 与白宫之间的对话引发的。报道称，亚马逊的论文声称，通过一系列提示，它能够让《神鬼寓言 5》提供可用于网络攻击的信息。亚马逊尚未回应置评请求。在贾西向政府分享该公司的调查结果后不久，该公司就呼吁阻止外国人使用该公司。让这个问题变得更加复杂的是，Anthropic 的许多研究人员都是外国出生的，这意味着他们被禁止访问自己的产品。 Anthropic 在一份声明中对政府将该问题定性为“越狱”的说法提出异议。它认为，使用其他公开可用的模型（包括 GPT 5.5）可以发现许多相同的漏洞。一些安全研究人员似乎支持该公司的解释。 LutaSecurity 创始人兼首席执行官凯蒂·穆苏里斯 (Katie Moussouris) 在 BlueSky 上发帖称，“我看过这篇论文。这不是越狱。”前商务部官员凯特·科伦 (Kate Koren) 向《华尔街日报》推测，白宫对 Anthropic 的厌恶可能影响了这一决定。一段时间以来，Anthropic 和特朗普政府一直因该公司拒绝允许其人工智能用于对美国人进行大规模监视或为致命自主武器提供动力而发生争执。二月份，特朗普指示联邦机构停止使用 Anthropic 的人工智能。就在几小时后，国防部长皮特·赫格斯将该公司指定为供应链风险。政府和公司似乎已经做出了弥补，两者共同努力扩大准入范围",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

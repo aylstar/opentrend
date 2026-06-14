@@ -1,0 +1,21 @@
+{
+  "id": "weibo-72cd79d8ae",
+  "slug": "weibo-莫离",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "莫离",
+  "summary": "微博热榜第 44 位：莫离，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E7%A6%BB%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-06-14 09:40:00",
+  "fetchedAt": "2026-06-14T01:43:00.922Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

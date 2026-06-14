@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f2977ad078",
+  "slug": "weibo-巴西队-慢热",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "巴西队 慢热",
+  "summary": "微博热榜第 12 位：巴西队 慢热，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F+%E6%85%A2%E7%83%AD%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-06-14 09:40:00",
+  "fetchedAt": "2026-06-14T01:43:00.921Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

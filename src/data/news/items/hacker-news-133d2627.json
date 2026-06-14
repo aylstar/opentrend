@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+  "summary": "74 points · 8 comments",
+  "content": "ReactOS, the open-source operating system working for binary compatibility with Microsoft Windows computer programs and drivers, has reached the milestone of being able to enjoy the classic game Half-Life running on this open-source platform.",
+  "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+  "publishedAt": "2026-06-13T23:22:05.000Z",
+  "points": 74,
+  "id": "hacker-news-133d2627",
+  "slug": "hacker-news-133d2627",
+  "fetchedAt": "2026-06-14T01:40:59.366Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "ReactOS（FOSS“Windows”）在真实硬件上实现了 3D 加速的 Half-Life",
+  "chineseSummary": "74 分 · 8 条评论",
+  "chineseContent": "ReactOS 是一款与 Microsoft Windows 计算机程序和驱动程序实现二进制兼容的开源操作系统，现已达到能够在该开源平台上运行经典游戏《半条命》的里程碑。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

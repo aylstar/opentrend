@@ -1,0 +1,21 @@
+{
+  "id": "weibo-666fcbaaa2",
+  "slug": "weibo-巴西1比1摩洛哥",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "巴西1比1摩洛哥",
+  "summary": "微博热榜第 10 位：巴西1比1摩洛哥，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF1%E6%AF%941%E6%91%A9%E6%B4%9B%E5%93%A5%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-06-14 09:40:00",
+  "fetchedAt": "2026-06-14T01:43:00.921Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

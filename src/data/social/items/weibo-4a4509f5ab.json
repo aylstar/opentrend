@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4a4509f5ab",
+  "slug": "weibo-巴西醒醒-这是世界杯",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "巴西醒醒 这是世界杯",
+  "summary": "微博热榜第 1 位：巴西醒醒 这是世界杯，当前热度为 1,282万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%86%92%E9%86%92+%E8%BF%99%E6%98%AF%E4%B8%96%E7%95%8C%E6%9D%AF%23",
+  "hotValue": "1,282万热度",
+  "author": "",
+  "publishedAt": "2026-06-14 09:40:00",
+  "fetchedAt": "2026-06-14T01:43:00.921Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-23a228cbb6",
+  "slug": "weibo-a股又现重大调整",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "A股又现重大调整",
+  "summary": "微博热榜第 26 位：A股又现重大调整，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-14 09:40:00",
+  "fetchedAt": "2026-06-14T01:43:00.921Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
