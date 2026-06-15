@@ -8,16 +8,16 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/refactoringhq/tolaria",
   "docsUrl": "https://tolaria.md",
-  "stars": 11272,
-  "forks": 803,
-  "openIssues": 23,
+  "stars": 16221,
+  "forks": 1112,
+  "openIssues": 35,
   "license": "AGPL-3.0",
-  "pushedAt": "2026-05-21T17:24:02Z",
-  "updatedAt": "2026-05-23T01:11:14Z",
+  "pushedAt": "2026-06-15T01:27:45Z",
+  "updatedAt": "2026-06-15T01:43:40Z",
   "createdAt": "2026-02-14T19:43:14Z",
   "archived": false,
   "trendWindows": [
-    "monthly"
+    "weekly"
   ],
   "tags": [
     "AI",
@@ -26,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](https://codescene.io/projects/76865)\n\n# 💧 Tolaria\n\nTolaria is a desktop app for macOS, Windows, and Linux for managing **markdown knowledge bases**. People use it for a variety of use cases:\n\n* Operate second brains and personal knowledge\n* Organize company docs as context for AI\n* Store OpenClaw/assistants memory and procedures\n\nPersonally, I use it to **run my life** (hey 👋 [Luca here](http://x.com/lucaronin)). I have a massive workspace of 10,000+ notes, which are the result of my [Refactoring](https://refactoring.fm/) work + a ton of personal journaling and *second braining*.\n\n<img width=\"1000\" height=\"656\" alt=\"1776506856823-CleanShot_2026-04-18_at_12 06 57_2x\" src=\"https://github.com/user-attachments/assets/8aeafb0a-b236-43c2-a083-ec111f903c38\" />\n\n## Walkthroughs\n\nYou can find some Loom walkthroughs below — they are short and to the point:\n- [How I Organize My Own Tolaria Workspace](https://www.loom.com/share/bb3aaffa238b4be0bd62e4464bca2528)\n- [My Inbox Workflow](https://www.loom.com/share/dffda263317b4fa8b47b59cdf9330571)\n- [How I Save Web Resources to Tolaria](https://www.loom.com/share/8a3c1776f801402ebbf4d7b0f31e9882)\n\n## Principles\n\n- 📑 **Files-first** — Your notes are plain markdown files. They're portable, work with any editor, and require no export step. Your data belongs to you, not to any app.\n- 🔌 **Git-first** — Every vault is a git repository. You get full version history, the ability to use any git remote, and zero dependency on Tolaria servers.\n- 🛜 **Offline-first, zero lock-in** — No accounts, no subscriptions, no cloud dependencies. Your vault works completely offline and always will. If you stop using Tolaria, you lose nothing.\n- 🔬 **Open source** — Tolaria is free and open source. I built this for [myself](https://x.com/lucaronin) and for sharing it with others.\n- 📋 **Standards-based** — Notes are markdown files with YAML frontmatter. No proprietary formats, no locked-in data. Everything works with standard tools if you decide to move away from Tolaria.\n- 🔍 **Types as lenses, not schemas** — Types in Tolaria are navigation aids, not enforcement mechanisms. There's no required fields, no validation, just helpful categories for finding notes.\n- 🪄**AI-first but not AI-only** — A vault of files works very well with AI agents, but you are free to use whatever you want. We support Claude Code, Codex CLI, and Gemini CLI setup paths, but you can edit the vault with any AI you want. We provide an AGENTS file for your agents to figur",
-  "generatedAt": "2026-05-23T01:21:47.790Z",
+  "generatedAt": "2026-06-15T01:44:18.453Z",
   "analysis": {
     "oneLine": "tolaria 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "tolaria 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，tolaria 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 11,272，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，tolaria 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 16,221，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "China may have accessed Mythos",
+  "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+  "publishedAt": "2026-06-14T18:27:55.000Z",
+  "id": "the-verge-57d813ac",
+  "slug": "the-verge-57d813ac",
+  "content": "According to a new report from Semafor, the White House’s decision to impose export restrictions on Anthropic’s Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a “student” AI is trained on a more advanced model to replicate its behavior. The White House has not confirmed this report, and a post on X by Trump advisor David Sacks did not mention China. Instead, Sacks focused on a reported ability for Fable and Mythos to be jailbroken, something that Anthropic has denied. Anthropic has not replied to a request for comment, though a spokesperson told Semafor that the government did not bring up China during its discussions around export controls. If Mythos was accessed by the Chinese government, it wouldn’t be the first embarrassing breach of Anthropic’s most powerful model. The company has said that Mythos is too dangerous and powerful for public consumption, but a Discord group reportedly had access for two weeks before Anthropic discovered the breach and cut off access.",
+  "fetchedAt": "2026-06-15T01:44:29.328Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "中国可能已经访问了神话",
+  "chineseSummary": "根据 Semafor 的一份新报告，白宫决定对 Anthropic's Mythos 实施出口限制，部分原因是担心该产品已被与中国有关的组织获取。如果中国政府确实能够访问《神话 5》或《神鬼寓言 5》，这将带来严重的国家安全问题 [...]",
+  "chineseContent": "根据 Semafor 的一份新报告，白宫决定对 Anthropic 的 Mythos 实施出口限制，部分原因是担心该产品已被与中国有关的组织获取。如果中国政府真的能够接触到《神话5》或《神鬼寓言5》，将会带来严重的国家安全风险。政府还可以尝试通过蒸馏对模型进行逆向工程，这是一种“学生”人工智能接受更高级模型训练以复制其行为的方法。白宫尚未证实这一报道，特朗普顾问戴维·萨克斯在 X 上发布的帖子也没有提及中国。相反，萨克斯关注的是据报道《神鬼寓言》和《神话》的越狱能力，但 Anthropic 否认了这一点。 Anthropic 尚未回复置评请求，但一位发言人告诉 Semafor，政府在有关出口管制的讨论中并未提及中国。如果 Mythos 被中国政府访问，这将不是 Anthropic 最强大模型的第一次令人尴尬的破坏。该公司表示，Mythos 过于危险和强大，不适合公众使用，但据报道，在 Anthropic 发现漏洞并切断访问权限之前，Discord 组织已获得访问权限两周。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

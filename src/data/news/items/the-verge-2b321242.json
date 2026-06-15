@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The FBI built a small town to simulate cyberattacks",
+  "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It's a […]",
+  "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+  "publishedAt": "2026-06-14T20:35:41.000Z",
+  "id": "the-verge-2b321242",
+  "slug": "the-verge-2b321242",
+  "content": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan’s Alley, but for modern digital crime training. It’s a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It’s a training facility where the bureau can recreate real-world scenarios for training and research purposes. All of the various buildings and facilities are hooked up the way they would be in a real town. There’s even a small data center with over 200 servers that can be hacked, infected with malware, and studied. But, importantly, all of the systems in the fake town are cut off from the outside world, which means there’s no danger of any malicious code or anything from escaping containment. Students practice performing forensic investigations on car entertainment systems, hospital computer networks, and corporate security systems. They can see how various cyberattacks might affect power grids or spread through home networks. While the facility opened last year, the FBI only shared a video this week, giving the public its first glimpse inside. [Media: https://youtu.be/a8UMAc_8L5c]",
+  "fetchedAt": "2026-06-15T01:44:29.328Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "FBI建小镇模拟网络攻击",
+  "chineseSummary": "去年，联邦调查局在阿拉巴马州亨茨维尔开设了一个网络靶场，用于模拟网络攻击。它有点像著名的霍根巷，但用于现代数字犯罪培训。它是整个城镇的 22,000 平方英尺的巨大复制品，配有便利店、加油站、医院，甚至还有设施齐全的房屋。这是一个[…]",
+  "chineseContent": "去年，联邦调查局在阿拉巴马州亨茨维尔开设了一个网络靶场，用于模拟网络攻击。它有点像著名的霍根巷，但用于现代数字犯罪培训。它是整个城镇的 22,000 平方英尺的巨大复制品，配有便利店、加油站、医院，甚至还有设施齐全的房屋。这是一个培训设施，该局可以在其中重新创建现实世界场景以用于培训和研究目的。所有各种建筑物和设施都按照真实城镇中的方式连接起来。甚至还有一个拥有 200 多台服务器的小型数据中心，可以被黑客攻击、感染恶意软件并进行研究。但重要的是，假镇中的所有系统都与外界隔绝，这意味着不存在任何恶意代码或任何逃脱遏制的危险。学生练习对汽车娱乐系统、医院计算机网络和公司安全系统进行取证调查。他们可以看到各种网络攻击如何影响电网或通过家庭网络传播。虽然该设施去年开放，但联邦调查局本周才分享了一段视频，让公众第一次看到了里面的情况。 [媒体：https://youtu.be/a8UMAc_8L5c]",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

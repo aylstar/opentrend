@@ -1,0 +1,21 @@
+{
+  "id": "weibo-103f34c55e",
+  "slug": "weibo-国乒单打全军覆没",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "国乒单打全军覆没",
+  "summary": "微博热榜第 2 位：国乒单打全军覆没，当前热度为 111万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%8D%95%E6%89%93%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23",
+  "hotValue": "111万热度",
+  "author": "",
+  "publishedAt": "2026-06-15 09:37:22",
+  "fetchedAt": "2026-06-15T01:45:50.760Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

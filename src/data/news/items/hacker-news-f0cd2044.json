@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+  "summary": "281 points · 149 comments",
+  "content": "prefeitura-rio/Rio-3.5-Open-397B is presented as an original 397B model trained by IplanRIO . It is not. Its weights are a direct element-wise merge of our model, Nex, with the official Qwen3.5-397B-A17B base — about 0.6 Nex / 0.4 Qwen — and we find no evidence of any training of their own. We can show this two completely independent ways :\n\nBelow is the evidence. Judge for yourself.",
+  "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+  "publishedAt": "2026-06-14T15:37:31.000Z",
+  "points": 281,
+  "id": "hacker-news-f0cd2044",
+  "slug": "hacker-news-f0cd2044",
+  "fetchedAt": "2026-06-15T01:44:29.325Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "里约热内卢的“本土”法学硕士似乎是现有模式的合并",
+  "chineseSummary": "281 分 · 149 条评论",
+  "chineseContent": "prefeitura-rio/Rio-3.5-Open-397B 是由 IplanRIO 训练的原始 397B 模型。它不是。它的权重是我们的模型 Nex 与官方 Qwen3.5-397B-A17B 基础的直接元素合并 - 大约 0.6 Nex / 0.4 Qwen - 我们没有发现任何他们自己训练的证据。我们可以用两种完全独立的方式来展示：\n\n下面是证据。你自己判断吧。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

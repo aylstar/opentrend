@@ -7,18 +7,18 @@
   "publishedAt": "2026-06-12T21:14:13.000Z",
   "id": "product-hunt-980ea0e2",
   "slug": "product-hunt-980ea0e2",
-  "content": "Point at anything to learn its name in any language Discussion | Link",
-  "fetchedAt": "2026-06-14T01:40:59.367Z",
+  "content": "Kids point the camera at anything — a cup, a teddy bear, a guitar — and Cakeword cuts it out into a sticker, says its name in the language they're learning, and adds it to their Word Dex. 100% on-device AI. No accounts, no ads, no data collection.",
+  "fetchedAt": "2026-06-15T01:44:29.327Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
   "rank": 12,
-  "contentStatus": "fetch-failed",
+  "contentStatus": "article-extracted",
   "chineseTitle": "CakewordAI",
   "chineseSummary": "指向任何物体即可了解其任何语言的名称 讨论 |关联",
-  "chineseContent": "指向任何物体即可了解其任何语言的名称 讨论 |关联",
+  "chineseContent": "孩子们将相机对准任何东西——杯子、泰迪熊、吉他——Cakeword 将其剪成贴纸，用他们正在学习的语言说出它的名称，并将其添加到他们的 Word Dex 中。 100% 设备端人工智能。没有账户，没有广告，没有数据收集。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

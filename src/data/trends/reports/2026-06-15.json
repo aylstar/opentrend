@@ -1,0 +1,92 @@
+{
+  "slug": "2026-06-15",
+  "date": "2026-06-15",
+  "title": "2026年06月15日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-06-15T01:44:23.549Z",
+  "stats": {
+    "totalProjects": 18,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "rohitg00__ai-engineering-from-scratch",
+      "harry0703__moneyprinterturbo",
+      "ruvnet__ruview"
+    ],
+    "weekly": [
+      "mvanhorn__last30days-skill",
+      "apple__container",
+      "phuryn__pm-skills",
+      "chopratejas__headroom",
+      "nvidia__skillspector",
+      "addyosmani__agent-skills",
+      "panniantong__agent-reach",
+      "refactoringhq__tolaria",
+      "openai__plugins",
+      "leonxlnx__taste-skill"
+    ],
+    "monthly": [
+      "apple__container",
+      "chopratejas__headroom",
+      "colbymchenry__codegraph",
+      "egonex-ai__understand-anything",
+      "harry0703__moneyprinterturbo",
+      "tinyhumansai__openhuman",
+      "rohitg00__ai-engineering-from-scratch",
+      "imbad0202__academic-research-skills",
+      "can1357__oh-my-pi",
+      "ruvnet__ruview"
+    ],
+    "commercial": [
+      "mvanhorn__last30days-skill",
+      "apple__container",
+      "phuryn__pm-skills",
+      "chopratejas__headroom",
+      "nvidia__skillspector",
+      "addyosmani__agent-skills"
+    ],
+    "deployable": [
+      "mvanhorn__last30days-skill",
+      "apple__container",
+      "phuryn__pm-skills",
+      "chopratejas__headroom",
+      "nvidia__skillspector",
+      "addyosmani__agent-skills"
+    ],
+    "risky": [
+      "mvanhorn__last30days-skill",
+      "apple__container",
+      "phuryn__pm-skills",
+      "chopratejas__headroom",
+      "nvidia__skillspector",
+      "addyosmani__agent-skills"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 18 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "mvanhorn__last30days-skill",
+    "apple__container",
+    "phuryn__pm-skills",
+    "chopratejas__headroom",
+    "nvidia__skillspector",
+    "addyosmani__agent-skills",
+    "panniantong__agent-reach",
+    "refactoringhq__tolaria",
+    "openai__plugins",
+    "leonxlnx__taste-skill",
+    "colbymchenry__codegraph",
+    "egonex-ai__understand-anything",
+    "harry0703__moneyprinterturbo",
+    "tinyhumansai__openhuman",
+    "rohitg00__ai-engineering-from-scratch",
+    "imbad0202__academic-research-skills",
+    "can1357__oh-my-pi",
+    "ruvnet__ruview"
+  ]
+}

@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-12T12:27:54.000Z",
   "id": "product-hunt-dded0f8a",
   "slug": "product-hunt-dded0f8a",
-  "content": "Kimi’s most capable coding model yet Discussion | Link",
-  "fetchedAt": "2026-06-14T01:40:59.367Z",
+  "content": "- Real-time web search across 100+ websites - Analyze up to 50 files (PDFs, Docs, PPTs, Images) with ease - AI slides & websites maker - State of the art coding capabilities - Enhanced image understanding beyond basic text extraction",
+  "fetchedAt": "2026-06-15T01:44:29.327Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 11,
-  "contentStatus": "fetch-failed",
+  "rank": 10,
+  "contentStatus": "article-extracted",
   "chineseTitle": "基米K2.7代码",
   "chineseSummary": "Kimi 迄今为止最强大的编码模型关联",
-  "chineseContent": "Kimi 迄今为止最强大的编码模型关联",
+  "chineseContent": "- 跨 100 多个网站的实时网络搜索 - 轻松分析多达 50 个文件（PDF、文档、PPT、图像） - AI 幻灯片和网站制作器 - 最先进的编码功能 - 增强图像理解，超越基本文本提取",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

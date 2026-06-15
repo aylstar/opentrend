@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5315e1462d",
+  "slug": "weibo-张碧晨口碑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "张碧晨口碑",
+  "summary": "微博热榜第 15 位：张碧晨口碑，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%8F%A3%E7%A2%91%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-06-15 09:37:22",
+  "fetchedAt": "2026-06-15T01:45:50.760Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

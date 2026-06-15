@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0c9a27a175",
+  "slug": "weibo-日本绝平荷兰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "日本绝平荷兰",
+  "summary": "微博热榜第 34 位：日本绝平荷兰，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%9D%E5%B9%B3%E8%8D%B7%E5%85%B0%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-06-15 09:37:22",
+  "fetchedAt": "2026-06-15T01:45:50.760Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

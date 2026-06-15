@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8b59d7b253",
+  "slug": "weibo-荷兰2比2日本",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "荷兰2比2日本",
+  "summary": "微博热榜第 1 位：荷兰2比2日本，当前热度为 181万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B02%E6%AF%942%E6%97%A5%E6%9C%AC%23",
+  "hotValue": "181万热度",
+  "author": "",
+  "publishedAt": "2026-06-15 09:37:22",
+  "fetchedAt": "2026-06-15T01:45:50.760Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

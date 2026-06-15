@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+  "summary": "283 points · 67 comments",
+  "content": "TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline. I indexed 628 videos (668.68 GB, 15h 13m 18s of footage duration), more details in the metrics table in the last section of this article. Full article: https://iliashaddad.com/blog/i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer",
+  "url": "https://news.ycombinator.com/item?id=48528029",
+  "publishedAt": "2026-06-14T15:13:57.000Z",
+  "points": 283,
+  "id": "hacker-news-abcadaa1",
+  "slug": "hacker-news-abcadaa1",
+  "fetchedAt": "2026-06-15T01:44:29.326Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球",
+    "视频"
+  ],
+  "rank": 5,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "我使用 M1 Max 计算机和本地 ML 模型对 669 GB 的 GoPro 视频建立了索引",
+  "chineseSummary": "283 分 · 67 条评论",
+  "chineseContent": "TLDR：我有 2,207 个 GoPro 视频，我需要重新观看它们以找到我的骑行之旅中的有趣时刻。我构建了一个项目，使用开源机器学习模型在我的 M1 Max 上对它们进行本地索引，搜索这些时刻，并将最佳剪辑直接发送到我的 DaVinci Resolve 时间线。我索引了 628 个视频（668.68 GB，镜头持续时间为 15 小时 13 分钟 18 秒），更多详细信息请参阅本文最后一部分的指标表。完整文章：https://iliashaddad.com/blog/i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

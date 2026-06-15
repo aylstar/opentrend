@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2a7fd5efb0",
+  "slug": "weibo-陕西地震",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "陕西地震",
+  "summary": "微博热榜第 8 位：陕西地震，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%9C%B0%E9%9C%87%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-06-15 09:37:22",
+  "fetchedAt": "2026-06-15T01:45:50.760Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
