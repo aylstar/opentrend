@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3f9c3ad54b",
+  "slug": "weibo-毛晓彤真公主",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "毛晓彤真公主",
+  "summary": "微博热榜第 26 位：毛晓彤真公主，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E7%9C%9F%E5%85%AC%E4%B8%BB%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-06-16 10:03:59",
+  "fetchedAt": "2026-06-16T02:06:11.952Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

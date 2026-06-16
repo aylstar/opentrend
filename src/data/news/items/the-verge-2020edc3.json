@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Facebook’s new AI Mode search gets its info from public posts",
+  "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto […]",
+  "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+  "publishedAt": "2026-06-15T21:15:08.000Z",
+  "id": "the-verge-2020edc3",
+  "slug": "the-verge-2020edc3",
+  "content": "Your public Facebook posts could help inform AI-generated results in Meta’s new AI Mode. When you search on Facebook, the “AI Mode” option will appear alongside the usual search modes like “People” and “Marketplace.” It’s one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto fans and suggestions for collage templates. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_29515.png?quality=90&strip=all] Instead of “just links,” it gives users AI-generated results that pull from publicly-posted content across Meta’s platforms, like the AI search feature in its new Reddit-like Forum app. Users can also ask Meta’s AI follow-up questions in response to the search results it generates. Google has similarly pulled from Reddit threads for its search results and AI overviews. Now Meta says its feature “uses Meta AI to give you answers grounded in what people are saying publicly across our apps” and has said that the Muse Spark AI model behind it will “over time unlock new features that cite recommendations and content people share across Instagram, Facebook, and Threads.”",
+  "fetchedAt": "2026-06-16T02:05:24.439Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Facebook 的新 AI 模式搜索从公开帖子中获取信息",
+  "chineseSummary": "您的 Facebook 公开帖子可以帮助告知 Meta 的新 AI 模式中 AI 生成的结果。当您在 Facebook 上搜索时，“AI 模式”选项将出现在“人物”和“市场”等常用搜索模式旁边。这是 Meta 从今天开始推出的几个新的人工智能功能之一，包括将运动球衣交换到[...]的照片预设",
+  "chineseContent": "您的 Facebook 公开帖子可以帮助告知 Meta 的新 AI 模式中 AI 生成的结果。当您在 Facebook 上搜索时，“AI 模式”选项将出现在“人物”和“市场”等常用搜索模式旁边。这是 Meta 从今天开始推出的几项新人工智能功能之一，其中包括将运动球衣换成球迷的照片预设以及拼贴模板的建议。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_29515.png?quality=90&strip=all]它不是“只是链接”，而是为用户提供人工智能生成的结果，这些结果是从 Meta 平台上公开发布的内容中提取的，就像新的类似 Reddit 的论坛应用程序中的人工智能搜索功能一样。用户还可以根据 Meta 生成的搜索结果询问 Meta 的 AI 后续问题。谷歌也同样从 Reddit 帖子中撤出了其搜索结果和人工智能概述。现在，Meta 表示，其功能“使用 Meta AI 根据人们在我们的应用程序中公开发表的言论为您提供答案”，并表示其背后的 Muse Spark AI 模型将“随着时间的推移，解锁引用人们在 Instagram、Facebook 和 Threads 上分享的推荐和内容的新功能。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f46562b35d",
+  "slug": "weibo-伊朗vs新西兰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "伊朗vs新西兰",
+  "summary": "微博热榜第 12 位：伊朗vs新西兰，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-06-16 10:03:59",
+  "fetchedAt": "2026-06-16T02:06:11.952Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

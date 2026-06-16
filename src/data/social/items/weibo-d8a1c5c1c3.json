@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d8a1c5c1c3",
+  "slug": "weibo-王一博业内评价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "王一博业内评价",
+  "summary": "微博热榜第 34 位：王一博业内评价，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%9A%E5%86%85%E8%AF%84%E4%BB%B7%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-06-16 10:03:59",
+  "fetchedAt": "2026-06-16T02:06:11.952Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

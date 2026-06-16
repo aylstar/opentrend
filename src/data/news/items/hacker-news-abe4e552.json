@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+  "summary": "42 points · 52 comments",
+  "content": "I’m Nick, founder of Drafted ( https://www.drafted.ai ). We’re training models that generate residential architecture from structured design constraints. Product demo: https://www.youtube.com/watch?v=8QkJ7jNU9y4 Residential architecture is still one of the most expensive, slow, and inaccessible creative processes in the world. Designing a custom home typically costs $10,000–$50,000 or more, takes months, and requires making major decisions before most people can even visualize the outcome. As a result, the vast majority of homes are built without direct architectural involvement. Our goal is to teach computers how the built environment works so anyone can imagine, explore, and eventually create physical spaces tailored to them. Today, users can design homes using simple inputs such as: - Square footage targets - Footprint shapes - Lot boundaries - Room placement preferences - Spatial relationships and constraints. Our models generate complete floor plans and matching exterior elevations in seconds. Users can explore designs in both 2D and 3D, iterate instantly, furnish interiors, experiment with materials, and export CAD, PDF, and other files for the rest of the pre-construction process. One of our newest capabilities allows users to draw any footprint shape and generate a complete home layout inside it: https://www.youtube.com/watch?v=wZJhBm7-OHI . Over the past month, more than 120,000 people have used Drafted, generating over 325,000 home designs. If you're building a home, developing property, working in architecture, construction, or AI, we'd love to hear your feedback!",
+  "url": "https://news.ycombinator.com/item?id=48543908",
+  "publishedAt": "2026-06-15T16:47:21.000Z",
+  "points": 42,
+  "id": "hacker-news-abe4e552",
+  "slug": "hacker-news-abe4e552",
+  "fetchedAt": "2026-06-16T02:05:24.436Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 10,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "启动 HN：起草 (YC P26) – 住宅建筑模型",
+  "chineseSummary": "42 分 · 52 条评论",
+  "chineseContent": "我是 Nick，Drafted (https://www.drafted.ai) 的创始人。我们正在训练根据结构化设计约束生成住宅建筑的模型。产品演示：https://www.youtube.com/watch?v=8QkJ7jNU9y4 住宅建筑仍然是世界上最昂贵、最缓慢且难以实现的创意过程之一。设计定制住宅通常需要花费 10,000 至 50,000 美元或更多，需要几个月的时间，并且需要在大多数人能够想象结果之前做出重大决定。因此，绝大多数房屋的建造都没有直接的建筑参与。我们的目标是教会计算机建筑环境如何运作，以便任何人都可以想象、探索并最终创建适合他们的物理空间。如今，用户可以使用简单的输入来设计房屋，例如： - 平方英尺目标 - 足迹形状 - 地块边界 - 房间布局偏好 - 空间关系和约束。我们的模型可在几秒钟内生成完整的平面图和匹配的外部立面图。用户可以探索 2D 和 3D 设计、即时迭代、布置室内装饰、试验材料，并导出 CAD、PDF 和其他文件以用于剩余的施工前过程。我们的最新功能之一允许用户绘制任何足迹形状并在其中生成完整的家庭布局：https://www.youtube.com/watch?v=wZJhBm7-OHI。过去一个月，超过 120,000 人使用了 Drafted，生成了超过 325,000 种家居设计。如果您正在建造房屋、开发房产、从事建筑、施工或人工智能工作，我们很乐意听到您的反馈！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

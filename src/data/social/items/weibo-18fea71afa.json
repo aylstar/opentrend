@@ -1,0 +1,21 @@
+{
+  "id": "weibo-18fea71afa",
+  "slug": "weibo-西班牙爆冷",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "西班牙爆冷",
+  "summary": "微博热榜第 44 位：西班牙爆冷，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E7%88%86%E5%86%B7%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-06-16 10:03:59",
+  "fetchedAt": "2026-06-16T02:06:11.952Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

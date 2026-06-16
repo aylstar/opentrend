@@ -8,12 +8,12 @@
   "language": "Shell",
   "githubUrl": "https://github.com/addyosmani/agent-skills",
   "docsUrl": "https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account",
-  "stars": 59515,
-  "forks": 6448,
-  "openIssues": 137,
+  "stars": 60350,
+  "forks": 6544,
+  "openIssues": 136,
   "license": "MIT",
-  "pushedAt": "2026-06-14T08:41:45Z",
-  "updatedAt": "2026-06-15T01:43:12Z",
+  "pushedAt": "2026-06-16T00:13:14Z",
+  "updatedAt": "2026-06-16T02:04:49Z",
   "createdAt": "2026-02-15T20:20:26Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Agent Skills\n\n**Production-grade engineering skills for AI coding agents.**\n\nSkills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.\n\n![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg)\n\n```\n  DEFINE          PLAN           BUILD          VERIFY         REVIEW          SHIP\n ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐      ┌──────┐\n │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │  QA  │ ───▶ │  Go  │\n │Refine│      │  PRD │      │ Impl │      │Debug │      │ Gate │      │ Live │\n └──────┘      └──────┘      └──────┘      └──────┘      └──────┘      └──────┘\n  /spec          /plan          /build        /test         /review       /ship\n```\n\n---\n\n## Commands\n\n7 slash commands that map to the development lifecycle. Each one activates the right skills automatically.\n\n| What you're doing | Command | Key principle |\n|-------------------|---------|---------------|\n| Define what to build | `/spec` | Spec before code |\n| Plan how to build it | `/plan` | Small, atomic tasks |\n| Build incrementally | `/build` | One slice at a time |\n| Prove it works | `/test` | Tests are proof |\n| Review before merge | `/review` | Improve code health |\n| Simplify the code | `/code-simplify` | Clarity over cleverness |\n| Ship to production | `/ship` | Faster is safer |\n\nWant fewer manual steps once the spec exists? **`/build auto`** generates the plan and implements every task in a single approved pass — you approve the plan once, then it runs autonomously. It removes the human stepping *between* tasks, not the verification: every task is still test-driven and committed individually, and it pauses on failures or risky steps.\n\nSkills also activate automatically based on what you're doing — designing an API triggers `api-and-interface-design`, building UI triggers `frontend-ui-engineering`, and so on.\n\n---\n\n## Quick Start\n\n<details>\n<summary><b>Claude Code (recommended)</b></summary>\n\n**Marketplace install:**\n\n```\n/plugin marketplace add addyosmani/agent-skills\n/plugin install agent-skills@addy-agent-skills\n```\n\n> **SSH errors?** The marketplace clones repos via SSH. If you don't have SSH keys set up on GitHub, either [add your SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) or use the full HTTPS URL to force the HTTPS cloning:\n> ```bash\n> /plugin marketplace add https://github.com/addyosmani/agent-skills.git\n> /plugin install agent-skills@addy-agent-skills\n> ```\n\n**Local / development:**\n\n```bash\ngit clone https://github.com/addyosmani/agent-skills.git\nclaude --plugin-dir /path/to/agent-skills\n```\n\n</details>\n\n<details>\n<summary><b>Cursor</b></summary>\n\nCopy any `SKILL.md` into `.cursor/rules/`, or reference the full `skills/` directory. See [docs/cursor-setup.md](docs/cursor-setup.m",
-  "generatedAt": "2026-06-15T01:44:17.510Z",
+  "generatedAt": "2026-06-16T02:05:09.321Z",
   "analysis": {
     "oneLine": "agent-skills 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "agent-skills 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，agent-skills 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 59,515，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，agent-skills 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 60,350，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

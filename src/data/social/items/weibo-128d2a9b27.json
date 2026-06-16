@@ -1,0 +1,21 @@
+{
+  "id": "weibo-128d2a9b27",
+  "slug": "weibo-世界杯开赛以来最大冷门",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "世界杯开赛以来最大冷门",
+  "summary": "微博热榜第 6 位：世界杯开赛以来最大冷门，当前热度为 61万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E8%B5%9B%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%86%B7%E9%97%A8%23",
+  "hotValue": "61万热度",
+  "author": "",
+  "publishedAt": "2026-06-16 10:03:59",
+  "fetchedAt": "2026-06-16T02:06:11.952Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

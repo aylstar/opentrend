@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+  "summary": "694 points · 338 comments",
+  "content": "Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s)",
+  "url": "https://news.ycombinator.com/item?id=48542100",
+  "publishedAt": "2026-06-15T14:46:53.000Z",
+  "points": 694,
+  "id": "hacker-news-abe452e3",
+  "slug": "hacker-news-abe452e3",
+  "fetchedAt": "2026-06-16T02:05:24.435Z",
+  "score": 81,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "问 HN：有人用本地模型替换 Claude/GPT 进行日常编码吗？",
+  "chineseSummary": "694 分 · 338 条评论",
+  "chineseContent": "这里是否有人完全将 Claude/GPT 替换为本地模型作为他们的主要编码工具，而不仅仅是为了进行副实验？如果是这样，请分享您的设置和性能（例如 tok/s）",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

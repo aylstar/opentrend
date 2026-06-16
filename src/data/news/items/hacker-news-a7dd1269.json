@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Vet turned founder, AI lawn diagnosis",
+  "summary": "38 points · 38 comments",
+  "content": "I know, it's kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems? Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement. Googling problems and finding generic solutions without regional considerations. One time I overseeded my grass not realizing I had to actually put soil down too. One day, I decided to run lawn pictures through AI and found some pretty helpful information. So I decided with my clinical background (the idea of treating the cause, not just the symptoms), as well as tech savvy, I would create an AI tool where homeowners can upload pictures of their lawn, enter their ZIP code, and get a diagnosis tailored to their location with actionable next steps in just 15 seconds. Completely free. The platform is monetized with affiliate sales (if a user elects to purchase through one of our Amazon or other links) and by selling exclusive rights to individual ZIP codes to lawn care companies seeking warm leads. Users can pursue their own DIY plan, purchase a lawn care subscription service, or contact a local lawn care system. I'd love if you'd test it out, toy with it, try to break it, and give me your feedback. Any feature requests would be super helpful. Thanks! Excited to hear your thoughts. Andrew",
+  "url": "https://grassdx.com/",
+  "publishedAt": "2026-06-15T17:56:00.000Z",
+  "points": 38,
+  "id": "hacker-news-a7dd1269",
+  "slug": "hacker-news-a7dd1269",
+  "fetchedAt": "2026-06-16T02:05:24.436Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 17,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：兽医变身 AI 草坪诊断创始人",
+  "chineseSummary": "38 分 · 38 条评论",
+  "chineseContent": "我知道，这有点奇怪。兽医正在做什么来创建草坪问题的分析工具？坦率地说，这个想法源于我自己的草坪护理斗争。无休止的草坪护理公司费用却没有任何实际的改善。谷歌搜索问题并找到通用解决方案，无需考虑区域因素。有一次，我监督我的草地，却没有意识到我也必须把土壤埋下来。有一天，我决定通过人工智能运行草坪图片，并发现了一些非常有用的信息。因此，我决定根据我的临床背景（治疗病因的想法，而不仅仅是症状）以及对技术的了解，我将创建一个人工智能工具，房主可以上传他们的草坪照片，输入他们的邮政编码，并在短短 15 秒内获得适合他们所在位置的诊断以及可操作的后续步骤。完全免费。该平台通过联属销售（如果用户选择通过我们的亚马逊或其他链接之一购买）以及向寻求潜在客户的草坪护理公司出售个人邮政编码的专有权来货币化。用户可以追求自己的DIY计划，购买草坪护理订阅服务，或联系当地的草坪护理系统。如果您愿意测试它、摆弄它、尝试打破它并给我您的反馈，我会很高兴。任何功能请求都会非常有帮助。谢谢！很高兴听到你的想法。安德鲁",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

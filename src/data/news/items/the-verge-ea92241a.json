@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "All the news about Anthropic’s new AI fight with the White House",
+  "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+  "publishedAt": "2026-06-15T19:04:53.000Z",
+  "id": "the-verge-ea92241a",
+  "slug": "the-verge-ea92241a",
+  "content": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said “Fable 5’s capabilities exceed those of any model we’ve ever made generally available,” and that Claude Mythos 5 had the same underlying model, “but with the safeguards lifted in some areas.” According to reports, the order came after conversations between Amazon and the White House about researchers saying they found ways to get Fable 5 to serve information that could be used in cyberattacks. Anthropic responded by shutting access to both models for all customers, saying, “We are complying with the government’s legal directive and are removing access to Fable 5 and Mythos 5 for all users. However, we disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people.” Read along below for all of the latest updates",
+  "fetchedAt": "2026-06-16T02:05:24.439Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "关于 Anthropic 与白宫的新 AI 斗争的所有新闻",
+  "chineseSummary": "Anthropic 已经在与五角大楼的对峙中解决了与政府的一场争端，然后在 6 月 12 日下达了一项命令，禁止外国访问其最新发布的人工智能模型《神鬼寓言 5》和《神话 5》。当它们于 6 月 9 日推出时，Anthropic 表示“《神鬼寓言 5》的功能超过了任何 [...]",
+  "chineseContent": "Anthropic 已经在与五角大楼的对峙中解决了与政府的一场争端，然后在 6 月 12 日下达了一项命令，禁止外国访问其最新发布的人工智能模型《神鬼寓言 5》和《神话 5》。当它们于 6 月 9 日推出时，Anthropic 表示“《神鬼寓言 5》的功能超过了我们曾经普遍推出的任何模型”，并且 Claude Mythos 5 具有相同的基础模型，“但在一些地区。”据报道，该命令是在亚马逊和白宫进行对话后发布的，研究人员称他们找到了让《神鬼寓言 5》提供可用于网络攻击的信息的方法。 Anthropic 对此做出回应，关闭了所有客户对这两种模式的访问，并表示：“我们正在遵守政府的法律指令，并取消所有用户对《神鬼寓言 5》和《神话 5》的访问。但是，我们不认为，小范围潜在越狱的发现应该成为召回部署到数亿人的商业模式的理由。”请阅读下面的内容以了解所有最新更新",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

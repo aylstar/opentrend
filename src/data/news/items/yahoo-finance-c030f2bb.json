@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk, SpaceX Are Big Winners",
+  "summary": "Dow Jones Futures: Trump's U.S.-Iran deal sparked a big stock market rally Monday. Nvidia, Micron, Sandisk and SpaceX were big winners.",
+  "url": "https://finance.yahoo.com/m/b3e6dc9b-d268-379d-9b55-14e848365f6f/dow-jones-futures%3A-trump%2C.html?.tsrc=rss",
+  "publishedAt": "2026-06-16T01:17:26.000Z",
+  "id": "yahoo-finance-c030f2bb",
+  "slug": "yahoo-finance-c030f2bb",
+  "content": "Dow Jones Futures: Trump's U.S.-Iran deal sparked a big stock market rally Monday. Nvidia, Micron, Sandisk and SpaceX were big winners.",
+  "fetchedAt": "2026-06-16T02:05:24.439Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 24,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：特朗普与伊朗协议引发股市飙升； Nvidia、美光、Sandisk、SpaceX 是大赢家",
+  "chineseSummary": "道琼斯期货：特朗普的美国与伊朗协议周一引发股市大幅上涨。 Nvidia、Micron、Sandisk 和 SpaceX 是大赢家。",
+  "chineseContent": "道琼斯期货：特朗普的美国与伊朗协议周一引发股市大幅上涨。 Nvidia、Micron、Sandisk 和 SpaceX 是大赢家。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
