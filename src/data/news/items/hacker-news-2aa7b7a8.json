@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+  "summary": "124 points · 22 comments",
+  "content": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+  "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+  "publishedAt": "2026-06-16T13:15:15.000Z",
+  "points": 124,
+  "id": "hacker-news-2aa7b7a8",
+  "slug": "hacker-news-2aa7b7a8",
+  "fetchedAt": "2026-06-17T01:59:14.354Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Qwen-Robot Suite：物理世界智能的基础模型套件",
+  "chineseSummary": "124 分 · 22 条评论",
+  "chineseContent": "Qwen Studio 提供全面的功能，涵盖聊天机器人、图像和视频理解、图像生成、文档处理、网络搜索集成、工具利用和工件。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

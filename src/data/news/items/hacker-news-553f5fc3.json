@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Apple is about to make Hide My Email useless",
+  "summary": "398 points · 241 comments",
+  "content": "Yesterday, June 15, 2026, a small and unimportant announcement appeared in Apple developer news: New domain for Sign in with Apple and iCloud+ Hide My Email .\n\nLong story short: now both Sign in with Apple and Hide My Email aliases are going to be issued on the @private.icloud.com subdomain. This makes it much easier to ban all aliases without affecting non-relay mailboxes on iCloud mail.\n\nThis is certainly a big hit for iCloud privacy, since some plausible deniability together with Apple&rsquo;s backing made banning iCloud aliases costly. But now a lot of services will just refuse to accept these emails, just like what happens with free temporary mailboxes.\n\nHopefully, this can reach someone at Apple so they can reconsider this decision.\n\nIf you use iCloud+ and Hide My Email, there is still time to generate more aliases on @icloud.com as the change has not yet landed and the rate limit for creating aliases is at least 30 per hour.",
+  "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+  "publishedAt": "2026-06-16T18:37:21.000Z",
+  "points": 398,
+  "id": "hacker-news-553f5fc3",
+  "slug": "hacker-news-553f5fc3",
+  "fetchedAt": "2026-06-17T01:59:14.355Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果即将让隐藏我的电子邮件变得毫无用处",
+  "chineseSummary": "398 分 · 241 条评论",
+  "chineseContent": "昨天，2026 年 6 月 15 日，苹果开发者新闻中出现了一条小而不重要的公告：用于登录 Apple 和 iCloud+ 的新域名隐藏我的电子邮件。\n\n长话短说：现在“使用 Apple 登录”和“隐藏我的电子邮件别名”都将在 @private.icloud.com 子域上发布。这使得禁止所有别名变得更加容易，而不影响 iCloud 邮件上的非中继邮箱。\n\n这对于 iCloud 隐私来说无疑是一个重大打击，因为一些看似合理的推诿以及苹果的支持使得禁止 iCloud 别名的成本高昂。但现在很多服务将拒绝接受这些电子邮件，就像免费临时邮箱的情况一样。\n\n希望这可以传达给苹果公司的某个人，以便他们能够重新考虑这个决定。\n\n如果您使用 iCloud+ 和隐藏我的电子邮件，仍有时间在 @icloud.com 上生成更多别名，因为更改尚未落地，并且创建别名的速率限制至少为每小时 30 个。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

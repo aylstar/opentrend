@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as Wall Street braces for Fed rate decision",
+  "summary": "US stock futures rose modestly as investors looked ahead to the Federal Reserve’s next interest rate decision, the first to be delivered under Chair Kevin Warsh.",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-wall-street-braces-for-fed-rate-decision-225641465.html?.tsrc=rss",
+  "publishedAt": "2026-06-16T22:56:41.000Z",
+  "id": "yahoo-finance-bdf72bf1",
+  "slug": "yahoo-finance-bdf72bf1",
+  "content": "US stock futures rose modestly as investors looked ahead to the Federal Reserve’s next interest rate decision, the first to be delivered under Chair Kevin Warsh. Futures attached to the Dow Jones Industrial Average (YM=F) and the benchmark S&P 500 (ES=F) ticked up 0.1%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) rose 0.2%. The central bank is widely expected to hold rates steady on Wednesday. As a result, investors will focus on discerning Warsh’s view of monetary policy and whether rate hikes could be on the horizon. Hot inflation data amid the war with Iran, combined with signs of a steady job market, has taken rate cuts off the table. Meanwhile, stocks lost some momentum on Tuesday as uncertainty around the US-Iran deal tempered Monday’s optimism that the backlog in the Strait of Hormuz could be cleared quickly. The US and Iran are aiming to formally sign the agreement Friday. Bloomberg reported the text of the 14-point memorandum on Tuesday evening.",
+  "fetchedAt": "2026-06-17T01:59:14.358Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 29,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨，华尔街等待美联储利率决定",
+  "chineseSummary": "美国股指期货小幅上涨，因投资者期待美联储下一次利率决定，这是美联储主席凯文·沃什(Kevin Warsh)领导下的第一个利率决定。",
+  "chineseContent": "美国股指期货小幅上涨，因投资者期待美联储下一次利率决定，这是美联储主席凯文·沃什(Kevin Warsh)领导下的第一个利率决定。道琼斯工业平均指数 (YM=F) 和基准标准普尔 500 指数 (ES=F) 的期货上涨 0.1%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货上涨 0.2%。人们普遍预计央行周三将维持利率稳定。因此，投资者将重点关注沃什对货币政策的看法以及是否可能加息。与伊朗的战争期间的热门通胀数据，加上就业市场稳定的迹象，已经排除了降息的可能。与此同时，周二股市失去了一些动力，因为美伊协议的不确定性削弱了周一对霍尔木兹海峡积压货物可能很快得到清理的乐观情绪。美国和伊朗计划于周五正式签署该协议。彭博社周二晚间报道了这份 14 点备忘录的文本。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

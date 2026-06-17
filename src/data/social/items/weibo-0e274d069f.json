@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0e274d069f",
+  "slug": "weibo-吕思瞳回应",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "吕思瞳回应",
+  "summary": "微博热榜第 49 位：吕思瞳回应，当前热度为 49万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%95%E6%80%9D%E7%9E%B3%E5%9B%9E%E5%BA%94%23",
+  "hotValue": "49万热度",
+  "author": "",
+  "publishedAt": "2026-06-17 09:51:40",
+  "fetchedAt": "2026-06-17T02:00:18.226Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
