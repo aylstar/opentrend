@@ -1,0 +1,21 @@
+{
+  "id": "weibo-85829f5f60",
+  "slug": "weibo-梅西-c罗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "梅西 C罗",
+  "summary": "微博热榜第 5 位：梅西 C罗，当前热度为 86万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF+C%E7%BD%97%23",
+  "hotValue": "86万热度",
+  "author": "",
+  "publishedAt": "2026-06-18 09:53:00",
+  "fetchedAt": "2026-06-18T02:01:30.161Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

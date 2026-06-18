@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d001c5509e",
+  "slug": "weibo-加纳绝杀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "加纳绝杀",
+  "summary": "微博热榜第 36 位：加纳绝杀，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E7%BB%9D%E6%9D%80%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-06-18 09:53:00",
+  "fetchedAt": "2026-06-18T02:01:30.161Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

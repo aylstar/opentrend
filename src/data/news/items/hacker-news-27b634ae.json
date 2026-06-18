@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+  "summary": "300 points · 223 comments",
+  "content": "As OpenAI files SEC paperwork ahead of an expected initial public stock offering, newly leaked financial documents show a company with quickly growing revenues that are currently being overwhelmed by even larger expenses.\n\nThe audited financial statements, obtained by independent journalist Ed Zitron , show OpenAI’s reported revenue growing from $3.7 billion in 2024 to $13.07 billion in 2025. The Financial Times, which reviewed the same documents , writes that the company’s monthly revenues had grown to nearly $2 billion by the end of 2025, suggesting that its ongoing revenue rates continued to grow throughout the year.\n\nBut the company’s fast-growing revenues are still dwarfed by its even more significant expenses. OpenAI’s total revenues in both of the last two years were outpaced by research and development alone, which grew from a $7.81 billion line item in 2024 to a massive $19.18 billion cost in 2025. Those numbers seem to reflect the significant costs OpenAI incurred in training new models and include $10.59 billion in R&D costs paid to Microsoft alone in 2025.\n\nOn top of that, OpenAI’s “cost of revenue” (i.e., the money spent producing and distributing the product) increased from $2.65 billion in 2024 to $7.5 billion in 2025. This cost line likely reflects the significant compute costs incurred at “inference time” as the company’s models respond to a growing number of user prompts. Costs associated with sales and marketing also grew from $1.11 billion in 2024 to $5.73 billion in 2025.\n\nAll told, OpenAI’s day-to-day “loss from operations” increased from $8.78 billion in 2024 to $20.92 billion in 2025, a concerning direction for a company that is telling investors it hopes to be profitable by 2030 . But measured as a percentage of revenues, the company’s operating losses slightly improved year to year, from 237 percent in 2024 to 160 percent in 2025.\n\nOperating numbers aside, OpenAI’s headline “net loss” number of just over $5 billion in 2024 ballooned to nearly $39 billion in 2025. But the 2025 number includes a significant accounting charge related to investor valuations that shifted amid the company’s 2025 conversion to a for-profit structure . The Financial Times cites “a person familiar with the matter” in reporting that this non-recurring charge was approximately $30 billion and that OpenAI’s 2025 net loss amounted to a more reasonable-looking $8 billion without it.\n\nAs OpenAI tries to shift all these losses to eventual profits, it will have to start reining in its costs, especially the massive (and growing) R&D costs associated with model training. It will also have to deal with enterprise customers that are beginning to balk at token-based pricing and starting to demand a measurable return on investment for their AI spending. And on the subscription side, pressure from rival Anthropic may force the company to lower prices , which could further increase operating losses in the near term.\n\nOpenAI shut down its Sora video generation model in March . Around the same time, OpenAI CEO of Applications Fidji Simo told employees that the company would be cutting back on “side quests” and focusing on its core coding and business users.",
+  "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+  "publishedAt": "2026-06-17T21:31:35.000Z",
+  "points": 300,
+  "id": "hacker-news-27b634ae",
+  "slug": "hacker-news-27b634ae",
+  "fetchedAt": "2026-06-18T01:59:52.493Z",
+  "score": 86,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "财经"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "泄露的财务文件显示 OpenAI 每年损失数十亿美元",
+  "chineseSummary": "300 分 · 223 条评论",
+  "chineseContent": "随着 OpenAI 在预期的首次公开募股之前向 SEC 提交文件，新泄露的财务文件显示，这家收入快速增长的公司目前正被更大的支出压垮。\n\n独立记者 Ed Zitron 获得的经审计的财务报表显示，OpenAI 报告的收入从 2024 年的 37 亿美元增长到 2025 年的 130.7 亿美元。英国《金融时报》审阅了相同文件，并写道，到 2025 年底，该公司的月收入已增长至近 20 亿美元，这表明其持续收入在全年持续增长。\n\n但该公司快速增长的收入与其更为庞大的支出相比仍然相形见绌。 OpenAI 过去两年的总收入都超过了研发本身，研发成本从 2024 年的 78.1 亿美元增长到 2025 年的 191.8 亿美元。这些数字似乎反映了 OpenAI 在训练新模型方面产生的巨额成本，其中包括 2025 年仅支付给微软的 105.9 亿美元研发成本。\n\n最重要的是，OpenAI 的“收入成本”（即用于生产和分销产品的资金）从 2024 年的 26.5 亿美元增加到 2025 年的 75 亿美元。这条成本线可能反映了在“推理时间”产生的大量计算成本，因为该公司的模型响应越来越多的用户提示。与销售和营销相关的成本也从 2024 年的 11.1 亿美元增长到 2025 年的 57.3 亿美元。\n\n总而言之，OpenAI 的日常“运营损失”从 2024 年的 87.8 亿美元增加到 2025 年的 209.2 亿美元，对于一家告诉投资者希望到 2030 年实现盈利的公司来说，这是一个令人担忧的方向。但以占收入的百分比来衡量，该公司的营业亏损逐年略有改善，从 2024 年的 237% 降至 2025 年的 160%。\n\n撇开运营数据不谈，OpenAI 的总体“净亏损”数字在 2024 年略高于 50 亿美元，到 2025 年激增至近 390 亿美元。但 2025 年的数字包括与投资者估值相关的大量会计费用，该费用在该公司 2025 年转型为营利性结构期间发生了变化。英国《金融时报》援引“一位知情人士”的报道称，这笔非经常性费用约为 300 亿美元，如果没有这笔费用，OpenAI 2025 年的净亏损达到 80 亿美元，这一数字看上去更为合理。\n\n当 OpenAI 试图将所有这些损失转化为最终利润时，它必须开始控制成本，尤其是与模型训练相关的巨额（且不断增长的）研发成本。它还必须应对企业客户的需求，这些客户开始对基于代币的定价犹豫不决，并开始要求其人工智能支出获得可衡量的投资回报。而在认购方面，来自竞争对手 Anthropic 的压力可能会迫使该公司降低价格，这可能会进一步增加短期内的运营亏损。\n\nOpenAI 在 3 月份关闭了其 Sora 视频生成模型。大约在同一时间，OpenAI 应用程序首席执行官 Fidji Simo 告诉员工，公司将削减“支线任务”，专注于核心编码和业务用户。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures edge up after US and Iran sign interim deal",
+  "summary": "US stock futures edged up as Wall Street digested the interim peace deal between the US and Iran as well as the latest Federal Reserve decision on interest rates.",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-after-us-and-iran-sign-interim-deal-230530576.html?.tsrc=rss",
+  "publishedAt": "2026-06-17T23:05:30.000Z",
+  "id": "yahoo-finance-2e413061",
+  "slug": "yahoo-finance-2e413061",
+  "content": "US stock futures edged up as Wall Street digested the interim peace deal between the US and Iran as well as the latest Federal Reserve decision on interest rates.\n\nFutures attached to the Dow Jones Industrial Average (YM=F) rose 0.2%. Futures attached to the benchmark S&P 500 (ES=F) lifted 0.5%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) jumped 0.8%.\n\nThe US and Iran signed the interim agreement electronically on Wednesday evening, according to a US official and Iranian media. The deal aims to reopen the Strait of Hormuz to commercial traffic and lift sanctions on Iranian oil. Negotiations on more protracted issues, including Tehran’s nuclear program, are expected to take place over the next 60 days.\n\nStocks fell on Wednesday after Fed officials ruled to hold rates steady and signaled a rate hike is on the table for later this year. The central bank’s hawkish tilt comes as inflation has remained elevated and the job market steady amid conflict with Iran.\n\nThursday will be the last day of trading in the holiday-shortened week. On Friday, the US-Iran deal is scheduled to be officially signed by Vice President JD Vance and Iranian Parliament Speaker Mohammad Bagher Ghalibaf in Switzerland.",
+  "fetchedAt": "2026-06-18T01:59:52.496Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 30,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：美国和伊朗签署临时协议后，道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨",
+  "chineseSummary": "随着华尔街消化美国和伊朗之间的临时和平协议以及美联储最新的利率决定，美国股指期货小幅上涨。",
+  "chineseContent": "随着华尔街消化美国和伊朗之间的临时和平协议以及美联储最新的利率决定，美国股指期货小幅上涨。\n\n道琼斯工业平均指数期货 (YM=F) 上涨 0.2%。基准标准普尔 500 指数期货 (ES=F) 上涨 0.5%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货上涨 0.8%。\n\n据美国官员和伊朗媒体报道，美国和伊朗于周三晚上以电子方式签署了临时协议。该协议旨在重新开放霍尔木兹海峡的商业交通并解除对伊朗石油的制裁。预计将在未来 60 天内就包括德黑兰核计划在内的更长期问题进行谈判。\n\n在美联储官员决定维持利率稳定并暗示今年晚些时候将加息后，股市周三下跌。央行的鹰派倾向是在与伊朗冲突期间通胀持续高企、就业市场稳定之际出现的。\n\n周四将是假期缩短的一周中的最后一个交易日。周五，副总统万斯和伊朗议会议长穆罕默德·巴格尔·加利巴夫定于瑞士正式签署美伊协议。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

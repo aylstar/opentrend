@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "MCP 2000",
+  "summary": "AI Drum Machine MPC in your browser Discussion | Link",
+  "url": "https://www.producthunt.com/products/mcp-2000",
+  "publishedAt": "2026-06-16T19:02:31.000Z",
+  "id": "product-hunt-8894b6b3",
+  "slug": "product-hunt-8894b6b3",
+  "content": "MCP2000 is an AI-powered MPC that lives in your browser. Type what you want to hear (\"dusty boom bap kit with crunchy snares,\" \"8-bar afro-house shaker loop at 120 BPM\") and it generates the samples, drops them onto a 4x4 pad grid, and lets you finger-drum, chop, sequence, and add effects. No crate-digging, no plugins, no install. Just prompt, play, and build a beat.",
+  "fetchedAt": "2026-06-18T01:59:52.495Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "MCP 2000",
+  "chineseSummary": "浏览器中的 AI 鼓机 MPC 讨论 |关联",
+  "chineseContent": "MCP2000 是一款位于浏览器中的人工智能驱动的 MPC。输入您想听到的内容（“带有松脆军鼓的尘土飞扬的boom bap套件”，“120 BPM的8小节非洲浩室摇摇器循环”），它会生成样本，将它们放到4x4的打击垫网格上，然后让您用手指敲鼓，切碎，排序并添加效果。无需挖箱子，无需插件，无需安装。只需提示、演奏并构建节拍即可。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

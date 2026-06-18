@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2c3db2f616",
+  "slug": "weibo-2027qs世界大学排名",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "2027QS世界大学排名",
+  "summary": "微博热榜第 24 位：2027QS世界大学排名，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%232027QS%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-06-18 09:53:00",
+  "fetchedAt": "2026-06-18T02:01:30.161Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

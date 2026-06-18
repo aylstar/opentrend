@@ -482,3 +482,25 @@
 {"type":"public_translation_error","at":"2026-06-17T02:00:13.491Z","id":"youtube-1c84dc16","error":"500 Internal Server Error"}
 {"type":"public_translation_error","at":"2026-06-17T02:00:13.978Z","id":"youtube-1176968d","error":"500 Internal Server Error"}
 {"type":"news_report_generated","at":"2026-06-17T02:00:17.362Z","date":"2026-06-17","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-06-18T01:59:52.480Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:52.786Z","id":"product-hunt-5c8a9f21","source":"Product Hunt","url":"https://www.producthunt.com/products/wolfram-mathematica","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:52.790Z","id":"product-hunt-389c7dae","source":"Product Hunt","url":"https://www.producthunt.com/products/henji","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:52.931Z","id":"hacker-news-d3ce11be","source":"Hacker News","url":"https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.118Z","id":"hacker-news-729fd638","source":"Hacker News","url":"https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.138Z","id":"product-hunt-d1e988c0","source":"Product Hunt","url":"https://www.producthunt.com/products/wilson-3","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.142Z","id":"product-hunt-64f20662","source":"Product Hunt","url":"https://www.producthunt.com/products/tyto","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.143Z","id":"product-hunt-1532dc50","source":"Product Hunt","url":"https://www.producthunt.com/products/wario-style","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.889Z","id":"financial-times-ae8e519a","source":"Financial Times","url":"https://www.ft.com/content/28aed6f3-8d01-4748-b687-8d83bd968716","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.892Z","id":"financial-times-9c188963","source":"Financial Times","url":"https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:53.918Z","id":"financial-times-2034a608","source":"Financial Times","url":"https://www.ft.com/content/f2463587-91e9-4da4-94b2-9cb9a270b74a","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:54.887Z","id":"marketwatch-f5037ae6","source":"MarketWatch","url":"https://www.marketwatch.com/story/did-warsh-and-vance-just-open-the-door-to-higher-inflation-d81396fb?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:54.909Z","id":"marketwatch-15f5c45","source":"MarketWatch","url":"https://www.marketwatch.com/story/stock-market-pessimists-have-one-less-reason-to-worry-as-shares-of-banks-and-retailers-perk-up-12d749b8?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-18T01:59:54.913Z","id":"marketwatch-a859e58a","source":"MarketWatch","url":"https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"public_translation_error","at":"2026-06-18T02:00:59.615Z","id":"bloomberg-924f64ac","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-18T02:01:17.155Z","id":"yahoo-finance-fff24f09","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-18T02:01:23.320Z","id":"youtube-d1ca1d85","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-18T02:01:24.047Z","id":"youtube-ac2d1c42","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-18T02:01:24.818Z","id":"youtube-4f298a18","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-18T02:01:25.858Z","id":"youtube-9b38659d","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-18T02:01:26.614Z","id":"youtube-1c090964","error":"500 Internal Server Error"}
+{"type":"news_report_generated","at":"2026-06-18T02:01:28.803Z","date":"2026-06-18","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

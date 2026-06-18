@@ -1,0 +1,21 @@
+{
+  "id": "weibo-de055ca67b",
+  "slug": "weibo-抓特务",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "抓特务",
+  "summary": "微博热榜第 49 位：抓特务，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8A%93%E7%89%B9%E5%8A%A1%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-06-18 09:53:00",
+  "fetchedAt": "2026-06-18T02:01:30.161Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

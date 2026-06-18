@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "SolonGate",
+  "summary": "Zero-trust security gateway for AI agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/solongate",
+  "publishedAt": "2026-06-16T14:36:07.000Z",
+  "id": "product-hunt-82990358",
+  "slug": "product-hunt-82990358",
+  "content": "AI agents don't just chat anymore; they execute. SolonGate is the zero-trust security layer that controls exactly what your autonomous AI agents can do. We sit directly between LLMs and your internal systems, APIs, or databases. Every action your AI attempts is filtered through our deterministic Policy Engine and an isolated AI Judge. We block risky, unauthorized, or destructive actions before execution. Complete action governance.",
+  "fetchedAt": "2026-06-18T01:59:52.495Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "索伦门",
+  "chineseSummary": "AI代理的零信任安全网关讨论|关联",
+  "chineseContent": "人工智能代理不再只是聊天；他们执行。 SolonGate 是零信任安全层，可精确控制您的自主 AI 代理可以执行的操作。我们直接位于法学硕士和您的内部系统、API 或数据库之间。您的人工智能尝试的每一个动作都会通过我们的确定性策略引擎和独立的人工智能法官进行过滤。我们在执行之前阻止有风险、未经授权或破坏性的行为。完善行动治理。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

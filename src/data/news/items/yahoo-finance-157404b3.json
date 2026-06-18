@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures Rise After Fed Rate Hike Bets Hit Stocks; SpaceX Falls As Robinhood Jumps",
+  "summary": "Stocks suffered broad, sharp losses on rate hike bets after the first Warsh Fed meeting. SpaceX fell for the first time while Robinhood jumped.",
+  "url": "https://finance.yahoo.com/m/d2bdbf77-f3c4-3751-a3c0-3b4699fc0ef9/dow-jones-futures-rise-after.html?.tsrc=rss",
+  "publishedAt": "2026-06-18T01:44:42.000Z",
+  "id": "yahoo-finance-157404b3",
+  "slug": "yahoo-finance-157404b3",
+  "content": "Stocks suffered broad, sharp losses on rate hike bets after the first Warsh Fed meeting. SpaceX fell for the first time while Robinhood jumped.",
+  "fetchedAt": "2026-06-18T01:59:52.496Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 25,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美联储加息押注打击股市后道琼斯期货上涨； Robinhood 崛起，SpaceX 陨落",
+  "chineseSummary": "第一次沃什美联储会议后，股市因加息押注而遭受广泛大幅下跌。 SpaceX 首次下跌，而 Robinhood 则跃升。",
+  "chineseContent": "第一次沃什美联储会议后，股市因加息押注而遭受广泛大幅下跌。 SpaceX 首次下跌，而 Robinhood 则跃升。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

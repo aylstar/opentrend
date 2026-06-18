@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+  "summary": "350 points · 380 comments",
+  "content": "https://archive.ph/MlU1U",
+  "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+  "publishedAt": "2026-06-17T03:55:16.000Z",
+  "points": 350,
+  "id": "hacker-news-729fd638",
+  "slug": "hacker-news-729fd638",
+  "fetchedAt": "2026-06-18T01:59:52.493Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 5,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "美国暂缓将 DeepSeek 列入黑名单 100 多家公司被视为存在安全风险",
+  "chineseSummary": "350 分 · 380 条评论",
+  "chineseContent": "https://archive.ph/MlU1U",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

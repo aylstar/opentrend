@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/music-assistant/server",
   "docsUrl": "https://music-assistant.io",
-  "stars": 2572,
-  "forks": 450,
-  "openIssues": 93,
+  "stars": 2682,
+  "forks": 456,
+  "openIssues": 80,
   "license": "Apache-2.0",
-  "pushedAt": "2026-06-16T22:56:43Z",
-  "updatedAt": "2026-06-17T01:54:27Z",
+  "pushedAt": "2026-06-17T23:28:33Z",
+  "updatedAt": "2026-06-18T01:45:29Z",
   "createdAt": "2019-05-09T06:17:02Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "Music Assistant\n==================================\n\n**Music Assistant Server**\n\nMusic Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.\n\n**Documentation and support**\n\nDocumentation https://music-assistant.io\n\nBeta Documentation https://beta.music-assistant.io\n\nFor issues, please go to [the issue tracker](https://github.com/music-assistant/support/issues).\n\nFor feature requests, please see [feature requests](https://github.com/music-assistant/support/discussions/categories/feature-requests-and-ideas).\n\n____________\n\n\n## Running the server\n\nMusic Assistant can be operated as a complete standalone product but it is actually tailored to use side by side with Home Assistant, it is meant with automation in mind, hence our recommended installation method is to run the server as a Home assistant Add-on.\n\n\n### Installation Instructions\n\nSee here https://music-assistant.io/installation/\n\n[repository-badge]: https://img.shields.io/badge/Add%20repository%20to%20my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge\n[repository-url]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmusic-assistant%2Fhome-assistant-addon\n\nNote that although Music Assistant's main code is written in python, it has multiple dependencies on external/OS components such as ffmpeg and custom binaries and it is therefore not possible to run it as standalone pypi package. The only available installation method to run the Music Assistant server is by running the Docker container or the Home Assistant add-on.\n\n---\n\n[![A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/ohf-project.png)](https://www.openhomefoundation.org/)\n",
-  "generatedAt": "2026-06-17T01:59:04.720Z",
+  "generatedAt": "2026-06-18T01:59:41.630Z",
   "analysis": {
     "oneLine": "server 是一个值得跟踪的开源项目，适合用于技术选型、原型验证和同类产品研究。",
     "problem": "降低技术团队发现、理解和验证新工具的成本",
     "audience": "技术负责人、独立开发者、小团队和需要寻找可复用工具的业务人员",
     "detailParagraphs": [
       "server 更准确地说是一个值得跟踪的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：降低技术团队发现、理解和验证新工具的成本。",
-      "如果把它放进实际使用场景，server 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 2,572，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，server 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 2,682，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性。需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。当前最需要警惕的是：主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

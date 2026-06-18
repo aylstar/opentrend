@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: An 8-bit live gamecast for baseball",
+  "summary": "202 points · 111 comments",
+  "content": "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts. Been waiting to share this for when there’s actually a good slate of games happening since the site is pretty bare otherwise. Here is today's schedule: Mets @ Reds - 9:40am PDT https://ribbie.tv/watch/game/824503 Royals @ Nationals - 10:05am PDT https://ribbie.tv/watch/game/822721 Marlins @ Phillies - 10:05am PDT https://ribbie.tv/watch/game/823450 Tigers @ Astros - 11:10am PDT https://ribbie.tv/watch/game/824178 Padres @ Cardinals - 11:15am PDT https://ribbie.tv/watch/game/823044 ..and another 14 games throughout the later day. I'm still early on in this project, but I've tried to add little details with actual stadiums, day and night modes, between inning graphics and interstitials, live scoreboards, etc. Would love any feedback and ideas. Thanks for checking it out!",
+  "url": "https://ribbie.tv/watch",
+  "publishedAt": "2026-06-17T16:44:15.000Z",
+  "points": 202,
+  "id": "hacker-news-fe643626",
+  "slug": "hacker-news-fe643626",
+  "fetchedAt": "2026-06-18T01:59:52.494Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：棒球比赛的 8 位直播",
+  "chineseSummary": "202 分 · 111 条评论",
+  "chineseContent": "嘿 HN，我建立了一个网站来观看 8 位广播的现场棒球比赛。它获取实时 MLB 数据流并将其转换为近乎实时的像素艺术游戏直播。一直在等待分享这个，因为实际上有很多不错的游戏正在发生，因为该网站在其他方面非常空虚。以下是今天的赛程表： Mets @ Reds - 上午 9:40 PDT https://ribbie.tv/watch/game/824503 Royals @ Nationals - 上午 10:05 PDT https://ribbie.tv/watch/game/822721 Marlins @ Phillies - 上午 10:05 PDT https://ribbie.tv/watch/game/823450 Tigers @ Astros -太平洋夏令时上午 11:10 https://ribbie.tv/watch/game/824178 教士@红雀队 - 太平洋夏令时间上午 11:15 https://ribbie.tv/watch/game/823044 .. 以及当天的另外 14 场比赛。我仍处于该项目的早期阶段，但我尝试在实际体育场、白天和夜间模式、局局图形和插页式广告、实时记分牌等之间添加一些细节。希望得到任何反馈和想法。感谢您查看！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

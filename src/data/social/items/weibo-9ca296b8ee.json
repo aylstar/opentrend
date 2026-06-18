@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9ca296b8ee",
+  "slug": "weibo-邓超报位置",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "邓超报位置",
+  "summary": "微博热榜第 11 位：邓超报位置，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E6%8A%A5%E4%BD%8D%E7%BD%AE%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-06-18 09:53:00",
+  "fetchedAt": "2026-06-18T02:01:30.161Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

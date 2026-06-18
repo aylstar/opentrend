@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Epic wants to let you bring your Fortnite skins to other games",
+  "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it will let developers make games that can use […]",
+  "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+  "publishedAt": "2026-06-17T19:09:00.000Z",
+  "id": "the-verge-6d26b5d2",
+  "slug": "the-verge-6d26b5d2",
+  "content": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn’t yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it will let developers make games that can use a player’s Fortnite skins and will let developers build skins of their own that work with Fortnite. “We’re tackling this problem first because we want to prove things out with a system that’s complex enough to be a meaningful existence proof of the idea, and one that inherently comes with a ton of player value by respecting their purchases across an interconnected ecosystem of games,” Marcus Wassmer, Epic’s EVP of development, says in a blog post tied to Epic’s State of Unreal keynote. Should this system work and get broadly adopted by developers, it could actually be pretty cool. I have spent more money on Fortnite skins than I care to admit, and I imagine it would be fun to romp around in games that aren’t Fortnite with outfits like John Wick or my favorite Stormtrooper Samurai. But for that to actually happen, developers will have to do the work to implement support for the systems in their games, which isn’t a guarantee. They’ll likely need some kind of incentives to make the effort with it instead of just opening a door that feeds back into Epic’s Fortnite ecosystem. And with Epic targeting an early access release for Unreal Engine 6 for the end of 2027 — and the full release coming “12-18 months later” — it will be a while before all the tools are in place for interested developers to even begin implementing ways to allow Fortnite skins in their games. This is also all being announced as Fortnite is facing some challenges, with Epic laying off more than 1,000 workers in March due to a dropoff in Fortnite engagement. Fortnite is still popular — it has 75 million monthly active users, Epic’s Hannah Lowry said on stage. But it’s not as big as it once was, and Epic is trying to turn things around with more gaming crossovers and a planned shift to show the Roblox-like “Discover” screen featuring different experiences when you boot up Fortnite instead of dropping you into the lobby. And Epic’s planned “persistent universe” it’s building with Disney still hasn’t come to fruition after being announced more than two years ago. Epic is also getting pushback against its approach to generative AI. This week, it detailed how it uses generative AI to assist with making art for Fortnite, and as part of the State of Unreal news, Epic said that it would add an experimental MCP plugin to Unreal Engine to let developers connect LLMs to their projects to help with generating assets and other parts of development. On stage, Epic announced a planned Fortnite crossover featuring the indie hit Vampire Survivors, but Poncle, the developer of the game, said that because of “today’s news about gen AI usage by Epic to create all sort [sic] of game assets, including Fortnite characters,” it would be “reviewing” the collaboration.",
+  "fetchedAt": "2026-06-18T01:59:52.496Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Epic 希望让你将《堡垒之夜》皮肤带到其他游戏中",
+  "chineseSummary": "Epic Games 多年来一直在宣传可互操作的虚拟宇宙的潜力，尽管这一愿景尚未成为现实。但随着虚幻引擎 6（其游戏开发引擎的下一个主要版本）的推出，Epic 计划朝着这个理论上的未来迈出一大步：它将让开发人员制作可以使用 [...]",
+  "chineseContent": "Epic Games 多年来一直在宣传可互操作的虚拟宇宙的潜力，尽管这一愿景尚未成为现实。但随着虚幻引擎 6（其游戏开发引擎的下一个主要版本）的推出，Epic 计划朝着理论上的未来迈出一大步：它将让开发者制作可以使用玩家的《堡垒之夜》皮肤的游戏，并让开发者构建自己的可与《堡垒之夜》兼容的皮肤。 Epic 的开发执行副总裁马库斯·瓦斯默 (Marcus Wassmer) 在一篇与 Epic 的 State of Unreal 主题演讲相关的博客文章中表示：“我们首先解决这个问题是因为我们希望用一个足够复杂的系统来证明这个想法的存在，并且通过尊重他们在相互关联的游戏生态系统中的购买来固有地赋予玩家大量价值。”如果这个系统能够工作并被开发人员广泛采用，它实际上可能会非常酷。我在《堡垒之夜》皮肤上花的钱比我愿意承认的还要多，而且我想，穿着《疾速追杀》或我最喜欢的冲锋队武士这样的服装在《堡垒之夜》以外的游戏中玩耍会很有趣。但要真正实现这一点，开发人员必须努力在游戏中实现对系统的支持，但这并不能保证。他们可能需要某种激励来做出努力，而不是仅仅打开一扇反馈到 Epic 的《堡垒之夜》生态系统的大门。 Epic 的目标是在 2027 年底推出虚幻引擎 6 的抢先体验版，而完整版本将在“12-18 个月后”发布，感兴趣的开发者还需要一段时间才能准备好所有工具，甚至开始实施在他们的游戏中允许使用《堡垒之夜》皮肤的方法。这也是由于《堡垒之夜》面临一些挑战而宣布的，Epic 裁员更多",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
