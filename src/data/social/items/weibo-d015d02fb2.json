@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d015d02fb2",
+  "slug": "weibo-科内重伤",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "科内重伤",
+  "summary": "微博热榜第 2 位：科内重伤，当前热度为 110万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%86%85%E9%87%8D%E4%BC%A4%23",
+  "hotValue": "110万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.933Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

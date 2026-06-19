@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bcdd2c8c1c",
+  "slug": "weibo-佛得角门将",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "佛得角门将",
+  "summary": "微博热榜第 50 位：佛得角门将，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.934Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

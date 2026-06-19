@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "InstantDelay",
+  "summary": "Add, remove, or adjust stream delay while already live Discussion | Link",
+  "url": "https://www.producthunt.com/products/instantdelay",
+  "publishedAt": "2026-06-17T20:40:44.000Z",
+  "id": "product-hunt-c937cce4",
+  "slug": "product-hunt-c937cce4",
+  "content": "Streamers shouldn’t have to restart their stream just to change delay. InstantDelay lets OBS & Streamlabs streamers: Add, Remove, or Adjust stream delay while already live. Built for competitive streamers, tournaments, subathons, and multi-streaming, with Instant Mode, Overlay Mode, custom overlays, hotkeys, and Stream Deck support.",
+  "fetchedAt": "2026-06-19T02:12:49.083Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "即时延迟",
+  "chineseSummary": "在直播时添加、删除或调整流延迟 讨论 |关联",
+  "chineseContent": "直播者不应该仅仅为了改变延迟而重新启动直播。 InstantDelay 允许 OBS 和 Streamlabs 直播者：在直播时添加、删除或调整直播延迟。专为竞技直播、锦标赛、亚马拉松和多直播而打造，具有即时模式、覆盖模式、自定义覆盖、热键和 Stream Deck 支持。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

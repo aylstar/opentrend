@@ -1,0 +1,21 @@
+{
+  "id": "weibo-465275abe7",
+  "slug": "weibo-追觅大调整",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "追觅大调整",
+  "summary": "微博热榜第 8 位：追觅大调整，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E8%A7%85%E5%A4%A7%E8%B0%83%E6%95%B4%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.933Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

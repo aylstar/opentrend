@@ -1,0 +1,21 @@
+{
+  "id": "weibo-50da152ca9",
+  "slug": "weibo-墨西哥vs韩国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "墨西哥vs韩国",
+  "summary": "微博热榜第 6 位：墨西哥vs韩国，当前热度为 61万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E9%9F%A9%E5%9B%BD%23",
+  "hotValue": "61万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.933Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

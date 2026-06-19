@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+  "summary": "137 points · 63 comments",
+  "content": "You are in charge of drawing the district lines for the elections. Click adjacent tiles on the map to group them into a district. Each district must be one connected shape, no islands allowed.\n\nColoured houses show where voters live. Not every tile on the board has one, some are just empty land.\n\nA party wins a district by having more houses in it than any other party. If two parties tie in a district, nobody wins it. It is your job to draw regions so that your party wins more regions than anyone else and wins the election.\n\nEvery house must be assigned to a district. The districts are all the same size.\n\nSubmit your answer when you think you have found the best distribution for your party . There is also a hint button available if you get stuck. Good luck gerrymandering!\n\nGerrymandering is drawing electoral district lines to favour one party over another. Two techniques do most of the work. Packing concentrates opponents into a few districts they win by a landslide, burning their surplus votes on margins they didn't need. Cracking splits their remaining voters across other districts so they fall just short everywhere. Together, a party can win a majority of seats with a minority of the overall vote.\n\nThe name comes from Massachusetts governor Elbridge Gerry, who in 1812 approved a district so oddly shaped that a Boston newspaper compared it to a salamander and coined \"Gerry-mander\". The practice is older: Patrick Henry tried to draw Virginia's first congressional map to keep James Madison out of Congress. Today the mechanics are unchanged, but algorithms model thousands of map variants and tune each district with surgical precision.\n\nWhen a map guarantees an outcome, general elections stop mattering. The primary winner takes the seat, so incumbents only need to keep their party's base happy. The centre gets ignored; the extremes perform better.\n\nThe effects are measurable. When courts struck down North Carolina's partisan map in 2022, the state elected equal numbers of Republicans and Democrats. Republicans redrew it, and in 2024 won 10 of 14 seats in a state that is closely divided. The vote totals barely shifted. The lines did.\n\nIt also concentrates harm on minority communities. Residential patterns make packing or cracking a minority neighbourhood one of the most efficient ways to tip a district. In 2019, the Supreme Court ruled it could not police partisan maps, even while calling gerrymandering \"inconsistent with democratic principles\". A 2026 ruling went further, requiring proof of discriminatory intent rather than discriminatory effect alone, making maps far harder to challenge.\n\nThat ruling has accelerated an already aggressive cycle. More than 25% of all congressional seats have been redrawn mid-decade since 2020, something that used to happen only after a census, once per decade. Texas redrew its maps in 2025 to add five Republican seats. California suspended its independent redistricting commission and redrew in response. Virginia and Florida followed. Redistricting has become an ongoing political instrument.",
+  "url": "https://gerrymandle.cc/",
+  "publishedAt": "2026-06-18T14:16:25.000Z",
+  "points": 137,
+  "id": "hacker-news-b78e5f28",
+  "slug": "hacker-news-b78e5f28",
+  "fetchedAt": "2026-06-19T02:12:49.082Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：Gerrymandle - 每日益智游戏，您可以在其中重新绘制选区",
+  "chineseSummary": "137 分 · 63 条评论",
+  "chineseContent": "您负责绘制选举的选区界限。单击地图上的相邻图块将它们分组为一个区域。每个区域必须是一个相连的形状，不允许有岛屿。\n\n彩色房屋显示选民居住的地方。并不是棋盘上的每一块都有一个，有些只是空地。\n\n一个政党通过拥有比任何其他政党更多的房屋来赢得一个选区。如果两个政党在一个选区打平，那么没有人会赢得胜利。你的工作是划定地区，以便你的政党比其他任何人赢得更多地区并赢得选举。\n\n每栋房屋都必须分配到一个区。这些区的大小都是相同的。\n\n当您认为您已找到最适合您的聚会的发行版时，请提交您的答案。如果您遇到困难，还有一个提示按钮可用。祝你好运！\n\n选区划分不公正正在划定选区界限，以偏向某一政党而不是另一政党。两种技术可以完成大部分工作。打包将对手集中到他们以压倒性优势赢得的几个选区，在他们不需要的边缘烧毁他们的剩余选票。分裂将他们剩余的选民分散到其他选区，因此他们在任何地方都表现不佳。一个政党可以一起以少数票数赢得多数席位。\n\n这个名字来自马萨诸塞州州长埃尔布里奇·格里（Elbridge Gerry），他于 1812 年批准了一个形状奇特的选区，以至于波士顿一家报纸将其比作蝾螈，并创造了“格里曼德”（Gerry-mander）。这种做法很古老：帕特里克·亨利试图绘制弗吉尼亚州的第一张国会地图，以将詹姆斯·麦迪逊排除在国会之外。如今，机制没有改变，但算法对数千种地图变体进行了建模，并以外科手术般的精度调整了每个区域。\n\n当地图保证了结果时，大选就不再重要了。初选获胜者占据席位，因此现任者只需让其政党的基础满意即可。中心被忽视；极端的表现更好。\n\n效果是可以衡量的。 2022 年，当法院推翻北卡罗来纳州的党派地图时，该州选出了同等数量的共和党人和民主党人。共和党人重新划定了席位，并于 2024 年在这个分歧严重的州赢得了 14 个席位中的 10 个。投票总数几乎没有变化。线条做到了。\n\n它还将伤害集中在少数族裔社区。住宅模式使得打包或破解少数族裔社区成为颠覆一个地区的最有效方法之一。 2019年，最高法院裁定不能监管党派地图，尽管称不公正选区“不符合民主原则”。 2026 年的裁决更进一步，要求提供歧视意图的证据，而不仅仅是歧视效果，这使得地图更难受到挑战。\n\n这项裁决加速了本已激进的循环。自 2020 年以来，超过 25% 的国会席位在十年中期进行了重新划分，而以前这种情况只有在人口普查之后才会发生，每十年一次。德克萨斯州于 2025 年重新绘制地图，增加了 5 个共和党席位。加州暂停了其独立选区重新划分委员会，并重新划区作为回应。弗吉尼亚州和佛罗里达州紧随其后。选区重新划分已成为一项持续的政治工具。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

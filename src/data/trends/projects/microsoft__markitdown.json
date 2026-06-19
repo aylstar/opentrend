@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/microsoft/markitdown",
   "docsUrl": "https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource?view=doc-intel-4.0.0",
-  "stars": 155227,
-  "forks": 10768,
-  "openIssues": 852,
+  "stars": 155659,
+  "forks": 10814,
+  "openIssues": 853,
   "license": "MIT",
   "pushedAt": "2026-05-26T22:41:34Z",
-  "updatedAt": "2026-06-18T01:56:04Z",
+  "updatedAt": "2026-06-19T02:09:38Z",
   "createdAt": "2024-11-13T19:56:40Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# MarkItDown\n\n[![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/)\n![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown)\n[![Built by AutoGen Team](https://img.shields.io/badge/Built%20by-AutoGen%20Team-blue)](https://github.com/microsoft/autogen)\n\n> [!IMPORTANT]\n> MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest `convert_*` function needed for your use case (e.g., `convert_stream()`, or `convert_local()`). See the [Security Considerations](#security-considerations) section of the documentation for more information.\n\nMarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs and related text analysis pipelines. To this end, it is most comparable to [textract](https://github.com/deanmalmgren/textract), but with a focus on preserving important document structure and content as Markdown (including: headings, lists, tables, links, etc.) While the output is often reasonably presentable and human-friendly, it is meant to be consumed by text analysis tools -- and may not be the best option for high-fidelity document conversions for human consumption.\n\nMarkItDown currently supports the conversion from:\n\n- PDF\n- PowerPoint\n- Word\n- Excel\n- Images (EXIF metadata and OCR)\n- Audio (EXIF metadata and speech transcription)\n- HTML\n- Text-based formats (CSV, JSON, XML)\n- ZIP files (iterates over contents)\n- Youtube URLs\n- EPubs\n- ... and more!\n\n## Why Markdown?\n\nMarkdown is extremely close to plain text, with minimal markup or formatting, but still\nprovides a way to represent important document structure. Mainstream LLMs, such as\nOpenAI's GPT-4o, natively \"_speak_\" Markdown, and often incorporate Markdown into their\nresponses unprompted. This suggests that they have been trained on vast amounts of\nMarkdown-formatted text, and understand it well. As a side benefit, Markdown conventions\nare also highly token-efficient.\n\n## Prerequisites\nMarkItDown requires Python 3.10 or higher. It is recommended to use a virtual environment to avoid dependency conflicts.\n\nWith the standard Python installation, you can create and activate a virtual environment using the following commands:\n\n```bash\npython -m venv .venv\nsource .venv/bin/activate\n```\n\nIf using `uv`, you can create a virtual environment with:\n\n```bash\nuv venv --python=3.12 .venv\nsource .venv/bin/activate\n# NOTE: Be sure to use 'uv pip install' rather than just 'pip install' to install packages in this virtual environment\n```\n\nIf you are using Anaconda, you can create a virtual environment with:\n\n```bash\nconda create -n markitdown python=3.12\nconda activate markitdown\n```\n\n## Installation\n\nTo install MarkItDown, use pip: `pip install 'markitdown[all]'`. Alternatively, you can install it from the source:\n\n```bash\ngit clone git@github.com:microsoft/ma",
-  "generatedAt": "2026-06-18T01:59:44.225Z",
+  "generatedAt": "2026-06-19T02:12:41.556Z",
   "analysis": {
     "oneLine": "markitdown 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "markitdown 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，markitdown 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 155,227，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，markitdown 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 155,659，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

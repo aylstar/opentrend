@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "This robotic self-driving toilet comes to you",
+  "summary": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those dealing with mobility issues due to age, […]",
+  "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
+  "publishedAt": "2026-06-18T18:08:17.000Z",
+  "id": "the-verge-7c380561",
+  "slug": "the-verge-7c380561",
+  "content": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven’t seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve accessibility for those dealing with mobility issues due to age, injuries, or disabilities. It’s expected to sell for ¥28,999 yuan in China, or nearly $4,300, according to IT Home, but global availability hasn’t been confirmed. The Xiaoban toilet uses technology similar to what’s found in the most advanced robot vacuums. A suite of sensors, including lidar and ultrasonic, are used to autonomously plan safe routes through a home or care facility that avoid obstacles and stairs when it’s been summoned by a remote or voice commands. The user may still need assistance with actually getting onto the toilet, but it saves them from having to relocate to a bathroom. Based on videos of the Xiaoban in action, it also appears to handle nearly everything else. [Media: https://www.youtube.com/watch?v=KZLeV9PyTZU] In lieu of paper, the toilet features both a built-in bidet and a warm air drying mechanism for cleaning the user, plus a system that self-cleans the bowl and seals waste inside an enclosed receptacle. That, along with ultraviolet lights that are used to kill bacteria, will help to minimize odors and potentially reduce the stigma of using a toilet away from a bathroom. [Image: The Xiaoban smart toilet can empty waste into a traditional toilet using an extending robot arm. https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/toilet2.jpg?quality=90&strip=all] After the user is finished, the toilet will head to one of two places. If its charging dock is connected to plumbing and drainage the Xiaoban will first go there to recharge, refill its reservoirs, and empty the collected waste after it’s been pulverized to prevent blockages. If the dock lacks drainage, the toilet will instead first stop at a bathroom where an extending arm will pump the waste into a traditional toilet so it can be flushed away. While the Xiaoban doesn’t entirely replace caregivers, it does make their job a lot easier by eliminating the need to assist someone getting to a bathroom, and handling most of the cleanup afterwards. [Media: https://www.youtube.com/watch?v=7pslcbV5250]",
+  "fetchedAt": "2026-06-19T02:12:49.085Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "财经"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "这个机器人自动驾驶厕所来找你了",
+  "chineseSummary": "最近在上海举行的一场以老年护理、辅助设备和康复医学为主题的博览会上，一家名为阅伴的中国公司推出了一款智能马桶，它具有我们以前从未见过的功能；它来找你。自动驾驶小班厕所旨在改善那些因年龄而行动不便的人的无障碍环境，[…]",
+  "chineseContent": "最近在上海举行的一场以老年护理、辅助设备和康复医学为主题的博览会上，一家名为阅伴的中国公司推出了一款智能马桶，它具有我们以前从未见过的功能；它来找你。自动驾驶小班厕所旨在改善那些因年龄、受伤或残疾而行动不便的人的无障碍环境。据 IT Home 报道，该机在中国的售价预计为 28,999 元人民币，约合 4,300 美元，但全球发售情况尚未确定。小班马桶采用的技术类似于最先进的扫地机器人。包括激光雷达和超声波在内的一套传感器用于自动规划穿过家庭或护理机构的安全路线，当通过遥控器或语音命令召唤时，可以避开障碍物和楼梯。用户可能仍然需要帮助才能真正上厕所，但这使他们不必搬到浴室。根据小班的实际操作视频，它似乎还可以处理几乎所有其他事情。 [媒体：https://www.youtube.com/watch?v=KZLeV9PyTZU] 马桶代替了纸，配有内置坐浴盆和用于清洁用户的热风干燥装置，以及一个可自动清洁马桶并将废物密封在封闭容器内的系统。再加上用于杀死细菌的紫外线，将有助于最大程度地减少异味，并有可能减少在远离浴室的地方使用厕所的耻辱。 [图片：小班智能马桶可以使用延伸的机械臂将废物倒入传统马桶中。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/toilet2.jpg?quality=90&strip=all] 用户用完后，厕所将前往两个地方之一。如果其充电底座连接到管道",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

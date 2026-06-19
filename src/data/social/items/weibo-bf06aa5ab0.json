@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bf06aa5ab0",
+  "slug": "weibo-spacex大跌",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "SpaceX大跌",
+  "summary": "微博热榜第 25 位：SpaceX大跌，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23SpaceX%E5%A4%A7%E8%B7%8C%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.934Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

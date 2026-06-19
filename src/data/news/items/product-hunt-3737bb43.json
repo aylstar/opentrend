@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "AI‑Native eCommerce Infrastructure",
+  "summary": "A unified control plane for Magento with Claude Code web Discussion | Link",
+  "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
+  "publishedAt": "2026-06-18T03:12:56.000Z",
+  "id": "product-hunt-3737bb43",
+  "slug": "product-hunt-3737bb43",
+  "content": "Where alot of Magento hosting started from a \"restrictive\" managed hosting, we take take a different approach by starting from a Control Panel. Built to accomodate Magento Developers - OpenSource contributors & operators where flexibility matters, especially in todays AI standards. The unified control plane is constructed from the ground up to be AI-Native. That means data pipelines are streamed in real-time prepared for AI to query everything for day to day operations.",
+  "fetchedAt": "2026-06-19T02:12:49.083Z",
+  "score": 79,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 原生电子商务基础设施",
+  "chineseSummary": "使用 Claude Code 的 Magento 统一控制平面网络讨论 |关联",
+  "chineseContent": "许多 Magento 托管都是从“限制性”托管托管开始的，而我们则采取不同的方法，从控制面板开始。专为适应 Magento 开发人员、开源贡献者和运营商而设计，灵活性很重要，尤其是在当今的 AI 标准中。统一控制平面从头开始构建为 AI-Native。这意味着数据管道是实时传输的，为人工智能查询日常操作的所有内容做好准备。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

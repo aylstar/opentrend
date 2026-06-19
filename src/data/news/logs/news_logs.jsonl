@@ -504,3 +504,21 @@
 {"type":"public_translation_error","at":"2026-06-18T02:01:25.858Z","id":"youtube-9b38659d","error":"500 Internal Server Error"}
 {"type":"public_translation_error","at":"2026-06-18T02:01:26.614Z","id":"youtube-1c090964","error":"500 Internal Server Error"}
 {"type":"news_report_generated","at":"2026-06-18T02:01:28.803Z","date":"2026-06-18","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-06-19T02:12:49.069Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:49.366Z","id":"product-hunt-f2d5ff30","source":"Product Hunt","url":"https://www.producthunt.com/products/vela-7","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:53.867Z","id":"financial-times-cc9580d4","source":"Financial Times","url":"https://www.ft.com/content/bec1c122-04d6-4eab-b69c-c33d874cfa5b","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:53.888Z","id":"financial-times-352580be","source":"Financial Times","url":"https://www.ft.com/content/177aab18-c0d4-4219-8279-0c5a355f946b","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:53.891Z","id":"financial-times-49190458","source":"Financial Times","url":"https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:54.686Z","id":"marketwatch-4e72f12e","source":"MarketWatch","url":"https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:54.711Z","id":"marketwatch-2803c6ff","source":"MarketWatch","url":"https://www.marketwatch.com/story/intel-shares-rally-as-trump-says-company-will-build-chips-for-apple-in-the-u-s-c72d8c88?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:54.810Z","id":"marketwatch-8cd0d8ce","source":"MarketWatch","url":"https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:55.387Z","id":"marketwatch-b52bf7cd","source":"MarketWatch","url":"https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:55.392Z","id":"marketwatch-955724eb","source":"MarketWatch","url":"https://www.marketwatch.com/story/memory-stocks-are-having-their-best-year-ever-why-do-they-still-look-so-cheap-a506466d?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-06-19T02:12:55.518Z","id":"yahoo-finance-f07a24fd","source":"Yahoo Finance","url":"https://www.thestreet.com/investing/stocks/cathie-wood-sells-8-7-million-of-tumbling-ai-stock-palantir-pltr?.tsrc=rss","error":"403 Forbidden"}
+{"type":"public_translation_error","at":"2026-06-19T02:14:19.915Z","id":"bloomberg-e6a7992e","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-19T02:14:24.871Z","id":"bloomberg-8da80cbb","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-19T02:14:25.231Z","id":"reuters-d19feaeb","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-19T02:14:27.211Z","id":"reuters-fde1fc5a","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-19T02:14:43.820Z","id":"youtube-bd6c825a","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-06-19T02:14:44.958Z","id":"youtube-86022332","error":"500 Internal Server Error"}
+{"type":"news_report_generated","at":"2026-06-19T02:14:56.502Z","date":"2026-06-19","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-823cefc09e",
+  "slug": "weibo-京彩中国节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "京彩中国节",
+  "summary": "微博热榜第 3 位：京彩中国节，当前热度为 97万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%BD%A9%E4%B8%AD%E5%9B%BD%E8%8A%82%23",
+  "hotValue": "97万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.933Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

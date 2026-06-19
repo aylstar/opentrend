@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0a6b202a4a",
+  "slug": "weibo-端午节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "端午节",
+  "summary": "微博热榜第 34 位：端午节，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.934Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

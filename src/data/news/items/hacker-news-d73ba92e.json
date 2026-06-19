@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Building a robotics research setup that lives next to my desk",
+  "summary": "5 points · 0 comments",
+  "content": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is me testing whether a single person can now do meaningful work on the same class of problems: starting with physical and software setup. A few decisions I'm least settled on, and would love some pushback/feedback on: - single arm vs. bimanual (I went single for cost/space, knowing it rules out things like folding cloth) - not calibrating camera extrinsics/intrinsics for now - RGB vs. RGB-D for from-scratch policies (ACT / Diffusion Policy) And one I'm more confident about but expect disagreement on: not building on ROS 2 / LeRobot, and writing my own stack instead. Happy to get into the reasoning.",
+  "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+  "publishedAt": "2026-06-18T14:51:53.000Z",
+  "points": 5,
+  "id": "hacker-news-d73ba92e",
+  "slug": "hacker-news-d73ba92e",
+  "fetchedAt": "2026-06-19T02:12:49.082Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "在我的办公桌旁边建立一个机器人研究装置",
+  "chineseSummary": "5 分 · 0 条评论",
+  "chineseContent": "快速框架，因为帖子很长：我从 2017 年到 2020 年在 OpenAI 进行了机器人操作研究，当时的桌面设置成本大约是这个的 10 倍，并且需要一个团队来运行。这个项目是我测试一个人现在是否可以在同一类问题上做有意义的工作：从物理和软件设置开始。我最不喜欢的一些决定，并且希望得到一些反馈/反馈： - 单臂与双臂（我选择单臂是为了成本/空间，知道它排除了折叠布之类的东西） - 现在不校准相机外部/内部 - RGB 与 RGB-D 用于从头开始的策略（ACT /扩散策略）还有一个我更有信心但预计会出现分歧：不是在 ROS 2 / LeRobot 上构建，并编写我自己的堆栈相反。很高兴进入推理。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

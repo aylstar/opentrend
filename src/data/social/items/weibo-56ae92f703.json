@@ -1,0 +1,21 @@
+{
+  "id": "weibo-56ae92f703",
+  "slug": "weibo-粽子",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "粽子",
+  "summary": "微博热榜第 42 位：粽子，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%B2%BD%E5%AD%90%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-06-19 10:08:25",
+  "fetchedAt": "2026-06-19T02:14:57.934Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
