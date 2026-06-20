@@ -1,14 +1,14 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Prometheus by Firecrawl",
-  "summary": "A Forward Deployed Agent for web data. Discussion | Link",
+  "originalTitle": "Firecrawl Research Index",
+  "summary": "An index for agents pushing the frontier of AI/ML research Discussion | Link",
   "url": "https://www.producthunt.com/products/extract-by-firecrawl",
-  "publishedAt": "2026-06-12T22:29:57.000Z",
+  "publishedAt": "2026-06-18T20:29:16.000Z",
   "id": "product-hunt-5ed5e229",
   "slug": "product-hunt-5ed5e229",
-  "content": "A Forward Deployed Agent for web data. Discussion | Link",
-  "fetchedAt": "2026-06-15T01:44:29.327Z",
+  "content": "An index for agents pushing the frontier of AI/ML research Discussion | Link",
+  "fetchedAt": "2026-06-20T01:34:52.411Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,9 +16,9 @@
   ],
   "rank": 9,
   "contentStatus": "article-extracted",
-  "chineseTitle": "火行的普罗米修斯",
-  "chineseSummary": "Web 数据的前向部署代理。讨论 |关联",
-  "chineseContent": "Web 数据的前向部署代理。讨论 |关联",
+  "chineseTitle": "Firecrawl 研究索引",
+  "chineseSummary": "推动 AI/ML 研究前沿的代理索引关联",
+  "chineseContent": "推动 AI/ML 研究前沿的代理索引关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

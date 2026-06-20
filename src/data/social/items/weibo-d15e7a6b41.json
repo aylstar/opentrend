@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d15e7a6b41",
+  "slug": "weibo-中考",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "中考",
+  "summary": "微博热榜第 7 位：中考，当前热度为 60万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%23",
+  "hotValue": "60万热度",
+  "author": "",
+  "publishedAt": "2026-06-20 09:30:43",
+  "fetchedAt": "2026-06-20T01:36:36.653Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

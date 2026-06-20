@@ -8,12 +8,12 @@
   "language": "Go",
   "githubUrl": "https://github.com/kenn-io/agentsview",
   "docsUrl": "https://agentsview.io",
-  "stars": 2868,
-  "forks": 246,
-  "openIssues": 82,
+  "stars": 2941,
+  "forks": 251,
+  "openIssues": 106,
   "license": "MIT",
-  "pushedAt": "2026-06-19T00:49:21Z",
-  "updatedAt": "2026-06-19T02:07:13Z",
+  "pushedAt": "2026-06-20T01:02:30Z",
+  "updatedAt": "2026-06-19T23:12:23Z",
   "createdAt": "2026-02-19T19:33:24Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# agentsview\n\nBrowse, search, and track costs across all your AI coding agents. One binary, no\naccounts, everything local.\n\n<p align=\"center\">\n  <img src=\"https://agentsview.io/screenshots/dashboard.png\" alt=\"Analytics dashboard\" width=\"720\">\n</p>\n\n## Install\n\n```bash\n# macOS / Linux\ncurl -fsSL https://agentsview.io/install.sh | bash\n\n# Windows\npowershell -ExecutionPolicy ByPass -c \"irm https://agentsview.io/install.ps1 | iex\"\n```\n\nOr download the **desktop app** (macOS / Windows) from\n[GitHub Releases](https://github.com/kenn-io/agentsview/releases) or via\nhomebrew: `brew install --cask agentsview`\n\nOr run the published Docker image:\n\n```bash\ndocker run --rm -p 127.0.0.1:8080:8080 \\\n  -v agentsview-data:/data \\\n  -v \"$HOME/.claude/projects:/agents/claude:ro\" \\\n  -v \"$HOME/.forge:/agents/forge:ro\" \\\n  -e CLAUDE_PROJECTS_DIR=/agents/claude \\\n  -e FORGE_DIR=/agents/forge \\\n  ghcr.io/kenn-io/agentsview:latest\n```\n\n## Quick Start\n\n```bash\nagentsview serve               # start foreground server\nagentsview serve --background  # start server and return to the shell\nagentsview serve status        # show whether a server is running\nagentsview serve stop          # stop the running server\nagentsview usage daily         # print daily cost summary\n```\n\nOn first run, agentsview discovers sessions from every supported agent on your\nmachine, syncs them into a local SQLite database, and serves a web UI at\n`http://127.0.0.1:8080`.\n\nUse `agentsview serve --background` when you want the dashboard to keep running\nafter your terminal prompt returns. The command prints the server URL, process\nID, and log path (`~/.agentsview/serve.log`). Check on it with\n`agentsview serve status` and shut it down with `agentsview serve stop`.\n\n## Remote / forwarded access\n\nagentsview binds to loopback and validates the request `Host` header to guard\nagainst DNS-rebinding attacks. When you reach it through SSH port-forwarding, a\nreverse proxy, or a remote dev environment (exe.dev, Codespaces, Coder, WSL2),\nthe browser sends a `Host` that the server does not recognize, so API requests\nsuch as `/api/v1/settings` are rejected with `403 Forbidden`.\n\nTo fix this, restart the server with `--public-url` set to the exact origin you\nopen in the browser:\n\n```bash\n# Browser opens http://127.0.0.1:18080 via `ssh -L 18080:127.0.0.1:8080 host`\nagentsview serve --public-url http://127.0.0.1:18080\n\n# Browser opens a forwarded hostname\nagentsview serve --public-url https://your-workspace.exe.dev\n```\n\nUse `--public-origin` (repeatable or comma-separated) to trust additional\nbrowser origins. If you expose the UI beyond loopback, also enable\n`--require-auth`.\n\n## Docker\n\nThe container image defaults to local `agentsview serve`. Set `PG_SERVE=1` to\nswitch the startup command to `agentsview pg serve` instead.\n\n`docker-compose.prod.yaml` is included as a production example:\n\n```bash\ndocker compose -f docker-compose.prod.yaml up -d\n```\n\nThe included compose file persists the agentsview data directory in a na",
-  "generatedAt": "2026-06-19T02:12:38.481Z",
+  "generatedAt": "2026-06-20T01:34:44.155Z",
   "analysis": {
     "oneLine": "agentsview 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "agentsview 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，agentsview 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 2,868，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，agentsview 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 2,941，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

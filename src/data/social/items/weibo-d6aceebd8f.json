@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d6aceebd8f",
+  "slug": "weibo-巴西队领先海地",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "巴西队领先海地",
+  "summary": "微博热榜第 11 位：巴西队领先海地，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E9%A2%86%E5%85%88%E6%B5%B7%E5%9C%B0%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-06-20 09:30:43",
+  "fetchedAt": "2026-06-20T01:36:36.654Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

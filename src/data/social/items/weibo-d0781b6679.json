@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d0781b6679",
+  "slug": "weibo-存储芯片涨价失控",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "存储芯片涨价失控",
+  "summary": "微博热榜第 20 位：存储芯片涨价失控，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-06-20 09:30:43",
+  "fetchedAt": "2026-06-20T01:36:36.654Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

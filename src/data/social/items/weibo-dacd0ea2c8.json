@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dacd0ea2c8",
+  "slug": "weibo-澳大利亚乌龙球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "澳大利亚乌龙球",
+  "summary": "微博热榜第 36 位：澳大利亚乌龙球，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B9%8C%E9%BE%99%E7%90%83%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-06-20 09:30:43",
+  "fetchedAt": "2026-06-20T01:36:36.654Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

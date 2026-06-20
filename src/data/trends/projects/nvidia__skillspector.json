@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/NVIDIA/SkillSpector",
   "docsUrl": "",
-  "stars": 7951,
-  "forks": 600,
-  "openIssues": 71,
+  "stars": 8307,
+  "forks": 633,
+  "openIssues": 82,
   "license": "Apache-2.0",
   "pushedAt": "2026-06-16T21:49:11Z",
-  "updatedAt": "2026-06-19T02:02:31Z",
+  "updatedAt": "2026-06-20T01:32:52Z",
   "createdAt": "2026-03-21T00:28:43Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# SkillSpector\n\n**Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before installing agent skills.\n\n[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)\n[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)\n\n## Overview\n\nAI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute with implicit trust and minimal vetting. Research shows that **26.1% of skills contain vulnerabilities** and **5.2% show likely malicious intent**.\n\nSkillSpector helps you answer: **\"Is this skill safe to install?\"**\n\n## Documentation\n\n- **[Development guide](docs/DEVELOPMENT.md)** — Architecture, package layout, and how to extend the analyzer pipeline.\n\n## Features\n\n- **Multi-format input**: Scan Git repos, URLs, zip files, directories, or single files\n- **64 vulnerability patterns** across 16 categories: prompt injection, data exfiltration, privilege escalation, supply chain, excessive agency, output handling, system prompt leakage, memory poisoning, tool misuse, rogue agent, trigger abuse, dangerous code (AST), taint tracking, YARA signatures, MCP least privilege, and MCP tool poisoning\n- **Two-stage analysis**: Fast static analysis + optional LLM semantic evaluation\n- **Live vulnerability lookups**: SC4 queries [OSV.dev](https://osv.dev) for real-time CVE data with automatic offline fallback\n- **Multiple output formats**: Terminal, JSON, Markdown, and SARIF reports\n- **Risk scoring**: 0-100 score with severity labels and clear recommendations\n\n## Quick Start\n\n### Installation\n\nCreate and activate a virtual environment first (all `make` targets assume the venv is active). Use **uv** or **pip**; the Makefile uses `uv` if available, otherwise `pip`.\n\n```bash\n# Clone the repository\ngit clone https://github.com/NVIDIA/skillspector.git\ncd skillspector\n\n# Create and activate virtual environment\nuv venv .venv && source .venv/bin/activate\n# or: python3 -m venv .venv && source .venv/bin/activate\n\n# Install for production use\nmake install\n\n# Or install with development dependencies\nmake install-dev\n```\n\n### Docker (no Python required)\n\nRun SkillSpector without installing Python by building it locally from the included [Dockerfile](Dockerfile). The image is based on the Docker Official Python `3.12-slim-bookworm` image.\n\n**Build the image:**\n\n```bash\nmake docker-build\n# or: docker build -t skillspector .\n```\n\n**Scan a local directory** by mounting your current directory into `/scan`, the container's working directory:\n\n```bash\ndocker run --rm -v \"$PWD:/scan\" skillspector scan ./my-skill/ --no-llm\n```\n\n**Scan with LLM analysis** by passing credentials with a local `.env` file:\n\n```bash\ncat > .env <<'EOF'\nSKILLSPECTOR_PROVIDER=anthropic\nANTHROPIC_API_KEY=sk-ant-...\nEOF\n```\n\n```bash\ndocker run --rm \\\n  -v \"$PWD:/scan\" \\\n  --env-file .env \\\n  skillspector scan ./my-skill/\n```\n\nOr pass cred",
-  "generatedAt": "2026-06-19T02:12:36.482Z",
+  "generatedAt": "2026-06-20T01:34:41.340Z",
   "analysis": {
     "oneLine": "SkillSpector 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "SkillSpector 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，SkillSpector 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 7,951，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，SkillSpector 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 8,307，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

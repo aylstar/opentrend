@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a5b78cd738",
+  "slug": "weibo-巴西vs海地",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "巴西vs海地",
+  "summary": "微博热榜第 1 位：巴西vs海地，当前热度为 115万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E6%B5%B7%E5%9C%B0%23",
+  "hotValue": "115万热度",
+  "author": "",
+  "publishedAt": "2026-06-20 09:30:43",
+  "fetchedAt": "2026-06-20T01:36:36.653Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

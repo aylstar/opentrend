@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Foglamp",
+  "summary": "Ship AI agents you can actually see Discussion | Link",
+  "url": "https://www.producthunt.com/products/foglamp",
+  "publishedAt": "2026-06-18T16:51:50.000Z",
+  "id": "product-hunt-2a55fdb4",
+  "slug": "product-hunt-2a55fdb4",
+  "content": "The open source observability layer for AI agents built on the Vercel AI SDK. Costs, latency, tokens, distributed traces, evals, and alerts for every generateText / streamText call — in two lines.",
+  "fetchedAt": "2026-06-20T01:34:52.411Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "雾灯",
+  "chineseSummary": "船舶AI代理你可以实际看到讨论|关联",
+  "chineseContent": "基于 Vercel AI SDK 构建的 AI 代理的开源可观察层。每个generateText/streamText调用的成本、延迟、令牌、分布式跟踪、评估和警报——在两行中。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

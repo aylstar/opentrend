@@ -1,0 +1,21 @@
+{
+  "id": "weibo-229b9fe84f",
+  "slug": "weibo-孙怡杀疯了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "孙怡杀疯了",
+  "summary": "微博热榜第 10 位：孙怡杀疯了，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E6%9D%80%E7%96%AF%E4%BA%86%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-06-20 09:30:43",
+  "fetchedAt": "2026-06-20T01:36:36.654Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
