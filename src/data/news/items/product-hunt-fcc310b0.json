@@ -7,20 +7,20 @@
   "publishedAt": "2026-06-19T05:41:54.000Z",
   "id": "product-hunt-fcc310b0",
   "slug": "product-hunt-fcc310b0",
-  "content": "Private AI dictation that lets you operate offline. Discussion | Link",
-  "fetchedAt": "2026-06-20T01:34:52.411Z",
-  "score": 79,
+  "content": "Speak the rough thought and Mutter shapes it into finished writing right where you type, about 3x faster than typing. A 100% on-device mode keeps sensitive words on your Mac.",
+  "fetchedAt": "2026-06-21T01:45:45.251Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球",
     "金融"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 10,
+  "contentStatus": "article-extracted",
   "chineseTitle": "Mutter AI 听写",
   "chineseSummary": "私人人工智能听写，让您可以离线操作。讨论 |关联",
-  "chineseContent": "私人人工智能听写，让您可以离线操作。讨论 |关联",
+  "chineseContent": "说出粗略的想法，Mutter 就会在您打字的地方将其转化为最终的文字，比打字快大约 3 倍。 100% 设备内模式可将敏感词保留在您的 Mac 上。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

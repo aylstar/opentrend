@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/colbymchenry/codegraph",
   "docsUrl": "https://colbymchenry.github.io/codegraph/",
-  "stars": 52016,
-  "forks": 3165,
-  "openIssues": 273,
+  "stars": 52318,
+  "forks": 3182,
+  "openIssues": 248,
   "license": "MIT",
-  "pushedAt": "2026-06-19T21:43:12Z",
-  "updatedAt": "2026-06-20T01:31:20Z",
+  "pushedAt": "2026-06-20T18:23:19Z",
+  "updatedAt": "2026-06-21T01:42:13Z",
   "createdAt": "2026-01-18T21:45:37Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n# CodeGraph\n\n## 🎉 1.0 Released!\n\nAlready installed? Run `codegraph upgrade` to update in place.\n\nFollow [@getcodegraph](https://x.com/getcodegraph) on X for updates.\n\n### Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, and Kiro with Semantic Code Intelligence\n\n**~16% cheaper · ~58% fewer tool calls · 100% local**\n\n### [Documentation & Website →](https://colbymchenry.github.io/codegraph/)\n\n[![npm version](https://img.shields.io/npm/v/@colbymchenry/codegraph.svg)](https://www.npmjs.com/package/@colbymchenry/codegraph)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Self-contained](https://img.shields.io/badge/Node.js-bundled%20%C2%B7%20none%20required-brightgreen.svg)](https://nodejs.org/)\n\n[![Windows](https://img.shields.io/badge/Windows-supported-blue.svg)](#supported-platforms)\n[![macOS](https://img.shields.io/badge/macOS-supported-blue.svg)](#supported-platforms)\n[![Linux](https://img.shields.io/badge/Linux-supported-blue.svg)](#supported-platforms)\n\n[![Claude Code](https://img.shields.io/badge/Claude_Code-supported-blueviolet.svg)](#supported-agents)\n[![Cursor](https://img.shields.io/badge/Cursor-supported-blueviolet.svg)](#supported-agents)\n[![Codex](https://img.shields.io/badge/Codex-supported-blueviolet.svg)](#supported-agents)\n[![opencode](https://img.shields.io/badge/opencode-supported-blueviolet.svg)](#supported-agents)\n[![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-supported-blueviolet.svg)](#supported-agents)\n[![Gemini](https://img.shields.io/badge/Gemini-supported-blueviolet.svg)](#supported-agents)\n[![Antigravity](https://img.shields.io/badge/Antigravity-supported-blueviolet.svg)](#supported-agents)\n[![Kiro](https://img.shields.io/badge/Kiro-supported-blueviolet.svg)](#supported-agents)\n\n<br>\n\n**The CodeGraph platform is coming** — for every PR, know exactly what to test, what could break, which flows are affected, and whether business logic is compromised.\n\n<a href=\"https://getcodegraph.com\"><img alt=\"Join the waitlist for early beta access\" src=\"https://raw.githubusercontent.com/colbymchenry/codegraph/main/assets/waitlist.svg?v=2\" height=\"52\"></a>\n\n<sub>Get <b>early beta access</b> to the hosted product · <a href=\"https://getcodegraph.com\">getcodegraph.com</a></sub>\n\n</div>\n\n## Get Started\n\n### 1. Install the CLI\n\n**No Node.js required** — one command grabs the right build for your OS:\n\n```bash\n# macOS / Linux\ncurl -fsSL https://raw.githubusercontent.com/colbymchenry/codegraph/main/install.sh | sh\n\n# Windows (PowerShell)\nirm https://raw.githubusercontent.com/colbymchenry/codegraph/main/install.ps1 | iex\n```\n\n<details>\n<summary><b>Already have Node? Use npm instead (works on any version)</b></summary>\n\n```bash\nnpm i -g @colbymchenry/codegraph\n```\n\n<sub>CodeGraph bundles its own runtime — nothing to compile, no native build, works the same everywhere. The installer puts `codegraph` on your PATH but **",
-  "generatedAt": "2026-06-20T01:34:45.133Z",
+  "generatedAt": "2026-06-21T01:45:33.459Z",
   "analysis": {
     "oneLine": "codegraph 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "codegraph 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，codegraph 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 52,016，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，codegraph 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 52,318，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

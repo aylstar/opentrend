@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a2909a4f92",
+  "slug": "weibo-今日夏至",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "今日夏至",
+  "summary": "微博热榜第 36 位：今日夏至，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E5%A4%8F%E8%87%B3%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

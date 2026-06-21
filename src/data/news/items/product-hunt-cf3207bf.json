@@ -7,18 +7,18 @@
   "publishedAt": "2026-06-18T19:11:49.000Z",
   "id": "product-hunt-cf3207bf",
   "slug": "product-hunt-cf3207bf",
-  "content": "Send any file, any size, straight from browser to browser Discussion | Link",
-  "fetchedAt": "2026-06-20T01:34:52.411Z",
+  "content": "Drop a file, get a short code, share it. The file streams straight from your browser to theirs over an encrypted WebRTC connection — no upload, no server, no account, nothing stored. Multi-GB files and whole folders work, and if the connection drops it can resume.",
+  "fetchedAt": "2026-06-21T01:45:45.251Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 7,
-  "contentStatus": "fetch-failed",
+  "rank": 11,
+  "contentStatus": "article-extracted",
   "chineseTitle": "只是他妈的发送它",
   "chineseSummary": "直接在浏览器之间发送任何大小的文件 讨论 |关联",
-  "chineseContent": "直接在浏览器之间发送任何大小的文件 讨论 |关联",
+  "chineseContent": "放下文件，获取短代码，然后分享。文件通过加密的 WebRTC 连接直接从您的浏览器传输到他们的浏览器 - 无需上传，无需服务器，无需帐户，也不会存储任何内容。多GB文件和整个文件夹都可以工作，如果连接断开，它可以恢复。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

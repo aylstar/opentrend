@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ee432eb343",
+  "slug": "weibo-端午文旅消费升温",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "端午文旅消费升温",
+  "summary": "微博热榜第 3 位：端午文旅消费升温，当前热度为 109万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E5%8D%87%E6%B8%A9%23",
+  "hotValue": "109万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

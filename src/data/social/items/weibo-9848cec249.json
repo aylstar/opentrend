@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9848cec249",
+  "slug": "weibo-荷兰杀疯了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "荷兰杀疯了",
+  "summary": "微博热榜第 33 位：荷兰杀疯了，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9D%80%E7%96%AF%E4%BA%86%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

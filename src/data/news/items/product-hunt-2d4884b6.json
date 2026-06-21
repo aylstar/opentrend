@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-18T13:31:58.000Z",
   "id": "product-hunt-2d4884b6",
   "slug": "product-hunt-2d4884b6",
-  "content": "Build unreal games with AI agents Discussion | Link",
-  "fetchedAt": "2026-06-20T01:34:52.411Z",
+  "content": "Unreal Engine is the world’s most open and advanced real-time 3D creation platform. Continuously evolving to serve not only its original purpose as a state-of-the-art games engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.",
+  "fetchedAt": "2026-06-21T01:45:45.251Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
+  "rank": 12,
+  "contentStatus": "article-extracted",
   "chineseTitle": "虚幻引擎5.8",
   "chineseSummary": "使用 AI 代理构建虚幻游戏 讨论 |关联",
-  "chineseContent": "使用 AI 代理构建虚幻游戏 讨论 |关联",
+  "chineseContent": "虚幻引擎是世界上最开放、最先进的实时3D创作平台。它不断发展，不仅服务于其作为最先进的游戏引擎的最初目的，如今还为各行业的创作者提供自由和控制，以提供尖端内容、互动体验和身临其境的虚拟世界。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

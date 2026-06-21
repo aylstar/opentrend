@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0abe744db1",
+  "slug": "weibo-孙怡团妥协",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "孙怡团妥协",
+  "summary": "微博热榜第 44 位：孙怡团妥协，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%9B%A2%E5%A6%A5%E5%8D%8F%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.863Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-99c1d01992",
+  "slug": "weibo-德国绝杀进球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "德国绝杀进球",
+  "summary": "微博热榜第 6 位：德国绝杀进球，当前热度为 68万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E7%BB%9D%E6%9D%80%E8%BF%9B%E7%90%83%23",
+  "hotValue": "68万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

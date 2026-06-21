@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "CSSQuake",
+  "summary": "461 points · 100 comments",
+  "content": "Play Quake in your browser with no install. cssQuake renders the game as inspectable HTML and CSS powered by PolyCSS.",
+  "url": "https://cssquake.com/",
+  "publishedAt": "2026-06-20T10:49:53.000Z",
+  "points": 461,
+  "id": "hacker-news-cd0b11b1",
+  "slug": "hacker-news-cd0b11b1",
+  "fetchedAt": "2026-06-21T01:45:45.250Z",
+  "score": 66,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "CSS雷神之锤",
+  "chineseSummary": "461 分 · 100 条评论",
+  "chineseContent": "无需安装即可在浏览器中玩《雷神之锤》。 cssQuake 将游戏渲染为由 PolyCSS 提供支持的可检查 HTML 和 CSS。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

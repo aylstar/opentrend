@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b6e9d76f73",
+  "slug": "weibo-瑶台月下",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "瑶台月下",
+  "summary": "微博热榜第 35 位：瑶台月下，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%91%B6%E5%8F%B0%E6%9C%88%E4%B8%8B%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

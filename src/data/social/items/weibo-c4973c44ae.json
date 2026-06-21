@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c4973c44ae",
+  "slug": "weibo-浪姐总决赛分组",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "浪姐总决赛分组",
+  "summary": "微博热榜第 7 位：浪姐总决赛分组，当前热度为 61万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B%E5%88%86%E7%BB%84%23",
+  "hotValue": "61万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

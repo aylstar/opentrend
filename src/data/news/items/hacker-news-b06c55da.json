@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Loupe – A iOS app that raises awareness about what native apps can see",
+  "summary": "51 points · 11 comments",
+  "content": "Loupe is an iOS and iPadOS app that gives you a hands-on tour of the device fingerprinting surface. It reads real values from public iOS APIs, the same ones any third-party app can call, and shows them to you raw. The point is simple: see what your iPhone quietly exposes, and why each reading helps an app recognize you again.\n\nTrackers don't need your name, email, or location to recognize you online. Each reading isn't necessarily unique on its own, but together they form a fingerprint that follows you across apps and websites.\n\nLoupe groups every reading into three tiers, reflecting the cost of access:\n\nNothing Loupe reads leaves your device unless you explicitly export it. Values are shown raw, without aggregation or hashing. Nothing is uploaded, synced, or shared.\n\nLoupe was written almost entirely by AI coding tools.\n\nThe project uses Xcode's buildable folders (folder references), so new Swift files are picked up automatically with no need to edit the project file.\n\nLoupe also builds for macOS. The Mac version is mostly complete, but a few things still need work before it's polished.\n\nLoupe is free and open source. If it helped you see what apps can quietly learn about your device, the best way to support more work like this is to try Psylo , our privacy-first browser for iPhone and iPad. Psylo gives you proxy-backed browsing, isolated tabs, and anti-fingerprinting protections.\n\nYou can also read why we built Psylo .\n\nThe source code is released under the MIT License .",
+  "url": "https://github.com/mysk-research/loupe",
+  "publishedAt": "2026-06-20T12:08:23.000Z",
+  "points": 51,
+  "id": "hacker-news-b06c55da",
+  "slug": "hacker-news-b06c55da",
+  "fetchedAt": "2026-06-21T01:45:45.249Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Loupe – 一款 iOS 应用程序，可提高人们对本机应用程序可以看到的内容的认识",
+  "chineseSummary": "51 分 · 11 条评论",
+  "chineseContent": "Loupe 是一款 iOS 和 iPadOS 应用程序，可让您亲身体验设备指纹识别表面。它从公共 iOS API 读取真实值（任何第三方应用程序都可以调用这些值），并将它们原始显示给您。要点很简单：看看你的 iPhone 悄悄暴露了什么，以及为什么每次读取都可以帮助应用程序再次识别你。\n\n跟踪器不需要您的姓名、电子邮件或位置即可在线识别您。每次阅读本身不一定是唯一的，但它们一起形成一个指纹，在应用程序和网站上跟随您。\n\nLoupe 将每次阅读分为三层，反映了访问成本：\n\n除非您明确导出，否则放大镜读取的任何内容都不会离开您的设备。值以原始形式显示，没有聚合或散列。没有任何内容被上传、同步或共享。\n\nLoupe几乎完全是由AI编码工具编写的。\n\n该项目使用 Xcode 的可构建文件夹（文件夹引用），因此会自动拾取新的 Swift 文件，无需编辑项目文件。\n\nLoupe 还针对 macOS 进行构建。 Mac 版本已基本完成，但在完善之前仍有一些工作需要完成。\n\nLoupe 是免费且开源的。如果它帮助您了解哪些应用程序可以悄悄地了解您的设备，那么支持更多此类工作的最佳方式就是尝试 Psylo，这是我们适用于 iPhone 和 iPad 的隐私优先浏览器。 Psylo 为您提供代理支持的浏览、独立的选项卡和防指纹保护。\n\n您还可以阅读我们构建 Psylo 的原因。\n\n源代码根据 MIT 许可证发布。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

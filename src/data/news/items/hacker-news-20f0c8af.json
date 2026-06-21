@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: We post-trained a model that pen tests instead of refusing",
+  "summary": "76 points · 33 comments",
+  "content": "Anthropic and OpenAI's publicly available models are explicitly guard-railed so that they refuse offensive tasks. And their cyber-focussed models are gated for enterprises. This leaves SMEs and mid market open to major vulnerabilities. AI can be used as both an adversarial and defensive tool in the world of cyber. A worst case outcome is if only the adversaries have access. Meanwhile, most existing AI cyber tools are just wrappers. The problem is that they still have all the guardrails on from the foundation model where they will inherit its refusals. For this project we've post-trained a specific model on a decade of capture-the-flag contests. This won't be made available to anyone and everyone, but we do believe that responsible SMEs and midmarket companies also need access to these tools in order to identify key vulnerabilities in their systems; not just enterprises. We have developed two modes that run over a CLI: • Security scan: a read-only audit of your local codebase for vulnerabilities. It only reports what it can tie to a specific file and line, so you're not wading through vibes-based findings. • Pen test: an active adversarial mode that will try to break a live system in a sandboxed environment. It proves each vulnerability by running the exploit and showing the request it sent and the response your code gave back, not a confidence score. Currently gated. To show what the scan does, we pointed it at Bank of Anthos and it found an integer overflow in the transfer path: amount is an int, and amount + fee can overflow negative, so the balance check passes and you move funds you don't have. Plus the usual auth and secrets issues. (Bank of Anthos is Google's open-source bank. It's a known app and some of it is intentionally weak, which is the point: you can clone it and re-run the scan yourself instead of trusting a screenshot) The base model is a Kimi K2.6 (open weights). We didn't pretrain from scratch. We post-trained it ourselves, SFT on CTF writeups, then RL with verifiable rewards against actual exploit checks. How the harness works: Along with the model we built the harness to support this. The harness runs on a multi-agent swarm: an orchestrator splits the job across subagents running in parallel, each owning a slice, then synthesising one report. The CLI is a local binary (brew/curl). It reads your code locally, then sends context to our inference API over TLS tcpdump it and you'll see exactly what leaves and where. Install is free; and you can run a scan for free up to 2m tokens, then need to pay for tokens beyond this. For full disclosure this is a product part of Cosine (YC W23) Up for debate: tool safety, e.g. domain verification is one method that proves control but not necessarily permission. How would you gate a pen-test tool given that?",
+  "url": "https://www.argusred.com/cli",
+  "publishedAt": "2026-06-20T13:49:03.000Z",
+  "points": 76,
+  "id": "hacker-news-20f0c8af",
+  "slug": "hacker-news-20f0c8af",
+  "fetchedAt": "2026-06-21T01:45:45.250Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 5,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：我们对一个模型进行了后训练，该模型可以进行渗透测试而不是拒绝",
+  "chineseSummary": "76 分 · 33 条评论",
+  "chineseContent": "Anthropic 和 OpenAI 的公开可用模型受到明确的保护，因此它们拒绝攻击性任务。他们以网络为中心的模型是针对企业的。这使得中小企业和中端市场面临重大漏洞。人工智能在网络世界中既可以用作对抗工具，也可以用作防御工具。最坏的情况是只有对手才能访问。与此同时，大多数现有的人工智能网络工具只是包装。问题是他们仍然拥有基础模型的所有护栏，他们将继承其拒绝。对于这个项目，我们在十年的夺旗比赛中对特定模型进行了后训练。这不会向任何人和每个人提供，但我们确实相信，负责任的中小企业和中端市场公司也需要访问这些工具，以便识别其系统中的关键漏洞；不仅仅是企业。我们开发了两种在 CLI 上运行的模式： • 安全扫描：对本地代码库进行只读漏洞审计。它只报告它可以与特定文件和行关联的内容，因此您不必费力地浏览基于振动的发现。 • 笔测试：一种主动对抗模式，将尝试破坏沙盒环境中的实时系统。它通过运行漏洞并显示它发送的请求和代码返回的响应（而不是置信度分数）来证明每个漏洞。目前已门禁。为了展示扫描的作用，我们将其指向 Bank of Anthos，它发现转移路径中存在整数溢出：金额是整数，金额 + 费用可能会溢出负数，因此余额检查通过，您可以转移没有的资金。加上常见的身份验证和机密问题。 （Bank of Anthos 是 Google 的开源银行。它是一个众所周知的应用程序，其中一些是故意弱化的，这就是要点：您可以克隆",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

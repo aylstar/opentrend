@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7dce77b12c",
+  "slug": "weibo-纸尿裤",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "纸尿裤",
+  "summary": "微博热榜第 38 位：纸尿裤，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BA%B8%E5%B0%BF%E8%A3%A4%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

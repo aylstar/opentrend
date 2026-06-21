@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5ce19878d0",
+  "slug": "weibo-b费-c罗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "B费 C罗",
+  "summary": "微博热榜第 42 位：B费 C罗，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23B%E8%B4%B9+C%E7%BD%97%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

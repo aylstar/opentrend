@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0fd90ea88f",
+  "slug": "weibo-厄瓜多尔vs库拉索",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "厄瓜多尔vs库拉索",
+  "summary": "微博热榜第 32 位：厄瓜多尔vs库拉索，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94vs%E5%BA%93%E6%8B%89%E7%B4%A2%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

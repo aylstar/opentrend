@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c2beb44961",
+  "slug": "weibo-babycare已报案",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "Babycare已报案",
+  "summary": "微博热榜第 21 位：Babycare已报案，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Babycare%E5%B7%B2%E6%8A%A5%E6%A1%88%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

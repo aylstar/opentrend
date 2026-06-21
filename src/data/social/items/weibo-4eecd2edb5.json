@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4eecd2edb5",
+  "slug": "weibo-张月第一个抢的是陈瑶",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "张月第一个抢的是陈瑶",
+  "summary": "微博热榜第 34 位：张月第一个抢的是陈瑶，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8A%A2%E7%9A%84%E6%98%AF%E9%99%88%E7%91%B6%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-21 09:37:44",
+  "fetchedAt": "2026-06-21T01:47:27.862Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

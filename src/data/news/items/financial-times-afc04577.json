@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Did Anthropic talk its way into an AI export ban?",
+  "summary": "FT analysis shows company warned about dangers of advanced AI far more than rival OpenAI this year",
+  "url": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
+  "publishedAt": "2026-06-20T11:00:09.000Z",
+  "id": "financial-times-afc04577",
+  "slug": "financial-times-afc04577",
+  "content": "FT analysis shows company warned about dangers of advanced AI far more than rival OpenAI this year",
+  "fetchedAt": "2026-06-21T01:45:45.260Z",
+  "score": 88,
+  "sourceWeight": 93,
+  "tags": [
+    "AI"
+  ],
+  "rank": 11,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Anthropic 是否通过谈判达成了 AI 出口禁令？",
+  "chineseSummary": "英国《金融时报》分析显示，该公司今年对先进人工智能危险的警告远远超过竞争对手 OpenAI",
+  "chineseContent": "英国《金融时报》分析显示，该公司今年对先进人工智能危险的警告远远超过竞争对手 OpenAI",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
