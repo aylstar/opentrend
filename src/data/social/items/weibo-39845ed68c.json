@@ -1,0 +1,21 @@
+{
+  "id": "weibo-39845ed68c",
+  "slug": "weibo-伊朗暂升小组第一",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "伊朗暂升小组第一",
+  "summary": "微博热榜第 7 位：伊朗暂升小组第一，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%8D%87%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-06-22 09:38:31",
+  "fetchedAt": "2026-06-22T01:46:17.165Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

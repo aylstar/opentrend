@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+  "summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips. The videos […]",
+  "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+  "publishedAt": "2026-06-21T14:19:46.000Z",
+  "id": "the-verge-f30b2f33",
+  "slug": "the-verge-f30b2f33",
+  "content": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company paid them to create the clips. The videos posted on social media look legit at first, but there are subtle clues that betray them as fraudulent. For instance, when examined closely, one clip shows someone visiting “poiymarket.com” rather than polymarket.com. According to the Journal’s investigation, none of the bets placed in the over 1,100 videos it reviewed were real. In 118 videos, the creators were shown reacting to winning bets totaling almost $900,000. But in reality, those bets would have lost $166,000. Since the Journal started asking questions, many creators have scrubbed the videos from their accounts, and Polymarket has taken down sites like “poiymarket” which were used as part of the ploy.",
+  "fetchedAt": "2026-06-22T01:45:25.419Z",
+  "score": 90,
+  "sourceWeight": 80,
+  "tags": [
+    "金融",
+    "视频"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "据报道，Polymarket 花钱请人发布自己下注的虚假视频",
+  "chineseSummary": "根据《华尔街日报》的一项调查，Polymarket 一直在付钱让人们拍摄自己在社交媒体上进行虚假投注和庆祝虚假胜利的视频。 《华尔街日报》发现了 1,100 多个欺骗性剪辑，并与创作者进行了交谈，尽管他们没有在视频中声明这一点，但确认该公司向他们支付了制作这些剪辑的费用。视频 […]",
+  "chineseContent": "根据《华尔街日报》的一项调查，Polymarket 一直在付钱让人们拍摄自己在社交媒体上进行虚假投注和庆祝虚假胜利的视频。 《华尔街日报》发现了 1,100 多个欺骗性剪辑，并与创作者进行了交谈，尽管他们没有在视频中声明这一点，但确认该公司向他们支付了制作这些剪辑的费用。社交媒体上发布的视频乍一看似乎是合法的，但有一些微妙的线索表明它们是欺诈性的。例如，经过仔细检查，一个片段显示有人访问“poiymarket.com”而不是polymarket.com。根据《华尔街日报》的调查，其审查的 1,100 多个视频中的投注没有一个是真实的。在 118 个视频中，创作者们展示了赢得总计近 90 万美元的赌注后的反应。但实际上，这些赌注会损失 166,000 美元。自从《华尔街日报》开始提问以来，许多创作者已经从他们的账户中删除了这些视频，Polymarket 也关闭了“poiymarket”等被用作该策略一部分的网站。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

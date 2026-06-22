@@ -1,0 +1,21 @@
+{
+  "id": "weibo-018b1f903b",
+  "slug": "weibo-电脑也一天一个价了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "电脑也一天一个价了",
+  "summary": "微博热榜第 9 位：电脑也一天一个价了，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%84%91%E4%B9%9F%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E4%BB%B7%E4%BA%86%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-06-22 09:38:31",
+  "fetchedAt": "2026-06-22T01:46:17.165Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-98b9e4b018",
+  "slug": "weibo-niko",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "niko",
+  "summary": "微博热榜第 22 位：niko，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23niko%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-06-22 09:38:31",
+  "fetchedAt": "2026-06-22T01:46:17.166Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

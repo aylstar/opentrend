@@ -1,0 +1,93 @@
+{
+  "slug": "2026-06-22",
+  "date": "2026-06-22",
+  "title": "2026年06月22日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-06-22T01:45:08.997Z",
+  "stats": {
+    "totalProjects": 19,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "deusdata__codebase-memory-mcp",
+      "microsoft__markitdown",
+      "harry0703__moneyprinterturbo"
+    ],
+    "weekly": [
+      "deusdata__codebase-memory-mcp",
+      "chopratejas__headroom",
+      "panniantong__agent-reach",
+      "iptv-org__iptv",
+      "n0-computer__iroh",
+      "google-research__timesfm",
+      "nvidia__skillspector",
+      "asgeirtj__system_prompts_leaks",
+      "calesthio__openmontage",
+      "withastro__flue"
+    ],
+    "monthly": [
+      "chopratejas__headroom",
+      "harry0703__moneyprinterturbo",
+      "egonex-ai__understand-anything",
+      "esengine__deepseek-reasonix",
+      "apple__container",
+      "colbymchenry__codegraph",
+      "hardikpandya__stop-slop",
+      "microsoft__markitdown",
+      "leonxlnx__taste-skill",
+      "mvanhorn__last30days-skill"
+    ],
+    "commercial": [
+      "deusdata__codebase-memory-mcp",
+      "chopratejas__headroom",
+      "panniantong__agent-reach",
+      "iptv-org__iptv",
+      "n0-computer__iroh",
+      "google-research__timesfm"
+    ],
+    "deployable": [
+      "deusdata__codebase-memory-mcp",
+      "chopratejas__headroom",
+      "panniantong__agent-reach",
+      "iptv-org__iptv",
+      "n0-computer__iroh",
+      "google-research__timesfm"
+    ],
+    "risky": [
+      "deusdata__codebase-memory-mcp",
+      "chopratejas__headroom",
+      "panniantong__agent-reach",
+      "iptv-org__iptv",
+      "n0-computer__iroh",
+      "google-research__timesfm"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 19 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "deusdata__codebase-memory-mcp",
+    "chopratejas__headroom",
+    "panniantong__agent-reach",
+    "iptv-org__iptv",
+    "n0-computer__iroh",
+    "google-research__timesfm",
+    "nvidia__skillspector",
+    "asgeirtj__system_prompts_leaks",
+    "calesthio__openmontage",
+    "withastro__flue",
+    "harry0703__moneyprinterturbo",
+    "egonex-ai__understand-anything",
+    "esengine__deepseek-reasonix",
+    "apple__container",
+    "colbymchenry__codegraph",
+    "hardikpandya__stop-slop",
+    "microsoft__markitdown",
+    "leonxlnx__taste-skill",
+    "mvanhorn__last30days-skill"
+  ]
+}

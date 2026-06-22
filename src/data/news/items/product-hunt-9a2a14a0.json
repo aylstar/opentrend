@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-20T00:56:01.000Z",
   "id": "product-hunt-9a2a14a0",
   "slug": "product-hunt-9a2a14a0",
-  "content": "Find out if you live forever in the brain of the LLMs Discussion | Link",
-  "fetchedAt": "2026-06-21T01:45:45.251Z",
+  "content": "The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?",
+  "fetchedAt": "2026-06-22T01:45:25.417Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 7,
-  "contentStatus": "fetch-failed",
+  "rank": 10,
+  "contentStatus": "article-extracted",
   "chineseTitle": "你在重量级吗？",
   "chineseSummary": "看看你是否永远活在法学硕士的大脑中关联",
-  "chineseContent": "看看你是否永远活在法学硕士的大脑中关联",
+  "chineseContent": "权重是构成人工智能大脑的数十亿个数字。输入一个名称，看看领先的人工智能模型对它的识别程度如何。你在举重吗？",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

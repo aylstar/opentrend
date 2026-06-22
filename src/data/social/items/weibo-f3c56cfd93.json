@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f3c56cfd93",
+  "slug": "weibo-新西兰vs埃及",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "新西兰vs埃及",
+  "summary": "微博热榜第 42 位：新西兰vs埃及，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0vs%E5%9F%83%E5%8F%8A%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-06-22 09:38:31",
+  "fetchedAt": "2026-06-22T01:46:17.166Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -7,8 +7,8 @@
   "publishedAt": "2026-06-19T11:37:24.000Z",
   "id": "product-hunt-e8d6eeab",
   "slug": "product-hunt-e8d6eeab",
-  "content": "AI video studio: text & image to video, with real control Discussion | Link",
-  "fetchedAt": "2026-06-21T01:45:45.251Z",
+  "content": "Pixlie is an AI video studio for creators who want control—not a black-box generator. Browse your library, queue jobs in the cloud, and track renders in the app. Same account on pixlys.com and iOS.What makes it different: Text2Video, Image2Video, library & cloud queue Granular creative workflow not just “type and pray” Live on iOS App Store; Google play web at pixlys.com -Built solo by a refugee founder in Helsinki shipped fast, iterated in production",
+  "fetchedAt": "2026-06-22T01:45:25.418Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "全球",
     "视频"
   ],
-  "rank": 6,
-  "contentStatus": "fetch-failed",
+  "rank": 12,
+  "contentStatus": "article-extracted",
   "chineseTitle": "皮克斯利",
   "chineseSummary": "AI视频工作室：文字图片转视频，真实掌控 讨论|关联",
-  "chineseContent": "AI视频工作室：文字图片转视频，真实掌控 讨论|关联",
+  "chineseContent": "Pixlie 是一个人工智能视频工作室，专为想要控制的创作者而设计，而不是黑匣子生成器。浏览您的库、在云中对作业进行排队并在应用程序中跟踪渲染。 pixlys.com 和 iOS 上的帐户相同。有何不同：Text2Video、Image2Video、库和云队列 精细的创意工作流程不仅仅是“打字和祈祷” Google play 网页位于 pixlys.com - 由赫尔辛基的一位难民创始人单独构建，发货速度快，在生产中迭代",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

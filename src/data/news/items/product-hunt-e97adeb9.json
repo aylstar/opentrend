@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-19T02:39:34.000Z",
   "id": "product-hunt-e97adeb9",
   "slug": "product-hunt-e97adeb9",
-  "content": "a small hosted memory layer for AI agents Discussion | Link",
-  "fetchedAt": "2026-06-21T01:45:45.251Z",
+  "content": "Most AI agent workflows lose useful context between sessions, tools, and chats. The usual fixes are either too manual, like copying notes into docs, or too heavy, like setting up a database, vector store, or custom RAG stack. pumaDB gives agents a simple shared place to save and reuse notes, facts, preferences, project context, transcripts, task state, and other useful memory. No database setup, vector DB, or infrastructure to manage",
+  "fetchedAt": "2026-06-22T01:45:25.417Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
+  "rank": 11,
+  "contentStatus": "article-extracted",
   "chineseTitle": "美洲狮数据库",
   "chineseSummary": "一个用于人工智能代理的小型托管内存层关联",
-  "chineseContent": "一个用于人工智能代理的小型托管内存层关联",
+  "chineseContent": "大多数 AI 代理工作流程会丢失会话、工具和聊天之间的有用上下文。通常的修复要么过于手动，例如将注释复制到文档中，要么过于繁重，例如设置数据库、矢量存储或自定义 RAG 堆栈。 pumaDB 为代理提供了一个简单的共享位置来保存和重用注释、事实、偏好、项目上下文、记录、任务状态和其他有用的内存。无需管理数据库设置、矢量数据库或基础设施",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

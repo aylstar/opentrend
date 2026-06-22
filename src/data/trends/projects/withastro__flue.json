@@ -1,0 +1,70 @@
+{
+  "slug": "withastro__flue",
+  "owner": "withastro",
+  "repo": "flue",
+  "name": "flue",
+  "fullName": "withastro/flue",
+  "description": "The sandbox agent framework.",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/withastro/flue",
+  "docsUrl": "https://www.flueframework.com",
+  "stars": 6305,
+  "forks": 354,
+  "openIssues": 24,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-06-21T06:40:47Z",
+  "updatedAt": "2026-06-22T01:33:29Z",
+  "createdAt": "2026-02-07T22:27:04Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "自部署",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# Flue — The Agent Harness Framework\n\nNot another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness.\n\n```ts\n// agents/triage.ts\nimport { defineAgent, type AgentRouteHandler } from '@flue/runtime';\nimport { local } from '@flue/runtime/node';\nimport triage from '../skills/triage/SKILL.md' with { type: 'skill' };\nimport verify from '../skills/verify/SKILL.md' with { type: 'skill' };\nimport * as githubTools from '../tools/github.ts';\n\n// Give agents the context and autonomy to solve complex tasks:\nconst instructions = `\nTriage a bug report end-to-end: reproduce the bug,\ndiagnose the root cause, verify whether the behavior is\nintentional, and attempt a fix.\n\n...`;\n\n// Expose (and protect) your agents over HTTP:\nexport const route: AgentRouteHandler = async (_c, next) => next();\n\n// Compose the complete harness your agent needs to do real work,\n// complete with virtual, local, or remote container sandbox.\nexport default defineAgent(() => ({\n  model: 'anthropic/claude-sonnet-4-6',\n  tools: [...githubTools],\n  skills: [triage, verify],\n  sandbox: local(),\n  instructions,\n}));\n```\n\n## The framework for building the next generation of agents.\n\nThe first agents were built with raw LLM API calls. This worked for simple chatbots and scripted tasks, but not much else.\n\nAgents like Claude Code and Codex broke the mold. These were _real agents._ Autonomous. You give them a task — not a pre-defined series of steps — and trust them to complete it using the context and tools that you provide.\n\n**Flue unlocks this new architecture for agents.** Its built-in TypeScript harness gives any model the context and environment it needs for truly autonomous work: sessions, tools, skills, instructions, filesystem access, and a secure sandbox to run in. Run your agents locally via CLI or deploy them to your hosted runtime of choice.\n\n## Features\n\nBuild agents that can safely take action, maintain continuity, and connect to the systems where work already happens.\n\n- **[Agents](https://flueframework.com/docs/guide/building-agents/)** — Build agents that can keep context across conversations and events as they autonomously work toward a goal.\n- **[Workflows](https://flueframework.com/docs/guide/workflows/)** — Run structured automations where your code guides agent reasoning from a clear input to a finished result.\n- **[Sandboxes](https://flueframework.com/docs/guide/sandboxes/)** — Give agents a secure environment where they can use tools, modify files, and autonomously complete real work.\n- **[Durable Execution](https://flueframework.com/docs/guide/durable-execution/)** — Learn how agents preserve progress through failures and restarts with durable recovery for accepted work.\n- **[Subagents](https://flueframework.com/docs/guide/subagents/)** — Define specialized roles for different tasks, then let your agent delegate work to the right expert.\n- **[Tools](https://flueframework.com/docs/guide/tools/)** — Give agents typed actions f",
+  "generatedAt": "2026-06-22T01:45:06.329Z",
+  "analysis": {
+    "oneLine": "flue 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
+    "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
+    "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
+    "detailParagraphs": [
+      "flue 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
+      "如果把它放进实际使用场景，flue 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 6,305，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "团队 AI 编码规范",
+      "Codex/Claude Code 工作流优化",
+      "代码评审清单",
+      "开发者培训材料"
+    ],
+    "interpretation": "flue 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升 Claude Code 或同类编码 Agent 的执行稳定性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "自部署",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-06-22T01:45:06.330Z"
+}
