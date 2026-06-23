@@ -1,0 +1,72 @@
+{
+  "slug": "teslamate-org__teslamate",
+  "owner": "teslamate-org",
+  "repo": "teslamate",
+  "name": "teslamate",
+  "fullName": "teslamate-org/teslamate",
+  "description": "A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]",
+  "language": "Elixir",
+  "githubUrl": "https://github.com/teslamate-org/teslamate",
+  "docsUrl": "https://docs.teslamate.org",
+  "stars": 8571,
+  "forks": 966,
+  "openIssues": 75,
+  "license": "AGPL-3.0",
+  "pushedAt": "2026-06-20T01:06:19Z",
+  "updatedAt": "2026-06-23T01:05:14Z",
+  "createdAt": "2019-03-31T20:27:26Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 3,
+  "readmeExcerpt": "# TeslaMate\n\n[![License](https://img.shields.io/badge/license-AGPL--3.0-green.svg)](https://github.com/teslamate-org/teslamate/blob/main/LICENSE)\n[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10859/badge)](https://www.bestpractices.dev/projects/10859)\n[![CI](https://github.com/teslamate-org/teslamate/actions/workflows/devops.yml/badge.svg)](https://github.com/teslamate-org/teslamate/actions/workflows/devops.yml)\n[![Publish Docker images](https://github.com/teslamate-org/teslamate/actions/workflows/buildx.yml/badge.svg)](https://github.com/teslamate-org/teslamate/actions/workflows/buildx.yml)\n[![Coverage](https://coveralls.io/repos/github/teslamate-org/teslamate/badge.svg?branch=main)](https://coveralls.io/github/teslamate-org/teslamate?branch=main)\n[![current version](https://img.shields.io/docker/v/teslamate/teslamate/latest)](https://hub.docker.com/r/teslamate/teslamate)\n[![docker image size](https://img.shields.io/docker/image-size/teslamate/teslamate/latest)](https://hub.docker.com/r/teslamate/teslamate)\n[![docker pulls](https://img.shields.io/docker/pulls/teslamate/teslamate?color=%23099cec)](https://hub.docker.com/r/teslamate/teslamate)\n\nA powerful, self-hosted data logger for your Tesla.\n\n- Written in **[Elixir](https://elixir-lang.org/)**\n- Data is stored in a **Postgres** database\n- Visualization and data analysis with **Grafana**\n- Vehicle data is published to a local **[MQTT](https://en.wikipedia.org/wiki/MQTT)** Broker\n\n## ⚠️ Security Warning\n\n> [!CAUTION]\n> **Use Official Versions Only**\n\nTo protect yourself from malicious forks, malware, and data theft, please ensure you only obtain TeslaMate from the official source:\n\n- Official Repository: [https://github.com/teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)\n- Official Documentation: [https://docs.teslamate.org](https://docs.teslamate.org/)\n\nWe have received reports of deceptive websites and unofficial mobile apps (e.g. on the App Store) using the TeslaMate name to distribute modified or harmful versions. If you are using a version from another source, your Tesla account credentials and vehicle data may be at risk.\n\n## Documentation\n\nThe documentation is available at [https://docs.teslamate.org](https://docs.teslamate.org/)\n\n## Features\n\n### General\n\n- High precision drive data recording\n- No additional vampire drain: the car will fall asleep as soon as possible\n- Automatic address lookup\n- Easy integration into Home Assistant (via MQTT)\n- Easy integration into Node-Red & Telegram (via MQTT)\n- Geo-fencing feature to create custom locations\n- Supports multiple vehicles per Tesla Account\n- Charge cost tracking\n- Import from TeslaFi and tesla-apiscraper\n- Customizable theme mode (light, dark, or system default)\n\n### Dashboards\n\nSample screenshots of bundled dashboards can be seen by clicking the links below.\n\n- [Battery Health](https://docs.teslamate.org/docs/screenshots/#battery-health)\n- [Charge Level](https://docs.teslamate.org/docs/screensho",
+  "generatedAt": "2026-06-23T01:28:32.547Z",
+  "analysis": {
+    "oneLine": "teslamate 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
+    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
+    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "detailParagraphs": [
+      "teslamate 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
+      "如果把它放进实际使用场景，teslamate 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 8,571，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Elixir 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "公开信息风险排查",
+      "账号暴露核查",
+      "安全培训演示",
+      "企业攻击面初筛"
+    ],
+    "interpretation": "teslamate 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Elixir 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 中出现 Docker，可进一步核对镜像、端口和持久化目录。",
+    "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
+    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Elixir 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险主要是合规、隐私和误报，需要配套人工复核机制。",
+    "recommendation": 3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-06-23T01:28:32.548Z"
+}

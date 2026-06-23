@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b2ac18fb90",
+  "slug": "weibo-白玉兰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "白玉兰",
+  "summary": "微博热榜第 50 位：白玉兰，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

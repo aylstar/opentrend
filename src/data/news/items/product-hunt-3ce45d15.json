@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-20T15:00:44.000Z",
   "id": "product-hunt-3ce45d15",
   "slug": "product-hunt-3ce45d15",
-  "content": "Foundation models for agentic coding and long-horizon work Discussion | Link",
-  "fetchedAt": "2026-06-22T01:45:25.417Z",
+  "content": "Poolside is a foundation model company bringing intelligence to everywhere work gets done. Their mission is to drive abundance for humanity by creating artificial general intelligence.",
+  "fetchedAt": "2026-06-23T01:28:41.074Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
+  "rank": 13,
+  "contentStatus": "article-extracted",
   "chineseTitle": "拉古纳池畔酒店",
   "chineseSummary": "代理编码和长期工作的基础模型关联",
-  "chineseContent": "代理编码和长期工作的基础模型关联",
+  "chineseContent": "Poolside 是一家基础模型公司，将智能带入任何完成工作的地方。他们的使命是通过创造通用人工智能来为人类带来丰富。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

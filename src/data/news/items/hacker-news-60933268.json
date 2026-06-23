@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Deno Desktop",
+  "summary": "1023 points · 371 comments",
+  "content": "deno desktop turns a Deno project (anything from a single TypeScript file to a Next.js app) into a self-contained desktop application. The output is a redistributable binary that bundles your code, the Deno runtime, and a web rendering engine into one bundle per platform.\n\ndeno desktop ships in Deno v2.9.0 and is not in a stable release yet. To try it now, run deno upgrade canary to install the canary build. The command, configuration keys, and TypeScript APIs may still change before the feature is stable.\n\nWeb technology is the most widely-known UI toolkit in the world. Desktop apps built on web stacks (Electron, Tauri, Electrobun) take advantage of that, but each has tradeoffs you have to live with: huge binaries, missing platform support, no JavaScript ecosystem, no built-in update story, no framework integration.\n\ndeno desktop is opinionated about those tradeoffs:\n\nThe compiled binary opens a window pointed at a local HTTP server bound to your Deno.serve() handler. Run it directly:\n\nDeno.serve() automatically binds to the address the webview navigates to, so you do not need to pass a port or hostname. See HTTP serving for details.\n\nWhat's in this section Jump to heading #",
+  "url": "https://docs.deno.com/runtime/desktop/",
+  "publishedAt": "2026-06-22T05:38:40.000Z",
+  "points": 1023,
+  "id": "hacker-news-60933268",
+  "slug": "hacker-news-60933268",
+  "fetchedAt": "2026-06-23T01:28:41.074Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Deno 桌面",
+  "chineseSummary": "1023 分 · 371 条评论",
+  "chineseContent": "deno 桌面将 Deno 项目（从单个 TypeScript 文件到 Next.js 应用程序的任何项目）转变为独立的桌面应用程序。输出是一个可再发行的二进制文件，它将您的代码、Deno 运行时和 Web 渲染引擎捆绑到每个平台的一个捆绑包中。\n\ndeno 桌面在 Deno v2.9.0 中发布，但尚未处于稳定版本。要立即尝试，请运行 deno Upgrade canary 来安装 canary 版本。在功能稳定之前，命令、配置键和 TypeScript API 仍可能发生变化。\n\nWeb 技术是世界上最广为人知的 UI 工具包。基于 Web 堆栈（Electron、Tauri、Electrobun）构建的桌面应用程序利用了这一点，但每个应用程序都需要权衡：庞大的二进制文件、缺少平台支持、没有 JavaScript 生态系统、没有内置更新故事、没有框架集成。\n\ndeno Desktop 对这些权衡有自己的看法：\n\n编译后的二进制文件会打开一个窗口，指向绑定到 Deno.serve() 处理程序的本地 HTTP 服务器。直接运行：\n\nDeno.serve() 自动绑定到 Web 视图导航到的地址，因此您不需要传递端口或主机名。有关详细信息，请参阅 HTTP 服务。\n\n本节内容 跳转到标题 #",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

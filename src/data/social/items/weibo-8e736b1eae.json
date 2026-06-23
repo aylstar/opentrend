@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8e736b1eae",
+  "slug": "weibo-会接话是一种高级能力",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "会接话是一种高级能力",
+  "summary": "微博热榜第 6 位：会接话是一种高级能力，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BC%9A%E6%8E%A5%E8%AF%9D%E6%98%AF%E4%B8%80%E7%A7%8D%E9%AB%98%E7%BA%A7%E8%83%BD%E5%8A%9B%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

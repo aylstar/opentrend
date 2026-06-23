@@ -8,16 +8,17 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/iptv-org/iptv",
   "docsUrl": "https://iptv-org.github.io",
-  "stars": 127146,
-  "forks": 6980,
-  "openIssues": 19,
+  "stars": 127550,
+  "forks": 7008,
+  "openIssues": 40,
   "license": "Unlicense",
-  "pushedAt": "2026-06-22T00:42:45Z",
-  "updatedAt": "2026-06-22T01:44:08Z",
+  "pushedAt": "2026-06-23T00:39:33Z",
+  "updatedAt": "2026-06-23T01:28:30Z",
   "createdAt": "2018-11-14T22:00:57Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "weekly",
+    "monthly"
   ],
   "tags": [
     "效率工具",
@@ -26,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)\r\n\r\nCollection of publicly available IPTV (Internet Protocol television) channels from all over the world.\r\n\r\n## Table of contents\r\n\r\n- 🚀 [How to use?](#how-to-use)\r\n- 📺 [Playlists](#playlists)\r\n- 🗓 [EPG](#epg)\r\n- 🗄 [Database](#database)\r\n- 👨‍💻 [API](#api)\r\n- 📚 [Resources](#resources)\r\n- 💬 [Discussions](#discussions)\r\n- ❓ [FAQ](#faq)\r\n- 🛠 [Contribution](#contribution)\r\n- ⚖ [Legal](#legal)\r\n- © [License](#license)\r\n\r\n## How to use?\r\n\r\nSimply paste the link to one of the playlists into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.\r\n\r\n![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)\r\n\r\n## Playlists\r\n\r\nThe main playlist containing all channels available in the repository can be found at:\r\n\r\n```\r\nhttps://iptv-org.github.io/iptv/index.m3u\r\n```\r\n\r\nLinks to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.\r\n\r\n## EPG\r\n\r\n[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [iptv-org/epg](https://github.com/iptv-org/epg) repository.\r\n\r\n## Database\r\n\r\nAll channel data is taken from the [iptv-org/database](https://github.com/iptv-org/database) repository. If you find any errors please open a new [issue](https://github.com/iptv-org/database/issues) there.\r\n\r\n## API\r\n\r\nThe API documentation can be found in the [iptv-org/api](https://github.com/iptv-org/api) repository.\r\n\r\n## Resources\r\n\r\nLinks to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.\r\n\r\n## Discussions\r\n\r\nIf you have a question or idea, welcome to the [Discussions](https://github.com/orgs/iptv-org/discussions).\r\n\r\n## FAQ\r\n\r\nThe answers to the most popular questions can be found in the [FAQ.md](FAQ.md) file.\r\n\r\n## Contribution\r\n\r\nPlease make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.\r\n\r\nAnd thank you to everyone who has already contributed!\r\n\r\n### Backers\r\n\r\n<a href=\"https://opencollective.com/iptv-org\"><img src=\"https://opencollective.com/iptv-org/backers.svg?width=890\" /></a>\r\n\r\n### Contributors\r\n\r\n<a href=\"https://github.com/iptv-org/iptv/graphs/contributors\"><img src=\"https://opencollective.com/iptv-org/contributors.svg?width=890\" /></a>\r\n\r\n## Legal\r\n\r\nNo video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by opening an [issue](https://github.com/iptv-org/iptv/issues/new?template=6_copyright",
-  "generatedAt": "2026-06-22T01:45:04.498Z",
+  "generatedAt": "2026-06-23T01:28:31.099Z",
   "analysis": {
     "oneLine": "iptv 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "iptv 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，iptv 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 127,146，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，iptv 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 127,550，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

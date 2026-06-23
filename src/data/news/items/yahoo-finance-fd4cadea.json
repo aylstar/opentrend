@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Wall Street weighs US-Iran talks, AI trade",
+  "summary": "US stock futures were little changed after a weak session on Wall Street as pressure on Big Tech and ongoing US-Iran talks weighed on sentiment.",
+  "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-wall-street-weighs-us-iran-talks-ai-trade-230258084.html?.tsrc=rss",
+  "publishedAt": "2026-06-22T23:02:58.000Z",
+  "id": "yahoo-finance-fd4cadea",
+  "slug": "yahoo-finance-fd4cadea",
+  "content": "US stock futures were little changed after a weak session on Wall Street amid pressure on Big Tech and ongoing US-Iran talks.\n\nFutures attached to the Dow Jones Industrial Average (YM=F) traded flat. Futures attached to the benchmark S&P 500 (ES=F) slipped 0.1%. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) dipped 0.2%.\n\nStocks mostly fell on Monday. SpaceX ( SPCX ) stock slid for the third day in a row as other Big Tech players also tumbled. In the background, ongoing negotiations between the US and Iran kept investors on edge even as officials reported progress .\n\nOn Tuesday, FedEx ( FDX ) and Cerebras Systems ( CBRS ) will report earnings. Cerebras System’s results will be the AI chip company’s first since going public in May.\n\nThe key events this week include Micron ( MU ) earnings on Wednesday and the release of May's PCE report — the Federal Reserve's preferred measure of inflation — on Thursday.",
+  "fetchedAt": "2026-06-23T01:28:41.076Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 29,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因华尔街权衡美伊谈判和 AI 交易而波动",
+  "chineseSummary": "由于大型科技公司面临的压力以及正在进行的美伊谈判打压了市场情绪，华尔街股市疲软后，美国股指期货几乎没有变化。",
+  "chineseContent": "由于大型科技公司面临压力以及正在进行的美伊谈判，华尔街股市表现疲软，美国股指期货几乎没有变化。\n\n道琼斯工业平均指数 (YM=F) 期货交易持平。基准标准普尔 500 指数期货 (ES=F) 下跌 0.1%。以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货下跌 0.2%。\n\n周一股市大多下跌。 SpaceX (SPCX) 股价连续第三天下跌，其他大型科技公司也纷纷下跌。在此背景下，尽管官员们报告了进展，但美国和伊朗之间正在进行的谈判仍让投资者紧张不安。\n\n周二，联邦快递 (FDX) 和 Cerebras Systems (CBRS) 将公布收益。 Cerebras System 的业绩将是这家人工智能芯片公司自 5 月份上市以来的首份业绩。\n\n本周的关键事件包括周三公布的美光 (MU) 财报以及周四发布的 5 月份 PCE 报告（美联储首选的通胀指标）。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

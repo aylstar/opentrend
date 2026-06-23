@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e8b99ab434",
+  "slug": "weibo-挪威vs塞内加尔",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "挪威vs塞内加尔",
+  "summary": "微博热榜第 16 位：挪威vs塞内加尔，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%81vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

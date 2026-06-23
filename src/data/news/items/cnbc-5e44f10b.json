@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Nvidia's stock struggles as Kalshi traders bet chip prices are coming down",
+  "summary": "Shares of Nvidia have been faltering recently — and Kalshi traders predict that what the company can charge for chips is also declining.",
+  "url": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html",
+  "publishedAt": "2026-06-22T20:09:04.000Z",
+  "id": "cnbc-5e44f10b",
+  "slug": "cnbc-5e44f10b",
+  "content": "Shares of Nvidia have been faltering recently — and Kalshi traders predict that what the company can charge for chips is also declining.\n\nWhile the artificial intelligence chipmaker is up about 12% in 2026, shares have been skidding in the past month, losing roughly 3%. In comparison, the VanEck Semiconductor ETF (SMH) is up 84% this year, and the fund has advanced 15% in the past month.\n\nNvidia has sat on the sidelines as Wall Street has focused on memory chips and infrastructure in the next steps of the AI buildout. This has been driving gains for companies like Micron Technology and Sandisk , both up nearly 60% in the past month alone.\n\nAs shares of Nvidia have been languishing, the price of computing power for the company's B200 chip has also dropped. Nvidia's B200 is the company's flagship graphics processing unit or GPU that helps run data centers at a massive scale.\n\nB200's compute per hour price climbed to $6.11 on May 30, the highest within the past three months, according to Ornn , which provides live GPU compute prices across major hardware types. Since that day, the dashboard shows B200 compute per hour price declining, sitting at $4.22 as of June 21.\n\nKalshi traders are now pessimistic that Nvidia's AI chip's compute price will surpass May's high. The contract asks the price of Nvidia B200 compute for the second quarter and will be resolved if the value, appearing on Ornn, is above a certain threshold by June 30.\n\nMost companies rent access for GPUs through cloud providers or neoclouds, another growing ecosystem. However, the cost to rent GPUs can fluctuate as demand for AI infrastructure grows.\n\n\"A lot of people don't know how much computing power they'll need in the next year, and a lot of suppliers of that computing power right now don't know how many GPUs and to what capacity they should order,\" Seoyoung Kim, a finance professor at Santa Clara University, previously told CNBC . \"And the manufacturers, like Nvidia, they don't know how much they should produce.\"\n\nEarlier this month, Google agreed to pay SpaceX $920 million a month to rent AI computing capacity from October 2026 through June 2029. In doing so, Google will use roughly 110,000 Nvidia GPUs, CPUs, memory and other related components. After the deal, RBC Capital Markets was bullish on Nvidia's performance for the second half of 2026 and 2027, saying the chip giant \"looks best positioned among peers.\"\n\n\"Regardless of the precise rationale, these GPU rental agreements should put to rest lingering concerns about NVDA losing share to [application-specific integrated circuits], at least in the short term,\" the analysts wrote.\n\n— CNBC's Yun Li contributed to this story.\n\nDisclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.",
+  "fetchedAt": "2026-06-23T01:28:41.077Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Kalshi 交易员押注芯片价格下跌，英伟达股价陷入困境",
+  "chineseSummary": "英伟达的股价最近一直在下滑，卡尔希交易员预测该公司的芯片收费也在下降。",
+  "chineseContent": "英伟达的股价最近一直在下滑，卡尔希交易员预测该公司的芯片收费也在下降。\n\n虽然这家人工智能芯片制造商在 2026 年股价上涨约 12%，但过去一个月股价一直在下滑，下跌约 3%。相比之下，VanEck Semiconductor ETF (SMH) 今年上涨了 84%，该基金在过去一个月上涨了 15%。\n\n在华尔街将人工智能建设的下一步重点放在存储芯片和基础设施上时，英伟达一直处于观望状态。这推动了美光科技 (Micron Technology) 和闪迪 (Sandisk) 等公司的上涨，仅过去一个月就上涨了近 60%。\n\n随着Nvidia股价持续低迷，该公司B200芯片的计算能力价格也有所下降。 Nvidia 的 B200 是该公司的旗舰图形处理单元或 GPU，可帮助大规模运行数据中心。\n\n根据提供主要硬件类型实时 GPU 计算价格的 Ornn 的数据，B200 的每小时计算价格在 5 月 30 日攀升至 6.11 美元，是过去三个月内的最高水平。从那天起，仪表板显示 B200 每小时计算价格不断下降，截至 6 月 21 日为 4.22 美元。\n\nKalshi 交易员现在对 Nvidia 的 AI 芯片的计算价格将超过 5 月份的高点感到悲观。该合同询问第二季度 Nvidia B200 计算的价格，如果 Ornn 上显示的价格在 6 月 30 日之前高于特定阈值，则合同将得到解决。\n\n大多数公司通过云提供商或另一个不断发展的生态系统 Neoclouds 租用 GPU 的访问权限。然而，随着人工智能基础设施需求的增长，租赁 GPU 的成本可能会波动。\n\n圣克拉拉大学金融学教授 Seoyoung Kim 此前对 CNBC 表示：“很多人不知道他们明年需要多少计算能力，而且许多计算能力供应商现在也不知道他们应该订购多少 GPU 以及多大容量。” “而像英伟达这样的制造商，他们不知道自己应该生产多少。”\n\n本月早些时候，谷歌同意每月向 SpaceX 支付 9.2 亿美元，用于从 2026 年 10 月到 2029 年 6 月租用人工智能计算能力。在此过程中，谷歌将使用大约 11 万个 Nvidia GPU、CPU、内存和其他相关组件。交易完成后，加拿大皇家银行资本市场看好英伟达 2026 年下半年和 2027 年的业绩，称这家芯片巨头“看起来在同行中处于最佳地位”。\n\n分析师写道：“无论具体的理由如何，这些 GPU 租赁协议应该可以消除人们对 NVDA 失去份额给[专用集成电路]的挥之不去的担忧，至少在短期内如此。”\n\n— CNBC 的李云对本文做出了贡献。\n\n披露：CNBC 和 Kalshi 之间存在商业关系，包括客户获取和少数股权投资。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

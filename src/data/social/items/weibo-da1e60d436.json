@@ -1,0 +1,21 @@
+{
+  "id": "weibo-da1e60d436",
+  "slug": "weibo-苏醒-预言家",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "苏醒 预言家",
+  "summary": "微博热榜第 27 位：苏醒 预言家，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92+%E9%A2%84%E8%A8%80%E5%AE%B6%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

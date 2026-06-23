@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e0aaae8745",
+  "slug": "weibo-法国vs伊拉克",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "法国vs伊拉克",
+  "summary": "微博热榜第 13 位：法国vs伊拉克，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

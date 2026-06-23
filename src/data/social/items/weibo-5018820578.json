@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5018820578",
+  "slug": "weibo-敖尹-丑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "敖尹 丑",
+  "summary": "微博热榜第 38 位：敖尹 丑，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%95%96%E5%B0%B9+%E4%B8%91%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

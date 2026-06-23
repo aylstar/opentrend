@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Valve describes just how brutal RAM negotiations are in 2026",
+  "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the hardware, and the company has already indicated that the component crisis […]",
+  "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+  "publishedAt": "2026-06-22T21:07:14.000Z",
+  "id": "the-verge-37483fec",
+  "slug": "the-verge-37483fec",
+  "content": "Valve’s Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more.&nbsp; The prices are so high in part because Valve isn’t subsidizing the hardware, and the company has already indicated that the component crisis forced it to reconsider its initial pricing plans. In an interview with the YouTube channel Gamers Nexus, Valve engineers discussed the reality of sourcing RAM in 2026, with take-it-or-leave-it prices as memory and other components remain in short supply, from only a few vendors like Samsung, Micron, and SK Hynix. Here’s the relevant portion, starting at 12:48 in Gamers Nexus’s Steam Machine review: > Gamers Nexus: Were you able to lock in contracts for memory with the suppliers directly or did you have to jump through a bunch of hoops? > Valve’s Pierre-Loup Griffais: Look, there’s no contracts. There’s nothing. Those guys… they give us a price every month or something and they say, ‘you can buy that many,’ and it’s yes or no. And if we say no, then they never talk to us again. [Media: https://youtu.be/66QzlDewigE?si=jE0g4xZlPa7uqjFp&t=768] Valve, of course, isn’t the only company in a bind over memory shortages, as the crunch is forcing many hardware makers to make significant pricing changes. Even Apple CEO Tim Cook is warning of incoming price hikes for iPhones, Macs, and other devices. And the RAM crunch isn’t projected to get better anytime soon. The supply situation is rough enough that Valve will be shipping Steam Machines with either one stick of 16GB of RAM or two sticks of 8GB of RAM. How many sticks come inside a given Steam Machine depends “on the supply that we can secure,” Griffais says. According to Gamers Nexus, “dual channel will objectively perform better than single channel,” but Valve’s Yazan Aldehayyat says that in the company’s tests, having one stick or two doesn’t make “any measurable difference” while playing games.&nbsp; Valve hasn’t shared its original planned price for the Steam Machine. But the recent price increases to the Steam Deck OLED — up $240 for the 512GB version, and up $300 for the 1TB version — “should give you a ballpark estimate of how much the Steam Machine’s target had moved,” according to an Aftermath interview with Valve. Subtracting those same price hikes from the current Steam Machine prices nets out at theoretical original prices of $809 for the 512GB model and $1,049 for the 2TB model. Those prices are still high, but not as tough to swallow as what Valve officially revealed today.",
+  "fetchedAt": "2026-06-23T01:28:41.075Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Valve 描述 2026 年 RAM 谈判有多么残酷",
+  "chineseSummary": "Valve 的 Steam Machine 终于给出了价格：512G​​B 配置的售价高达 1,049 美元，2TB 版本的售价高达 1,349 美元。而且这些产品没有捆绑控制器，这会进一步增加成本。价格如此之高，部分原因是 Valve 不补贴硬件，而且该公司已经表示组件危机 [...]",
+  "chineseContent": "Valve 的 Steam Machine 终于给出了价格：512G​​B 配置的售价高达 1,049 美元，2TB 版本的售价高达 1,349 美元。而且这些产品没有捆绑控制器，这会进一步增加成本。  价格如此之高，部分原因是 Valve 不补贴硬件，而且该公司已经表示，零部件危机迫使其重新考虑最初的定价计划。在接受 YouTube 频道 Gamers Nexus 采访时，Valve 工程师讨论了 2026 年采购 RAM 的现实，由于内存和其他组件仍然供不应求，价格要么接受要么放弃，只有三星、美光和 SK 海力士等少数供应商提供。以下是 Gamers Nexus 的 Steam 机器评论中 12:48 开始的相关部分： > Gamers Nexus：您是否能够直接与供应商锁定内存合同，还是必须跳过一堆麻烦？ > Valve 的 Pierre-Loup Griffais：看，没有合同。什么也没有。那些家伙……他们每个月都会给我们一个价格或者其他东西，然后他们说，‘你可以买那么多’，然后就决定是或否。如果我们拒绝，他们就再也不会和我们说话了。 [媒体：https://youtu.be/66QzlDewigE?si=jE0g4xZlPa7uqjFp&t=768] 当然，Valve 并不是唯一一家因内存短缺而陷入困境的公司，因为危机迫使许多硬件制造商做出重大定价调整。就连苹果公司首席执行官蒂姆·库克也警告称，iPhone、Mac 和其他设备的价格即将上涨。而且内存短缺预计不会很快得到改善。供应情况非常严峻，Valve 将会发售配备一根 16GB RAM 或两根 8GB RAM 的 Steam 机器。格里菲斯说，一台蒸汽机里有多少根木棍取决于“我们能确保的供应”。根据 Gamers Nexus 的说法，“双通道",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

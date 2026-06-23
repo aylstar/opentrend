@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Moebius: 0.2B image inpainting model with 10B-level performance",
+  "summary": "229 points · 64 comments",
+  "content": "While 10B-level industrial foundation models have pushed the boundaries of image inpainting, their prohibitive computational costs severely hinder practical deployment. Constructing a highly optimized task-specific specialist offers a promising solution; however, extreme structural compression inevitably triggers a severe representation bottleneck. To conquer this, we propose Moebius, a highly efficient lightweight inpainting framework. We systematically reconstruct the diffusion backbone by introducing the Local-λ Mix Interaction (LλMI) block. Comprising Local-λ and Interactive-λ modules, it elegantly summarizes spatial contexts and global semantic priors into fixed-size linear matrices, preserving complex latent interactions while drastically shedding parameters. Furthermore, to unlock the full representational capacity of this highly compact architecture, we synergistically pair it with an adaptive multi-granularity distillation strategy. Operating strictly within the latent space to avoid expensive pixel-space decoding, this strategy dynamically balances multiple gradient-based losses to achieve high-fidelity alignment. Extensive experiments across natural and portrait benchmarks demonstrate that this optimal synergy enables Moebius to rival or even surpass the generation quality of the 10B-level industrial generalist FLUX.1-Fill-Dev. Remarkably, Moebius achieves this using less than 2\\% of the parameters (0.22B vs. 11.9B) while delivering a >15× acceleration in total inference time, setting a new efficiency standard for high-fidelity inpainting.\n\nOverall pipeline of Moebius. We adopt the Latent Diffusion Model (LDM) framework equipped with Latent Categories Guidance (LCG). To achieve extreme architectural efficiency, the denoising U-Net is systematically restructured using our proposed LλM I blocks (detailed in Sec. 3.2). Furthermore, an adaptive multi-granularity distillation strategy (Sec. 3.3) is applied during training to align our lightweight specialist with the high-capacity teacher, successfully mitigating the capacity drop caused by extreme structural compression.\n\nComparison on Natural Scenes (Places2)\n\nComparison on Portrait Scenes (CelebA-HQ, FFHQ)",
+  "url": "https://hustvl.github.io/Moebius/",
+  "publishedAt": "2026-06-22T13:53:02.000Z",
+  "points": 229,
+  "id": "hacker-news-1acb718",
+  "slug": "hacker-news-1acb718",
+  "fetchedAt": "2026-06-23T01:28:41.072Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Moebius：0.2B图像修复模型，10B级性能",
+  "chineseSummary": "229 分 · 64 条评论",
+  "chineseContent": "虽然 10B 级工业基础模型已经突破了图像修复的界限，但其高昂的计算成本严重阻碍了实际部署。构建高度优化的特定任务专家提供了一个有前途的解决方案；然而，极端的结构压缩不可避免地会引发严重的表示瓶颈。为了克服这个问题，我们提出了 Moebius，一种高效的轻量级修复框架。我们通过引入局部λ混合交互（LλMI）块来系统地重建扩散主干。它由 Local-λ 和 Interactive-λ 模块组成，优雅地将空间上下文和全局语义先验总结为固定大小的线性矩阵，保留复杂的潜在交互，同时大幅减少参数。此外，为了释放这种高度紧凑的架构的完整表示能力，我们将其与自适应多粒度蒸馏策略协同配对。该策略严格在潜在空间内运行以避免昂贵的像素空间解码，动态平衡多个基于梯度的损失以实现高保真对齐。跨自然和肖像基准的大量实验表明，这种最佳协同作用使 Moebius 能够媲美甚至超越 10B 级工业通才 FLUX.1-Fill-Dev 的生成质量。值得注意的是，Moebius 使用不到 2% 的参数（0.22B 与 11.9B）实现了这一目标，同时在总推理时间中提供了 >15 倍的加速，为高保真修复设定了新的效率标准。\n\n莫比斯的整体管道。我们采用配备潜在类别指导（LCG）的潜在扩散模型（LDM）框架。为了实现极高的架构效率，使用我们提出的 LλM I 块（详见第 3.2 节）系统地重构了去噪 U-Net。此外，在训练过程中应用了自适应多粒度蒸馏策略（第 3.3 节），使我们的轻量级专家与高容量教师保持一致，成功缓解了极端结构压缩造成的容量下降。\n\n自然场景比较（Places2）\n\n人像场景比较（CelebA-HQ、FFHQ）",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7fdb7970f5",
+  "slug": "weibo-姆巴佩升至世界杯射手榜第二",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "姆巴佩升至世界杯射手榜第二",
+  "summary": "微博热榜第 25 位：姆巴佩升至世界杯射手榜第二，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8D%87%E8%87%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E6%A6%9C%E7%AC%AC%E4%BA%8C%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

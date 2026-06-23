@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1ddb16dd04",
+  "slug": "weibo-医生我有点不舒服我要出院",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "医生我有点不舒服我要出院",
+  "summary": "微博热榜第 34 位：医生我有点不舒服我要出院，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%88%91%E6%9C%89%E7%82%B9%E4%B8%8D%E8%88%92%E6%9C%8D%E6%88%91%E8%A6%81%E5%87%BA%E9%99%A2%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

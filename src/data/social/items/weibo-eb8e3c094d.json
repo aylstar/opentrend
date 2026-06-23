@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eb8e3c094d",
+  "slug": "weibo-郑嘉颖破防了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "郑嘉颖破防了",
+  "summary": "微博热榜第 10 位：郑嘉颖破防了，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%98%89%E9%A2%96%E7%A0%B4%E9%98%B2%E4%BA%86%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-06-23 09:28:00",
+  "fetchedAt": "2026-06-23T01:29:35.106Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

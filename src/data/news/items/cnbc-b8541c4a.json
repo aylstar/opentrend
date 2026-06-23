@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Three key AI stocks to watch this week with traders expecting giant moves",
+  "summary": "Micron and Cerebras report this week. Also there's heavy options activity in Super Micro.",
+  "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
+  "publishedAt": "2026-06-22T17:54:14.000Z",
+  "id": "cnbc-b8541c4a",
+  "slug": "cnbc-b8541c4a",
+  "content": "After an up-and-down week for stocks around SpaceX and Federal Reserve chairman Kevin Warsh's debut, investors will get a fresh read on the pulse of the sector still at the heart of the bull market: semiconductors. On Tuesday, AI chipmaker Cerebras will report earnings after the bell – the company's first since going public last month. The stock's down almost 30% from its first day of trading and options prices imply a 11.5% move after its report. On Wednesday, it's Micron reporting, a key test for the stock that's been symbolic of the explosive move higher in memory names that's been powered by expensive call-buying in the options market. Micron implied volatility sits at 116, the highest in the S&P 500 alongside Sandisk and Western Digital . Traders anticipate a 10% swing, the biggest implied move for earnings since December 2024. The stock added almost 6% Monday to as high as $1204 per share, bringing its year-to-date move to 280 percent. Options volumes in Micron were balanced on Monday with about as many calls trading as puts, but call premiums accounted for $2.6 billion of the $3.3 billion in options traded, according to SpotGamma. The biggest single call contract traded in the market Monday was a $61 million purchase of 800 of the the 430-strike Micron call expiring July 17, a deep in-the-money bullish position that trades similarly to being long stock. With implied volatility so high in Micron, in-the-money contracts will be less susceptible to the drop in volatility that's standard after an earnings event.\n\nTo be sure, there is also a lot of call selling happening in Micron, as well as the record-breaking Roundhill Memory ETF (DRAM) , where 34,000 calls were sold Monday, compared to just under 20,000 bought, according to data from ThinkOrSwim. For perhaps the most bullish options positioning around AI, traders may want to watch Super Micro Computer – the stock's up 16% after the company announced a new data center blueprint using Nvidia architecture and bulls are piling into calls. More than 320,000 calls traded in SMCI, compared to just 64,000 puts, and traders bought almost 10 times more calls than they did puts, according to ThinkOrSwim. The most popular contract by volume as of writing is the 40-strike call expiring Friday, with more than 24,000 contracts traded, according to SpotGamma.",
+  "fetchedAt": "2026-06-23T01:28:41.077Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "本周值得关注的三只关键 AI 股票，交易员预计将出现大幅波动",
+  "chineseSummary": "美光科技和 Cerebras 本周发布报告。超微的期权活动也很活跃。",
+  "chineseContent": "在围绕 SpaceX 和美联储主席凯文·沃什 (Kevin Warsh) 首次亮相的股票经历了一周的起起落落之后，投资者将重新了解仍处于牛市核心的行业的脉搏：半导体。周二，人工智能芯片制造商 Cerebras 将在盘后公布财报，这是该公司自上个月上市以来的首次财报。该股较首日交易下跌近 30%，期权价格在报告发布后将上涨 11.5%。周三，美光科技将发布报告，这是对该股的一次关键考验，该股象征着内存股在期权市场昂贵的看涨期权购买推动下出现爆炸式上涨。美光的隐含波动率为 116，与 Sandisk 和西部数据并列标准普尔 500 指数中最高的。交易员预计收益将出现 10% 的波动，这是自 2024 年 12 月以来盈利的最大隐含波动。该股周一上涨近 6%，至每股 1204 美元，使其今年迄今的涨幅达到 280%。据 SpotGamma 称，周一美光的期权交易量保持平衡，看涨期权交易量与看跌期权交易量大致相同，但看涨期权溢价占 33 亿美元期权交易量中的 26 亿美元。周一市场上交易的最大单笔看涨期权合约是以 6100 万美元购买 800 份 430 次执行的美光看涨期权，合约将于 7 月 17 日到期，这是一种深度价内看涨头寸，其交易方式类似于多头股票。由于美光的隐含波动率如此之高，价内合约将不太容易受到收益事件后标准波动率下降的影响。\n\n可以肯定的是，美光科技以及破纪录的 Roundhill Memory ETF (DRAM) 也出现了大量看涨期权销售，根据 ThinkOrSwim 的数据，周一卖出了 34,000 个看涨期权，而买入的数量略低于 20,000 个。对于围绕人工智能最看涨的期权定位，交易员可能会关注超微电脑（Super Micro Computer）——在该公司宣布采用 Nvidia 架构的新数据中心蓝图并且多头纷纷买入后，该股上涨了 16%。据 ThinkOrSwim 称，SMCI 交易的看涨期权超过 320,000 份，而看跌期权仅为 64,000 份，交易者购买的看涨期权几乎是看跌期权的 10 倍。根据 SpotGamma 的数据，截至撰写本文时，最受欢迎的合约是周五到期的 40 次执行看涨期权，交易量超过 24,000 份合约。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
