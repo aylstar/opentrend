@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9b406e48f3",
+  "slug": "weibo-c罗创历史",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "C罗创历史",
+  "summary": "微博热榜第 50 位：C罗创历史，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%88%9B%E5%8E%86%E5%8F%B2%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-06-24 09:21:30",
+  "fetchedAt": "2026-06-24T01:23:39.032Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

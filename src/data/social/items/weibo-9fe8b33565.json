@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9fe8b33565",
+  "slug": "weibo-c罗骗过全世界",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "C罗骗过全世界",
+  "summary": "微博热榜第 2 位：C罗骗过全世界，当前热度为 201万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E9%AA%97%E8%BF%87%E5%85%A8%E4%B8%96%E7%95%8C%23",
+  "hotValue": "201万热度",
+  "author": "",
+  "publishedAt": "2026-06-24 09:21:30",
+  "fetchedAt": "2026-06-24T01:23:39.032Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

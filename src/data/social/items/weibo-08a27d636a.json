@@ -1,0 +1,21 @@
+{
+  "id": "weibo-08a27d636a",
+  "slug": "weibo-c罗-最后一舞",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 43,
+  "title": "C罗 最后一舞",
+  "summary": "微博热榜第 43 位：C罗 最后一舞，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97+%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-06-24 09:21:30",
+  "fetchedAt": "2026-06-24T01:23:39.032Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

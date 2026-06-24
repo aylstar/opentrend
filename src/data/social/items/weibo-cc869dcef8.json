@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc869dcef8",
+  "slug": "weibo-南部档案",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "南部档案",
+  "summary": "微博热榜第 28 位：南部档案，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-24 09:21:30",
+  "fetchedAt": "2026-06-24T01:23:39.032Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

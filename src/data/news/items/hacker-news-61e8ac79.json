@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Don't verify email addresses by sending spam to them",
+  "summary": "140 points · 42 comments",
+  "content": "Much have been said about futility of trying to validate email addresses. Generally accepted advice is that you should just send verification link and don’t care about trying to validate it beforehand.\n\nBut what if you were really hell-bent on having validation step, and at the same time follow the advice? Apparently some people decided they could to it by… sending spam.\n\nTake this Pangram sign-up form . Filling email field here will perform this request:\n\nAnd soon enough, without doing anything else, you will get an mysterious email. Whaaa…?\n\nLike every self-respecting spam sender, they rotate through many sender domains (not exhaustive!):\n\nBut unlike typical spammer, they really go to the extra mile trying to get their spam delivered, immediately retrying from different servers when rejected (apparently some of their IPs are listed on DNSBLs. hmm, I wonder why…):\n\nThis is all extremely dumb, because either you “validated” addresses by delivering spam to them, or if destination does content filtering you get your spam rejected and “validation” fails.\n\nNow I’m really curious how they managed to come up with this, because it seems it took an awful lot of effort to do this. I guess there’s some stupid SaaS for “validating” email, through it would be funny if it turns out that some LLM agent went off rails.\n\n(actual transactional mails from Pangram are sent through Mailgun)",
+  "url": "https://milek7.pl/mailverifyspam/",
+  "publishedAt": "2026-06-23T20:23:49.000Z",
+  "points": 140,
+  "id": "hacker-news-61e8ac79",
+  "slug": "hacker-news-61e8ac79",
+  "fetchedAt": "2026-06-24T01:22:46.276Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "不要通过向电子邮件地址发送垃圾邮件来验证电子邮件地址",
+  "chineseSummary": "140 分 · 42 条评论",
+  "chineseContent": "关于尝试验证电子邮件地址是徒劳的，人们已经说了很多。普遍接受的建议是，您应该只发送验证链接，而不关心事先尝试验证它。\n\n但是，如果您真的一心要进行验证步骤，同时遵循建议怎么办？显然，有些人决定通过发送垃圾邮件来实现这一点。\n\n填写此 Pangram 注册表。此处填写电子邮件字段将执行此请求：\n\n很快，无需执行任何其他操作，您就会收到一封神秘的电子邮件。哇……？\n\n像每个有自尊心的垃圾邮件发件人一样，他们在许多发件人域中轮换（并非详尽无遗！）：\n\n但与典型的垃圾邮件发送者不同的是，他们确实不遗余力地尝试传递垃圾邮件，被拒绝后立即从不同的服务器重试（显然他们的一些 IP 列在 DNSBL 上。嗯，我想知道为什么......）：\n\n这一切都非常愚蠢，因为要么您通过向地址发送垃圾邮件来“验证”地址，要么如果目的地进行内容过滤，您的垃圾邮件就会被拒绝并且“验证”失败。\n\n现在我真的很好奇他们是如何想出这个的，因为看起来他们花了很多努力才能做到这一点。我猜想有一些愚蠢的 SaaS 可以用来“验证”电子邮件，如果发现某个 LLM 代理出轨了，那就很有趣了。\n\n（Pangram 的实际交易邮件是通过 Mailgun 发送的）",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Germany rail network briefly halted nationwide due to IT malfunction",
+  "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
+  "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-06-23T23:46:01.000Z",
+  "id": "bbc-bbcff6c0",
+  "slug": "bbc-bbcff6c0",
+  "content": "A DB Deutsche Bahn passenger train is seen at a standstill with passengers waiting on the platform.\n\nGerman rail company Deutsche Bahn had to pause its train services across the country due to a nationwide IT disruption on Tuesday night.\n\nAll its trains were held at stations following a malfunction with the country's digital railway radio network, causing widespread disruption.\n\nDeutsche Bahn later said the disruption had been fixed after trains were at a complete standstill for more than two-and-a-half hours.\n\n\"Our IT experts worked tirelessly to resolve the issue – successfully. The disruption was quickly fixed, and service is now gradually resuming,\" it said. \"We thank all passengers for their patience,\" it added.\n\nAt 22:30 local time (21:30 BST), Deutsche Bahn said a nationwide disruption of the Global System for Mobile Communication for Railways (GSM-R) meant that all trains were being held at stations.\n\nIn a followup statement, Deutsche Bahn then said the cause of the disruption, which had affected internal communication channels, \"has now been identified\" and technicians were working \"diligently to resolve the issue\".\n\nPassengers were urged to find alternative modes of transport with major delays and cancellations expected.\n\nAt the time, Deutsche Bahn did not say how long the disruption could last or how many trains and passengers had been affected.\n\nSpeaking to the German newspaper Bild earlier, Deutsche Bahn CEO Evelyn Palla said \"we are now trying to get the trains into stations so that travellers can disembark\", according to Germany's international broadcaster Deutsche Welle.\n\nPassengers queue at the Deutsche Bahn service point at the main station in Bremen, Germany, during the outage.\n\nGSM-R, which was at the centre of the disruption, is a wireless communication tool used between train drivers and traffic control centres.\n\nDeutsche Bahn apologised to passengers for the situation, adding it would give taxi and hotel vouchers to affected passengers.\n\nIt also said it would offer replacement transport where possible.\n\nThe national railway operator Deutsche Bahn provides both long-distance and regional transport.\n\nIt also operates S-Bahn trains that connect suburbs with city centres, which came to a halt on Tuesday evening as well.\n\nS-Bahn Berlin issued a separate statement that said the outage to the GSMR \"has been resolved\", and that \"S-Bahn trains can run again\".\n\n\"Please still expect that there may be delays and train cancellations on lines\", it added.\n\nRail users urged not to travel in extreme heat",
+  "fetchedAt": "2026-06-24T01:22:46.265Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "德国铁路网因 IT 故障在全国范围内短暂停止",
+  "chineseSummary": "铁路公司德国铁路公司不得不暂停全国各地的火车服务两个半小时以上。",
+  "chineseContent": "一辆德铁德国铁路客运列车处于静止状态，乘客在站台上等候。\n\n由于周二晚间全国范围内的 IT 中断，德国铁路公司 Deutsche Bahn 不得不暂停其在全国范围内的火车服务。\n\n该国数字铁路无线电网络出现故障，造成大范围的中断，所有列车都被停在车站。\n\n德国铁路后来表示，在火车完全停顿两个半小时以上后，中断问题已得到解决。\n\n“我们的 IT 专家不知疲倦地工作，成功解决了这个问题。中断很快就得到了解决，服务现在正在逐步恢复，”它说。 “我们感谢所有乘客的耐心等待，”它补充道。\n\n当地时间 22:30（英国夏令时 21:30），德国铁路表示，全国范围内的全球铁路移动通信系统 (GSM-R) 中断，意味着所有列车都被滞留在车站。\n\n德国铁路公司随后在一份后续声明中表示，影响内部通信渠道的中断原因“现已确定”，技术人员正在“努力解决问题”。\n\n乘客被敦促寻找其他交通方式，预计会出现严重延误和取消。\n\n当时，德国铁路公司没有透露中断会持续多久，也没有透露有多少火车和乘客受到影响。\n\n据德国国际广播公司德国之声报道，德国铁路公司首席执行官伊芙琳·帕拉早些时候在接受德国《图片报》采访时表示，“我们现在正在努力让火车进站，以便旅客下车”。\n\n停电期间，乘客在德国不来梅总站的德国铁路服务点排队。\n\nGSM-R 是此次中断的核心，它是一种用于火车司机和交通控制中心之间的无线通信工具。\n\n德国铁路公司就此事向乘客道歉，并补充说将向受影响的乘客提供出租车和酒店优惠券。\n\n它还表示将在可能的情况下提供替代交通。\n\n国家铁路运营商德国铁路公司提供长途和区域运输。\n\n它还运营连接郊区和市中心的 S-Bahn 列车，该列车也在周二晚上停止运行。\n\n柏林轻轨列车发表了另一份声明，称 GSMR 的停运“已经解决”，并且“轻轨列车可以再次运行”。\n\n它补充说：“仍请预计线路可能会出现延误和火车取消”。\n\n铁路用户呼吁不要在酷热天气出行",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

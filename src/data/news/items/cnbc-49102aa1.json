@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Traders are loving this cheap way to make big bets against chip stocks",
+  "summary": "Just a day after making new all-time records, the semiconductor sector is down almost 7% and traders are finding a cheap way to bet on a bigger pivot.",
+  "url": "https://www.cnbc.com/2026/06/23/traders-are-loving-this-cheap-way-to-make-big-bets-against-chip-stocks.html",
+  "publishedAt": "2026-06-23T16:10:37.000Z",
+  "id": "cnbc-49102aa1",
+  "slug": "cnbc-49102aa1",
+  "content": "Just a day after making new all-time records, the semiconductor sector is down almost 7% and traders are finding a cheap way to bet on a bigger pivot. Options volume in Direxion's triple-levered inverse semiconductor ETF (SOXS) is more than three times the daily average the past month and calls are outpacing puts by more than six-to-one, according to data from ThinkOrSwim. Betting on upside for the fund means betting on downside for chips, as the fund targets 300% of the inverse daily move in the NYSE Semiconductor Index. Levered ETFs have exploded in popularity amid the massive run in chip-stocks the past year, with daily rebalancing flows across regularly in excess of $20 billion, according to an analysis from Barclays equities tactical strategies.\n\nAt just over $4 per share, the ETF offers a cheap way for traders to speculate on the direction of the most important sector in the market. About 260,000 options traded, compared to 172,000 in the VanEck semiconductor ETF SMH. More than 84,000 calls were bought in early trading Tuesday, compared to just under 15,000 puts bought. About as many calls were sold as bought, suggesting traders might be hedging bullish bets on the ETF via spreads that will cap the upside if the fund posts more gains like the 24% rally its on today. Eight of the top 10 contracts by volume are calls, with the in-the-money 4-strike and 3.5-strike calls expiring Friday the most popular, according to SpotGamma data. The biggest trade of the session so far was a sale of 300 of the 13-strike puts expiring in January 2028 that brought in $327,000. Selling in-the-money puts is one way for traders to get a \"synthetic\" long position in the underlying security at a lower cost than buying the stock outright.",
+  "fetchedAt": "2026-06-24T01:22:46.281Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "交易者喜欢这种廉价的方式来做空芯片股",
+  "chineseSummary": "就在创造新的历史记录一天后，半导体行业下跌了近 7%，交易者正在寻找一种廉价的方式来押注更大的支点。",
+  "chineseContent": "就在创造新的历史记录一天后，半导体行业下跌了近 7%，交易者正在寻找一种廉价的方式来押注更大的支点。 ThinkOrSwim 的数据显示，Direxion 的三杠杆反向半导体 ETF (SOXS) 的期权交易量是过去一个月日均交易量的三倍多，看涨期权与看跌期权的比例超过六比一。押注该基金的上涨就意味着押注芯片的下跌，因为该基金的目标是纽约证交所半导体指数每日反向波动的 300%。根据巴克莱股票战术策略的分析，在过去一年芯片股的大幅上涨中，杠杆 ETF 迅速普及，每日再平衡资金流经常超过 200 亿美元。\n\n该 ETF 的价格略高于每股 4 美元，为交易者提供了一种廉价的方式来推测市场上最重要板块的走向。期权交易量约为 260,000 份，而 VanEck 半导体 ETF SMH 的期权交易量为 172,000 份。周二早盘交易中，买入了超过 84,000 份看涨期权，而买入的看跌期权则略低于 15,000 份。看涨期权的卖出数量与买入数量大致相同，这表明交易员可能会通过价差对冲 ETF 的看涨押注，如果该基金取得像今天 24% 的涨幅这样的更大涨幅，价差将限制上涨空间。根据 SpotGamma 的数据，成交量排名前 10 位的合约中有 8 个是看涨期权，其中周五到期的价内 4 次履约合约和 3.5 次履约合约最受欢迎。迄今为止，该交易日最大的一笔交易是出售 300 手 2028 年 1 月到期的 13 次执行看跌期权，收入为 327,000 美元。出售价内看跌期权是交易者以比直接购买股票更低的成本获得基础证券“合成”多头头寸的一种方式。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

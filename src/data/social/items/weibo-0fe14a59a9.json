@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0fe14a59a9",
+  "slug": "weibo-c罗梅开二度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "C罗梅开二度",
+  "summary": "微博热榜第 27 位：C罗梅开二度，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-24 09:21:30",
+  "fetchedAt": "2026-06-24T01:23:39.032Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

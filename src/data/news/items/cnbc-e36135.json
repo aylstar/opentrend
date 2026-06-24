@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO",
+  "summary": "Cerebras went public on the Nasdaq in May, giving Wall Street access to a pureplay AI company.",
+  "url": "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html",
+  "publishedAt": "2026-06-23T22:11:21.000Z",
+  "id": "cnbc-e36135",
+  "slug": "cnbc-e36135",
+  "content": "Cerebras said revenue almost doubled in the AI chipmaker's first earnings report since its initial public offering last month. The stock fell 10% in extended trading as the company forecast a drop in its gross margin.\n\nThe company's revenue increased 92% in the first quarter from $99.5 million a year earlier, according to a statement . Net loss narrowed to $14 million from $23.9 million, or 46 cents per share, a year ago.\n\nCapitalizing on investor interest in infrastructure for running AI models, Cerebras went public on the Nasdaq in May. After pricing its IPO at $185, Cerebras saw its stock open at $350 and close at $311.07.\n\nThe shares have since dropped 28%, closing on Tuesday at $226.72.\n\nCerebras said its core gross margin, or the profit left after accounting for the cost of goods sold, will shrink to between 36% and 38% in the second quarter from 46.5% in the first.\n\nThe company said it expects core revenue growth of 88% from a year earlier to $914 million. And full-year core revenue will be between $855.5 million and $865 million, representing 69% growth at the midpoint, Cerebras said.\n\nFounded in 2015, the Cerebras raised over $6 billion in the offering, the most for a U.S. technology company since Uber 's debut in 2019.\n\nCerebras is trying to challenge AI chip leader Nvidia in one corner of the market, and it also operates a service for running AI models through data centers filled with its processors.\n\nCerebras enjoys a performance advantage in part by packing many times more SRAM memory on its chip than Google's latest tensor processing unit or the Groq 3 LPU chip that Nvidia announced in March, Mizuho said in a June 8 note to clients.\n\nDuring the first quarter, Cerebras said its chips will go inside Amazon Web Services' data centers, and it announced a deal worth over $20 billion to supply OpenAI with computing power.\n\nExecutives will discuss the results with analysts on a conference call starting at 5 p.m. ET.\n\nWATCH: Options Action: Big moves priced into Micron and Cerebras options",
+  "fetchedAt": "2026-06-24T01:22:46.280Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "财经"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Cerebras 股价下跌 10%，芯片制造商在 IPO 以来的首份收益报告中预测利润率将萎缩",
+  "chineseSummary": "Cerebras 于 5 月在纳斯达克上市，让华尔街有机会接触一家纯粹的人工智能公司。",
+  "chineseContent": "Cerebras 表示，自上个月首次公开募股以来，这家人工智能芯片制造商的首份收益报告中收入几乎翻了一番。由于该公司预计毛利率将下降，该股在盘后交易中下跌 10%。\n\n根据一份声明，该公司第一季度的收入比去年同期的 9950 万美元增长了 92%。净亏损从一年前的 2390 万美元收窄至 1400 万美元，即每股亏损 46 美分。\n\nCerebras 利用投资者对运行人工智能模型的基础设施的兴趣，于 5 月在纳斯达克上市。 Cerebras 的 IPO 定价为 185 美元，开盘价为 350 美元，收盘价为 311.07 美元。\n\n此后该股下跌 28%，周二收于 226.72 美元。\n\nCerebras 表示，其核心毛利率，即扣除销售成本后剩余的利润，将从第一季度的 46.5% 缩减至第二季度的 36% 至 38%。\n\n该公司表示，预计核心收入同比增长 88%，达到 9.14 亿美元。 Cerebras 表示，全年核心收入将在 8.555 亿美元至 8.65 亿美元之间，中间值增长 69%。\n\nCerebras 成立于 2015 年，此次发行筹集了超过 60 亿美元资金，这是自 Uber 2019 年首次亮相以来美国科技公司融资额最高的一次。\n\nCerebras 正试图在市场的一个角落挑战人工智能芯片领导者英伟达，它还运营一项通过装有其处理器的数据中心运行人工智能模型的服务。\n\n瑞穗在 6 月 8 日给客户的一份报告中表示，Cerebras 享有性能优势，部分原因是其芯片上封装的 SRAM 内存比谷歌最新的张量处理单元或 Nvidia 3 月份推出的 Groq 3 LPU 芯片多很多倍。\n\n第一季度，Cerebras 表示其芯片将进入亚马逊网络服务的数据中心，并宣布了一项价值超过 200 亿美元的交易，为 OpenAI 提供计算能力。\n\n高管们将于下午 5 点开始在电话会议上与分析师讨论结果。等。\n\n观看：期权行动：Micron 和 Cerebras 期权定价的重大变动",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

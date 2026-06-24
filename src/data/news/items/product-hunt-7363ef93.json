@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "LogStitch",
+  "summary": "Find AWS Lambda failures fast, right on your Mac Discussion | Link",
+  "url": "https://www.producthunt.com/products/logstitch",
+  "publishedAt": "2026-06-22T17:41:48.000Z",
+  "id": "product-hunt-7363ef93",
+  "slug": "product-hunt-7363ef93",
+  "content": "Debugging a Lambda failure in CloudWatch is rough. Logs scattered across streams, no timeline, endless scrolling. LogStitch is a native Mac app that stitches your Lambda logs into one clear timeline. It clusters repeating error patterns and surfaces latency outliers, so you find the failure fast. It also ships a built-in MCP server, so AI assistants can query your Lambda logs directly and debug alongside you. One-time price, no subscription. 14-day free trial.",
+  "fetchedAt": "2026-06-24T01:22:46.276Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "原木缝合",
+  "chineseSummary": "直接在 Mac 上快速查找 AWS Lambda 故障关联",
+  "chineseContent": "在 CloudWatch 中调试 Lambda 故障非常困难。日志分散在溪流中，没有时间线，无尽的滚动。 LogStitch 是一款本机 Mac 应用程序，可将您的 Lambda 日志拼接到一个清晰的时间线中。它对重复的错误模式进行聚类并显示延迟异常值，以便您快速发现故障。它还配备了内置的 MCP 服务器，因此 AI 助手可以直接查询您的 Lambda 日志并与您一起进行调试。一次性价格，无需订阅。 14 天免费试用。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

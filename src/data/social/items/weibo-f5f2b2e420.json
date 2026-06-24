@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f5f2b2e420",
+  "slug": "weibo-李金铭回应",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "李金铭回应",
+  "summary": "微博热榜第 16 位：李金铭回应，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%9B%9E%E5%BA%94%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-24 09:21:30",
+  "fetchedAt": "2026-06-24T01:23:39.032Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

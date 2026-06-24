@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "NeuralAgent 3.0",
+  "summary": "AI that executes UI actions on your computer in ~285ms Discussion | Link",
+  "url": "https://www.producthunt.com/products/neuralagent",
+  "publishedAt": "2026-06-21T22:47:17.000Z",
+  "id": "product-hunt-93ec6fc4",
+  "slug": "product-hunt-93ec6fc4",
+  "content": "NeuralAgent is your Personal AI Assistant that operates your entire computer Unlike chatbots stuck in a sandbox, NeuralAgent sees your screen and controls your PC. It opens apps, clicks buttons, manages files, and handles tasks across your system. Just tell it what you want in plain English and watch the magic.",
+  "fetchedAt": "2026-06-24T01:22:46.276Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "神经代理3.0",
+  "chineseSummary": "AI 在约 285 毫秒内在您的计算机上执行 UI 操作关联",
+  "chineseContent": "NeuralAgent 是您的个人人工智能助手，可以操作您的整个计算机。与卡在沙箱中的聊天机器人不同，NeuralAgent 可以看到您的屏幕并控制您的 PC。它可以打开应用程序、单击按钮、管理文件并处理整个系统的任务。只需用简单的英语告诉它您想要什么，然后观看魔术。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

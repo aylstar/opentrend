@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures Rise As Kospi Index Rebounds; FedEx, Cerebras Tumble Late With Micron Due",
+  "summary": "Futures rose as South Korea's Kospi index jumped after the Nasdaq broke support. FedEx and AI chip IPO Cerebras dived late. Micron looms.",
+  "url": "https://finance.yahoo.com/m/54061d26-c12f-3c2e-a59e-529b10de60f6/dow-jones-futures-rise-as.html?.tsrc=rss",
+  "publishedAt": "2026-06-24T01:14:33.000Z",
+  "id": "yahoo-finance-5693b019",
+  "slug": "yahoo-finance-5693b019",
+  "content": "Futures rose as South Korea's Kospi index jumped after the Nasdaq broke support. FedEx and AI chip IPO Cerebras dived late. Micron looms.",
+  "fetchedAt": "2026-06-24T01:22:46.278Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 25,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Kospi 指数反弹，道琼斯期货上涨；联邦快递 (FedEx) 和 Cerebras 因美光到期而延迟上市",
+  "chineseSummary": "纳斯达克指数跌破支撑位后，韩国综合股价指数上涨，期货上涨。联邦快递 (FedEx) 和人工智能芯片 Cerebras 的 IPO 后期均出现跳水。微米织机。",
+  "chineseContent": "纳斯达克指数跌破支撑位后，韩国综合股价指数上涨，期货上涨。联邦快递 (FedEx) 和人工智能芯片 Cerebras 的 IPO 后期均出现跳水。微米织机。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

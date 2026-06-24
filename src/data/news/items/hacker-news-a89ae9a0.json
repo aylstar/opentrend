@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "FUTO Swipe – A new swipe typing model",
+  "summary": "262 points · 84 comments",
+  "content": "In August 2024, we launched a dataset collection effort on the swipe.futo.org domain to collect QWERTY English swipes. Users would voluntarily visit the webpage on their mobile phone and be given instructions and information about the dataset. After consenting, they would be given sentences, primarily from Wikipedia, and would be asked to swipe them word-by-word.\n\nIn the end, this produced over 1 million swipes. We filtered out a small set of low-quality swipes. In March 2025, we released a dataset of 1 million swipes under the MIT license, and it is available today on HuggingFace.\n\nWe made heavy use of this data to train our models and to evaluate different swipe typing systems.",
+  "url": "https://swipe.futo.tech/",
+  "publishedAt": "2026-06-23T17:50:22.000Z",
+  "points": 262,
+  "id": "hacker-news-a89ae9a0",
+  "slug": "hacker-news-a89ae9a0",
+  "fetchedAt": "2026-06-24T01:22:46.275Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "FUTO Swipe – 一种新的滑动打字模式",
+  "chineseSummary": "262 分 · 84 条评论",
+  "chineseContent": "2024 年 8 月，我们在 swipe.futo.org 域上启动了数据集收集工作，以收集 QWERTY 英文滑动。用户将自愿在手机上访问该网页，并获得有关数据集的说明和信息。同意后，他们会收到主要来自维基百科的句子，并被要求逐字滑动。\n\n最终，这产生了超过 100 万次滑动。我们过滤掉了一小部分低质量的滑动。 2025 年 3 月，我们在 MIT 许可下发布了包含 100 万次滑动的数据集，现已在 HuggingFace 上提供。\n\n我们大量使用这些数据来训练我们的模型并评估不同的滑动打字系统。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
