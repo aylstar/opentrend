@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "RubyLLM: A Ruby framework for all major AI providers",
+  "summary": "345 points · 55 comments",
+  "content": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.\n\nBattle tested at - Fully private work AI\n\nBuild a working Ruby AI chat in two minutes\n\nUsing RubyLLM? Share your story ! Takes 5 minutes.\n\nEvery AI provider ships their own bloated client. Different APIs. Different response formats. Different conventions. It’s exhausting.\n\nRubyLLM gives you one beautiful framework for all of them. Same interface whether you’re using GPT, Claude, or your local Ollama. Just three dependencies: Faraday, Zeitwerk, and Marcel. That’s it.\n\nVisit http://localhost:3000/chats for a ready-to-use chat interface!",
+  "url": "https://rubyllm.com/",
+  "publishedAt": "2026-06-24T14:41:41.000Z",
+  "points": 345,
+  "id": "hacker-news-e655a200",
+  "slug": "hacker-news-e655a200",
+  "fetchedAt": "2026-06-25T01:31:06.581Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "RubyLLM：适用于所有主要 AI 提供商的 Ruby 框架",
+  "chineseSummary": "345 分 · 55 条评论",
+  "chineseContent": "适用于所有主要 AI 提供商的单一、美观的 Ruby 框架。轻松构建聊天机器人、AI 代理、RAG 应用程序、内容生成器以及您能想到的每个 AI 工作流程。\n\n战斗测试 - 完全私人工作人工智能\n\n在两分钟内构建一个可用的 Ruby AI 聊天\n\n使用 RubyLLM？分享你的故事！需要 5 分钟。\n\n每个人工智能提供商都提供自己臃肿的客户端。不同的 API。不同的响应格式。不同的约定。这很累。\n\nRubyLLM 为您提供了一个适用于所有这些问题的漂亮框架。无论您使用 GPT、Claude 还是本地 Ollama，界面都是相同的。只有三个依赖项：Faraday、Zeitwerk 和 Marcel。就是这样。\n\n访问 http://localhost:3000/chats 即可使用聊天界面！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/n0-computer/iroh",
   "docsUrl": "https://iroh.computer",
-  "stars": 10629,
-  "forks": 484,
+  "stars": 10698,
+  "forks": 488,
   "openIssues": 147,
   "license": "Apache-2.0",
-  "pushedAt": "2026-06-23T15:43:10Z",
-  "updatedAt": "2026-06-24T01:13:46Z",
+  "pushedAt": "2026-06-24T08:42:49Z",
+  "updatedAt": "2026-06-25T01:17:41Z",
   "createdAt": "2022-03-14T19:30:08Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1 align=\"center\"><a href=\"https://iroh.computer\"><img alt=\"iroh\" src=\"./.img/iroh_wordmark.svg\" width=\"100\" /></a></h1>\n\n<h3 align=\"center\">\nless net work for networks\n</h3>\n\n[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square)](https://docs.rs/iroh/)\n[![Crates.io](https://img.shields.io/crates/v/iroh.svg?style=flat-square)](https://crates.io/crates/iroh)\n[![downloads](https://img.shields.io/crates/d/iroh.svg?style=flat-square)](https://crates.io/crates/iroh)\n[![Chat](https://img.shields.io/discord/1161119546170687619?logo=discord&style=flat-square)](https://discord.com/invite/DpmJgtU7cW)\n[![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@n0computer)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE-MIT)\n[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE-APACHE)\n[![CI](https://img.shields.io/github/actions/workflow/status/n0-computer/iroh/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/n0-computer/iroh/actions/workflows/ci.yml)\n\n<div align=\"center\">\n  <h3>\n    <a href=\"https://iroh.computer/docs\">\n      Docs Site\n    </a>\n    <span> | </span>\n    <a href=\"https://docs.rs/iroh\">\n      Rust Docs\n    </a>\n  </h3>\n</div>\n<br/>\n\n## What is iroh?\n\nIroh gives you an API for dialing by public key.\nYou say “connect to that phone”, iroh will find & maintain the fastest connection for you, regardless of where it is.\n\n### Hole-punching\n\nThe fastest route is a direct connection, so if necessary, iroh tries to hole-punch.\nShould this fail, it can fall back to an open ecosystem of public relay servers.\nTo ensure these connections are as fast as possible, we [continuously measure iroh][iroh-perf].\n\n### Built on [QUIC]\n\nIroh uses [noq] to establish [QUIC] connections between endpoints.\nThis way you get authenticated encryption, concurrent streams with stream priorities, a datagram transport and avoid head-of-line-blocking out of the box.\n\n## Compose Protocols\n\nUse pre-existing protocols built on iroh instead of writing your own:\n- [iroh-blobs] for [BLAKE3]-based content-addressed blob transfer scaling from kilobytes to terabytes\n- [iroh-gossip] for establishing publish-subscribe overlay networks that scale, requiring only resources that your average phone can handle\n- [iroh-docs] for an eventually-consistent key-value store of [iroh-blobs] blobs\n\n## Getting Started\n\n### Rust Library\n\nIt's easiest to use iroh from rust.\nInstall it using `cargo add iroh`, then on the connecting side:\n\n```rs\nconst ALPN: &[u8] = b\"iroh-example/echo/0\";\n\nlet endpoint = Endpoint::bind().await?;\n\n// Open a connection to the accepting endpoint\nlet conn = endpoint.connect(addr, ALPN).await?;\n\n// Open a bidirectional QUIC stream\nlet (mut send, mut recv) = conn.open_bi().await?;\n\n// Send some data to be echoed\nsend.write_all(b\"Hello, world!\").await?;\nsend.fin",
-  "generatedAt": "2026-06-24T01:22:35.992Z",
+  "generatedAt": "2026-06-25T01:30:49.889Z",
   "analysis": {
     "oneLine": "iroh 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "iroh 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，iroh 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 10,629，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，iroh 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 10,698，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

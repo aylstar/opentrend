@@ -8,12 +8,12 @@
   "language": "C",
   "githubUrl": "https://github.com/DeusData/codebase-memory-mcp",
   "docsUrl": "https://deusdata.github.io/codebase-memory-mcp/",
-  "stars": 12965,
-  "forks": 939,
-  "openIssues": 129,
+  "stars": 14137,
+  "forks": 1040,
+  "openIssues": 140,
   "license": "MIT",
-  "pushedAt": "2026-06-24T01:16:05Z",
-  "updatedAt": "2026-06-24T01:22:16Z",
+  "pushedAt": "2026-06-24T06:35:12Z",
+  "updatedAt": "2026-06-25T01:29:14Z",
   "createdAt": "2026-02-24T22:01:00Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "# codebase-memory-mcp\n\n[![GitHub Release](https://img.shields.io/github/v/release/DeusData/codebase-memory-mcp?style=flat&color=blue)](https://github.com/DeusData/codebase-memory-mcp/releases/latest)\n[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)\n[![CI](https://img.shields.io/github/actions/workflow/status/DeusData/codebase-memory-mcp/dry-run.yml?label=CI)](https://github.com/DeusData/codebase-memory-mcp/actions/workflows/dry-run.yml)\n[![Tests](https://img.shields.io/badge/tests-5604_passing-brightgreen)](https://github.com/DeusData/codebase-memory-mcp)\n[![Languages](https://img.shields.io/badge/languages-158-orange)](https://github.com/DeusData/codebase-memory-mcp)\n[![Hybrid LSP](https://img.shields.io/badge/Hybrid_LSP-9_languages-blue)](#hybrid-lsp)\n[![Agents](https://img.shields.io/badge/agents-11-purple)](https://github.com/DeusData/codebase-memory-mcp)\n[![Pure C](https://img.shields.io/badge/pure_C-zero_dependencies-blue)](https://github.com/DeusData/codebase-memory-mcp)\n[![Platform](https://img.shields.io/badge/macOS_%7C_Linux_%7C_Windows-supported-lightgrey)](https://github.com/DeusData/codebase-memory-mcp/releases/latest)\n[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/DeusData/codebase-memory-mcp/badge)](https://scorecard.dev/viewer/?uri=github.com/DeusData/codebase-memory-mcp)\n[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev)\n[![VirusTotal](https://img.shields.io/badge/VirusTotal-scanned_every_release-brightgreen?logo=virustotal)](https://github.com/DeusData/codebase-memory-mcp/releases/latest)\n[![arXiv](https://img.shields.io/badge/arXiv-2603.27277-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.27277)\n\n**The fastest and most efficient code intelligence engine for AI coding agents.** Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes. Answers structural queries in under 1ms. Ships as a single static binary for macOS, Linux, and Windows — download, run `install`, done.\n\nHigh-quality parsing through [tree-sitter](https://tree-sitter.github.io/tree-sitter/) AST analysis across all 158 languages, enhanced with [**Hybrid LSP** semantic type resolution](#hybrid-lsp) for Python, TypeScript / JavaScript / JSX / TSX, PHP, C#, Go, C, C++, Java, Kotlin, and Rust — producing a persistent knowledge graph of functions, classes, call chains, HTTP routes, and cross-service links. 14 MCP tools. Zero dependencies. Plug and play across 11 coding agents.\n\n> **Research** — The design and benchmarks behind this project are described in the preprint [*Codebase-Memory: Tree-Sitter-Based Knowledge Graphs for LLM Code Exploration via MCP*](https://arxiv.org/abs/2603.27277) (arXiv:2603.27277). Evaluated across 31 real-world repositories: 83% answer quality, 10× fewer tokens, 2.1× fewer tool calls vs. file-by-file exploration.\n\n> **Security & Trust** — This tool reads your codebase and writes to your agent configuration files. That is what it is ",
-  "generatedAt": "2026-06-24T01:22:34.873Z",
+  "generatedAt": "2026-06-25T01:30:49.072Z",
   "analysis": {
     "oneLine": "codebase-memory-mcp 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "codebase-memory-mcp 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，codebase-memory-mcp 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 12,965，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，codebase-memory-mcp 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 14,137，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

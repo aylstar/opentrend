@@ -8,12 +8,12 @@
   "language": "Go",
   "githubUrl": "https://github.com/esengine/DeepSeek-Reasonix",
   "docsUrl": "http://reasonix.io/",
-  "stars": 24148,
-  "forks": 1468,
-  "openIssues": 794,
+  "stars": 24416,
+  "forks": 1483,
+  "openIssues": 816,
   "license": "MIT",
-  "pushedAt": "2026-06-23T09:24:43Z",
-  "updatedAt": "2026-06-24T01:19:27Z",
+  "pushedAt": "2026-06-24T20:06:42Z",
+  "updatedAt": "2026-06-25T01:17:10Z",
   "createdAt": "2026-04-21T08:27:02Z",
   "archived": false,
   "trendWindows": [
@@ -26,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"docs/logo.svg\" alt=\"Reasonix\" width=\"640\"/>\n</p>\n\n<p align=\"center\">\n  <strong>English</strong>\n  &nbsp;·&nbsp;\n  <a href=\"./README.zh-CN.md\">简体中文</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/GUIDE.md\">Guide</a>\n  &nbsp;·&nbsp;\n  <a href=\"./docs/SPEC.md\">Spec</a>\n  &nbsp;·&nbsp;\n  <a href=\"https://esengine.github.io/DeepSeek-Reasonix/\">Website</a>\n  &nbsp;·&nbsp;\n  <strong><a href=\"https://discord.gg/XF78rEME2D\">Discord</a></strong>\n</p>\n\n> [!IMPORTANT]\n> **Reasonix 1.0 is a ground-up rewrite in Go** — this branch (`main-v2`) is the new default and where development happens now.\n> The earlier `0.x` TypeScript releases are **legacy**, living on the [`v1`](https://github.com/esengine/DeepSeek-Reasonix/tree/v1) branch (maintenance only).\n> See the **[migration guide](./docs/MIGRATING.md)**. `npm i -g reasonix` stays the install command — `1.0.0`+ delivers the Go binary, `0.x` is the legacy TS build.\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/reasonix\"><img src=\"https://img.shields.io/npm/v/reasonix.svg?style=flat-square&color=cb3837&labelColor=161b22&logo=npm&logoColor=white\" alt=\"npm version\"/></a>\n  <a href=\"https://github.com/esengine/DeepSeek-Reasonix/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/esengine/DeepSeek-Reasonix/ci.yml?style=flat-square&label=ci&labelColor=161b22&logo=githubactions&logoColor=white\" alt=\"CI\"/></a>\n  <a href=\"./LICENSE\"><img src=\"https://img.shields.io/npm/l/reasonix.svg?style=flat-square&color=8b949e&labelColor=161b22\" alt=\"license\"/></a>\n  <a href=\"https://www.npmjs.com/package/reasonix\"><img src=\"https://img.shields.io/npm/dm/reasonix.svg?style=flat-square&color=3fb950&labelColor=161b22&label=downloads\" alt=\"downloads\"/></a>\n  <a href=\"https://github.com/esengine/DeepSeek-Reasonix/stargazers\"><img src=\"https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix.svg?style=flat-square&color=dbab09&labelColor=161b22&logo=github&logoColor=white\" alt=\"GitHub stars\"/></a>\n  <a href=\"https://atomgit.com/esengine/DeepSeek-Reasonix\"><img src=\"https://atomgit.com/esengine/DeepSeek-Reasonix/star/badge.svg\" alt=\"AtomGit stars\"/></a>\n  <a href=\"https://github.com/esengine/DeepSeek-Reasonix/graphs/contributors\"><img src=\"https://img.shields.io/github/contributors/esengine/DeepSeek-Reasonix.svg?style=flat-square&color=bc8cff&labelColor=161b22&logo=github&logoColor=white\" alt=\"contributors\"/></a>\n  <a href=\"https://github.com/esengine/DeepSeek-Reasonix/discussions\"><img src=\"https://img.shields.io/github/discussions/esengine/DeepSeek-Reasonix.svg?style=flat-square&color=58a6ff&labelColor=161b22&logo=github&logoColor=white\" alt=\"Discussions\"/></a>\n  <a href=\"https://discord.gg/XF78rEME2D\"><img src=\"https://img.shields.io/badge/discord-join-5865F2.svg?style=flat-square&labelColor=161b22&logo=discord&logoColor=white\" alt=\"Discord\"/></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://oosmetrics.com/repo/esengine/reasonix\"><img src=\"https://api.oosmetri",
-  "generatedAt": "2026-06-24T01:22:38.584Z",
+  "generatedAt": "2026-06-25T01:30:55.201Z",
   "analysis": {
     "oneLine": "DeepSeek-Reasonix 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "DeepSeek-Reasonix 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，DeepSeek-Reasonix 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 24,148，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，DeepSeek-Reasonix 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 24,416，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

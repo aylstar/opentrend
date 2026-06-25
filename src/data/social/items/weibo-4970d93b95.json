@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4970d93b95",
+  "slug": "weibo-存储芯片涨价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "存储芯片涨价",
+  "summary": "微博热榜第 10 位：存储芯片涨价，当前热度为 55万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%23",
+  "hotValue": "55万热度",
+  "author": "",
+  "publishedAt": "2026-06-25 09:23:20",
+  "fetchedAt": "2026-06-25T01:32:05.661Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

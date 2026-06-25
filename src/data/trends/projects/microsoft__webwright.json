@@ -1,0 +1,72 @@
+{
+  "slug": "microsoft__webwright",
+  "owner": "microsoft",
+  "repo": "Webwright",
+  "name": "Webwright",
+  "fullName": "microsoft/Webwright",
+  "description": "A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ",
+  "language": "Python",
+  "githubUrl": "https://github.com/microsoft/Webwright",
+  "docsUrl": "https://docs.claude.com/en/docs/claude-code/plugins",
+  "stars": 5602,
+  "forks": 354,
+  "openIssues": 34,
+  "license": "MIT",
+  "pushedAt": "2026-06-03T22:29:25Z",
+  "updatedAt": "2026-06-25T01:24:28Z",
+  "createdAt": "2026-04-08T01:48:09Z",
+  "archived": false,
+  "trendWindows": [
+    "monthly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# Webwright\n\n<p align=\"center\">\n  <img src=\"assets/webwright_logo.svg\" alt=\"Webwright logo\" width=\"320\">\n</p>\n\n<p align=\"center\"><b>Turn Your Coding Models to Be State-of-the-art Browser Agents</b></p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/python-%E2%89%A53.10-blue?logo=python&logoColor=white\" alt=\"Python\">\n  <img src=\"https://img.shields.io/badge/playwright-chromium-green\" alt=\"Playwright\">\n  <img src=\"https://img.shields.io/badge/backends-OpenAI%20%7C%20Anthropic%20%7C%20OpenRouter-orange\" alt=\"Backends\">\n  <img src=\"https://img.shields.io/badge/footprint-%E2%89%A4~1.5k%20LoC-brightgreen\" alt=\"Footprint\">\n</p>\n\n- 📝 **Blog:** [Webwright: A Terminal Is All You Need For Web Agents](https://www.microsoft.com/en-us/research/articles/webwright-a-terminal-is-all-you-need-for-web-agents/)\n- 🌐 **Project Page:** [microsoft.github.io/Webwright](https://microsoft.github.io/Webwright/)\n\nWebwright gives LLM a terminal where it can launch multiple browser sessions to inspect the page and complete a web task. It captures and inspects page screenshots/states only when needed. It enforces each web task to be completed end-to-end within a re-runnable Python script, i.e. your web agent browsing history is a single code file. No multi-agent system, no graph engine, no plugin layer, no hidden orchestration — just a terminal, a browser, and a model.\n\nAlready got your favorite agents, and wonder how to make Claude Code, Codex, Hermes, OpenClaw more capable in browser tasks? Consider adding [Webwright plugin/skills](#-use-as-a-claude-code-skill)!\n\n---\n\n## 📰 News\n\n- **2026-05-11** — Support Task2UI mode: Webwright completes the task and renders task results into an HTML-based web app you can easily view and reuse.  \n- **2026-05-06** — Codex and Claude Code plugin manifests added; install via `/plugin install webwright@webwright`. OpenClaw and Hermes Agent integrations shipped; the same `skills/webwright/` folder now loads across Claude Code, Codex, OpenClaw, and Hermes.\n- **2026-05-04** — Initial public release: ~1.5k LoC, OpenAI / Anthropic / OpenRouter backends, Playwright environment.\n\n---\n\n<details>\n<summary><strong>💡 Motivation: Beyond Step-by-Step Web Interaction in a Stateful Browser</strong></summary>\n\nMost web agents today treat the browser session itself as the workspace: at each step the model receives the current page state and predicts a single next operation — a click, a type, a DOM selector, or a short tool call. Whatever the format, the agent is locked into predicting one web action at a time inside a predefined interaction loop. That harness was useful when LLMs were weaker. As models get stronger at writing and debugging code, the same harness becomes a bottleneck.\n\nWebwright takes a different stance: **separate the agent from the browser**, and treat the browser as something the agent can launch, inspect, and discard while developing a program. The persistent artifact is not the browser session — it's the **code and logs in ",
+  "generatedAt": "2026-06-25T01:30:54.856Z",
+  "analysis": {
+    "oneLine": "Webwright 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
+    "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
+    "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
+    "detailParagraphs": [
+      "Webwright 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
+      "如果把它放进实际使用场景，Webwright 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 5,602，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "复杂网页自动化测试",
+      "内控允许范围内的数据采集",
+      "Playwright 替代方案验证",
+      "浏览器指纹研究"
+    ],
+    "interpretation": "Webwright 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "pip install flask\npip install -e .\npip install -e .",
+    "deployment": "应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升自动化浏览器在测试、采集和复杂网页交互中的兼容性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-06-25T01:30:54.857Z"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+  "summary": "146 points · 52 comments",
+  "content": "I just think it's pretty messed up that crates[.]io still requires a GitHub account to login, therefore to publish Rust packages. GitHub shouldn't be a shadow dependency of the language ecosystem.",
+  "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+  "publishedAt": "2026-06-24T19:40:11.000Z",
+  "points": 146,
+  "id": "hacker-news-ca74ea15",
+  "slug": "hacker-news-ca74ea15",
+  "fetchedAt": "2026-06-25T01:31:06.582Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "GitHub 不应该成为在 crates.io 上发布 Rust 的依赖项",
+  "chineseSummary": "146 分 · 52 条评论",
+  "chineseContent": "我只是觉得 crates[.]io 仍然需要 GitHub 帐户才能登录，因此要发布 Rust 包，这很混乱。 GitHub 不应该成为语言生态系统的影子依赖。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron, Qualcomm ease AI jitters",
+  "summary": "US stock futures rose as Micron and Qualcomm helped boost confidence in the AI trade following several tough days for tech stocks.",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-micron-qualcomm-ease-ai-jitters-232650645.html?.tsrc=rss",
+  "publishedAt": "2026-06-24T23:26:50.000Z",
+  "id": "yahoo-finance-f1b62644",
+  "slug": "yahoo-finance-f1b62644",
+  "content": "US stock futures rose as Micron and Qualcomm helped boost confidence in the AI trade following several tough days for tech stocks.Futures attached to the Dow Jones Industrial Average (YM=F) and the benchmark S&P 500 (ES=F) hovered above the flat line. Futures attached to the tech-heavy Nasdaq 100 (NQ=F) rose 2%.Micron (MU) posted a sizable earnings beat and offered a rosy outlook on Wednesday after the bell. Shares of the company surged more than 10%. Qualcomm’s (QCOM) after-hours announcement that it would break into the data center market and expects to see surging revenue from its AI business also lifted its stock.Investors are closely watching the AI trade as tech has been sagging this week. Wall Street is scrutinizing lofty AI valuations and spending, alongside the chance of interest rate hikes from the Federal Reserve. The policy path of the Federal Reserve will be back in the spotlight on Thursday when investors will receive May's reading of the central bank's preferred inflation gauge, the Personal Consumption Expenditures (PCE) Price Index. At the June meeting of the Federal Reserve, almost half of officials indicated that they expect to see at least one interest rate hike this year.",
+  "fetchedAt": "2026-06-25T01:31:06.584Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 27,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨，美光、高通缓解了 AI 的不安",
+  "chineseSummary": "在科技股经历了数个艰难的日子后，美光和高通帮助提振了人们对人工智能行业的信心，美国股指期货上涨。",
+  "chineseContent": "在科技股经历了数个艰难的日子后，美光和高通帮助提振了人们对人工智能行业的信心，美国股指期货上涨。道琼斯工业平均指数 (YM=F) 和基准标准普尔 500 指数 (ES=F) 的期货徘徊在平线上方。以科技股为主的纳斯达克 100 指数 (NQ=F) 期货上涨 2%。周三盘后，美光 (MU) 公布了大幅盈利，并提供了乐观的前景。该公司股价飙升逾10%。高通 (QCOM) 盘后宣布将进军数据中心市场，并预计人工智能业务收入大幅增长，这也提振了其股价。 由于本周科技股低迷，投资者正在密切关注人工智能交易。华尔街正在审视人工智能的高估值和支出，以及美联储加息的可能性。周四，美联储的政策路径将重新成为人们关注的焦点，届时投资者将收到美联储首选通胀指标个人消费支出 (PCE) 价格指数 5 月份的数据。在美联储6月会议上，近半数官员表示预计今年至少加息一次。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

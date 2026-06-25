@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Bitcoin hits 20-month low as market sentiment sours",
+  "summary": "Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets",
+  "url": "https://www.ft.com/content/41d1da8f-e1a8-4953-9d89-a8caa84cd26c",
+  "publishedAt": "2026-06-24T19:37:41.000Z",
+  "id": "financial-times-9c7de45f",
+  "slug": "financial-times-9c7de45f",
+  "content": "Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets",
+  "fetchedAt": "2026-06-25T01:31:06.590Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "市场情绪恶化，比特币触及20个月低点",
+  "chineseSummary": "随着散户投资者转向人工智能相关股票押注，全球交易最活跃的数字资产价格跌破 60,000 美元",
+  "chineseContent": "随着散户投资者转向人工智能相关股票押注，全球交易最活跃的数字资产价格跌破 60,000 美元",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

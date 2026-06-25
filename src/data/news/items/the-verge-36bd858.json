@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google is finally opening the Play Store to outside payments",
+  "summary": "While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant says it will start rolling out changes to the way it handles billing for developers worldwide. As announced in March, the flat 30 percent […]",
+  "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+  "publishedAt": "2026-06-24T17:36:44.000Z",
+  "id": "the-verge-36bd858",
+  "slug": "the-verge-36bd858",
+  "content": "While the court still hasn’t signed off on the massive settlement resolving Epic’s antitrust lawsuit against Google for having a monopoly over Android’s app store with Google Play, the tech giant says it will start rolling out changes to the way it handles billing for developers worldwide. As announced in March, the flat 30 percent billing fee is being replaced by “lower, decoupled fees” that partially decouple the billing and the app store. How much of a cut Google will take from transactions now depends on whether it’s for a user whose first install came before or after the new structure, how much a developer has earned, and whether or not the developer uses Google Play’s billing system with its 5 percent additional fee, instead of an alternative system or linking to their own website. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6-rate-card-with-border.jpg?quality=90&strip=all] For apps that make over a million dollars annually, that will be 20 percent for new in-app purchases and 10 percent for subscriptions. However Google has also announced Games Level Up and Apps Experience programs for “exceptional” and “premium ” experiences that meet its guidelines by working across platforms (like tablets, smart TVs, or Android Auto), meeting benchmarks for memory usage and crash rates, and supporting features it recommends (like cloud saves or phishing-resistant sign-ins) to qualify for a lower rate on both new and existing installs. Other program changes will go into effect in some areas at the end of September, at the end of the year, before rolling out to the rest of the world after September 30th, 2027. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6-Release-Schedule.jpg?quality=90&strip=all]",
+  "fetchedAt": "2026-06-25T01:31:06.584Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌终于向外部支付开放 Play 商店",
+  "chineseSummary": "尽管法院尚未签署大规模和解协议，以解决 Epic 针对 Google 垄断 Android 应用商店 Google Play 的反垄断诉讼，但这家科技巨头表示，将开始改变其为全球开发者处理计费的方式。正如 3 月份宣布的那样，持平 30% […]",
+  "chineseContent": "尽管法院尚未签署大规模和解协议，以解决 Epic 针对谷歌垄断 Android 应用商店 Google Play 的反垄断诉讼，但这家科技巨头表示，它将开始改变其为全球开发者处理计费的方式。正如 3 月份宣布的那样，30% 的固定计费费用将被“较低的、脱钩的费用”所取代，这种费用部分地使计费和应用商店脱钩。谷歌现在将从交易中抽取多少佣金，取决于首次安装是在新结构之前还是之后的用户、开发者赚了多少钱，以及开发者是否使用 Google Play 的计费系统（收取 5% 的额外费用），而不是替代系统或链接到他们自己的网站。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6-rate-card-with-border.jpg?quality=90&strip=all] 对于年收入超过 100 万美元的应用程序，新的应用内购买费用为 20%，订阅费用为 10%。不过，谷歌还宣布了游戏升级和应用程序体验计划，旨在提供“卓越”和“优质”体验，通过跨平台（如平板电脑、智能电视或 Android Auto）工作、满足内存使用和崩溃率基准以及支持其推荐的功能（如云保存或防网络钓鱼登录）来满足其指导方针，从而使新安装和现有安装都有资格获得较低的费率。其他计划变更将于 9 月底、年底在部分地区生效，然后在 2027 年 9 月 30 日后推广到世界其他地区。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MM6-Release-Schedule.jpg?quality=90&strip=all]",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

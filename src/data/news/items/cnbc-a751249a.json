@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+  "summary": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
+  "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+  "publishedAt": "2026-06-24T20:01:14.000Z",
+  "id": "cnbc-a751249a",
+  "slug": "cnbc-a751249a",
+  "content": "Cerebras Systems CEO Andrew Feldman said Wednesday that investors \"misunderstood\" the artificial intelligence chipmaker's margin guidance, as shares slid almost 20% after the company reported results for the first time since going public.\n\nAnalysts at Mizuho and Wedbush raised their estimates following Cerebras' earnings call. But the company forecast a narrower gross margin in its core business, excluding impact from customer warrants and data center pass-through revenues. The number was 47% for the first quarter, and it should be between 38% and 41% for the full year.\n\n\"It is misunderstood,\" Feldman said on CNBC's \" Squawk on the Street .\" \"You know, we laid out a plan at the start of '26. We shared that plan as we went public a few months ago, and we're beating that plan.\"\n\nHe said management made clear that Cerebras will need to rent back some equipment from one of its largest clients.\n\n\"I think it's not going to be a straight line,\" he said.\n\nInvestors also must contend with Cerebras insiders being subject to a staggered timeline for lock-up restrictions. That includes about 28 million Class A Cerebras shares that directors, officers and nonemployee shareholders can trade on the second trading day after Tuesday's earnings announcement, according to the company's prospectus .\n\nThe point was to smooth out the schedule, which typically comes after a set number of months after an initial public offering, Feldman said.\n\n\"Whether that's a success or not, we'll have to see,\" he told CNBC's Carl Quintanilla and Leslie Picker.\n\nRivals such as Nvidia are confronting supply shortages in high-bandwidth memory and a cutting-edge process from Taiwan Semiconductor Manufacturing Co. , but Cerebras doesn't need either of those, Feldman said.\n\nCerebras is, however, facing pressure to open more data centers, as are cloud infrastructure providers, while public opposition mounts and permitting processes can drag on.\n\n\"We're trying to move at the speed of AI, and data centers move with the speed of real estate,\" Feldman said.",
+  "fetchedAt": "2026-06-25T01:31:06.585Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Cerebras 首席执行官表示利润率预测被“误解”，因为盈利后股价暴跌",
+  "chineseSummary": "人工智能芯片制造商 Cerebras 的禁售期是交错的，其中一些股票将于本周开始交易。",
+  "chineseContent": "Cerebras Systems 首席执行官安德鲁·费尔德曼 (Andrew Feldman) 周三表示，投资者“误解”了这家人工智能芯片制造商的利润指引，因为该公司自上市以来首次公布业绩后，股价下跌了近 20%。\n\n瑞穗和韦德布什的分析师在 Cerebras 的财报电话会议后上调了预期。但该公司预计，不包括客户保证和数据中心直通收入的影响，其核心业务的毛利率将收窄。第一季度这个数字是47%，全年应该在38%到41%之间。\n\n“这被误解了，”费尔德曼在 CNBC 的“Squawk on the Street”节目中说道。 “你知道，我们在 26 年初制定了一项计划。几个月前我们在上市时分享了该计划，并且我们正在超越该计划。”\n\n他表示，管理层明确表示，Cerebras 将需要从其最大客户之一租回一些设备。\n\n“我认为这不会是一条直线，”他说。\n\n投资者还必须应对 Cerebras 内部人士遵守交错的禁售限制时间表的问题。根据该公司的招股说明书，其中包括约 2800 万股 Cerebras A 类股票，董事、管理人员和非雇员股东可以在周二公布收益后的第二个交易日进行交易。\n\n费尔德曼表示，重点是要理顺时间表，通常是在首次公开募股后的几个月后进行。\n\n“无论这是否成功，我们都必须拭目以待，”他告诉 CNBC 的卡尔·昆塔尼拉和莱斯利·皮克。\n\n费尔德曼表示，英伟达等竞争对手正面临高带宽内存和台积电尖端工艺的供应短缺，但 Cerebras 不需要其中任何一个。\n\n然而，Cerebras 面临着开放更多数据中心的压力，云基础设施提供商也是如此，而公众的反对声音越来越大，许可程序可能会拖延。\n\n费尔德曼说：“我们正在努力以人工智能的速度发展，数据中心以房地产的速度发展。”",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
