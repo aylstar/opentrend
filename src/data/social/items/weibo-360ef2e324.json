@@ -1,0 +1,21 @@
+{
+  "id": "weibo-360ef2e324",
+  "slug": "weibo-电影功夫女足",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "电影功夫女足",
+  "summary": "微博热榜第 47 位：电影功夫女足，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

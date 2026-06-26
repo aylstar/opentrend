@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4f8f3ea41f",
+  "slug": "weibo-大金镯又卖爆了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "大金镯又卖爆了",
+  "summary": "微博热榜第 27 位：大金镯又卖爆了，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%91%E9%95%AF%E5%8F%88%E5%8D%96%E7%88%86%E4%BA%86%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-23358d2d24",
+  "slug": "weibo-人形机器人",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "人形机器人",
+  "summary": "微博热榜第 34 位：人形机器人，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

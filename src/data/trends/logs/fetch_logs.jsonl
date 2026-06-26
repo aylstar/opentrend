@@ -866,3 +866,21 @@
 {"time":"2026-06-25T01:30:54.857Z","level":"info","message":"processed microsoft/Webwright"}
 {"time":"2026-06-25T01:30:55.202Z","level":"info","message":"processed esengine/DeepSeek-Reasonix"}
 {"time":"2026-06-25T01:30:55.667Z","level":"info","message":"processed Egonex-AI/Understand-Anything"}
+{"time":"2026-06-26T01:34:43.236Z","level":"info","message":"trend run started, limit=10"}
+{"time":"2026-06-26T01:34:44.754Z","level":"info","message":"processed calesthio/OpenMontage"}
+{"time":"2026-06-26T01:34:45.094Z","level":"info","message":"processed DeusData/codebase-memory-mcp"}
+{"time":"2026-06-26T01:34:45.462Z","level":"info","message":"processed google-research/timesfm"}
+{"time":"2026-06-26T01:34:45.803Z","level":"info","message":"processed koala73/worldmonitor"}
+{"time":"2026-06-26T01:34:46.164Z","level":"info","message":"processed penpot/penpot"}
+{"time":"2026-06-26T01:34:46.520Z","level":"info","message":"processed jamiepine/voicebox"}
+{"time":"2026-06-26T01:34:46.866Z","level":"info","message":"processed asgeirtj/system_prompts_leaks"}
+{"time":"2026-06-26T01:34:47.193Z","level":"info","message":"processed Panniantong/Agent-Reach"}
+{"time":"2026-06-26T01:34:47.503Z","level":"info","message":"processed ZhuLinsen/daily_stock_analysis"}
+{"time":"2026-06-26T01:34:47.837Z","level":"info","message":"processed OpenCut-app/OpenCut"}
+{"time":"2026-06-26T01:34:48.160Z","level":"info","message":"processed harry0703/MoneyPrinterTurbo"}
+{"time":"2026-06-26T01:34:48.543Z","level":"info","message":"processed apple/container"}
+{"time":"2026-06-26T01:34:48.898Z","level":"info","message":"processed mvanhorn/last30days-skill"}
+{"time":"2026-06-26T01:34:49.255Z","level":"info","message":"processed iptv-org/iptv"}
+{"time":"2026-06-26T01:34:49.629Z","level":"info","message":"processed microsoft/markitdown"}
+{"time":"2026-06-26T01:34:49.938Z","level":"info","message":"processed lfnovo/open-notebook"}
+{"time":"2026-06-26T01:34:50.263Z","level":"info","message":"processed phuryn/pm-skills"}

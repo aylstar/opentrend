@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6c74c3299d",
+  "slug": "weibo-金价回落至900元以下",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "金价回落至900元以下",
+  "summary": "微博热榜第 25 位：金价回落至900元以下，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

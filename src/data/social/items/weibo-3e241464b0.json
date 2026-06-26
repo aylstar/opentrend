@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3e241464b0",
+  "slug": "weibo-babycare",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "babycare",
+  "summary": "微博热榜第 15 位：babycare，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23babycare%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

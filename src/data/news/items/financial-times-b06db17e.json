@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Apple increases MacBook and iPad prices by 20%",
+  "summary": "iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven memory shortage",
+  "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+  "publishedAt": "2026-06-25T20:36:09.000Z",
+  "id": "financial-times-b06db17e",
+  "slug": "financial-times-b06db17e",
+  "content": "iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven memory shortage",
+  "fetchedAt": "2026-06-26T01:34:59.759Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "金融"
+  ],
+  "rank": 12,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Apple 将 MacBook 和 iPad 价格提高 20%",
+  "chineseSummary": "iPhone制造商市值损失2630亿美元，将成本归咎于人工智能驱动的内存短缺",
+  "chineseContent": "iPhone制造商市值损失2630亿美元，将成本归咎于人工智能驱动的内存短缺",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Blop",
+  "summary": "Describe your app and Blop tests it and repairs broken tests Discussion | Link",
+  "url": "https://www.producthunt.com/products/blop-ai",
+  "publishedAt": "2026-06-24T18:41:05.000Z",
+  "id": "product-hunt-52104fa8",
+  "slug": "product-hunt-52104fa8",
+  "content": "Blop makes sure your product actually works before your customers find out it doesn't. You simply describe what your app should do, like \"a user can sign up and check out,\" and Blop automatically tests it every time you make a change, catching bugs before they reach anyone. When your product changes, it quietly fixes its own tests, so you don't need a QA team or engineers spending their week on it. You ship faster, with the confidence that nothing important broke.",
+  "fetchedAt": "2026-06-26T01:34:59.750Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "布洛普",
+  "chineseSummary": "描述您的应用程序并 Blop 对其进行测试并修复损坏的测试关联",
+  "chineseContent": "Blop 确保您的产品在您的客户发现它不起作用之前确实有效。您只需描述您的应用程序应该执行的操作，例如“用户可以注册并签出”，每次您进行更改时，Blop 都会自动对其进行测试，从而在错误到达任何人之前捕获它们。当您的产品发生变化时，它会悄悄地修复自己的测试，因此您不需要 QA 团队或工程师花费一周的时间。您可以更快地发货，并确信没有任何重要问题发生。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

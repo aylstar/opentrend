@@ -1,0 +1,21 @@
+{
+  "id": "weibo-23fae00365",
+  "slug": "weibo-日本领先瑞典",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "日本领先瑞典",
+  "summary": "微博热榜第 39 位：日本领先瑞典，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A2%86%E5%85%88%E7%91%9E%E5%85%B8%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+  "summary": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+  "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-06-25T03:12:17.000Z",
+  "id": "bbc-56aa4ea7",
+  "slug": "bbc-56aa4ea7",
+  "content": "US artificial intelligence (AI) giant Anthropic has accused Chinese e-commerce and technology firm Alibaba of \"brazenly\" and \"illicitly\" extracting its Claude AI model's capabilities.\n\nIn a letter sent to two members of the US Congress, the San Francisco-based company said operators linked to Alibaba carried out almost 29 million exchanges with Claude using thousands of fraudulent accounts in what it called the largest extraction campaign of its kind.\n\nAnthropic urged Congress to penalise the companies behind attacks like this and to ramp up measures to prevent US tech from being stolen.\n\nThe BBC has contacted Alibaba for comment and requested more details from Anthropic.\n\nAnthropic's letter, dated 10 June and addressed to US Senators Tim Scott and Elizabeth Warren, accused New York Stock Exchange-listed Alibaba of carrying out \"the largest campaign to illicitly extract Claude's capabilities\".\n\nAccording to Anthropic, the campaign was carried out through what are known as \"distillation attacks\", which extracted answers from a stronger AI model to train a weaker one.\n\nAlibaba-linked operators targeted Claude's most valuable capabilities, including its ability to tackle longer and more complex tasks and its approach to decision-making, Anthropic said.\n\nThese type of attacks are carried out on an \"industrial scale\" to enable Chinese companies to harvest and repackage US AI capabilities as their own, the company said.\n\nThe letter also cited other alleged attacks, which Anthropic said posed a threat to the US military.\n\n\"Distillation attacks turn hundreds of billions of dollars in American investment and [research and development] into a massive subsidy for our geopolitical competitors,\" said Anthropic.\n\nIt cited the US Department of Defense's claims that Alibaba and several major firms like car maker BYD and tech company Baidu are tied to the Chinese military .\n\nThe companies have denied any such allegations, while Alibaba this week sued the US government in a bid to get its name removed from the Pentagon blacklist.\n\nUS developers have previously accused Chinese competitors of using distillation attacks to train their models to rival American AI technology at a fraction of the cost.\n\nOpenAI has also previously accused Chinese groups of employing the same practice.\n\nAnthropic is a leading AI developer and, alongside ChatGPT-maker OpenAI, is gearing up for a blockbuster stock market debut that could make it one of the most vaulable companies in the world.\n\nBut some of Anthropic's more advanced models, such as Mythos, have raised cybersecurity concerns over their ability to target weaknesses in computer systems.\n\nIs China quietly winning the AI race?\n\nThe Chinese AI app sending Hollywood into a panic",
+  "fetchedAt": "2026-06-26T01:34:59.740Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 指责中国竞争对手阿里巴巴非法提取 AI 能力",
+  "chineseSummary": "该公司声称阿里巴巴使用欺诈账户来访问其 Claude AI 模型的数据。",
+  "chineseContent": "美国人工智能（AI）巨头 Anthropic 指责中国电子商务和科技公司阿里巴巴“公然”和“非法”提取其 Claude AI 模型的功能。\n\n这家总部位于旧金山的公司在致两名美国国会议员的一封信中表示，与阿里巴巴有关的运营商使用数千个欺诈账户与克劳德进行了近 2900 万次交易，这被称为同类中最大规模的提取活动。\n\nAnthropic 敦促国会惩罚此类攻击背后的公司，并加强措施防止美国技术被盗。\n\nBBC 已联系阿里巴巴请其置评，并要求 Anthropic 提供更多详细信息。\n\nAnthropic 在 6 月 10 日致美国参议员蒂姆·斯科特和伊丽莎白·沃伦的信中指责在纽约证券交易所上市的阿里巴巴开展“最大规模的非法榨取克劳德能力的活动”。\n\n据 Anthropic 称，该活动是通过所谓的“蒸馏攻击”进行的，即从较强的人工智能模型中提取答案来训练较弱的人工智能模型。\n\nAnthropic 表示，与阿里巴巴有关联的运营商瞄准了克劳德最有价值的能力，包括处理更长时间、更复杂任务的能力以及决策方法。\n\n该公司表示，此类攻击是在“工业规模”上进行的，目的是使中国公司能够收获美国的人工智能能力并将其重新包装为自己的能力。\n\n信中还引用了其他涉嫌的袭击事件，Anthropic 称这些袭击对美国军方构成了威胁。\n\nAnthropic 表示：“蒸馏攻击将美国数千亿美元的投资和（研发）转化为对我们地缘政治竞争对手的巨额补贴。”\n\n它援引美国国防部的说法，称阿里巴巴以及汽车制造商比亚迪和科技公司百度等几家大公司与中国军方有联系。\n\n这些公司否认了任何此类指控，而阿里巴巴本周起诉美国政府，试图将其名字从五角大楼黑名单中删除。\n\n美国开发商此前曾指责中国竞争对手使用蒸馏攻击来训练他们的模型，以与美国人工智能技术相媲美，而成本却只有一小部分。\n\nOpenAI 此前也曾指责中国组织采取了同样的做法。\n\nAnthropic 是一家领先的人工智能开发商，与 ChatGPT 制造商 OpenAI 一起，正在为在股市上的重磅亮相做准备，这可能使其成为世界上最有价值的公司之一。\n\n但 Anthropic 的一些更先进的模型（例如 Mythos）因其针对计算机系统弱点的能力而引发了网络安全担忧。\n\n中国正在悄然赢得人工智能竞赛吗？\n\n中国人工智能应用让好莱坞陷入恐慌",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

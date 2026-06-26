@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5d97e6bfe7",
+  "slug": "weibo-苹果市值一夜蒸发1-8万亿",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "苹果市值一夜蒸发1.8万亿",
+  "summary": "微博热榜第 42 位：苹果市值一夜蒸发1.8万亿，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911.8%E4%B8%87%E4%BA%BF%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

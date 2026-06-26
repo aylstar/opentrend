@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/google-research/timesfm",
   "docsUrl": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
-  "stars": 25450,
-  "forks": 2421,
+  "stars": 25570,
+  "forks": 2429,
   "openIssues": 228,
   "license": "Apache-2.0",
   "pushedAt": "2026-06-23T18:50:53Z",
-  "updatedAt": "2026-06-25T01:30:10Z",
+  "updatedAt": "2026-06-26T01:21:22Z",
   "createdAt": "2024-04-29T21:26:26Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "# TimesFM\n\nTimesFM (Time Series Foundation Model) is a pretrained time-series foundation\nmodel developed by Google Research for time-series forecasting.\n\n*   Paper:\n    [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688),\n    ICML 2024.\n*   All checkpoints:\n    [TimesFM Hugging Face Collection](https://huggingface.co/collections/google/timesfm-release-66e4be5fdb56e960c1e482a6).\n*   [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/).\n*   TimesFM in Google 1P Products:\n    *   [BigQuery ML](https://cloud.google.com/bigquery/docs/timesfm-model): Enterprise level SQL queries for scalability and reliability.\n    *   [Google Sheets](https://workspaceupdates.googleblog.com/2026/02/forecast-data-in-connected-sheets-BigQueryML-TimesFM.html): For your daily spreadsheet. \n    *   [Vertex Model Garden](https://pantheon.corp.google.com/vertex-ai/publishers/google/model-garden/timesfm): Dockerized endpoint for agentic calling.\n\nThis open version is not an officially supported Google product.\n\n**Latest Model Version:** TimesFM 2.5\n\n**Archived Model Versions:**\n\n-   1.0 and 2.0: relevant code archived in the sub directory `v1`. You can `pip\n    install timesfm==1.3.0` to install an older version of this package to load\n    them.\n## Update - June 5, 2026\n\nUpdated PyPI to `timesfm=2.0.0`. See [Install](https://github.com/google-research/timesfm#from-pypi).\n\n## Update - Apr. 9, 2026\n\nAdded fine-tuning example using HuggingFace Transformers + PEFT (LoRA) — see\n[`timesfm-forecasting/examples/finetuning/`](timesfm-forecasting/examples/finetuning/).\nAlso added unit tests (`tests/`) and incorporated several community fixes.\n\nShoutout to [@kashif](https://github.com/kashif) and [@darkpowerxo](https://github.com/darkpowerxo). \n\n## Update - Mar. 19, 2026\n\nHuge shoutout to [@borealBytes](https://github.com/borealBytes) for adding the support for [AGENTS](https://github.com/google-research/timesfm/blob/master/AGENTS.md)! TimesFM [SKILL.md](https://github.com/google-research/timesfm/tree/master/timesfm-forecasting) is out.\n\n## Update - Oct. 29, 2025\n\nAdded back the covariate support through XReg for TimesFM 2.5.\n\n\n## Update - Sept. 15, 2025\n\nTimesFM 2.5 is out!\n\nComparing to TimesFM 2.0, this new 2.5 model:\n\n-   uses 200M parameters, down from 500M.\n-   supports up to 16k context length, up from 2048.\n-   supports continuous quantile forecast up to 1k horizon via an optional 30M\n    quantile head.\n-   gets rid of the `frequency` indicator.\n-   has a couple of new forecasting flags.\n\nSince the Sept. 2025 launch, the following improvements have been completed:\n\n1.  ✅ Flax version of the model for faster inference.\n2.  ✅ Covariate support via XReg (see Oct. 2025 update).\n3.  ✅ Documentation, examples, and agent skill (see `timesfm-forecasting/`).\n4.  ✅ Fine-tuning example with LoRA via HuggingFace Transformers + PEFT (see `timesfm-forecasting/examples/finetuning/`).\n5.  ✅ U",
-  "generatedAt": "2026-06-25T01:30:49.505Z",
+  "generatedAt": "2026-06-26T01:34:45.461Z",
   "analysis": {
     "oneLine": "timesfm 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "timesfm 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，timesfm 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 25,450，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，timesfm 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 25,570，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

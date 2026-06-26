@@ -1,0 +1,21 @@
+{
+  "id": "weibo-30a992f8ca",
+  "slug": "weibo-德国-报复韩国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "德国 报复韩国",
+  "summary": "微博热榜第 1 位：德国 报复韩国，当前热度为 1,189万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD+%E6%8A%A5%E5%A4%8D%E9%9F%A9%E5%9B%BD%23",
+  "hotValue": "1,189万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.922Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock Market Today, June 25: Microsoft Falls as AI Spending Concerns Pressure Cloud Margin Outlook",
+  "summary": "Microsoft’s Azure growth remains a key support for the stock, with investors weighing whether AI demand can offset the rising cost of building cloud capacity.",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-microsoft-falls-as-ai-spending-concerns-pressure-cloud-margin-outlook/?.tsrc=rss",
+  "publishedAt": "2026-06-25T22:20:32.000Z",
+  "id": "yahoo-finance-2bfca797",
+  "slug": "yahoo-finance-2bfca797",
+  "content": "Microsoft’s Azure growth remains a key support for the stock, with investors weighing whether AI demand can offset the rising cost of building cloud capacity.",
+  "fetchedAt": "2026-06-26T01:34:59.753Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 27,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市，6 月 25 日：AI 支出担忧令云利润前景承压，微软股价下跌",
+  "chineseSummary": "微软 Azure 的增长仍然是该股的关键支撑，投资者正在权衡人工智能需求是否能够抵消不断上升的云容量建设成本。",
+  "chineseContent": "微软 Azure 的增长仍然是该股的关键支撑，投资者正在权衡人工智能需求是否能够抵消不断上升的云容量建设成本。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

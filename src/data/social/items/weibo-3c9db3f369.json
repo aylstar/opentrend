@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3c9db3f369",
+  "slug": "weibo-佩佩梅开二度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "佩佩梅开二度",
+  "summary": "微博热榜第 38 位：佩佩梅开二度，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A9%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

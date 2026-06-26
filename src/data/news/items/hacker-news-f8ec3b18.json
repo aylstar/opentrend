@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Political bias in AI: Where the AI models stand",
+  "summary": "119 points · 235 comments",
+  "content": "Across is the economic axis, left to right. Up the side is social, from libertarian to authoritarian. Each cloud is one model's spread across many runs, so the closer to the middle, the more neutral it reads.\n\nAnswer the same questions the models did and we'll place you on the map, then show which model sits closest to you.\n\nThe hollow mark is what the model says when asked which way it leans; the solid mark is where it actually measured on the economic axis (Condition A). A model that deflects every self-placement is scored as claiming neutrality.\n\nThe month's headline results: the sharpest signals from across the data, each linked to the evidence.\n\nEach model profiled: how far it leans, how steadily it holds, how far it bends, and how often it answers.\n\nThe open question bank, browsable: every model on one spectrum, one page per question.\n\nMatched left and right figures: who each model praises warmly, and who it refuses to criticize.\n\nThe same models seen from every country: the country lens, the language shift, and the border test.\n\nPut any two models head to head: the field, the character delta, the disagreements.\n\nTake the quiz and see which model you line up with, plotted on the same field.\n\nHow we ask, classify and score, plus the question bank, the conditions, the raw data and the read API.\n\nPolitical bias in AI measures where the major AI models stand on charged questions about politics, economics, speech and society. We ask every model the same open question bank many times over, with web search off, classify each answer with a cheap neutral model, and plot the result with error bars and the raw answers behind every point.\n\nHow is this different from other AI political bias projects?\n\nWe plot each model as a cloud rather than a single point: every model is run many times, so you see the full spread. We publish our own open question bank with scoring weights, tag each item as factual or values-based, measure run-to-run stability, and count refusals as data. Everything is stamped, versioned and downloadable.\n\nDo you test the model or the internet?\n\nThe weights. Web search is off by default, so the reading reflects what the model itself leans toward, independent of what is online. A separate, deliberately small Border Test turns search on to measure how retrieval shifts answers by location.\n\nNo. It is descriptive rather than prescriptive: it reports what the models said, without ruling on who is right. The palette is deliberately not US red and blue, and we never imply which pole is good.\n\nEach model is asked the same open question bank many times over, with web search off and no system prompt ( Condition A ). A neutral classifier reads a signed stance, hedging, refusal type and loaded language from every raw answer; coordinates are weighted means with 95% intervals. Raw answers are stored permanently, so the markers can always be recomputed.",
+  "url": "https://trakkr.ai/bias",
+  "publishedAt": "2026-06-25T13:08:31.000Z",
+  "points": 119,
+  "id": "hacker-news-f8ec3b18",
+  "slug": "hacker-news-f8ec3b18",
+  "fetchedAt": "2026-06-26T01:34:59.750Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 中的政治偏见：AI 模型的立场",
+  "chineseSummary": "119 分 · 235 条评论",
+  "chineseContent": "对面是经济轴，从左到右。另一方面是社会性的，从自由主义到独裁主义。每个云都是分布在多个运行中的一个模型，因此越靠近中间，它读取的越中性。\n\n回答与模特相同的问题，我们会将您放置在地图上，然后显示哪个模特离您最近。\n\n空心标记是模型在被问及向哪个方向倾斜时所说的内容；实心标记是在经济轴上实际测量的位置（条件 A）。偏离所有自我定位的模型将被评分为声称中立。\n\n本月的头条结果：来自数据的最尖锐信号，每个信号都与证据相关。\n\n每个模型都进行了分析：它倾斜的距离、保持的稳定性、弯曲的程度以及响应的频率。\n\n开放式题库，可浏览：一个谱上的每个模型，每个问题一页。\n\n匹配的左右人物：每个模型热烈赞扬谁，拒绝批评谁。\n\n每个国家都看到相同的模型：国家镜头、语言转换和边界测试。\n\n将任意两个模型放在一起：领域、角色增量、分歧。\n\n参加测验，看看您与绘制在同一区域上的哪个模型对齐。\n\n我们如何提问、分类和评分，加上题库、条件、原始数据和读取 API。\n\n人工智能中的政治偏见衡量的是主要人工智能模型对政治、经济、言论和社会等尖锐问题的立场。我们多次向每个模型询问相同的开放问题库，关闭网络搜索，使用廉价的中性模型对每个答案进行分类，并用误差线和每个点背后的原始答案绘制结果。\n\n这与其他人工智能政治偏见项目有何不同？\n\n我们将每个模型绘制为云而不是单个点：每个模型都运行多次，因此您可以看到完整的分布。我们发布自己的带有评分权重的开放式问题库，将每个项目标记为基于事实或基于价值，衡量运行稳定性，并将拒绝计数为数据。一切都经过标记、版本控制并且可下载。\n\n你测试模型还是互联网？\n\n重量。默认情况下，网络搜索处于关闭状态，因此读数反映了模型本身的倾向，与在线内容无关。一个单独的、故意小的边界测试打开搜索来测量检索如何按位置改变答案。\n\n不。它是描述性的，而不是规定性的：它报告模型所说的内容，而不判断谁是正确的。调色板故意不是美国的红色和蓝色，我们从不暗示哪一极好。\n\n每个模型都会被多次询问相同的开放问题库，网络搜索关闭且没有系统提示（条件 A）。中立分类器从每个原始答案中读取签名立场、对冲、拒绝类型和负载语言；坐标是95%间隔的加权平均值。原始答案会永久存储，因此标记始终可以重新计算。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

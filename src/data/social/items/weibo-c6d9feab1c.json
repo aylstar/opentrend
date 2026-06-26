@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c6d9feab1c",
+  "slug": "weibo-密室大逃脱",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "密室大逃脱",
+  "summary": "微博热榜第 19 位：密室大逃脱，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.923Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

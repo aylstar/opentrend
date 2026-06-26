@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ed0f33d442",
+  "slug": "weibo-日本vs瑞典",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "日本vs瑞典",
+  "summary": "微博热榜第 6 位：日本vs瑞典，当前热度为 46万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%ACvs%E7%91%9E%E5%85%B8%23",
+  "hotValue": "46万热度",
+  "author": "",
+  "publishedAt": "2026-06-26 09:32:16",
+  "fetchedAt": "2026-06-26T01:35:46.922Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
