@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/lfnovo/open-notebook",
   "docsUrl": "https://www.open-notebook.ai",
-  "stars": 33350,
-  "forks": 3747,
+  "stars": 33497,
+  "forks": 3757,
   "openIssues": 98,
   "license": "MIT",
   "pushedAt": "2026-06-25T11:41:37Z",
-  "updatedAt": "2026-06-26T01:29:52Z",
+  "updatedAt": "2026-06-27T01:06:04Z",
   "createdAt": "2024-10-21T17:58:46Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<a id=\"readme-top\"></a>\n\n<!-- [![Contributors][contributors-shield]][contributors-url] -->\n[![Forks][forks-shield]][forks-url]\n[![Stargazers][stars-shield]][stars-url]\n[![Issues][issues-shield]][issues-url]\n[![MIT License][license-shield]][license-url]\n<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->\n\n\n<!-- PROJECT LOGO -->\n<br />\n<div align=\"center\">\n  <a href=\"https://github.com/lfnovo/open-notebook\">\n    <img src=\"docs/assets/hero.svg\" alt=\"Logo\">\n  </a>\n\n  <h3 align=\"center\">Open Notebook</h3>\n\n  <p align=\"center\">\n    An open source, privacy-focused alternative to Google's Notebook LM!\n    <br /><strong>Join our <a href=\"https://discord.gg/37XJPXfz2w\">Discord server</a> for help, to share workflow ideas, and suggest features!</strong>\n    <br />\n    <a href=\"https://www.open-notebook.ai\"><strong>Checkout our website »</strong></a>\n    <br />\n    <br />\n    <a href=\"docs/0-START-HERE/index.md\">📚 Get Started</a>\n    ·\n    <a href=\"docs/3-USER-GUIDE/index.md\">📖 User Guide</a>\n    ·\n    <a href=\"docs/2-CORE-CONCEPTS/index.md\">✨ Features</a>\n    ·\n    <a href=\"docs/1-INSTALLATION/index.md\">🚀 Deploy</a>\n  </p>\n</div>\n\n<p align=\"center\">\n<a href=\"https://trendshift.io/repositories/14536\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14536\" alt=\"lfnovo%2Fopen-notebook | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<div align=\"center\">\n  <!-- Keep these links. Translations will automatically update with the README. -->\n  <a href=\"https://zdoc.app/de/lfnovo/open-notebook\">Deutsch</a> | \n  <a href=\"https://zdoc.app/es/lfnovo/open-notebook\">Español</a> | \n  <a href=\"https://zdoc.app/fr/lfnovo/open-notebook\">français</a> | \n  <a href=\"https://zdoc.app/ja/lfnovo/open-notebook\">日本語</a> | \n  <a href=\"https://zdoc.app/ko/lfnovo/open-notebook\">한국어</a> | \n  <a href=\"https://zdoc.app/pt/lfnovo/open-notebook\">Português</a> | \n  <a href=\"https://zdoc.app/ru/lfnovo/open-notebook\">Русский</a> | \n  <a href=\"https://zdoc.app/zh/lfnovo/open-notebook\">中文</a>\n</div>\n\n## A private, multi-model, 100% local, full-featured alternative to Notebook LM\n\n![New Notebook](docs/assets/asset_list.png)\n\nIn a world dominated by Artificial Intelligence, having the ability to think 🧠 and acquire new knowledge 💡, is a skill that should not be a privilege for a few, nor restricted to a single provider.\n\n**Open Notebook empowers you to:**\n- 🔒 **Control your data** - Keep your research private and secure\n- 🤖 **Choose your AI models** - Support for 18+ providers including OpenAI, Anthropic, Ollama, LM Studio, and more\n- 📚 **Organize multi-modal content** - PDFs, videos, audio, web pages, and more\n- 🎙️ **Generate professional podcasts** - Advanced multi-speaker podcast generation\n- 🔍 **Search intelligently** - Full-text and vector search across all your content\n- 💬 **Chat with context** - AI conversations powered by your research\n- 🌐 **Multi-language UI** - English, Portuguese, Chinese (Simplified & Traditional)",
-  "generatedAt": "2026-06-26T01:34:49.936Z",
+  "generatedAt": "2026-06-27T01:27:28.703Z",
   "analysis": {
     "oneLine": "open-notebook 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "open-notebook 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，open-notebook 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 33,350，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，open-notebook 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 33,497，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

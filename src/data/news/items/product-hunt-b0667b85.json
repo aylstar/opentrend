@@ -1,26 +1,24 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Basedash: Embedded Analytics",
-  "summary": "Give customers AI analytics inside your product. Discussion | Link",
+  "originalTitle": "Basedash for Excel",
+  "summary": "Turn any Excel file into a live dashboard Discussion | Link",
   "url": "https://www.producthunt.com/products/basedash",
-  "publishedAt": "2026-05-28T18:57:07.000Z",
+  "publishedAt": "2026-06-26T04:15:50.000Z",
   "id": "product-hunt-b0667b85",
   "slug": "product-hunt-b0667b85",
-  "content": "Basedash is the AI-native Business Intelligence platform that lets you create dashboards and understand your customers using natural language. Connect your data, describe the chart you want, and let AI generate the visualization. No SQL required.",
-  "fetchedAt": "2026-05-30T01:26:09.542Z",
-  "score": 73,
+  "content": "Turn any Excel file into a live dashboard Discussion | Link",
+  "fetchedAt": "2026-06-27T01:27:34.602Z",
+  "score": 79,
   "sourceWeight": 84,
   "tags": [
-    "AI",
-    "全球",
-    "产品"
+    "全球"
   ],
-  "rank": 16,
-  "contentStatus": "article-extracted",
-  "chineseTitle": "Basedash：嵌入式分析",
-  "chineseSummary": "在您的产品中为客户提供人工智能分析。讨论 |关联",
-  "chineseContent": "Basedash 是人工智能原生商业智能平台，可让您创建仪表板并使用自然语言了解客户。连接您的数据，描述您想要的图表，然后让 AI 生成可视化结果。无需 SQL。",
+  "rank": 3,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Excel 的基于ash",
+  "chineseSummary": "将任何 Excel 文件变成实时仪表板 讨论 |关联",
+  "chineseContent": "将任何 Excel 文件变成实时仪表板 讨论 |关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

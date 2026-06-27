@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "S&P 500 notches longest losing streak in 10 months as chipmakers slide",
+  "summary": "Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session",
+  "url": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580",
+  "publishedAt": "2026-06-26T20:24:12.000Z",
+  "id": "financial-times-d8fb7c4",
+  "slug": "financial-times-d8fb7c4",
+  "content": "Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session",
+  "fetchedAt": "2026-06-27T01:27:34.609Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "金融"
+  ],
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "随着芯片制造商下滑，标准普尔 500 指数录得 10 个月以来最长的连续下跌",
+  "chineseSummary": "随着华尔街主要股指连续第五个交易日下跌，软件股带动的复苏转瞬即逝",
+  "chineseContent": "随着华尔街主要股指连续第五个交易日下跌，软件股带动的复苏转瞬即逝",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

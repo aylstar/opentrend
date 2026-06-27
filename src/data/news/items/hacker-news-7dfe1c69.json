@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+  "summary": "143 points · 88 comments",
+  "content": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtube.com/watch?v=isKhAyivtfM . At Weave, we write most of our code with AI, and it's been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn't need Opus for everything but we didn't want to lose out on the intelligence for the cases where you really need it. So we decided to build a model router to handle this for us. The Weave Router acts as an Anthropic/OpenAI endpoint specifically for coding agents. It looks at every inference request and intelligently (more on that in a sec) decides what model to send it to, handling all the translations required along the way. So it can use faster/cheaper models (e.g. DeepSeek v4, GLM 5.2, Kimi K2.6) when possible, and frontier models (Opus 4.8 & GPT 5.5 (& Fable whenever it's back)) when necessary. How do we know what model to route to? We trained an RL model on tens of thousands (so far!) of agent traces. We reward the routing model when it selects an LLM that successfully completes the given task. Here's an example: if you ask the router to plan a complex change, it will (probably) route that request to Opus 4.8. Subagents exploring the codebase to gather context will be routed to more suitable models (e.g. DeepSeek V4 Flash). Then when you have the plan ready to implement, it will be (most likely) be handed to a quicker model (e.g. GLM 5.2) to carry it out. We've been using this internally for the last month or so. We've saved 40% on tokens vs. what we otherwise would have paid, with no noticeable differences in quality or velocity. The router is source-available under Elastic License 2.0, so you can self-host it. Or if you prefer, you can also use our hosted version: weaverouter.com. I'll be here to answer any questions you may have!",
+  "url": "https://github.com/workweave/router",
+  "publishedAt": "2026-06-26T16:40:11.000Z",
+  "points": 143,
+  "id": "hacker-news-7dfe1c69",
+  "slug": "hacker-news-7dfe1c69",
+  "fetchedAt": "2026-06-27T01:27:34.600Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 5,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由",
+  "chineseSummary": "143 分 · 88 条评论",
+  "chineseContent": "我们构建了一个模型路由器，可插入编码代理（例如 Claude Code、Codex、Cursor 等），并智能地将请求发送到最佳模型来为其提供服务。以下是在本地运行它的快速演示：https://www.youtube.com/watch?v=isKhAyivtfM。在 Weave，我们大部分代码都是用 AI 编写的，而且它的成本越来越高。当 Opus 4.7 发布时，这个问题达到了顶峰，由于其标记器的变化，我们的成本猛增。我们知道我们并不需要 Opus 来解决所有问题，但我们不想在您真正需要它的情况下失去智能。因此我们决定构建一个模型路由器来为我们处理这个问题。 Weave Router 充当专门用于编码代理的 Anthropic/OpenAI 端点。它会查看每个推理请求，并智能地（稍后会详细介绍）决定将其发送到哪个模型，并处理整个过程中所需的所有翻译。因此，它可以在可能的情况下使用更快/更便宜的模型（例如 DeepSeek v4、GLM 5.2、Kimi K2.6），并在必要时使用前沿模型（Opus 4.8 和 GPT 5.5（以及 Fable 每当它回来时））。我们如何知道要路由到哪个模型？我们在数以万计（到目前为止！）的代理轨迹上训练了 RL 模型。当路由模型选择成功完成给定任务的法学硕士时，我们会奖励它。这里有一个例子：如果您要求路由器计划一个复杂的更改，它（可能）会将该请求路由到 Opus 4.8。探索代码库以收集上下文的子代理将被路由到更合适的模型（例如 DeepSeek V4 Flash）。然后，当您准备好实施计划时，（很可能）会将其交给更快的模型（例如 GLM 5.2）来执行。过去一个月左右，我们一直在内部使用它。与我们本来要支付的费用相比，我们节省了 40% 的代币，而且质量或质量没有明显差异",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

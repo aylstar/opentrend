@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal",
+  "summary": "The pivot into physical AI grows On Semi's addressable market by an additional $30 billion, the company said.",
+  "url": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
+  "publishedAt": "2026-06-26T20:09:01.000Z",
+  "id": "cnbc-301866d6",
+  "slug": "cnbc-301866d6",
+  "content": "ON Semiconductor CEO Hassane El-Khoury defended the company's core business, and shares notched their worst day since March 2020, after the sensing solutions company announced its largest acquisition ever.\n\nThe maker of components for the automotive industry on Thursday announced plans to buy edge AI and wireless connectivity solutions company Synaptics in an all-stock deal to capitalize on physical artificial intelligence .\n\nThe pivot into physical AI grows its addressable market by an additional $30 billion, or $243 billion, by 2030, On Semiconductor said in a release.\n\n\"That is the strategic value of it, complementary to everything we have done on a very strong foundation,\" El-Khoury told CNBC's \"Squawk on the Street\" on Friday.\n\nThe acquisition also opens new markets for the company, including an AI-centric compute platform, he said.\n\nON Semiconductor is betting on a world with physical systems capable of sensing and making decisions in real time, such as robots and autonomous vehicles.\n\nSynaptics' Astra platform, which uses AI processors and wireless connectivity, will bolster its Edge AI capabilities, ON Semiconductor said. Edge AI refers to running AI locally on hardware.\n\n\"There is no overlap on the product, which is why this deal is very exciting from a [research and development] and a product perspective,\" El-Khoury said.\n\nThe executive also told CNBC that the company's data center business is running smoothly and accelerating. \"The foundation that we have built is strong,\" he said. \"We will continue to deliver on that. We have no hesitation about our core business — that remains strong.\"\n\nON Semiconductor expects the deal to close in mid-2027 and generate $200 million in annual synergies within 18 months.",
+  "fetchedAt": "2026-06-27T01:27:34.604Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "安森美半导体录得 2020 年以来最糟糕的一天，首席执行官为 Synaptics 交易辩护",
+  "chineseSummary": "该公司表示，转向物理人工智能将使 On Semi 的潜在市场额外增长 300 亿美元。",
+  "chineseContent": "安森美半导体首席执行官 Hassane El-Khoury 捍卫了公司的核心业务，在这家传感解决方案公司宣布有史以来最大的收购之后，该公司股价创下了自 2020 年 3 月以来最糟糕的一天。\n\n这家汽车行业零部件制造商周四宣布，计划以全股票交易的方式收购边缘人工智能和无线连接解决方​​案公司 Synaptics，以充分利用物理人工智能。\n\n安森美半导体在一份新闻稿中表示，到 2030 年，转向物理人工智能将使其潜在市场额外增长 300 亿美元，即 2,430 亿美元。\n\nEl-Khoury 周五在 CNBC 的“Squawk on the Street”节目中表示：“这就是它的战略价值，与我们在坚实基础上所做的一切相辅相成。”\n\n他表示，此次收购还为该公司开辟了新市场，包括以人工智能为中心的计算平台。\n\n安森美半导体押注于一个拥有能够实时感知和做出决策的物理系统的世界，例如机器人和自动驾驶汽车。\n\n安森美半导体表示，Synaptics 的 Astra 平台使用人工智能处理器和无线连接，将增强其边缘人工智能功能。边缘人工智能是指在硬件上本地运行人工智能。\n\n“产品上没有重叠，这就是为什么从[研发]和产品的角度来看，这笔交易非常令人兴奋，”El-Khoury 说。\n\n这位高管还向 CNBC 表示，该公司的数据中心业务运行平稳并在加速发展。 “我们建立的基础很牢固，”他说。 “我们将继续实现这一目标。我们对我们的核心业务毫不犹豫——它仍然强劲。”\n\n安森美半导体预计该交易将于 2027 年中期完成，并在 18 个月内产生 2 亿美元的年度协同效应。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

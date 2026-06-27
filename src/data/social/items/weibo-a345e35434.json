@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a345e35434",
+  "slug": "weibo-挪威1比4法国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "挪威1比4法国",
+  "summary": "微博热榜第 2 位：挪威1比4法国，当前热度为 122万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%811%E6%AF%944%E6%B3%95%E5%9B%BD%23",
+  "hotValue": "122万热度",
+  "author": "",
+  "publishedAt": "2026-06-27 09:23:31",
+  "fetchedAt": "2026-06-27T01:29:00.057Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

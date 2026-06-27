@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Previewing GPT‑5.6 Sol: a next-generation model",
+  "summary": "833 points · 501 comments",
+  "content": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview",
+  "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+  "publishedAt": "2026-06-26T17:06:55.000Z",
+  "points": 833,
+  "id": "hacker-news-55046e53",
+  "slug": "hacker-news-55046e53",
+  "fetchedAt": "2026-06-27T01:27:34.599Z",
+  "score": 82,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "预览 GPT‑5.6 Sol：下一代模型",
+  "chineseSummary": "833 分 · 501 条评论",
+  "chineseContent": "系统卡：https://deploymentsafety.openai.com/gpt-5-6-preview",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Trump warns of 100% tariff on countries implementing digital services tax",
+  "summary": "US president says levy would supersede any trade deals Washington has with other capitals",
+  "url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
+  "publishedAt": "2026-06-26T19:37:37.000Z",
+  "id": "financial-times-d604ca17",
+  "slug": "financial-times-d604ca17",
+  "content": "US president says levy would supersede any trade deals Washington has with other capitals",
+  "fetchedAt": "2026-06-27T01:27:34.609Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "特朗普警告将对实施数字服务税的国家征收100%关税",
+  "chineseSummary": "美国总统表示征税将取代华盛顿与其他国家首都达成的任何贸易协议",
+  "chineseContent": "美国总统表示征税将取代华盛顿与其他国家首都达成的任何贸易协议",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

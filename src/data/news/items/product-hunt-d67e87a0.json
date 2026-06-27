@@ -7,19 +7,19 @@
   "publishedAt": "2026-06-24T07:52:07.000Z",
   "id": "product-hunt-d67e87a0",
   "slug": "product-hunt-d67e87a0",
-  "content": "Let AI agents see cross repo and maintain session memory. Discussion | Link",
-  "fetchedAt": "2026-06-26T01:34:59.750Z",
+  "content": "AI coding agents are limited to how autonomously they can work because they have no model of the codebase as a whole. Polygraph is a meta-harness that gives agents what they're missing: Visibility across every repo boundary and memory that survives the session. Connect all your repos, private and public, into a unified dependency graph without moving any code. Resume, reference or build on any session created by any developer, on another machine, even on different agents.",
+  "fetchedAt": "2026-06-27T01:27:34.602Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 6,
-  "contentStatus": "fetch-failed",
+  "rank": 11,
+  "contentStatus": "article-extracted",
   "chineseTitle": "测谎器",
   "chineseSummary": "让 AI 代理查看跨存储库并维护会话内存。讨论 |关联",
-  "chineseContent": "让 AI 代理查看跨存储库并维护会话内存。讨论 |关联",
+  "chineseContent": "人工智能编码代理的工作自主性受到限制，因为它们没有整体代码库的模型。测谎仪是一种元安全带，它为特工提供了他们所缺少的东西：每个存储库边界的可见性以及会话中幸存的记忆。将所有存储库（私有和公共）连接到统一的依赖关系图中，而无需移动任何代码。恢复、引用或构建由任何开发人员在另一台计算机上甚至不同代理上创建的任何会话。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
