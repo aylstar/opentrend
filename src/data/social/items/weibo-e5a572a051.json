@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e5a572a051",
+  "slug": "weibo-哥伦比亚vs葡萄牙",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "哥伦比亚vs葡萄牙",
+  "summary": "微博热榜第 1 位：哥伦比亚vs葡萄牙，当前热度为 118万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9Avs%E8%91%A1%E8%90%84%E7%89%99%23",
+  "hotValue": "118万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.677Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

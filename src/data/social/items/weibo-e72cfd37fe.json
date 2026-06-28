@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e72cfd37fe",
+  "slug": "weibo-陈瑶下班哭了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "陈瑶下班哭了",
+  "summary": "微博热榜第 35 位：陈瑶下班哭了，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%91%B6%E4%B8%8B%E7%8F%AD%E5%93%AD%E4%BA%86%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

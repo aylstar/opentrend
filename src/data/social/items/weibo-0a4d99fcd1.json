@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0a4d99fcd1",
+  "slug": "weibo-乌兹别克斯坦进球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "乌兹别克斯坦进球",
+  "summary": "微博热榜第 20 位：乌兹别克斯坦进球，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E8%BF%9B%E7%90%83%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc72bb939c",
+  "slug": "weibo-恋与深空",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "恋与深空",
+  "summary": "微博热榜第 24 位：恋与深空，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

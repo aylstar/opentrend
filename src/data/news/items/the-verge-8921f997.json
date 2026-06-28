@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+  "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+  "publishedAt": "2026-06-27T18:39:32.000Z",
+  "id": "the-verge-8921f997",
+  "slug": "the-verge-8921f997",
+  "content": "Maraget Atwood, the storied author of The Handmaid’s Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn’t mince words. According to Deadline’s recap, Atwood said she’d used an AI chatbot exactly once, Anthropic’s Claude, and came away unimpressed. She was looking for information about the British detective series Father Brown and, well: > ”Claude gave me the wrong answer, or it lied. Of course, it didn’t know it was lying because it’s not a human being; it’s a large language model... It had skimmed and sampled a lot of television reviews, but they never give away the ending in online criticism, so it was misled by the things it had read about the show.” She didn’t have particularly kind words for the people who rely on AI either, calling them “opportunists” looking for the easy way out. But of course, as she pointed out, all LLMs are only as good as the data they’re fed, and putting your faith in a machine trained on scraped, previously published, and possibly out-of-date information isn’t the best idea. > “Human beings are not robots, but they are opportunists, so if there’s an easy way to cheat and it’s hard to detect, people will do it... But the thing about AI is that it’s garbage in, garbage out. Even people who use it for business reasons have to check it because it makes mistakes.”",
+  "fetchedAt": "2026-06-28T01:32:01.682Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "玛格丽特·阿特伍德表示 AI 的问题是“垃圾进，垃圾出”",
+  "chineseSummary": "《使女的故事》和《盲刺客》的传奇作者玛拉吉特·阿特伍德在葡萄牙波尔图举行的巴贝尔文学文化节上接受了采访。正如在这些事情上通常所做的那样，人工智能的问题出现了，阿特伍德没有拐弯抹角。根据 Deadline 的回顾，阿特伍德说她使用了人工智能 [...]",
+  "chineseContent": "《使女的故事》和《盲刺客》的传奇作者玛拉吉特·阿特伍德在葡萄牙波尔图举行的巴贝尔文学文化节上接受了采访。正如在这些事情上通常所做的那样，人工智能的问题出现了，阿特伍德没有拐弯抹角。根据 Deadline 的报道，阿特伍德说她只使用过一次人工智能聊天机器人——Anthropic 的克劳德（Claude），但离开时并没有留下深刻的印象。她正在寻找有关英国侦探系列《布朗神父》的信息，然后，嗯：“克劳德给了我错误的答案，或者说它撒了谎。当然，它不知道自己在撒谎，因为它不是人类；它是一个大型语言模型……它浏览并采样了很多电视评论，但他们从未在网上批评中透露结局，所以它被它读到的有关该剧的内容误导了。”她对那些依赖人工智能的人也没有特别客气的话，称他们是寻找简单出路的“机会主义者”。但当然，正如她指出的那样，所有法学硕士的好坏都取决于他们所输入的数据，而把信心寄托在一台用废弃的、以前发布的、可能过时的信息训练的机器上并不是最好的主意。 > “人类不是机器人，但他们是机会主义者，所以如果有一种简单的作弊方法，而且很难被发现，人们就会这么做……但人工智能的问题是，它是垃圾进，垃圾出。即使是出于商业原因使用它的人也必须检查它，因为它会犯错误。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

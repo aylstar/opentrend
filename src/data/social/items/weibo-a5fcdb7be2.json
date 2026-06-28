@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a5fcdb7be2",
+  "slug": "weibo-高考志愿填报",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "高考志愿填报",
+  "summary": "微博热榜第 19 位：高考志愿填报，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

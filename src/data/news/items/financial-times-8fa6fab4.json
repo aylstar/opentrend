@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US carries out second day of strikes against Iran",
+  "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+  "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+  "publishedAt": "2026-06-27T23:48:28.000Z",
+  "id": "financial-times-8fa6fab4",
+  "slug": "financial-times-8fa6fab4",
+  "content": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+  "fetchedAt": "2026-06-28T01:32:01.688Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "全球"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "美国对伊朗进行第二天的打击",
+  "chineseSummary": "针对伊朗袭击航运的军事行动进一步打击了持续停火的希望",
+  "chineseContent": "针对伊朗袭击航运的军事行动进一步打击了持续停火的希望",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

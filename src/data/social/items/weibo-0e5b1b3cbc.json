@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0e5b1b3cbc",
+  "slug": "weibo-蔡依林封后",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "蔡依林封后",
+  "summary": "微博热榜第 22 位：蔡依林封后，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B0%81%E5%90%8E%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

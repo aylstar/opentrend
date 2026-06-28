@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+  "summary": "723 points · 298 comments",
+  "content": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
+  "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "publishedAt": "2026-06-27T09:18:52.000Z",
+  "points": 723,
+  "id": "hacker-news-75e4ba56",
+  "slug": "hacker-news-75e4ba56",
+  "fetchedAt": "2026-06-28T01:32:01.680Z",
+  "score": 81,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "DSpark：推测性解码加速 LLM 推理 [pdf]",
+  "chineseSummary": "723 分 · 298 条评论",
+  "chineseContent": "DeepSpec：用于训练和评估推测解码算法的全栈代码库 - deepseek-ai/DeepSpec",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

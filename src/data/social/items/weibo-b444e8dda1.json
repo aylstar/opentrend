@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b444e8dda1",
+  "slug": "weibo-浪姐成团名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "浪姐成团名单",
+  "summary": "微博热榜第 2 位：浪姐成团名单，当前热度为 89万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23",
+  "hotValue": "89万热度",
+  "author": "",
+  "publishedAt": "2026-06-28 09:23:56",
+  "fetchedAt": "2026-06-28T01:33:05.677Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+  "summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple […]",
+  "url": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+  "publishedAt": "2026-06-27T17:28:18.000Z",
+  "id": "the-verge-fdc7b027",
+  "slug": "the-verge-fdc7b027",
+  "content": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People’s Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple to raise prices on almost all of its products this week, so it makes sense that it would seek alternative sources. Legally, Apple isn’t barred from buying chips from CXMT, but doing business with a company tied to the Chinese military would carry serious reputational risks. It’s possible that CXMT could still find itself the target of export controls for undermining US security. The company was on a list of proposed additions to the so-called “Entity List” by the Commerce Department, but held off because the White House was in the middle of trade negotiations with China. It’s unclear if the administration would give its blessing to Apple. Tim Cook has spent significant time trying to build bridges with the Trump administration, presenting the president with gaudy statues and attending a screening of the Melania movie, directed by accused rapist Brett Ratner. But if the White House granted Apple permission, such a decision would likely face significant blowback. John Moolenaar, Republican chair of the House China committee, told the Financial Times that: > “Apple choosing to partner with a Chinese military company would be a grave mistake... Helping the [Chinese Communist Party] succeed in its plans to dominate critical supply chains will make our country’s tech industry and economy more dependent on China at a time when we must build secure tech supply chains with our allies,”",
+  "fetchedAt": "2026-06-28T01:32:01.682Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果希望获得从一家被列入黑名单的中国供应商购买内存的许可",
+  "chineseSummary": "据英国《金融时报》报道，苹果公司正寻求特朗普政府破例从长鑫存储购买 RAM 芯片，以减轻其供应链的部分压力。长鑫存储因与中国人民解放军有联系而被五角大楼列入黑名单。 RAM 和存储价格的飞涨推动了苹果 [...]",
+  "chineseContent": "据英国《金融时报》报道，苹果公司正在寻求特朗普政府的例外，从长鑫存储购买 RAM 芯片，以减轻其供应链的压力。长鑫存储因与中国人民解放军有联系而被五角大楼列入黑名单。 RAM 和存储价格的飙升促使苹果本周提高了几乎所有产品的价格，因此寻求替代来源是有道理的。从法律上讲，苹果并没有被禁止从长鑫存储购买芯片，但与一家与中国军方有联系的公司做生意将带来严重的声誉风险。长鑫存储仍有可能成为破坏美国安全的出口管制目标。该公司曾被列入美国商务部拟议添加到所谓“实体名单”的名单中，但由于白宫正在进行与中国的贸易谈判而被推迟。目前还不清楚政府是否会支持苹果。蒂姆·库克花费了大量时间试图与特朗普政府建立桥梁，向总统赠送华丽的雕像，并参加由被指控的强奸犯布雷特·拉特纳执导的梅拉尼娅电影的放映。但如果白宫授予苹果许可，这样的决定可能会面临重大反弹。众议院中国委员会共和党主席约翰·穆勒纳尔 (John Moolenaar) 向英国《金融时报》表示：“苹果选择与中国军事公司合作将是一个严重错误……帮助[中国共产党]成功主导关键供应链的计划将使我们国家的科技产业和经济更加依赖中国，而此时我们必须与盟友建立安全的科技供应链。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
