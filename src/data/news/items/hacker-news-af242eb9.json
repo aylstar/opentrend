@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "We need tech news sources which exclude AI",
+  "summary": "56 points · 13 comments",
+  "content": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories. HN is getting closer to that every day. If AI kickback deals, phony new model ratings, high RAM prices and your surprise at how you think you coded something with AI and it was AMAZING! even though it doesnt work is all there is count me out. We need a filter on existing tech news sites or an alternative press.",
+  "url": "https://news.ycombinator.com/item?id=48713041",
+  "publishedAt": "2026-06-28T23:49:50.000Z",
+  "points": 56,
+  "id": "hacker-news-af242eb9",
+  "slug": "hacker-news-af242eb9",
+  "fetchedAt": "2026-06-29T01:35:27.151Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "我们需要排除 AI 的科技新闻来源",
+  "chineseSummary": "56 分 · 13 条评论",
+  "chineseContent": "现在很明显，我们需要保留与人工智能无关的技术新闻。例如，Techmeme 现在已经完全充斥着人工智能的故事。 HN 每天都离这个目标越来越近。如果人工智能回扣交易、虚假的新型号评级、高 RAM 价格以及你对自己如何使用人工智能编写代码感到惊讶，那就太棒了！尽管它不起作用，但我还是被排除在外了。我们需要对现有科技新闻网站或替代媒体进行过滤。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

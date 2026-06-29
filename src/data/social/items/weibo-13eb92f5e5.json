@@ -1,0 +1,21 @@
+{
+  "id": "weibo-13eb92f5e5",
+  "slug": "weibo-四川宜宾地震",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "四川宜宾地震",
+  "summary": "微博热榜第 1 位：四川宜宾地震，当前热度为 188万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%23",
+  "hotValue": "188万热度",
+  "author": "",
+  "publishedAt": "2026-06-29 09:30:17",
+  "fetchedAt": "2026-06-29T01:37:36.086Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

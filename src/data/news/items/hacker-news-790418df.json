@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "A way to exclude sensitive files issue still open for OpenAI Codex",
+  "summary": "174 points · 120 comments",
+  "content": "There was an error while loading. Please reload this page .\n\nWhat feature would you like to see?\n\nAre you interested in implementing this feature?\n\nRelated: #205 . That issue surfaced two primary use cases: preventing sensitive data from being sent to the model and excluding large/irrelevant files. The issue was closed in favor of a Rust (codex-rs) implementation, but as of 2025-08-28 a comparable feature does not appear to exist in codex-rs. I’d like to restart the discussion and converge on a design.",
+  "url": "https://github.com/openai/codex/issues/2847",
+  "publishedAt": "2026-06-28T12:27:33.000Z",
+  "points": 174,
+  "id": "hacker-news-790418df",
+  "slug": "hacker-news-790418df",
+  "fetchedAt": "2026-06-29T01:35:27.151Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI Codex 仍存在排除敏感文件问题的方法",
+  "chineseSummary": "174 分 · 120 条评论",
+  "chineseContent": "加载时出错。请重新加载此页面。\n\n您想看到什么功能？\n\n您有兴趣实施此功能吗？\n\n相关：#205。该问题出现了两个主要用例：防止敏感数据发送到模型以及排除大型/不相关的文件。该问题已结束，有利于 Rust (codex-rs) 实现，但截至 2025 年 8 月 28 日，codex-rs 中似乎不存在类似的功能。我想重新开始讨论并集中在设计上。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

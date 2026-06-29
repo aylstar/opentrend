@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+  "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+  "publishedAt": "2026-06-28T14:12:06.000Z",
+  "id": "the-verge-45bf0d86",
+  "slug": "the-verge-45bf0d86",
+  "content": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year’s Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that Rinderknecht had ChatGPT generate images of fire, asked the chatbot, “Why am I so angry all the time?”, and ranted to it about how the wealthy were destroying the world. They also pointed to a screen recording in which Rinderknecht asked ChatGPT whether someone could be blamed for a fire if it was lit by their cigarette. But the jurors were unconvinced. The trial ended in a deadlock when the jury voted 10-2 in favor of the defense. That led the judge to declare a hung jury and a mistrial. One juror told CBS LA that she didn’t believe the ChatGPT logs were proof of anything, saying, “I talk to ChatGPT all the time.” She said it actually made her “angry” that they were suggesting his use of the chatbot indicated some sort of character flaw. [Media: https://www.tiktok.com/@cbsla/video/7655808635003555085]",
+  "fetchedAt": "2026-06-29T01:35:27.154Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "检察官在 Palisades 火灾审判中使用 ChatGPT 日志作为证据",
+  "chineseSummary": "乔纳森·林德克内西特 (Jonathan Rinderknecht) 因在 2025 年元旦纵火而面临纵火指控，这场火灾成为洛杉矶历史上最致命的山火之一。为了证明自己的观点，检察官参考了他 iPhone 上的位置数据、监控录像和证人证词。但他们也查阅了他的 ChatGPT 日志。检察官表示 [...]",
+  "chineseContent": "乔纳森·林德克内西特 (Jonathan Rinderknecht) 因在 2025 年元旦纵火而面临纵火指控，这场火灾成为洛杉矶历史上最致命的山火之一。为了证明自己的观点，检察官参考了他 iPhone 上的位置数据、监控录像和证人证词。但他们也查阅了他的 ChatGPT 日志。检察官称，Rinderknecht 让 ChatGPT 生成火的图像，问聊天机器人“为什么我一直这么生气？”，并向它咆哮富人如何摧毁世界。他们还指出了一段屏幕录音，其中 Rinderknecht 询问 ChatGPT 是否有人因香烟点燃火灾而受到指责。但陪审员们并不相信。陪审团以 10 比 2 的投票结果支持辩方，审判陷入僵局。这导致法官宣布陪审团悬而未决和审判无效。一位陪审员告诉 CBS LA，她不相信 ChatGPT 日志可以证明任何事情，她说：“我一直在与 ChatGPT 交谈。”她说，他们暗示他使用聊天机器人表明了某种性格缺陷，这实际上让她“生气”。 【媒体：https://www.tiktok.com/@cbsla/video/7655808635003555085】",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b6d5975978",
+  "slug": "weibo-成都震感",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "成都震感",
+  "summary": "微博热榜第 41 位：成都震感，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-06-29 09:30:17",
+  "fetchedAt": "2026-06-29T01:37:36.087Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

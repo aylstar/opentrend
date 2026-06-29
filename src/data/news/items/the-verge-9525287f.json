@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "China claims the world’s fastest supercomputer",
+  "summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America […]",
+  "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+  "publishedAt": "2026-06-28T17:20:59.000Z",
+  "id": "the-verge-9525287f",
+  "slug": "the-verge-9525287f",
+  "content": "Despite trade restrictions, China has reclaimed the title of the world’s fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That’s despite strict limits on what high-powered computing components can be sold to China by US firms, which dominate the list, with America holding three of the top five spots. LineShine doesn’t even use any GPUs, which are typically the backbone of modern supercomputers. While reaching the peak of the Top500 carries obvious bragging rights, it also serves as a message from the Chinese government to the US. The Trump administration has sought to limit China’s access to chips from firms like NVIDIA and placed steep tariffs on products going in and out of the country. China responded by building around more readily available and generalized CPUs. LineShine uses roughly 45,000 LX2 processors, each with 304 cores running at 1.55GHz, connected over a special high-speed, low-latency network called LingQi. LineShine is the first supercomputer to cross the 2,000 exaflop barrier and is 20 percent faster than the number-two system, El Capitan, on the Top500 list. However, it also uses 42.2 megawatts, dramatically higher and less efficient than El Capitan’s 29.7 megawatts.",
+  "fetchedAt": "2026-06-29T01:35:27.154Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "中国声称拥有世界上最快的超级计算机",
+  "chineseSummary": "尽管受到贸易限制，中国自 2018 年以来首次夺回了世界上最快超级计算机的称号。 LineShine 将 El Capitan 挤下了 TOP500 排行榜的第一名。尽管在名单上占据主导地位的美国公司对向中国出售高性能计算组件的产品有严格限制，其中美国 [...]",
+  "chineseContent": "尽管受到贸易限制，中国自 2018 年以来首次夺回了世界上最快超级计算机的称号。LineShine 将 El Capitan 挤下了 TOP500 排行榜的第一名。尽管美国公司向中国出售的高性能计算组件受到严格限制，但美国公司在榜单上占据主导地位，在前五名中美国占据了三个席位。 LineShine 甚至不使用任何 GPU，而 GPU 通常是现代超级计算机的支柱。虽然登上500强的顶峰具有明显的炫耀资本，但这也是中国政府向美国传递的信息。特朗普政府试图限制中国获得英伟达等公司的芯片，并对进出该国的产品征收高额关税。中国的回应是围绕更容易获得和通用的 CPU 进行构建。 LineShine 使用大约 45,000 个 LX2 处理器，每个处理器有 304 个运行频率为 1.55GHz 的内核，通过名为 LingQi 的特殊高速、低延迟网络连接。 LineShine 是第一台跨越 2,000 exaflop 障碍的超级计算机，比 Top500 列表中排名第二的 El Capitan 系统快 20%。然而，它也使用 42.2 兆瓦，比 El Capitan 的 29.7 兆瓦高得多，但效率却低得多。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

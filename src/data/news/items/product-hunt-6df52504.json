@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Persona.js",
+  "summary": "Add WebMCP-native AI chat to any Frontend Discussion | Link",
+  "url": "https://www.producthunt.com/products/persona-12",
+  "publishedAt": "2026-06-22T14:59:06.000Z",
+  "id": "product-hunt-6df52504",
+  "slug": "product-hunt-6df52504",
+  "content": "Persona is a lightweight, open-source AI chat UI library that embeds into any website, from modern apps to static HTML. Unlike React-based chat frameworks, Persona is framework-free, backend-agnostic, and WebMCP-native, so your assistant can discover and execute tools exposed by the parent page. Add streaming chat, voice, theming, and interactive copilot experiences without rebuilding your frontend or writing bespoke APIs.",
+  "fetchedAt": "2026-06-29T01:35:27.152Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Person.js",
+  "chineseSummary": "将 WebMCP 原生 AI 聊天添加到任何前端讨论 |关联",
+  "chineseContent": "Persona 是一个轻量级开源 AI 聊天 UI 库，可嵌入到从现代应用程序到静态 HTML 的任何网站中。与基于 React 的聊天框架不同，Persona 是无框架的、后端不可知的且是 WebMCP 原生的，因此您的助手可以发现并执行父页面公开的工具。添加流式聊天、语音、主题和交互式副驾驶体验，无需重建前端或编写定制 API。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

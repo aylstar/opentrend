@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/ZhuLinsen/daily_stock_analysis",
   "docsUrl": "https://dsa.zhulinsen.tech",
-  "stars": 50549,
-  "forks": 44077,
+  "stars": 51151,
+  "forks": 44450,
   "openIssues": 46,
   "license": "MIT",
-  "pushedAt": "2026-06-28T01:10:03Z",
-  "updatedAt": "2026-06-28T01:29:47Z",
+  "pushedAt": "2026-06-28T14:30:59Z",
+  "updatedAt": "2026-06-29T01:33:37Z",
   "createdAt": "2026-01-10T06:43:20Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<div align=\"center\">\n\n# 📈 股票智能分析系统\n\n[![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers)\n[![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)\n[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Ready-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)\n[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/zhulinsen/daily_stock_analysis)\n\n<p align=\"center\">\n  <img src=\"https://trendshift.io/api/badge/trendshift/repositories/18527/daily?language=Python\" alt=\"#1 Python Repository Of The Day | Trendshift\" width=\"250\" height=\"55\"/>&nbsp;<a href=\"https://hellogithub.com/repository/ZhuLinsen/daily_stock_analysis\" target=\"_blank\"><img src=\"https://api.hellogithub.com/v1/widgets/recommend.svg?rid=6daa16e405ce46ed97b4a57706aeb29f&claim_uid=pfiJMqhR9uvDGlT&theme=neutral\" alt=\"Featured｜HelloGitHub\" width=\"230\" /></a>\n</p>\n\n> 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱\n\n[**产品预览**](#-产品预览) · [**功能特性**](#-功能特性) · [**快速开始**](#-快速开始) · [**推送效果**](#-推送效果) · [**文档中心**](docs/INDEX.md) · [**完整指南**](docs/full-guide.md)\n\n简体中文 | [English](docs/README_EN.md) | [繁體中文](docs/README_CHT.md)\n\n</div>\n\n## 💖 赞助商 (Sponsors)\n<div align=\"center\">\n  <p align=\"center\">\n    <a href=\"https://open.anspire.cn/?share_code=QFBC0FYC\" target=\"_blank\"><img src=\"./docs/assets/anspire.png\" alt=\"Anspire Open 一站式模型和搜索服务\" width=\"300\" height=\"141\" style=\"width: 300px; height: 141px; object-fit: contain;\"></a>\n    <a href=\"https://serpapi.com/baidu-search-api?utm_source=github_daily_stock_analysis\" target=\"_blank\"><img src=\"./docs/assets/serpapi_banner_zh.png\" alt=\"轻松抓取搜索引擎上的实时金融新闻数据 - SerpApi\" width=\"300\" height=\"141\" style=\"width: 300px; height: 141px; object-fit: contain;\"></a>\n  </p>\n</div>\n\n\n## 🖥️ 产品预览\n\n<p align=\"center\">\n  <img src=\"docs/assets/readme_workspace_tour_20260510.gif\" alt=\"DSA Web 工作台演示\" width=\"720\">\n</p>\n\n## ✨ 功能特性\n\n| 能力 | 覆盖内容 |\n|------|------|\n| AI 决策报告 | 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 |\n| 多市场数据聚合 | A股、港股、美股、ETF：行情、K 线、技术指标、资金流、筹码、新闻、公告和基本面；日股/韩股（`.T` / `.KS` / `.KQ`）：YFinance 日线与基础行情、技术指标可用，`capital_flow`、`dragon_tiger`、`boards` 与部分高阶区块会按市场边界降级为 `not_supported`（见 [市场支持边界](docs/market-support.md)） |\n| Web / 桌面工作台 | 手动分析、任务进度、历史报告、完整 Markdown、回测、持仓、配置管理、浅色 / 深色主题 |\n| Agent 策略问股 | 多轮追问，支持均线、缠论、波浪、趋势、热点、事件、成长、预期等 15 种内置策略，覆盖 Web/Bot/API |\n| 智能导入与补全 | 图片、CSV/Excel、剪贴板导入；股票代码/名称/拼音/别名补全 |\n| 自动化与推送 | GitHub Actions、Docker、本地定时任务、FastAPI 服务和企业微信/飞书/Telegram/Discord/Slack/邮件推送 |\n\n> 功能细节、字段契约、基本面 P0 超时语义、交易纪",
-  "generatedAt": "2026-06-28T01:31:35.646Z",
+  "generatedAt": "2026-06-29T01:35:14.712Z",
   "analysis": {
     "oneLine": "daily_stock_analysis 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
     "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
     "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
     "detailParagraphs": [
       "daily_stock_analysis 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
-      "如果把它放进实际使用场景，daily_stock_analysis 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 50,549，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，daily_stock_analysis 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 51,151，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
