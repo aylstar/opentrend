@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3636dbceb6",
+  "slug": "weibo-荷兰vs摩洛哥",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "荷兰vs摩洛哥",
+  "summary": "微博热榜第 6 位：荷兰vs摩洛哥，当前热度为 57万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0vs%E6%91%A9%E6%B4%9B%E5%93%A5%23",
+  "hotValue": "57万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

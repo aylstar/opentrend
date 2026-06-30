@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Maersk raises profit guidance as new US tariffs fuel demand",
+  "summary": "American companies rush to stockpile goods ahead of fresh round of levies",
+  "url": "https://www.ft.com/content/44094a86-b170-448f-8305-55625b16bd29",
+  "publishedAt": "2026-06-29T20:32:59.000Z",
+  "id": "financial-times-ff1ad3b1",
+  "slug": "financial-times-ff1ad3b1",
+  "content": "American companies rush to stockpile goods ahead of fresh round of levies",
+  "fetchedAt": "2026-06-30T01:29:38.753Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 10,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "美国新关税刺激需求，马士基上调利润指引",
+  "chineseSummary": "美国公司在新一轮征税前急于囤货",
+  "chineseContent": "美国公司在新一轮征税前急于囤货",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

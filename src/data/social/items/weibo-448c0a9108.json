@@ -1,0 +1,21 @@
+{
+  "id": "weibo-448c0a9108",
+  "slug": "weibo-德国淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "德国淘汰",
+  "summary": "微博热榜第 1 位：德国淘汰，当前热度为 981万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "981万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.139Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

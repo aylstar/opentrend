@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cf52a3fb8b",
+  "slug": "weibo-詹姆斯-勇士",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "詹姆斯 勇士",
+  "summary": "微博热榜第 37 位：詹姆斯 勇士，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF+%E5%8B%87%E5%A3%AB%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

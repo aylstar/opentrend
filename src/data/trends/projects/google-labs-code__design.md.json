@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/google-labs-code/design.md",
   "docsUrl": "https://stitch.withgoogle.com/docs/design-md/specification",
-  "stars": 22852,
-  "forks": 1817,
+  "stars": 23201,
+  "forks": 1835,
   "openIssues": 55,
   "license": "Apache-2.0",
   "pushedAt": "2026-06-15T22:22:46Z",
-  "updatedAt": "2026-06-29T01:29:45Z",
+  "updatedAt": "2026-06-30T01:22:19Z",
   "createdAt": "2026-04-10T17:54:59Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# DESIGN.md\n\nA format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.\n\n## The Format\n\nA DESIGN.md file combines machine-readable design tokens (YAML front matter) with human-readable design rationale (markdown prose). Tokens give agents exact values. Prose tells them *why* those values exist and how to apply them.\n\n```md\n---\nname: Heritage\ncolors:\n  primary: \"#1A1C1E\"\n  secondary: \"#6C7278\"\n  tertiary: \"#B8422E\"\n  neutral: \"#F7F5F2\"\ntypography:\n  h1:\n    fontFamily: Public Sans\n    fontSize: 3rem\n  body-md:\n    fontFamily: Public Sans\n    fontSize: 1rem\n  label-caps:\n    fontFamily: Space Grotesk\n    fontSize: 0.75rem\nrounded:\n  sm: 4px\n  md: 8px\nspacing:\n  sm: 8px\n  md: 16px\n---\n\n## Overview\n\nArchitectural Minimalism meets Journalistic Gravitas. The UI evokes a\npremium matte finish — a high-end broadsheet or contemporary gallery.\n\n## Colors\n\nThe palette is rooted in high-contrast neutrals and a single accent color.\n\n- **Primary (#1A1C1E):** Deep ink for headlines and core text.\n- **Secondary (#6C7278):** Sophisticated slate for borders, captions, metadata.\n- **Tertiary (#B8422E):** \"Boston Clay\" — the sole driver for interaction.\n- **Neutral (#F7F5F2):** Warm limestone foundation, softer than pure white.\n```\n\nAn agent that reads this file will produce a UI with deep ink headlines in Public Sans, a warm limestone background, and Boston Clay call-to-action buttons.\n\n## Getting Started\n\nValidate a DESIGN.md against the spec, catch broken token references, check WCAG contrast ratios, and surface structural findings — all as structured JSON that agents can act on.\n\n```bash\nnpx @google/design.md lint DESIGN.md\n```\n\n```json\n{\n  \"findings\": [\n    {\n      \"severity\": \"warning\",\n      \"path\": \"components.button-primary\",\n      \"message\": \"textColor (#ffffff) on backgroundColor (#1A1C1E) has contrast ratio 15.42:1 — passes WCAG AA.\"\n    }\n  ],\n  \"summary\": { \"errors\": 0, \"warnings\": 1, \"info\": 1 }\n}\n```\n\nCompare two versions of a design system to detect token-level and prose regressions:\n\n```bash\nnpx @google/design.md diff DESIGN.md DESIGN-v2.md\n```\n\n```json\n{\n  \"tokens\": {\n    \"colors\": { \"added\": [\"accent\"], \"removed\": [], \"modified\": [\"tertiary\"] },\n    \"typography\": { \"added\": [], \"removed\": [], \"modified\": [] }\n  },\n  \"regression\": false\n}\n```\n\n## The Specification\n\nThe full DESIGN.md spec lives at [`docs/spec.md`](docs/spec.md). What follows is a condensed reference.\n\n### File Structure\n\nA DESIGN.md file has two layers:\n\n1. **YAML front matter** — Machine-readable design tokens, delimited by `---` fences at the top of the file.\n2. **Markdown body** — Human-readable design rationale organized into `##` sections.\n\nThe tokens are the normative values. The prose provides context for how to apply them.\n\n### Token Schema\n\n```yaml\nversion: <string>          # optional, current: \"alpha\"\nname: <string>\ndescription: <string>      # optional\ncolors:\n  <token-name>",
-  "generatedAt": "2026-06-29T01:35:13.105Z",
+  "generatedAt": "2026-06-30T01:29:24.122Z",
   "analysis": {
     "oneLine": "design.md 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "design.md 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，design.md 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 22,852，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，design.md 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 23,201，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

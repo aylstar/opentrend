@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e15a0b04e2",
+  "slug": "weibo-巴拉圭门将",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "巴拉圭门将",
+  "summary": "微博热榜第 49 位：巴拉圭门将，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%97%A8%E5%B0%86%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

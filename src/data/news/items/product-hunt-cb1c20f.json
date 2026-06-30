@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "PMB",
+  "summary": "Stop re-explaining your project to AI coding agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+  "publishedAt": "2026-06-28T04:10:11.000Z",
+  "id": "product-hunt-cb1c20f",
+  "slug": "product-hunt-cb1c20f",
+  "content": "PMB gives Claude Code, Cursor, Codex and Zed persistent project memory through MCP. It stores decisions, lessons, goals, recent work, project facts and docs in one SQLite workspace on your disk. No cloud, no API keys, no LLM call on the read path. It is open source, offline-first, inspectable/exportable, with a local dashboard and honest impact tracking so you can see which memories actually help.",
+  "fetchedAt": "2026-06-30T01:29:38.744Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "PMB",
+  "chineseSummary": "停止向 AI 编码代理重新解释您的项目关联",
+  "chineseContent": "PMB 通过 MCP 为 Claude Code、Cursor、Codex 和 Zed 提供持久项目内存。它将决策、经验教训、目标、最近的工作、项目事实和文档存储在磁盘上的一个 SQLite 工作区中。读取路径上没有云、没有 API 密钥、没有 LLM 调用。它是开源的，离线优先，可检查/可导出，具有本地仪表板和诚实的影响跟踪，因此您可以看到哪些记忆真正有帮助。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

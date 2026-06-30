@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bed9e8d849",
+  "slug": "weibo-三星投资计划",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "三星投资计划",
+  "summary": "微博热榜第 47 位：三星投资计划，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E6%8A%95%E8%B5%84%E8%AE%A1%E5%88%92%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

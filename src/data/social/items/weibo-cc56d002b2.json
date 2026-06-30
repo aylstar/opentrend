@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc56d002b2",
+  "slug": "weibo-巴西绝杀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "巴西绝杀",
+  "summary": "微博热榜第 2 位：巴西绝杀，当前热度为 859万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%BB%9D%E6%9D%80%23",
+  "hotValue": "859万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.139Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

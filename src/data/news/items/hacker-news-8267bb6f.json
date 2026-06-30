@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+  "summary": "7 points · 0 comments",
+  "content": "7 points · 0 comments",
+  "url": "https://longcat.chat/blog/longcat-2.0/",
+  "publishedAt": "2026-06-30T00:30:11.000Z",
+  "points": 7,
+  "id": "hacker-news-8267bb6f",
+  "slug": "hacker-news-8267bb6f",
+  "fetchedAt": "2026-06-30T01:29:38.743Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 11,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "LongCat-2.0，大型MoE模型，总重1.6T，活动48B",
+  "chineseSummary": "7 分 · 0 条评论",
+  "chineseContent": "7 分 · 0 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

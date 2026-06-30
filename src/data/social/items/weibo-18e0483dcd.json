@@ -1,0 +1,21 @@
+{
+  "id": "weibo-18e0483dcd",
+  "slug": "weibo-巴西2比1日本",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "巴西2比1日本",
+  "summary": "微博热榜第 41 位：巴西2比1日本，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%941%E6%97%A5%E6%9C%AC%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

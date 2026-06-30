@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Supermicro Taiwan offices raided in chip smuggling probe",
+  "summary": "Server maker’s shares fell about 8% after news of the investigation",
+  "url": "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23",
+  "publishedAt": "2026-06-29T20:17:17.000Z",
+  "id": "financial-times-57653edc",
+  "slug": "financial-times-57653edc",
+  "content": "Server maker’s shares fell about 8% after news of the investigation",
+  "fetchedAt": "2026-06-30T01:29:38.753Z",
+  "score": 88,
+  "sourceWeight": 93,
+  "tags": [
+    "财经"
+  ],
+  "rank": 29,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "超微台湾办事处因芯片走私调查遭突击搜查",
+  "chineseSummary": "调查消息传出后，服务器制造商股价下跌约 8%",
+  "chineseContent": "调查消息传出后，服务器制造商股价下跌约 8%",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

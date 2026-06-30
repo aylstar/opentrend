@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+  "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's […]",
+  "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+  "publishedAt": "2026-06-29T19:47:35.000Z",
+  "id": "the-verge-e0b35c2e",
+  "slug": "the-verge-e0b35c2e",
+  "content": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to “protect artists” and “inform listeners.” Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. “Tidal’s priority is ensuring royalties go to original works directly produced, written, and performed by people. We will therefore not knowingly attribute royalties to music we identify as wholly AI-generated,” the company’s announcement reads.&nbsp; The platform didn’t specify what tools it’s using to identify AI-generated music, but the new policy says that as tools improve and become more reliable it eventually plans to also add the label to any uploads that are “substantially AI-generated.” In addition to its own detection tools, Tidal warns that identifying AI-generated music should not be its responsibility alone and that the platform will “begin to enforce” an expectation that content distributors properly label AI-generated music as well. In an effort to deter the use of any AI generative tool that “exploits an individual’s or group’s music, name or likeness, deceives listeners, or diminishes the quality of our service,” starting in mid-July Tidal will also remove or block “AI-generated music associated with fraudulent activity.” Those activities can include music designed to deceive listeners or interfere with authentic artists, high-volume uploads, or “unusual streaming activity.” Tidal’s competitors have previously addressed the influx of AI-generated music with tools and policies of their own. In April, Spotify launched a new verification program where some artists the company has confirmed as being a real person received a green checkmark and a “Verified by Spotify” badge on their profiles, while profiles that primarily upload AI-generated content are not eligible for the distinction. Deezer also developed tools for detecting fully AI-generated music when it’s uploaded in order to reduce its visibility on that platform, and last month it created a website you can use to scan your playlists on other streaming platforms to detect AI-generated tracks.",
+  "fetchedAt": "2026-06-30T01:29:38.746Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Tidal 不会为 AI 生成的音乐支付版税，但不会彻底禁止它",
+  "chineseSummary": "今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15 日开始，Tidal 不会彻底禁止它，而是将用图标标记其识别为 100% AI 生成的曲目。但从今天开始，这些曲目将不再可货币化。 “潮汐的[...]",
+  "chineseContent": "今天，Tidal 分享了有关人工智能生成音乐的新政策，以及该平台计划如何“保护艺术家”和“告知听众”。从 7 月 15 日开始，Tidal 不会彻底禁止它，而是将用图标标记其识别为 100% AI 生成的曲目。但从今天开始，这些曲目将不再可货币化。 “Tidal 的首要任务是确保版税流向由人们直接制作、创作和表演的原创作品。因此，我们不会故意将版税归属于我们认为完全由人工智能生成的音乐，”该公司的公告中写道。  该平台没有具体说明使用什么工具来识别人工智能生成的音乐，但新政策表示，随着工具的改进和变得更加可靠，它最终计划还将标签添加到任何“实质上人工智能生成”的上传内容中。除了自己的检测工具外，Tidal 警告说，识别人工智能生成的音乐不应是其独自的责任，该平台将“开始强制”内容发行商也正确标记人工智能生成的音乐。为了阻止使用任何“利用个人或团体的音乐、姓名或肖像、欺骗听众或降低我们的服务质量”的人工智能生成工具，从 7 月中旬开始，Tidal 还将删除或阻止“与欺诈活动相关的人工智能生成的音乐”。这些活动可能包括旨在欺骗听众或干扰真实艺术家的音乐、大量上传或“不寻常的流媒体活动”。 Tidal 的竞争对手此前已经用自己的工具和政策解决了人工智能生成音乐的涌入问题。 4 月，Spotify 推出了一项新的验证计划，该公司已确认一些艺术家为真人接收",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

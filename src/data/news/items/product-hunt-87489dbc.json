@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Agent Mode by Receiptor AI",
+  "summary": "Bookkeeping assistant that runs receipt workflows end-to-end Discussion | Link",
+  "url": "https://www.producthunt.com/products/receiptor-ai",
+  "publishedAt": "2026-06-27T12:16:36.000Z",
+  "id": "product-hunt-87489dbc",
+  "slug": "product-hunt-87489dbc",
+  "content": "Forget bookkeeping. Receiptor AI finds every receipt past & present, extracts data in context, auto-categorizes your expenses, and syncs to Xero/QBO. AI easily creates rules and manages your documents. Save time, maximize deductions, stay compliant.",
+  "fetchedAt": "2026-06-30T01:29:38.744Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Receiptor AI 的代理模式",
+  "chineseSummary": "端到端运行收据工作流程的簿记助理关联",
+  "chineseContent": "忘记簿记。 Receiptor AI 可查找过去和现在的每张收据，提取上下文中的数据，自动对您的费用进行分类，并同步到 Xero/QBO。人工智能可以轻松创建规则并管理您的文档。节省时间、最大限度地提高扣除额、保持合规。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

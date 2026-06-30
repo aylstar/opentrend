@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fb2775d4ce",
+  "slug": "weibo-德国vs巴拉圭",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "德国vs巴拉圭",
+  "summary": "微博热榜第 35 位：德国vs巴拉圭，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

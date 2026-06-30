@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "What can you confidently guarantee about your software?",
+  "summary": "96 points · 43 comments",
+  "content": "96 points · 43 comments",
+  "url": "https://queue.acm.org/detail.cfm?id=3819084",
+  "publishedAt": "2026-06-29T14:12:05.000Z",
+  "points": 96,
+  "id": "hacker-news-ab5ac28d",
+  "slug": "hacker-news-ab5ac28d",
+  "fetchedAt": "2026-06-30T01:29:38.744Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "您可以对您的软件做出哪些自信的保证？",
+  "chineseSummary": "96 分 · 43 条评论",
+  "chineseContent": "96 分 · 43 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

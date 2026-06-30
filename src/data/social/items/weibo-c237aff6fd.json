@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c237aff6fd",
+  "slug": "weibo-王濛回复黄灿灿",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "王濛回复黄灿灿",
+  "summary": "微博热榜第 27 位：王濛回复黄灿灿，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%9B%9E%E5%A4%8D%E9%BB%84%E7%81%BF%E7%81%BF%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

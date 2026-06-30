@@ -1,0 +1,21 @@
+{
+  "id": "weibo-020c036f1d",
+  "slug": "weibo-点球大战",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "点球大战",
+  "summary": "微博热榜第 38 位：点球大战，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-06-30 09:29:43",
+  "fetchedAt": "2026-06-30T01:31:30.140Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
