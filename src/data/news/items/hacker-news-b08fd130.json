@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "From brain waves to words: a new path to communication without surgery",
+  "summary": "108 points · 57 comments",
+  "content": "Last year, we introduced Brain2Qwerty v1, research that uses AI to decode brain activity into text without any surgical implant. Now we're sharing the next step: Brain2Qwerty v2, the highest-performing end-to-end pipeline capable of real-time sentence decoding from non-invasive brain recordings, approaching levels of accuracy previously exclusive to techniques that require brain surgery.\n\nTo help accelerate neuroscience breakthroughs, we're releasing the full training code for Brain2Qwerty v1 and v2, and our partner, the Basque Center on Cognition, Brain, and Language (BCBL), is releasing the v1 dataset . We believe this research has the potential to make a real difference for the millions of people who suffer from brain lesions that prevent them from communicating. Invasive procedures like stereotactic electroencephalography and electrocorticography have shown that a neuroprosthesis feeding signals to an AI decoder can restore communication, but they're difficult to scale. Our noninvasive approach can help bridge that gap.\n\nWe trained Brain2Qwerty v2 on approximately 22,000 sentences from nine volunteer participants, each recorded for 10 hours wearing a magnetoencephalography (MEG) device while actively typing. Instead of relying on hand-crafted pipelines to detect neural events, we use end-to-end deep learning to decode directly from raw brain signals.\n\nFine-tuning large language models on neural data allows the system to leverage semantic context, bridging the gap between noisy brain recordings and coherent language. We also deployed AI agents to explore optimizations for the decoding pipeline, with final training configurations selected manually by engineers.\n\nThe result: Brain2Qwerty v2 recovers sentences coherently from noisy neural inputs, achieving a word accuracy rate of 61%, significantly improving upon the 8% word accuracy from other non-invasive methods . And for our best participant, we achieve a 78% word accuracy, where more than half of all sentences are decoded with one word error or less.\n\nWe also find that decoding accuracy improves log-linearly with data volume, suggesting that the remaining performance gap with surgical approaches could be further narrowed through data scaling alone. This work contributes to our efforts to build open foundational models of the brain, with our Tribev2 model for perception encoding, NeuralSet to process brain data at scale, and NeuralBench to systematically evaluate models. We do this in close collaboration with the community, through our recent $5 million fund to stimulate open datasets in our Digital Brain Project . Our hope is that this work, done in the open, advances neuroscience to identify, diagnose, and treat neurological disorders faster than in siloes.",
+  "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+  "publishedAt": "2026-06-30T21:29:13.000Z",
+  "points": 108,
+  "id": "hacker-news-b08fd130",
+  "slug": "hacker-news-b08fd130",
+  "fetchedAt": "2026-07-01T01:37:39.198Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "从脑电波到语言：无需手术的沟通新途径",
+  "chineseSummary": "108 分 · 57 条评论",
+  "chineseContent": "去年，我们推出了 Brain2Qwerty v1，这项研究使用人工智能将大脑活动解码为文本，无需任何手术植入。现在我们正在分享下一步：Brain2Qwerty v2，这是性能最高的端到端管道，能够从非侵入性大脑记录中进行实时句子解码，接近以前需要脑部手术的技术独有的准确性水平。\n\n为了帮助加速神经科学的突破，我们发布了 Brain2Qwerty v1 和 v2 的完整训练代码，我们的合作伙伴巴斯克认知、大脑和语言中心 (BCBL) 也发布了 v1 数据集。我们相信这项研究有可能为数以百万计因大脑损伤而无法沟通的人带来真正的改变。立体定向脑电图和皮质脑电图等侵入性手术已经表明，向人工智能解码器馈送信号的神经假体可以恢复通信，但它们很难扩展。我们的非侵入性方法可以帮助弥合这一差距。\n\n我们使用 9 名志愿者参与者的大约 22,000 个句子对 Brain2Qwerty v2 进行了训练，每个人在主动打字时佩戴脑磁图 (MEG) 设备记录了 10 个小时。我们不依赖手工制作的管道来检测神经事件，而是使用端到端深度学习直接从原始大脑信号中解码。\n\n根据神经数据微调大型语言模型，使系统能够利用语义上下文，弥合嘈杂的大脑记录和连贯语言之间的差距。我们还部署了人工智能代理来探索解码管道的优化，并由工程师手动选择最终的训练配置。\n\n结果：Brain2Qwerty v2 从嘈杂的神经输入中连贯地恢复句子，实现了 61% 的单词准确率，显着提高了其他非侵入性方法 8% 的单词准确率。对于我们最好的参与者来说，我们实现了 78% 的单词准确率，其中超过一半的句子在解码时只有一个或更少的单词错误。\n\n我们还发现解码精度随数据量呈对数线性提高，这表明与手术方法的剩余性能差距可以仅通过数据缩放进一步缩小。这项工作有助于我们构建开放的大脑基础模型，其中包括用于感知编码的 Tribev2 模型、用于大规模处理大脑数据的 NeuralSet 以及用于系统评估模型的 NeuralBench。我们与社区密切合作，通过最近的 500 万美元基金来刺激我们的数字大脑项目中的开放数据集。我们希望这项公开进行的工作能够推动神经科学的发展，从而比单独进行的工作更快地识别、诊断和治疗神经系统疾病。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

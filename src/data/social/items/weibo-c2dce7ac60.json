@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c2dce7ac60",
+  "slug": "weibo-sk海力士申请上市",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "SK海力士申请上市",
+  "summary": "微博热榜第 50 位：SK海力士申请上市，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%94%B3%E8%AF%B7%E4%B8%8A%E5%B8%82%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-07-01 09:29:19",
+  "fetchedAt": "2026-07-01T01:38:34.062Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a5a55d640e",
+  "slug": "weibo-詹姆斯",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "詹姆斯",
+  "summary": "微博热榜第 45 位：詹姆斯，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-07-01 09:29:19",
+  "fetchedAt": "2026-07-01T01:38:34.062Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

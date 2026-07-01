@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Claude Code is steganographically marking requests",
+  "summary": "1420 points · 403 comments",
+  "content": "1420 points · 403 comments",
+  "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+  "publishedAt": "2026-06-30T15:44:24.000Z",
+  "points": 1420,
+  "id": "hacker-news-1079f592",
+  "slug": "hacker-news-1079f592",
+  "fetchedAt": "2026-07-01T01:37:39.198Z",
+  "score": 78,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Claude Code 正在以隐写方式标记请求",
+  "chineseSummary": "1420 分 · 403 条评论",
+  "chineseContent": "1420 分 · 403 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

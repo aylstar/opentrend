@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Amazon fined $2.25 million for failing to help identity theft victims",
+  "summary": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with fraudulent accounts, in violation of the Fair Credit […]",
+  "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+  "publishedAt": "2026-06-30T21:20:01.000Z",
+  "id": "the-verge-ccfabdb9",
+  "slug": "the-verge-ccfabdb9",
+  "content": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with fraudulent accounts, in violation of the Fair Credit Reporting Act (FCRA). As alleged in the filing, identity theft victims who contacted Amazon “would often enter a Kafkaesque sequence” where a support agent wouldn’t provide records related to a fraudulent account unless they could name the person who opened it. In one instance, a victim attempted to guess the fraudulent account owner’s name over 30 times, but Amazon allegedly wouldn’t remove the victim’s credit card information from the thief’s account. The FTC claims Amazon also failed to respond to identity theft victims’ requests for records within the 30 days required by the FCRA. An Amazon spokesperson tells Bloomberg that the company has “resolved this matter with the FTC” and “implemented process improvements for customers who believe they may be victims of identity theft.”",
+  "fetchedAt": "2026-07-01T01:37:39.201Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "亚马逊因未能帮助身份盗窃受害者而被罚款 225 万美元",
+  "chineseSummary": "据彭博社早些时候报道，美国联邦贸易委员会对亚马逊处以 225 万美元罚款，以了结该公司未能帮助身份盗用受害者的客户的指控。联邦贸易委员会在投诉中指责亚马逊拒绝向客户提供有关使用欺诈账户进行的购买的信息，违反了公平信用 [...]",
+  "chineseContent": "据彭博社早些时候报道，美国联邦贸易委员会对亚马逊处以 225 万美元罚款，以了结该公司未能帮助身份盗用受害者的客户的指控。美国联邦贸易委员会在投诉中指责亚马逊拒绝向客户提供有关使用欺诈账户进行的购买的信息，违反了《公平信用报告法》(FCRA)。正如文件中所称，联系亚马逊的身份盗窃受害者“通常会进入卡夫卡式的序列”，其中支持代理不会提供与欺诈账户相关的记录，除非他们能说出开设该账户的人的名字。在一个案例中，一名受害者试图猜测欺诈账户所有者的名字超过 30 次，但亚马逊据称不会从窃贼账户中删除受害者的信用卡信息。 FTC 声称亚马逊也未能在 FCRA 要求的 30 天内回应身份盗窃受害者索取记录的请求。亚马逊发言人告诉彭博社，该公司已“与联邦贸易委员会解决了此事”，并“为那些认为自己可能是身份盗窃受害者的客户实施了流程改进。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

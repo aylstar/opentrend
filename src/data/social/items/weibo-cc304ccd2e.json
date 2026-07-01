@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc304ccd2e",
+  "slug": "weibo-寒武纪深夜公告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "寒武纪深夜公告",
+  "summary": "微博热榜第 20 位：寒武纪深夜公告，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AF%92%E6%AD%A6%E7%BA%AA%E6%B7%B1%E5%A4%9C%E5%85%AC%E5%91%8A%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-07-01 09:29:19",
+  "fetchedAt": "2026-07-01T01:38:34.062Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

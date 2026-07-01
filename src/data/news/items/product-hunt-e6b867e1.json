@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Foresight by Lightning Rod",
+  "summary": "Predict anything with AI Discussion | Link",
+  "url": "https://www.producthunt.com/products/training-data-generator",
+  "publishedAt": "2026-06-22T15:28:19.000Z",
+  "id": "product-hunt-e6b867e1",
+  "slug": "product-hunt-e6b867e1",
+  "content": "Foresight by Lightning Rod is an OpenAI-compatible forecasting API for developers building forecasting agents, prediction bots, and decision tools. Ask a question about a future event and get a scored, calibrated forecast back. Unlike general-purpose LLMs, Foresight is trained and evaluated on real-world outcomes, with benchmark-verified accuracy, cheaper inference, and a drop-in API for forecasting workflows.",
+  "fetchedAt": "2026-07-01T01:37:39.200Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "通过避雷针预见",
+  "chineseSummary": "使用 AI 预测任何事情讨论 |关联",
+  "chineseContent": "Foresight by Lightning Rod 是一个与 OpenAI 兼容的预测 API，供开发人员构建预测代理、预测机器人和决策工具。询问有关未来事件的问题，并获得经过评分、校准的预测。与通用法学硕士不同，Foresight 根据现实世界的结果进行训练和评估，具有经过基准验证的准确性、更便宜的推理以及用于预测工作流程的嵌入式 API。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

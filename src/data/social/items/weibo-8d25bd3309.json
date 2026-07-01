@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8d25bd3309",
+  "slug": "weibo-法国超跑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "法国超跑",
+  "summary": "微博热榜第 19 位：法国超跑，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%B6%85%E8%B7%91%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-07-01 09:29:19",
+  "fetchedAt": "2026-07-01T01:38:34.062Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

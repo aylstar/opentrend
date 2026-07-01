@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bdbf3b5690",
+  "slug": "weibo-巴西-挪威",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "巴西 挪威",
+  "summary": "微博热榜第 8 位：巴西 挪威，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF+%E6%8C%AA%E5%A8%81%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-07-01 09:29:19",
+  "fetchedAt": "2026-07-01T01:38:34.061Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

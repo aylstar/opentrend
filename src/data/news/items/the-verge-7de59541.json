@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+  "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war […]",
+  "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+  "publishedAt": "2026-06-30T19:24:51.000Z",
+  "id": "the-verge-7de59541",
+  "slug": "the-verge-7de59541",
+  "content": "Google’s NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia’s unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by generating AI podcasts, cinematic videos, and visual explainers. [Media: https://twitter.com/NotebookLM/status/2071987494799716626] To generate a 60-second clip, head to NotebookLM on the web or app, select a notebook, and then choose “Video” from the Studio column on the right side of the screen. From there, select “Short,” choose the topic you’d like NotebookLM to focus on (or enter your own), and then hit the “Generate” button. The feature is rolling out in English only for now, with support for free users coming “soon.”",
+  "fetchedAt": "2026-07-01T01:37:39.201Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌的 NotebookLM 可以用 TikTok 风格的剪辑总结你的研究",
+  "chineseSummary": "谷歌的 NotebookLM 正在添加一种新的方式来跟上你的笔记：TikTok 风格的人工智能视频。这项新功能正在向 Google AI Ultra 和 Pro 订阅者推出，允许 NotebookLM 根据您上传到应用程序的来源生成 60 秒的垂直 AI 剪辑。谷歌分享的例子详细介绍了澳大利亚不成功的战争 [...]",
+  "chineseContent": "谷歌的 NotebookLM 正在添加一种新的方式来跟上你的笔记：TikTok 风格的人工智能视频。这项新功能正在向 Google AI Ultra 和 Pro 订阅者推出，允许 NotebookLM 根据您上传到应用程序的来源生成 60 秒的垂直 AI 剪辑。谷歌分享的例子详细介绍了澳大利亚对鸸鹋的不成功战争，将剪纸式的鸸鹋人工智能艺术与旁白结合起来。它增加了 NotebookLM 让您与研究互动的一些其他方式，包括生成 AI 播客、电影视频和视觉解释器。 [媒体：https://twitter.com/NotebookLM/status/2071987494799716626] 要生成 60 秒的剪辑，请前往 Web 或应用程序上的 NotebookLM，选择一个笔记本，然后从屏幕右侧的“工作室”列中选择“视频”。从那里，选择“简短”，选择您希望 NotebookLM 关注的主题（或输入您自己的主题），然后单击“生成”按钮。该功能目前仅以英语推出，“很快”就会为免费用户提供支持。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

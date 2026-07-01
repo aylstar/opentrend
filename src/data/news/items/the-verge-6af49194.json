@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+  "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+  "publishedAt": "2026-07-01T00:03:55.000Z",
+  "id": "the-verge-6af49194",
+  "slug": "the-verge-6af49194",
+  "content": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: > We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. > We’ll begin restoring access tomorrow, and will share an update soon. > We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models. In early June, Anthropic sidelined Fable 5 — its consumer-facing model built the same underlying technology as Anthropic’s Mythos 5, but with more safeguards —&nbsp;after a Friday evening ultimatum from the Trump administration. Due to concerns over potential jailbreaks of the technology, the government had slapped Anthropic with an export control directive, disallowing any foreign national (including non-US members of enterprise client companies and even many of Anthropic’s own employees) from using either Mythos 5 or Fable 5, i.e., both the models that Anthropic had spent the last week hyping. The Trump administration recently greenlit the return of Mythos 5, but to a pre-approved list of organizations only. Non-US members of those organizations, as well as Anthropic’s own foreign national employees, are now allowed to access the model. The decision came shortly after OpenAI unveiled GPT-5.6, which the Trump administration only allowed to debut under similar rules: a staggered rollout, initially to only a pre-approved list of organizations and government departments. The initial export control directive by the Trump administration came at an inopportune time for Anthropic, as it’s preparing for an IPO and has been feuding with the government for months over a supply chain risk designation.",
+  "fetchedAt": "2026-07-01T01:37:39.201Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 搁置已久的《神鬼寓言 5》已获准回归",
+  "chineseSummary": "经过与特朗普政府几周的谈判，Anthropic 终于能够让《克劳德寓言 5》重新上线。 Anthropic 在 X 上的一篇帖子中表示，计划明天开始恢复访问。 Anthropic：我们收到通知，商务部已取消对《克劳德寓言 5》和《神话》的出口管制 [...]",
+  "chineseContent": "经过与特朗普政府几周的谈判，Anthropic 终于能够让《克劳德寓言 5》重新上线。 Anthropic 在 X 上的一篇帖子中表示，计划明天开始恢复访问。 Anthropic：> 我们收到通知，商务部已取消对《克劳德寓言 5》和《神话 5》的出口管制。> 我们将于明天开始恢复访问，并将很快分享最新消息。 > 我们感谢用户的耐心，以及所有与我们一起重新部署模型的人。 6 月初，在特朗普政府周五晚上发出最后通牒后，Anthropic 放弃了《神鬼寓言 5》——其面向消费者的模型构建了与 Anthropic 的 Mythos 5 相同的基础技术，但有更多的保障措施。由于担心该技术可能被越狱，政府向 Anthropic 发出了出口管制指令，禁止任何外国人（包括企业客户公司的非美国成员，甚至 Anthropic 自己的许多员工）使用 Mythos 5 或 Fable 5，即 Anthropic 上周大肆宣传的这两种模式。特朗普政府最近批准了 Mythos 5 的回归，但仅限于预先批准的组织名单。这些组织的非美国成员以及 Anthropic 自己的外籍员工现在都可以访问该模型。这一决定是在 OpenAI 推出 GPT-5.6 后不久做出的，特朗普政府只允许在类似的规则下首次推出 GPT-5.6：分阶段推出，最初只向预先批准的组织和政府部门名单推出。特朗普政府最初的出口管制指令对 Anthropic 来说来得不合时宜，因为该公司正在准备首次公开募股，并且几个月来一直与政府争执不休。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

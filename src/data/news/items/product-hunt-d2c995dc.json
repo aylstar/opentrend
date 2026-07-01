@@ -1,25 +1,26 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Cleo",
-  "summary": "The AI PM that runs your team Discussion | Link",
+  "originalTitle": "Clade",
+  "summary": "AI COO that runs your team in tools you already use Discussion | Link",
   "url": "https://www.producthunt.com/products/cleo-4",
-  "publishedAt": "2026-05-21T11:50:50.000Z",
+  "publishedAt": "2026-06-24T23:43:43.000Z",
   "id": "product-hunt-d2c995dc",
   "slug": "product-hunt-d2c995dc",
-  "content": "Cleo is the AI product manager for founders and lean teams. It lives in Telegram and Slack - learns your tone, knows your team, and runs the PM work (standups, follow-ups, decisions) while you ship the product. What's different: every fact Cleo learns is transparent - you see the source, the confidence, and can confirm or correct it. No black-box memory. Five trust levels, from observer to operator. Free in Telegram. 1 min setup",
-  "fetchedAt": "2026-05-24T01:27:53.750Z",
-  "score": 73,
+  "content": "Clade is the AI Digital COO for software teams. It lives in Telegram, Slack and iMessage - learns your tone, knows your team, and runs the operational work (standups, follow-ups, decisions, accountability) while you stay focused on clients and delivery. What's different: every fact Clade learns is transparent - you see the source, the confidence, and can confirm or correct it. No black-box memory. Five trust levels, from observer to operator. Free in Telegram. 1 min setup.",
+  "fetchedAt": "2026-07-01T01:37:39.200Z",
+  "score": 69,
   "sourceWeight": 84,
   "tags": [
     "AI",
-    "全球"
+    "全球",
+    "产品"
   ],
-  "rank": 7,
+  "rank": 18,
   "contentStatus": "article-extracted",
-  "chineseTitle": "克莱奥",
-  "chineseSummary": "管理您团队的 AI PM 讨论 |关联",
-  "chineseContent": "Cleo 是创始人和精益团队的人工智能产品经理。它存在于 Telegram 和 Slack 中 - 学习您的语气，了解您的团队，并在您交付产品时运行 PM 工作（站立、跟进、决策）。不同之处在于：Cleo 了解到的每一个事实都是透明的 - 您可以看到来源、信心，并可以确认或纠正它。没有黑匣子内存。从观察者到操作者有五个信任级别。在 Telegram 中免费。 1 分钟设置",
+  "chineseTitle": "进化枝",
+  "chineseSummary": "AI 首席运营官在您已使用的工具中管理您的团队关联",
+  "chineseContent": "Clade 是软件团队的 AI 数字首席运营官。它存在于 Telegram、Slack 和 iMessage 中 - 学习您的语气，了解您的团队，并在您专注于客户和交付的同时运行运营工作（站立、跟进、决策、问责）。不同之处：克拉德了解到的每一个事实都是透明的 - 您可以看到来源、信心，并可以确认或纠正它。没有黑匣子内存。从观察者到操作者有五个信任级别。在 Telegram 中免费。 1 分钟设置。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

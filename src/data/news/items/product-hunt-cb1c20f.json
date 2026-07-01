@@ -8,14 +8,14 @@
   "id": "product-hunt-cb1c20f",
   "slug": "product-hunt-cb1c20f",
   "content": "PMB gives Claude Code, Cursor, Codex and Zed persistent project memory through MCP. It stores decisions, lessons, goals, recent work, project facts and docs in one SQLite workspace on your disk. No cloud, no API keys, no LLM call on the read path. It is open source, offline-first, inspectable/exportable, with a local dashboard and honest impact tracking so you can see which memories actually help.",
-  "fetchedAt": "2026-06-30T01:29:38.744Z",
+  "fetchedAt": "2026-07-01T01:37:39.200Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
+  "rank": 9,
   "contentStatus": "article-extracted",
   "chineseTitle": "PMB",
   "chineseSummary": "停止向 AI 编码代理重新解释您的项目关联",

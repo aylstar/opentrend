@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8d4a7d7396",
+  "slug": "weibo-姆巴佩世界杯射手榜第二",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "姆巴佩世界杯射手榜第二",
+  "summary": "微博热榜第 2 位：姆巴佩世界杯射手榜第二，当前热度为 107万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E6%A6%9C%E7%AC%AC%E4%BA%8C%23",
+  "hotValue": "107万热度",
+  "author": "",
+  "publishedAt": "2026-07-01 09:29:19",
+  "fetchedAt": "2026-07-01T01:38:34.061Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
