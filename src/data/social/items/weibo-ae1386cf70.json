@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ae1386cf70",
+  "slug": "weibo-比利时-内讧",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "比利时 内讧",
+  "summary": "微博热榜第 2 位：比利时 内讧，当前热度为 109万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6+%E5%86%85%E8%AE%A7%23",
+  "hotValue": "109万热度",
+  "author": "",
+  "publishedAt": "2026-07-02T01:29:15.255Z",
+  "fetchedAt": "2026-07-02T01:30:52.433Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

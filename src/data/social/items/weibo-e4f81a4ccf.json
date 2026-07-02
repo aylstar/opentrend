@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e4f81a4ccf",
+  "slug": "weibo-美国vs波黑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "美国vs波黑",
+  "summary": "微博热榜第 35 位：美国vs波黑，当前热度为 51万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDvs%E6%B3%A2%E9%BB%91%23",
+  "hotValue": "51万热度",
+  "author": "",
+  "publishedAt": "2026-07-02T01:29:15.255Z",
+  "fetchedAt": "2026-07-02T01:30:52.434Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

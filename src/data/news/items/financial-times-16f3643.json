@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "FedEx strikes $1.4bn deal to sell logistics unit to CMA CGM",
+  "summary": "French shipping group aims to expand in US and strengthen foothold in supply chain",
+  "url": "https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5",
+  "publishedAt": "2026-07-01T13:51:25.000Z",
+  "id": "financial-times-16f3643",
+  "slug": "financial-times-16f3643",
+  "content": "French shipping group aims to expand in US and strengthen foothold in supply chain",
+  "fetchedAt": "2026-07-02T01:30:07.929Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "联邦快递 (FedEx) 达成 14 亿美元交易，将物流部门出售给达飞轮船 (CMA CGM)",
+  "chineseSummary": "法国航运集团计划在美国扩张并加强在供应链中的立足点",
+  "chineseContent": "法国航运集团计划在美国扩张并加强在供应链中的立足点",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

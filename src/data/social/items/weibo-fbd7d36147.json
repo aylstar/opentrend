@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fbd7d36147",
+  "slug": "weibo-世界杯最新射手榜",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "世界杯最新射手榜",
+  "summary": "微博热榜第 33 位：世界杯最新射手榜，当前热度为 52万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E6%96%B0%E5%B0%84%E6%89%8B%E6%A6%9C%23",
+  "hotValue": "52万热度",
+  "author": "",
+  "publishedAt": "2026-07-02T01:29:15.255Z",
+  "fetchedAt": "2026-07-02T01:30:52.434Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

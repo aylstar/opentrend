@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0d9c14a434",
+  "slug": "weibo-机器人伴侣你会买吗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "机器人伴侣你会买吗",
+  "summary": "微博热榜第 10 位：机器人伴侣你会买吗，当前热度为 58万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BD%A0%E4%BC%9A%E4%B9%B0%E5%90%97%23",
+  "hotValue": "58万热度",
+  "author": "",
+  "publishedAt": "2026-07-02T01:29:15.255Z",
+  "fetchedAt": "2026-07-02T01:30:52.433Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

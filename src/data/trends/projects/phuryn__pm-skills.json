@@ -8,12 +8,12 @@
   "language": "",
   "githubUrl": "https://github.com/phuryn/pm-skills",
   "docsUrl": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
-  "stars": 21899,
-  "forks": 2206,
-  "openIssues": 32,
+  "stars": 22052,
+  "forks": 2222,
+  "openIssues": 33,
   "license": "MIT",
   "pushedAt": "2026-06-22T09:34:56Z",
-  "updatedAt": "2026-07-01T01:33:24Z",
+  "updatedAt": "2026-07-02T01:22:19Z",
   "createdAt": "2026-03-01T23:33:44Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "![GitHub stars](https://img.shields.io/github/stars/phuryn/pm-skills)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/LICENSE)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/CONTRIBUTING.md)\n[![Companion: pm-skills](https://img.shields.io/badge/companion-pm--brain-blue)](https://github.com/phuryn/pm-brain)\n[![Companion: burnstop](https://img.shields.io/badge/companion-burnstop-blue)](https://github.com/phuryn/burnstop)\n[![Companion: claude-usage](https://img.shields.io/badge/companion-claude--usage-blue)](https://github.com/phuryn/claude-usage)\n\n# PM Skills Marketplace: The AI Operating System for Better Product Decisions\n\n> 68 PM skills and 42 chained workflows across 9 plugins. Claude Code, Cowork, and more. From discovery to strategy, execution, launch, growth, and shipping AI-built code. \n\n![PM Skills marketplace: skills, commands, and all 9 plugins at a glance](.docs/images/plugins.png)\n\nDesigned for Claude Code and Cowork. Skills compatible with other AI assistants.\n\n## Start Here\n\nNew idea? → `/discover`  \nNeed strategic clarity? → `/strategy`  \nWriting a PRD? → `/write-prd`  \nPlanning a launch? → `/plan-launch`  \nDefining metrics? → `/north-star`\n\nIf this project helps you, ⭐ the repo.\n\n## Why PM Skills Marketplace?\n\nGeneric AI gives you text. PM Skills Marketplace gives you structure.\n\nEach skill encodes a proven PM framework — discovery, assumption mapping, prioritization, strategy — and walks you through it step by step. You get the rigor of Teresa Torres, Marty Cagan, and Alberto Savoia built into your daily workflow, not sitting on a bookshelf.\n\nThe result: better product decisions, not just faster documents.\n\n## How It Works (Skills, Commands, Plugins)\n\n![Example prompts: a skill and two commands (/write-prd, /ship-check) in action](.docs/images/examples.png)\n\n**Skills** are the building blocks of the marketplace. Each skill gives Claude domain knowledge, analytical frameworks, or a guided workflow for a specific PM task. Some skills also work as reusable foundations that multiple commands share. \n\nSkills are loaded automatically when relevant to the conversation — no explicit invocation needed. If needed (e.g., prioritizing skills over general knowledge), you can **force loading skills** with `/plugin-name:skill-name` or `/skill-name` (Claude will add the prefix).\n\n**Commands** are user-triggered workflows invoked with `/command-name`. They chain one or more skills into an end-to-end process. For example, `/discover` chains four skills together: brainstorm-ideas → identify-assumptions → prioritize-assumptions → brainstorm-experiments.\n\n**Plugins** group related skills and commands into installable packages. Each plugin covers a PM domain — discovery, strategy, execution, and so on. Installing the marketplace gives you all 9 plugins at once.\n\nCommands use skills. S",
-  "generatedAt": "2026-07-01T01:37:27.269Z",
+  "generatedAt": "2026-07-02T01:29:56.805Z",
   "analysis": {
     "oneLine": "pm-skills 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "pm-skills 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，pm-skills 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 21,899，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能被团队持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，pm-skills 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 22,052，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能被团队持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

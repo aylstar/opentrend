@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Stigg 2.0",
+  "summary": "The usage runtime for AI products Discussion | Link",
+  "url": "https://www.producthunt.com/products/stigg",
+  "publishedAt": "2026-06-29T19:47:16.000Z",
+  "id": "product-hunt-393e3ea6",
+  "slug": "product-hunt-393e3ea6",
+  "content": "Stigg is the usage runtime for AI products: the real-time enforcement and governance layer between your app and your billing stack. It decides what every customer, user, team, and agent can do, the moment they try. Sub-millisecond credit checks, zero overdraft, enterprise governance, and modular BYOC. Metering, credits, entitlements, and governance in one runtime. Enforce in the request path instead of reconciling on the invoice. Free forever for AI startups.",
+  "fetchedAt": "2026-07-02T01:30:07.920Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "斯蒂格2.0",
+  "chineseSummary": "AI产品的使用运行时讨论 |关联",
+  "chineseContent": "Stigg 是 AI 产品的使用运行时：应用程序和计费堆栈之间的实时执行和治理层。它决定每个客户、用户、团队和代理在尝试时可以做什么。亚毫秒级信用检查、零透支、企业治理和模块化 BYOC。在一个运行时中进行计量、积分、权利和治理。在请求路径中强制执行，而不是在发票上进行核对。人工智能初创公司永久免费。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
