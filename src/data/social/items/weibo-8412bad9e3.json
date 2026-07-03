@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8412bad9e3",
+  "slug": "weibo-葡萄牙先丢球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "葡萄牙先丢球",
+  "summary": "微博热榜第 20 位：葡萄牙先丢球，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E5%85%88%E4%B8%A2%E7%90%83%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

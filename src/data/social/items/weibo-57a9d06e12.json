@@ -1,0 +1,21 @@
+{
+  "id": "weibo-57a9d06e12",
+  "slug": "weibo-亚马尔全场最佳",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "亚马尔全场最佳",
+  "summary": "微博热榜第 28 位：亚马尔全场最佳，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

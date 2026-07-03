@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "scritty",
+  "summary": "Shared, searchable memory for every AI coding agent Discussion | Link",
+  "url": "https://www.producthunt.com/products/scritty",
+  "publishedAt": "2026-07-02T00:21:44.000Z",
+  "id": "product-hunt-c626c630",
+  "slug": "product-hunt-c626c630",
+  "content": "scritty is a terminal emulator that captures every CLI agent's conversation (Claude, Codex, Copilot, Antigravity, Ollama), indexes it into one searchable corpus you control, and serves it back to your agents over MCP and to you over the CLI. One session across desktop, browser, and mobile. Your captures stay on your machine.",
+  "fetchedAt": "2026-07-03T01:08:24.552Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "书面",
+  "chineseSummary": "为每个人工智能编码代理提供共享的、可搜索的内存关联",
+  "chineseContent": "scritty 是一个终端仿真器，它捕获每个 CLI 代理的对话（Claude、Codex、Copilot、Antigravity、Ollama），将其索引到您控制的一个可搜索语料库中，并通过 MCP 将其返回给您的代理，并通过 CLI 将其返回给您。跨桌面、浏览器和移动设备的一次会话。您的捕获内容保留在您的计算机上。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

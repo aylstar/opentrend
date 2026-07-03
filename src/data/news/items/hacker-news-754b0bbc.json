@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "PeerTube is a free, decentralized and federated video platform",
+  "summary": "506 points · 227 comments",
+  "content": "Website | Join an instance | Create an instance | Chat with us | Donate\n\nBe part of a network of multiple small federated, interoperable video hosting providers. Follow video creators and create videos. No vendor lock-in. All on a platform that is community-owned and ad-free.\n\nPeerTube is a free, decentralized and federated video platform developed as an alternative to other platforms that centralize our data and attention, such as YouTube, Dailymotion or Vimeo. 🎬\n\nAll features for viewers | All features for content creators | All features for administrators\n\nJust upload your videos, and be sure they will stream anywhere. Add a description, some tags and your video will be discoverable by the entire video fediverse, not just your instance. You can even embed a player on your favorite website!\n\nYou are used to hosting live events? We got you covered too! Start livestreaming from your favorite client, and even host permanent streams!\n\nFollow your favorite channels from PeerTube or really any other place. No need to have an account on the instance you watched a video to follow its author, you can do all of that from the Fediverse (Mastodon, Pleroma, and plenty others), or just with good ol' RSS.\n\nIn addition to visitors using P2P with WebRTC to share the load among them, instances can help each other by caching one another's videos. This way even small instances have a way to show content to a wider audience, as they will be shouldered by friend instances (more about that in our redundancy guide ).\n\nYou don't need to be a programmer to help!\n\nYou can give us your feedback, report bugs, help us translate PeerTube, write documentation, and more. Check out the contributing guide to know how, it takes less than 2 minutes to get started. 😉\n\nYou can also join the cheerful bunch that makes our community :\n\nFeel free to reach out if you have any questions or ideas! 💬\n\nSee the production guide , which is the recommended way to install or upgrade PeerTube. For hardware requirements, see Should I have a big server to run PeerTube? in the FAQ.\n\nSee the community packages , which cover various platforms (including YunoHost and Docker ).\n\nIf you have a question, please try to find the answer in the FAQ first.\n\nSee how to create your own instance .\n\nSee the more general admin documentation .\n\nLearn how to import/upload videos from CLI or admin your PeerTube instance with the tools documentation .\n\nSee the architecture blueprint for a more detailed explanation of the architectural choices.\n\nSee our ActivityPub documentation .\n\nCopyright (C) 2015-2025 PeerTube Contributors (see CREDITS.md )\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.\n\nYou should have received a copy of the GNU Affero General Public License along with this program. If not, see https://www.gnu.org/licenses/ .",
+  "url": "https://github.com/Chocobozzz/PeerTube",
+  "publishedAt": "2026-07-02T11:17:45.000Z",
+  "points": 506,
+  "id": "hacker-news-754b0bbc",
+  "slug": "hacker-news-754b0bbc",
+  "fetchedAt": "2026-07-03T01:08:24.550Z",
+  "score": 88,
+  "sourceWeight": 86,
+  "tags": [
+    "科技",
+    "金融",
+    "视频"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "PeerTube 是一个免费、去中心化和联合的视频平台",
+  "chineseSummary": "506 分 · 227 条评论",
+  "chineseContent": "网站 |加入实例 |创建实例 |与我们聊天 |捐赠\n\n成为多个小型联合、可互操作的视频托管提供商网络的一部分。关注视频创作者并创建视频。没有供应商锁定。一切都在社区所有且无广告的平台上。\n\nPeerTube 是一个免费、去中心化和联合的视频平台，旨在替代其他集中我们的数据和注意力的平台，例如 YouTube、Dailymotion 或 Vimeo。 🎬\n\n面向观众的所有功能 |内容创作者的所有功能 |面向管理员的所有功能\n\n只需上传您的视频，并确保它们可以在任何地方播放。添加描述、一些标签，您的视频将被整个视频联盟发现，而不仅仅是您的实例。您甚至可以在您最喜欢的网站上嵌入播放器！\n\n您习惯举办现场活动吗？我们也为您服务！从您最喜欢的客户端开始直播，甚至主持永久直播！\n\n从 PeerTube 或任何其他地方关注您最喜欢的频道。您无需在观看视频时拥有帐户即可关注其作者，您可以通过 Fediverse（Mastodon、Pleroma 等）完成所有这些操作，或者仅使用优秀的 RSS。\n\n除了使用 P2P 和 WebRTC 的访问者在他们之间分担负载之外，实例还可以通过缓存彼此的视频来互相帮助。这样，即使是小实例也可以向更广泛的受众展示内容，因为它们将由朋友实例承担（更多信息请参见我们的冗余指南）。\n\n您无需成为程序员即可提供帮助！\n\n您可以向我们提供反馈、报告错误、帮助我们翻译 PeerTube、编写文档等等。查看贡献指南了解如何操作，只需不到 2 分钟即可开始。 😉\n\n您还可以加入我们的社区：\n\n如果您有任何问题或想法，请随时与我们联系！ 💬\n\n请参阅生产指南，这是安装或升级 PeerTube 的推荐方式。有关硬件要求，请参阅我应该有一台大服务器来运行 PeerTube 吗？在常见问题解答中。\n\n请参阅社区包，它涵盖了各种平台（包括 YunoHost 和 Docker）。\n\n如果您有疑问，请先尝试在常见问题解答中查找答案。\n\n了解如何创建您自己的实例。\n\n请参阅更一般的管理文档。\n\n了解如何从 CLI 导入/上传视频或使用工具文档管理您​​的 PeerTube 实例。\n\n有关架构选择的更详细说明，请参阅架构蓝图。\n\n请参阅我们的 ActivityPub 文档。\n\n版权所有 (C) 2015-2025 PeerTube 贡献者（请参阅 CREDITS.md ）\n\n该程序是免费软件：您可以根据自由软件基金会发布的 GNU Affero 通用公共许可证（许可证的第 3 版）或（由您选择）任何更高版本的条款重新分发和/或修改它。\n\n分发此程序的目的是希望它有用，但不提供任何保证；甚至没有适销性或特定用途适用性的默示保证。有关更多详细信息，请参阅 GNU Affero 通用公共许可证。\n\n您应该随该程序一起收到 GNU Affero 通用公共许可证的副本。如果没有，请参阅 https://www.gnu.org/licenses/ 。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

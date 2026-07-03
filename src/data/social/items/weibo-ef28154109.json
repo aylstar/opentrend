@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ef28154109",
+  "slug": "weibo-蔡文静回应赵一博",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "蔡文静回应赵一博",
+  "summary": "微博热榜第 47 位：蔡文静回应赵一博，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%9B%9E%E5%BA%94%E8%B5%B5%E4%B8%80%E5%8D%9A%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

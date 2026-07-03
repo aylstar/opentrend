@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Virginia bans sale of geolocation data",
+  "summary": "425 points · 76 comments",
+  "content": "On April 13, 2026, Virginia Governor Abigail Spanberger signed into law S.B. 388 , which amends the Virginia Consumer Data Protection Act (&ldquo;VCDPA&rdquo;) to prohibit the sale of geolocation data. Notably, the VCDPA defines &ldquo;sale&rdquo; more narrowly than other state comprehensive privacy laws, as &ldquo;the exchange of personal data for monetary consideration by the controller to a third party.&rdquo;\n\nThe ban on the sale of geolocation data goes into effect on July 1, 2026.\n\nVirginia follows Maryland and Oregon in banning the sale of geolocation data. Both Maryland and Oregon more broadly define &ldquo;sale&rdquo; to mean the exchange of personal data &ldquo;for monetary or other valuable consideration .&rdquo; Virginia joins several other states that have recently proposed legislation with similar bans, including California , Massachusetts , Vermont and Washington State . The legislative activity follows regulatory scrutiny on the sale of geolocation data, including the California Attorney General&rsquo;s investigation into the location data industry in March 2025, and a 2024 FTC settlement banning a data broker from selling geolocation data.",
+  "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+  "publishedAt": "2026-07-02T21:03:45.000Z",
+  "points": 425,
+  "id": "hacker-news-df528b59",
+  "slug": "hacker-news-df528b59",
+  "fetchedAt": "2026-07-03T01:08:24.549Z",
+  "score": 65,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "弗吉尼亚州禁止出售地理位置数据",
+  "chineseSummary": "425 分 · 76 条评论",
+  "chineseContent": "2026 年 4 月 13 日，弗吉尼亚州州长阿比盖尔·斯潘伯格签署了《S.B.第 388 号法案修改了《弗吉尼亚消费者数据保护法》（“VCDPA”），禁止出售地理位置数据。值得注意的是，VCDPA 对“销售”的定义比其他州综合隐私法更为狭隘，即“控制者为了金钱考虑而向第三方交换个人数据”。\n\n地理定位数据销售禁令将于 2026 年 7 月 1 日生效。\n\n弗吉尼亚州紧随马里兰州和俄勒冈州之后，禁止出售地理位置数据。马里兰州和俄勒冈州都更广泛地将“出售”定义为“为了金钱或其他有价值的考虑”而交换个人数据。弗吉尼亚州和其他几个州最近提出了类似禁令的立法，其中包括加利福尼亚州、马萨诸塞州、佛蒙特州和华盛顿州。这项立法活动是在对地理定位数据销售进行监管审查之后进行的，包括加州总检察长 2025 年 3 月对位置数据行业的调查，以及 2024 年 FTC 和解协议禁止数据经纪人出售地理定位数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

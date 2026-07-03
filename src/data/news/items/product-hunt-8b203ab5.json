@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Retrace",
+  "summary": "Debug AI agents by replaying and forking runs Discussion | Link",
+  "url": "https://www.producthunt.com/products/retrace-2",
+  "publishedAt": "2026-07-01T16:12:07.000Z",
+  "id": "product-hunt-8b203ab5",
+  "slug": "product-hunt-8b203ab5",
+  "content": "Record, replay, fork & share AI agent executions. See every LLM call, tool invocation, and error your agent makes, then debug and iterate in seconds. Free for 1,000 traces/mo.",
+  "fetchedAt": "2026-07-03T01:08:24.552Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "回溯",
+  "chineseSummary": "通过重放和分叉运行来调试 AI 代理关联",
+  "chineseContent": "记录、重播、分叉和共享 AI 代理执行情况。查看您的代理所犯的每个 LLM 调用、工具调用和错误，然后在几秒钟内进行调试和迭代。每月 1,000 条轨迹免费。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

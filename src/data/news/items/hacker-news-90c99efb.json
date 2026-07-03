@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+  "summary": "396 points · 187 comments",
+  "content": "So. For the past few days I've been deep in a fun and very rewarding, but also extremely scary debugging saga. To cut a long git-bisecting story short: Since Linux 6.9 (May 2024), the tool that locks the laptop's drive on suspend had been silently failing. Like many of my friends, I use full-disk encryption (LUKS) to protect my data if my laptop is lost, seized or stolen. Highly recommended to everyone; in combination with tested and automated backups, it contributes greatly to peace of mind. (Under Windows, the canonical software to do that is VeraCrypt.) Except that, for more than two years, the encryption key remained resident in memory across suspend, leaving it there for the taking by anyone who seized the still-powered laptop. (It still worked on a full shutdown, but a full shutdown is rare these days.) There is something uniquely unsettling about trusting a security mechanism for years and learning it was never doing the thing. \"A technical argument by a trusted author, which is hard to check and looks similar to arguments known to be correct, is hardly ever checked in detail.\" The same, it seems, is true for computer code. The culprit was a sensible and useful refactoring, https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a28d893eb3270cf62c10dd8777af0d8452cdc072. But it had an unexpected long-range interaction with the encryption code. The fix is exactly one line long: https://lore.kernel.org/all/ajKwRtP8izwRsMmv@quasitopos/ And no, without formal proofs I cannot say whether my patch is correct and free of its own long-range interactions... At the very least, we now have an automated test to detect future regressions (https://github.com/NixOS/nixpkgs/pull/532499) and a patch to emit a warning instead of failing silently (https://gitlab.com/cryptsetup/cryptsetup/-/merge_requests/936).",
+  "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+  "publishedAt": "2026-07-02T15:25:16.000Z",
+  "points": 396,
+  "id": "hacker-news-90c99efb",
+  "slug": "hacker-news-90c99efb",
+  "fetchedAt": "2026-07-03T01:08:24.550Z",
+  "score": 65,
+  "sourceWeight": 86,
+  "tags": [
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "自 Linux 6.9 起，LUKS 挂起停止从内存中擦除磁盘加密密钥",
+  "chineseSummary": "396 分 · 187 条评论",
+  "chineseContent": "所以。在过去的几天里，我一直沉浸在一个有趣且非常有益但也非常可怕的调试传奇中。简而言之：自 Linux 6.9（2024 年 5 月）以来，将笔记本电脑驱动器锁定在挂起状态的工具一直在默默地失败。和我的许多朋友一样，如果我的笔记本电脑丢失、被扣押或被盗，我会使用全盘加密 (LUKS) 来保护我的数据。强烈推荐给大家；与经过测试的自动备份相结合，它可以极大地让您高枕无忧。 （在 Windows 下，执行此操作的规范软件是 VeraCrypt。）除此之外，在两年多的时间里，加密密钥在整个挂起期间仍然驻留在内存中，供任何抓住仍然供电的笔记本电脑的人使用。 （它仍然可以在完全关闭的情况下工作，但现在完全关闭的情况很少见。）多年来信任一个安全机制，却发现它从未做到这一点，这是一种独特的令人不安的感觉。 “由值得信赖的作者提出的技术论点很难检查，而且看起来与已知正确的论点相似，但几乎从未经过详细检查。”计算机代码似乎也是如此。罪魁祸首是明智且有用的重构，https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a28d893eb3270cf62c10dd8777af0d8452cdc072。但它与加密代码发生了意想不到的远程交互。修复程序只有一行：https://lore.kernel.org/all/ajKwRtP8izwRsMmv@quasitopos/ 不，没有正式的证明，我不能说我的补丁是否正确并且不受其自身的远程交互的影响......至少，我们现在有一个自动化测试来检测未来的回归（https://github.com/NixOS/nixpkgs/pull/532499）和一个发出警告而不是发出警告的补丁默默地失败（https://gitla",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

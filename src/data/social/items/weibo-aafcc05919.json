@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aafcc05919",
+  "slug": "weibo-c罗正中要害",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "C罗正中要害",
+  "summary": "微博热榜第 12 位：C罗正中要害，当前热度为 53万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%AD%A3%E4%B8%AD%E8%A6%81%E5%AE%B3%23",
+  "hotValue": "53万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

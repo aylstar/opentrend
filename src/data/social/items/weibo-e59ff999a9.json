@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e59ff999a9",
+  "slug": "weibo-鸿蒙因不兼容多cpu架构落选",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "鸿蒙因不兼容多CPU架构落选",
+  "summary": "微博热榜第 7 位：鸿蒙因不兼容多CPU架构落选，当前热度为 56万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E5%9B%A0%E4%B8%8D%E5%85%BC%E5%AE%B9%E5%A4%9ACPU%E6%9E%B6%E6%9E%84%E8%90%BD%E9%80%89%23",
+  "hotValue": "56万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

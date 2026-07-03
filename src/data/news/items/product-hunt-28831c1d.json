@@ -7,18 +7,18 @@
   "publishedAt": "2026-06-11T19:17:52.000Z",
   "id": "product-hunt-28831c1d",
   "slug": "product-hunt-28831c1d",
-  "content": "Domain health analysis for high performance email campaigns Discussion | Link",
-  "fetchedAt": "2026-07-02T01:30:07.920Z",
+  "content": "Folderly is a one-stop-shop solution based on AI that covers all aspects of email deliverability: monitoring, testing, and preventing spam issues. Avoid blacklists, bypass spam filters, and see your messages delivered to your email recipients’ inboxes. Free email spam words checker, SPF, and DMARC record generators. Reach inboxes with every email sent.",
+  "fetchedAt": "2026-07-03T01:08:24.553Z",
   "score": 77,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 5,
+  "contentStatus": "article-extracted",
   "chineseTitle": "折叠镜头",
   "chineseSummary": "高性能电子邮件活动的域健康分析 讨论 |关联",
-  "chineseContent": "高性能电子邮件活动的域健康分析 讨论 |关联",
+  "chineseContent": "Foldly 是一种基于 AI 的一站式解决方案，涵盖电子邮件送达率的各个方面：监控、测试和防止垃圾邮件问题。避免列入黑名单，绕过垃圾邮件过滤器，并查看发送到电子邮件收件人收件箱的邮件。免费电子邮件垃圾邮件单词检查器、SPF 和 DMARC 记录生成器。每发送一封电子邮件都到达收件箱。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e53a18b97",
+  "slug": "weibo-微博访客记录",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "微博访客记录",
+  "summary": "微博热榜第 34 位：微博访客记录，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%AE%BF%E5%AE%A2%E8%AE%B0%E5%BD%95%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

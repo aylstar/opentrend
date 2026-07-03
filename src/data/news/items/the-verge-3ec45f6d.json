@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+  "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla's Full-Self Driving (FSD) […]",
+  "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+  "publishedAt": "2026-07-02T22:09:33.000Z",
+  "id": "the-verge-3ec45f6d",
+  "slug": "the-verge-3ec45f6d",
+  "content": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla’s Full-Self Driving (FSD) system at the time of the crash, according to an arrest affidavit. The court document includes the officer saying that data extraction from Butler’s phone found several FSD-related Google searches from May 2026: “Tesla fsd not aggressive enough 2026 model,” “tesla fsdnot [sic] aggressive enough 2026,” “tesla fsdnot [sic] aggressive enough,” “FSD is not aggressive enough for city driving,” “tesla fsdnot [sic] aggressive enough,” and “tesla fsd too timid.” On June 19th, 76-year-old Martha Avila was killed after Butler’s vehicle plowed through her home in a residential neighborhood in Katy, Texas. Tesla AI head Ashok Elluswamy responded shortly after in a tweet, saying the driver “manually overrode self-driving by pressing the accelerator all the way to 100%.”&nbsp; Avila’s family has filed a wrongful death lawsuit against Tesla and Butler, while both the National Highway Traffic Safety Administration and the National Transportation Safety Board have opened investigations into the crash.&nbsp; The affidavit says Butler told paramedics that “the car was on ‘autopilot,’” adding that “he remembers changing the music… (and) looked at the navigation screen” before the fatal collision while making deliveries for DoorDash. He also told hospital providers that he “remembers putting the car in self driving mode” and that he “passed out,” according to the affidavit. An evaluation from the hospital didn’t find alcohol or drugs in Butler’s system, the affidavit says After reviewing video from Butler’s Model 3, along with data from the vehicle’s “black box,” officials said they found that the “accelerator pedal was pressed, overriding FSD’s speed control:” > On the video, I saw BUTLER’s Tesla continue to increase in speed, and saw the amount of pressure being applied to the accelerator pedal also increase in speed. In about six (6) seconds, the accelerator pedal was pressed all the way down to 100%, “pedal to the metal,” and the vehicle reached a speed of 73 miles per hour, more than double the speed limit on that residential street. The Tesla continued straight towards the middle of the cul-de-sac, struck the curb of the complainant’s driveway, and went airborne towards the front of the home… I noted that the brake pedal was never pressed in the final minute before the crash.”",
+  "fetchedAt": "2026-07-03T01:08:24.554Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "特斯拉司机因德克萨斯州车祸导致一名妇女在家中死亡，面临过失杀人罪指控",
+  "chineseSummary": "据《华尔街日报》和当地新闻媒体 KHOU 11 早些时候报道，上个月驾驶特斯拉在德克萨斯州家中撞死一名妇女的男子目前面临过失杀人指控。44 岁的迈克尔·巴特勒 (Michael Butler) 于周三被捕，他声称自己使用特斯拉的全自动驾驶 (FSD) 驾驶他的 Model 3 […]",
+  "chineseContent": "据《华尔街日报》和当地新闻媒体 KHOU 11 早些时候报道，上个月驾驶特斯拉在德克萨斯州家中撞死一名妇女的男子目前面临过失杀人指控。根据一份逮捕宣誓书，44 岁的迈克尔·巴特勒 (Michael Butler) 于周三被捕，他声称在事故发生时他正在使用特斯拉的全自动驾驶 (FSD) 系统驾驶他的 Model 3。法庭文件中，该官员表示，从巴特勒手机中提取的数据发现了 2026 年 5 月以来与 FSD 相关的几项 Google 搜索：“特斯拉 fsd 2026 年车型不够激进”、“2026 年特斯拉 fsd 不够激进”、“特斯拉 fsd 不够激进”、“对于城市驾驶来说，FSD 不够激进”、“特斯拉 fsd 不够激进”和“特斯拉fsd太胆小了。” 6 月 19 日，76 岁的玛莎·阿维拉 (Martha Avila) 在德克萨斯州凯蒂的一个住宅区被巴特勒的车辆冲进家中身亡。特斯拉人工智能负责人 Ashok Elluswamy 不久后在推特上做出回应，称驾驶员“通过将油门踩到 100% 来手动超越自动驾驶”。  阿维拉的家人已对特斯拉和巴特勒提起过失死亡诉讼，而美国国家公路交通安全管理局和国家运输安全委员会都已对这起事故展开调查。  证词称，巴特勒告诉医护人员，“汽车处于‘自动驾驶’状态”，并补充说，“他记得在致命碰撞发生之前，在为 DoorDash 送货时改变了音乐……（并）看了导航屏幕”。证词称，他还告诉医院提供者，他“记得将汽车置于自动驾驶模式”，并且“昏倒了”。宣誓书称，医院的评估并未在巴特勒的系统中发现酒精或毒品",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

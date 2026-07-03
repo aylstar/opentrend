@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ff3ece0a75",
+  "slug": "weibo-c罗点球破门",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "C罗点球破门",
+  "summary": "微博热榜第 6 位：C罗点球破门，当前热度为 64万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23",
+  "hotValue": "64万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

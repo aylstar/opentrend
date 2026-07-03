@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b49ac4fc0f",
+  "slug": "weibo-原神",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "原神",
+  "summary": "微博热榜第 22 位：原神，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

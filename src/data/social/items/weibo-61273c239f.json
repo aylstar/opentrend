@@ -1,0 +1,21 @@
+{
+  "id": "weibo-61273c239f",
+  "slug": "weibo-金价暴力拉涨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "金价暴力拉涨",
+  "summary": "微博热榜第 15 位：金价暴力拉涨，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E6%8B%89%E6%B6%A8%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-07-03T01:01:33.920Z",
+  "fetchedAt": "2026-07-03T01:09:10.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

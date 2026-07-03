@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "OpenAI proposes handing Trump administration 5% stake",
+  "summary": "Sam Altman’s start-up in early talks for a public ownership deal as political pressure rises",
+  "url": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
+  "publishedAt": "2026-07-02T04:00:23.000Z",
+  "id": "financial-times-da9dc1d",
+  "slug": "financial-times-da9dc1d",
+  "content": "Sam Altman’s start-up in early talks for a public ownership deal as political pressure rises",
+  "fetchedAt": "2026-07-03T01:08:24.561Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI"
+  ],
+  "rank": 29,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "OpenAI 提议向特朗普政府授予 5% 的股份",
+  "chineseSummary": "随着政治压力的增加，萨姆·奥尔特曼的初创公司正在就公有制协议进行早期谈判",
+  "chineseContent": "随着政治压力的增加，萨姆·奥尔特曼的初创公司正在就公有制协议进行早期谈判",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
