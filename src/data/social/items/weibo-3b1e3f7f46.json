@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3b1e3f7f46",
+  "slug": "weibo-歌手排名",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "歌手排名",
+  "summary": "微博热榜第 18 位：歌手排名，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-04T01:05:54.745Z",
+  "fetchedAt": "2026-07-04T01:06:37.651Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

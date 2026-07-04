@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e08f787e79",
+  "slug": "weibo-加纳巫师发力了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "加纳巫师发力了",
+  "summary": "微博热榜第 33 位：加纳巫师发力了，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E5%B7%AB%E5%B8%88%E5%8F%91%E5%8A%9B%E4%BA%86%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-07-04T01:05:54.745Z",
+  "fetchedAt": "2026-07-04T01:06:37.651Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

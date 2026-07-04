@@ -1,0 +1,21 @@
+{
+  "id": "weibo-13454906c2",
+  "slug": "weibo-阿根廷vs佛得角",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "阿根廷vs佛得角",
+  "summary": "微博热榜第 1 位：阿根廷vs佛得角，当前热度为 3,000万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E4%BD%9B%E5%BE%97%E8%A7%92%23",
+  "hotValue": "3,000万热度",
+  "author": "",
+  "publishedAt": "2026-07-04T01:05:54.745Z",
+  "fetchedAt": "2026-07-04T01:06:37.651Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

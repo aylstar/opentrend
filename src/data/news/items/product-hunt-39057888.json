@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Osloq",
+  "summary": "An AI agent that reproduces GitHub issues for you Discussion | Link",
+  "url": "https://www.producthunt.com/products/osloq",
+  "publishedAt": "2026-07-02T22:37:18.000Z",
+  "id": "product-hunt-39057888",
+  "slug": "product-hunt-39057888",
+  "content": "Most AI dev tools just read your code and guess. Osloq actually runs it. Connect your GitHub, pick an issue, and an AI agent spins up a real sandbox, clones your repo, runs it, and tries to reproduce the bug the way a developer would. You get a report backed by real evidence. What happened, the steps it took, and whether the bug is real, not a hallucinated guess. No local setup, no \"works on my machine.\" It handles the tedious reproduction step so you jump straight to fixing.",
+  "fetchedAt": "2026-07-04T01:05:12.209Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "放松",
+  "chineseSummary": "为您重现 GitHub 问题的 AI 代理关联",
+  "chineseContent": "大多数人工智能开发工具只是读取你的代码并猜测。奥斯陆实际上运行着它。连接你的 GitHub，选择一个问题，人工智能代理会启动一个真正的沙箱，克隆你的存储库，运行它，并尝试以开发人员的方式重现错误。您会得到一份有真实证据支持的报告。发生了什么，采取了哪些步骤，以及该错误是否真实，而不是幻觉的猜测。没有本地设置，没有“在我的机器上运行”。它处理繁琐的复制步骤，因此您可以直接跳到修复。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

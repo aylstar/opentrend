@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fd9a58a013",
+  "slug": "weibo-佛得角-手球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "佛得角 手球",
+  "summary": "微博热榜第 13 位：佛得角 手球，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92+%E6%89%8B%E7%90%83%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-07-04T01:05:54.745Z",
+  "fetchedAt": "2026-07-04T01:06:37.651Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

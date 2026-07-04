@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a7e6b1d0d8",
+  "slug": "weibo-佛得角淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "佛得角淘汰",
+  "summary": "微博热榜第 6 位：佛得角淘汰，当前热度为 289万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "289万热度",
+  "author": "",
+  "publishedAt": "2026-07-04T01:05:54.745Z",
+  "fetchedAt": "2026-07-04T01:06:37.651Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

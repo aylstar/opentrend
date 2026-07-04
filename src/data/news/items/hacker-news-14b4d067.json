@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Dispersion loss counteracts embedding condensation in small language models",
+  "summary": "20 points · 4 comments",
+  "content": "Dispersion loss counteracts embedding condensation and improves generalization in small language models (ICML 2026).",
+  "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+  "publishedAt": "2026-07-03T22:35:47.000Z",
+  "points": 20,
+  "id": "hacker-news-14b4d067",
+  "slug": "hacker-news-14b4d067",
+  "fetchedAt": "2026-07-04T01:05:12.208Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "色散损失抵消了小语言模型中的嵌入凝聚",
+  "chineseSummary": "20 分 · 4 条评论",
+  "chineseContent": "色散损失抵消了嵌入压缩并提高了小语言模型的泛化能力（ICML 2026）。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

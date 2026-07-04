@@ -1,0 +1,21 @@
+{
+  "id": "weibo-487b028e1b",
+  "slug": "weibo-佛得角世界波",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "佛得角世界波",
+  "summary": "微博热榜第 5 位：佛得角世界波，当前热度为 295万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E4%B8%96%E7%95%8C%E6%B3%A2%23",
+  "hotValue": "295万热度",
+  "author": "",
+  "publishedAt": "2026-07-04T01:05:54.745Z",
+  "fetchedAt": "2026-07-04T01:06:37.651Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
