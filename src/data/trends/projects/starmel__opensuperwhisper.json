@@ -1,0 +1,62 @@
+{
+  "slug": "starmel__opensuperwhisper",
+  "owner": "Starmel",
+  "repo": "OpenSuperWhisper",
+  "name": "OpenSuperWhisper",
+  "fullName": "Starmel/OpenSuperWhisper",
+  "description": "macOS dictation app",
+  "language": "Swift",
+  "githubUrl": "https://github.com/Starmel/OpenSuperWhisper",
+  "docsUrl": "",
+  "stars": 1713,
+  "forks": 146,
+  "openIssues": 73,
+  "license": "MIT",
+  "pushedAt": "2026-07-02T21:14:32Z",
+  "updatedAt": "2026-07-05T00:39:54Z",
+  "createdAt": "2025-02-06T23:16:13Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# OpenSuperWhisper\n\nOpenSuperWhisper is a macOS application that provides real-time audio transcription using the Whisper model. It offers a seamless way to record and transcribe audio with customizable settings and keyboard shortcuts.\n\n<p align=\"center\">\n<img src=\"docs/image.png\" width=\"400\" /> <img src=\"docs/image_indicator.png\" width=\"400\" />\n</p>\n\n## Features\n\n- 🎙️ Real-time audio recording and transcription\n- 🧠 Two transcription engines: [Whisper](https://github.com/ggerganov/whisper.cpp) and [Parakeet](https://github.com/AntinomyCollective/FluidAudio) — download models directly from the app\n- ⌨️ Global keyboard shortcuts — key combination or single modifier key (e.g. Left ⌘, Right ⌥, Fn)\n- ✊ Hold-to-record mode — hold the shortcut to record, release to stop\n- 📁 Drag & drop audio files for transcription with queue processing\n- 🎤 Microphone selection — switch between built-in, external, Bluetooth and iPhone (Apple Continuity) mics from the menu bar\n- 🌍 Support for multiple languages with auto-detection\n- 🇯🇵🇨🇳🇰🇷 Asian language autocorrect ([autocorrect](https://github.com/huacnlee/autocorrect))\n\n## Installation\n\n```shell\nbrew update # Optional\nbrew install opensuperwhisper\n```\n\nOr from [GitHub releases page](https://github.com/Starmel/OpenSuperWhisper/releases).\n\n## Requirements\n\n- macOS (Apple Silicon/ARM64)\n\n## Support\n\nIf you encounter any issues or have questions, please:\n1. Check the existing issues in the repository\n2. Create a new issue with detailed information about your problem\n3. Include system information and logs when reporting bugs\n\n## Building locally\n\nTo build locally, you'll need:\n\n    git clone git@github.com:Starmel/OpenSuperWhisper.git\n    cd OpenSuperWhisper\n    git submodule update --init --recursive\n    brew install cmake libomp rust ruby\n    gem install xcpretty\n    ./run.sh build\n\nIn case of problems, consult `.github/workflows/build.yml` which is our CI workflow\nwhere the app gets built automatically on GitHub's CI.\n\n## Contributing\n\nContributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.\n\n### Contribution TODO list\n\n- [ ] Streaming transcription\n- [ ] Custom dictionary / keyword boosting ([#19](https://github.com/Starmel/OpenSuperWhisper/issues/19))\n- [ ] Intel macOS compatibility ([#15](https://github.com/Starmel/OpenSuperWhisper/issues/15))\n- [ ] Agent mode ([#14](https://github.com/Starmel/OpenSuperWhisper/issues/14))\n- [x] Background app ([#8](https://github.com/Starmel/OpenSuperWhisper/issues/8))\n- [x] Support long-press single key audio recording ([#18](https://github.com/Starmel/OpenSuperWhisper/issues/18))\n\n## License\n\nOpenSuperWhisper is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.\n\n## Whisper Models\n\nYou can download Whisper model files (`.bin`) from the [Whisper.cpp Hugging Face repository](https://huggingface.co/ggerganov/whisper.cpp/tree/main). Place the downloaded `.bin` files in the app's models direc",
+  "generatedAt": "2026-07-05T01:12:28.304Z",
+  "analysis": {
+    "oneLine": "OpenSuperWhisper 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "OpenSuperWhisper 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，OpenSuperWhisper 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 1,713，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "OpenSuperWhisper 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Swift 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "brew update # Optional\nbrew install opensuperwhisper\ngit clone git@github.com:Starmel/OpenSuperWhisper.git\nbrew install cmake libomp rust ruby",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Swift 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-05T01:12:28.305Z"
+}

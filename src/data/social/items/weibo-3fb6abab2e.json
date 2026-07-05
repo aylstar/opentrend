@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3fb6abab2e",
+  "slug": "weibo-姆巴佩点球命中",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "姆巴佩点球命中",
+  "summary": "微博热榜第 36 位：姆巴佩点球命中，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%82%B9%E7%90%83%E5%91%BD%E4%B8%AD%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-07-05T01:10:36.327Z",
+  "fetchedAt": "2026-07-05T01:14:49.447Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

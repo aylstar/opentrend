@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Iran mourners demand revenge at ayatollah’s funeral",
+  "summary": "The week-long remembrance is intended to demonstrate public support for the regime",
+  "url": "https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc",
+  "publishedAt": "2026-07-04T10:04:37.000Z",
+  "id": "financial-times-5d7ec5ab",
+  "slug": "financial-times-5d7ec5ab",
+  "content": "The week-long remembrance is intended to demonstrate public support for the regime",
+  "fetchedAt": "2026-07-05T01:12:40.371Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "金融"
+  ],
+  "rank": 28,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "伊朗哀悼者要求在阿亚图拉葬礼上报复",
+  "chineseSummary": "为期一周的纪念活动旨在表明公众对该政权的支持",
+  "chineseContent": "为期一周的纪念活动旨在表明公众对该政权的支持",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

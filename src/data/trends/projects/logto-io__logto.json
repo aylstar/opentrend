@@ -1,0 +1,72 @@
+{
+  "slug": "logto-io__logto",
+  "owner": "logto-io",
+  "repo": "logto",
+  "name": "logto",
+  "fullName": "logto-io/logto",
+  "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/logto-io/logto",
+  "docsUrl": "https://logto.io",
+  "stars": 13729,
+  "forks": 942,
+  "openIssues": 187,
+  "license": "MPL-2.0",
+  "pushedAt": "2026-07-03T21:14:13Z",
+  "updatedAt": "2026-07-05T00:58:09Z",
+  "createdAt": "2021-06-19T03:01:50Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "企业工具",
+    "安全隐私"
+  ],
+  "recommendation": 2.7,
+  "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://logto.io/?utm_source=github&utm_medium=readme\" target=\"_blank\" align=\"center\" alt=\"Go to Logto website\">\n    <picture>\n      <source width=\"200\" media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/logto-io/.github/raw/master/profile/logto-logo-dark.svg\">\n      <source width=\"200\" media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/logto-io/.github/raw/master/profile/logto-logo-light.svg\">\n      <img width=\"200\" src=\"https://github.com/logto-io/logto/raw/master/logo.png\" alt=\"Logto logo\">\n    </picture>\n  </a>\n</p>\n\n[![discord](https://img.shields.io/discord/965845662535147551?color=5865f2&label=discord)](https://discord.gg/vRvwuwgpVX)\n[![checks](https://img.shields.io/github/checks-status/logto-io/logto/master)](https://github.com/logto-io/logto/actions?query=branch%3Amaster)\n[![release](https://img.shields.io/github/v/release/logto-io/logto?color=3a3c3f)](https://github.com/logto-io/logto/releases)\n[![core coverage](https://img.shields.io/codecov/c/github/logto-io/logto?label=core%20coverage)](https://app.codecov.io/gh/logto-io/logto)\n[![cloud](https://img.shields.io/badge/cloud-available-7958ff)](https://cloud.logto.io/?sign_up=true&utm_source=github&utm_medium=repo_logto)\n[![gitpod](https://img.shields.io/badge/gitpod-available-f09439)](https://gitpod.io/#https://github.com/logto-io/demo)\n[![render](https://img.shields.io/badge/render-deploy-5364e9)](https://render.com/deploy?repo=https://github.com/logto-io/logto)\n\n# Logto\n\n**Logto is the modern, open-source auth infrastructure for SaaS and AI apps.**\n\nIt takes the pain out of OIDC and OAuth 2.1 and makes it easy to build secure, production-ready auth with multi-tenancy, enterprise SSO, and RBAC.\n\n<p align=\"center\">\n  <a href=\"https://logto.io/\">website</a> •\n  <a href=\"https://cloud.logto.io/\">cloud</a> •\n  <a href=\"https://docs.logto.io\">docs</a> •\n  <a href=\"https://openapi.logto.io/\">api</a> •\n  <a href=\"https://blog.logto.io/\">blog</a> •\n  <a href=\"https://auth-wiki.logto.io/\">auth wiki</a> •\n  <a href=\"https://logto.io/subscribe\">newsletter</a>\n</p>\n\n![Logto features](./assets/logto-features.png)\n\n## Why Logto?\n\nBuilt for teams scaling SaaS, AI, and agent-based platforms without the usual auth headaches.\n\nWith Logto, you get:\n\n- **Multi-tenancy, enterprise SSO, and RBAC**: ready to use, no workarounds.\n- **Pre-built sign-in flows**, customizable UIs, and SDKs for 30+ frameworks.\n- **Full support for OIDC, OAuth 2.1, and SAML** without the protocol pain.\n- **Works out-of-the-box for Model Context Protocol and agent-based AI architectures**.\n\n[🗺️ See all features →](https://docs.logto.io/?ref=readme)\n\n## Get started\n\nPick your path:\n\n- [**Logto Cloud**](https://cloud.logto.io/?sign_up=true&ref=readme): The fastest way to try Logto. Fully managed, zero setup.\n- [**Launch Logto in GitPod**](https://gitpod.io/#https://github.com/logto-io/demo): Start Logto OSS in seconds.\n\n  Wait for the message `App is running at https://3002-.",
+  "generatedAt": "2026-07-05T01:12:27.941Z",
+  "analysis": {
+    "oneLine": "logto 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "logto 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，logto 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 13,729，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "logto 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "docker compose -p logto -f - up\nnpm init @logto",
+    "deployment": "具备 Docker Compose 线索，适合进一步评估 NAS 或服务器私有化部署。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2.7,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "企业工具",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-05T01:12:27.942Z"
+}

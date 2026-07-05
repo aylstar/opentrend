@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e5a67b44d1",
+  "slug": "weibo-杭州暴雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "杭州暴雨",
+  "summary": "微博热榜第 26 位：杭州暴雨，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9A%B4%E9%9B%A8%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-07-05T01:10:36.327Z",
+  "fetchedAt": "2026-07-05T01:14:49.447Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

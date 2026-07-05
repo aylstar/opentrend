@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c43a42739c",
+  "slug": "weibo-王力宏缝了39针",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "王力宏缝了39针",
+  "summary": "微博热榜第 4 位：王力宏缝了39针，当前热度为 120万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%BC%9D%E4%BA%8639%E9%92%88%23",
+  "hotValue": "120万热度",
+  "author": "",
+  "publishedAt": "2026-07-05T01:10:36.327Z",
+  "fetchedAt": "2026-07-05T01:14:49.447Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

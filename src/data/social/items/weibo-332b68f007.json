@@ -1,0 +1,21 @@
+{
+  "id": "weibo-332b68f007",
+  "slug": "weibo-世界杯8强已确定2席",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "世界杯8强已确定2席",
+  "summary": "微博热榜第 10 位：世界杯8强已确定2席，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%B7%B2%E7%A1%AE%E5%AE%9A2%E5%B8%AD%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-07-05T01:10:36.327Z",
+  "fetchedAt": "2026-07-05T01:14:49.447Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

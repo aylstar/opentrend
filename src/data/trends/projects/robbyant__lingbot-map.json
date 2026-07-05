@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/Robbyant/lingbot-map",
   "docsUrl": "https://docs.flashinfer.ai/installation.html",
-  "stars": 9578,
-  "forks": 930,
+  "stars": 9739,
+  "forks": 964,
   "openIssues": 60,
   "license": "Apache-2.0",
   "pushedAt": "2026-07-03T07:17:47Z",
-  "updatedAt": "2026-07-04T01:00:33Z",
+  "updatedAt": "2026-07-05T01:09:54Z",
   "createdAt": "2026-04-15T17:59:48Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n  <img src=\"assets/teaser.webp\" width=\"100%\">\n\n<h1>LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction</h1>\n\nRobbyant Team\n\n</div>\n\n<div align=\"center\">\n\n[![Paper](https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv)](https://arxiv.org/abs/2604.14141)\n[![PDF](https://img.shields.io/static/v1?label=Paper&message=PDF&color=red&logo=adobeacrobatreader)](lingbot-map_paper.pdf)\n[![Project](https://img.shields.io/badge/Project-Website-blue)](https://technology.robbyant.com/lingbot-map)\n[![HuggingFace](https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Model&message=HuggingFace&color=orange)](https://huggingface.co/robbyant/lingbot-map)\n[![ModelScope](https://img.shields.io/static/v1?label=%F0%9F%A4%96%20Model&message=ModelScope&color=purple)](https://www.modelscope.cn/models/Robbyant/lingbot-map)\n[![License](https://img.shields.io/badge/License-Apache--2.0-green)](LICENSE.txt)\n\n</div>\n\nhttps://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab\n\n-----\n\n### 🗺️ Meet LingBot-Map! We've built a feed-forward 3D foundation model for streaming 3D reconstruction! 🏗️🌍\n\nLingBot-Map has focused on:\n\n- **Geometric Context Transformer**: Architecturally unifies coordinate grounding, dense geometric cues, and long-range drift correction within a single streaming framework through anchor context, pose-reference window, and trajectory memory.\n- **High-Efficiency Streaming Inference**: A feed-forward architecture with paged KV cache attention, enabling stable inference at ~20 FPS on 518×378 resolution over long sequences exceeding 10,000 frames.\n- **State-of-the-Art Reconstruction**: Superior performance on diverse benchmarks compared to both existing streaming and iterative optimization-based approaches.\n\n---\n\n## 📑 Table of Contents\n\n<details>\n<summary>Click to expand</summary>\n\n- [📰 News](#-news)\n- [📋 TODO](#-todo)\n- [⚙️ Installation](#️-installation)\n- [📦 Model Download](#-model-download)\n- [🚀 Quick Start](#-quick-start)\n- [🎬 Interactive Demo (`demo.py`)](#-interactive-demo-demopy)\n  - [Try the Example Scenes](#try-the-example-scenes)\n  - [Streaming with Keyframe Interval](#streaming-with-keyframe-interval)\n  - [Windowed Inference (for long sequences, >3000 frames)](#windowed-inference-for-long-sequences-3000-frames)\n  - [Sky Masking](#sky-masking)\n  - [Visualization Options](#visualization-options)\n  - [Performance & Memory](#performance--memory)\n- [🎥 Offline Rendering Pipeline (`demo_render/batch_demo.py`)](#-offline-rendering-pipeline-demo_renderbatch_demopy)\n- [📜 License](#-license)\n- [📖 Citation](#-citation)\n- [✨ Acknowledgments](#-acknowledgments)\n\n</details>\n\n---\n\n## 📰 News\n\n- **2026-06-28** — Fixed an SDPA KV cache bug. **The SDPA backend now performs better on long sequences**. We still recommend the FlashInfer backend for the best performance.\n- **2026-05-25** — 📊 **Evaluation benchmark released**. We released the evaluation scripts for KITTI and Ox",
-  "generatedAt": "2026-07-04T01:04:54.755Z",
+  "generatedAt": "2026-07-05T01:12:26.447Z",
   "analysis": {
     "oneLine": "lingbot-map 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "lingbot-map 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，lingbot-map 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 9,578，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，lingbot-map 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 9,739，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
