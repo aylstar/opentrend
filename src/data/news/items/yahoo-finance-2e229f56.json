@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week",
+  "summary": "The major gauges advanced with gains concentrated in tech stocks leading to K-shaped fears",
+  "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html?.tsrc=rss",
+  "publishedAt": "2026-07-05T22:56:45.000Z",
+  "id": "yahoo-finance-2e229f56",
+  "slug": "yahoo-finance-2e229f56",
+  "content": "US stock futures rose following a record-setting week for the Dow, with tech and hardware stocks driving the gains.Futures linked to the S&P 500 (ES=F) rose 0.5% as contracts tied to the Nasdaq 100 (NQ=F) jumped 1.4%. Dow Jones Industrial Average futures (YM=F) inched up 0.1%.Last week saw strong gains across the three major gauges with the Dow (^DJI) climbing just shy of 2% to post a close only slightly under 53,000. The S&P (^GSPC) and Nasdaq Composite (^IXIC) both also made gains around the 2% mark. A blistering first half of the year has set expectations high for the stock market in Q3 and beyond. Gains in the tech sector have laid the groundwork for momentum to continue despite a faltering of heavyweight semiconductor stock names at the end of June. Micron Technology (MU) dropped 19% over the course of last week. Despite the rocky patch, analysts continue to see upside ahead, speaking to Yahoo Finance, Baird investment strategist Ross Mayfield said: \"There's a lot working, it's a bull market driven by earnings and liquidity, and those are the kind of things that can keep this going into the 2nd half of the year, and probably, in my opinion, into 2027 as well.\" AI continues to drive discussions around future market moves, with JPMorgan analysts recently upping their year-end forecast for the S&P 500 to 7,800 by year-end. However, AI stock concentration has now reached the same level that resulted in the bursting of previous bubbles, with the \"AI Big 10\" making up 41% of the S&P 500, similar to the share of tech and telecom during the dot-com bubble.Investors have a raft of economic data on the way this week following a disappointing June jobs report. Monday see's a slew of index readings from S&P Global and the Institute of Supply Management to offer insight into the US service economy. The release of the minutes from the Fed's first meeting with Kevin Warsh at the head is due Wednesday.",
+  "fetchedAt": "2026-07-06T01:14:00.467Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：标准普尔 500 指数、纳斯达克指数、道琼斯指数期货在创纪录的一周后上涨",
+  "chineseSummary": "主要指标上涨，涨幅集中于科技股，引发 K 形担忧",
+  "chineseContent": "道琼斯指数创下创纪录的一周后，美国股指期货上涨，其中科技股和硬件股推动上涨。与标准普尔 500 指数 (ES=F) 相关的期货上涨 0.5%，与纳斯达克 100 指数 (NQ=F) 相关的合约上涨 1.4%。道琼斯工业平均指数期货 (YM=F) 小幅上涨 0.1%。上周三大主要指数均强劲上涨，其中道琼斯工业平均指数 (^DJI) 上涨近 2%，收盘仅略低于 53,000 点。标准普尔 (^GSPC) 和纳斯达克综合指数 (^IXIC) 也均上涨 2% 左右。上半年的强劲表现给第三季度及以后的股市带来了很高的预期。尽管重量级半导体股在 6 月底表现不佳，但科技股的上涨为继续上涨势头奠定了基础。美光科技 (MU) 上周下跌 19%。尽管面临困难，但分析师们仍然看到了未来的上行空间，贝尔德投资策略师罗斯·梅菲尔德在接受雅虎财经采访时表示：“还有很多工作要做，这是一个由盈利和流动性驱动的牛市，这些因素可以让这种情况持续到今年下半年，在我看来，也可能持续到 2027 年。”人工智能继续推动围绕未来市场走势的讨论，摩根大通分析师最近将标准普尔 500 指数的年终预测上调至年底 7,800 点。然而，人工智能股票的集中度现在已经达到了导致之前泡沫破灭的水平，“人工智能十大”公司占标准普尔 500 指数的 41%，类似于互联网泡沫期间科技和电信的份额。继令人失望的 6 月份就业报告之后，投资者本周将获得大量经济数据。周一，标准普尔全球公司和供应管理协会发布了大量指数数据，以提供对这一趋势的深入了解。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

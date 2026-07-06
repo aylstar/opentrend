@@ -1,0 +1,24 @@
+{
+  "source": "MarketWatch",
+  "category": "finance",
+  "originalTitle": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+  "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
+  "url": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+  "publishedAt": "2026-07-06T00:56:00.000Z",
+  "id": "marketwatch-28d653b4",
+  "slug": "marketwatch-28d653b4",
+  "content": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.\n\nDow Jones Industrial Average futures YM00 were up about 75 points, or 0.1%, late Sunday. S&P 500 futures ES00 were up 0.5% while Nasdaq-100 futures NQ00 were 1.3% higher. Bitcoin BTCUSD was trading above the $63,000 level, up about 5% over the past week.",
+  "fetchedAt": "2026-07-06T01:14:00.471Z",
+  "score": 90,
+  "sourceWeight": 84,
+  "tags": [
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "华尔街希望延续假期周末后的涨势，美国股指期货上涨",
+  "chineseSummary": "美国股指期货周日上涨，华尔街希望延续上周的涨幅。",
+  "chineseContent": "美国股指期货周日上涨，华尔街希望延续上周的涨幅。\n\n周日晚间，道琼斯工业平均指数期货 YM00 上涨约 75 点，即 0.1%。标准普尔 500 指数期货 ES00 上涨 0.5%，纳斯达克 100 指数期货 NQ00 上涨 1.3%。比特币 BTCUSD 交易价格高于 63,000 美元水平，过去一周上涨约 5%。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

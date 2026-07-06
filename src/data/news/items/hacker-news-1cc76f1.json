@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Osint tool that finds exposed files on domains",
+  "summary": "22 points · 8 comments",
+  "content": "hey guys, wanted to show one of my side projects i just made public. the idea is basically another osint tool for pentesters and bug bounty hunters. it watches certificate transparency logs and checks newly-seen domains for exposed stuff like .env files, open .git dirs, config files, db dumps and so on, and puts whatever it finds into a searchable db. you just search a domain (or part of one) and see what's exposed. it's read-only and free. one thing i've been thinking about adding is a way to register for certain keywords and get notified when something new shows up for that search. would love to hear if you have other ideas for useful features, and also ideas for how to reduce abuse of the data, since that's the part i'm least sure about. https://search.cerast-intelligence.com/",
+  "url": "https://search.cerast-intelligence.com/",
+  "publishedAt": "2026-07-05T20:24:37.000Z",
+  "points": 22,
+  "id": "hacker-news-1cc76f1",
+  "slug": "hacker-news-1cc76f1",
+  "fetchedAt": "2026-07-06T01:14:00.465Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "产品"
+  ],
+  "rank": 11,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "Show HN：Osint 工具，可查找域上暴露的文件",
+  "chineseSummary": "22 分 · 8 条评论",
+  "chineseContent": "嘿伙计们，想展示我刚刚公开的一个副业项目。这个想法基本上是渗透测试人员和漏洞赏金猎人的另一个 osint 工具。它监视证书透明度日志并检查新看到的域是否存在暴露的内容，例如 .env 文件、打开的 .git 目录、配置文件、数据库转储等，并将找到的所有内容放入可搜索的数据库中。您只需搜索一个域（或域的一部分）并查看公开的内容。它是只读的并且免费。我一直在考虑添加的一件事是注册某些关键字并在该搜索出现新内容时收到通知。我很想听听您是否对有用的功能有其他想法，以及如何减少数据滥用的想法，因为这是我最不确定的部分。 https://search.cerast-intelligence.com/",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

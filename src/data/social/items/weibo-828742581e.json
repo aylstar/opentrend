@@ -1,0 +1,21 @@
+{
+  "id": "weibo-828742581e",
+  "slug": "weibo-内马尔说尽力了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "内马尔说尽力了",
+  "summary": "微博热榜第 37 位：内马尔说尽力了，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E5%B0%BD%E5%8A%9B%E4%BA%86%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-07-06T01:11:30.398Z",
+  "fetchedAt": "2026-07-06T01:15:20.278Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

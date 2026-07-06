@@ -1,0 +1,21 @@
+{
+  "id": "weibo-58afe366f3",
+  "slug": "weibo-墨西哥vs英格兰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "墨西哥vs英格兰",
+  "summary": "微博热榜第 32 位：墨西哥vs英格兰，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E8%8B%B1%E6%A0%BC%E5%85%B0%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-07-06T01:11:30.398Z",
+  "fetchedAt": "2026-07-06T01:15:20.278Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
