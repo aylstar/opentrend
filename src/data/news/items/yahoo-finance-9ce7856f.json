@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock market today: Dow, S&P 500, Nasdaq futures rise with AI trade in focus",
+  "summary": "US stock futures edged up on the heels of a record-setting day on Wall Street.",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-with-ai-trade-in-focus-223015294.html?.tsrc=rss",
+  "publishedAt": "2026-07-06T22:30:15.000Z",
+  "id": "yahoo-finance-9ce7856f",
+  "slug": "yahoo-finance-9ce7856f",
+  "content": "US stock futures edged up on the heels of a record-setting day on Wall Street.Futures attached to the Dow Jones Industrial Average (YM=F), the benchmark S&P 500 (ES=F), and the tech-heavy Nasdaq 100 (NQ=F) rose roughly 0.1%.Stocks jumped during the day on Monday, with a rally in tech lifting the Dow (^DJI) to a new record high. The broad market advance pointed to renewed faith in the AI trade following June’s chip stock sell-off.On Tuesday, investors will be watching earnings from Samsung Electronics (005930.KS) for another pulse check on the chip trade. Penguin Solutions (PENG) will also report its results.",
+  "fetchedAt": "2026-07-07T01:13:45.343Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 28,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货上涨，AI 交易成为焦点",
+  "chineseSummary": "华尔街创纪录的一天后，美国股指期货小幅上涨。",
+  "chineseContent": "华尔街创纪录的一天后，美国股指期货小幅上涨。道琼斯工业平均指数 (YM=F)、基准标准普尔 500 指数 (ES=F) 和以科技股为主的纳斯达克 100 指数 (NQ=F) 的期货上涨约 0.1%。周一股市上涨，科技股上涨将道指 (^DJI) 推升至历史新高。继 6 月份芯片股抛售之后，市场的广泛上涨表明人们对人工智能行业的信心重燃。周二，投资者将关注三星电子 (005930.KS) 的财报，以了解芯片行业的另一次脉搏。企鹅解决方案（PENG）也将报告其结果。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

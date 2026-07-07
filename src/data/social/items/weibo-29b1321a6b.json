@@ -1,0 +1,21 @@
+{
+  "id": "weibo-29b1321a6b",
+  "slug": "weibo-苹果涨涨涨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "苹果涨涨涨",
+  "summary": "微博热榜第 18 位：苹果涨涨涨，当前热度为 57万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E6%B6%A8%E6%B6%A8%23",
+  "hotValue": "57万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T01:14:32.399Z",
+  "fetchedAt": "2026-07-07T01:14:38.329Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

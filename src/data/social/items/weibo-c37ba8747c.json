@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c37ba8747c",
+  "slug": "weibo-台风",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "台风",
+  "summary": "微博热榜第 36 位：台风，当前热度为 52万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23",
+  "hotValue": "52万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T01:14:32.399Z",
+  "fetchedAt": "2026-07-07T01:14:38.330Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

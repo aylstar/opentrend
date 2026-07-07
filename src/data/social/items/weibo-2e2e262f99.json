@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2e2e262f99",
+  "slug": "weibo-亚马尔醒醒",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "亚马尔醒醒",
+  "summary": "微博热榜第 50 位：亚马尔醒醒，当前热度为 48万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E9%86%92%E9%86%92%23",
+  "hotValue": "48万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T01:14:32.399Z",
+  "fetchedAt": "2026-07-07T01:14:38.330Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

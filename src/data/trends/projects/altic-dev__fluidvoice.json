@@ -1,0 +1,70 @@
+{
+  "slug": "altic-dev__fluidvoice",
+  "owner": "altic-dev",
+  "repo": "FluidVoice",
+  "name": "FluidVoice",
+  "fullName": "altic-dev/FluidVoice",
+  "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+  "language": "Swift",
+  "githubUrl": "https://github.com/altic-dev/FluidVoice",
+  "docsUrl": "https://altic.dev/fluid",
+  "stars": 6418,
+  "forks": 400,
+  "openIssues": 98,
+  "license": "GPL-3.0",
+  "pushedAt": "2026-07-06T22:46:39Z",
+  "updatedAt": "2026-07-07T01:10:09Z",
+  "createdAt": "2025-09-21T17:35:02Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# FluidVoice\n\n<p align=\"center\">\n  <a href=\"https://github.com/altic-dev/FluidVoice/stargazers\"><img src=\"https://img.shields.io/github/stars/altic-dev/FluidVoice?style=social\" alt=\"GitHub stars\"/></a>\n  <a href=\"https://github.com/sponsors/altic-dev\"><img src=\"https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white\" alt=\"Sponsor FluidVoice\"/></a>\n  <a href=\"https://x.com/ALTIC_DEV\"><img src=\"https://img.shields.io/badge/X-%40ALTIC__DEV-black?logo=x&logoColor=white\" alt=\"X @ALTIC_DEV\"/></a>\n  <br />\n  <a href=\"https://huggingface.co/nvidia/parakeet_realtime_eou_120m-v1\"><img src=\"https://img.shields.io/badge/Models-Nemotron%20Speech%203.5%20%7C%20Parakeet%20Flash%20%7C%20Parakeet%20v3%20%26%20v2%20%7C%20Cohere%20%7C%20Apple%20Speech%20%7C%20Whisper-blue\" alt=\"Supported Models\"/></a>\n  <br /><br />\n  <a href=\"https://trendshift.io/repositories/16601?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-16601\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/16601\" alt=\"altic-dev%2FFluidVoice | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\nOpen source voice-to-text dictation app for macOS with on-device AI enhancement.\n\n**Install with Homebrew:** `brew install --cask fluidvoice`\n\n**Manual download:** [latest release](https://github.com/altic-dev/FluidVoice/releases/latest)\n\n> [!NOTE]\n> FluidVoice is on macOS today. **iOS and Windows are on the way** — join the waitlist to get notified when we launch: **[altic.dev/fluid/waitlist](https://www.altic.dev/fluid/waitlist)**\n\n\n> [!IMPORTANT]\n> This project is free and open source under GPLv3. If FluidVoice is useful to you, please star the repository — it helps visibility and keeps development going.\n\n---\n\n## Support FluidVoice\n\nIf FluidVoice helps you, you can support continued development and future platform work for iOS and Windows on [GitHub Sponsors](https://github.com/sponsors/altic-dev).\n\n---\n\n## What's New in 1.6.0\n\n- **Insanely fast Parakeet** — rebuilt Parakeet implementation with pretty much zero delay between speaking and seeing words on screen\n- **Fluid Intelligence** — fully local AI model for on-device dictation enhancement. No cloud, no API keys, no data leaving your Mac\n- **Better Theming** — adaptive light/dark theme with a compact toolbar switcher\n- **Refreshed Onboarding** — language-first voice engine setup, real dictation tryout, and AI enhancement setup in one clean pass\n\n> [!WARNING]\n> Based on early feedback, Fluid Intelligence may cause you to unsubscribe from other dictation apps and save money. You've been warned.\n\n## Fluid Intelligence\n\nFluidVoice is fully open source under GPLv3. **Fluid Intelligence** is a separate, privately maintained local AI runtime that powers advanced on-device dictation enhancement — smart formatting, context-aware capitalization, and post-processing — all running locally on your Mac.\n\nThe app works great on its own with any supported speec",
+  "generatedAt": "2026-07-07T01:13:30.576Z",
+  "analysis": {
+    "oneLine": "FluidVoice 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
+    "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
+    "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
+    "detailParagraphs": [
+      "FluidVoice 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
+      "如果把它放进实际使用场景，FluidVoice 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 6,418，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "个人知识库与 AI 助手整合",
+      "小团队内部 AI 工作台",
+      "私有化 AI 工具原型验证",
+      "面向 NAS 用户的自部署 AI 应用评估"
+    ],
+    "interpretation": "FluidVoice 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Swift 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "brew install --cask fluidvoice\ngit clone https://github.com/altic-dev/FluidVoice.git",
+    "deployment": "应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Swift 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-07T01:13:30.577Z"
+}

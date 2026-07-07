@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Samsung boasts third straight quarter of record profit on AI demand",
+  "summary": "High memory chip prices fuel April to June earnings",
+  "url": "https://www.ft.com/content/db4f9501-046c-4683-b59c-03b5a5ebfafb",
+  "publishedAt": "2026-07-06T23:34:14.000Z",
+  "id": "financial-times-4a86a5fa",
+  "slug": "financial-times-4a86a5fa",
+  "content": "High memory chip prices fuel April to June earnings",
+  "fetchedAt": "2026-07-07T01:13:45.349Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "财经"
+  ],
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "三星因 AI 需求连续第三季度实现创纪录利润",
+  "chineseSummary": "高内存芯片价格推动 4 月至 6 月的盈利",
+  "chineseContent": "高内存芯片价格推动 4 月至 6 月的盈利",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

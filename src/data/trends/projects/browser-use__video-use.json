@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/browser-use/video-use",
   "docsUrl": "",
-  "stars": 15033,
-  "forks": 1777,
+  "stars": 15473,
+  "forks": 1808,
   "openIssues": 53,
   "license": "MIT",
   "pushedAt": "2026-07-01T00:33:52Z",
-  "updatedAt": "2026-07-06T01:10:39Z",
+  "updatedAt": "2026-07-07T01:13:17Z",
   "createdAt": "2026-04-12T01:34:42Z",
   "archived": false,
   "trendWindows": [
@@ -25,14 +25,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\">\n</p>\n\n# video-use\n\nIntroducing **video-use** — edit videos with Claude Code. 100% open source.\n\nDrop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content — talking heads, montages, tutorials, travel, interviews — without presets or menus.\n\nTry video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github).\n\n## What it does\n\n- **Cuts out filler words** (`umm`, `uh`, false starts) and dead space between takes\n- **Auto color grades** every segment (warm cinematic, neutral punch, or any custom ffmpeg chain)\n- **30ms audio fades** at every cut so you never hear a pop\n- **Burns subtitles** in your style — 2-word UPPERCASE chunks by default, fully customizable\n- **Generates animation overlays** via [HyperFrames](https://github.com/heygen-com/hyperframes), [Remotion](https://www.remotion.dev/), [Manim](https://www.manim.community/), or PIL — spawned in parallel sub-agents, one per animation\n- **Self-evaluates the rendered output** at every cut boundary before showing you anything\n- **Persists session memory** in `project.md` so next week's session picks up where you left off\n\n## Setup prompt\n\nPaste into Claude Code, Codex, Hermes, Openclaw, or any agent with shell access:\n\n```text\nSet up https://github.com/browser-use/video-use for me.\n\nRead install.md first to install this repo, wire up ffmpeg, register the skill with whichever agent you're running under, and set up the ElevenLabs API key — ask me to paste it when you need it. Then read SKILL.md for daily usage, and always read helpers/ because that's where the editing scripts live. After install, don't transcribe anything on your own — just tell me it's ready and wait for me to drop footage into a folder.\n```\n\nThe agent handles the clone, dependencies, skill registration, and prompts you once for your ElevenLabs API key (grab one at [elevenlabs.io/app/settings/api-keys](https://elevenlabs.io/app/settings/api-keys)).\n\nThen point your agent at a folder of raw takes:\n\n```bash\ncd /path/to/your/videos\nclaude    # or codex, hermes, etc.\n```\n\nFor always-on editing from your own VPS or Telegram, run the agent through [Browser Use Box](https://browser-use.com/bux). [Watch the 15-second demo](https://www.tiktok.com/@browser_use/video/7639824093721758989).\n\nAnd in the session:\n\n> edit these into a launch video\n\nIt inventories the sources, proposes a strategy, waits for your OK, then produces `edit/final.mp4` next to your sources. All outputs live in `<videos_dir>/edit/` — the skill directory stays clean.\n\n## Manual install\n\nIf you'd rather do it by hand:\n\n```bash\n# 1. Clone and symlink into your agent's skills directory\ngit clone https://github.com/browser-use/video-use ~/Developer/video-use\nln -sfn ~/Developer/video-use ~/.claude/skills/video-use        # Claude Code\n# ln -sfn ~/Developer/video-use ~/.codex/skills/video-use     ",
-  "generatedAt": "2026-07-06T01:13:49.298Z",
+  "generatedAt": "2026-07-07T01:13:31.857Z",
   "analysis": {
     "oneLine": "video-use 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "video-use 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，video-use 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 15,033，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，video-use 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 15,473，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

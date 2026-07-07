@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5bccf54a98",
+  "slug": "weibo-广西抗洪",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "广西抗洪",
+  "summary": "微博热榜第 1 位：广西抗洪，当前热度为 202万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA%23",
+  "hotValue": "202万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T01:14:32.399Z",
+  "fetchedAt": "2026-07-07T01:14:38.329Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

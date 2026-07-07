@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Mozaik",
+  "summary": "TypeScript runtime for self-organizing AI agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/mozaik-4",
+  "publishedAt": "2026-07-05T12:31:38.000Z",
+  "id": "product-hunt-176697b4",
+  "slug": "product-hunt-176697b4",
+  "content": "Mozaik enables autonomous agent teams to work concurrently, react to events, communicate intelligently, and decide how collaboration should unfold during execution.",
+  "fetchedAt": "2026-07-07T01:13:45.340Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "马赛克",
+  "chineseSummary": "自组织 AI 代理的 TypeScript 运行时讨论 |关联",
+  "chineseContent": "Mozaik 使自主代理团队能够同时工作、对事件做出反应、智能通信并决定在执行过程中如何开展协作。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

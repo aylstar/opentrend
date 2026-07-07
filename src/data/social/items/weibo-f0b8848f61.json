@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f0b8848f61",
+  "slug": "weibo-三星利润",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "三星利润",
+  "summary": "微博热榜第 7 位：三星利润，当前热度为 61万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%88%A9%E6%B6%A6%23",
+  "hotValue": "61万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T01:14:32.399Z",
+  "fetchedAt": "2026-07-07T01:14:38.329Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-69d236ecc9",
+  "slug": "weibo-深圳暴雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "深圳暴雨",
+  "summary": "微博热榜第 13 位：深圳暴雨，当前热度为 59万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8%23",
+  "hotValue": "59万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T01:14:32.399Z",
+  "fetchedAt": "2026-07-07T01:14:38.329Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

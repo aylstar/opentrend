@@ -1,0 +1,21 @@
+{
+  "id": "douyin-b139b10cab",
+  "slug": "douyin-今日小暑",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 6,
+  "title": "今日小暑",
+  "summary": "抖音热榜第 6 位：今日小暑，当前热度为 1,080万热度。",
+  "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E6%9A%91?type=general",
+  "hotValue": "1,080万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T00:51:49.353Z",
+  "fetchedAt": "2026-07-07T01:14:37.865Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

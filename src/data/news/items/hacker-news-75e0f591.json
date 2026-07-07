@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Real-time map of Great Britain's rail network",
+  "summary": "382 points · 141 comments",
+  "content": "382 points · 141 comments",
+  "url": "https://www.map.signalbox.io",
+  "publishedAt": "2026-07-06T09:38:36.000Z",
+  "points": 382,
+  "id": "hacker-news-75e0f591",
+  "slug": "hacker-news-75e0f591",
+  "fetchedAt": "2026-07-07T01:13:45.340Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "英国铁路网实时地图",
+  "chineseSummary": "382 分 · 141 条评论",
+  "chineseContent": "382 分 · 141 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

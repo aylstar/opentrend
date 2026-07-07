@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: AI Stocks Astera, Bloom, Tesla Rebound; SpaceX Slides Ahead Of Nasdaq-100 Inclusion",
+  "summary": "Dow Jones Futures: AI stocks rallied, with Astera, Bloom Energy and Tesla higher. But SpaceX stock dropped ahead of Nasdaq-100 inclusion.",
+  "url": "https://finance.yahoo.com/m/c71a3345-6ae6-3d18-95eb-134519da74ab/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+  "publishedAt": "2026-07-06T23:09:55.000Z",
+  "id": "yahoo-finance-df0b5a71",
+  "slug": "yahoo-finance-df0b5a71",
+  "content": "Dow Jones Futures: AI stocks rallied, with Astera, Bloom Energy and Tesla higher. But SpaceX stock dropped ahead of Nasdaq-100 inclusion.",
+  "fetchedAt": "2026-07-07T01:13:45.343Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：AI 股Astera、Bloom、特斯拉反弹； SpaceX 领先纳斯达克 100 指数",
+  "chineseSummary": "道琼斯期货：人工智能股上涨，Astera、Bloom Energy 和特斯拉走高。但 SpaceX 的股价在被纳入纳斯达克 100 指数之前下跌。",
+  "chineseContent": "道琼斯期货：人工智能股上涨，Astera、Bloom Energy 和特斯拉走高。但 SpaceX 的股价在被纳入纳斯达克 100 指数之前下跌。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

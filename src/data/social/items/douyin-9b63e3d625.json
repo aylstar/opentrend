@@ -1,0 +1,21 @@
+{
+  "id": "douyin-9b63e3d625",
+  "slug": "douyin-i-dle回归",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 41,
+  "title": "i-dle回归",
+  "summary": "抖音热榜第 41 位：i-dle回归，当前热度为 765万热度。",
+  "url": "https://www.douyin.com/search/i-dle%E5%9B%9E%E5%BD%92?type=general",
+  "hotValue": "765万热度",
+  "author": "",
+  "publishedAt": "2026-07-07T00:51:49.353Z",
+  "fetchedAt": "2026-07-07T01:14:37.866Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

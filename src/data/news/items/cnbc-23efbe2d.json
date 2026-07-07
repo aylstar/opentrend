@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "TeraWulf shares soar after Anthropic leases data center in Kentucky",
+  "summary": "TeraWulf is a crytpo mining company that has pivoted to AI data center infrastructure. Its stock is up more than 80% this year.",
+  "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
+  "publishedAt": "2026-07-06T14:52:49.000Z",
+  "id": "cnbc-23efbe2d",
+  "slug": "cnbc-23efbe2d",
+  "content": "Anthropic on Monday signed a 20-year lease to use a TeraWulf data center in Kentucky.\n\nThe data center, located about an hour southwest of Louisville in Hawesville, will have capacity of around 400 megawatts with first power delivery expected in the second half of 2027.\n\nTeraWulf shares soared more than 16% in premarket trading. The lease is expected to generate around $19 billion in revenue over the initial term.\n\n\"The Anthropic lease validates our strategy and establishes a long-duration revenue stream with one of the world's leading AI companies,\" CEO Paul Prager said.\n\nTeraWulf also sold its 50% interest in a 168-megawatt data center in Abernathy, Texas to an investor group led by Fluidstack.\n\nTeraWulf is a crypto mining company that has pivoted to AI data center infrastructure. Its stock is up more than 80% this year.",
+  "fetchedAt": "2026-07-07T01:13:45.344Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 租赁肯塔基州数据中心后 TeraWulf 股价飙升",
+  "chineseSummary": "TeraWulf 是一家加密货币挖矿公司，已转向人工智能数据中心基础设施。今年以来，其股价上涨了80%以上。",
+  "chineseContent": "Anthropic 周一签署了一份为期 20 年的租约，使用肯塔基州的 TeraWulf 数据中心。\n\n该数据中心位于霍斯维尔路易斯维尔西南约一小时车程处，容量约为 400 兆瓦，预计将于 2027 年下半年首次供电。\n\nTeraWulf 股价在盘前交易中飙升超过 16%。该租赁预计将在初期产生约 190 亿美元的收入。\n\n首席执行官 Paul Prager 表示：“Anthropic 租赁验证了我们的战略，并与世界领先的人工智能公司之一建立了长期的收入来源。”\n\nTeraWulf 还将其位于德克萨斯州阿伯内西的 168 兆瓦数据中心 50% 的权益出售给了 Fluidstack 领导的投资集团。\n\nTeraWulf 是一家加密货币挖矿公司，已转向人工智能数据中心基础设施。今年以来，其股价上涨了80%以上。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
