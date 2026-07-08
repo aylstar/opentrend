@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f5afd8b3d1",
+  "slug": "weibo-台风巴威",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "台风巴威",
+  "summary": "微博热榜第 33 位：台风巴威，当前热度为 79万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%23",
+  "hotValue": "79万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.226Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6103b9f6c9",
+  "slug": "weibo-小米汽车新系列",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "小米汽车新系列",
+  "summary": "微博热榜第 9 位：小米汽车新系列，当前热度为 150万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97%23",
+  "hotValue": "150万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.225Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

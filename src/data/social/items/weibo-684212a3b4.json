@@ -1,0 +1,21 @@
+{
+  "id": "weibo-684212a3b4",
+  "slug": "weibo-埃及队抗议",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "埃及队抗议",
+  "summary": "微博热榜第 6 位：埃及队抗议，当前热度为 161万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E9%98%9F%E6%8A%97%E8%AE%AE%23",
+  "hotValue": "161万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.225Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

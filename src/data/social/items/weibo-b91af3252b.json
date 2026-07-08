@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b91af3252b",
+  "slug": "weibo-瑞士vs哥伦比亚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "瑞士vs哥伦比亚",
+  "summary": "微博热榜第 50 位：瑞士vs哥伦比亚，当前热度为 71万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%23",
+  "hotValue": "71万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.226Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

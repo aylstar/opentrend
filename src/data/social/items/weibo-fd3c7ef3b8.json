@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fd3c7ef3b8",
+  "slug": "weibo-黄灿灿大大方方的",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "黄灿灿大大方方的",
+  "summary": "微博热榜第 30 位：黄灿灿大大方方的，当前热度为 80万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%23",
+  "hotValue": "80万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.225Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

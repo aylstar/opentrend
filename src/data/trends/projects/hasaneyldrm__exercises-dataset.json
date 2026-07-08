@@ -8,12 +8,12 @@
   "language": "HTML",
   "githubUrl": "https://github.com/hasaneyldrm/exercises-dataset",
   "docsUrl": "https://oss.exercisedb.dev/docs",
-  "stars": 10202,
-  "forks": 1154,
-  "openIssues": 22,
+  "stars": 10711,
+  "forks": 1203,
+  "openIssues": 21,
   "license": "",
   "pushedAt": "2026-06-30T10:19:40Z",
-  "updatedAt": "2026-07-07T01:11:34Z",
+  "updatedAt": "2026-07-08T00:56:32Z",
   "createdAt": "2026-03-18T03:07:18Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n# 💪 Exercises Dataset\n\n**A developer setup wizard + structured, multilingual exercise dataset — scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group data and step-by-step instructions in 6 languages (English, Spanish, Italian, Turkish, Russian, Chinese). Exercise media is not included.**\n\n[![Exercises](https://img.shields.io/badge/Exercises-1324-blue?style=flat-square)](data/exercises.json)\n[![Languages](https://img.shields.io/badge/Languages-6-green?style=flat-square)](#-overview)\n[![Format](https://img.shields.io/badge/Format-JSON-orange?style=flat-square)](data/exercises.json)\n[![Media](https://img.shields.io/badge/Media-not%20included-lightgrey?style=flat-square)](#-notice--exercise-media-is-not-included)\n\n</div>\n\n---\n\n## ⚠️ Notice — exercise media is not included\n\n> **This repository is a developer setup wizard and structured exercise dataset.** The exercise **media (thumbnail images and animation GIFs) is not included here.**\n>\n> There are **multiple, conflicting ownership claims** over this media, so it is **not redistributed in this repository.** Each record keeps a `media_id` (the original ExerciseDB media reference); the dataset itself ships exercise metadata and multilingual instruction translations (EN, ES, IT, TR, RU, ZH).\n>\n> **If you are the rights holder of this media, please [open an issue](../../issues) or contact the maintainer.**\n\n---\n\n## 📦 Data Source & Attribution\n\nThe base exercise **data** in this repository originates from **[ExerciseDB v1 by AscendAPI](https://oss.exercisedb.dev)** ([API docs](https://oss.exercisedb.dev/docs)), obtained via a [Kaggle re-host by *omarxadel*](https://www.kaggle.com/datasets/omarxadel/fitness-exercises-dataset).\n\nThe associated **media (images & animation GIFs) is _not_ included** in this repository — see the [notice](#-notice--exercise-media-is-not-included) above. Each record's `media_id` is the original ExerciseDB v1 media id (e.g. `2gPfomN`); the official CDN serves the corresponding asset at `static.exercisedb.dev/media/{media_id}.gif` for anyone entitled to use it.\n\n**Added in this repository** on top of the base data:\n\n- 🇪🇸 Spanish, 🇮🇹 Italian, 🇹🇷 Turkish, 🇷🇺 Russian, and 🇨🇳 Chinese translations of the instructions\n- the interactive browser (`index.html`) and developer setup guide (`setup.html`)\n- formatting and cleanup\n\n> Original-source attribution was added following issue [#5](../../issues/5) (thanks to [@shinkaidev](https://github.com/shinkaidev) for the report). If you are a rights holder and want anything removed or clarified, please [open an issue](../../issues).\n\n---\n\n## 📋 Table of Contents\n\n- [Data Source & Attribution](#-data-source--attribution)\n- [Overview](#-overview)\n- [Interactive Browser & Developer Setup](#-interactive-browser--developer-setup)\n- [File Structure](#-file-structure)\n- [Statistics](#-statistics)\n- [Data Schema](#-data",
-  "generatedAt": "2026-07-07T01:13:29.536Z",
+  "generatedAt": "2026-07-08T00:57:37.851Z",
   "analysis": {
     "oneLine": "exercises-dataset 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "exercises-dataset 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，exercises-dataset 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 10,202，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 HTML 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，exercises-dataset 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 10,711，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 HTML 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

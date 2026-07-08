@@ -1,0 +1,21 @@
+{
+  "id": "weibo-76f03141fd",
+  "slug": "weibo-探访三江源",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "探访三江源",
+  "summary": "微博热榜第 3 位：探访三江源，当前热度为 183万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A2%E8%AE%BF%E4%B8%89%E6%B1%9F%E6%BA%90%23",
+  "hotValue": "183万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.225Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft fire idTech team at Id software",
+  "summary": "517 points · 479 comments",
+  "content": "id Software are without a doubt one of the most important game developers in the first person genre history. The technology empowering their games, idTech powers a shocking number of games and even game engines ( we ranked it 4th in our Most Important Game Engines of all Time ranking). This era might be coming to a close as it’s being reported that most, if not all, developers working on idTech at id Software have been fired.\n\nThis comes as part of the MASSIVE layoffs across all Xbox divisions. Asha Sharma, the new CEO of Xbox tweeted the email that was sent to the entire company. It explains why the layoffs are happening, starting with:\n\nWe are beginning the most significant restructure in XBOX history. After careful consideration, I’ve made the difficult decision to reduce our team by approximately 3,200 throughout FY27. This will include approximately 1,600 role eliminations today, and in addition, four studios will leave XBOX to new management. I recognize that a year-long restructuring creates additional challenges. Unfortunately, it is not possible to make all the necessary changes in a single day, and I wanted to be direct about the scale.\n\nSince this announcement, several additional details have been made available about the impact of the layoffs, several surrounding id Software, starting with this Tweet from Apogee founder Scott Miller:\n\nAdditionally Rebs Gaming tweeted the following linked in post from impacted id Software developer and 20+ year id veteran Michael Maynard:\n\nGame Industry.biz Coverage of Layoffs Across Studios\n\nYou can learn more about the XBox layoffs, the idTech game engine and more in the video below.",
+  "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+  "publishedAt": "2026-07-07T15:33:20.000Z",
+  "points": 517,
+  "id": "hacker-news-c2c48ab9",
+  "slug": "hacker-news-c2c48ab9",
+  "fetchedAt": "2026-07-08T00:57:53.327Z",
+  "score": 78,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软解雇了 Id software 的 idTech 团队",
+  "chineseSummary": "517 分 · 479 条评论",
+  "chineseContent": "id Software 毫无疑问是第一人称游戏历史上最重要的游戏开发商之一。 idTech 为游戏提供技术支持，为数量惊人的游戏甚至游戏引擎提供支持（我们在有史以来最重要的游戏引擎排名中将其排在第四位）。这个时代可能即将结束，因为有报道称，大多数（如果不是全部）在 id Software 从事 idTech 的开发人员都已被解雇。\n\n这是 Xbox 所有部门大规模裁员的一部分。 Xbox 新任首席执行官阿莎·夏尔马 (Asha Sharma) 在推特上发布了这封发送给整个公司的电子邮件。它解释了裁员的原因，首先是：\n\n我们正在开始 XBOX 历史上最重大的重组。经过仔细考虑，我做出了一个艰难的决定，即在 2027 财年将我们的团队人数减少约 3,200 人。这将包括今天约 1,600 个角色的取消，此外，还有四家工作室将把 XBOX 交给新的管理层。我认识到长达一年的重组带来了额外的挑战。不幸的是，不可能在一天之内完成所有必要的改变，我想直接说明规模。\n\n自本公告发布以来，已经公布了有关裁员影响的更多详细信息，其中包括有关 id Software 的一些信息，首先是 Apogee 创始人 Scott Miller 的推文：\n\n此外，Rebs Gaming 在推特上发布了受影响的 id Software 开发人员、20 多年 id 资深人士 Michael Maynard 的帖子链接：\n\nGame Industry.biz 工作室裁员报道\n\n您可以在下面的视频中了解有关 Xbox 裁员、idTech 游戏引擎等的更多信息。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

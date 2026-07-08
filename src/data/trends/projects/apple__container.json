@@ -8,12 +8,12 @@
   "language": "Swift",
   "githubUrl": "https://github.com/apple/container",
   "docsUrl": "https://apple.github.io/container/documentation/",
-  "stars": 46808,
-  "forks": 1406,
-  "openIssues": 419,
+  "stars": 46997,
+  "forks": 1420,
+  "openIssues": 420,
   "license": "Apache-2.0",
-  "pushedAt": "2026-07-06T22:43:30Z",
-  "updatedAt": "2026-07-07T01:13:23Z",
+  "pushedAt": "2026-07-07T20:52:19Z",
+  "updatedAt": "2026-07-08T00:55:46Z",
   "createdAt": "2025-05-30T21:26:05Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1>\n  <img alt=\"Containerization logo\" src=\"./assets/Containerization-Logo.png\" width=\"70\" valign=\"middle\">\n  &nbsp;container\n</h1>\n\n`container` is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon.\n\nThe tool consumes and produces [OCI-compatible container images](https://github.com/opencontainers/image-spec), so you can pull and run images from any standard container registry. You can push images that you build to those registries as well, and run the images in any other OCI-compatible application.\n\n`container` uses the [Containerization](https://github.com/apple/containerization) Swift package for low-level container, image, and process management.\n\n![introductory movie showing some basic commands](./docs/assets/landing-movie.gif)\n\n## Get started\n\n### Requirements\n\nYou need a Mac with Apple silicon to run `container`. To build it, see the [BUILDING](./BUILDING.md) document.\n\n`container` is supported on macOS 26, since it takes advantage of new features and enhancements to virtualization and networking in this release. We do not support older versions of macOS and the `container` maintainers typically will not address issues that cannot be reproduced on macOS 26.\n\n### Initial install\n\nDownload the latest signed installer package for `container` from the [GitHub release page](https://github.com/apple/container/releases).\n\nTo install the tool, double-click the package file and follow the instructions. Enter your administrator password when prompted, to give the installer permission to place the installed files under `/usr/local`.\n\nStart the system service with:\n\n```bash\ncontainer system start\n```\n\n### Upgrade or downgrade\n\nFor both upgrading and downgrading, you can manually download and install the signed installer package by following the steps from [initial install](#initial-install) or use the `update-container.sh` script (installed to `/usr/local/bin`).\n\nIf you're upgrading or downgrading, you must stop your existing `container`:\n\n```bash\ncontainer system stop\n```\n\nTo upgrade to the latest release, simply run the command below:\n\n```bash\n/usr/local/bin/update-container.sh\n```\n\nTo downgrade, you must uninstall your existing `container` (the `-k` flag keeps your user data, while `-d` removes it):\n\n```bash\n/usr/local/bin/uninstall-container.sh -k\n/usr/local/bin/update-container.sh -v 0.3.0\n```\n\nStart the system service with:\n\n```bash\ncontainer system start\n```\n\n### Uninstall\n\nUse the `uninstall-container.sh` script (installed to `/usr/local/bin`) to remove `container` from your system. To remove your user data along with the tool, run:\n\n```bash\n/usr/local/bin/uninstall-container.sh -d\n```\n\nTo retain your user data so that it is available should you reinstall later, run:\n\n```bash\n/usr/local/bin/uninstall-container.sh -k\n```\n\n## Next steps\n\n- Take [a guided tour of `container`](./docs/tutorials/start-here.md) by building, running, and publi",
-  "generatedAt": "2026-07-07T01:13:32.571Z",
+  "generatedAt": "2026-07-08T00:57:41.109Z",
   "analysis": {
     "oneLine": "container 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "container 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，container 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 46,808，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，container 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 46,997，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

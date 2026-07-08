@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "As chip sector takes it on the chin, traders bet on a big Nvidia rally",
+  "summary": "Shares of Nvidia fought into the green despite a 5% sell-off in chip stocks tracked by the VanEck Semiconductor ETF (SMH).",
+  "url": "https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html",
+  "publishedAt": "2026-07-07T19:56:25.000Z",
+  "id": "cnbc-e05cdcea",
+  "slug": "cnbc-e05cdcea",
+  "content": "Is tech's biggest sleeping giant about to wake up?\n\nShares of Nvidia fought into the green despite a 5% sell-off in chip stocks tracked by the VanEck Semiconductor ETF (SMH) , a notable outperformance a day after a research report claiming the AI leader was at least a year behind on manufacturing of its next line of server racks.\n\nThe stock's trading just under $200, a level it's flirted with since late last month, down 17% from its May record and up just 4% on the year, as investors have turned their attention to other AI components, like the memory-makers. One thing Nvidia has those stocks don't right now: bullish options flows.\n\nMore than 1.5 million calls traded in Nvidia Tuesday, compared to under 690,000 puts, with more than twice as many calls bought versus puts bought, according to ThinkorSwim data. Volume ratios are about the opposite in the sector ETF, with puts outpacing calls almost four-to-one in SMH, with traders buying 33,000 puts, compared to just 7,300 calls. Similar action took place in Nvidia Monday after the company disputed a report by SemiAnalysis that its next-gen Kyber server rack was running into delays. Calls more than doubled puts by volume with about two-thirds of the $600M of NVDA options premium tied to calls, and almost three times as many calls bought versus puts.\n\nOne group of trades that looked like they were initiated by a single trader bought a total $3.5 million of the 200-strike calls expiring at the end of July. Those contracts cost just under 7 bucks each at the time of the trade, meaning they still need about 5.5% more to pay off by month-end. It looks like traders are hoping Nvidia's two-day firming will turn into a rally: as of writing the top five contracts are all calls expiring Wednesday. The most popular was the 200-strike, which traded almost 170,000 times for a total $11 million in premium, according to SpotGamma data.",
+  "fetchedAt": "2026-07-08T00:57:53.331Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "随着芯片行业的发展，交易员押注英伟达将大幅上涨",
+  "chineseSummary": "尽管 VanEck Semiconductor ETF (SMH) 追踪的芯片股下跌 5%，但英伟达 (Nvidia) 的股价仍上涨。",
+  "chineseContent": "科技界最大的沉睡巨人即将苏醒吗？\n\n尽管 VanEck Semiconductor ETF (SMH) 追踪的芯片股下跌 5%，但英伟达的股价仍上涨，一天前有一份研究报告称这家人工智能领军企业在生产下一代服务器机架方面至少落后了一年。\n\n该股的交易价格略低于 200 美元，自上个月末以来一直徘徊在这一水平，较 5 月份的记录下跌 17%，今年仅上涨 4%，因为投资者已将注意力转向内存制造商等其他人工智能组件。英伟达拥有这些股票目前所没有的一件事：看涨期权流动。\n\nThinkorSwim 数据显示，周二 Nvidia 交易量超过 150 万份看涨期权，而看跌期权交易量不足 69 万份，看涨期权买入量是看跌期权买入量的两倍多。该行业 ETF 的成交量比率大致相反，SMH 中看跌期权与看涨期权的比例几乎为四比一，交易员买入 33,000 份看跌期权，而仅买入 7,300 份看涨期权。周一，英伟达也采取了类似行动，此前该公司对 SemiAnalysis 的一份报告提出异议，称其下一代 Kyber 服务器机架出现了延误。看涨期权的交易量是看跌期权的两倍以上，其中 6 亿美元的 NVDA 期权溢价中约三分之二与看涨期权有关，看涨期权的买入量几乎是看跌期权的三倍。\n\n一组看起来像是由单个交易者发起的交易购买了 7 月底到期的 200 个履约看涨期权中总计 350 万美元的交易。这些合同在交易时每份的成本略低于 7 美元，这意味着他们仍需要大约 5.5% 的成本才能在月底之前还清。交易员似乎希望英伟达两天的坚挺将转变为反弹：截至撰写本文时，前五名合约都是周三到期的看涨期权。根据 SpotGamma 的数据，最受欢迎的是 200 次履约合约，其交易次数接近 170,000 次，溢价总额为 1,100 万美元。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-312f218153",
+  "slug": "weibo-歌手2026第8期歌单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "歌手2026第8期歌单",
+  "summary": "微博热榜第 49 位：歌手2026第8期歌单，当前热度为 72万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2026%E7%AC%AC8%E6%9C%9F%E6%AD%8C%E5%8D%95%23",
+  "hotValue": "72万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.226Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

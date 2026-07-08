@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a1ebb621c2",
+  "slug": "weibo-阿根廷vs埃及",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "阿根廷vs埃及",
+  "summary": "微博热榜第 36 位：阿根廷vs埃及，当前热度为 78万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A%23",
+  "hotValue": "78万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.226Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

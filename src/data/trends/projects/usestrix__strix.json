@@ -8,16 +8,17 @@
   "language": "Python",
   "githubUrl": "https://github.com/usestrix/strix",
   "docsUrl": "https://strix.ai",
-  "stars": 37993,
-  "forks": 3860,
+  "stars": 38568,
+  "forks": 3916,
   "openIssues": 178,
   "license": "Apache-2.0",
-  "pushedAt": "2026-07-06T15:45:30Z",
-  "updatedAt": "2026-07-07T01:13:27Z",
+  "pushedAt": "2026-07-07T14:24:50Z",
+  "updatedAt": "2026-07-08T00:56:32Z",
   "createdAt": "2025-08-05T21:28:30Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "weekly",
+    "monthly"
   ],
   "tags": [
     "AI",
@@ -31,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://strix.ai/\">\n    <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\">\n  </a>\n</p>\n\n<div align=\"center\">\n\n# Strix\n\n### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabilities.\n\n<br/>\n\n\n<a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a>\n<a href=\"https://strix.ai\"><img src=\"https://img.shields.io/badge/Website-strix.ai-f0f0f0?style=for-the-badge&logoColor=000000\" alt=\"Website\"></a>\n[![](https://dcbadge.limes.pink/api/server/strix-ai)](https://discord.gg/strix-ai)\n\n<a href=\"https://deepwiki.com/usestrix/strix\"><img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\"></a>\n<a href=\"https://github.com/usestrix/strix\"><img src=\"https://img.shields.io/github/stars/usestrix/strix?style=flat-square\" alt=\"GitHub Stars\"></a>\n<a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-Apache%202.0-3b82f6?style=flat-square\" alt=\"License\"></a>\n<a href=\"https://pypi.org/project/strix-agent/\"><img src=\"https://img.shields.io/pypi/v/strix-agent?style=flat-square\" alt=\"PyPI Version\"></a>\n\n\n<a href=\"https://discord.gg/strix-ai\"><img src=\"https://github.com/usestrix/.github/raw/main/imgs/Discord.png\" height=\"40\" alt=\"Join Discord\"></a>\n<a href=\"https://x.com/strix_ai\"><img src=\"https://github.com/usestrix/.github/raw/main/imgs/X.png\" height=\"40\" alt=\"Follow on X\"></a>\n\n\n<a href=\"https://trendshift.io/repositories/15362\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/15362\" alt=\"usestrix/strix | Trendshift\" width=\"250\" height=\"55\"/></a>\n<a href=\"https://trendshift.io/repositories/15362?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15362\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/15362/weekly\" alt=\"usestrix%2Fstrix | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n</div>\n\n\n> [!TIP]\n> **New!** Strix integrates seamlessly with GitHub Actions and CI/CD pipelines. Automatically scan for vulnerabilities on every pull request and block insecure code before it reaches production - [Get started with no setup required](https://app.strix.ai).\n\n---\n\n\n## Strix Overview\n\nStrix are autonomous AI penetration testing agents that act just like real hackers - they run your code dynamically, find vulnerabilities, and validate them through actual proofs-of-concept. Built for developers and security teams who need fast, accurate security testing without the overhead of manual pentesting or the false positives of static analysis tools.\n\n**Key Capabilities:**\n\n- **Full pentesting toolkit** - reconnaissance, exploitation, and validation out of the box\n- **Multi-agent orchestration** - teams of AI pentesters that collaborate and scale\n- **Real exploit validation** - working PoCs, not false positives like legacy vulnerabilit",
-  "generatedAt": "2026-07-07T01:13:29.200Z",
+  "generatedAt": "2026-07-08T00:57:37.013Z",
   "analysis": {
     "oneLine": "strix 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "strix 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，strix 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 37,993，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，strix 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 38,568，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

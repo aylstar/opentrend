@@ -7,20 +7,20 @@
   "publishedAt": "2026-07-06T03:37:29.000Z",
   "id": "product-hunt-c766df13",
   "slug": "product-hunt-c766df13",
-  "content": "The AI video editor you hire that edits like a human Discussion | Link",
-  "fetchedAt": "2026-07-07T01:13:45.340Z",
-  "score": 79,
+  "content": "Stanley is built for anyone who films great videos and then lets them die in their camera roll. Send Stanley raw footage and get back a finished, captioned video. No timelines, no manually tweaking captions, no spending hours hunting for the perfect song. Just tell Stanley what you want and it edits end-to-end: talking heads, vlogs, podcast cuts, UGC, whatever your niche needs. And it's free. Upload footage, get a video.",
+  "fetchedAt": "2026-07-08T00:57:53.328Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球",
     "视频"
   ],
-  "rank": 1,
-  "contentStatus": "fetch-failed",
+  "rank": 16,
+  "contentStatus": "article-extracted",
   "chineseTitle": "斯坦利工作室",
   "chineseSummary": "您雇用的人工智能视频编辑器可以像人类一样进行编辑关联",
-  "chineseContent": "您雇用的人工智能视频编辑器可以像人类一样进行编辑关联",
+  "chineseContent": "Stanley 是为那些拍摄精彩视频并让它们死在相机胶卷中的人而设计的。发送斯坦利原始素材并返回完成的、带字幕的视频。没有时间线，没有手动调整字幕，没有花几个小时寻找完美的歌曲。只需告诉 Stanley 您想要什么，它就会进行端到端编辑：人物谈话、视频博客、播客剪辑、UGC，无论您的利基需求是什么。而且它是免费的。上传素材，获取视频。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

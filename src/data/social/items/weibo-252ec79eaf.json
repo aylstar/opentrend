@@ -1,0 +1,21 @@
+{
+  "id": "weibo-252ec79eaf",
+  "slug": "weibo-世界杯8强全部产生",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "世界杯8强全部产生",
+  "summary": "微博热榜第 4 位：世界杯8强全部产生，当前热度为 175万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%E5%85%A8%E9%83%A8%E4%BA%A7%E7%94%9F%23",
+  "hotValue": "175万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.225Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

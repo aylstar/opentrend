@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Oil Prices Keep Rising On Iran News After Samsung Fans AI Fears",
+  "summary": "The Nasdaq led the stock market lower Tuesday, as Samsung earnings slammed AI names. Oil prices jumped on U.S.-Iran news.",
+  "url": "https://finance.yahoo.com/m/066551de-6a59-3094-97bf-62396c58c1ae/dow-jones-futures%3A-oil-prices.html?.tsrc=rss",
+  "publishedAt": "2026-07-08T00:46:08.000Z",
+  "id": "yahoo-finance-3ba6c343",
+  "slug": "yahoo-finance-3ba6c343",
+  "content": "The Nasdaq led the stock market lower Tuesday, as Samsung earnings slammed AI names. Oil prices jumped on U.S.-Iran news.",
+  "fetchedAt": "2026-07-08T00:57:53.329Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：在三星粉丝担心 AI 之后，伊朗新闻导致油价持续上涨",
+  "chineseSummary": "周二，纳斯达克股市领跌，三星财报重挫人工智能公司的业绩。油价因美国和伊朗的消息而上涨。",
+  "chineseContent": "周二，纳斯达克股市领跌，三星财报重挫人工智能公司的业绩。油价因美国和伊朗的消息而上涨。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

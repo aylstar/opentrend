@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9f220a7cff",
+  "slug": "weibo-张月霸气买单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "张月霸气买单",
+  "summary": "微博热榜第 38 位：张月霸气买单，当前热度为 76万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E9%9C%B8%E6%B0%94%E4%B9%B0%E5%8D%95%23",
+  "hotValue": "76万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.226Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

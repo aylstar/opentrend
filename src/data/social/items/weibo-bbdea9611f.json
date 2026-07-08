@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bbdea9611f",
+  "slug": "weibo-宜宾地震",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "宜宾地震",
+  "summary": "微博热榜第 32 位：宜宾地震，当前热度为 79万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%23",
+  "hotValue": "79万热度",
+  "author": "",
+  "publishedAt": "2026-07-08T00:51:37.398Z",
+  "fetchedAt": "2026-07-08T00:59:56.225Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
