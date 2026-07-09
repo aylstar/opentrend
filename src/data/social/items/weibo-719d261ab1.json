@@ -1,0 +1,21 @@
+{
+  "id": "weibo-719d261ab1",
+  "slug": "weibo-台风巴威可能正面登陆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "台风巴威可能正面登陆",
+  "summary": "微博热榜第 1 位：台风巴威可能正面登陆，当前热度为 224万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%BB%E9%99%86%23",
+  "hotValue": "224万热度",
+  "author": "",
+  "publishedAt": "2026-07-09T01:07:46.219Z",
+  "fetchedAt": "2026-07-09T01:08:55.503Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

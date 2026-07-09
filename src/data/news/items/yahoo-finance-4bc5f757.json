@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Tech Futures Rise, Oil Keeps Climbing; Nvidia, Valero, Dell, SpaceX In Focus",
+  "summary": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
+  "url": "https://finance.yahoo.com/m/460a0d08-18ee-3417-83ad-76a56f707497/dow-jones-futures%3A-tech.html?.tsrc=rss",
+  "publishedAt": "2026-07-09T00:42:44.000Z",
+  "id": "yahoo-finance-4bc5f757",
+  "slug": "yahoo-finance-4bc5f757",
+  "content": "Tech futures rose overnight after Nvidia, Dell and other AI stocks bounced and SpaceX hit a new low. Oil prices kept rising on Iran news.",
+  "fetchedAt": "2026-07-09T01:07:57.047Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 24,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：科技期货上涨，油价持续攀升； Nvidia、Valero、戴尔、SpaceX 成为焦点",
+  "chineseSummary": "在英伟达、戴尔和其他人工智能股票反弹、SpaceX 触及新低后，科技期货隔夜上涨。受伊朗消息影响，油价持续上涨。",
+  "chineseContent": "在英伟达、戴尔和其他人工智能股票反弹、SpaceX 触及新低后，科技期货隔夜上涨。受伊朗消息影响，油价持续上涨。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

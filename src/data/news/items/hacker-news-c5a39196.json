@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+  "summary": "192 points · 72 comments",
+  "content": "Data visualizations are the bridge between user and data. But building AI agents that can generate visualizations reliably can be very tricky: - simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; - complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft https://data-formulator.ai/ ). Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data.",
+  "url": "https://microsoft.github.io/flint-chart/#/",
+  "publishedAt": "2026-07-08T17:46:12.000Z",
+  "points": 192,
+  "id": "hacker-news-c5a39196",
+  "slug": "hacker-news-c5a39196",
+  "fetchedAt": "2026-07-09T01:07:57.043Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 8,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：微软发布 Flint，一种用于 AI 代理的可视化语言",
+  "chineseSummary": "192 分 · 72 条评论",
+  "chineseContent": "数据可视化是用户和数据之间的桥梁。但构建能够可靠地生成可视化的人工智能代理可能非常棘手： - 简单的图表规格可能是可靠的，但由于依赖系统默认值，生成的图表通常质量较低； - 具有明确细节的复杂图表规范可以生成美观的图表，但它们很冗长，并且代理可能会在可靠性方面遇到困难。我们发现这是语言问题（不仅仅是人工智能能力问题）的限制 - 当前的可视化语言对于人工智能代理来说有点太低级了，要求它们显式地做出视觉决策，而这些决策应该由良好的编译器处理。 Flint 是一种可视化中间语言来解决这个问题，让 AI 代理解决最后一英里的人机交互问题。它提供了一个简单的基于语义类型的规范，并包含一个布局优化引擎，可以从简单的高级规范生成美观的图表（充满派生的低级细节）。结果也是非常人性化的、易于理解和适应的。 Flint 为数据公式生成器提供支持，用于生成可视化（微软的另一个开源项目 https://data-formulator.ai/ ）。 Flint 是开源的，我们构建了一个 MCP 服务器，您可以直接将 flint 插入您最喜欢的代理应用程序中来处理数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/alibaba/page-agent",
   "docsUrl": "https://alibaba.github.io/page-agent/",
-  "stars": 24932,
-  "forks": 2134,
-  "openIssues": 50,
+  "stars": 25218,
+  "forks": 2163,
+  "openIssues": 49,
   "license": "MIT",
-  "pushedAt": "2026-07-07T13:08:36Z",
-  "updatedAt": "2026-07-08T00:57:28Z",
+  "pushedAt": "2026-07-08T09:17:00Z",
+  "updatedAt": "2026-07-09T01:03:38Z",
   "createdAt": "2025-09-23T09:30:17Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Page Agent\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://page-agent.github.io/assets/readme/banner-dark.png\">\n  <img alt=\"Page Agent Banner\" src=\"https://page-agent.github.io/assets/readme/banner-light.png\">\n</picture>\n\n[![CI](https://img.shields.io/github/actions/workflow/status/alibaba/page-agent/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/alibaba/page-agent/actions/workflows/ci.yml)\n[![npm](https://img.shields.io/npm/v/page-agent?style=flat-square&label=npm)](https://www.npmjs.com/package/page-agent)\n[![downloads](https://img.shields.io/npm/dt/page-agent?style=flat-square)](https://www.npmjs.com/package/page-agent)\n[![size](https://img.shields.io/bundlephobia/minzip/page-agent?style=flat-square&label=size)](https://bundlephobia.com/package/page-agent)\n[![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://opensource.org/licenses/MIT)\n[![typescript](https://img.shields.io/badge/%3C%2F%3E-typescript-blue?style=flat-square)](http://www.typescriptlang.org/)\n[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/akldabonmimlicnjlflnapfeklbfemhj?style=flat-square&label=chrome%20rating)](https://chromewebstore.google.com/detail/page-agent-ext/akldabonmimlicnjlflnapfeklbfemhj)\n[![GitHub stars](https://img.shields.io/github/stars/alibaba/page-agent.svg)](https://github.com/alibaba/page-agent)\n\nThe GUI Agent Living in Your Webpage. One script gives any web page its own AI agent.\n\n<a href=\"https://trendshift.io/repositories/22551?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-22551\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/22551\" alt=\"alibaba%2Fpage-agent | Trendshift\" width=\"180\"/></a>\n\n🌐 **English** | [中文](./docs/README-zh.md)\n\n<a href=\"https://alibaba.github.io/page-agent/\" target=\"_blank\"><b>🚀 Demo</b></a> | <a href=\"https://alibaba.github.io/page-agent/docs/introduction/overview\" target=\"_blank\"><b>📖 Docs</b></a> | <a href=\"https://news.ycombinator.com/item?id=47264138\" target=\"_blank\"><b>📢 HN Discussion</b></a> | <a href=\"https://x.com/simonluvramen\" target=\"_blank\"><b>𝕏 Follow on X</b></a>\n\n<!-- demo video -->\n\n[![Watch the demo](https://page-agent.github.io/assets/readme/poster.jpg)](https://github.com/user-attachments/assets/a1f2eae2-13fb-4aae-98cf-a3fc1620a6c2)\n\n---\n\n## ✨ Features\n\n- **🎯 Easy integration**\n    - No need for `browser extension` / `python` / `headless browser`.\n    - Just in-page javascript. Everything happens in your web page.\n- **📖 Text-based DOM manipulation**\n    - No screenshots. No multi-modal LLMs or special permissions needed.\n- **🧠 Bring your own LLMs**\n    - Works with most mainstream models, including locally deployed ones. See [supported models](https://alibaba.github.io/page-agent/docs/features/models).\n- **🐙 Optional [chrome extension](https://alibaba.github.io/page-agent/docs/features/chrome-extension) for multi-p",
-  "generatedAt": "2026-07-08T00:57:39.041Z",
+  "generatedAt": "2026-07-09T01:07:40.339Z",
   "analysis": {
     "oneLine": "page-agent 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "page-agent 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，page-agent 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 24,932，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，page-agent 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 25,218，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

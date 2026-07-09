@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3ce78e225e",
+  "slug": "weibo-上海打雷",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "上海打雷",
+  "summary": "微博热榜第 50 位：上海打雷，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-09T01:07:46.219Z",
+  "fetchedAt": "2026-07-09T01:08:55.504Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

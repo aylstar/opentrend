@@ -7,19 +7,19 @@
   "publishedAt": "2026-07-07T06:27:32.000Z",
   "id": "product-hunt-681bc5f8",
   "slug": "product-hunt-681bc5f8",
-  "content": "1.6T MoE trained entirely on AI ASICs Discussion | Link",
-  "fetchedAt": "2026-07-08T00:57:53.328Z",
-  "score": 79,
+  "content": "LongCat is the AI model series from Meituan, featuring powerful, efficient, and open-source models for complex tasks. Its latest release, LongCat-Flash-Thinking, is a 560B parameter MoE reasoning model that sets a new standard for speed and performance.",
+  "fetchedAt": "2026-07-09T01:07:57.046Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 12,
+  "contentStatus": "article-extracted",
   "chineseTitle": "长猫-2.0",
   "chineseSummary": "1.6T MoE 完全基于 AI ASIC 进行训练 讨论 |关联",
-  "chineseContent": "1.6T MoE 完全基于 AI ASIC 进行训练 讨论 |关联",
+  "chineseContent": "LongCat是美团的AI模型系列，具有强大、高效、开源的复杂任务模型。其最新版本LongCat-Flash-Thinking是一款560B参数MoE推理模型，为速度和性能树立了新标准。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

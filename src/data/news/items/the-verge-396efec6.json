@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "ChatGPT’s upgraded voice mode is better at shutting up",
+  "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+  "publishedAt": "2026-07-08T17:00:00.000Z",
+  "id": "the-verge-396efec6",
+  "slug": "the-verge-396efec6",
+  "content": "OpenAI is overhauling ChatGPT’s voice mode with a new model that it says is more like “talking to another person.” The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company’s “smartest voice model” yet. It will automatically pass your queries to its best text models, like GPT-5.5, when it needs to reason or search the web, allowing it to more quickly transition from researching the topic you’ve asked about to talking about its findings. The upgraded model will also supplement conversations about the weather, stocks, and sports with AI-generated visuals showing relevant information like sports scores or this week’s forecast. ChatGPT previously relied on an older, turn-based voice model, which didn’t always produce accurate answers and sometimes struggled to maintain a natural conversational flow. “This is a full duplex model,” OpenAI product lead Atty Eleti said during the briefing. “What it really means is that it can speak and listen at the same time. … From the model side, it can process the stream of inputs and produce the stream of output continuously and simultaneously.” This setup opens up new features for ChatGPT’s voice mode, such as real-time translation. Now, instead of waiting until you stop talking to translate your speech, ChatGPT can translate while you talk. You can also now ask ChatGPT Voice to stop talking until it’s called on, which OpenAI says wasn’t possible before. It will acknowledge that it’s listening with phrases like “mhmm” or “yeah” and “got it,” too. OpenAI notes that it has added built-in safeguards that steer the model away from harmful responses or end chats completely in “higher-risk” situations. (OpenAI is currently facing a string of lawsuits alleging ChatGPT fueled delusions and harmed the mental health of its users.) The model is trained to offer “expert-vetted crisis helpline support” in conversations about self-harm as well, and is also designed to provide “age-appropriate” responses for teens. GPT-Live-1 is rolling out across iOS, Android, and on the web. It will power ChatGPT Voice for Go, Plus, and Pro subscribers, while a smaller, more efficient GPT-Live-1 mini model will be the default for free users.",
+  "fetchedAt": "2026-07-09T01:07:57.047Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "ChatGPT升级语音模式更能闭嘴",
+  "chineseSummary": "OpenAI 正在用一种新模型彻底改革 ChatGPT 的语音模式，据称该模型更像是“与另一个人交谈”。新的 GPT-Live-1 旨在减少打扰您，并且如果您在谈话中途暂停，它还会等待您继续讲话。在新闻发布会上，OpenAI 研究负责人 Kundan Kumar 称 GPT-Live-1 是公司的 [...]",
+  "chineseContent": "OpenAI 正在用一种新模型彻底改革 ChatGPT 的语音模式，据称该模型更像是“与另一个人交谈”。新的 GPT-Live-1 旨在减少打扰您，并且如果您在谈话中途暂停，它还会等待您继续讲话。在新闻发布会上，OpenAI 研究负责人 Kundan Kumar 称 GPT-Live-1 是该公司迄今为止“最智能的语音模型”。当它需要推理或搜索网络时，它会自动将您的查询传递给最好的文本模型，例如 GPT-5.5，从而使其能够更快地从研究您所询问的主题过渡到谈论其发现。升级后的模型还将通过人工智能生成的视觉效果来补充有关天气、股票和体育的对话，显示体育比分或本周的预测等相关信息。 ChatGPT 以前依赖于较旧的、基于回合的语音模型，该模型并不总是能产生准确的答案，有时很难保持自然的对话流程。 “这是一个全双工模型，”OpenAI 产品负责人 Atty Eleti 在简报中说道。 “它真正的意思是它可以同时说和听。......从模型方面来看，它可以连续、同时地处理输入流并产生输出流。”此设置为 ChatGPT 的语音模式开辟了新功能，例如实时翻译。现在，ChatGPT 可以在您说话时进行翻译，而不是等到您停止说话才翻译您的语音。你现在还可以要求 ChatGPT Voice 停止说话，直到它被调用为止，OpenAI 说这以前是不可能的。它会承认它正在听“嗯”或“是的”和“明白了”之类的短语。 OpenAI 指出，它添加了内置保护措施，可以引导模型远离有害响应或完全以“更高级别”的方式结束聊天。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

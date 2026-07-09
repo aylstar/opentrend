@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+  "summary": "18 points · 11 comments",
+  "content": "A brilliantly built inventory program that lives on your laptop. Voice-walk, count, reconcile, and Process — no AI required. Optional AI only if you want invoice photos read for you. Free. No subscriptions. No vendor lock-in.\n\nEnd of the calendar month. Grab a barback & clipboard. Count every bottle by tenths. Scribble numbers on paper. Walk to the office. Type it all into a spreadsheet someone made in 2014. Try to reconcile against POS sales. Watch it never add up. Repeat next month.\n\nThe bar industry has been doing this for decades. And companies have profited from the pain — selling $3,000 inventory guns, $200/month SaaS platforms, and consulting services that charge by the bottle.\n\nAI changed everything. Now we can build this program for free. So we did.\n\nPrecision instruments for the craft.\n\nWe provide one simple system. Here you will find the free program and the markdown that explains how it works.\n\nOne free program, the full workflow inside.\n\nThe pieces below live inside one free program for the full inventory workflow.\n\nPre-built spreadsheets that calculate cost, usage, variance, and reorder points.\n\nCompare physical counts against POS sales by category, bottle, and shift.\n\nType invoice numbers yourself — or connect AI to read paper invoice photos from your phone.\n\n500+ common bar products with bottle sizes, costs, and standard pours.\n\nYears of field-tested knowledge — spoken the way it was meant to be.\n\n— The philosophy behind Open Source Barware\n\nNo signup. No email capture. No sales pitch. Download the program and get to work.",
+  "url": "https://opensourcebarware.com",
+  "publishedAt": "2026-07-08T21:43:07.000Z",
+  "points": 18,
+  "id": "hacker-news-fbea6087",
+  "slug": "hacker-news-fbea6087",
+  "fetchedAt": "2026-07-09T01:07:57.044Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "开源 Barware：免费、本地优先的酒吧库存软件 (GPLv3)",
+  "chineseSummary": "18 分 · 11 条评论",
+  "chineseContent": "一个出色的库存程序，可以在您的笔记本电脑上运行。语音行走、计数、协调和处理——无需人工智能。仅当您希望为您读取发票照片时可选 AI。自由的。没有订阅。没有供应商锁定。\n\n日历月结束。拿起一个吧台和剪贴板。将每个瓶子按十分之一数一下。在纸上写下数字。步行到办公室。将所有内容输入某人在 2014 年制作的电子表格中。尝试根据 POS 销售情况进行核对。看着它永远不会加起来。下个月重复。\n\n几十年来，酒吧行业一直这样做。公司从痛苦中获利——销售 3,000 美元的库存枪、每月 200 美元的 SaaS 平台以及按瓶收费的咨询服务。\n\n人工智能改变了一切。现在我们可以免费构建这个程序。所以我们做到了。\n\n用于工艺的精密仪器。\n\n我们提供一个简单的系统。在这里您可以找到免费程序以及解释其工作原理的降价版本。\n\n一个免费程序，里面有完整的工作流程。\n\n以下内容位于一个免费程序中，用于完整的库存工作流程。\n\n预先构建的电子表格，用于计算成本、使用情况、差异和再订购点。\n\n按类别、瓶子和班次将实际计数与 POS 销售额进行比较。\n\n自行输入发票号码，或连接人工智能从手机读取纸质发票照片。\n\n500 多种常见的酒吧产品，包括瓶子尺寸、成本和标准倒入量。\n\n多年经过现场检验的知识——按其应有的方式表达。\n\n— 开源 Barware 背后的理念\n\n没有注册。没有电子邮件捕获。没有推销。下载程序并开始工作。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

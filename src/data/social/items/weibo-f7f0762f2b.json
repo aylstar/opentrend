@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f7f0762f2b",
+  "slug": "weibo-上海暴雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "上海暴雨",
+  "summary": "微博热榜第 2 位：上海暴雨，当前热度为 119万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23",
+  "hotValue": "119万热度",
+  "author": "",
+  "publishedAt": "2026-07-09T01:07:46.219Z",
+  "fetchedAt": "2026-07-09T01:08:55.504Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

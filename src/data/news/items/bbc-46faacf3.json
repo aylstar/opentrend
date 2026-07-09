@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+  "summary": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+  "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-07-08T07:53:37.000Z",
+  "id": "bbc-46faacf3",
+  "slug": "bbc-46faacf3",
+  "content": "Telstra says Wednesday's outage was 'intermittent' but affected customers across Australia\n\nA major outage at Australia's largest telecommunications company has led to cancelled train services, left thousands of customers without mobile coverage, and sparked an investigation into emergency calls that were not connected.\n\nTelstra's chief financial officer Michael Ackland apologised for the issue which began at 04:30 local time on Wednesday and affected \"some mobile calls and data services\".\n\nServices were fully restored about 12 hours later, he said. A software defect related to time-keeping servers at data centres in Sydney and Melbourne was to blame - not a cyber attack, Ackland added.\n\nAustralia's Prime Minister Anthony Albanese said the outage was \"deeply concerning\".\n\nTelstra described the outage as \"intermittent\" but acknowledged the impact had been \"national\".\n\nAckland said the telecoms company had conducted welfare checks on customers who had called emergency services during the outage, with six requiring immediate help.\n\nBack-up systems, which divert emergency calls through other mobile carriers, largely worked as they should, he added.\n\nAsked if the country could still rely on its largest mobile network, Ackland said: \"Australia can absolutely have faith in its biggest telco... we take these outages very very seriously.\n\n\"Our investment in resilience and cyber security and redundancy in our network is significant but it is a big and complex network and from time to time, issues do occur.\"\n\nCommunications Minister Anika Wells said the country's telco regulator, the Australian Communication and Media Authority, will investigate the outage.\n\nIn Victoria, all regional train services were cancelled due to the outage while some regional services in New South Wales were also disrupted. National freight services were also affected.\n\nPayment systems were also down with about 80,000 businesses using the Tyro app affected.\n\nLast September, a systems outage at Optus - the second largest telecoms company in Australia - led to three deaths after hundreds of people across more than half the country were unable to call emergency services for 13 hours.\n\nOptus was also fined after an outage in 2023 left thousands unable to call emergency services.",
+  "fetchedAt": "2026-07-09T01:07:57.032Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "澳大利亚最大电信公司发生重大停电，火车和紧急呼叫受到影响",
+  "chineseSummary": "悉尼和墨尔本数据中心的服务器是罪魁祸首，但确切原因仍不清楚。",
+  "chineseContent": "Telstra表示周三的停电是“间歇性”的，但影响了澳大利亚各地的客户\n\n澳大利亚最大的电信公司发生重大故障，导致火车服务取消，数千名乘客失去移动信号覆盖，并引发了对未接通的紧急呼叫的调查。\n\nTelstra 首席财务官迈克尔·阿克兰 (Michael Ackland) 就当地时间周三 04:30 开始的问题道歉，该问题影响了“一些移动通话和数据服务”。\n\n他说，大约 12 小时后，服务完全恢复。阿克兰补充说，罪魁祸首是与悉尼和墨尔本数据中心的计时服务器相关的软件缺陷，而不是网络攻击。\n\n澳大利亚总理安东尼·艾博内塞表示，此次停电“令人深感担忧”。\n\n澳洲电信称这次停电是“间歇性的”，但承认影响是“全国性的”。\n\n阿克兰表示，该电信公司已对停电期间拨打紧急服务电话的客户进行了福利检查，其中六人需要立即帮助。\n\n他补充说，通过其他移动运营商转移紧急呼叫的备用系统基本上发挥了应有的作用。\n\n当被问及该国是否仍然可以依赖其最大的移动网络时，阿克兰说：“澳大利亚绝对可以对其最大的电信公司充满信心......我们非常非常认真地对待这些中断。\n\n“我们在网络的弹性、网络安全和冗余方面的投资是巨大的，但这是一个庞大而复杂的网络，有时确实会出现问题。”\n\n通信部长阿尼卡·威尔斯表示，该国的电信监管机构澳大利亚通信和媒体管理局将调查此次中断事件。\n\n在维多利亚州，所有地区火车服务因停电而被取消，而新南威尔士州的一些地区火车服务也受到干扰。全国货运服务也受到影响。\n\n支付系统也出现故障，使用 Tyro 应用程序的约 80,000 家企业受到影响。\n\n去年9月，澳大利亚第二大电信公司Optus发生系统故障，导致全国一半以上的数百人在13小时内无法拨打紧急服务电话，导致三人死亡。\n\nOptus 在 2023 年的一次停电导致数千人无法呼叫紧急服务后也被罚款。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

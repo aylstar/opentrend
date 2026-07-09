@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Meta is reportedly working on smart glasses that would be recording all the time",
+  "summary": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images. However, the images […]",
+  "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+  "publishedAt": "2026-07-08T22:37:25.000Z",
+  "id": "the-verge-161c0246",
+  "slug": "the-verge-161c0246",
+  "content": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype “super sensing” always-aware smart glasses that could continuously record audio and snap photos “every few seconds,” according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images. However, the images and audio might not be directly available to the user. Here’s how the FT describes one way the glasses could use the data: > In one proposed system, raw footage and audio would not be stored by Meta or made available to the user, several people said. Instead, the metadata from that audio and images would be extracted and uploaded to the server for Meta’s AI to query, which proponents argue would have fewer privacy implications. Should these glasses or the “super sensing” features be released, they would raise significant privacy concerns. Meta is already facing a lot of scrutiny over its reported work on facial recognition features, pushback following reports of users filming women while wearing the glasses, and grappling with modders who offer paid services to remove the LED recording indicators. The company announced Tuesday that it’s rolling out an update that will disable the camera if the glasses detect that the LED has been tampered with. But currently, Meta is planning for the LED recording indicator to remain off in “super sensing” mode, the FT reports. In a July 2025 whitepaper, the company said that it would reserve the LED indicator for “active capture” scenarios where the user is saving photos or videos, and leave it off during “AI Feature” use — such as scanning a menu — to avoid users becoming too used to the indicator.&nbsp; (If the indicator was on during the “super sensing” mode, it might also be harder to know when the glasses are actually recording video.)&nbsp; Meta is also discussing if it would use the captured data for training its AI models. It may also bring the “super sensing” features to glasses it has already released, the FT says. “While we don’t comment on internal prototypes, we’re committed to getting our glasses right because they need to be loved by both people wearing them and those around them,” Meta spokesperson Dave Arnold says in a statement to The Verge. Arnold also notes that “Our approach has been to develop new technologies that will help people throughout their day, with privacy built in from the ground up.” Meta hasn’t been shy about some type of always-aware glasses being a possibility. CEO Mark Zuckerberg, in the company’s Q1 2026 earnings call, said that he was “really excited to see the glasses evolve from being able to answer questions to being able to be a personal agent that’s with you all day long, helping you remember things and achieve your goals.” In a March blog post about new Ray-Ban Meta glasses, the company wrote that “with ongoing software updates, Meta AI on glasses will transition from something you have to prompt with a question each time, to a more continuous, in-the-moment assistant that can help throughout the day.”",
+  "fetchedAt": "2026-07-09T01:07:57.046Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "据报道，Meta 正在开发可以一直录音的智能眼镜",
+  "chineseSummary": "Meta 可能是下一家制造永远在线的人工智能可穿戴设备的公司。据英国《金融时报》报道，该公司正在开发“超传感”始终感知的智能眼镜原型，该眼镜可以连续记录音频并“每隔几秒钟”拍摄照片。然后，佩戴者可以向 Meta AI 询问捕获的音频和图像。然而，图像 [...]",
+  "chineseContent": "Meta 可能是下一家制造永远在线的人工智能可穿戴设备的公司。据英国《金融时报》报道，该公司正在开发“超传感”始终感知的智能眼镜原型，该眼镜可以连续记录音频并“每隔几秒钟”拍摄照片。然后，佩戴者可以向 Meta AI 询问捕获的音频和图像。然而，图像和音频可能无法直接提供给用户。以下是英国《金融时报》对眼镜使用数据的一种方式的描述： > 一些人士表示，在一项提议的系统中，Meta 不会存储原始镜头和音频，也不会向用户提供。相反，音频和图像中的元数据将被提取并上传到服务器，供 Meta 的人工智能进行查询，支持者认为这对隐私的影响会更少。如果这些眼镜或“超传感”功能被发布，它们将引起重大的隐私问题。 Meta 已经因其在面部识别功能方面的报道而面临大量审查，用户在戴着眼镜拍摄女性的报道后遭到抵制，并与提供付费服务以移除 LED 录音指示器的改装者进行斗争。该公司周二宣布，将推出一项更新，如果眼镜检测到 LED 被篡改，将禁用摄像头。但据英国《金融时报》报道，目前，Meta 计划让 LED 录音指示灯在“超感应”模式下保持关闭状态。该公司在 2025 年 7 月的白皮书中表示，将保留 LED 指示灯用于用户保存照片或视频的“主动捕捉”场景，并在使用“AI 功能”（例如扫描菜单）期间将其关闭，以避免用户过于习惯该指示灯。  （如果该指示灯在“超感”模式下亮起，也可能更难知道什么时候",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
