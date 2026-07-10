@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f25a6db7db",
+  "slug": "weibo-第五人格",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "第五人格",
+  "summary": "微博热榜第 49 位：第五人格，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-07-10T01:08:28.084Z",
+  "fetchedAt": "2026-07-10T01:08:28.203Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

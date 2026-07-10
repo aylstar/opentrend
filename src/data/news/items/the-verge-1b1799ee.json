@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft’s carbon emissions went up 25 percent last year",
+  "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our […]",
+  "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+  "publishedAt": "2026-07-10T00:04:13.000Z",
+  "id": "the-verge-1b1799ee",
+  "slug": "the-verge-1b1799ee",
+  "content": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft’s carbon emissions increased 25 percent in 2025, totalling 34 million metric tons “without select interventions.” Microsoft says this was “driven primarily by the expansion of our datacenter infrastructure,” as well as the company’s decision last February to stop purchasing “non-additional, unbundled renewable energy certificates.”&nbsp; Several years ago, Microsoft set itself a goal to be carbon negative by 2030, meaning it will need to remove more carbon emissions than it produces. This isn’t the first time Microsoft has faced setbacks toward accomplishing that goal, as its 2024 sustainability report showed a similar rise in climate pollution. This year’s report admits that, “While AI infrastructure is driving demand for energy, water, land, and materials, sustainability solutions are not scaling fast enough to meet demand.”&nbsp; Google similarly reported a 25 percent spike in its supply chain emissions in its 2026 sustainability report, with Amazon reporting a slightly lower 16 percent increase. In June, Amazon also reported that its data centers used 2.5 billion gallons of water in 2025, which it claims is less than Microsoft used.",
+  "fetchedAt": "2026-07-10T01:06:45.254Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软去年的碳排放量增加了 25%",
+  "chineseSummary": "根据其 2026 年可持续发展报告，微软可能再次难以实现自己的气候目标。据 GeekWire 报道，报告指出，“如果不采取选择性干预措施”，微软的碳排放量到 2025 年将增加 25%，总计 3400 万吨。微软表示，这“主要是由我们的 [...] 扩张推动的”",
+  "chineseContent": "根据其 2026 年可持续发展报告，微软可能再次难以实现自己的气候目标。据 GeekWire 报道，该报告指出，“在不采取选择性干预措施的情况下”，微软的碳排放量到 2025 年将增加 25%，总计 3400 万吨。微软表示，这“主要是由于我们数据中心基础设施的扩展”，以及该公司去年二月决定停止购买“非额外的、非捆绑式的可再生能源证书”。  几年前，微软为自己设定了到 2030 年实现负碳排放的目标，这意味着它需要消除的碳排放量要多于其产生的碳排放量。这并不是微软第一次在实现这一目标方面遇到挫折，因为其 2024 年可持续发展报告显示，气候污染也出现了类似的上升。今年的报告承认，“虽然人工智能基础设施正在推动对能源、水、土地和材料的需求，但可持续解决方案的扩展速度不够快，无法满足需求。”  谷歌在其 2026 年可持续发展报告中也报告称，其供应链排放量激增了 25%，而亚马逊报告的增幅略低，为 16%。 6 月，亚马逊还报告称，其数据中心到 2025 年将使用 25 亿加仑的水，据称低于微软的用水量。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

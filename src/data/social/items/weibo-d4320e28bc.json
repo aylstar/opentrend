@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d4320e28bc",
+  "slug": "weibo-百花杀热度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "百花杀热度",
+  "summary": "微博热榜第 47 位：百花杀热度，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E6%9D%80%E7%83%AD%E5%BA%A6%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-07-10T01:08:28.084Z",
+  "fetchedAt": "2026-07-10T01:08:28.203Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

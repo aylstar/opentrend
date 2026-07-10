@@ -1,0 +1,21 @@
+{
+  "id": "weibo-887186d029",
+  "slug": "weibo-薛之谦北京演唱会",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "薛之谦北京演唱会",
+  "summary": "微博热榜第 28 位：薛之谦北京演唱会，当前热度为 46万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+  "hotValue": "46万热度",
+  "author": "",
+  "publishedAt": "2026-07-10T01:08:28.084Z",
+  "fetchedAt": "2026-07-10T01:08:28.203Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

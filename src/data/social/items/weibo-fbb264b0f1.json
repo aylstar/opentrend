@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fbb264b0f1",
+  "slug": "weibo-姆巴佩受伤",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "姆巴佩受伤",
+  "summary": "微博热榜第 1 位：姆巴佩受伤，当前热度为 253万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%97%E4%BC%A4%23",
+  "hotValue": "253万热度",
+  "author": "",
+  "publishedAt": "2026-07-10T01:08:28.084Z",
+  "fetchedAt": "2026-07-10T01:08:28.203Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

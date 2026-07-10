@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0d1d00cbde",
+  "slug": "weibo-台风巴威又改路线了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "台风巴威又改路线了",
+  "summary": "微博热榜第 2 位：台风巴威又改路线了，当前热度为 222万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%88%E6%94%B9%E8%B7%AF%E7%BA%BF%E4%BA%86%23",
+  "hotValue": "222万热度",
+  "author": "",
+  "publishedAt": "2026-07-10T01:08:28.084Z",
+  "fetchedAt": "2026-07-10T01:08:28.203Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

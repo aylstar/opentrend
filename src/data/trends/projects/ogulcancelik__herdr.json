@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/ogulcancelik/herdr",
   "docsUrl": "https://herdr.dev",
-  "stars": 14392,
-  "forks": 825,
-  "openIssues": 43,
+  "stars": 14824,
+  "forks": 870,
+  "openIssues": 54,
   "license": "NOASSERTION",
-  "pushedAt": "2026-07-09T00:36:39Z",
-  "updatedAt": "2026-07-09T01:04:39Z",
+  "pushedAt": "2026-07-09T22:45:00Z",
+  "updatedAt": "2026-07-10T01:03:42Z",
   "createdAt": "2026-03-27T17:54:33Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# herdr\n\n\n<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"herdr\" width=\"100\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://herdr.dev\">herdr.dev</a> · <a href=\"#install\">install</a> · <a href=\"https://herdr.dev/docs/quick-start/\">quick start</a> · <a href=\"https://herdr.dev/docs/\">docs</a> · <a href=\"#sponsors\">sponsors</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-AGPL--3.0-666666?labelColor=333333\" alt=\"AGPL 3.0 license\" /></a>\n  <a href=\"https://github.com/ogulcancelik/herdr/releases\"><img src=\"https://img.shields.io/github/downloads/ogulcancelik/herdr/total?labelColor=333333&color=666666\" alt=\"total GitHub release downloads\" /></a>\n  <a href=\"https://github.com/ogulcancelik/herdr/stargazers\"><img src=\"https://img.shields.io/github/stars/ogulcancelik/herdr?labelColor=333333&color=666666&logo=github\" alt=\"GitHub stars\" /></a>\n  <a href=\"https://github.com/ogulcancelik/herdr/releases/latest\"><img src=\"https://img.shields.io/github/v/release/ogulcancelik/herdr?label=release&labelColor=333333&color=666666\" alt=\"latest stable release\" /></a>\n  <a href=\"https://formulae.brew.sh/formula/herdr\"><img src=\"https://img.shields.io/homebrew/v/herdr?label=homebrew&labelColor=333333&color=666666\" alt=\"Homebrew version\" /></a>\n  <a href=\"https://x.com/herdrdev\"><img src=\"https://img.shields.io/badge/follow-%40herdrdev-000000?logo=x&logoColor=white\" alt=\"follow @herdrdev on X\" /></a>\n</p>\n\n---\n\nhttps://github.com/user-attachments/assets/043ec09f-4bdd-41d5-aee0-8fda6b83e267\n\n**agent multiplexer that lives in your terminal.**\n\n- **every agent at a glance** — blocked, working, done. real terminal views, not a wrapped interpretation.\n- **detach, agents keep running** — reattach from any terminal, or over ssh. sessions survive restarts.\n- **agents can use herdr too** — a pure socket api: agents spawn panes, read output, wait on each other. [agent skill →](https://herdr.dev/docs/agent-skill/)\n- **keyboard and mouse, both first-class** — tmux-style prefix keys *and* click, drag, split. pick per moment, not per tool.\n- **plugins** — extend panes and workflows. [browse the marketplace →](https://herdr.dev/plugins/)\n- **one rust binary, no electron** — runs in whatever terminal you already use.\n\n---\n\n## install\n\n```bash\ncurl -fsSL https://herdr.dev/install.sh | sh\n```\n\nor `brew install herdr` · `mise use -g herdr` · windows beta: `powershell -ExecutionPolicy Bypass -c \"irm https://herdr.dev/install.ps1 | iex\"` · [binaries](https://github.com/ogulcancelik/herdr/releases)\n\nthen start it where the work lives:\n\n```bash\nherdr\n```\n\nrun your agents, split panes, walk away. `ctrl+b q` detaches, `herdr` reattaches. [quick start →](https://herdr.dev/docs/quick-start/)\n\n## docs\n\neverything lives at [herdr.dev/docs](https://herdr.dev/docs/): [quick start](https://herdr.dev/docs/quick-start/) · [concepts](https://herdr.dev/docs/concepts/) · [supported agents](https://herdr.dev/docs/agents/) · [keyboard](https://herdr.dev/docs/ke",
-  "generatedAt": "2026-07-09T01:07:40.961Z",
+  "generatedAt": "2026-07-10T01:06:24.884Z",
   "analysis": {
     "oneLine": "herdr 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
     "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
     "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
     "detailParagraphs": [
       "herdr 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
-      "如果把它放进实际使用场景，herdr 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 14,392，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，herdr 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 14,824，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google will now tell you if an ad was made with AI",
+  "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+  "publishedAt": "2026-07-09T20:11:38.000Z",
+  "id": "the-verge-84db2496",
+  "slug": "the-verge-84db2496",
+  "content": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google’s “My Ad Center,” as reported earlier by TechCrunch. The update, announced on Thursday, adds a “created or edited with AI” label under the “how this ad was made” tab. Users can find it by tapping the three dots or info button on ads, which pulls up the same panel where you can also block or report ads. Google says it will automatically apply the AI label to any ads made with its own generative AI advertising tools, but AI ads made elsewhere will need to have the label applied manually. In some regions, Google’s new AI labels “may also appear directly on the ad,” either automatically or whenever an advertiser manually discloses that their ad was made with AI.&nbsp; Meta has a similar “AI info” label in the “About this ad” panel on ads on its platforms. Google also previously introduced a disclosure for “synthetic or digitally altered content” in political ads in 2024. Earlier this year, Google also expanded access to SynthID and C2PA content labels, which can be used to spot deepfake content.",
+  "fetchedAt": "2026-07-10T01:06:45.254Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "视频"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌现在会告诉你广告是否是用 AI 制作的",
+  "chineseSummary": "正如 TechCrunch 先前报道的那样，您可以在 Google 的“我的广告中心”的新部分中查看 Google 搜索、Google Discover 和 YouTube 上的广告是否是使用 AI 制作或编辑的。周四宣布的更新在“此广告的制作方式”选项卡下添加了“使用人工智能创建或编辑”标签。用户可以[...]",
+  "chineseContent": "正如 TechCrunch 先前报道的那样，您可以从 Google 的“我的广告中心”的新部分中查看 Google 搜索、Google Discover 和 YouTube 上的广告是否是使用 AI 制作或编辑的。周四宣布的更新在“此广告的制作方式”选项卡下添加了“使用人工智能创建或编辑”标签。用户可以通过点击广告上的三个点或信息按钮来找到它，这会弹出相同的面板，您也可以在其中阻止或举报广告。谷歌表示，它将自动将人工智能标签应用于使用自己的生成式人工智能广告工具制作的任何广告，但其他地方制作的人工智能广告将需要手动应用标签。在某些地区，谷歌的新人工智能标签“也可能直接出现在广告上”，要么自动出现，要么每当广告商手动披露他们的广告是用人工智能制作的时。  Meta 在其平台广告的“关于此广告”面板中也有类似的“AI 信息”标签。谷歌此前还于 2024 年对政治广告中的“合成或数字修改内容”进行了披露。今年早些时候，谷歌还扩大了对 SynthID 和 C2PA 内容标签的访问范围，这些标签可用于发现 Deepfake 内容。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Building a real-time AI tutor for 5-year-olds",
+  "summary": "32 points · 45 comments",
+  "content": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right. Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow. Effective teaching isn't just about answering a child's question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right. Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community.",
+  "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+  "publishedAt": "2026-07-09T20:51:06.000Z",
+  "points": 32,
+  "id": "hacker-news-638ca820",
+  "slug": "hacker-news-638ca820",
+  "fetchedAt": "2026-07-10T01:06:45.251Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 14,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "为 5 岁儿童打造实时 AI 导师",
+  "chineseSummary": "32 分 · 45 条评论",
+  "chineseContent": "嘿，HN！在过去的一年里，我们花了大部分时间来打造一个人工智能导师，教授 4-9 岁的孩子阅读、数学、ESL 等知识。让人工智能导师有效地教导孩子是一项非常艰巨的技术挑战，这需要正确的底层架构。我们的导师实时指导用户体验并即时做出复杂的决策。以对话速度完成这两项工作需要我们更换标准的工具使用循环。我们构建了自己的导师工具，它利用流解释器来执行操作，而异步计划器模型则在对话之前进行推理并进行调用来推动孩子的学习。最重要的是，我们开发了一个安全系统，可以检查每个转弯，而不会导致活动和对话流程中断。有效的教学不仅仅是快速回答孩子的问题，而是在正确的时刻采取正确的行动。人工智能也将成为塑造这一代孩子如何学习阅读和思考的不可或缺的一部分，负责任地解决这个问题意味着正确的设计。很高兴回答问题并好奇大家的想法，包括批评性反馈，我们长期以来一直致力于解决这个问题，并且很乐意听取 HN 社区的意见。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
