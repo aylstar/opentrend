@@ -1,0 +1,21 @@
+{
+  "id": "weibo-89206d2edc",
+  "slug": "weibo-金特务",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "金特务",
+  "summary": "微博热榜第 28 位：金特务，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%B9%E5%8A%A1%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

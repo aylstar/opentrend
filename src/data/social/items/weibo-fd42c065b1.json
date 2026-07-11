@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fd42c065b1",
+  "slug": "weibo-北京全市已转移近10万人",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "北京全市已转移近10万人",
+  "summary": "微博热榜第 17 位：北京全市已转移近10万人，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%A8%E5%B8%82%E5%B7%B2%E8%BD%AC%E7%A7%BB%E8%BF%9110%E4%B8%87%E4%BA%BA%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

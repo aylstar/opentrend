@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e5eb3f17f",
+  "slug": "weibo-库尔图瓦哭了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "库尔图瓦哭了",
+  "summary": "微博热榜第 39 位：库尔图瓦哭了，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%B0%94%E5%9B%BE%E7%93%A6%E5%93%AD%E4%BA%86%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

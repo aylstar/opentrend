@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "War Atlas: An interactive cartography of every named war in human history",
+  "summary": "109 points · 53 comments",
+  "content": "Explore 5,000 years of conflict on an interactive world map. 10,584 wars, 427 empire borders with shifting frontiers, casualty estimates with sources.",
+  "url": "https://waratlas.org",
+  "publishedAt": "2026-07-10T17:52:48.000Z",
+  "points": 109,
+  "id": "hacker-news-f7600e10",
+  "slug": "hacker-news-f7600e10",
+  "fetchedAt": "2026-07-11T00:55:01.246Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "战争地图集：人类历史上每一次命名战争的交互式地图",
+  "chineseSummary": "109 分 · 53 条评论",
+  "chineseContent": "在交互式世界地图上探索 5000 年的冲突。 10,584 场战争，427 个帝国边界，边界不断变化，伤亡估计与来源。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

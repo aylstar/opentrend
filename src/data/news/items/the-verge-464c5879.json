@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+  "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign company, according to reports from The […]",
+  "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+  "publishedAt": "2026-07-10T17:31:35.000Z",
+  "id": "the-verge-464c5879",
+  "slug": "the-verge-464c5879",
+  "content": "As the AI boom boosts demand for RAM, SK Hynix — one of the world’s biggest suppliers of memory chips — launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba’s record as the largest debut of a foreign company, according to reports from The Associated Press and CNN. After reaching a $1 trillion valuation in May, SK Hynix briefly overtook Samsung as South Korea’s most valuable company. SK Hynix is one of three major companies benefitting from a surge in demand for DRAM and high-bandwidth memory (HBM). These components have become essential for the widespread buildout of AI data centers, as tech giants like OpenAI, Microsoft, and Google use DRAM for the servers to power their AI models, while HBM comes packaged inside high-end AI chips like Nvidia’s Blackwell Ultra. As of June 2026, SK Hynix makes up 29 percent of the global DRAM market, with Samsung at 38 percent and Micron at 22 percent, according to data from Counterpoint. The three giants still can’t keep up with memory demand as they continue to prioritize high-paying AI customers over device makers who need the chips for phones, computers, consoles, and more. SK Group chairman Chey Tae-won said in June that the company plans to ramp up its memory chip capacity over the next five years to address a shortage that could last until 2030, Bloomberg reports.",
+  "fetchedAt": "2026-07-11T00:55:01.250Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "财经",
+    "产品"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "英伟达最大的 RAM 供应商刚刚在华尔街首次亮相，市值达数万亿美元",
+  "chineseSummary": "随着人工智能的繁荣推动了对 RAM 的需求，全球最大的存储芯片供应商之一 SK 海力士于周五在华尔街上市。据 The […] 报道，这家韩国芯片制造商开盘价为每股 170 美元，融资 265 亿美元，超越阿里巴巴成为外国公司上市规模最大的纪录。",
+  "chineseContent": "随着人工智能的繁荣推动了对 RAM 的需求，全球最大的存储芯片供应商之一 SK 海力士于周五在华尔街上市。据美联社和 CNN 报道，这家韩国芯片制造商开盘价为每股 170 美元，融资 265 亿美元，超过阿里巴巴创下的外国公司上市规模最大的纪录。 5 月份估值达到 1 万亿美元后，SK 海力士短暂超越三星，成为韩国最有价值的公司。 SK 海力士是受益于 DRAM 和高带宽内存 (HBM) 需求激增的三大公司之一。这些组件对于人工智能数据中心的广泛建设至关重要，因为 OpenAI、微软和谷歌等科技巨头使用 DRAM 作为服务器来为其人工智能模型提供动力，而 HBM 则封装在 Nvidia 的 Blackwell Ultra 等高端人工智能芯片中。根据 Counterpoint 的数据，截至 2026 年 6 月，SK 海力士占全球 DRAM 市场的 29%，三星占 38%，美光占 22%。这三大巨头仍然无法满足内存需求，因为他们继续优先考虑高薪人工智能客户，而不是需要手机、电脑、游戏机等芯片的设备制造商。据彭博社报道，SK 集团董事长 Chey Tae-won 在 6 月表示，该公司计划在未来五年内提高存储芯片产能，以解决可能持续到 2030 年的短缺问题。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

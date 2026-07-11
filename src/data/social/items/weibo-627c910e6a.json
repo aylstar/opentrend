@@ -1,0 +1,21 @@
+{
+  "id": "weibo-627c910e6a",
+  "slug": "weibo-台风巴威实时路径",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 31,
+  "title": "台风巴威实时路径",
+  "summary": "微博热榜第 31 位：台风巴威实时路径，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

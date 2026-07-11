@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Meta pulls new AI image feature after days of backlash",
+  "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+  "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-07-11T00:17:54.000Z",
+  "id": "bbc-8ddfd0ba",
+  "slug": "bbc-8ddfd0ba",
+  "content": "Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram.\n\nThe feature was part of a broad rollout of Muse Image, a new AI image generation tool Meta released on Tuesday as part of Meta AI, the company’s chatbot.\n\nIt allowed Meta AI users to tag public-facing accounts on Instagram and quickly use content on those accounts to create AI-generated or altered content and images.\n\nThe feature quickly sparked blowback . So much so that Meta has now admitted it “missed the mark, so it’s no longer available”.\n\n“Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,” Meta added in its decision to pull the feature. “We've heard the feedback.”\n\nWhen Meta announced the feature days ago, it said it was limited to Instagram, but more AI features and integrations were planned for WhatsApp, Facebook and Messenger.\n\nIt also has an AI video tool in development.",
+  "fetchedAt": "2026-07-11T00:55:01.236Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "经过几天的强烈反对后，Meta 取消了新的 AI 图像功能",
+  "chineseSummary": "Meta 本周发布了一项人工智能功能，可以让人们改变 Instagram 内容，但很快就引起了反弹。",
+  "chineseContent": "Meta 突然取消了一项新功能，该功能允许人们使用其人工智能 (AI) 工具根据 Instagram 上的用户内容制作虚假图像。\n\n该功能是 Muse Image 广泛推出的一部分，Muse Image 是周二发布的一款新的 AI 图像生成工具 Meta，作为该公司聊天机器人 Meta AI 的一部分。\n\n它允许 Meta AI 用户在 Instagram 上标记面向公众的帐户，并快速使用这些帐户上的内容来创建人工智能生成或更改的内容和图像。\n\n这一功能很快引发了反弹。以至于 Meta 现在承认它“没有达到目标，所以它不再可用”。\n\nMeta 在决定取消该功能时补充道：“我们的目的是提供一个有用的创意工具，让人们控制是否可以通过这种方式引用他们的公共内容。” “我们已经听到了反馈。”\n\n当 Meta 几天前宣布该功能时，它表示该功能仅限于 Instagram，但计划为 WhatsApp、Facebook 和 Messenger 提供更多人工智能功能和集成。\n\n它还正在开发一个人工智能视频工具。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

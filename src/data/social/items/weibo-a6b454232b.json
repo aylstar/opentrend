@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a6b454232b",
+  "slug": "weibo-亚马尔状态",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "亚马尔状态",
+  "summary": "微博热榜第 34 位：亚马尔状态，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

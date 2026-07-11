@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b1fee9c8bc",
+  "slug": "weibo-巴威再度增强",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "巴威再度增强",
+  "summary": "微博热榜第 14 位：巴威再度增强，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

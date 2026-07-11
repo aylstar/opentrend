@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aeffedaf03",
+  "slug": "weibo-周星驰口碑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "周星驰口碑",
+  "summary": "微博热榜第 7 位：周星驰口碑，当前热度为 89万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%A3%E7%A2%91%23",
+  "hotValue": "89万热度",
+  "author": "",
+  "publishedAt": "2026-07-11T00:52:45.882Z",
+  "fetchedAt": "2026-07-11T00:56:17.279Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
