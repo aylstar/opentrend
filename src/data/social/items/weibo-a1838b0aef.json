@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a1838b0aef",
+  "slug": "weibo-巴威",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "巴威",
+  "summary": "微博热榜第 48 位：巴威，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.816Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

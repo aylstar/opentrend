@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e22278f2ac",
+  "slug": "weibo-台风巴威二次登陆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "台风巴威二次登陆",
+  "summary": "微博热榜第 4 位：台风巴威二次登陆，当前热度为 250万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86%23",
+  "hotValue": "250万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.815Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

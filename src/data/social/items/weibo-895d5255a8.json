@@ -1,0 +1,21 @@
+{
+  "id": "weibo-895d5255a8",
+  "slug": "weibo-上海台风",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "上海台风",
+  "summary": "微博热榜第 21 位：上海台风，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.816Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

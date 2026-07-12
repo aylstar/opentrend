@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0917711747",
+  "slug": "weibo-挪威vs英格兰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "挪威vs英格兰",
+  "summary": "微博热榜第 1 位：挪威vs英格兰，当前热度为 934万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%81vs%E8%8B%B1%E6%A0%BC%E5%85%B0%23",
+  "hotValue": "934万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.815Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

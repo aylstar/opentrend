@@ -1,0 +1,21 @@
+{
+  "id": "weibo-42d69c00fa",
+  "slug": "weibo-贝林厄姆梅开二度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "贝林厄姆梅开二度",
+  "summary": "微博热榜第 20 位：贝林厄姆梅开二度，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.816Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

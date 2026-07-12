@@ -7,19 +7,19 @@
   "publishedAt": "2026-07-09T15:01:28.000Z",
   "id": "product-hunt-f13fa2",
   "slug": "product-hunt-f13fa2",
-  "content": "Multimodal reasoning model built for agentic tasks Discussion | Link",
-  "fetchedAt": "2026-07-11T00:55:01.248Z",
+  "content": "The latest model from Meta Superintelligence Labs and a significant upgrade from Muse Spark. Muse Spark 1.1 is a multimodal reasoning model built for agentic tasks, with major gains in tool and computer use, coding, and multimodal understanding.",
+  "fetchedAt": "2026-07-12T00:15:06.718Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
+  "rank": 9,
+  "contentStatus": "article-extracted",
   "chineseTitle": "Meta AI 的 Muse Spark 1.1",
   "chineseSummary": "为代理任务构建的多模态推理模型关联",
-  "chineseContent": "为代理任务构建的多模态推理模型关联",
+  "chineseContent": "Meta Superintelligence Labs 的最新模型以及 Muse Spark 的重大升级。 Muse Spark 1.1 是一个为代理任务构建的多模态推理模型，在工具和计算机使用、编码和多模态理解方面取得了重大进展。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

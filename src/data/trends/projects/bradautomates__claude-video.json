@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/bradautomates/claude-video",
   "docsUrl": "",
-  "stars": 7196,
-  "forks": 804,
-  "openIssues": 43,
+  "stars": 7552,
+  "forks": 844,
+  "openIssues": 45,
   "license": "MIT",
   "pushedAt": "2026-07-01T01:26:49Z",
-  "updatedAt": "2026-07-11T00:51:49Z",
+  "updatedAt": "2026-07-12T00:10:36Z",
   "createdAt": "2026-04-24T04:40:43Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# /watch\n\n**Give Claude the ability to watch any video.**\n\nClaude Code (recommended — auto-updates via marketplace):\n```\n/plugin marketplace add bradautomates/claude-video\n/plugin install watch@claude-video\n```\n\nCodex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts:\n```bash\nnpx skills add bradautomates/claude-video -g\n```\n(`-g` installs globally for your user, available across all projects. Drop it to scope per-project.)\n\nMore install options (claude.ai web, manual) in the [Install](#install) section below.\n\nZero config to start — `yt-dlp` and `ffmpeg` install on first run via `brew` on macOS (Linux/Windows print exact commands). Captions cover most public videos for free. Whisper API key is only needed when a video has no captions.\n\n---\n\nClaude can read a webpage, run a script, browse a repo. What it can't do, out of the box, is *watch a video*. You paste a YouTube link and it has to either guess from the title or pull a transcript that's missing 90% of what's on screen.\n\nWith Claude Video `/watch` you can paste a URL or a local path, ask a question, and Claude fetches captions first, downloads only what it needs, extracts frames (scene-aware, or fast keyframes at `efficient` detail), pulls a timestamped transcript (free captions when available, Whisper API as fallback), and `Read`s every frame as an image. By the time it answers, it has *seen* the video and *heard* the audio.\n\n```\n/watch https://youtu.be/dQw4w9WgXcQ what happens at the 30 second mark?\n```\n\n## What people actually use it for\n\n**Analyze someone else's content.** `/watch https://youtu.be/<viral-video> what hook did they open with?` Claude looks at the first frames, reads the opening transcript, breaks down the structure. Same for ad creative, competitor launches, podcast intros, anything where the *how* matters as much as the *what*.\n\n**Diagnose a bug from a video.** Someone sends you a screen recording of something broken. `/watch bug-repro.mov what's going wrong?` Claude watches the recording, finds the frame where the issue appears, describes what's on screen, often catches the cause without you ever opening the file.\n\n**Summarize a video.** `/watch https://youtu.be/<long-thing> summarize this` does the obvious thing — pulls the structure, the key moments, what was actually said and shown. Faster than watching at 2x.\n\n**Cut the hype out of an update video.** `/watch https://youtu.be/<launch-video> what's actually new — skip the hype` Strip a \"game-changer\" feature drop down to the few things that matter, so you get the substance without ten minutes of intro and overselling.\n\n**Turn a playlist into notes.** `/watch https://youtu.be/<video> summarize this to a note` Run it across a series and file a per-video summary, so a channel or course becomes a searchable set of notes instead of hours you have to sit through.\n\n## How it works\n\n1. **You paste a video and a question.** URL (anything yt-dlp supports — YouTube, Loom, TikTok, X, Instagram",
-  "generatedAt": "2026-07-11T00:54:44.334Z",
+  "generatedAt": "2026-07-12T00:14:52.968Z",
   "analysis": {
     "oneLine": "claude-video 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "claude-video 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，claude-video 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 7,196，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，claude-video 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 7,552，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

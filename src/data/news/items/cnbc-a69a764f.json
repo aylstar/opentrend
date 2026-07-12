@@ -8,15 +8,15 @@
   "id": "cnbc-a69a764f",
   "slug": "cnbc-a69a764f",
   "content": "Stablecoin issuer Circle surged after the U.S. Office of the Comptroller of the Currency, or OCC, granted it approval Friday to operate as a trust bank, the company said.\n\nShares of the company were off their earlier highs but ended the day up nearly 5%.\n\nThe approval gives the company the ability to manage reserves directly for its regulated stablecoins, primarily the USDC stablecoin, which has more than $73 billion in circulation. The new bank will operate under the name Circle National Trust. Previously, Circle needed third-party banks and custodians to hold the cash and Treasury assets backing USDC.\n\nThe charter does not greenlight Circle to operate as a commercial bank that takes deposits and makes loans.\n\nThe news reflects a broader trend in the crypto industry, where companies are trying to make a big shift from being financial applications to financial infrastructure. Recent OCC actions have included approvals or applications from Coinbase , BitGo , Fidelity Digital Assets, Ripple and Paxos, reflecting the race to own more of the regulated financial stack.\n\nThe trust structure can also simplify regulatory requirements for international counterparties, Dante Disparte, Circle's chief strategy officer, told CNBC.\n\n\"We think of ourselves as a pioneer in ensuring that — even from the very earliest days of stablecoins entering the stream of commerce — they ought to follow the norms for trust, transparency, safety, financial crime compliance and the rest,\" he said. \"Today's announcement codifies that at the federal level.\"\n\nThe charter also gives Circle a national bank regulator, rather than being subject to state-based regulation – a major pain point for fast-paced startups playing in the heavily regulated financial services industry. Instead of a single rulebook, companies regularly face 50 slightly different ones that not only can slow growth but also increase costs.\n\nThe stablecoin race has been heating up since the passing of the GENIUS Act nearly a year ago, which established a federal framework for payment stablecoins. Under that law, large stablecoin issuers like Circle are required to obtain an OCC charter.\n\nAs a result, traditional financial firms increasingly want to issue their own stablecoins – which presents a growing competitive challenge for USDC – because they can capture payment flows, deepen customer relationships and build financial services on top of programmable digital dollars rather than relying on third-party issuers like Circle.\n\nThe OCC charter approval comes on the same day global financial messaging network Swift launched a blockchain consortium with 17 banks , including Citi and HSBC, in a 24/7 payments push to help it compete in the stablecoin race.\n\nAlso in June, a consortium of more than 140 companies — including Blackrock, Coinbase, Mastercard, Stripe and Visa — joined the new Open USD (OUSD) stablecoin effort , where reserve yields are distributed to participating partners rather than a single issuer.\n\nThe OCC did not responded to a CNBC request for comment.",
-  "fetchedAt": "2026-07-11T00:55:01.251Z",
-  "score": 90,
+  "fetchedAt": "2026-07-12T00:15:06.720Z",
+  "score": 84,
   "sourceWeight": 88,
   "tags": [
     "科技",
     "全球",
     "金融"
   ],
-  "rank": 12,
+  "rank": 27,
   "contentStatus": "article-extracted",
   "chineseTitle": "稳定币发行人 Circle 刚刚获得银行运营许可。股价上涨5%",
   "chineseSummary": "在美国货币监理署批准其作为信托银行运营后，稳定币发行商 Circle 在盘前交易中飙升。",

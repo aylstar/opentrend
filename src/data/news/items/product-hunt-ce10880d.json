@@ -1,0 +1,27 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Effects SDK",
+  "summary": "AI video & audio effects SDK for real-time apps Discussion | Link",
+  "url": "https://www.producthunt.com/products/effects-sdk",
+  "publishedAt": "2026-06-23T06:17:54.000Z",
+  "id": "product-hunt-ce10880d",
+  "slug": "product-hunt-ce10880d",
+  "content": "Effects SDK helps developers add production-ready AI video and audio effects to web, desktop, and mobile apps. Add background blur, virtual backgrounds, smart framing, lighting correction, beautification, overlays, avatars, and real-time noise suppression — all running client-side, without sending video or audio to our servers.",
+  "fetchedAt": "2026-07-12T00:15:06.717Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "视频"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "效果SDK",
+  "chineseSummary": "适用于实时应用程序的 AI 视频和音频效果 SDK 讨论 |关联",
+  "chineseContent": "Effects SDK 可帮助开发人员将可用于生产的 AI 视频和音频效果添加到 Web、桌面和移动应用程序中。 Add background blur, virtual backgrounds, smart framing, lighting correction, beautification, overlays, avatars, and real-time noise suppression — all running client-side, without sending video or audio to our servers.",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

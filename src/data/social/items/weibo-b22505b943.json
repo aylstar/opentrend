@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b22505b943",
+  "slug": "weibo-挪威进球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "挪威进球",
+  "summary": "微博热榜第 45 位：挪威进球，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%81%E8%BF%9B%E7%90%83%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.816Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

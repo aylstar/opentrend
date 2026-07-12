@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec43de6a67",
+  "slug": "weibo-贝林厄姆破门",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "贝林厄姆破门",
+  "summary": "微博热榜第 36 位：贝林厄姆破门，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E7%A0%B4%E9%97%A8%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.816Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

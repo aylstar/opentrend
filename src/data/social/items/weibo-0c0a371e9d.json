@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0c0a371e9d",
+  "slug": "weibo-贝林厄姆大场面先生",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "贝林厄姆大场面先生",
+  "summary": "微博热榜第 44 位：贝林厄姆大场面先生，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E5%A4%A7%E5%9C%BA%E9%9D%A2%E5%85%88%E7%94%9F%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-07-12T00:08:13.366Z",
+  "fetchedAt": "2026-07-12T00:15:53.816Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

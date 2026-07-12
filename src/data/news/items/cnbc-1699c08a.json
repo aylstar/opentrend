@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+  "summary": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+  "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+  "publishedAt": "2026-07-11T16:25:58.000Z",
+  "id": "cnbc-1699c08a",
+  "slug": "cnbc-1699c08a",
+  "content": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+  "fetchedAt": "2026-07-12T00:15:06.720Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "波动较大的 AI 交易走高，但上周油价让华尔街紧张不安",
+  "chineseSummary": "芯片股经历了疯狂但强劲的一周。 Meta 带领我们的投资组合走高。",
+  "chineseContent": "芯片股经历了疯狂但强劲的一周。 Meta 带领我们的投资组合走高。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
