@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+  "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details […]",
+  "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+  "publishedAt": "2026-07-12T16:27:06.000Z",
+  "id": "the-verge-e6548a1a",
+  "slug": "the-verge-e6548a1a",
+  "content": "Apple’s self-driving car program never really got off the ground, but it may have been what made the company’s chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple’s on-device AI processing. The Neural Engine made its debut with the iPhone X and the A11 Bionic. In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and augmented reality features. But by laying the groundwork for on-device AI processing, Apple established itself as an early leader by bringing the Neural Engine to desktops with the M-series chips. While Apple’s AI software efforts have lagged behind the rest of the industry, its hardware has been impressive. It’s also what has allowed Apple to tout its privacy features, since less data is sent to the cloud. Apple is making its AI hardware a cornerstone of its strategy going forward. According to Gurman, the company is skipping the Pro, Max, and Ultra versions of its upcoming M6 chip. Instead, it’s accelerating development of the M7, which should arrive in the first half of 2027 with significant Neural Engine upgrades. The M7 Ultra is expected to be the basis for a new server product from Apple as well, with support for up to 1.5TB of RAM.",
+  "fetchedAt": "2026-07-13T00:59:58.827Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果失败的自动驾驶汽车计划留下了强大的 AI 芯片的遗产",
+  "chineseSummary": "苹果的自动驾驶汽车计划从未真正启动，但这可能是该公司芯片成为强大人工智能执行者的原因。在自动驾驶平台开发的早期，苹果就意识到它需要强大的设备端人工智能处理能力。虽然汽车处理器从未完成，正如马克·古尔曼（Mark Gurman）详细介绍的那样 [...]",
+  "chineseContent": "Apple’s self-driving car program never really got off the ground, but it may have been what made the company’s chips the powerful AI performers they are.在自动驾驶平台开发的早期，苹果就意识到它需要强大的设备端人工智能处理能力。 While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple’s on-device AI processing.神经引擎在 iPhone X 和 A11 Bionic 上首次亮相。 In those early days, it was primarily used for computer vision, powering FaceID, Animoji, and augmented reality features. But by laying the groundwork for on-device AI processing, Apple established itself as an early leader by bringing the Neural Engine to desktops with the M-series chips. While Apple’s AI software efforts have lagged behind the rest of the industry, its hardware has been impressive. It’s also what has allowed Apple to tout its privacy features, since less data is sent to the cloud. Apple is making its AI hardware a cornerstone of its strategy going forward. According to Gurman, the company is skipping the Pro, Max, and Ultra versions of its upcoming M6 chip. Instead, it’s accelerating development of the M7, which should arrive in the first half of 2027 with significant Neural Engine upgrades. The M7 Ultra is expected to be the basis for a new server product from Apple as well, with support for up to 1.5TB of RAM.",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

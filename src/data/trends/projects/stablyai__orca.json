@@ -8,15 +8,16 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/stablyai/orca",
   "docsUrl": "https://onOrca.dev",
-  "stars": 16365,
-  "forks": 1279,
-  "openIssues": 1239,
+  "stars": 16988,
+  "forks": 1332,
+  "openIssues": 1274,
   "license": "MIT",
-  "pushedAt": "2026-07-12T00:12:10Z",
-  "updatedAt": "2026-07-12T00:05:49Z",
+  "pushedAt": "2026-07-13T00:56:50Z",
+  "updatedAt": "2026-07-13T00:58:20Z",
   "createdAt": "2026-03-17T03:28:57Z",
   "archived": false,
   "trendWindows": [
+    "weekly",
     "monthly"
   ],
   "tags": [
@@ -27,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1 align=\"center\">\n  <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca\n</h1>\n\n<p align=\"center\">\n  <a href=\"https://github.com/stablyai/orca/stargazers\"><img src=\"https://badgen.net/github/stars/stablyai/orca?label=%E2%98%85\" alt=\"GitHub stars\" /></a>\n  <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a>\n  <img src=\"https://badgen.net/github/license/stablyai/orca\" alt=\"License\" />\n  <a href=\"https://discord.gg/fzjDKHxv8Q\"><img src=\"https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white\" alt=\"Join the Orca Discord\" /></a>\n  <a href=\"https://x.com/orca_build\"><img src=\"https://img.shields.io/badge/X-000000?logo=x&logoColor=white\" alt=\"Follow Orca on X\" /></a>\n  <img src=\"https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux-4493F8?style=flat-square\" alt=\"Supported platforms: macOS, Windows, and Linux\" />\n</p>\n\n<p align=\"center\">\n  <sub><a href=\"docs/readme/README.es.md\">Español</a> · <a href=\"docs/readme/README.pt.md\">Português</a> · <a href=\"docs/readme/README.zh-CN.md\">中文</a> · <a href=\"docs/readme/README.ja.md\">日本語</a> · <a href=\"docs/readme/README.ko.md\">한국어</a></sub>\n</p>\n\n<p align=\"center\">\n  <strong>The AI Orchestrator for 100x builders.</strong><br/>\n  Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place.\n</p>\n\n<h3 align=\"center\"><a href=\"https://onorca.dev/download\"><ins>Download Orca</ins></a></h3>\n\n<p align=\"center\">\n  <img src=\"docs/assets/readme-hero.jpg\" alt=\"Orca desktop app running agents in parallel worktrees, with the Orca mobile companion app in the corner\" width=\"960\" />\n</p>\n\n## Features\n\n<table>\n<tr>\n<td width=\"50%\" valign=\"middle\">\n\n### Mobile Companion\n\nMonitor and steer your agents from your phone — get notified when an agent finishes and send follow-ups from anywhere.\n\n[iOS App Store](https://apps.apple.com/us/app/orca-ide/id6766130217) · [TestFlight](https://testflight.apple.com/join/YjeGMQBA) · [Android APK 0.0.27](https://github.com/stablyai/orca/releases/download/mobile-android-v0.0.27/app-release.apk) · [Docs →](https://www.onorca.dev/docs/mobile)\n\n</td>\n<td width=\"50%\">\n  <a href=\"https://www.onorca.dev/docs/mobile\"><picture><source srcset=\"docs/assets/feature-wall/mobile-companion-app-showcase.gif\" type=\"image/gif\"><img src=\"docs/assets/feature-wall/mobile-companion-app-showcase.jpg\" alt=\"Orca desktop with the mobile companion app\" width=\"100%\" /></picture></a>\n</td>\n</tr>\n<tr>\n<td width=\"50%\" valign=\"middle\">\n\n### Parallel Worktrees\n\nFan one prompt across five agents, each in its own isolated git worktree — compare the results and merge the winner.\n\n[Docs →](https://www.onorca.dev/docs/model/worktrees)\n\n</td>\n<td width=\"50%\">\n  <a href=\"https://www.onorca.dev/docs/model/worktrees\"><picture><source srcset=\"docs/assets/feature-wall/parallel-worktrees.gif\" type=\"image/gif\"><img src=\"docs",
-  "generatedAt": "2026-07-12T00:14:54.783Z",
+  "generatedAt": "2026-07-13T00:59:47.845Z",
   "analysis": {
     "oneLine": "orca 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "orca 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，orca 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 16,365，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，orca 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 16,988，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

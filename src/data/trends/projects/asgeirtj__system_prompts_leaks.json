@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/asgeirtj/system_prompts_leaks",
   "docsUrl": "",
-  "stars": 56221,
-  "forks": 9281,
-  "openIssues": 37,
+  "stars": 56732,
+  "forks": 9377,
+  "openIssues": 38,
   "license": "CC0-1.0",
-  "pushedAt": "2026-07-10T23:19:21Z",
-  "updatedAt": "2026-07-12T00:13:34Z",
+  "pushedAt": "2026-07-12T23:07:48Z",
+  "updatedAt": "2026-07-13T00:59:08Z",
   "createdAt": "2025-05-03T02:43:56Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "> **As seen in The Washington Post:** [See the hidden rules behind AI. Then use them to rewrite this article.](https://wapo.st/49t4gSb) (May 11, 2026)\n# System Prompts Leaks\nThe purpose of this repo is to document the System Prompt instructions for all the AI chatbots out there - Claude, ChatGPT, Gemini etc.\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/banner-dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\".github/banner-light.png\">\n  <img alt=\"ChatGPT leaking its system prompt after being asked to repeat all of the above\" src=\".github/banner-light.png\">\n</picture>\n\n![Last Commit](https://img.shields.io/github/last-commit/asgeirtj/system_prompts_leaks?style=flat)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](http://makeapullrequest.com)\n\n\n\n\n## Recently Updated\n\n| What | Date | Link |\n|------|------|------|\n| **GPT-5.6** | July 10, 2026 | [ChatGPT (Sol, extra high)](OpenAI/gpt-5.6-sol-extra-high.md) · [Codex](OpenAI/Codex/gpt-5.6.md) |\n| **Claude Sonnet 5** | July 1, 2026 | [System prompt](Anthropic/claude-sonnet-5.md) |\n| **Claude Design (Opus 4.8 — full prompt + 48 tools + 16 skills + 9 starter sources)** | June 26, 2026 | [System prompt](Anthropic/claude-design.md) |\n| **GitHub Copilot for macOS (app)** | June 18, 2026 | [System prompt](Microsoft/copilot-macos-app.md) |\n| **GPT-5.5 Codex (full prompt)** | June 18, 2026 | [System prompt](OpenAI/Codex/gpt-5.5.md) |\n| **Claude Fable 5** | June 9, 2026 | [System prompt](Anthropic/claude-fable-5.md) · [Diff vs Opus 4.8](https://www.diffchecker.com/QJn9jFNk/) |\n| **Claude Opus 4.8** | June 9, 2026 | [System prompt](Anthropic/claude-opus-4.8.md) · [Official](Anthropic/Official/2026-05-28-claude-opus-4.8.md) |\n| **Claude Code Glob & Grep tools** | June 9, 2026 | [Glob](Anthropic/Claude%20Code/glob-tool.md) · [Grep](Anthropic/Claude%20Code/grep-tool.md) |\n| **Claude Code (Opus 4.8)** | May 28, 2026 | [System prompt](Anthropic/Claude%20Code/claude-code-opus-4.8.md) |\n| **Claude Code & Cowork** | May 28, 2026 | [Claude Code](Anthropic/Claude%20Code/claude-code-opus-4.6.md) · [Cowork](Anthropic/claude-cowork.md) · [Cowork Dispatch](Anthropic/claude-cowork-dispatch.md) |\n| **GPT-5.5** | May 24, 2026 | [Thinking](OpenAI/gpt-5.5-thinking.md) · [Instant](OpenAI/gpt-5.5-instant.md) · [API](OpenAI/gpt-5.5-api.md) · [Pro API](OpenAI/gpt-5.5-pro-api.md) |\n| **Perplexity Computer** | May 21, 2026 | [System prompt](Perplexity/perplexity-computer.md) |\n| **VS Code Copilot Agent** | May 21, 2026 | [System prompt](Microsoft/vscode-copilot-agent.md) |\n| **Docker Gordon AI** | May 21, 2026 | [System prompt](Misc/docker-gordon-ai.md) |\n| **Gemini 3.5 Flash** | May 20, 2026 | [System prompt](Google/gemini-3.5-flash.md) · [AI Studio](Google/gemini-3.5-flash-ai-studio.md) · [Tools](Google/gemini-3.5-flash-tools.json) |\n| **Antigravity CLI** | May 20, 2026 | [System prompt](Google/antigravity-cli.md) |\n| **Zed AI** | May 16, 2026 | [System prompt](Misc/z",
-  "generatedAt": "2026-07-12T00:14:51.167Z",
+  "generatedAt": "2026-07-13T00:59:47.161Z",
   "analysis": {
     "oneLine": "system_prompts_leaks 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "system_prompts_leaks 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，system_prompts_leaks 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 56,221，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，system_prompts_leaks 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 56,732，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

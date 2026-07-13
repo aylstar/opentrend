@@ -7,20 +7,20 @@
   "publishedAt": "2026-07-09T06:50:16.000Z",
   "id": "product-hunt-b6410ebf",
   "slug": "product-hunt-b6410ebf",
-  "content": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
-  "fetchedAt": "2026-07-12T00:15:06.717Z",
-  "score": 73,
+  "content": "ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience. It’s like having a personal video editing assistant that understands your footage, intent, and timeline. Make structural edits, fine-tune cuts, add captions, B-roll, music, voiceover, motion graphics, stock footage, and AI-generated video in one place. Every edit stays editable on a real timeline, with XML export when you want to keep working elsewhere.",
+  "fetchedAt": "2026-07-13T00:59:58.826Z",
+  "score": 69,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球",
     "视频"
   ],
-  "rank": 7,
-  "contentStatus": "fetch-failed",
+  "rank": 19,
+  "contentStatus": "article-extracted",
   "chineseTitle": "聊天剪辑",
   "chineseSummary": "ChatGPT、桌面和 Web 中的 AI 视频编辑器关联",
-  "chineseContent": "ChatGPT、桌面和 Web 中的 AI 视频编辑器关联",
+  "chineseContent": "ChatCut 是一款轻量级、专业级 AI 视频编辑器，任何人都可以使用，即使没有编辑经验。这就像拥有一个个人视频编辑助手，可以理解您的镜头、意图和时间线。在一处进行结构编辑、微调剪辑、添加字幕、幕后花絮、音乐、画外音、动态图形、素材库和 AI 生成的视频。每次编辑都可以在真实的时间轴上进行编辑，当您想在其他地方继续工作时，可以通过 XML 导出。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d29e4be148",
+  "slug": "weibo-功夫女足票房",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "功夫女足票房",
+  "summary": "微博热榜第 6 位：功夫女足票房，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.964Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

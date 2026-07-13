@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cba5962d2f",
+  "slug": "weibo-灿如繁星热度未破8000",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "灿如繁星热度未破8000",
+  "summary": "微博热榜第 17 位：灿如繁星热度未破8000，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E7%83%AD%E5%BA%A6%E6%9C%AA%E7%A0%B48000%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.965Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

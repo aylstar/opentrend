@@ -1,0 +1,21 @@
+{
+  "id": "weibo-158a4d146d",
+  "slug": "weibo-沈阳暴雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "沈阳暴雨",
+  "summary": "微博热榜第 1 位：沈阳暴雨，当前热度为 133万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8%23",
+  "hotValue": "133万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.964Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

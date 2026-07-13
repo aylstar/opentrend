@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b47be55988",
+  "slug": "weibo-西班牙vs法国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "西班牙vs法国",
+  "summary": "微博热榜第 7 位：西班牙vs法国，当前热度为 47万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%B3%95%E5%9B%BD%23",
+  "hotValue": "47万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.964Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

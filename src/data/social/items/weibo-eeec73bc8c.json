@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eeec73bc8c",
+  "slug": "weibo-不要太在意别人说的话",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "不要太在意别人说的话",
+  "summary": "微博热榜第 50 位：不要太在意别人说的话，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%9C%A8%E6%84%8F%E5%88%AB%E4%BA%BA%E8%AF%B4%E7%9A%84%E8%AF%9D%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.965Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

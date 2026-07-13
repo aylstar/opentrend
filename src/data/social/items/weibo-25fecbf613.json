@@ -1,0 +1,21 @@
+{
+  "id": "weibo-25fecbf613",
+  "slug": "weibo-鹿晗口误",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "鹿晗口误",
+  "summary": "微博热榜第 13 位：鹿晗口误，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%8F%A3%E8%AF%AF%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.965Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

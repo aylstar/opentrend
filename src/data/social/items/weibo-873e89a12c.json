@@ -1,0 +1,21 @@
+{
+  "id": "weibo-873e89a12c",
+  "slug": "weibo-沈阳停课1天",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "沈阳停课1天",
+  "summary": "微博热榜第 32 位：沈阳停课1天，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%81%9C%E8%AF%BE1%E5%A4%A9%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-07-13T00:55:54.838Z",
+  "fetchedAt": "2026-07-13T01:01:38.965Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

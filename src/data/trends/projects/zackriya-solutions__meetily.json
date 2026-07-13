@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/Zackriya-Solutions/meetily",
   "docsUrl": "https://meetily.ai",
-  "stars": 23171,
-  "forks": 2438,
-  "openIssues": 275,
+  "stars": 23583,
+  "forks": 2486,
+  "openIssues": 276,
   "license": "MIT",
   "pushedAt": "2026-06-05T13:53:17Z",
-  "updatedAt": "2026-07-12T00:11:41Z",
+  "updatedAt": "2026-07-13T00:52:44Z",
   "createdAt": "2024-12-26T12:52:14Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<div align=\"center\" style=\"border-bottom: none\">\n    <h1>\n        <img src=\"docs/Meetily-6.png\" style=\"border-radius: 10px;\" />\n        <br>\n        Privacy-First AI Meeting Assistant\n    </h1>\n    <a href=\"https://trendshift.io/repositories/21958\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/21958\" alt=\"Zackriya-Solutions%2Fmeetily | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n    <br>\n    <br>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases/\"><img src=\"https://img.shields.io/badge/Pre_Release-Link-brightgreen\" alt=\"Pre-Release\"></a>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases\"><img alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/zackriya-solutions/meeting-minutes?style=flat\">\n</a>\n <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases\"> <img alt=\"GitHub Downloads (all assets, all releases)\" src=\"https://img.shields.io/github/downloads/zackriya-solutions/meeting-minutes/total?style=plastic\"> </a>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases\"><img src=\"https://img.shields.io/badge/License-MIT-blue\" alt=\"License\"></a>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases\"><img src=\"https://img.shields.io/badge/Supported_OS-macOS,_Windows-white\" alt=\"Supported OS\"></a>\n    <a href=\"https://github.com/Zackriya-Solutions/meeting-minutes/releases\"><img alt=\"GitHub Tag\" src=\"https://img.shields.io/github/v/tag/zackriya-solutions/meeting-minutes?include_prereleases&color=yellow\">\n</a>\n    <br>\n    <h3>\n    <br>\n    Open Source • Privacy-First • Enterprise-Ready\n    </h3>\n    <p align=\"center\">\n    Get latest <a href=\"https://www.zackriya.com/meetily-subscribe/\"><b>Product updates</b></a> <br><br>\n    <a href=\"https://meetily.ai\"><b>Website</b></a> •\n    <a href=\"https://www.linkedin.com/company/106363062/\"><b>LinkedIn</b></a> •\n    <a href=\"https://discord.gg/crRymMQBFH\"><b>Meetily Discord</b></a> •\n    <a href=\"https://discord.com/invite/vCFJvN4BwJ\"><b>Privacy-First AI</b></a> •\n    <a href=\"https://www.reddit.com/r/meetily/\"><b>Reddit</b></a>\n</p>\n    <p align=\"center\">\n\nA privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your infrastructure. Built by expert AI engineers passionate about data sovereignty and open source solutions. Perfect for enterprises that need advanced meeting intelligence without compromising on privacy, compliance, or control.\n\n</p>\n\n<p align=\"center\">\n    <img src=\"docs/meetily_demo.gif\" width=\"650\" alt=\"Meetily Demo\" />\n    <br>\n    <a href=\"https://youtu.be/6FnhSC_eSz8\">View full Demo Video</a>\n</p>\n\n</div>\n\n---\n\n> **Meetily PRO Upgrade Offer** - Meetily PRO is available for users who need enhanced accuracy, advanced exports, custom summary workflows, and team-ready features. Use coupon code **LAUNCH20** for **20% off** until the next Meetily Community Edition release. Spea",
-  "generatedAt": "2026-07-12T00:14:50.127Z",
+  "generatedAt": "2026-07-13T00:59:44.978Z",
   "analysis": {
     "oneLine": "meetily 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "meetily 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，meetily 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 23,171，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，meetily 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 23,583，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

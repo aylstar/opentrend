@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/Panniantong/Agent-Reach",
   "docsUrl": "https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md",
-  "stars": 54927,
-  "forks": 4524,
-  "openIssues": 144,
+  "stars": 55328,
+  "forks": 4563,
+  "openIssues": 146,
   "license": "MIT",
   "pushedAt": "2026-07-10T15:45:18Z",
-  "updatedAt": "2026-07-12T00:13:36Z",
+  "updatedAt": "2026-07-13T00:58:04Z",
   "createdAt": "2026-02-24T02:10:24Z",
   "archived": false,
   "trendWindows": [
@@ -26,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1 align=\"center\">👁️ Agent Reach</h1>\n\n<p align=\"center\">\n  <strong>给你的 AI Agent 一键装上互联网能力</strong>\n</p>\n\n<p align=\"center\">\n  当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/24387\"><img src=\"https://trendshift.io/api/badge/repositories/24387\" alt=\"Trendshift GitHub Trending #1 Repository of the Day\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge\" alt=\"MIT License\"></a>\n  <a href=\"https://www.python.org/\"><img src=\"https://img.shields.io/badge/Python-3.10+-green.svg?style=for-the-badge&logo=python&logoColor=white\" alt=\"Python 3.10+\"></a>\n  <a href=\"https://github.com/Panniantong/agent-reach/stargazers\"><img src=\"https://img.shields.io/github/stars/Panniantong/agent-reach?style=for-the-badge\" alt=\"GitHub Stars\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#快速上手\">快速开始</a> · <a href=\"docs/README_en.md\">English</a> · <a href=\"docs/README_ja.md\">日本語</a> · <a href=\"docs/README_ko.md\">한국어</a> · <a href=\"#支持的平台\">支持平台</a> · <a href=\"#设计理念\">设计理念</a>\n</p>\n\n---\n\n## 为什么需要 Agent Reach？\n\nAI Agent 已经能帮你写代码、改文档、管项目——但你让它去网上找点东西，它就抓瞎了：\n\n- 📺 \"帮我看看这个 YouTube 教程讲了什么\" → **看不了**，拿不到字幕\n- 🐦 \"帮我搜一下推特上大家怎么评价这个产品\" → **搜不了**，Twitter API 要付费\n- 📖 \"去 Reddit 上看看有没有人遇到过同样的 bug\" → **403 被封**，服务器 IP 被拒\n- 📕 \"帮我看看小红书上这个品的口碑\" → **打不开**，必须登录才能看\n- 📺 \"B站上有个技术视频，帮我总结一下\" → **拿不到**，通用下载工具被 B站风控全面拦截\n- 🔍 \"帮我在网上搜一下最新的 LLM 框架对比\" → **没有好用的搜索**，要么付费要么质量差\n- 🌐 \"帮我看看这个网页写了啥\" → **抓回来一堆 HTML 标签**，根本没法读\n- 📦 \"这个 GitHub 仓库是干嘛的？Issue 里说了什么？\" → 能用，但认证配置很麻烦\n- 📡 \"帮我订阅这几个 RSS 源，有更新告诉我\" → 要自己装库写代码\n\n**这些不难实现，但是需要自己折腾配置**\n\n每个平台都有自己的门槛——要付费的 API、要绕过的封锁、要登录的账号、要清洗的数据。你要一个一个去踩坑、装工具、调配置，光是让 Agent 能读个推特就得折腾半天。\n\n**Agent Reach 把这件事变成一句话：**\n\n```\n帮我安装 Agent Reach：https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md\n```\n\n复制给你的 Agent，几分钟后它就能读推特、搜 Reddit、看 YouTube、刷小红书了。\n\n**已经装过了？更新也是一句话：**\n\n```\n帮我更新 Agent Reach：https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/update.md\n```\n\n> ⭐ **Star 这个项目**，我们会持续追踪各平台的变化、接入新的渠道。你不用自己盯——平台封了我们修，有新渠道我们加。\n\n### ✅ 在你用之前，你可能想知道\n\n| | |\n|---|---|\n| 💰 **完全免费** | 所有工具开源、所有 API 免费。唯一可能花钱的是服务器代理（$1/月），本地电脑不需要 |\n| 🔒 **隐私安全** | Cookie 只存在你本地，不上传不外传。代码完全开源，随时可审查 |\n| 🔄 **持续换代** | 每个平台都是「首选 + 备选」多后端路由。某个接入方式失效了，我们换下一个，你无感（2026-06 实例：yt-dlp 被 B站风控封死 → 已切换 bili-cli，用户零操作） |\n| 🤖 **兼容所有 Agent** | Claude Code、OpenClaw、Cursor、Windsurf……任何能跑命令行的 Agent 都能用 |\n| 🩺 **自带诊断** | `agent-reach doctor` 一条命令告诉你哪个通、哪个不通、怎么修 |\n\n---\n\n## 支持的平台\n\n| 平台 | 装好即用 | 配置后解锁 | 怎么配 |\n|------|---------|-----------|-------|\n| 🌐 **网页** | 阅读任意网页 | — | 无需配置 |\n| 📺 **YouTube** | 字幕提取 + 视频搜索 | — | 无需配置 |\n| 📡 **RSS** | 阅读任意 RSS/Atom 源 | — | 无需配置 |\n| 🔍 **全网搜索** | — | 全网语义搜索 | 自动配置（MCP 接入，免费无需 Key） |\n| 📦 **GitHub** | 读公开仓库 + 搜索 | 私有仓库、提 Issue/PR、Fork | 告诉 Agent「帮我登录 GitHub」 |\n| 🐦 **Twitter/X** | 读单条推文 | 搜索推文、浏览时间线、读长文 | 告诉 Agent「帮我配 Twitter」 |\n| 📺 **B站** | 搜索 + 视频详情（bili-cli，无需登录） | 字幕（OpenCLI） | 告诉 Agent「帮我配 B站」 |\n| 📖 **Reddit** | —（没有零配置路径：匿名接",
-  "generatedAt": "2026-07-12T00:14:54.109Z",
+  "generatedAt": "2026-07-13T00:59:49.279Z",
   "analysis": {
     "oneLine": "Agent-Reach 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "Agent-Reach 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，Agent-Reach 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 54,927，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Agent-Reach 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 55,328，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

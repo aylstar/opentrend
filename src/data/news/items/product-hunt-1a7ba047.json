@@ -1,25 +1,26 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Second Brain for AI",
-  "summary": "Persistent memory for Claude, ChatGPT & Cursor. Free. Discussion | Link",
+  "originalTitle": "Second Brain for AI v2",
+  "summary": "AI memory that connects the dots across every tool Discussion | Link",
   "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-  "publishedAt": "2026-05-20T06:21:04.000Z",
+  "publishedAt": "2026-06-25T03:43:33.000Z",
   "id": "product-hunt-1a7ba047",
   "slug": "product-hunt-1a7ba047",
-  "content": "Every AI conversation starts from zero. Your projects, decisions, and preferences disappear as soon as you close the chat. Second Brain fixes that. It is a self-hosted memory layer that works with Claude, ChatGPT, Cursor, and any MCP client. You can store context once and recall it by meaning instead of keywords. It includes duplicate detection, semantic search, and a web UI. Built on Cloudflare, it offers a free tier and your data remains yours. MIT licensed.",
-  "fetchedAt": "2026-06-01T01:38:04.885Z",
+  "content": "AI memory that connects the dots across every tool Discussion | Link",
+  "fetchedAt": "2026-07-13T00:59:58.826Z",
   "score": 69,
   "sourceWeight": 84,
   "tags": [
     "AI",
-    "全球"
+    "全球",
+    "产品"
   ],
-  "rank": 19,
-  "contentStatus": "article-extracted",
-  "chineseTitle": "AI 的第二大脑",
-  "chineseSummary": "Claude、ChatGPT 和 Cursor 的持久内存。自由的。讨论 |关联",
-  "chineseContent": "每一次人工智能对话都从零开始。一旦关闭聊天，您的项目、决定和偏好就会消失。第二大脑解决了这个问题。它是一个自托管内存层，可与 Claude、ChatGPT、Cursor 和任何 MCP 客户端配合使用。您可以存储一次上下文并通过含义而不是关键字来调用它。它包括重复检测、语义搜索和 Web UI。它基于 Cloudflare 构建，提供免费套餐，您的数据仍然属于您。麻省理工学院许可。",
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "AI 第二大脑 v2",
+  "chineseSummary": "人工智能记忆将每个工具的各个点连接起来关联",
+  "chineseContent": "人工智能记忆将每个工具的各个点连接起来关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
