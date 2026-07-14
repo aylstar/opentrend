@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5182a8838d",
+  "slug": "weibo-美人鱼2",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "美人鱼2",
+  "summary": "微博热榜第 7 位：美人鱼2，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BA%BA%E9%B1%BC2%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-07-14T00:10:17.683Z",
+  "fetchedAt": "2026-07-14T00:14:43.023Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

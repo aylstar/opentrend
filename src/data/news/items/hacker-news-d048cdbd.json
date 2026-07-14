@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+  "summary": "38 points · 13 comments",
+  "content": "I'm fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans. To create the design, I had AI analyze the ASTs of several mainstream languages plus a few of the conceptually groundbreaking but esoteric ones (listed in the README) and then create a new structure and new syntax. It was named after the Jacquard machine ( https://en.wikipedia.org/wiki/Jacquard_machine ), a precursor to Babbage's Analytical Engine (and punch cards). The result reused a lot of existing ideas but combined them in what I found to be an interesting way. External/world effects are visible in function signatures, and the runtime requires explicit permission to touch the filesystem, network, etc. Effect interactions can be recorded and replayed to see what happens under different conditions or code. And since code is given a content-addressed semantic identity internally, renames and formatting changes don't require recompile or retesting. Another piece that fell out of this was a testing framework called Warp, which combines replay, results caching, handler substitution, and a few other tools that I frankly wish I had when writing Python. There are a few examples available in the demos directory. There's more to do, but it's installable and usable. I'm hoping people will have their agents digest the docs/SKILL.md file and maybe write a few programs or see where it might fit in their projects. It should be particularly useful in agent systems. If an agent says something is painful or you as a human find the code tough to understand, I'd like to hear about it so I can address it. More detail here: Repository: https://github.com/jbwinters/jacquard-lang Further intro/human-oriented write-up here: https://research.friendmachine.co/jacquard/",
+  "url": "https://github.com/jbwinters/jacquard-lang",
+  "publishedAt": "2026-07-13T15:56:02.000Z",
+  "points": 38,
+  "id": "hacker-news-d048cdbd",
+  "slug": "hacker-news-d048cdbd",
+  "fetchedAt": "2026-07-14T00:12:54.890Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 10,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Jacquard，一种用于 AI 编写、人工审核代码的编程语言",
+  "chineseSummary": "38 分 · 13 条评论",
+  "chineseContent": "我对席卷我们的生成式人工智能浪潮着迷，并且想知道人工智能是否可以创建一种它可能更喜欢使用的语言，而不是由人类创建并为人类创建的语言。为了创建设计，我让 AI 分析了几种主流语言的 AST，以及一些概念上具有开创性但深奥的语言（自述文件中列出），然后创建新的结构和新的语法。它以提花机 (https://en.wikipedia.org/wiki/Jacquard_machine) 命名，提花机是巴贝奇分析机（和打孔卡）的前身。结果重复使用了许多现有的想法，但以我发现的一种有趣的方式将它们结合起来。外部/世界效果在函数签名中可见，并且运行时需要明确的权限才能接触文件系统、网络等。可以记录和重播效果交互，以查看在不同条件或代码下发生的情况。由于代码在内部被赋予了内容寻址的语义标识，因此重命名和格式更改不需要重新编译或重新测试。另一个被淘汰的部分是一个名为 Warp 的测试框架，它结合了重放、结果缓存、处理程序替换以及其他一些我坦率地希望在编写 Python 时拥有的工具。 demos 目录中有一些可用的示例。还有更多工作要做，但它是可安装和可用的。我希望人们让他们的代理消化 docs/SKILL.md 文件，并可能编写一些程序或看看它适合他们的项目。它在代理系统中应该特别有用。如果代理说某件事很痛苦，或者您作为一个人发现代码难以理解，我想听听，以便我可以解决它。更多详细信息请参见：存储库：https://github.com/jbwinters/jacquard-lang 此处进一步介绍/面向人类的文章：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

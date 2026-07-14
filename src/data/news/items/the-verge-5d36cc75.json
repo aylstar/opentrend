@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft tests Windows Search without all the ads and fluff",
+  "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. […]",
+  "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+  "publishedAt": "2026-07-13T21:53:20.000Z",
+  "id": "the-verge-5d36cc75",
+  "slug": "the-verge-5d36cc75",
+  "content": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it’s rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. One of the biggest changes is a revamped search homescreen that displays only your recent searches. Currently, when you open the search menu, it shows your recent searches alongside several distracting tiles on the right pane, containing things like the image of the day, daily quizzes, trending searches, and game recommendations. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-menu.png?quality=90&strip=all] Microsoft is cleaning up web results, too, as the search menu will surface the “most relevant answer” first, rather than showing “related products and promotions.” Aside from doing some decluttering, Microsoft is testing other notable improvements to its search menu. It will more clearly show metadata, along with a preview of the file in the pane on the right side of the search menu, making it easier to figure out where the result came from. The Windows 11 search system will also prioritize results from your local files, apps, and settings, which will “more reliably appear” ahead of web and Microsoft Store recommendations. Testers can now turn off web and Store recommendations entirely from the Settings menu. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-11-search-results.png?quality=90&strip=all] There are a few quality-of-life updates, too, as Microsoft says the search system it’s piloting can better handle typos, extra letters, and partial words, while offering some performance improvements.",
+  "fetchedAt": "2026-07-14T00:12:54.893Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "视频"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软测试了没有所有广告和无用内容的 Windows 搜索",
+  "chineseSummary": "微软正在测试 Windows 11 搜索菜单的更简洁版本，该菜单将删除推荐内容和广告。在周一的一篇博文中，微软宣布将在实验频道中向 Windows Insider 推出简洁的搜索框，以重新获得用户的信任并修复 Windows。 […]",
+  "chineseContent": "微软正在测试 Windows 11 搜索菜单的更简洁版本，该菜单将删除推荐内容和广告。在周一的一篇博文中，微软宣布将在实验频道中向 Windows Insider 推出简洁的搜索框，以重新获得用户的信任并修复 Windows。最大的变化之一是改进的搜索主屏幕，仅显示您最近的搜索。目前，当您打开搜索菜单时，它会在右侧窗格中显示您最近的搜索以及几个分散注意力的图块，其中包含当天的图片、每日测验、趋势搜索和游戏推荐等内容。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-menu.png?quality=90&strip=all]微软也在清理网络结果，因为搜索菜单将首先显示“最相关的答案”，而不是显示“相关产品和促销活动”。除了进行一些整理之外，微软还在测试其搜索菜单的其他显着改进。它将更清晰地显示元数据，并在搜索菜单右侧的窗格中预览文件，从而更容易找出结果的来源。 Windows 11 搜索系统还将优先考虑本地文件、应用程序和设置的结果，这些结果将“更可靠地显示”在网络和 Microsoft Store 推荐之前。测试人员现在可以完全从“设置”菜单中关闭网络和商店推荐。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-11-search-results.png?quality=90&strip=all]还有一些生活质量更新，微软表示其正在试点的搜索系统可以更好地处理拼写错误、额外字母和部分单词，同时提供一些性能",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

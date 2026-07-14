@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cabd4832b8",
+  "slug": "weibo-施南生作品",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "施南生作品",
+  "summary": "微博热榜第 48 位：施南生作品，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%BD%E5%8D%97%E7%94%9F%E4%BD%9C%E5%93%81%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-07-14T00:10:17.683Z",
+  "fetchedAt": "2026-07-14T00:14:43.023Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

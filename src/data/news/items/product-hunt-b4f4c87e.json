@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Fudge MCP",
+  "summary": "Give your AI agents design taste from existing websites Discussion | Link",
+  "url": "https://www.producthunt.com/products/fudge-mcp",
+  "publishedAt": "2026-07-10T14:06:45.000Z",
+  "id": "product-hunt-b4f4c87e",
+  "slug": "product-hunt-b4f4c87e",
+  "content": "Meet Fudge: a design reference engine for AI agents. Instead of asking AI to make another “modern, premium” interface from scratch, let it search nearly 10,000 real websites by fonts, colors, components, layouts, page types, and visual similarity. Fudge combines measured design evidence with screenshots, runs locally through MCP, and remembers references you save with its Chrome extension. Give your coding agent better taste and not more adjectives.",
+  "fetchedAt": "2026-07-14T00:12:54.891Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "福吉MCP",
+  "chineseSummary": "为您的 AI 代理提供现有网站的设计品味 讨论 |关联",
+  "chineseContent": "来认识一下 Fudge：人工智能代理的设计参考引擎。与其要求 AI 从头开始​​制作另一个“现代、优质”界面，不如让它通过字体、颜色、组件、布局、页面类型和视觉相似性搜索近 10,000 个真实网站。 Fudge 将测量的设计证据与屏幕截图相结合，通过 MCP 在本地运行，并记住您使用其 Chrome 扩展程序保存的参考。给你的编码代理更好的品味，而不是更多的形容词。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

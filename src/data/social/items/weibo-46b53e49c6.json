@@ -1,0 +1,21 @@
+{
+  "id": "weibo-46b53e49c6",
+  "slug": "weibo-剧集十日终焉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "剧集十日终焉",
+  "summary": "微博热榜第 36 位：剧集十日终焉，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%89%A7%E9%9B%86%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-07-14T00:10:17.683Z",
+  "fetchedAt": "2026-07-14T00:14:43.023Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

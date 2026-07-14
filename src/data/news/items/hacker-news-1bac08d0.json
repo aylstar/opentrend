@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Samsung Health app threatens data deletion if users opt out AI training",
+  "summary": "227 points · 64 comments",
+  "content": "Samsung has started notifying users that they'd have to consent to the use of their private health data to train new AI models or risk losing it forever.\n\nApparently, the company has introduced a \"Consent to the Use of Health Data for AI training and modelling\" toggle deep in the settings of the Samsung Health app and is forcing people to agree to these terms if they want to back up their information. This toggle gives Samsung the right to use personal metrics for training and algorithm refinement. When you try to turn off this option, the app stops you in your tracks with a warning that reads:\n\nYou will not be able to sync health data with your Samsung account and your health data will be deleted unless retained pursuant to applicable law. If retention is required, we will erase it as soon as the required retention period ends.\n\nSamsung said that the data it collects will \"improve Samsung Health\" through refined machine learning algorithms that analyze health conditions. The company plans to grab four categories: your sleep, your medications, your medical records, and your cycle tracking details. The company also said that humans (maybe Samsung employees and third-party contractors) will be able to review some of the data collected.\n\nThe Samsung Health app recently underwent a massive Generative AI overhaul just in time for the upcoming launch of the Galaxy Watch 9 and One UI 9 Watch . Among the many Gen AI features Samsung added is Vitals, a tool that analyzes overnight biometric signals against your baseline to warn you about potential sickness or fatigue. It specifically monitors five signals: heart rate, heart rate variability, respiratory rate, skin temperature, and blood oxygen levels, and it can send you a notification if something looks wrong.\n\nOther features include a Heart Health Score feature that combines your body composition, daily physical activity, sleep metrics, and daily stress into a single card on the home screen. Samsung has also packaged in a Cardio Load metric to prevent overtraining and a Fitness Index that grades how fit you are based on different metrics like your VO2 max and step count compared to peers.",
+  "url": "https://neow.in/cWsyMTV3",
+  "publishedAt": "2026-07-13T20:01:43.000Z",
+  "points": 227,
+  "id": "hacker-news-1bac08d0",
+  "slug": "hacker-news-1bac08d0",
+  "fetchedAt": "2026-07-14T00:12:54.890Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "如果用户选择退出 AI 培训，三星健康应用程序将威胁删除数据",
+  "chineseSummary": "227 分 · 64 条评论",
+  "chineseContent": "三星已开始通知用户，他们必须同意使用其私人健康数据来训练新的人工智能模型，否则就有永远失去这些数据的风险。\n\n显然，该公司在三星健康应用程序的设置中引入了“同意使用健康数据进行人工智能训练和建模”开关，并迫使人们在想要备份信息时同意这些条款。这一切换赋予三星使用个人指标进行训练和算法改进的权利。当您尝试关闭此选项时，应用程序会阻止您继续前进，并显示一条警告，内容如下：\n\n您将无法将健康数据与您的三星帐户同步，并且除非根据适用法律保留，否则您的健康数据将被删除。如果需要保留，我们将在要求的保留期结束后立即将其删除。\n\n三星表示，其收集的数据将通过分析健康状况的精细机器学习算法“改善三星健康”。该公司计划获取四个类别：你的睡眠、你的药物、你的医疗记录和你的周期跟踪详细信息。该公司还表示，人类（可能是三星员工和第三方承包商）将能够审查收集到的一些数据。\n\n三星健康应用程序最近经历了大规模的生成式人工智能大修，正好赶上即将推出的 Galaxy Watch 9 和 One UI 9 Watch。三星添加的众多 Gen AI 功能中包括 Vitals，这是一种根据您的基线分析夜间生物识别信号的工具，以警告您潜在的疾病或疲劳。它专门监测五个信号：心率、心率变异性、呼吸频率、皮肤温度和血氧水平，如果出现问题，它可以向您发送通知。\n\n其他功能包括心脏健康评分功能，它将您的身体成分、日常身体活动、睡眠指标和日常压力整合到主屏幕上的一张卡片中。三星还提供了一个用于防止过度训练的心肺负荷指标和一个健身指数，该指数根据不同的指标（例如与同龄人相比的最大摄氧量和步数）对您的健康状况进行评分。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

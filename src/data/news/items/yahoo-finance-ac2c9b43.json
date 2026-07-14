@@ -1,0 +1,24 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Nasdaq Sells Off, Oil Prices Spike On Trump Blockade; Micron, Sandisk, SK Hynix, SpaceX Dive",
+  "summary": "Dow Jones Futures: The Nasdaq composite sold off Monday on Trump's Strait of Hormuz blockade. Micron, Sandisk, SK Hynix and SpaceX dived.",
+  "url": "https://finance.yahoo.com/m/a32709ef-5536-34e6-8956-8b6453188c80/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+  "publishedAt": "2026-07-13T23:16:45.000Z",
+  "id": "yahoo-finance-ac2c9b43",
+  "slug": "yahoo-finance-ac2c9b43",
+  "content": "Dow Jones Futures: The Nasdaq composite sold off Monday on Trump's Strait of Hormuz blockade. Micron, Sandisk, SK Hynix and SpaceX dived.",
+  "fetchedAt": "2026-07-14T00:12:54.894Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "财经"
+  ],
+  "rank": 24,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：纳斯达克抛售，特朗普封锁导致油价飙升；美光、Sandisk、SK 海力士、SpaceX Dive",
+  "chineseSummary": "道琼斯期货：纳斯达克综合指数周一因特朗普封锁霍尔木兹海峡而遭到抛售。美光、Sandisk、SK 海力士和 SpaceX 纷纷跳水。",
+  "chineseContent": "道琼斯期货：纳斯达克综合指数周一因特朗普封锁霍尔木兹海峡而遭到抛售。美光、Sandisk、SK 海力士和 SpaceX 纷纷跳水。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

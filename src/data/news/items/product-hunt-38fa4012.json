@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Playground",
+  "summary": "Earn $100K+ in weekly rewards for hacking AI agents. Discussion | Link",
+  "url": "https://www.producthunt.com/products/nyx-4",
+  "publishedAt": "2026-07-12T22:32:12.000Z",
+  "id": "product-hunt-38fa4012",
+  "slug": "product-hunt-38fa4012",
+  "content": "AI agents fail in ways traditional software doesn't. Our agents help you find all the ways in which your AI agents fail by adversarially testing them in a dedicated environment. Point it at any AI agent, or multi-agent system, and it launches 1,000+ strategies that adapt to your system in real time - pure blackbox, no integration needed.",
+  "fetchedAt": "2026-07-14T00:12:54.891Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "操场",
+  "chineseSummary": "黑客 AI 代理每周可获得超过 10 万美元的奖励。讨论 |关联",
+  "chineseContent": "人工智能代理会以传统软件不会的方式失败。我们的代理通过在专用环境中进行对抗性测试，帮助您找到人工智能代理失败的所有方式。将其指向任何人工智能代理或多代理系统，它就会启动 1,000 多种实时适应您的系统的策略 - 纯黑盒，无需集成。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
