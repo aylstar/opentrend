@@ -8,13 +8,13 @@
   "id": "product-hunt-f725bf9e",
   "slug": "product-hunt-f725bf9e",
   "content": "Multiple Tailscale tailnets at once, no switching + no VM Discussion | Link",
-  "fetchedAt": "2026-07-14T00:12:54.891Z",
-  "score": 79,
+  "fetchedAt": "2026-07-15T00:12:10.090Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 2,
+  "rank": 12,
   "contentStatus": "fetch-failed",
   "chineseTitle": "尾复用器",
   "chineseSummary": "一次多个 Tailscale tailnet，无需切换+无需 VM 讨论 |关联",

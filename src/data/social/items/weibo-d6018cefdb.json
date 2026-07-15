@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d6018cefdb",
+  "slug": "weibo-法国回应淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "法国回应淘汰",
+  "summary": "微博热榜第 12 位：法国回应淘汰，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-07-15T00:10:40.616Z",
+  "fetchedAt": "2026-07-15T00:14:30.145Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

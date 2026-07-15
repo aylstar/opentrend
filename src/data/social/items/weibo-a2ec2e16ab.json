@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a2ec2e16ab",
+  "slug": "weibo-易烊千玺逃过一劫",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "易烊千玺逃过一劫",
+  "summary": "微博热榜第 26 位：易烊千玺逃过一劫，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%80%83%E8%BF%87%E4%B8%80%E5%8A%AB%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-07-15T00:10:40.616Z",
+  "fetchedAt": "2026-07-15T00:14:30.145Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

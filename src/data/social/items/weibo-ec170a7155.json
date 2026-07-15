@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec170a7155",
+  "slug": "weibo-法国-梦游",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 43,
+  "title": "法国 梦游",
+  "summary": "微博热榜第 43 位：法国 梦游，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD+%E6%A2%A6%E6%B8%B8%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-07-15T00:10:40.616Z",
+  "fetchedAt": "2026-07-15T00:14:30.145Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

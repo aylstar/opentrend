@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+  "summary": "41 points · 25 comments",
+  "content": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI ( https://agnost.ai ), product analytics for teams building chat and voice agents. We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful. We have an interactive demo with no signup here: https://app.agnost.ai?demo=true Here's a demo video: https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa The core problem is that chat and voice products do not have the same metrics as web apps. When the product interface is language, clicks and funnels become much less useful. Users also rarely give explicit feedback, and when they do it's usually sugarcoated. I barely type /feedback in Claude or Codex myself. Most users just curse, ask again, correct the agent, or leave. So product engineers get technical visibility from latency, errors, and traces, but still have to guess whether users got what they wanted. We got here after building around agents for the last year and got a couple of founders asking for something like a PostHog for conversations for the AI assistants they were building. We are not trying to be in the observability or evals space. Observability tells you what happened technically. Evals validate cases you already know. We're more on the discovery side like what users wanted, where they got frustrated, what they asked for repeatedly, and what new evals should exist. Teams send us agent conversation messages through SDKs or OTel, optionally with metadata like account, plan, source, organization, etc. We cluster conversations into product-specific intents. Feature requests and bugs are default categories; most other clusters are created dynamically from the customer’s data and evolve over time. You can create your own cluster in plain English. If a cluster gets too broad, we split it. If a new pattern appears, we suggest it. One AI video editor company used Agnost AI to find feature requests hidden inside chat. The biggest one was that around 70 users wanted auto-subtitles, but users said it as “add this text in this frame” 12x in a single session, “can you caption it”, “give me transcript of audio” and variations across languages. The team later built the feature. Doing this over millions of messages without sending everything to an LLM was the hard part initially. In ClickHouse, “fetch the last 50 events by time across conversations” and “fetch all events in this conversation” want different sort orders, so we had to iterate a lot on sorting keys, partitions, materialized views, and projections. For finding new clusters, sending everything through an LLM was too slow and expensive. HDBSCAN-style embedding clustering also gets painful at scale because of pairwise comparisons. We first split conversations into segments based on cosine drift, run BIRCH to compress the candidate space, and then use HDBSCAN-like clustering on the smaller set. For matching existing clusters, we use embeddings, smaller classifiers/BERT-style models, and LLMs only as fallback for ambiguous cases. We’re live with multiple companies and ingesting ~1M chat and voice messages per day. Pricing is public: Starter is free, Pro is $499/month, and Enterprise is for higher volume, security, retention needs. We use each customer’s data only for that customer. We are SOC 2 Type 1 compliant, Type 2 is in progress, and our SDKs are on PyPI and npm. We’d love feedback from the HN community and people building chat or voice agents: how do you detect these signals today, what feedback methods have worked, and what would block you from trying this? Happy to answer questions and take criticism.",
+  "url": "https://agnost.ai",
+  "publishedAt": "2026-07-14T16:06:18.000Z",
+  "points": 41,
+  "id": "hacker-news-14db0937",
+  "slug": "hacker-news-14db0937",
+  "fetchedAt": "2026-07-15T00:12:10.089Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 9,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "启动 HN：Agnost AI (YC S26) – 从代理对话中提取用户反馈",
+  "chineseSummary": "41 分 · 25 条评论",
+  "chineseContent": "嘿 HN，我们是 Shubham 和 Parth，他们是儿时朋友，正在构建 Agnost AI (https://agnost.ai)，这是为构建聊天和语音代理的团队提供产品分析的产品。我们阅读生产对话并发现行为失败，例如用户愤怒提示（咒骂代理）、反复改写相同的请求、纠正代理、询问缺少的功能或在技术上成功的答案后离开。我们在这里有一个无需注册的交互式演示：https://app.agnost.ai?demo=true 这是一个演示视频：https://www.tella.tv/video/agnost-ai-launch-hn-demo-9haa 核心问题是聊天和语音产品没有与网络应用程序相同的指标。当产品界面是语言时，点击和渠道就变得没那么有用了。用户也很少给出明确的反馈，即使他们这样做，也通常是糖衣的。我自己几乎没有在 Claude 或 Codex 中输入 /feedback。大多数用户只是咒骂、再次询问、纠正代理，或者离开。因此，产品工程师可以从延迟、错误和跟踪中获得技术可见性，但仍然必须猜测用户是否得到了他们想要的东西。我们在去年围绕代理进行了构建之后来到了这里，一些创始人要求使用像 PostHog 这样的东西来为他们正在构建的人工智能助手进行对话。我们并不是试图进入可观察性或评估空间。可观察性告诉您技术上发生了什么。评估验证您已经知道的案例。我们更多的是在发现方面，比如用户想要什么，他们在哪里感到沮丧，他们反复要求什么，以及应该存在哪些新的评估。团队通过 SDK 或 OTel 向我们发送代理对话消息，可选择包含帐户、计划、来源、组织等元数据。我们将对话聚集到特定于产品的意图中。功能请求和错误是默认的",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

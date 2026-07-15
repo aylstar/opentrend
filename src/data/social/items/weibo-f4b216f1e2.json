@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f4b216f1e2",
+  "slug": "weibo-入伏",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "入伏",
+  "summary": "微博热榜第 16 位：入伏，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BC%8F%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-07-15T00:10:40.616Z",
+  "fetchedAt": "2026-07-15T00:14:30.145Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

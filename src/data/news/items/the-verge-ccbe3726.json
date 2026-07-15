@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Boston Dynamics tries using ‘robot dogs’ for deliveries",
+  "summary": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory that allows Spot to carry packages from a vehicle and autonomously unload them on a customer's doorstep in an effort to reduce a […]",
+  "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
+  "publishedAt": "2026-07-14T16:52:47.000Z",
+  "id": "the-verge-ccbe3726",
+  "slug": "the-verge-ccbe3726",
+  "content": "Boston Dynamics’ robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory that allows Spot to carry packages from a vehicle and autonomously unload them on a customer’s doorstep in an effort to reduce a delivery driver’s workload. While attempts have already been made to expedite and automate deliveries using wheeled robots or aerial drones, humans are still the most efficient way to navigate obstacles like stairs or cluttered pathways in order to get packages from a truck to a doorstep. A demo video shows a driver unloading packages onto Spot for doorstep distribution that Boston Dynamics hopes will be efficient enough to justify buying one of the $75k~ bots. [Media: https://www.youtube.com/watch?v=EI1zFxLVkrs] Boston Dynamics says it’s “already in talks with major logistics companies about testing Spot for a last-mile delivery solution” and its current goal is to move from these demos to a full pilot project. Spot’s unique ability to clamber over uneven terrain and navigate complicated obstacles could facilitate its use as a delivery assistant. The robot is already frequently used to help comb through rubble as part of search and rescue operations, and Boston Dynamics believes those capabilities could make it well suited for navigating the “unstructured environments of suburban neighborhoods” where the path from the curb to a front door is rarely obstacle-free. [Image: A new payload accessory allows Spot to carry multiple packages on its back and unload them using a short conveyor belt. https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/spot2.jpg?quality=90&strip=all] The robot will not only help reduce physical strain on delivery drivers, it will also give them more time for other tasks such as prepping the next delivery while Spot is dropping off its current payload, potentially increasing their capacity. “For every three packages delivered via Spot, we think we can add another package to the van,” says Paige Miller, Boston Dynamics’ senior staff product manager for Spot.",
+  "fetchedAt": "2026-07-15T00:12:10.091Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "波士顿动力公司尝试使用“机器狗”进行送货",
+  "chineseSummary": "波士顿动力公司的四足机器人 Spot 已经找到了日常工厂检查和庞贝遗址巡逻的工作，但是送货呢？该公司正在测试一种新的传送带配件，该配件允许 Spot 从车辆上携带包裹并自动将其卸载到客户的家门口，以减少 [...]",
+  "chineseContent": "波士顿动力公司的四足机器人 Spot 已经找到了日常工厂检查和庞贝遗址巡逻的工作，但是送货呢？该公司正在测试一种新型传送带配件，该配件允许 Spot 从车辆上搬运包裹并自动将其卸到客户家门口，以减少送货司机的工作量。尽管已经尝试使用轮式机器人或无人机来加快和自动化送货，但人类仍然是穿过楼梯或杂乱通道等障碍物，将包裹从卡车送到家门口的最有效方式。一段演示视频显示，一名司机将包裹卸到 Spot 上进行上门配送，波士顿动力公司希望这种效率足以证明购买价值 7.5 万美元的机器人是合理的。 [媒体：https://www.youtube.com/watch?v=EI1zFxLVkrs] 波士顿动力公司表示，它“已经与主要物流公司就测试 Spot 的最后一英里交付解决方案进行谈判”，其当前目标是从这些演示转向全面的试点项目。 Spot 能够攀爬不平坦的地形和穿越复杂障碍的独特能力可以促进其作为送货助手的使用。作为搜救行动的一部分，该机器人已经经常被用来帮助梳理废墟，波士顿动力公司相信，这些功能可以使其非常适合在“郊区社区的非结构化环境”中导航，在这些环境中，从路边到前门的路径很少无障碍。 [图片：一种新的有效负载配件允许 Spot 背上多个包裹，并使用短传送带卸载它们。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/spot2.jpg?quality=90&strip=all]机器人不仅有助于减少体力消耗",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

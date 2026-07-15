@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9ce368bb22",
+  "slug": "weibo-亚马尔数据",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "亚马尔数据",
+  "summary": "微博热榜第 13 位：亚马尔数据，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E6%95%B0%E6%8D%AE%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-07-15T00:10:40.616Z",
+  "fetchedAt": "2026-07-15T00:14:30.145Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

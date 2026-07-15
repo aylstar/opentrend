@@ -1,0 +1,21 @@
+{
+  "id": "weibo-16876d0b3e",
+  "slug": "weibo-长鑫科技公告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "长鑫科技公告",
+  "summary": "微博热榜第 19 位：长鑫科技公告，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-07-15T00:10:40.616Z",
+  "fetchedAt": "2026-07-15T00:14:30.145Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
