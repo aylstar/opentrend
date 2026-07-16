@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Historic IBM stock crash sets up unique options strategy",
+  "summary": "IBM shares fell just over $73 to ~$217 — a jaw-dropping 25% single-day decapitation.",
+  "url": "https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
+  "publishedAt": "2026-07-15T17:17:38.000Z",
+  "id": "cnbc-7a019f6e",
+  "slug": "cnbc-7a019f6e",
+  "content": "On July 14, 1789, the people of Paris stormed the Bastille, signaling a violent end to the absolute authority of the ancien régime . Today, on that very same date, (albeit 237 years later) the stock market staged its own financial revolution against the ancien régime of technology: International Business Machines.\n\nIBM shares fell just over $73 to ~$217 — a jaw-dropping 25% single-day decapitation. It is the steepest single-session drop in my lifetime, matching a scale of destruction not seen since January 3, 1968, before I was born.\n\nThe catalyst for this sudden coup was a preliminary Q2 sales miss . IBM reported revenue of $17.2 billion, falling short of Wall Street's $17.9 billion expectations, driven by a 7% slide in its infrastructure division. According to CEO Arvind Krishna, enterprise customers shifted their spending away from IBM's traditional products, hoarding cash to buy hardware, servers, and storage to hedge against AI-fueled supply shortages and impending price hikes. While this may be Krishna's own convenient narrative rather than an independently verified trend, the market didn't wait for a trial. The verdict was absolute, and the execution was swift.\n\nBut where there is panic, there is premium. In the option pits, the crowd has gathered but hasn't dispersed. Typically, when bad news drops, implied volatility undergoes a rapid \"vol crush.\" Instead, IBM's one-month implied volatility is trading at its 99.6%ile — dwarfing the premium expansion seen during the 2019 Taper Tantrum, the 2022 rate-hike bear market and the various tariff tantrums, exceeded only by the \"Pandemic Plunge\" in 2020.\n\nWith the market pricing in absolute chaos, it is time to adopt an \"off with their heads\" stance on high premiums. Since the stock has already endured a massive 25% structural re-rating, the majority of the downward momentum is likely exhausted. By selling the monthly August 21, 2026, 190/245 short strangle, we can collect a massive premium from terrified buyers, betting that the stock will quietly consolidate within its new post-revolutionary boundaries.\n\nPremium Captured: ~$11.25 per strangle (as of the July 14, 2026, close). This represents a 5.18% standstill yield relative to the underlying stock price in just 38 days.\n\nThis trade relies on a wide, symmetrical margin of safety. To breach the lower barrier of $178.75 — a level not visited since early 2024 — IBM would need to drop an additional 18% from its already-shattered state. If forced to take assignment, you are establishing a long position at a steep historical discount. On the upside, reclaiming $256.25 would require IBM to recoup more than half of today's historic sell-off before August expiration, an unlikely feat given the sudden enterprise freeze on software and consulting budgets.\n\nAs the dust settles on this Bastille Day blowout, the market has left the gates wide open for option sellers. The news is out, but panic has kept options premiums elevated. For those willing to capture the fear, the short strangle offers a high-probability path to watch the remaining premium slowly bleed away.",
+  "fetchedAt": "2026-07-16T00:54:13.007Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "历史性的 IBM 股票崩盘确立了独特的期权策略",
+  "chineseSummary": "IBM 股价下跌 73 美元多一点，至 217 美元左右，单日跌幅高达 25%，令人瞠目结舌。",
+  "chineseContent": "1789年7月14日，巴黎人民攻占巴士底狱，标志着旧政权的绝对权威以暴力结束。今天，就在同一天（尽管已经过去了 237 年），股票市场上演了自己的金融革命，反对旧的技术体制：国际商业机器公司。\n\nIBM 股价下跌 73 美元多一点，至 217 美元左右，单日跌幅高达 25%，令人瞠目结舌。这是我一生中单次跌幅最大的一次，破坏规模与 1968 年 1 月 3 日我出生前以来从未见过的破坏规模相当。\n\n这场突如其来的政变的催化剂是第二季度销售的初步下滑。 IBM 公布的营收为 172 亿美元，低于华尔街 179 亿美元的预期，原因是其基础设施部门下滑 7%。首席执行官 Arvind Krishna 表示，企业客户将支出从 IBM 的传统产品转移，囤积现金购买硬件、服务器和存储，以应对人工智能引发的供应短缺和即将到来的价格上涨。虽然这可能是克里希纳自己方便的叙述，而不是独立验证的趋势，但市场并没有等待审判。判决是绝对的，执行也很快。\n\n但哪里有恐慌，哪里就有溢价。期权坑里，人群已经聚集，但并未散去。通常，当坏消息下降时，隐含波动率会经历快速的“波动率崩溃”。相反，IBM 的一个月隐含波动率达到了 99.6%，这使得 2019 年缩减恐慌、2022 年加息熊市和各种关税恐慌期间的溢价扩张相形见绌，只有 2020 年的“大流行暴跌”才超过这一水平。\n\n在市场定价绝对混乱的情况下，是时候对高保费采取“砍头”的立场了。由于该股已经经历了 25% 的大规模结构性重估，大部分下行动力可能已经耗尽。通过卖出 2026 年 8 月 21 日的月度 190/245 空头宽跨式期权组合，我们可以从惊慌失措的买家那里收取巨额溢价，押注该股将在其新的后革命边界内悄然盘整。\n\n捕获的溢价：每勒宽期权约 11.25 美元（截至 2026 年 7 月 14 日收盘）。这意味着在短短 38 天内相对于标的股票价格的停滞收益率为 5.18%。\n\n这种交易依赖于广泛、对称的安全边际。要突破 178.75 美元的下限（自 2024 年初以来从未达到过的水平），IBM 需要从其已经破碎的状态再下跌 18%。如果被迫接受分配，您将以大幅历史折扣建立多头头寸。从好的方面来说，收回 256.25 美元需要 IBM 在 8 月到期之前收回今天历史性抛售的一半以上，考虑到企业突然冻结软件和咨询预算，这是一项不太可能的壮举。\n\n随着巴士底日井喷的尘埃落定，市场为期权卖家敞开了大门。消息已经传出，但恐慌情绪导致期权溢价持续走高。对于那些愿意捕捉恐惧的人来说，空头宽跨式期权提供了一条高概率的途径，让他们看到剩余的溢价慢慢流失。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

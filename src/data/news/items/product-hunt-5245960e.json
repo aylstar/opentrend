@@ -7,18 +7,18 @@
   "publishedAt": "2026-07-14T02:16:02.000Z",
   "id": "product-hunt-5245960e",
   "slug": "product-hunt-5245960e",
-  "content": "Turn any domain into on-brand ads, MIT Open Source Discussion | Link",
-  "fetchedAt": "2026-07-15T00:12:10.089Z",
-  "score": 79,
+  "content": "Branda turns any website URL into scroll-stopping, on-brand ads in seconds. Paste a link and Branda pulls the brand's real logo, colors, and campaign imagery via Context.dev's Brand API, reads the homepage so the copy sounds like the brand, and generates ready-to-ship creatives for LinkedIn and X. No login, no design skills, no assets to upload. Open-source and self-hostable.",
+  "fetchedAt": "2026-07-16T00:54:13.005Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 2,
-  "contentStatus": "fetch-failed",
+  "rank": 11,
+  "contentStatus": "article-extracted",
   "chineseTitle": "品牌",
   "chineseSummary": "将任何域名转变为品牌广告，麻省理工学院开源讨论 |关联",
-  "chineseContent": "将任何域名转变为品牌广告，麻省理工学院开源讨论 |关联",
+  "chineseContent": "Branda 可以在几秒钟内将任何网站 URL 变成滚动停止的品牌广告。粘贴链接，Branda 通过 Context.dev 的品牌 API 提取品牌的真实徽标、颜色和活动图像，读取主页，使副本听起来像品牌，并为 LinkedIn 和 X 生成可立即交付的创意。无需登录，无需设计技能，无需上传资产。开源且可自行托管。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

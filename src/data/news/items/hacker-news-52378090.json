@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Briar is in maintenance mode",
+  "summary": "146 points · 95 comments",
+  "content": "This is a quick update about the status of Briar. Short version: the project is still active but we&rsquo;re only making essential security updates and bugfixes for now.\n\nFor several years we&rsquo;ve been trying to find solutions to some of the longstanding issues with Briar, such as high battery usage and unreliable background operation on Android, missing features like account backup and file attachments, and a difficult user experience for adding contacts and communicating offline.\n\nWe considered completely rebuilding the application from the ground up, or even splitting it into separate applications for online and offline use. Meanwhile, the project didn&rsquo;t have funding, we were reluctant to look for funding without having a long-term plan, and so we could only work on Briar in our spare time.\n\nLast year, we decided that we wouldn&rsquo;t realistically be able to solve these issues and so we reluctantly decided to shut down the project. We worked on releasing a final update for Android and desktop to allow the app to remain functional for as long as possible. In the meantime we were hearing a lot of supportive words from people we had told about our decision, and the app continued to attract new users. So finally we decided to continue the project in maintenance mode. We&rsquo;re only making essential security updates and bugfixes for now, but eventually we hope to make some incremental progress on those longstanding issues.\n\nWe&rsquo;re sending out this update because some rumours have been circulating that the project is shutting down, based on conversations we had with people in the internet freedom and privacy community last year. Those rumours are out of date: the project is continuing.\n\nBriar has received funding from the Small Media Foundation , the Open Internet Tools Project , Access Now , the Open Technology Fund , the Prototype Fund , Internews , the NLnet Foundation , the Next Generation Internet programme, the ISC Project and eQualit.ie .\n\nNico Alt nico@briarproject.org > [ PGP key ]\n\nTorsten Grote torsten@briarproject.org > [ PGP key ]\n\nMichael Rogers contact@briarproject.org > [ PGP key ]\n\nBitcoin and BCH: 1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K",
+  "url": "https://briarproject.org/news/2026-maintenance-mode/",
+  "publishedAt": "2026-07-15T12:33:27.000Z",
+  "points": 146,
+  "id": "hacker-news-52378090",
+  "slug": "hacker-news-52378090",
+  "fetchedAt": "2026-07-16T00:54:13.004Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Briar 处于维护模式",
+  "chineseSummary": "146 分 · 95 条评论",
+  "chineseContent": "这是有关 Briar 状态的快速更新。简短版本：该项目仍然活跃，但我们目前只进行必要的安全更新和错误修复。\n\n多年来，我们一直在努力寻找 Briar 一些长期存在问题的解决方案，例如 Android 上的高电池使用率和不可靠的后台操作、缺少帐户备份和文件附件等功能，以及添加联系人和离线通信时的用户体验不佳。\n\n我们考虑从头开始完全重建应用程序，甚至将其拆分为单独的应用程序以供在线和离线使用。同时，该项目没有资金，我们在没有长远计划的情况下不愿意寻找资金，所以我们只能利用业余时间做Briar。\n\n去年，我们认为我们实际上无法解决这些问题，因此我们不情愿地决定关闭该项目。我们致力于发布 Android 和桌面版的最终更新，以使应用程序尽可能长时间地保持功能。与此同时，我们听到了很多人对我们的决定的支持，并且该应用程序继续吸引新用户。所以最终我们决定以维护模式继续该项目。目前我们只进行必要的安全更新和错误修复，但最终我们希望在这些长期存在的问题上取得一些渐进的进展。\n\n我们之所以发出此更新，是因为根据去年我们与互联网自由和隐私社区人士的对话，有一些谣言称该项目即将关闭。这些谣言已经过时：该项目仍在继续。\n\nBriar 已获得来自小型媒体基金会、开放互联网工具项目、Access Now、开放技术基金、原型基金、Internews、NLnet 基金会、下一代互联网计划、ISC 项目和 eQualit.ie 的资助。\n\nNico Alt nico@briarproject.org > [ PGP 密钥 ]\n\nTorsten Grote torsten@briarproject.org > [ PGP 密钥 ]\n\n迈克尔·罗杰斯 contact@briarproject.org > [ PGP 密钥 ]\n\n比特币和 BCH：1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

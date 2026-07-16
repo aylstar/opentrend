@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d690fa6d5b",
+  "slug": "weibo-中国用户终于迎来满血iphone",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "中国用户终于迎来满血iPhone",
+  "summary": "微博热榜第 10 位：中国用户终于迎来满血iPhone，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E7%BB%88%E4%BA%8E%E8%BF%8E%E6%9D%A5%E6%BB%A1%E8%A1%80iPhone%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-07-16T00:48:55.007Z",
+  "fetchedAt": "2026-07-16T00:55:17.075Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

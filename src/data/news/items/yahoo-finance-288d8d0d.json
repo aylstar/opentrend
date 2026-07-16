@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Apple, Google Mask Dell, Sandisk, Micron Sell-Off; J.B. Hunt Jumps Late",
+  "summary": "Dell, Sandisk and Micron led an AI sell-off, masked by megacaps such as Apple. SpaceX undercut its IPO price. Taiwan Semi, GE Aerospace earnings are due.",
+  "url": "https://finance.yahoo.com/m/9b2a3551-5bcd-34f5-9f61-00ac74d553c1/dow-jones-futures%3A-apple%2C.html?.tsrc=rss",
+  "publishedAt": "2026-07-16T00:38:53.000Z",
+  "id": "yahoo-finance-288d8d0d",
+  "slug": "yahoo-finance-288d8d0d",
+  "content": "Dell, Sandisk and Micron led an AI sell-off, masked by megacaps such as Apple. SpaceX undercut its IPO price. Taiwan Semi, GE Aerospace earnings are due.",
+  "fetchedAt": "2026-07-16T00:54:13.006Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "财经"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：苹果、谷歌蒙版戴尔、Sandisk、美光抛售； J.B.亨特迟到了",
+  "chineseSummary": "戴尔、Sandisk 和美光引领了人工智能抛售潮，但被苹果等大型企业所掩盖。 SpaceX 降低了 IPO 价格。台积电和通用电气航空航天公司即将公布财报。",
+  "chineseContent": "戴尔、Sandisk 和美光引领了人工智能抛售潮，但被苹果等大型企业所掩盖。 SpaceX 降低了 IPO 价格。台积电和通用电气航空航天公司即将公布财报。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "chriskohlhoff__asio",
+  "owner": "chriskohlhoff",
+  "repo": "asio",
+  "name": "asio",
+  "fullName": "chriskohlhoff/asio",
+  "description": "Asio C++ Library",
+  "language": "C++",
+  "githubUrl": "https://github.com/chriskohlhoff/asio",
+  "docsUrl": "http://think-async.com/Asio",
+  "stars": 6182,
+  "forks": 1511,
+  "openIssues": 1071,
+  "license": "NOASSERTION",
+  "pushedAt": "2026-07-08T09:28:48Z",
+  "updatedAt": "2026-07-16T00:49:25Z",
+  "createdAt": "2011-02-15T05:18:45Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "自动化办公"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "asio version 1.38.1\nReleased Thursday, 14 May 2026.\n\nVisit https://think-async.com/ or see packaged doc/index.html for API\ndocumentation and a tutorial.\n",
+  "generatedAt": "2026-07-16T00:53:56.145Z",
+  "analysis": {
+    "oneLine": "asio 是一个值得跟踪的开源项目，适合用于技术选型、原型验证和同类产品研究。",
+    "problem": "降低技术团队发现、理解和验证新工具的成本",
+    "audience": "技术负责人、独立开发者、小团队和需要寻找可复用工具的业务人员",
+    "detailParagraphs": [
+      "asio 更准确地说是一个值得跟踪的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：降低技术团队发现、理解和验证新工具的成本。",
+      "如果把它放进实际使用场景，asio 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 6,182，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C++ 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性。需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。当前最需要警惕的是：主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "技术选型初筛",
+      "内部工具原型验证",
+      "同类产品和工程实践研究"
+    ],
+    "interpretation": "asio 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 C++ 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在技术选型、原型验证和同类产品研究，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 C++ 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。",
+    "recommendation": 2.3,
+    "tags": [
+      "自动化办公"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-16T00:53:56.145Z"
+}

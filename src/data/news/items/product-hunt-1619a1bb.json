@@ -7,19 +7,19 @@
   "publishedAt": "2026-07-14T03:39:00.000Z",
   "id": "product-hunt-1619a1bb",
   "slug": "product-hunt-1619a1bb",
-  "content": "Direct manipulation of static images on the Mac platform Discussion | Link",
-  "fetchedAt": "2026-07-15T00:12:10.090Z",
-  "score": 79,
+  "content": "Bitmap images are still, even in 2026, a hugely important medium of communication. Which is why I made Mojave Paint – a Mac-based image editor that lets you really own the production of these bitmap images. They've been making image editors since the original Mac and the Amiga and I'm sure even long before that. But somehow the choices in the modern era fall short. So I have a new option, presented by an upstart software shop in Seattle. If you're looking for AI features, look elsewhere.",
+  "fetchedAt": "2026-07-16T00:54:13.006Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "科技",
     "全球"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 12,
+  "contentStatus": "article-extracted",
   "chineseTitle": "莫哈韦油漆",
   "chineseSummary": "Mac平台直接操作静态图片讨论|关联",
-  "chineseContent": "Mac平台直接操作静态图片讨论|关联",
+  "chineseContent": "即使到了 2026 年，位图图像仍然是一种非常重要的通信媒介。这就是我制作 Mojave Paint 的原因——一款基于 Mac 的图像编辑器，可让您真正掌控这些位图图像的制作。自最初的 Mac 和 Amiga 诞生以来，他们就一直在制作图像编辑器，我确信甚至早在这之前。但不知怎的，现代的选择却不尽如人意。所以我有一个新的选择，由西雅图的一家新贵软件商店提供。如果您正在寻找人工智能功能，请寻找其他地方。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

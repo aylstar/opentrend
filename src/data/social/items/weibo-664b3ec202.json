@@ -1,0 +1,21 @@
+{
+  "id": "weibo-664b3ec202",
+  "slug": "weibo-打卡中国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "打卡中国",
+  "summary": "微博热榜第 3 位：打卡中国，当前热度为 172万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E4%B8%AD%E5%9B%BD%23",
+  "hotValue": "172万热度",
+  "author": "",
+  "publishedAt": "2026-07-16T00:48:55.007Z",
+  "fetchedAt": "2026-07-16T00:55:17.075Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

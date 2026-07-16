@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9168d0ca29",
+  "slug": "weibo-世界第1对世界第2",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "世界第1对世界第2",
+  "summary": "微博热榜第 42 位：世界第1对世界第2，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%AC%AC1%E5%AF%B9%E4%B8%96%E7%95%8C%E7%AC%AC2%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-16T00:48:55.007Z",
+  "fetchedAt": "2026-07-16T00:55:17.075Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

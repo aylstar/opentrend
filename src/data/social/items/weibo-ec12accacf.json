@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec12accacf",
+  "slug": "weibo-中老年妇女困境",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "中老年妇女困境",
+  "summary": "微博热榜第 27 位：中老年妇女困境，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%81%E5%B9%B4%E5%A6%87%E5%A5%B3%E5%9B%B0%E5%A2%83%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-07-16T00:48:55.007Z",
+  "fetchedAt": "2026-07-16T00:55:17.075Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

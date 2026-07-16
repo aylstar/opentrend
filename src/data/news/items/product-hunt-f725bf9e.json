@@ -7,18 +7,18 @@
   "publishedAt": "2026-07-13T06:32:29.000Z",
   "id": "product-hunt-f725bf9e",
   "slug": "product-hunt-f725bf9e",
-  "content": "Multiple Tailscale tailnets at once, no switching + no VM Discussion | Link",
-  "fetchedAt": "2026-07-15T00:12:10.090Z",
+  "content": "The official Tailscale client keeps one tailnet active at a time. TailMux makes work and personal tailnets reachable simultaneously on macOS and Linux, without switching accounts, running multiple system daemons, or using a VM. It runs an isolated embedded node per profile and routes by hostname, with strict no-fallback isolation. Use SSH, RDP/SMB, browsers, curl, git, and npm across tailnets at the same time.",
+  "fetchedAt": "2026-07-16T00:54:13.006Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 12,
-  "contentStatus": "fetch-failed",
+  "rank": 13,
+  "contentStatus": "article-extracted",
   "chineseTitle": "尾复用器",
   "chineseSummary": "一次多个 Tailscale tailnet，无需切换+无需 VM 讨论 |关联",
-  "chineseContent": "一次多个 Tailscale tailnet，无需切换+无需 VM 讨论 |关联",
+  "chineseContent": "官方 Tailscale 客户端一次保持一个 tailnet 处于活动状态。 TailMux 使工作和个人尾网可以在 macOS 和 Linux 上同时访问，无需切换帐户、运行多个系统守护程序或使用虚拟机。它为每个配置文件运行一个隔离的嵌入式节点，并按主机名进行路由，并具有严格的无回退隔离。同时跨尾网使用 SSH、RDP/SMB、浏览器、curl、git 和 npm。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
