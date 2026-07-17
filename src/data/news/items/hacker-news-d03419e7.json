@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Timeline Scan – AI fixes the dates on your scanned photos",
+  "summary": "23 points · 22 comments",
+  "content": "Timeline Scan reads handwriting on the back and clues in each scanned photo to restore its real date, so your family photos appear in the right years in Google Photos, Apple Photos, Immich, or any photo library.",
+  "url": "https://timelinescan.com/",
+  "publishedAt": "2026-07-16T20:25:47.000Z",
+  "points": 23,
+  "id": "hacker-news-d03419e7",
+  "slug": "hacker-news-d03419e7",
+  "fetchedAt": "2026-07-17T00:57:35.781Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "时间轴扫描 – AI 修复扫描照片上的日期",
+  "chineseSummary": "23 分 · 22 条评论",
+  "chineseContent": "时间轴扫描可读取背面的笔迹和每张扫描照片中的线索，以恢复其真实日期，以便您的家庭照片以正确的年份出现在 Google Photos、Apple Photos、Immich 或任何照片库中。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "2026-07-17",
+  "date": "2026-07-17",
+  "title": "2026年07月17日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-07-17T00:57:21.384Z",
+  "stats": {
+    "totalProjects": 19,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "usestrix__strix",
+      "deusdata__codebase-memory-mcp",
+      "diegosouzapw__omniroute"
+    ],
+    "weekly": [
+      "google-labs-code__stitch-skills",
+      "wonderwhy-er__desktopcommandermcp",
+      "abseil__abseil-cpp",
+      "nutlope__hallmark",
+      "hkuds__vibe-trading",
+      "chriskohlhoff__asio",
+      "stablyai__orca",
+      "oven-sh__bun",
+      "opencut-app__opencut",
+      "iofficeai__officecli"
+    ],
+    "monthly": [
+      "stablyai__orca",
+      "calesthio__openmontage",
+      "deusdata__codebase-memory-mcp",
+      "asgeirtj__system_prompts_leaks",
+      "kunchenguid__no-mistakes",
+      "usestrix__strix",
+      "ogulcancelik__herdr",
+      "zackriya-solutions__meetily",
+      "diegosouzapw__omniroute",
+      "panniantong__agent-reach"
+    ],
+    "commercial": [
+      "google-labs-code__stitch-skills",
+      "wonderwhy-er__desktopcommandermcp",
+      "abseil__abseil-cpp",
+      "hkuds__vibe-trading",
+      "chriskohlhoff__asio",
+      "stablyai__orca"
+    ],
+    "deployable": [
+      "google-labs-code__stitch-skills",
+      "wonderwhy-er__desktopcommandermcp",
+      "abseil__abseil-cpp",
+      "nutlope__hallmark",
+      "hkuds__vibe-trading",
+      "chriskohlhoff__asio"
+    ],
+    "risky": [
+      "google-labs-code__stitch-skills",
+      "wonderwhy-er__desktopcommandermcp",
+      "abseil__abseil-cpp",
+      "nutlope__hallmark",
+      "hkuds__vibe-trading",
+      "chriskohlhoff__asio"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 19 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "google-labs-code__stitch-skills",
+    "wonderwhy-er__desktopcommandermcp",
+    "abseil__abseil-cpp",
+    "nutlope__hallmark",
+    "hkuds__vibe-trading",
+    "chriskohlhoff__asio",
+    "stablyai__orca",
+    "oven-sh__bun",
+    "opencut-app__opencut",
+    "iofficeai__officecli",
+    "calesthio__openmontage",
+    "deusdata__codebase-memory-mcp",
+    "asgeirtj__system_prompts_leaks",
+    "kunchenguid__no-mistakes",
+    "usestrix__strix",
+    "ogulcancelik__herdr",
+    "zackriya-solutions__meetily",
+    "diegosouzapw__omniroute",
+    "panniantong__agent-reach"
+  ]
+}

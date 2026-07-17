@@ -1,0 +1,21 @@
+{
+  "id": "weibo-45583c74d1",
+  "slug": "weibo-a股",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "A股",
+  "summary": "微博热榜第 49 位：A股，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-07-17T00:52:17.130Z",
+  "fetchedAt": "2026-07-17T00:58:34.256Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

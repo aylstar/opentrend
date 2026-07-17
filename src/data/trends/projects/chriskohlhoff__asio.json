@@ -8,12 +8,12 @@
   "language": "C++",
   "githubUrl": "https://github.com/chriskohlhoff/asio",
   "docsUrl": "http://think-async.com/Asio",
-  "stars": 6182,
-  "forks": 1511,
+  "stars": 6092,
+  "forks": 1420,
   "openIssues": 1071,
   "license": "NOASSERTION",
   "pushedAt": "2026-07-08T09:28:48Z",
-  "updatedAt": "2026-07-16T00:49:25Z",
+  "updatedAt": "2026-07-16T23:39:05Z",
   "createdAt": "2011-02-15T05:18:45Z",
   "archived": false,
   "trendWindows": [
@@ -24,14 +24,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "asio version 1.38.1\nReleased Thursday, 14 May 2026.\n\nVisit https://think-async.com/ or see packaged doc/index.html for API\ndocumentation and a tutorial.\n",
-  "generatedAt": "2026-07-16T00:53:56.145Z",
+  "generatedAt": "2026-07-17T00:57:16.623Z",
   "analysis": {
     "oneLine": "asio 是一个值得跟踪的开源项目，适合用于技术选型、原型验证和同类产品研究。",
     "problem": "降低技术团队发现、理解和验证新工具的成本",
     "audience": "技术负责人、独立开发者、小团队和需要寻找可复用工具的业务人员",
     "detailParagraphs": [
       "asio 更准确地说是一个值得跟踪的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：降低技术团队发现、理解和验证新工具的成本。",
-      "如果把它放进实际使用场景，asio 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 6,182，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C++ 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，asio 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 6,092，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C++ 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性。需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。当前最需要警惕的是：主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

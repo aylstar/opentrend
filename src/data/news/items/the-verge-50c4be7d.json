@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Roblox will let people use AI to make games on their phone",
+  "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project […]",
+  "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+  "publishedAt": "2026-07-16T16:45:29.000Z",
+  "id": "the-verge-50c4be7d",
+  "slug": "the-verge-50c4be7d",
+  "content": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that’s already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google’s Project Genie, an AI foundation model that developers can use to generate 3D game assets, and an AI assistant chatbot that can help developers while they’re building games. The tools announced today will make using AI for Roblox game development far more accessible, though the company is starting small at first. The new feature is called Build, which “brings mobile-first AI creation to Roblox, allowing anyone to turn text prompts into a basic game directly within the Roblox mobile app,” according to a blog post. Build handles “gameplay mechanics, environment, characters, visual style, sound, and more,” and it’s powered by both Roblox’s own AI models and open-source models. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/bc4c60d9-5fc2-45e1-b10e-192b762110a2.png?quality=90&strip=all] Roblox is positioning Build as something that allows “rapid exploration and refinement of ideas,” but it’s easy to imagine that people might start churning out games because of how much the AI tools will lower the barrier to entry. However, the company claims that games made with Build will be ranked by the same retention-based criteria as other Roblox experiences, so games that aren’t played theoretically won’t get picked up by Roblox’s discovery systems. “Our discovery systems are designed to highlight games with long-term retention, which doesn’t include AI slop,” Roblox says. “The quality of games on the homepage isn’t changing: If no one plays it—no one can find it.” Initially, Build will be available starting July 28th in public alpha to users in New Zealand who are at least nine years old and have verified their ages. Published games will be playable globally by users 16 and older. A “base-level” version of Build will be available at no cost, though there will be “additional paid options for power users.” Roblox doesn’t have specifics to share about those paid options right now, and the company will share more “as we continue to roll out to more regions in the coming months,” spokesperson Juliet Chaitin-Lefcourt tells The Verge.&nbsp; Roblox is also working on new AI agents to help developers that will be available in both Build and Studio, including a playtesting agent, an analytics agent, and an agent that can run experiments to help improve engagement, retention, and monetization. These will ship over the “coming months.”",
+  "fetchedAt": "2026-07-17T00:57:35.784Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Roblox 将让人们使用 AI 在手机上制作游戏",
+  "chineseSummary": "Roblox 即将让人们在其移动应用程序中使用人工智能制作游戏，这可能会让一个已经充满质量可疑内容的平台感觉更加超载。该公司张开双臂拥抱人工智能，包括预览类似于谷歌项目的雄心勃勃的人工智能世界模型[…]",
+  "chineseContent": "Roblox 即将让人们在其移动应用程序中使用人工智能制作游戏，这可能会让一个已经充满质量可疑内容的平台感觉更加超载。该公司张开双臂拥抱人工智能，包括预览类似于谷歌 Project Genie 的雄心勃勃的人工智能世界模型，开发者可以用它来生成 3D 游戏资产的人工智能基础模型，以及可以在开发者构建游戏时为开发者提供帮助的人工智能助理聊天机器人。今天宣布的工具将使使用人工智能进行 Roblox 游戏开发变得更加容易，尽管该公司一开始规模很小。根据一篇博客文章，这项新功能称为 Build，它“为 Roblox 带来了移动优先的人工智能创作，允许任何人直接在 Roblox 移动应用程序中将文本提示转变为基本游戏”。 Build 处理“游戏机制、环境、角色、视觉风格、声音等”，并且由 Roblox 自己的 AI 模型和开源模型提供支持。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/bc4c60d9-5fc2-45e1-b10e-192b762110a2.png?quality=90&strip=all] Roblox 将 Build 定位为允许“快速探索和完善想法”的东西，但很容易想象人们可能会开始大量制作游戏是因为人工智能工具将大大降低进入门槛。然而，该公司声称，使用 Build 制作的游戏将按照与其他 Roblox 体验相同的基于保留的标准进行排名，因此理论上没有玩过的游戏不会被 Roblox 的发现系统选中。 “我们的发现系统旨在突出具有长期保留性的游戏，其中不包括人工智能溢出，”Roblox 说。 “主页上的游戏质量没有改变：如果没有人玩，那就没有人",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
