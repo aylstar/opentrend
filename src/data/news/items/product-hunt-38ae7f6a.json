@@ -7,18 +7,18 @@
   "publishedAt": "2026-07-15T15:17:54.000Z",
   "id": "product-hunt-38ae7f6a",
   "slug": "product-hunt-38ae7f6a",
-  "content": "Cloudflare-native Email Infrastructure for Developers Discussion | Link",
-  "fetchedAt": "2026-07-17T00:57:35.782Z",
+  "content": "Inbix is an open-source, Cloudflare-native email infrastructure platform built for developers. Create disposable inboxes, receive emails in real time, automate workflows with webhooks, and integrate seamlessly using REST APIs, SDKs, and MCP. Designed for testing, CI/CD, AI agents, and modern developer workflows without relying on proprietary infrastructure.",
+  "fetchedAt": "2026-07-18T00:14:24.983Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 11,
-  "contentStatus": "fetch-failed",
+  "rank": 13,
+  "contentStatus": "article-extracted",
   "chineseTitle": "英比克斯",
   "chineseSummary": "Cloudflare-面向开发人员的原生电子邮件基础设施讨论 |关联",
-  "chineseContent": "Cloudflare-面向开发人员的原生电子邮件基础设施讨论 |关联",
+  "chineseContent": "Inbix 是一个专为开发人员构建的开源 Cloudflare 原生电子邮件基础设施平台。创建一次性收件箱、实时接收电子邮件、使用 Webhook 自动化工作流程，并使用 REST API、SDK 和 MCP 无缝集成。专为测试、CI/CD、AI 代理和现代开发人员工作流程而设计，无需依赖专有基础设施。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

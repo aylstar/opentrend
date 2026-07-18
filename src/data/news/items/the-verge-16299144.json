@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "TikTok is testing an AI likeness detection tool",
+  "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool […]",
+  "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+  "publishedAt": "2026-07-17T19:34:30.000Z",
+  "id": "the-verge-16299144",
+  "slug": "the-verge-16299144",
+  "content": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with “some” US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool and recently made it available to all adult users. Creators who are part of TikTok’s test and want to use the tool will first have to verify their identity with a company called Jumio. You’ll have to do a real-time selfie scan and an ID check, but Kizer says that “TikTok does not retain ID documents, and facial information is used only for likeness matching and to help identify potential unauthorized uses of a creator’s likeness.”&nbsp; After verification, TikTok’s system scans for AI-generated content potentially using a creator’s likeness. From there, a creator can review what TikTok found and potentially report unauthorized posts and accounts. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/image-4.png?quality=90&strip=all]",
+  "fetchedAt": "2026-07-18T00:14:24.984Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "产品",
+    "视频"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "TikTok 正在测试 AI 相似度检测工具",
+  "chineseSummary": "社交媒体顾问马特·纳瓦拉 (Matt Navarra) 发现，TikTok 正在开始测试一种选择加入工具，该工具可以扫描人工智能相似之处，并让创作者向公司报告。 TikTok 美国发言人 Zachary Kizer 告诉 The Verge，该工具最初正在与“一些”美国创作者进行测试。 YouTube 一直在开发类似的工具 [...]",
+  "chineseContent": "社交媒体顾问马特·纳瓦拉 (Matt Navarra) 发现，TikTok 正在开始测试一种选择加入工具，该工具可以扫描人工智能相似之处，并让创作者向公司报告。 TikTok 美国发言人 Zachary Kizer 告诉 The Verge，该工具最初正在与“一些”美国创作者进行测试。 YouTube 一直在开发类似的工具，最近向所有成年用户开放。参与 TikTok 测试并想要使用该工具的创作者首先必须向一家名为 Jumio 的公司验证自己的身份。你必须进行实时自拍扫描和身份检查，但 Kizer 表示，“TikTok 不会保留身份证件，面部信息仅用于肖像匹配，并帮助识别创作者肖像的潜在未经授权使用。”  经过验证后，TikTok 的系统会扫描可能使用创作者肖像的人工智能生成内容。创作者可以从那里查看 TikTok 发现的内容，并可能报告未经授权的帖子和帐户。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/image-4.png?quality=90&strip=all]",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

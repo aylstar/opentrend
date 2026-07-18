@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ca770c8d59",
+  "slug": "weibo-功夫女足",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "功夫女足",
+  "summary": "微博热榜第 36 位：功夫女足，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-07-18T00:14:01.499Z",
+  "fetchedAt": "2026-07-18T00:15:07.755Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

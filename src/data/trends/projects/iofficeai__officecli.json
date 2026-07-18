@@ -8,12 +8,12 @@
   "language": "C#",
   "githubUrl": "https://github.com/iOfficeAI/OfficeCLI",
   "docsUrl": "https://officecli.ai",
-  "stars": 18391,
-  "forks": 1228,
-  "openIssues": 45,
+  "stars": 18824,
+  "forks": 1261,
+  "openIssues": 50,
   "license": "Apache-2.0",
-  "pushedAt": "2026-07-14T07:11:38Z",
-  "updatedAt": "2026-07-17T00:55:29Z",
+  "pushedAt": "2026-07-17T20:13:56Z",
+  "updatedAt": "2026-07-18T00:14:07Z",
   "createdAt": "2026-03-15T07:39:12Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# OfficeCLI\n\n> **OfficeCLI is the world's first and the best Office suite designed for AI agents.**\n\n**Give any AI agent full control over Word, Excel, and PowerPoint — in one line of code.**\n\nOpen-source. Single binary. No Office installation. No dependencies. Works everywhere.\n\n**OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity — and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render → look → fix* loop.\n\n[![GitHub Release](https://img.shields.io/github/v/release/iOfficeAI/OfficeCLI)](https://github.com/iOfficeAI/OfficeCLI/releases)\n[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)\n\n**English** | [中文](README_zh.md) | [日本語](README_ja.md) | [한국어](README_ko.md)\n\n<p align=\"center\">\n  <strong>🌐 Website:</strong> <a href=\"https://officecli.ai\" target=\"_blank\">officecli.ai</a> &nbsp;|&nbsp; <strong>💬 Community:</strong> <a href=\"https://discord.gg/2QAwJn7Egx\" target=\"_blank\">Discord</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/ppt-process.webp\" alt=\"OfficeCLI creating a PowerPoint presentation on AionUi\" width=\"100%\">\n</p>\n\n<p align=\"center\"><em>PPT creation process using OfficeCLI on <a href=\"https://github.com/iOfficeAI/AionUi\">AionUi</a></em></p>\n\n<p align=\"center\"><strong>PowerPoint Presentations</strong></p>\n\n<table>\n<tr>\n<td width=\"33%\"><img src=\"assets/designwhatmovesyou.gif\" alt=\"OfficeCLI design presentation (PowerPoint)\"></td>\n<td width=\"33%\"><img src=\"assets/horizon.gif\" alt=\"OfficeCLI business presentation (PowerPoint)\"></td>\n<td width=\"33%\"><img src=\"assets/efforless.gif\" alt=\"OfficeCLI tech presentation (PowerPoint)\"></td>\n</tr>\n<tr>\n<td width=\"33%\"><img src=\"assets/blackhole.gif\" alt=\"OfficeCLI space presentation (PowerPoint)\"></td>\n<td width=\"33%\"><img src=\"assets/first-ppt-aionui.gif\" alt=\"OfficeCLI gaming presentation (PowerPoint)\"></td>\n<td width=\"33%\"><img src=\"assets/shiba.gif\" alt=\"OfficeCLI creative presentation (PowerPoint)\"></td>\n</tr>\n</table>\n\n<p align=\"center\">—</p>\n<p align=\"center\"><strong>Word Documents</strong></p>\n\n<table>\n<tr>\n<td width=\"33%\"><img src=\"assets/showcase/word1.gif\" alt=\"OfficeCLI academic paper (Word)\"></td>\n<td width=\"33%\"><img src=\"assets/showcase/word2.gif\" alt=\"OfficeCLI project proposal (Word)\"></td>\n<td width=\"33%\"><img src=\"assets/showcase/word3.gif\" alt=\"OfficeCLI annual report (Word)\"></td>\n</tr>\n</table>\n\n<p align=\"center\">—</p>\n<p align=\"center\"><strong>Excel Spreadsheets</strong></p>\n\n<table>\n<tr>\n<td width=\"33%\"><img src=\"assets/showcase/excel1.gif\" alt=\"OfficeCLI budget tracker (Excel)\"></td>\n<td width=\"33%\"><img src=\"assets/showcase/excel2.gif\" alt=\"OfficeCLI gradebook (Excel)\"></td>\n<td width=\"33%\"><img src=\"assets/showcase/excel3.gif\" alt=\"OfficeCLI sales dashboard (Excel)\"></td>\n</tr>\n</table>\n\n<p align=\"center\"><em>All documents above were created entirely by AI agents using OfficeCLI — no templates, no manual editing.</em></p>\n\n## For AI Agents — Get Started in On",
-  "generatedAt": "2026-07-17T00:57:18.065Z",
+  "generatedAt": "2026-07-18T00:14:09.566Z",
   "analysis": {
     "oneLine": "OfficeCLI 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "OfficeCLI 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，OfficeCLI 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 18,391，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C# 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，OfficeCLI 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 18,824，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C# 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

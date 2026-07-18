@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Amami",
+  "summary": "Analytics that lives inside your AI assistant Discussion | Link",
+  "url": "https://www.producthunt.com/products/amami",
+  "publishedAt": "2026-07-15T04:17:53.000Z",
+  "id": "product-hunt-383d4baf",
+  "slug": "product-hunt-383d4baf",
+  "content": "I built Amami because I was tired of tab-switching between Cursor and a browser tab just to check how many people visited my site. Amami is privacy-first analytics with native MCP support — you literally ask Codex/Claude \"how's my traffic?\" and get answers + recommendations without leaving your editor. No cookies, no consent banners, <2KB script. Start to use it now !",
+  "fetchedAt": "2026-07-18T00:14:24.983Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "爱我",
+  "chineseSummary": "人工智能助手中的分析功能关联",
+  "chineseContent": "我创建了 Amami，因为我厌倦了在光标和浏览器选项卡之间切换选项卡只是为了检查有多少人访问了我的网站。 Amami 是隐私优先的分析工具，具有原生 MCP 支持 - 您实际上会问 Codex/Claude “我的流量怎么样？”无需离开编辑即可获得答案+建议。无 cookie、无同意横幅、<2KB 脚本。现在就开始使用吧！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

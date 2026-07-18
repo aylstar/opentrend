@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
+  "summary": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 […]",
+  "url": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+  "publishedAt": "2026-07-17T15:34:35.000Z",
+  "id": "the-verge-990da94b",
+  "slug": "the-verge-990da94b",
+  "content": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 devices and gain access to 80 crypto wallets. Though the complaint doesn’t specifically say the games were uploaded to Steam, it’s likely referring to the Valve-owned gaming platform. As noted by Local10, the FBI put out a call for victim information in a “Steam malware investigation” that includes the games listed in the lawsuit, including BlockBlasters, Chemia, Dashverse/DashFPS, Lampy, Lunara, PirateFi, and Tokenova. Last year, several outlets also reported on Steam’s removal of some of these cryptostealing games, such as Blockblasters, which took more than $150,000 from victims, including a streamer raising funds for their cancer treatment. The lawsuit is also filed in a Washington court, where Valve is based. Valve didn’t immediately respond to a request for comment. The complaint alleges Wilkins and co-conspirators “marketed the malware-embedded video games on social media and messaging platforms, such as Discord, Telegram, X / Twitter, and LinkedIn, and encouraged others to download the games.” From there, authorities allege the conspirators used the malware to steal their victims’ private information and drain their crypto wallets. Federal agents linked Wilkins to the case after obtaining his crypto wallet address in messages with an alleged co-conspirator. They traced the crypto address to an account on Bitrefill, a site where users can purchase gift cards with crypto. The account tied to Wilkins purchased more than 150 gift cards, including to Uber Eats, which authorities used to uncover his phone number, and eventually, an address. Wilkins was arrested on July 14th and charged with conspiracy to obtain information by computer for private financial gain.",
+  "fetchedAt": "2026-07-18T00:14:24.985Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融",
+    "产品"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "佛罗里达州男子因涉嫌使用 Steam 游戏恶意软件窃取超过 20 万美元的加密货币而被捕",
+  "chineseSummary": "据当地新闻媒体 Local10 早些时候报道，联邦当局逮捕了一名佛罗里达州男子，该男子涉嫌通过受恶意软件感染的 Steam 游戏窃取至少 22 万美元的加密货币。在诉状中，官员指控 21 岁的 Zyaire Wilkins 及其同谋在 2024 年 5 月至 2026 年 2 月期间推出了 8 款嵌入恶意软件的游戏，使他们感染了约 8,000 [...]",
+  "chineseContent": "据当地新闻媒体 Local10 早些时候报道，联邦当局逮捕了一名佛罗里达州男子，该男子涉嫌通过受恶意软件感染的 Steam 游戏窃取至少 22 万美元的加密货币。在起诉书中，官员指控 21 岁的 Zyaire Wilkins 及其同谋在 2024 年 5 月至 2026 年 2 月期间推出了 8 款嵌入恶意软件的游戏，使他们能够感染约 8,000 台设备并获得对 80 个加密钱包的访问权限。尽管投诉没有具体说明这些游戏已上传到 Steam，但很可能指的是 Valve 旗下的游戏平台。据 Local10 报道，FBI 在“Steam 恶意软件调查”中呼吁提供受害者信息，调查范围包括诉讼中列出的游戏，包括 BlockBlasters、Chemia、Dashverse/DashFPS、Lampy、Lunara、PirateFi 和 Tokenova。去年，多家媒体还报道了 Steam 下架了部分加密货币盗窃游戏，例如 Blockblasters，该游戏从受害者那里拿走了超过 15 万美元，其中包括一个为癌症治疗筹集资金的主播。该诉讼还在 Valve 所在地华盛顿法院提起。 Valve 没有立即回应置评请求。诉状称，威尔金斯和同谋“在社交媒体和消息平台（例如 Discord、Telegram、X / Twitter 和 LinkedIn）上推销嵌入恶意软件的视频游戏，并鼓励其他人下载这些游戏。”当局指控阴谋者利用该恶意软件窃取受害者的私人信息并耗尽他们的加密钱包。联邦特工在与一名涉嫌同谋的消息中获得了威尔金斯的加密钱包地址后，将他与此案联系起来。他们将加密地址追踪到 Bitrefill 上的一个帐户，该网站上用户可以使用加密货币购买礼品卡。该帐户",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

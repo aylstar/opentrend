@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Texas wins court order to suspend domain name for violating age-verification law",
+  "summary": "56 points · 34 comments",
+  "content": "Crime Victims’ Compensation Program\n\n2025 Texas Legislative Session Update\n\nAttorney General Ken Paxton secured a landmark court order to cut off a pornographic website’s ability to operate under its domain name after the company failed to take measures to protect children from the harmful sexual content it published. This legal victory establishes a significant precedent for enforcing age-verification laws against non-compliant foreign operators.\n\nIn April 2024, Attorney General Paxton sued Kick Online Entertainment (“Kick”), the owner of the pornographic website motherless.com, for violating Texas’s age-verification law. He subsequently obtained a Default Judgment and Permanent Injunction requiring the company to stop publishing harmful sexual material to minors and implement reasonable age-verification measures. Kick Online, which openly describes itself as a “moral free” company, ignored the lawsuit and refused to comply with the court’s order. It continued publishing and distributing harmful sexual material that was accessible to minors in Texas.\n\nNow, to secure compliance and safeguard Texas children, Attorney General Paxton has obtained a court-ordered writ directing Verisign, the company that maintains the “.com” domain registry, to place the domain “motherless.com” on a registry lock, hold, or similar status. Under the court’s order, Kick may only seek to replevy the domain by posting a $9.14 million bond conditioned on implementing age verification that complies with Texas law and satisfying the civil penalties previously awarded in the case.\n\n“This court order establishes a huge precedent that websites can be stripped of their domain if they ignore the law and harm children with pornographic content,” said Attorney General Paxton. “This affirms that protecting children from pornographic content is not only about collecting a penalty but also shutting down websites that refuse to obey the law. My office will continue to take action against any website that harms kids by allowing them access to pornographic content.”\n\nThis writ demonstrates that Texas has the legal authority and the proven tools to reach beyond its borders and hold foreign operators accountable. The Office of the Attorney General will continue to use every available legal mechanism, including writs of attachment against domain names, to enforce Texas law and ensure that no company, regardless of where it is incorporated, can profit from exposing Texas children to harmful content. To read the order, click here .&nbsp;",
+  "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+  "publishedAt": "2026-07-17T22:35:55.000Z",
+  "points": 56,
+  "id": "hacker-news-cb229a9f",
+  "slug": "hacker-news-cb229a9f",
+  "fetchedAt": "2026-07-18T00:14:24.982Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "德克萨斯州因违反年龄验证法而赢得法院暂停域名的命令",
+  "chineseSummary": "56 分 · 34 条评论",
+  "chineseContent": "犯罪受害者赔偿计划\n\n2025 年德克萨斯州立法会议更新\n\n由于该公司未能采取措施保护儿童免受其发布的有害性内容的影响，总检察长肯·帕克斯顿获得了一项具有里程碑意义的法院命令，切断该色情网站在其域名下运营的能力。这一法律胜利开创了针对不合规外国运营商执行年龄验证法的重要先例。\n\n2024 年 4 月，司法部长帕克斯顿起诉色情网站 motherless.com 的所有者 Kick Online Entertainment（“Kick”）违反德克萨斯州的年龄验证法。他随后获得缺席判决和永久禁令，要求该公司停止向未成年人发布有害性内容，并实施合理的年龄验证措施。 Kick Online 公开称自己是一家“道德自由”公司，无视诉讼并拒绝遵守法院的命令。它继续出版和传播德克萨斯州未成年人可以获得的有害性内容。\n\n现在，为了确保合规并保护德克萨斯州儿童，总检察长帕克斯顿已获得法院下令的令状，指示维护“.com”域名注册的公司威瑞信将域名“motherless.com”置于注册锁定、保留或类似状态。根据法院的命令，Kick 只能通过交纳 914 万美元的保证金来寻求恢复该域名，条件是实施符合德克萨斯州法律的年龄验证并满足之前在该案中判处的民事处罚。\n\n司法部长帕克斯顿表示：“这项法院命令开创了一个巨大的先例，如果网站无视法律并通过色情内容伤害儿童，则可能会被剥夺其域名。” “这表明，保护儿童免受色情内容的侵害不仅仅是收取罚款，还包括关闭拒绝遵守法律的网站。我的办公室将继续对任何允许儿童访问色情内容而伤害儿童的网站采取行动。”\n\n该令状表明，德克萨斯州拥有法律权力和行之有效的工具来超越其边界并追究外国运营商的责任。总检察长办公室将继续使用一切可用的法律机制，包括针对域名的扣押令，以执行德克萨斯州法律，并确保任何公司，无论其注册地在哪里，都可以通过让德克萨斯州儿童接触有害内容来获利。要阅读订单，请点击此处。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

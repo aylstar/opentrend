@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+  "summary": "171 points · 122 comments",
+  "content": "KAISER PERMANENTE NURSES who answer advice and triage calls say their duty of care for patients is being increasingly threatened by workplace surveillance. Seven current and former nurses told CalMatters that those who spend more than 15 minutes on a call with a patient routinely face criticism from Kaiser management or get called into performance evaluation meetings. Call time, they said, factors into monthly performance scores they receive. In addition to tracking call length, they said Kaiser uses software that tries to predict on a daily basis whether they’re being unproductive or failing to answer calls quickly. Artificial intelligence systems have also been used to rate their empathy and tone of voice.\n\nIs technology putting patients at risk?\n\nHow surveillance and AI shape nursing",
+  "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+  "publishedAt": "2026-07-17T22:26:30.000Z",
+  "points": 171,
+  "id": "hacker-news-a5758833",
+  "slug": "hacker-news-a5758833",
+  "fetchedAt": "2026-07-18T00:14:24.982Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "凯撒护士表示 AI、工作场所监控正在使他们的工作和护理变得更糟",
+  "chineseSummary": "171 分 · 122 条评论",
+  "chineseContent": "接听建议和分诊电话的 KAISER PERMANENTE 护士表示，他们对患者的护理职责正日益受到工作场所监视的威胁。 7 名现任和前任护士告诉 CalMatters，那些与患者通话时间超过 15 分钟的护士通常会面临 Kaiser 管理层的批评或被召集参加绩效评估会议。他们说，通话时间会影响他们收到的每月绩效分数。他们表示，除了跟踪通话时长之外，凯撒还使用软件尝试每天预测他们是否效率低下或未能快速接听电话。人工智能系统也被用来评估他们的同理心和语气。\n\n技术是否会将患者置于危险之中？\n\n监控和人工智能如何塑造护理",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

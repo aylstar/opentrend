@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c2a8f7dbb2",
+  "slug": "weibo-现在该买房还是卖房",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "现在该买房还是卖房",
+  "summary": "微博热榜第 25 位：现在该买房还是卖房，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B9%B0%E6%88%BF%E8%BF%98%E6%98%AF%E5%8D%96%E6%88%BF%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-07-18T00:14:01.499Z",
+  "fetchedAt": "2026-07-18T00:15:07.755Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

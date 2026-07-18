@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Evidence of inconsistencies in evaluation process and selection of winners",
+  "summary": "436 points · 268 comments",
+  "content": "Design high-quality benchmarks that go beyond recall to evaluate how frontier models truly reason, act, and judge.",
+  "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+  "publishedAt": "2026-07-17T11:30:00.000Z",
+  "points": 436,
+  "id": "hacker-news-e7d1d760",
+  "slug": "hacker-news-e7d1d760",
+  "fetchedAt": "2026-07-18T00:14:24.983Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "评估过程和获奖者选择不一致的证据",
+  "chineseSummary": "436 分 · 268 条评论",
+  "chineseContent": "设计超越回忆的高质量基准，以评估前沿模型如何真正推理、行动和判断。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

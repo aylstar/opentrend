@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2303bffb41",
+  "slug": "weibo-这一秒过火定档",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "这一秒过火定档",
+  "summary": "微博热榜第 40 位：这一秒过火定档，当前热度为 8万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%AE%9A%E6%A1%A3%23",
+  "hotValue": "8万热度",
+  "author": "",
+  "publishedAt": "2026-07-18T00:14:01.499Z",
+  "fetchedAt": "2026-07-18T00:15:07.755Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

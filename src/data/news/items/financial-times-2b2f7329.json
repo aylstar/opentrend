@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Apple briefly leapfrogs Nvidia as world’s most valuable company",
+  "summary": "Shares in iPhone maker have escaped AI sell-off that has hit chipmaker",
+  "url": "https://www.ft.com/content/9586223a-8339-4a57-9e2f-251899ebd211?syn-25a6b1a6=1",
+  "publishedAt": "2026-07-17T20:17:44.000Z",
+  "id": "financial-times-2b2f7329",
+  "slug": "financial-times-2b2f7329",
+  "content": "Shares in iPhone maker have escaped AI sell-off that has hit chipmaker",
+  "fetchedAt": "2026-07-18T00:14:24.991Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "苹果短暂超越英伟达成为全球最有价值的公司",
+  "chineseSummary": "iPhone制造商的股价摆脱了芯片制造商遭受的人工智能抛售影响",
+  "chineseContent": "iPhone制造商的股价摆脱了芯片制造商遭受的人工智能抛售影响",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

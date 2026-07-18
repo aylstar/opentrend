@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "The Eureka Database",
+  "summary": "Turn a Reddit complaint into your next company Discussion | Link",
+  "url": "https://www.producthunt.com/products/the-eureka-database",
+  "publishedAt": "2026-07-16T00:20:11.000Z",
+  "id": "product-hunt-e2114d11",
+  "slug": "product-hunt-e2114d11",
+  "content": "AI will happily generate a thousand startup ideas. It can't tell you which one people will actually pay for. The Eureka Database is a library of ideas mined from real complaints on Reddit, reviews, and forums. Every idea comes with the receipts: who wants it, who's already profitable, and a working demo. Connect over MCP and your AI agent pulls the full build spec for any saved idea: the problem, the stack, the schema, even the design taste, no prompt engineering needed.",
+  "fetchedAt": "2026-07-18T00:14:24.983Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "尤里卡数据库",
+  "chineseSummary": "将 Reddit 投诉转化为您的下一家公司关联",
+  "chineseContent": "人工智能将很高兴地产生一千个创业想法。它无法告诉您哪一个人实际上会为之付费。 Eureka 数据库是一个从 Reddit、评论和论坛上的真实投诉中挖掘出来的想法库。每个想法都带有收据：谁想要它，谁已经盈利，以及一个有效的演示。通过 MCP 连接，您的 AI 代理会提取任何已保存想法的完整构建规范：问题、堆栈、模式，甚至设计品味，无需即时工程。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

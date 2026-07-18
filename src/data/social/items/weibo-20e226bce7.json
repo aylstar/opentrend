@@ -1,0 +1,21 @@
+{
+  "id": "weibo-20e226bce7",
+  "slug": "weibo-管泽元",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "管泽元",
+  "summary": "微博热榜第 17 位：管泽元，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-07-18T00:14:01.499Z",
+  "fetchedAt": "2026-07-18T00:15:07.755Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

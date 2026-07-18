@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+  "summary": "1010 points · 626 comments",
+  "content": "URL already posted: https://health.aws.amazon.com/health/status I've got an estimated bill for $1.7 BILLION over this month. Normal usage is Obvs have created an urgent AWS support ticket. Anyone else seeing something like this? Update: Reddit link: https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_s...",
+  "url": "https://news.ycombinator.com/item?id=48945241",
+  "publishedAt": "2026-07-17T09:42:05.000Z",
+  "points": 1010,
+  "id": "hacker-news-b2b916ba",
+  "slug": "hacker-news-b2b916ba",
+  "fetchedAt": "2026-07-18T00:14:24.982Z",
+  "score": 85,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "AWS：预估账单数据不准确 – 17 亿美元",
+  "chineseSummary": "1010 分 · 626 条评论",
+  "chineseContent": "URL 已发布：https://health.aws.amazon.com/health/status 我收到的本月账单估计为 17 亿美元。正常用法是 Obvs 创建了紧急 AWS 支持票证。还有其他人看到这样的事情吗？更新：Reddit 链接：https://www.reddit.com/r/aws/comments/1u​​yuaw7/help_my_bill_s...",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
