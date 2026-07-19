@@ -1,0 +1,21 @@
+{
+  "id": "weibo-28b40f7b02",
+  "slug": "weibo-德尚-坎特",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "德尚 坎特",
+  "summary": "微博热榜第 28 位：德尚 坎特，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%B0%9A+%E5%9D%8E%E7%89%B9%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-07-19T00:15:20.350Z",
+  "fetchedAt": "2026-07-19T00:15:20.464Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

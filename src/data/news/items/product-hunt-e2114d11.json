@@ -8,13 +8,13 @@
   "id": "product-hunt-e2114d11",
   "slug": "product-hunt-e2114d11",
   "content": "AI will happily generate a thousand startup ideas. It can't tell you which one people will actually pay for. The Eureka Database is a library of ideas mined from real complaints on Reddit, reviews, and forums. Every idea comes with the receipts: who wants it, who's already profitable, and a working demo. Connect over MCP and your AI agent pulls the full build spec for any saved idea: the problem, the stack, the schema, even the design taste, no prompt engineering needed.",
-  "fetchedAt": "2026-07-18T00:14:24.983Z",
+  "fetchedAt": "2026-07-19T00:14:36.886Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 14,
+  "rank": 9,
   "contentStatus": "article-extracted",
   "chineseTitle": "尤里卡数据库",
   "chineseSummary": "将 Reddit 投诉转化为您的下一家公司关联",

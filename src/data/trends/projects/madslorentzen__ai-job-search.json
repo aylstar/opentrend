@@ -8,16 +8,15 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/MadsLorentzen/ai-job-search",
   "docsUrl": "",
-  "stars": 22484,
-  "forks": 6973,
-  "openIssues": 5,
+  "stars": 23719,
+  "forks": 7639,
+  "openIssues": 6,
   "license": "MIT",
-  "pushedAt": "2026-07-14T18:11:12Z",
-  "updatedAt": "2026-07-15T00:10:45Z",
+  "pushedAt": "2026-07-18T20:22:16Z",
+  "updatedAt": "2026-07-19T00:12:08Z",
   "createdAt": "2026-03-18T14:33:04Z",
   "archived": false,
   "trendWindows": [
-    "weekly",
     "monthly"
   ],
   "tags": [
@@ -26,19 +25,20 @@
     "开发工具",
     "NAS",
     "自部署",
+    "数据分析",
     "自动化办公",
     "安全隐私"
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"assets/mascot/pip_flight_loop.gif\" alt=\"Pip, the courier bird\" width=\"200\">\n</p>\n\n# AI Job Search\n\n*The job search that runs on your machine.*\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/43622?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-43622\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/43622/daily\" alt=\"MadsLorentzen%2Fai-job-search | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n[![CI](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml/badge.svg)](https://github.com/MadsLorentzen/ai-job-search/actions/workflows/ci.yml)\n\nAn AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n\n> Note: This is an independent open-source project and is not affiliated with, endorsed by, sponsored by, or maintained by Anthropic. Anthropic and Claude Code are referenced only to describe the toolchain this workflow uses.\n>\n> This project has **no affiliated cryptocurrency, token, or paid sponsorship program**. Anything claiming otherwise is unauthorized and should be treated as a scam. The only ways to support the project are the Ko-fi link below and contributing on GitHub.\n\n## Does it actually work?\n\nI'm a geophysicist by training. When my position was cut in late 2025, I built this framework to run my own job search - the same `/scrape`, `/apply`, and `/interview` workflow in this repo, used weekly, on my own career. I was upfront about it with every employer I spoke to, and instead of counting against me, it usually sparked a genuine technical conversation.\n\nSixty-nine tailored applications, twenty first interviews, and one signed contract later, I started as an AI engineer in June 2026. People kept asking whether this actually works. It got me hired. Now it's yours.\n\n*The longer version, including the full application funnel, is on [LinkedIn](https://www.linkedin.com/in/mads-lorentzen/).*\n\n<p align=\"center\">\n  <i>Did this save you a Sunday of cover-letter writing? Consider a coffee.<br>\n  Did it land you the job? Maybe two.</i> ☕\n</p>\n\n<p align=\"center\">\n  <a href=\"https://ko-fi.com/madslorentzen\">\n    <img src=\"https://storage.ko-fi.com/cdn/kofi3.png?v=6\" alt=\"Buy me a coffee at ko-fi.com\" height=\"40\">\n  </a>\n</p>\n\n## What this is\n\nA structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is **language- and country-agnostic**. The job portal search skills are built for the Danish market (Jobindex, Jobnet, Akademikernes Jobbank, etc.), but the pattern is designed to be swapped for your local job boards.\n\n```\n/setup          /scrape              /apply <url>\n  |                |         ",
-  "generatedAt": "2026-07-15T00:11:53.780Z",
+  "generatedAt": "2026-07-19T00:14:23.854Z",
   "analysis": {
     "oneLine": "ai-job-search 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "ai-job-search 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，ai-job-search 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 22,484，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ai-job-search 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 23,719，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
@@ -64,6 +64,7 @@
       "开发工具",
       "NAS",
       "自部署",
+      "数据分析",
       "自动化办公",
       "安全隐私"
     ],

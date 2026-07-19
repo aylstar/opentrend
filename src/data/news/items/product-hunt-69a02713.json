@@ -7,19 +7,19 @@
   "publishedAt": "2026-07-16T05:16:07.000Z",
   "id": "product-hunt-69a02713",
   "slug": "product-hunt-69a02713",
-  "content": "Turn your camera roll into social content with AI Discussion | Link",
-  "fetchedAt": "2026-07-17T00:57:35.782Z",
-  "score": 79,
+  "content": "The AI video editor that turns camera roll footage into short-form videos. Get help with script writing, let clip matching pair each line with the right shot, and export social content for Instagram, TikTok, YouTube Shorts, or LinkedIn — no timeline editing.",
+  "fetchedAt": "2026-07-19T00:14:36.887Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 11,
+  "contentStatus": "article-extracted",
   "chineseTitle": "剪辑匹配",
   "chineseSummary": "利用 AI 将您的相机胶卷变成社交内容讨论 |关联",
-  "chineseContent": "利用 AI 将您的相机胶卷变成社交内容讨论 |关联",
+  "chineseContent": "AI 视频编辑器可将相机胶卷素材转换为短片。获得脚本编写方面的帮助，让剪辑匹配将每行与正确的镜头配对，并导出 Instagram、TikTok、YouTube Shorts 或 LinkedIn 的社交内容 - 无需时间轴编辑。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

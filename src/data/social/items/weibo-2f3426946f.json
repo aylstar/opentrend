@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2f3426946f",
+  "slug": "weibo-张函瑞",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "张函瑞",
+  "summary": "微博热榜第 17 位：张函瑞，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-07-19T00:15:20.350Z",
+  "fetchedAt": "2026-07-19T00:15:20.464Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

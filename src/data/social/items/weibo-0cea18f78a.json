@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0cea18f78a",
+  "slug": "weibo-姆巴佩梅开二度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "姆巴佩梅开二度",
+  "summary": "微博热榜第 44 位：姆巴佩梅开二度，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-07-19T00:15:20.350Z",
+  "fetchedAt": "2026-07-19T00:15:20.464Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

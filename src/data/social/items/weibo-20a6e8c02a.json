@@ -1,0 +1,21 @@
+{
+  "id": "weibo-20a6e8c02a",
+  "slug": "weibo-法国-不想踢",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "法国 不想踢",
+  "summary": "微博热榜第 14 位：法国 不想踢，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD+%E4%B8%8D%E6%83%B3%E8%B8%A2%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-07-19T00:15:20.350Z",
+  "fetchedAt": "2026-07-19T00:15:20.464Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

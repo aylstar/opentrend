@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "What AI did to stackoverflow in a graph",
+  "summary": "353 points · 410 comments",
+  "content": "353 points · 410 comments",
+  "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+  "publishedAt": "2026-07-18T11:12:46.000Z",
+  "points": 353,
+  "id": "hacker-news-a9102394",
+  "slug": "hacker-news-a9102394",
+  "fetchedAt": "2026-07-19T00:14:36.885Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 3,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "AI 在图表中对 stackoverflow 做了什么",
+  "chineseSummary": "353 分 · 410 条评论",
+  "chineseContent": "353 分 · 410 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

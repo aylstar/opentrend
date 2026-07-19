@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c6ee918e6d",
+  "slug": "weibo-姆巴佩进球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "姆巴佩进球",
+  "summary": "微博热榜第 35 位：姆巴佩进球，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%9B%E7%90%83%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-07-19T00:15:20.350Z",
+  "fetchedAt": "2026-07-19T00:15:20.464Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

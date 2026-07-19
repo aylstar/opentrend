@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google is open-sourcing its 3D emoji",
+  "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when […]",
+  "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+  "publishedAt": "2026-07-18T16:40:55.000Z",
+  "id": "the-verge-1a8cfe86",
+  "slug": "the-verge-1a8cfe86",
+  "content": "Now, if you want to, you can use Google’s 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when you’re talking about a 3D model. Is a smiley face a sphere? A mask? A flat disc? In addition to offering a behind-the-scenes look at Google’s design process, it also announced that it would be completely open-sourcing the emoji set: > We’re handing over raw .OBJ files to the community so they can use them to build immersive VR worlds, indie apps or weird memes. Exactly what kind of “immersive VR worlds” someone might want to build with a bunch of emojis is a bit of a mystery to me. But if the Emoji Movie is any indication, it won’t be good. Google’s Noto Emoji 3D made their debut in May and were met with 😬 reactions.",
+  "fetchedAt": "2026-07-19T00:14:36.888Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌正在开源其 3D 表情符号",
+  "chineseSummary": "现在，如果您愿意，您可以在自己的创作中使用 Google 的 3D 表情符号。作为周五世界表情符号日的一部分，该公司分享了一些关于如何设计这些小象形图的细节以及原因。当 [...] 时，您在 2D 插图中不一定担心的事情突然变得非常重要。",
+  "chineseContent": "现在，如果您愿意，您可以在自己的创作中使用 Google 的 3D 表情符号。作为周五世界表情符号日的一部分，该公司分享了一些关于如何设计这些小象形图的细节以及原因。当您谈论 3D 模型时，您在 2D 插图中不一定担心的事情突然变得非常重要。笑脸是球体吗？面具？平盘？除了提供 Google 设计流程的幕后花絮之外，它还宣布将完全开源表情符号集： > 我们将原始 .OBJ 文件移交给社区，以便他们可以使用它们来构建沉浸式 VR 世界、独立应用程序或奇怪的模因。对于我来说，究竟有人想要用一堆表情符号构建什么样的“沉浸式 VR 世界”有点神秘。但如果《表情符号电影》有任何迹象的话，那就不会是好事。 Google 的 Noto Emoji 3D 于 5 月份首次亮相，并引起了 😬 的反响。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6206948eb3",
+  "slug": "weibo-八仙剧本",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "八仙剧本",
+  "summary": "微博热榜第 24 位：八仙剧本，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%E5%89%A7%E6%9C%AC%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-07-19T00:15:20.350Z",
+  "fetchedAt": "2026-07-19T00:15:20.464Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

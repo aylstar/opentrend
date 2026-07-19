@@ -1,0 +1,70 @@
+{
+  "slug": "openai__codex",
+  "owner": "openai",
+  "repo": "codex",
+  "name": "codex",
+  "fullName": "openai/codex",
+  "description": "Lightweight coding agent that runs in your terminal",
+  "language": "Rust",
+  "githubUrl": "https://github.com/openai/codex",
+  "docsUrl": "https://chatgpt.com/codex/install.sh",
+  "stars": 99403,
+  "forks": 14883,
+  "openIssues": 10081,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-07-19T00:04:10Z",
+  "updatedAt": "2026-07-19T00:04:13Z",
+  "createdAt": "2025-04-13T05:37:54Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer.\n<p align=\"center\">\n  <img src=\"https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" />\n</p>\n</br>\nIf you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a>\n</br>If you want the desktop app experience, run <code>codex app</code> or visit <a href=\"https://chatgpt.com/codex?app-landing-page=true\">the Codex App page</a>.\n</br>If you are looking for the <em>cloud-based agent</em> from OpenAI, <strong>Codex Web</strong>, go to <a href=\"https://chatgpt.com/codex\">chatgpt.com/codex</a>.</p>\n\n---\n\n## Quickstart\n\n### Installing and running Codex CLI\n\nRun the following on Mac or Linux to install Codex CLI:\n\n```shell\ncurl -fsSL https://chatgpt.com/codex/install.sh | sh\n```\n\nRun the following on Windows to install Codex CLI:\n\n```shell\npowershell -ExecutionPolicy ByPass -c \"irm https://chatgpt.com/codex/install.ps1 | iex\"\n```\n\nCodex CLI can also be installed via the following package managers:\n\n```shell\n# Install using npm\nnpm install -g @openai/codex\n```\n\n```shell\n# Install using Homebrew\nbrew install --cask codex\n```\n\nThen simply run `codex` to get started.\n\n<details>\n<summary>You can also go to the <a href=\"https://github.com/openai/codex/releases/latest\">latest GitHub Release</a> and download the appropriate binary for your platform.</summary>\n\nEach GitHub Release contains many executables, but in practice, you likely want one of these:\n\n- macOS\n  - Apple Silicon/arm64: `codex-aarch64-apple-darwin.tar.gz`\n  - x86_64 (older Mac hardware): `codex-x86_64-apple-darwin.tar.gz`\n- Linux\n  - x86_64: `codex-x86_64-unknown-linux-musl.tar.gz`\n  - arm64: `codex-aarch64-unknown-linux-musl.tar.gz`\n\nEach archive contains a single entry with the platform baked into the name (e.g., `codex-x86_64-unknown-linux-musl`), so you likely want to rename it to `codex` after extracting it.\n\n</details>\n\n### Using Codex with your ChatGPT plan\n\nRun `codex` and select **Sign in with ChatGPT**. We recommend signing into your ChatGPT account to use Codex as part of your Plus, Pro, Business, Edu, or Enterprise plan. [Learn more about what's included in your ChatGPT plan](https://help.openai.com/en/articles/11369540-codex-in-chatgpt).\n\nYou can also use Codex with an API key, but this requires [additional setup](https://developers.openai.com/codex/auth#sign-in-with-an-api-key).\n\n## Docs\n\n- [**Codex Documentation**](https://developers.openai.com/codex)\n- [**Contributing**](./docs/contributing.md)\n- [**Installing & building**](./docs/install.md)\n- [**Open source fund**](./docs/open-source-fund.md)\n\nThis repository is licensed under the [Apache-2.0 License](LICENSE).\n",
+  "generatedAt": "2026-07-19T00:14:23.254Z",
+  "analysis": {
+    "oneLine": "codex 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
+    "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
+    "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
+    "detailParagraphs": [
+      "codex 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
+      "如果把它放进实际使用场景，codex 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 99,403，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "前端构建提速",
+      "Node.js 服务运行时评估",
+      "CI 构建优化",
+      "开发工具链现代化"
+    ],
+    "interpretation": "codex 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Rust 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "npm install -g @openai/codex\nbrew install --cask codex",
+    "deployment": "重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升前端和 Node.js 生态中的构建、运行和包管理效率，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Rust 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-19T00:14:23.254Z"
+}
