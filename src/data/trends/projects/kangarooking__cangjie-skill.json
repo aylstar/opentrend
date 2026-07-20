@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/kangarooking/cangjie-skill",
   "docsUrl": "",
-  "stars": 3662,
-  "forks": 527,
+  "stars": 3855,
+  "forks": 541,
   "openIssues": 7,
   "license": "MIT",
   "pushedAt": "2026-07-16T03:00:58Z",
-  "updatedAt": "2026-07-19T00:08:03Z",
+  "updatedAt": "2026-07-20T02:40:46Z",
   "createdAt": "2026-04-16T05:54:32Z",
   "archived": false,
   "trendWindows": [
@@ -25,14 +25,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "<div align=\"center\">\n\n# Cangjie Skill\n\n### 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-f5c542.svg)](./LICENSE)\n[![Method: RIA--TV++](https://img.shields.io/badge/Method-RIA--TV++-2ea44f.svg)](./SKILL.md)\n[![Platform: OpenClaw](https://img.shields.io/badge/Platform-OpenClaw-1677ff.svg)](https://github.com/openclaw/openclaw)\n[![Platform: Claude Code](https://img.shields.io/badge/Platform-Claude%20Code-f97316.svg)](https://code.claude.com/)\n\n**读完、看完、听完之后，带走一套能调用的方法论。**\n\n</div>\n\n## 为什么做这件事\n\n最近有一个很火的 idea：把同事蒸馏成 skill。即便一个人离职了，他的经验、语气、工作方式都会被 AI 一定程度替代。[nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 就是做这件事的——创造\"人类 skill\"，比如马斯克 skill、巴菲特 skill。配套的 [darwin-skill](https://github.com/alchaincyf/darwin-skill) 负责让这些 skill 自动进化。\n\n蒸馏人很有价值——nuwa-skill 已经证明了这一点。而蒸馏人**系统性表达过的内容**，则是另一个维度的补充：一本书、一场长访谈、一期播客、一个 B 站或 YouTube 长视频，都可能沉淀了作者花很长时间打磨出来的方法论。比起模仿一个人的表达方式，把他系统性输出的方法论拆出来、变成可以帮人解决实际问题的工具，同样是很有价值的事。\n\n而且还有一个真实的痛点：你可能看了很多书、收藏了很多视频、听过很多播客，但就是运用不起来。尤其是各大平台每天都有大量干货长视频，时效性很强，内容又很长；它们往往不可能已经被 AI 训练过，也很难靠一次观看完整吸收。把这些内容蒸馏成 skill 之后，AI agent 可以帮你在真实场景中调用这些知识，而不是让它们躺在笔记、收藏夹或稍后再看列表里落灰。\n\n所以 cangjie-skill 的目标很明确：**蒸馏所有值得蒸馏的高价值内容**。它不只适用于书，也适用于有字幕/转写文本的视频、播客、访谈、演讲、课程、长文和资料集。只要内容里存在可抽取、可验证、可迁移的方法论，就可以用 cangjie-skill 把它变成一套可独立调用、可组合使用、可压力测试的 AI skill 工具包。\n\n如果要蒸馏视频内容，建议搭配 [video-downloader](https://github.com/kangarooking/kangarooking-skills/tree/main/video-downloader) skill 一起使用：先用它下载视频、提取字幕/音频转写和关键素材，再把得到的文本内容交给 cangjie-skill 做方法论抽取、skill 化和压力测试。\n\n## 它解决了什么问题\n\n- 看了很多书、视频、播客但用不起来——知识停留在\"看过/听过/收藏过\"层面，无法在真实决策中被调用\n- 摘要、笔记、字幕整理只是压缩，不是结构化复用——读完/看完还是不知道\"什么时候该用什么\"\n- 高价值内容里真正值得变成工具的内容只有一小部分——需要严格的筛选而不是照单全收\n- 现有的阅读/观看/听课方法论都是给人看的，不是给 agent 用的——需要面向执行而非面向消费的蒸馏方法\n\n## 它是怎么工作的\n\ncangjie-skill 使用 **RIA-TV++** 流水线，把书籍、视频转写、播客文字稿、访谈记录等原始文本变成一组结构化的 skill。整个过程分七个阶段：\n\n1. **整体内容理解（Adler 分析）**——借鉴 Mortimer Adler 的分析阅读法，对整份内容做结构、解释、批判、应用四步拆解，产出 `BOOK_OVERVIEW.md`\n2. **并行提取**——同时派 5 个专项提取器（框架、原则、案例、反例、术语），从原文中提取候选方法论单元\n3. **三重验证筛选**——每个候选必须通过三项检验：原内容中至少有 2 处独立佐证（跨域）、能回答内容里未明说的新问题（预测力）、不是常识（独特性）。通过率通常只有 25-50%\n4. **RIA++ 构造**——将验证通过的内容按 R（原文引用）/ I（用自己的话重写）/ A1（书中案例）/ A2（未来触发场景）/ E（可执行步骤）/ B（边界与盲点）六个维度结构化\n5. **Zettelkasten 链接**——找出 skill 之间的依赖、对比、组合关系，生成 `INDEX.md` 和引用图\n6. **压力测试**——为每个 skill 设计包含诱饵题的测试用例（含跨 skill 混淆测试），未通过的回炉重做\n7. **交付**——生成面向读者的 `DIGEST.md` 精华长文（不想读全书？看这篇就够），并把通过测试的 skill 安装到 Claude Code / Cursor 的 skills 目录，让它们真正可被调用\n\nRIA-TV++ 这个名字拆开看：\n- **RIA**：来自赵周《这样读书就够了》的便签拆书法（Reading / Interpretation / Appropriation）\n- **TV**：Triple Verification，三重验证\n- **++**：面向 agent 执行的扩展——E（Execution 可执行步骤）+ B（Boundary 边界）\n\n## 效果示例\n\n### 示例 1：从一本书/长视频到一套 skill 工具包\n\n**用户需求**\n\n\"我想把一本书或一个 B 站/YouTube 长视频里的核心方法论抽成可复用的 AI skills，而不是只做摘要。\"\n\n**cangjie-skill 如何判断**\n\n- 先看源材料是否存在可重复调用的方法论单元\n- 再区分哪些内容适合做独立 skill，哪些只适合做候选或背景\n- 最后输出结构化 skill 仓库，而不是一篇总结文章\n\n**最终输出示例**\n\n> 输出将不是一个单文件摘要，而是一个多 skill 仓库：包含 `BOOK_OVERVIEW.md` 作为全局理解，`INDEX.md` 作为技能地图，`DIGEST.md` 作为面向读者的精华长文，`GLOSSARY.md` 作为术语词典，若干 `*/SKILL.md` 作为独立模块，以及 `test-prompts.json` 用于验证触发场景。\n\n### 示例 2：不是压缩，是结构化复用\n\n**用",
-  "generatedAt": "2026-07-19T00:14:22.598Z",
+  "generatedAt": "2026-07-20T02:44:09.080Z",
   "analysis": {
     "oneLine": "cangjie-skill 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "cangjie-skill 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，cangjie-skill 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 3,662，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，cangjie-skill 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 3,855，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

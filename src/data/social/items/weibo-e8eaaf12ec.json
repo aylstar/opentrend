@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e8eaaf12ec",
+  "slug": "weibo-瑞幸押宝成功",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "瑞幸押宝成功",
+  "summary": "微博热榜第 4 位：瑞幸押宝成功，当前热度为 142万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E6%8A%BC%E5%AE%9D%E6%88%90%E5%8A%9F%23",
+  "hotValue": "142万热度",
+  "author": "",
+  "publishedAt": "2026-07-20T02:36:39.560Z",
+  "fetchedAt": "2026-07-20T02:45:39.222Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

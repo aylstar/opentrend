@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+  "summary": "232 points · 96 comments",
+  "content": "Kimi K3 has received far more love than we expected, and our GPUs are feeling it. Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions and",
+  "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+  "publishedAt": "2026-07-19T16:02:25.000Z",
+  "points": 232,
+  "id": "hacker-news-3948c296",
+  "slug": "hacker-news-3948c296",
+  "fetchedAt": "2026-07-20T02:44:26.222Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+  "chineseSummary": "232 分 · 96 条评论",
+  "chineseContent": "Kimi K3 受到的喜爱远超我们的预期，我们的 GPU 也感受到了这一点。在过去 48 小时内，需求已接近我们当前容量的极限。为了保护现有订阅者的体验，我们暂时暂停新订阅，",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

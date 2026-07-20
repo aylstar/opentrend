@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/HKUDS/DeepTutor",
   "docsUrl": "http://arxiv.org/abs/2604.26962",
-  "stars": 27646,
-  "forks": 3674,
+  "stars": 27979,
+  "forks": 3707,
   "openIssues": 55,
   "license": "Apache-2.0",
-  "pushedAt": "2026-07-18T17:38:30Z",
-  "updatedAt": "2026-07-19T00:06:04Z",
+  "pushedAt": "2026-07-19T09:16:11Z",
+  "updatedAt": "2026-07-20T02:42:21Z",
   "createdAt": "2025-12-28T15:35:54Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<div align=\"center\">\n\n<p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p>\n\n# DeepTutor: Lifelong Personalized Tutoring\n\n<p align=\"center\">\n  <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs — deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=F5F5F4\" height=\"36\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/17099?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-17099\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/17099\" alt=\"HKUDS%2FDeepTutor | Trendshift\" width=\"250\" height=\"55\"/></a>&nbsp;\n  <a href=\"https://trendshift.io/repositories/17099?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-17099\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/17099/daily\" alt=\"HKUDS%2FDeepTutor | Trendshift\" width=\"250\" height=\"55\"/></a>&nbsp;\n  <a href=\"https://trendshift.io/repositories/17099?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-17099\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/17099/weekly?language=Python\" alt=\"HKUDS%2FDeepTutor | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\"><img alt=\"English\" height=\"40\" src=\"https://img.shields.io/badge/English-BCDCF7\"></a>&nbsp;\n  <a href=\"assets/README/README_CN.md\"><img alt=\"简体中文\" height=\"40\" src=\"https://img.shields.io/badge/简体中文-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_JA.md\"><img alt=\"日本語\" height=\"40\" src=\"https://img.shields.io/badge/日本語-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_ES.md\"><img alt=\"Español\" height=\"40\" src=\"https://img.shields.io/badge/Español-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_FR.md\"><img alt=\"Français\" height=\"40\" src=\"https://img.shields.io/badge/Français-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_AR.md\"><img alt=\"Arabic\" height=\"40\" src=\"https://img.shields.io/badge/Arabic-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_RU.md\"><img alt=\"Русский\" height=\"40\" src=\"https://img.shields.io/badge/Русский-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_HI.md\"><img alt=\"Hindi\" height=\"40\" src=\"https://img.shields.io/badge/Hindi-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_PT.md\"><img alt=\"Português\" height=\"40\" src=\"https://img.shields.io/badge/Português-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_TH.md\"><img alt=\"Thai\" height=\"40\" src=\"https://img.shields.io/badge/Thai-CDCFD4\"></a>&nbsp;\n  <a href=\"assets/README/README_PL.md\"><img alt=\"Polski\" height=\"40\" src=\"https://img.shields.io/badge/Polski-CDCFD4\"></a>\n</p>\n\n[![Python 3.11+]",
-  "generatedAt": "2026-07-19T00:14:21.709Z",
+  "generatedAt": "2026-07-20T02:44:07.940Z",
   "analysis": {
     "oneLine": "DeepTutor 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "DeepTutor 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，DeepTutor 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 27,646，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，DeepTutor 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 27,979，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-53be7b3f5b",
+  "slug": "weibo-姆巴佩金靴",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "姆巴佩金靴",
+  "summary": "微博热榜第 1 位：姆巴佩金靴，当前热度为 745万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%87%91%E9%9D%B4%23",
+  "hotValue": "745万热度",
+  "author": "",
+  "publishedAt": "2026-07-20T02:36:39.560Z",
+  "fetchedAt": "2026-07-20T02:45:39.222Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

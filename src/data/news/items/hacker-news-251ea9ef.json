@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI advice made people less accurate but more confident – sudy",
+  "summary": "282 points · 160 comments",
+  "content": "TL;DRResearchers found AI advice suppressed judgment suspension from 44% to 3%, accuracy from 27% to 9%, while confidence rose from 30% to 76%. People trusted wrong AI answers. Researchers from three French and Italian universities found that access to AI advice collapsed people’s willingness to say “I don’t know” from 44% to 3%. Accuracy dropped from 27% to 9%. Confidence, meanwhile, rose from 30% to 76%. “People became much worse, the accuracy was only one third, but they were twice as confident,” said Valerio Capraro, associate professor at the University of Milano-Bicocca. The study, authored by Capraro with Chiara Marcoccia of École Normale Supérieure and Walter Quattrociocchi of Sapienza University of Rome, deliberately used questions where AI models typically fail: visual details from films, such as the colour of a team’s uniform in Bend It Like Beckham. The researchers used Step 3.5 Flash, a model that was usually wrong on these questions, precisely so any reduction in judgment could not be explained as sensible delegation to a reliable tool. Some participants who would have answered correctly on their own asked the AI and became wrong. Monetary incentives helped, but not much. Willingness to admit ignorance rose from 3% to 8% and accuracy from 9% to 16%, both still well below the no-AI baselines of 44% and 27%. Wharton researchers coined the term “cognitive surrender” earlier this year to describe the same phenomenon: people accepting incorrect AI answers 80% of the time while reporting higher confidence than those working without AI. The new study adds a sharper data point. It is not just that people trust wrong AI answers. It is that the mere availability of AI suppresses the cognitive habit of recognising what you do not know. “For humans, the capacity to say ‘I don’t know’ is very important because it represents the recognition of the limits of our own knowledge,” Capraro said. He is particularly concerned about children, who are growing up with these systems before they have developed critical thinking skills. Google’s AI search overhaul replaced links with confident AI-generated summaries, and Common Sense Media this week called that design an “unacceptable risk” for students. The pattern is consistent: AI products are designed to answer, never to say “I don’t know.” The humans using them are learning to do the same.",
+  "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+  "publishedAt": "2026-07-19T21:18:10.000Z",
+  "points": 282,
+  "id": "hacker-news-251ea9ef",
+  "slug": "hacker-news-251ea9ef",
+  "fetchedAt": "2026-07-20T02:44:26.222Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 建议让人们不太准确，但更自信——研究",
+  "chineseSummary": "282 分 · 160 条评论",
+  "chineseContent": "TL;DR 研究人员发现，人工智能建议将判断悬置率从 44% 抑制到 3%，准确率从 27% 抑制到 9%，而置信度从 30% 上升到 76%。人们相信了错误的人工智能答案。来自法国和意大利三所大学的研究人员发现，获得人工智能建议后，人们说“我不知道”的意愿从 44% 下降到了 3%。准确率从 27% 下降到 9%。与此同时，信心从 30% 上升至 76%。米兰比可卡大学副教授瓦莱里奥·卡普拉罗表示：“人们的情况变得更糟，准确率只有三分之一，但他们的信心却增加了一倍。”这项研究由卡普拉罗、巴黎高等师范学院的 Chiara Marcoccia 和罗马第一大学的 Walter Quattrociocchi 共同撰写，故意使用了人工智能模型通常会失败的问题：电影中的视觉细节，例如《Bend It Like Beckham》中球队队服的颜色。研究人员使用了 Step 3.5 Flash，该模型在这些问题上通常是错误的，因此判断力的任何减少都不能解释为对可靠工具的明智委托。一些自己能回答正确的参与者询问人工智能，但结果错了。金钱激励有所帮助，但作用不大。承认无知的意愿从 3% 上升到 8%，准确率从 9% 上升到 16%，两者仍然远低于无人工智能的 44% 和 27% 的基线。沃顿商学院的研究人员今年早些时候创造了“认知投降”一词来描述同样的现象：80% 的人接受错误的人工智能答案，同时比没有使用人工智能的人更有信心。这项新研究增加了一个更清晰的数据点。人们不仅仅相信错误的人工智能答案。人工智能的可用性抑制了识别未知事物的认知习惯。 “对于人类来说，",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

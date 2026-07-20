@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+  "summary": "414 points · 196 comments",
+  "content": "A year and a half ago , I launched Jamcorder .\n\nIt marked the completion of two life goals of mine.\n\nFirst, I finally had the piano recording device I’d always wanted: a fully automated device that captures everything I play, no human-involvement required.\n\nAnd second, after a career in software, I got to build hardware. It was super fun.\n\n2500 units have already been sold, and counting! People genuinely love it! And it’s able to stand on its own feet as a business. In my eyes, that’s a success.\n\nFor my first blog post, I want to reflect on the biggest surprise I encountered creating Jamcorder.\n\nComing from a career in software, I expected building hardware to be the hardest part.\n\nAfter all, hardware is hard . That’s the saying, right?\n\nElectronics design, plastics, manufacturing, fulfilment, component shortages, etc, etc, etc.\n\nI expected these & more to make hardware hard.\n\nI kept waiting for something to get me by surprise. A scrapped production run (my worst nightmare). Or component sourcing issues, perhaps?\n\nIt never happened. (Though Trump’s tariffs were a close call).\n\nThe hardest part of building Jamcorder was still, by far, the software -- roughly 200K lines of code spread across the firmware, app, and manufacturing tooling. It took over 3 years and many long nights in a pre-LLM world.\n\nWhen compared to that, the hardware was undeniably smooth sailing.\n\nFor the record, I don’t think I’m special. It’s just that hardware’s reputation for being difficult is, IMO, overstated.\n\nNow, granted, Jamcorder is -- very much intentionally -- a simple device. I get that .\n\nAssembly is just a single screw, for a single PCB. The injection mold has generous draft, no slides.\n\nI cut low battery detection, ambient light detection, the power-button, even USB-C.\n\nAll these things kept Jamcorder simple.\n\nI’m also under no illusion that 2500 units is a lot by most standards.\n\nBut you know what? The hardware side would have been easy regardless.\n\nDon’t get me wrong. If Jamcorder was 10x more complex, or 100x more scale, that would be a different story (and a very popular product!).\n\nOr if I was trying to compete in the smartwatch market, or the car market, or any number of very established industries with low margins, good luck .\n\nBut for me the take away still is: “hardware is as hard as you make it”.\n\nIf you’re thinking about building a hardware product & have a way to protect your margins, don’t let building hardware scare you.\n\nIt’s not as hard as the saying goes.\n\nI don’t want to end this article without some practical take-aways. So here are my top recommendations for successfully shipping hardware that worked for me at medium scale:",
+  "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+  "publishedAt": "2026-07-19T10:34:58.000Z",
+  "points": 414,
+  "id": "hacker-news-8dcc8cb9",
+  "slug": "hacker-news-8dcc8cb9",
+  "fetchedAt": "2026-07-20T02:44:26.221Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我从销售 2,500 台 MIDI 录音机中学到的东西：硬件并不难",
+  "chineseSummary": "414 分 · 196 条评论",
+  "chineseContent": "一年半前，我推出了 Jamcorder。\n\n这标志着我的两个人生目标的完成。\n\n首先，我终于拥有了我一直想要的钢琴录音设备：一个完全自动化的设备，可以捕获我弹奏的所有内容，无需人工参与。\n\n其次，在从事软件工作之后，我开始构建硬件。非常有趣。\n\n已售出 2500 套，并且还在继续销售！人们真的很喜欢它！而且它能够作为一家企业自立门户。在我眼里，这就是成功。\n\n在我的第一篇博文中，我想回顾一下我在创建 Jamcorder 时遇到的最大惊喜。\n\n由于从事软件行业，我认为构建硬件是最难的部分。\n\n毕竟硬件是硬的。就是这句话，对吗？\n\n电子设计、塑料、制造、履行、零部件短缺等。\n\n我预计这些以及更多的事情会让硬件变得困难。\n\n我一直在等待一些让我惊讶的事情。废弃的生产运行（我最糟糕的噩梦）。或者组件采购问题？\n\n它从未发生过。 （尽管特朗普的关税是千钧一发）。\n\n到目前为止，构建 Jamcorder 最困难的部分仍然是软件——大约 20 万行代码分布在固件、应用程序和制造工具中。在LLM预科阶段，我花了3年多的时间和许多个漫长的夜晚。\n\n与此相比，硬件无疑是一帆风顺的。\n\n根据记录，我不认为我很特别。只是，在我看来，硬件“困难”的名声被夸大了。\n\n现在，理所当然，Jamcorder 是一个非常有意为之的简单设备。我明白了。\n\n对于单个 PCB 而言，组装只需一颗螺钉。注塑模具具有宽大的拔模斜度，无滑块。\n\n我砍掉了低电量检测、环境光检测、电源按钮，甚至 USB-C。\n\n所有这些都让 Jamcorder 变得简单。\n\n我也不认为 2500 台对于大多数标准来说已经是很多了。\n\n但你知道吗？无论如何，硬件方面都会很容易。\n\n别误会我的意思。如果 Jamcorder 的复杂性提高 10 倍，或者规模扩大 100 倍，那情况就会不同（并且是非常受欢迎的产品！）。\n\n或者，如果我试图在智能手表市场、汽车市场或任何一些利润率较低的非常成熟的行业中竞争，祝你好运。\n\n但对我来说，我的结论仍然是：“硬件有多难，就有多难”。\n\n如果您正在考虑构建硬件产品并且有办法保护您的利润，请不要让构建硬件吓到您。\n\n这并不像俗话说的那么难。\n\n我不想在没有一些实际收获的情况下结束这篇文章。因此，以下是我成功交付适合我的中等规模硬件的首要建议：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

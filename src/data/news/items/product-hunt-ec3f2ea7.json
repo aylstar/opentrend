@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Clark",
+  "summary": "An AI coworker with its own cloud computer Discussion | Link",
+  "url": "https://www.producthunt.com/products/clark-agent",
+  "publishedAt": "2026-05-27T09:38:52.000Z",
+  "id": "product-hunt-ec3f2ea7",
+  "slug": "product-hunt-ec3f2ea7",
+  "content": "Clark is an AI coworker with its own cloud computer - browser, terminal, files, and code. Hand it a real task, close the tab, and come back to finished work: wide, sourced research; websites; spreadsheets; decks; audits; or tested code. It can fan work out to parallel specialists, run on a schedule, and return artifacts with the evidence behind them. Use Clark on web or mobile, work in real repositories with Clark Code, or embed the agent through an OpenAI-compatible API.",
+  "fetchedAt": "2026-07-20T02:44:26.223Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克拉克",
+  "chineseSummary": "拥有自己的云计算机的 AI 同事讨论 |关联",
+  "chineseContent": "Clark 是一名人工智能同事，拥有自己的云计算机——浏览器、终端、文件和代码。交给它一个真正的任务，关闭选项卡，然后返回完成的工作：广泛的来源研究；网站；电子表格；甲板；审计；或经过测试的代码。它可以将工作分配给并行的专家，按计划运行，并返回工件及其背后的证据。在网络或移动设备上使用 Clark，使用 Clark Code 在真实存储库中工作，或通过 OpenAI 兼容的 API 嵌入代理。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aa773edf70",
+  "slug": "weibo-正义必胜",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "正义必胜",
+  "summary": "微博热榜第 42 位：正义必胜，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A3%E4%B9%89%E5%BF%85%E8%83%9C%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-07-20T02:36:39.560Z",
+  "fetchedAt": "2026-07-20T02:45:39.222Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/HKUDS/Vibe-Trading",
   "docsUrl": "https://vibetrading.wiki/",
-  "stars": 24967,
-  "forks": 4117,
+  "stars": 25329,
+  "forks": 4172,
   "openIssues": 68,
   "license": "MIT",
-  "pushedAt": "2026-07-18T18:22:23Z",
-  "updatedAt": "2026-07-19T00:05:54Z",
+  "pushedAt": "2026-07-19T11:50:04Z",
+  "updatedAt": "2026-07-20T02:42:59Z",
   "createdAt": "2026-04-01T09:52:20Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<p align=\"center\">\n  <b>English</b> | <a href=\"README_zh.md\">中文</a> | <a href=\"README_ja.md\">日本語</a> | <a href=\"README_ko.md\">한국어</a> | <a href=\"README_ar.md\">العربية</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/>\n</p>\n\n<h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1>\n\n<p align=\"center\">\n  <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25527\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25527\" alt=\"HKUDS%2FVibe-Trading | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python&logoColor=white\" alt=\"Python\">\n  <img src=\"https://img.shields.io/badge/Backend-FastAPI-009688?style=flat\" alt=\"FastAPI\">\n  <img src=\"https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=flat&logo=react&logoColor=white\" alt=\"React\">\n  <a href=\"https://pypi.org/project/vibe-trading-ai/\"><img src=\"https://img.shields.io/pypi/v/vibe-trading-ai?style=flat&logo=pypi&logoColor=white\" alt=\"PyPI\"></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-yellow?style=flat\" alt=\"License\"></a>\n  <br>\n  <a href=\"https://github.com/HKUDS/.github/blob/main/profile/README.md\"><img src=\"https://img.shields.io/badge/Feishu-Group-E9DBFC?style=flat-square&logo=feishu&logoColor=white\" alt=\"Feishu\"></a>\n  <a href=\"https://github.com/HKUDS/.github/blob/main/profile/README.md\"><img src=\"https://img.shields.io/badge/WeChat-Group-C5EAB4?style=flat-square&logo=wechat&logoColor=white\" alt=\"WeChat\"></a>\n  <a href=\"https://discord.gg/6TdQnT5xcF\"><img src=\"https://img.shields.io/badge/Discord-Join-7289DA?style=flat-square&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://vibetrading.wiki/\">Website</a> &nbsp;&middot;&nbsp;\n  <a href=\"https://vibetrading.wiki/docs/\">Docs</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-news\">News</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-key-features\">Features</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-shadow-account\">Shadow Account</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-demo\">Demo</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-quick-start\">Quick Start</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-examples\">Examples</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-api-server\">API / MCP</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-roadmap\">Roadmap</a> &nbsp;&middot;&nbsp;\n  <a href=\"#-contributing\">Contributing</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#-quick-start\"><img src=\"assets/pip-install.svg\" height=\"45\" alt=\"pip install vibe-trading-ai\"></a>\n</p>\n\n---\n\n## 📰 News\n\n> ⚠️ **Security warning:** The X account `VibeTrading_HKU`, Virtuals project `101845`, and token contract `0x640BDBF77b6447E8b7DB7894cED84BD1c40571f4` are not official Vibe-Trading assets. We have never launched or endorsed any token or memecoin. Do not buy, connect a w",
-  "generatedAt": "2026-07-19T00:14:21.380Z",
+  "generatedAt": "2026-07-20T02:44:07.472Z",
   "analysis": {
     "oneLine": "Vibe-Trading 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "Vibe-Trading 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，Vibe-Trading 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 24,967，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Vibe-Trading 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 25,329，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

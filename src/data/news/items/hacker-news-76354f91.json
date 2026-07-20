@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+  "summary": "325 points · 152 comments",
+  "content": "Summary Backport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line. Refresh bundled GPT-5.6 model instructions and context-window metadata. Refresh reasoning-summary, skills, perm...",
+  "url": "https://github.com/openai/codex/pull/33972/files",
+  "publishedAt": "2026-07-19T07:54:39.000Z",
+  "points": 325,
+  "id": "hacker-news-76354f91",
+  "slug": "hacker-news-76354f91",
+  "fetchedAt": "2026-07-20T02:44:26.221Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k",
+  "chineseSummary": "325 分 · 152 条评论",
+  "chineseContent": "摘要 将 d26a9bf671b1c03aabfc32e1092d137c1feb3962 向后移植到 0.144 发行版。刷新捆绑的 GPT-5.6 模型指令和上下文窗口元数据。刷新推理-总结、技巧、技巧...",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
