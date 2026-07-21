@@ -1,0 +1,94 @@
+{
+  "slug": "2026-07-21",
+  "date": "2026-07-21",
+  "title": "2026年07月21日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-07-21T00:56:31.231Z",
+  "stats": {
+    "totalProjects": 20,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "usestrix__strix",
+      "deusdata__codebase-memory-mcp",
+      "hkuds__deeptutor"
+    ],
+    "weekly": [
+      "nutlope__hallmark",
+      "opencut-app__opencut",
+      "shubhamsaboo__awesome-llm-apps",
+      "hkuds__deeptutor",
+      "dicklesworthstone__destructive_command_guard",
+      "hkuds__vibe-trading",
+      "tirth8205__code-review-graph",
+      "ibelick__ui-skills",
+      "mattpocock__skills",
+      "kangarooking__cangjie-skill"
+    ],
+    "monthly": [
+      "calesthio__openmontage",
+      "madslorentzen__ai-job-search",
+      "deusdata__codebase-memory-mcp",
+      "usestrix__strix",
+      "kunchenguid__no-mistakes",
+      "catchorg__catch2",
+      "stablyai__orca",
+      "diegosouzapw__omniroute",
+      "zackriya-solutions__meetily",
+      "ogulcancelik__herdr"
+    ],
+    "commercial": [
+      "opencut-app__opencut",
+      "shubhamsaboo__awesome-llm-apps",
+      "hkuds__deeptutor",
+      "dicklesworthstone__destructive_command_guard",
+      "hkuds__vibe-trading",
+      "tirth8205__code-review-graph"
+    ],
+    "deployable": [
+      "nutlope__hallmark",
+      "opencut-app__opencut",
+      "shubhamsaboo__awesome-llm-apps",
+      "hkuds__deeptutor",
+      "dicklesworthstone__destructive_command_guard",
+      "hkuds__vibe-trading"
+    ],
+    "risky": [
+      "nutlope__hallmark",
+      "opencut-app__opencut",
+      "shubhamsaboo__awesome-llm-apps",
+      "hkuds__deeptutor",
+      "dicklesworthstone__destructive_command_guard",
+      "hkuds__vibe-trading"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 20 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "nutlope__hallmark",
+    "opencut-app__opencut",
+    "shubhamsaboo__awesome-llm-apps",
+    "hkuds__deeptutor",
+    "dicklesworthstone__destructive_command_guard",
+    "hkuds__vibe-trading",
+    "tirth8205__code-review-graph",
+    "ibelick__ui-skills",
+    "mattpocock__skills",
+    "kangarooking__cangjie-skill",
+    "calesthio__openmontage",
+    "madslorentzen__ai-job-search",
+    "deusdata__codebase-memory-mcp",
+    "usestrix__strix",
+    "kunchenguid__no-mistakes",
+    "catchorg__catch2",
+    "stablyai__orca",
+    "diegosouzapw__omniroute",
+    "zackriya-solutions__meetily",
+    "ogulcancelik__herdr"
+  ]
+}

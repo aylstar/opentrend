@@ -8,12 +8,12 @@
   "language": "CSS",
   "githubUrl": "https://github.com/Nutlope/hallmark",
   "docsUrl": "https://www.usehallmark.com/",
-  "stars": 13446,
-  "forks": 678,
+  "stars": 14203,
+  "forks": 706,
   "openIssues": 20,
   "license": "MIT",
   "pushedAt": "2026-06-26T10:08:58Z",
-  "updatedAt": "2026-07-20T02:44:05Z",
+  "updatedAt": "2026-07-21T00:56:17Z",
   "createdAt": "2026-04-27T20:47:10Z",
   "archived": false,
   "trendWindows": [
@@ -25,14 +25,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Hallmark\n\n**A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.**\n\n[Live demo →](https://www.usehallmark.com) &nbsp;·&nbsp; twenty themes &nbsp;·&nbsp; four verbs &nbsp;·&nbsp; press `T` to cycle.\n\nMade by Together AI.\n\n<p align=\"center\">\n  <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" />\n</p>\n\nHallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pre-emit self-critique, and refuses the on-distribution defaults every LLM was trained into. Two pages by Hallmark for two different briefs feel like different sites, not colour-swaps of the same template.\n\n---\n\n## Four verbs\n\n| Verb | What it does |\n| --- | --- |\n| *(default)* | Build new UI. Picks a macrostructure, applies the rule-set, runs the slop test before handing back. |\n| `hallmark audit <target>` | Score existing code against the anti-patterns. Punch list, no edits. |\n| `hallmark redesign <target>` | Throw out the structure, keep copy + IA + brand, rebuild with a different fingerprint. |\n| `hallmark study <screenshot \\| URL>` | Extract the **DNA** from a design you admire: macrostructure, type-pairing, colour anchor. Refuses pixel-clones and paid templates. Optionally emits a portable `design.md` for handoff to other AI tools. |\n\n---\n\n## Different briefs, different shapes\n\nEach generated from a different brief. The skill picks the theme, structure, and craft to fit each one, not from a template.\n\n<table>\n  <tr>\n    <td width=\"25%\"><a href=\"https://www.usehallmark.com/examples/hum-07/\"><img src=\"docs/screenshots/hero-hum-07.jpg\" alt=\"Bubble guided sourdough app hero\" /></a></td>\n    <td width=\"25%\"><a href=\"https://www.usehallmark.com/examples/cobalt-01/\"><img src=\"docs/screenshots/hero-cobalt-01.jpg\" alt=\"Distil content-extraction API hero\" /></a></td>\n    <td width=\"25%\"><a href=\"https://www.usehallmark.com/examples/carnival-01/\"><img src=\"docs/screenshots/hero-carnival-01.jpg\" alt=\"Cold Snap record-label EP hero\" /></a></td>\n    <td width=\"25%\"><a href=\"https://www.usehallmark.com/examples/lumen-01/\"><img src=\"docs/screenshots/hero-lumen-01.jpg\" alt=\"Cinder AI reasoning tool hero\" /></a></td>\n  </tr>\n  <tr>\n    <td><b>Bubble</b><br/><sub>Sourdough app · Hum</sub></td>\n    <td><b>Distil</b><br/><sub>Extraction API · Cobalt</sub></td>\n    <td><b>Cold Snap</b><br/><sub>Record label · Carnival</sub></td>\n    <td><b>Cinder</b><br/><sub>AI tool · Lumen</sub></td>\n  </tr>\n  <tr>\n    <td><a href=\"https://www.usehallmark.com/examples/custom-03/\"><img src=\"docs/screenshots/hero-custom-03.jpg\" alt=\"Ferns and Fathom tea menu hero\" /></a></td>\n    <td><a href=\"https://www.usehallmark.com/examples/garden-01/\"><img src=\"docs/screenshots/hero-garden-01.jpg\" alt=\"Hollowback Apiary honey farm hero\" /></a></td>\n    <td><a href=\"https://www.usehallmark.com/examples/riso-01/\"><img src=\"docs/screenshots/hero-riso-01.jpg\" alt=\"Off-Register risograph print fair ",
-  "generatedAt": "2026-07-20T02:44:05.996Z",
+  "generatedAt": "2026-07-21T00:56:23.020Z",
   "analysis": {
     "oneLine": "hallmark 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "hallmark 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，hallmark 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 13,446，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 CSS 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，hallmark 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 14,203，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 CSS 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

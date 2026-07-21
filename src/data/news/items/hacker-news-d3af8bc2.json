@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+  "summary": "237 points · 55 comments",
+  "content": "Mozilla has uploaded the Firefox 153.0 release binaries today for the newest monthly update to this cross-platform web browser",
+  "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+  "publishedAt": "2026-07-20T13:47:13.000Z",
+  "points": 237,
+  "id": "hacker-news-d3af8bc2",
+  "slug": "hacker-news-d3af8bc2",
+  "fetchedAt": "2026-07-21T00:56:47.041Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "视频"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Firefox 153 现已推出，支持 Vulkan 视频解码、JPEG-XL",
+  "chineseSummary": "237 分 · 55 条评论",
+  "chineseContent": "Mozilla 今天上传了 Firefox 153.0 版本二进制文件，以获取此跨平台网络浏览器的最新每月更新",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

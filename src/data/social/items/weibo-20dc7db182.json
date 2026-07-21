@@ -1,0 +1,21 @@
+{
+  "id": "weibo-20dc7db182",
+  "slug": "weibo-世界杯日均消耗15-84万亿token",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "世界杯日均消耗15.84万亿Token",
+  "summary": "微博热榜第 47 位：世界杯日均消耗15.84万亿Token，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A5%E5%9D%87%E6%B6%88%E8%80%9715.84%E4%B8%87%E4%BA%BFToken",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-07-21T00:52:24.345Z",
+  "fetchedAt": "2026-07-21T00:57:46.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

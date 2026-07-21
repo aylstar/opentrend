@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Autoplot",
+  "summary": "Unify data analysis and plotting in one powerful workspace Discussion | Link",
+  "url": "https://www.producthunt.com/products/autoplot",
+  "publishedAt": "2026-07-19T22:29:54.000Z",
+  "id": "product-hunt-6cc950b2",
+  "slug": "product-hunt-6cc950b2",
+  "content": "AutoPlot is a Mac native scientific workspace for plotting and exploratory data analysis. Import tabular datasets, create variables, build X&Y plots, histograms, heat maps, correlations, 3D plots, and charts, run fits, then compose figures with vector export. Metal-backed GPU rendering keeps 3D scenes and correlation networks interactive at full dataset size — rotate, zoom, and re-fit without waiting on a redraw. Raw data values never leave your Mac.",
+  "fetchedAt": "2026-07-21T00:56:47.041Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "自动绘图",
+  "chineseSummary": "将数据分析和绘图统一在一个强大的工作区中关联",
+  "chineseContent": "AutoPlot 是 Mac 原生科学工作区，用于绘图和探索性数据分析。导入表格数据集，创建变量，构建 X&Y 图、直方图、热图、相关性、3D 图和图表，运行拟合，然后通过矢量导出组成图形。 Metal 支持的 GPU 渲染使 3D 场景和相关网络在完整数据集大小下保持交互 - 旋转、缩放和重新调整，无需等待重绘。原始数据值永远不会离开您的 Mac。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

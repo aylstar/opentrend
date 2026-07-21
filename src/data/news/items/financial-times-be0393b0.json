@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Trump is slipping into an Iran quagmire",
+  "summary": "America cannot achieve its aims by negotiation. So regime change is back on the agenda",
+  "url": "https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1",
+  "publishedAt": "2026-07-20T11:17:18.000Z",
+  "id": "financial-times-be0393b0",
+  "slug": "financial-times-be0393b0",
+  "content": "America cannot achieve its aims by negotiation. So regime change is back on the agenda",
+  "fetchedAt": "2026-07-21T00:56:47.047Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "财经"
+  ],
+  "rank": 25,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "特朗普正陷入伊朗泥潭",
+  "chineseSummary": "美国无法通过谈判实现其目标。所以政权更迭又回到了议程上",
+  "chineseContent": "美国无法通过谈判实现其目标。所以政权更迭又回到了议程上",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

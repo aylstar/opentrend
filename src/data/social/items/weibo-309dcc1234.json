@@ -1,0 +1,21 @@
+{
+  "id": "weibo-309dcc1234",
+  "slug": "weibo-谢贤去世",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "谢贤去世",
+  "summary": "微博热榜第 32 位：谢贤去世，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-07-21T00:52:24.345Z",
+  "fetchedAt": "2026-07-21T00:57:46.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

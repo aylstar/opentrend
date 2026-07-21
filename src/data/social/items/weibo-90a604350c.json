@@ -1,0 +1,21 @@
+{
+  "id": "weibo-90a604350c",
+  "slug": "weibo-一念江南",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "一念江南",
+  "summary": "微博热榜第 5 位：一念江南，当前热度为 79万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97",
+  "hotValue": "79万热度",
+  "author": "",
+  "publishedAt": "2026-07-21T00:52:24.345Z",
+  "fetchedAt": "2026-07-21T00:57:46.980Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
