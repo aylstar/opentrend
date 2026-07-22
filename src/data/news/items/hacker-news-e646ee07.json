@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+  "summary": "215 points · 201 comments",
+  "content": "Jack Dorsey (@jack) said in an announcement on X on July 21st that Block is launching Buzz, an open source workspace designed to put employees, AI agents, conversations and software repositories behind one identity system. Dorsey, Block's cofounder and Block Head, is pitching Buzz as a way to reduce Block's dependence on Slack and GitHub. The move takes his preference for open protocols into the daily machinery of software development, where teams typically spread discussions, source code, au...",
+  "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+  "publishedAt": "2026-07-21T17:14:06.000Z",
+  "points": 215,
+  "id": "hacker-news-e646ee07",
+  "slug": "hacker-news-e646ee07",
+  "fetchedAt": "2026-07-22T00:14:31.033Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Jack Dorsey 推出 Buzz，将团队聊天、AI 代理和 Git 托管结合起来",
+  "chineseSummary": "215 分 · 201 条评论",
+  "chineseContent": "Jack Dorsey (@jack) 在 7 月 21 日的 X 公告中表示，Block 正在推出 Buzz，这是一个开源工作区，旨在将员工、人工智能代理、对话和软件存储库置于一个身份系统后面。 Block 的联合创始人兼 Block Head 多尔西 (Dorsey) 正在将 Buzz 视为减少 Block 对 Slack 和 GitHub 依赖的一种方式。此举将他对开放协议的偏爱带入了软件开发的日常机制中，团队通常在其中传播讨论、源代码、au...",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

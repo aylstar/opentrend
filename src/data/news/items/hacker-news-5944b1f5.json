@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI and Hugging Face address security incident during model evaluation",
+  "summary": "596 points · 404 comments",
+  "content": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments)",
+  "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+  "publishedAt": "2026-07-21T20:09:52.000Z",
+  "points": 596,
+  "id": "hacker-news-5944b1f5",
+  "slug": "hacker-news-5944b1f5",
+  "fetchedAt": "2026-07-22T00:14:31.032Z",
+  "score": 79,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "安全"
+  ],
+  "rank": 3,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件",
+  "chineseSummary": "596 分 · 404 条评论",
+  "chineseContent": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...另请参阅安全事件披露 - 2026 年 7 月 - https://news.ycombinator.com/item?id=48956248（9 条评论）",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

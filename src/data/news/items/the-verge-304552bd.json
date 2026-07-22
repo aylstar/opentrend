@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+  "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+  "publishedAt": "2026-07-21T21:48:54.000Z",
+  "id": "the-verge-304552bd",
+  "slug": "the-verge-304552bd",
+  "content": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and “an even more capable pre-release model” discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, Hugging Face disclosed a security incident that it says was driven by “an autonomous AI agent system.” Hugging Face’s AI agents detected and stopped the breach, which OpenAI has now admitted occurred during an evaluation of its models’ cybersecurity capabilities. OpenAI says “all evidence suggests that the models were hyperfocused on finding a solution for ExploitGym,” a benchmark system that measures whether AI models can turn security vulnerabilities into exploits. As part of efforts to complete the evaluation, the AI models gained access to the internet by exploiting a zero-day vulnerability in the sandboxed environment. From there, OpenAI says its models “inferred that Hugging Face potentially hosted models, datasets and solutions for ExploitGym,” and then “searched for and successfully found ways to gain access to secret information that it could use to cheat the evaluation:” > In one example, the model chained together multiple attack vectors, including using stolen credentials and zero-day vulnerabilities to find a remote code execution path on the Hugging Face servers. But as serious as this incident is, OpenAI appears to be using the “unprecedented” attack as an opportunity to make its AI systems look good — especially as it competes with cybersecurity rivals, like Anthropic’s Mythos and Gemini Flash 3.5 Cyber. OpenAI’s blog post has a chart showing how GPT-5.6 Sol is getting better at sustaining multi-step cyber operations, and also encourages enterprise customers to sign up to access its “Cyber” security model. OpenAI adds that it’s now working with Hugging Face to investigate the security incident, and will implement new controls within its research environment.",
+  "fetchedAt": "2026-07-22T00:14:31.035Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "安全"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 表示，它使用新的 AI 系统意外黑了 Hugging Face",
+  "chineseSummary": "OpenAI 表示，其人工智能模型在内部测试期间错误地破坏了开源人工智能平台 Hugging Face。 OpenAI 在周二的博客文章中写道，GPT-5.6 Sol 和“功能更强大的预发布模型”在其沙盒测试环境中发现了漏洞，使他们能够访问互联网并瞄准 Hugging Face。 7 月 16 日，[…]",
+  "chineseContent": "OpenAI 表示，其人工智能模型在内部测试期间错误地破坏了开源人工智能平台 Hugging Face。 OpenAI 在周二的博客文章中写道，GPT-5.6 Sol 和“功能更强大的预发布模型”在其沙盒测试环境中发现了漏洞，使他们能够访问互联网并瞄准 Hugging Face。 7 月 16 日，Hugging Face 披露了一起安全事件，称该事件是由“自主人工智能代理系统”驱动的。 Hugging Face 的人工智能代理检测到并阻止了这一漏洞，OpenAI 现在承认这一漏洞是在评估其模型的网络安全能力时发生的。 OpenAI 表示，“所有证据都表明这些模型过度专注于为 ExploitGym 寻找解决方案”，ExploitGym 是一个衡量人工智能模型是否可以将安全漏洞转化为漏洞利用的基准系统。作为完成评估工作的一部分，人工智能模型通过利用沙盒环境中的零日漏洞来访问互联网。 OpenAI 表示，其模型从那里“推断出 Hugging Face 可能托管了 ExploitGym 的模型、数据集和解决方案”，然后“搜索并成功找到了获取秘密信息的方法，并利用这些信息来欺骗评估：” > 在一个示例中，该模型将多个攻击向量链接在一起，包括使用被盗凭证和零日漏洞在 Hugging Face 服务器上查找远程代码执行路径。但尽管这次事件很严重，OpenAI 似乎正在利用这次“前所未有”的攻击作为一个机会，让其人工智能系统看起来不错——特别是当它与 Anthropic 的 Mythos 和 Gemini Flash 3.5 Cyber​​ 等网络安全竞争对手竞争时。 OpenAI 的博客文章有一个图表，显示 GPT-5.6 Sol 如何在维持多方面变得更好",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

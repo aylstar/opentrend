@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0cdb80ce8b",
+  "slug": "weibo-你需要大量的无聊",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "你需要大量的无聊",
+  "summary": "微博热榜第 42 位：你需要大量的无聊，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%9C%80%E8%A6%81%E5%A4%A7%E9%87%8F%E7%9A%84%E6%97%A0%E8%81%8A%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-07-22T00:08:42.834Z",
+  "fetchedAt": "2026-07-22T00:16:00.752Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

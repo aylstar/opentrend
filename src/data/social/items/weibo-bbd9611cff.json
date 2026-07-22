@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bbd9611cff",
+  "slug": "weibo-王源好明显的震颤",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "王源好明显的震颤",
+  "summary": "微博热榜第 6 位：王源好明显的震颤，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%A5%BD%E6%98%8E%E6%98%BE%E7%9A%84%E9%9C%87%E9%A2%A4%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-07-22T00:08:42.834Z",
+  "fetchedAt": "2026-07-22T00:16:00.752Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

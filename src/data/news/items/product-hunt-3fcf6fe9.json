@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "ArachStudio",
+  "summary": "Live-edit your GitHub components directly in the browser Discussion | Link",
+  "url": "https://www.producthunt.com/products/arachstudio",
+  "publishedAt": "2026-07-20T13:03:20.000Z",
+  "id": "product-hunt-3fcf6fe9",
+  "slug": "product-hunt-3fcf6fe9",
+  "content": "Hi Product Hunt! 👋 ArachStudio helps designers & developers live-edit codebases & components online. How it works: Connect GitHub via access token. Scan & load your project path. Make real-time style edits in the visual preview (desktop/mobile). Export the final product! Help us decide: We are testing two different demo versions. Try both links and tell us which experience you prefer in the comments!",
+  "fetchedAt": "2026-07-22T00:14:31.034Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "阿拉克工作室",
+  "chineseSummary": "直接在浏览器中实时编辑 GitHub 组件关联",
+  "chineseContent": "嗨，产品搜寻！ 👋 ArachStudio 帮助设计师和开发人员在线实时编辑代码库和组件。工作原理：通过访问令牌连接 GitHub。扫描并加载您的项目路径。在视觉预览（桌面/移动设备）中进行实时样式编辑。最终产品出口！帮助我们做出决定：我们正在测试两个不同的演示版本。尝试这两个链接并在评论中告诉我们您更喜欢哪种体验！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

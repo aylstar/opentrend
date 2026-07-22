@@ -1,0 +1,21 @@
+{
+  "id": "weibo-84d603b92c",
+  "slug": "weibo-梦想启程且歌且行",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "梦想启程且歌且行",
+  "summary": "微博热榜第 3 位：梦想启程且歌且行，当前热度为 60万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%83%B3%E5%90%AF%E7%A8%8B%E4%B8%94%E6%AD%8C%E4%B8%94%E8%A1%8C%23",
+  "hotValue": "60万热度",
+  "author": "",
+  "publishedAt": "2026-07-22T00:08:42.834Z",
+  "fetchedAt": "2026-07-22T00:16:00.752Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

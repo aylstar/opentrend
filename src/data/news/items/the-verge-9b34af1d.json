@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Twitch will let parents stop their teens going live",
+  "summary": "Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to link Twitch accounts with their 13- to 17-year-old children, providing account management features and a weekly email summarizing their teen's activity, including […]",
+  "url": "https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms",
+  "publishedAt": "2026-07-21T17:00:00.000Z",
+  "id": "the-verge-9b34af1d",
+  "slug": "the-verge-9b34af1d",
+  "content": "Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available that allow guardians to link Twitch accounts with their 13- to 17-year-old children, providing account management features and a weekly email summarizing their teen’s activity, including channels and hours watched. The controls can be used to prevent teens from livestreaming their own content and disabling Whispers, Twitch’s private messaging feature. This includes blocking minors from sending or receiving DMs. Parents can also set flexible daily time limits for Twitch across all their teen’s devices and restrict content that carries certain classification labels — such as Gambling, Mature-Rated Game, Sexual Themes, and more — from appearing in searches or recommended feeds. The parental controls dashboard can be found in the Account Settings under the Family Center page. When a Twitch user managed by parental controls turns 18, their account will be automatically unlinked from their parents. Twitch says that it will explore adding additional parental control features in the future, noting that the setting is optional “at this time.”",
+  "fetchedAt": "2026-07-22T00:14:31.035Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Twitch将允许父母阻止他们的青少年直播",
+  "chineseSummary": "Twitch 让家长能够更好地控制孩子如何使用流媒体平台，包括完全阻止他们进行广播。现在可以使用家长控制功能，允许监护人将 Twitch 帐户与其 13 至 17 岁的孩子关联起来，提供帐户管理功能和每周总结青少年活动的电子邮件，包括 [...]",
+  "chineseContent": "Twitch 让家长能够更好地控制孩子如何使用流媒体平台，包括完全阻止他们进行广播。现在可以使用家长控制功能，监护人可以将 Twitch 帐户与其 13 至 17 岁的孩子关联起来，提供帐户管理功能以及每周一封总结青少年活动的电子邮件，包括频道和观看时间。这些控件可用于防止青少年直播自己的内容并禁用 Twitch 的私人消息传递功能 Whispers。这包括阻止未成年人发送或接收私信。家长还可以在青少年的所有设备上为 Twitch 设置灵活的每日时间限制，并限制带有某些分类标签的内容（例如赌博、成人级游戏、性主题等）出现在搜索或推荐源中。家长控制仪表板可以在“家庭中心”页面下的“帐户设置”中找到。当由家长控制管理的 Twitch 用户年满 18 岁时，他们的帐户将自动取消与父母的关联。 Twitch 表示，未来将探索添加额外的家长控制功能，并指出“目前”该设置是可选的。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

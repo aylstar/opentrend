@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Substack adds an AI detector to help spot blogs written by no one",
+  "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+  "publishedAt": "2026-07-21T19:22:28.000Z",
+  "id": "the-verge-8efc7f08",
+  "slug": "the-verge-8efc7f08",
+  "content": "Substack will now help users determine whether what they’re reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out across the web and the iOS app, with an Android launch coming “soon.” Readers can analyze content longer than 100 words by choosing the “Scan for AI text” option from the three-dot menu in the top-right corner of a post. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/substack-pangram.jpg?quality=90&strip=all] Substack co-founder and CEO Chris Best says the Pangram integration is meant to increase transparency on the platform as AI becomes more prevalent on social media. “The core problem is not people using AI, or the quality of its output,” Best writes. “The problem is when there is a mismatch between a reader’s expectation and reality, especially when they unwittingly invest their attention in something with no human thought on the other end. That’s Claudefishing.” In line with this change, Substack will also allow creators to explain their writing process to readers with a new “How I make this” statement. Writers can scan their drafts with Pangram, too, and will have an option to report inaccurate results. Best notes that “Pangram can only detect whether AI was used to make the text, not whether great human care went into creating it, nor whether AI tools were used as a source.” But the goal, according to Best, is to make it easier for someone to choose to invest their time reading a blog post. “When readers have to wonder if what they’re reading is real, it undermines trust in authorship and threatens the livelihood of writers — including those who use AI tools thoughtfully to produce work they believe in,” Best writes. “Platforms that reward fakeness will create a race to the bottom.”",
+  "fetchedAt": "2026-07-22T00:14:31.035Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Substack 添加了一个 AI 检测器，以帮助发现无人撰写的博客",
+  "chineseSummary": "Substack 现在将帮助用户确定他们正在阅读的内容是否是由人工智能编写的。根据周二发布的一篇博客文章，该平台上的一个新工具可以扫描帖子、笔记、回复和评论，以估计人工智能可以生成或在人工智能协助下编写的文本量。这 […]",
+  "chineseContent": "Substack 现在将帮助用户确定他们正在阅读的内容是否是由人工智能编写的。根据周二发布的一篇博客文章，该平台上的一个新工具可以扫描帖子、笔记、回复和评论，以估计人工智能可以生成或在人工智能协助下编写的文本量。该工具由一家名为 Pangram 的人工智能检测公司提供支持，正在网络和 iOS 应用程序上推出，Android 版也将“很快”推出。读者可以通过从帖子右上角的三点菜单中选择“扫描 AI 文本”选项来分析超过 100 个单词的内容。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/substack-pangram.jpg?quality=90&strip=all] Substack 联合创始人兼首席执行官 Chris Best 表示，随着人工智能在社交媒体上变得更加流行，Pangram 集成旨在提高平台的透明度。 “核心问题不在于人们使用人工智能，也不在于其输出的质量，”贝斯特写道。 “问题在于，当读者的期望与现实不匹配时，尤其是当他们无意中将注意力投入到另一端没有人类思想的东西时。这就是克劳德钓鱼。”根据这一变化，Substack 还将允许创作者通过新的“我如何制作这个”声明向读者解释他们的写作过程。作者也可以使用 Pangram 扫描他们的草稿，并且可以选择报告不准确的结果。 Best 指出，“Pangram 只能检测是否使用 AI 来制作文本，而无法检测文本的创建过程中是否付出了巨大的人文关怀，也无法检测是否使用 AI 工具作为来源。”但贝斯特表示，我们的目标是让人们更容易选择花时间阅读博客文章。 “当读者不得不怀疑他们所读的内容是否真实时",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

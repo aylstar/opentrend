@@ -1,0 +1,94 @@
+{
+  "slug": "2026-07-22",
+  "date": "2026-07-22",
+  "title": "2026年07月22日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-07-22T00:14:16.520Z",
+  "stats": {
+    "totalProjects": 20,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.4
+  },
+  "sections": {
+    "recommended": [
+      "usestrix__strix",
+      "deusdata__codebase-memory-mcp",
+      "hkuds__deeptutor"
+    ],
+    "weekly": [
+      "nutlope__hallmark",
+      "opencut-app__opencut",
+      "hkuds__deeptutor",
+      "tirth8205__code-review-graph",
+      "shubhamsaboo__awesome-llm-apps",
+      "moonshotai__kimi-cli",
+      "ibelick__ui-skills",
+      "1jehuang__jcode",
+      "kangarooking__cangjie-skill",
+      "hkuds__vibe-trading"
+    ],
+    "monthly": [
+      "madslorentzen__ai-job-search",
+      "calesthio__openmontage",
+      "usestrix__strix",
+      "deusdata__codebase-memory-mcp",
+      "catchorg__catch2",
+      "kunchenguid__no-mistakes",
+      "diegosouzapw__omniroute",
+      "stablyai__orca",
+      "ogulcancelik__herdr",
+      "zackriya-solutions__meetily"
+    ],
+    "commercial": [
+      "opencut-app__opencut",
+      "hkuds__deeptutor",
+      "tirth8205__code-review-graph",
+      "shubhamsaboo__awesome-llm-apps",
+      "moonshotai__kimi-cli",
+      "ibelick__ui-skills"
+    ],
+    "deployable": [
+      "nutlope__hallmark",
+      "opencut-app__opencut",
+      "hkuds__deeptutor",
+      "tirth8205__code-review-graph",
+      "shubhamsaboo__awesome-llm-apps",
+      "moonshotai__kimi-cli"
+    ],
+    "risky": [
+      "nutlope__hallmark",
+      "opencut-app__opencut",
+      "hkuds__deeptutor",
+      "tirth8205__code-review-graph",
+      "shubhamsaboo__awesome-llm-apps",
+      "moonshotai__kimi-cli"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 20 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "nutlope__hallmark",
+    "opencut-app__opencut",
+    "hkuds__deeptutor",
+    "tirth8205__code-review-graph",
+    "shubhamsaboo__awesome-llm-apps",
+    "moonshotai__kimi-cli",
+    "ibelick__ui-skills",
+    "1jehuang__jcode",
+    "kangarooking__cangjie-skill",
+    "hkuds__vibe-trading",
+    "madslorentzen__ai-job-search",
+    "calesthio__openmontage",
+    "usestrix__strix",
+    "deusdata__codebase-memory-mcp",
+    "catchorg__catch2",
+    "kunchenguid__no-mistakes",
+    "diegosouzapw__omniroute",
+    "stablyai__orca",
+    "ogulcancelik__herdr",
+    "zackriya-solutions__meetily"
+  ]
+}

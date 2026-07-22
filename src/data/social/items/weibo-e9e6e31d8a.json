@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e9e6e31d8a",
+  "slug": "weibo-人工智能-文科生",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "人工智能 文科生",
+  "summary": "微博热榜第 10 位：人工智能 文科生，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E6%96%87%E7%A7%91%E7%94%9F%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-07-22T00:08:42.834Z",
+  "fetchedAt": "2026-07-22T00:16:00.752Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

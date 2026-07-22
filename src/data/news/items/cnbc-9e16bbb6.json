@@ -1,0 +1,24 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Time for a crypto comeback? Traders bet that this stock will lead the way",
+  "summary": "Crypto bulls have been waiting for a rebound, and traders think this stock could lead the way.",
+  "url": "https://www.cnbc.com/2026/07/21/traders-bet-that-this-stock-will-lead-the-way-in-a-crypto-comeback.html",
+  "publishedAt": "2026-07-21T19:09:36.000Z",
+  "id": "cnbc-9e16bbb6",
+  "slug": "cnbc-9e16bbb6",
+  "content": "The S&P 500 has barely moved in five days, but crypto assets are gaining some momentum in the background. Bitcoin jumped on Tuesday to hit its highest level since mid-June.\n\nCould this be the comeback crypto bulls have been waiting almost a year for? Options traders in stocks tied to the digital asset class seem to think so, piling into calls in the iShares Bitcoin Trust ETF (IBIT) , Michael Saylor's Strategy , and most of all – trading platform operator Coinbase Global .\n\nShares of Coinbase rallied roughly 11% to trade around $178 Tuesday after dipping below $150 earlier this month, a level the stock has tested and held multiple times since early 2024. Options flows in the stock were resoundingly bullish, with more than 114,000 calls traded versus just under 50,000 puts. More calls were bought than sold, with more than four times as many calls bought versus puts.\n\nMore than $100 million in options premium on Coinbase traded by midday Tuesday, with $80 million tied to call contracts, according to data from SpotGamma. The most popular contract by volume was the 190-strike call expiring Friday, a trade that needs a 7.5% rally to pay off.\n\nOptions in Robinhood Markets mirrored the bullishness in Coinbase. Of the 170,000 total contracts traded on the brokerage stock, 125,000 were calls, with six times as many calls bought as puts bought, according to data from ThinkOrSwim.\n\nBullish bets on the brokers are most likely to pay off if crypto prices recover, and options flows around bitcoin ETF IBIT suggest that could be the case. In that fund, more than twice as many calls were bought than puts, though more calls were sold than bought, suggesting a more neutral-to-bullish outlook.\n\nOne point of possible relief for bitcoin bulls: Traders bought twice as many calls as puts in Strategy, the bitcoin treasury company that's down more than 75% in the past year and arguably a main source of crypto strife.",
+  "fetchedAt": "2026-07-22T00:14:31.036Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "加密货币卷土重来的时候了？交易员押注这只股票将引领潮流",
+  "chineseSummary": "加密货币多头一直在等待反弹，交易员认为这只股票可能会引领潮流。",
+  "chineseContent": "标准普尔 500 指数在五天内几乎没有变动，但加密资产正在获得一些动力。比特币周二飙升至 6 月中旬以来的最高水平。\n\n这是否是加密货币多头等待近一年的卷土重来？与数字资产类别相关的股票期权交易员似乎也这么认为，他们纷纷买入 iShares 比特币信托 ETF (IBIT)、Michael Saylor 的策略，尤其是交易平台运营商 Coinbase Global。\n\nCoinbase 股价在本月初跌破 150 美元后，周二上涨约 11%，至 178 美元左右，该股自 2024 年初以来多次测试并保持这一水平。该股的期权流动非常看涨，看涨期权交易量超过 114,000 份，看跌期权交易量略低于 50,000 份。看涨期权的买入量多于卖出量，看涨期权的买入量是看跌期权的四倍多。\n\n根据 SpotGamma 的数据，截至周二中午，Coinbase 上交易的期权溢价超过 1 亿美元，其中 8000 万美元与看涨合约相关。按交易量计算，最受欢迎的合约是周五到期的 190 次执行看涨期权，该交易需要上涨 7.5% 才能获得回报。\n\nRobinhood Markets 的期权反映了 Coinbase 的看涨情绪。 ThinkOrSwim 的数据显示，在该券商股票交易的 170,000 份合约中，有 125,000 份是看涨期权，看涨期权的购买量是看跌期权的六倍。\n\n如果加密货币价格回升，对经纪商的看涨押注最有可能获得回报，围绕比特币 ETF IBIT 的期权流动表明情况可能如此。在该基金中，买入看涨期权的数量是看跌期权的两倍多，尽管卖出的看涨期权多于买入的股票，表明前景更为中性至看涨。\n\n对于比特币多头来说，有一点可能会松一口气：交易员购买的Strategy看涨期权是看跌期权的两倍，这家比特币财务公司在过去一年里下跌了75%以上，可以说是加密货币冲突的主要根源。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

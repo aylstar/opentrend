@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+  "summary": "539 points · 211 comments",
+  "content": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+  "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+  "publishedAt": "2026-07-21T08:44:23.000Z",
+  "points": 539,
+  "id": "hacker-news-20761a9",
+  "slug": "hacker-news-20761a9",
+  "fetchedAt": "2026-07-22T00:14:31.033Z",
+  "score": 79,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Qwen-Image-3.0：内容丰富、细节真实、知识渊博",
+  "chineseSummary": "539 分 · 211 条评论",
+  "chineseContent": "Qwen Studio 提供全面的功能，涵盖聊天机器人、图像和视频理解、图像生成、文档处理、网络搜索集成、工具利用和工件。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

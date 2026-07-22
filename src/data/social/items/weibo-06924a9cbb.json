@@ -1,0 +1,21 @@
+{
+  "id": "weibo-06924a9cbb",
+  "slug": "weibo-newjeans回归预告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "NewJeans回归预告",
+  "summary": "微博热榜第 14 位：NewJeans回归预告，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23NewJeans%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-07-22T00:08:42.834Z",
+  "fetchedAt": "2026-07-22T00:16:00.752Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+  "summary": "25 points · 6 comments",
+  "content": "Gemini 3.6 Flash ( gemini-3.6-flash ) và Gemini 3.5 Flash-Lite ( gemini-3.5-flash-lite ) đã được phát hành rộng rãi (GA) và sẵn sàng để sử dụng trong quá trình sản xuất.\n\nHướng dẫn này giải thích những điểm mới trong từng mô hình, những thay đổi về API ảnh hưởng đến mã của bạn và cách di chuyển.\n\nCả hai mô hình đều hỗ trợ cửa sổ ngữ cảnh 1 triệu token, tối đa 64.000 token đầu ra, khả năng tư duy và đủ bộ công cụ tích hợp, bao gồm cả Sử dụng máy tính .\n\nĐể biết thông số kỹ thuật đầy đủ, hãy xem các trang về mô hình:\n\nĐể biết thông tin chi tiết về giá, hãy xem trang giá .\n\nTính năng mới trong Gemini 3.6 Flash\n\nTính năng mới trong Gemini 3.5 Flash-Lite\n\nChọn mô hình Flash hoặc Flash-Lite phù hợp\n\nHãy sử dụng bảng này để chọn mô hình và lộ trình di chuyển phù hợp cho các tải công việc của bạn.\n\nCả hai mô hình đều yêu cầu xoá các tham số lấy mẫu không dùng nữa ( temperature , top_p , top_k ) và các lượt phản hồi được điền sẵn của mô hình. Hãy xem bài viết Các thay đổi về API để biết thông tin chi tiết.\n\nNhờ hiệu suất được cải thiện, Gemini 3.6 Flash hiện là mô hình mặc định mới hỗ trợ tác nhân Antigravity trong Gemini Managed Agents. Bạn có thể thay đổi thông tin này bằng cách đặt một trường mới trên API.\n\nCác thay đổi về API và nội dung cập nhật về tham số\n\nBắt đầu từ Gemini 3.6 Flash và Gemini 3.5 Flash-Lite, những thay đổi sau đây về API sẽ áp dụng cho các mô hình này và tất cả các bản phát hành mô hình Gemini trong tương lai.\n\nDưới đây là nội dung giải thích chi tiết và các mẫu mã cho từng thay đổi về API.\n\n1. Ngừng sử dụng tham số lấy mẫu ( temperature , top_p , top_k )\n\ntemperature , top_p và top_k đã ngừng hoạt động và bị bỏ qua. Trong các thế hệ mô hình sau này, việc cung cấp các tham số này sẽ trả về lỗi HTTP 400. Xoá các thông số này khỏi tất cả yêu cầu.\n\nĐể cải thiện tính xác định, hãy xác định một chỉ dẫn hệ thống có các quy tắc rõ ràng cho trường hợp sử dụng cụ thể của bạn.\n\n2. Xác thực lượt phản hồi của mô hình được điền sẵn\n\nCác yêu cầu API kết thúc bằng một lượt phản hồi có vai trò mô hình không trống sẽ không được phép và trả về Lỗi HTTP 400 .\n\nTrong tải trọng REST thô hoặc generateContent cũ, việc kết thúc bằng một lượt vai trò mô hình hiện không được phép:\n\nTrong Interactions API, các lượt tương tác của mô hình không được điền sẵn theo cách thủ công. Nếu trước đây ứng dụng của bạn đã điền sẵn một lượt tương tác mô hình để ngăn chặn phần mở đầu hoặc buộc định dạng JSON, hãy sử dụng system_instruction hoặc Đầu ra có cấu trúc .\n\nDanh sách kiểm tra cho quá trình di chuyển\n\nDi chuyển sang gemini-3.5-flash-lite",
+  "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+  "publishedAt": "2026-07-21T21:27:54.000Z",
+  "points": 25,
+  "id": "hacker-news-6fdefa2a",
+  "slug": "hacker-news-6fdefa2a",
+  "fetchedAt": "2026-07-22T00:14:31.033Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gemini 最后的模型：温度、top_p 和 top_k 已弃用并被忽略",
+  "chineseSummary": "25 分 · 6 条评论",
+  "chineseContent": "Gemini 3.6 Flash (gemini-3.6-flash) 和 Gemini 3.5 Flash-Lite (gemini-3.5-flash-lite) 已全面发布 (GA)，并准备在生产中使用。\n\n本指南介绍了每个模型中的新增功能、API 更改如何影响您的代码以及如何迁移。\n\n两种模型都支持 100 万个令牌上下文窗口、最多 64,000 个输出令牌、思维能力以及一整套集成工具，包括计算使用情况。\n\n有关完整规格，请参阅型号页面：\n\n有关详细定价信息，请参阅定价页面。\n\nGemini 3.6 Flash 的新功能\n\nGemini 3.5 Flash-Lite 的新功能\n\n选择合适的 Flash 或 Flash-Lite 型号\n\n使用此表为您的工作负载选择正确的出行模式和路线。\n\n这两个模型都需要删除已弃用的采样参数（温度、top_p、top_k）和模型的预填充响应通道。有关详细信息，请参阅 API 更改。\n\n由于性能的改进，Gemini 3.6 Flash 现在成为支持 Gemini Managed Agents 中反重力代理的新默认型号。您可以通过在 API 上放置新字段来更改此信息。\n\nAPI变更及参数更新\n\n从 Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite 开始，以下 API 更改将适用于这些型号以及所有未来的 Gemini 型号版本。\n\n以下是每个 API 更改的详细说明和代码示例。\n\n1.停止使用采样参数（温度、top_p、top_k）\n\ntemp 、 top_p 和 top_k 已停止使用并被忽略。在后续模型中，提供这些参数将返回 HTTP 400 错误。从所有请求中删除这些参数。\n\n为了提高确定性，请定义一个针对您的特定用例具有明确规则的系统指令。\n\n2. 验证预先填充的模型响应\n\n不允许以非空模型角色响应结束的 API 请求，并返回 HTTP 错误 400 。\n\n在旧版原始 REST 或generateContent 有效负载中，当前不允许以模型角色传递结尾：\n\n在交互 API 中，模型交互不是手动预先填充的。如果您的应用程序之前已预先填充模型交互传递以防止前导码或强制 JSON 格式设置，请使用 system_instruction 或 Structured Output 。\n\n迁移过程清单\n\n迁移到gemini-3.5-flash-lite",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

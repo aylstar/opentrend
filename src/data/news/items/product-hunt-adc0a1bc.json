@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Diffsmith",
+  "summary": "Comment on your AI agent's code & collaborate on changes Discussion | Link",
+  "url": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+  "publishedAt": "2026-07-20T00:34:13.000Z",
+  "id": "product-hunt-adc0a1bc",
+  "slug": "product-hunt-adc0a1bc",
+  "content": "Diffsmith is a code review studio for local git changes made by Claude Code, Cursor, Codex, Copilot, or any other AI coding agent. Open a repo, read the uncommitted diff, and click any line to leave a comment anchored to that exact spot. Then hand your notes straight back to the agent. Supports MCP for viewing you're agent's replies to your comments directly at the line of code it relates to. Diffsmith is 100% offline and a one time purchase unlocks lifetime access.",
+  "fetchedAt": "2026-07-22T00:14:31.034Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "迪夫史密斯",
+  "chineseSummary": "评论您的 AI 代理的代码并协作进行更改 讨论 |关联",
+  "chineseContent": "Diffsmith 是一个代码审查工作室，用于 Claude Code、Cursor、Codex、Copilot 或任何其他 AI 编码代理所做的本地 git 更改。打开一个存储库，阅读未提交的差异，然后单击任意行以留下锚定到该确切位置的评论。然后将您的笔记直接返还给代理。支持 MCP，以便直接在相关代码行查看您的代理对您的评论的回复。 Diffsmith 100% 离线，一次性购买即可解锁终身访问权限。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
