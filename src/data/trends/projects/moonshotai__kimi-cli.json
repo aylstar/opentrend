@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/MoonshotAI/kimi-cli",
   "docsUrl": "https://moonshotai.github.io/kimi-cli/",
-  "stars": 10505,
-  "forks": 1233,
-  "openIssues": 787,
+  "stars": 10614,
+  "forks": 1235,
+  "openIssues": 790,
   "license": "Apache-2.0",
   "pushedAt": "2026-07-16T10:05:51Z",
-  "updatedAt": "2026-07-22T00:11:19Z",
+  "updatedAt": "2026-07-22T23:01:25Z",
   "createdAt": "2025-10-15T12:58:03Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Kimi CLI\n\n[![Commit Activity](https://img.shields.io/github/commit-activity/w/MoonshotAI/kimi-cli)](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity)\n[![Checks](https://img.shields.io/github/check-runs/MoonshotAI/kimi-cli/main)](https://github.com/MoonshotAI/kimi-cli/actions)\n[![Version](https://img.shields.io/pypi/v/kimi-cli)](https://pypi.org/project/kimi-cli/)\n[![Downloads](https://img.shields.io/pypi/dw/kimi-cli)](https://pypistats.org/packages/kimi-cli)\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MoonshotAI/kimi-cli)\n\n[Kimi Code](https://www.kimi.com/code/) | [Documentation](https://moonshotai.github.io/kimi-cli/en/) | [文档](https://moonshotai.github.io/kimi-cli/zh/)\n\n> [!IMPORTANT]\n> **Kimi CLI is evolving into [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code)** — the next-generation terminal AI agent from the same team. Installing Kimi Code CLI automatically migrates your configuration and sessions. This project will be gradually wound down; the docs and existing installations remain available.\n\nKimi CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, execute shell commands, search and fetch web pages, and autonomously plan and adjust actions during execution.\n\n## Getting Started\n\nSee [Getting Started](https://moonshotai.github.io/kimi-cli/en/guides/getting-started.html) for how to install and start using Kimi CLI.\n\n## Key Features\n\n### Shell command mode\n\nKimi CLI is not only a coding agent, but also a shell. You can switch the shell command mode by pressing `Ctrl-X`. In this mode, you can directly run shell commands without leaving Kimi CLI.\n\n![](./docs/media/shell-mode.gif)\n\n> [!NOTE]\n> Built-in shell commands like `cd` are not supported yet.\n\n### VS Code extension\n\nKimi CLI can be integrated with [Visual Studio Code](https://code.visualstudio.com/) via the [Kimi Code VS Code Extension](https://marketplace.visualstudio.com/items?itemName=moonshot-ai.kimi-code).\n\n![VS Code Extension](./docs/media/vscode.png)\n\n### IDE integration via ACP\n\nKimi CLI supports [Agent Client Protocol] out of the box. You can use it together with any ACP-compatible editor or IDE.\n\n[Agent Client Protocol]: https://github.com/agentclientprotocol/agent-client-protocol\n\nTo use Kimi CLI with ACP clients, make sure to run Kimi CLI in the terminal and send `/login` to complete the login first. Then, you can configure your ACP client to start Kimi CLI as an ACP agent server with command `kimi acp`.\n\nFor example, to use Kimi CLI with [Zed](https://zed.dev/) or [JetBrains](https://blog.jetbrains.com/ai/2025/12/bring-your-own-ai-agent-to-jetbrains-ides/), add the following configuration to your `~/.config/zed/settings.json` or `~/.jetbrains/acp.json` file:\n\n```json\n{\n  \"agent_servers\": {\n    \"Kimi CLI\": {\n      \"type\": \"custom\",\n      \"command\": \"kimi\",\n      \"args\": [\"acp\"],\n      \"env\": {}\n    }\n  }\n}\n```\n\nThen you can create Kimi",
-  "generatedAt": "2026-07-22T00:14:09.146Z",
+  "generatedAt": "2026-07-23T00:57:51.666Z",
   "analysis": {
     "oneLine": "kimi-cli 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
     "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
     "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
     "detailParagraphs": [
       "kimi-cli 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
-      "如果把它放进实际使用场景，kimi-cli 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 10,505，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，kimi-cli 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 10,614，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

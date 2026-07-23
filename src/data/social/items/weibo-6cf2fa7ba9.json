@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6cf2fa7ba9",
+  "slug": "weibo-a股行情",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "A股行情",
+  "summary": "微博热榜第 6 位：A股行情，当前热度为 58万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23",
+  "hotValue": "58万热度",
+  "author": "",
+  "publishedAt": "2026-07-23T00:59:19.841Z",
+  "fetchedAt": "2026-07-23T00:59:27.984Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

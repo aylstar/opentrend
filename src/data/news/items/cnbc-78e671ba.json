@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "IBM lowers full-year forecast after earnings warning",
+  "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+  "url": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+  "publishedAt": "2026-07-23T00:17:38.000Z",
+  "id": "cnbc-78e671ba",
+  "slug": "cnbc-78e671ba",
+  "content": "IBM lowered its 2026 forecast and delivered weaker earnings than analysts had projected on Wednesday, even after the company issued an earnings warning last week. IBM said it aims to widen its full-year pre-tax margin by about 1 percentage point through higher productivity.\n\nHere's how the company did relative to LSEG consensus:\n\nIBM's revenue grew 1% year over year in the quarter, according to a statement . Net income of $2.17 billion, or $2.30 per share, decreased from $2.19 billion, or $2.36 per share, a year ago. Adjusted earnings exclude acquisition-related adjustments.\n\nManagement called for 4% to 5% revenue growth in constant currency for 2026. As recently as April , IBM had been looking for over 5% growth at constant currency. The company reiterated expectations for $1 billion in higher free cash flow for the year.\n\nAnalysts cut their estimates after IBM announced preliminary second-quarter results. In a letter to investors, CEO Arvind Krishna cited worse-than-planned performance in sales of Z mainframe computers and transaction processing software as organizations rushed to buy hardware ahead of expected price increases. The stock dropped 25%, marking its sharpest single-day decline on record.\n\nThe revenue and adjusted earnings per share figures IBM disclosed on Wednesday were in line with the figures released a week ago.\n\nAs of Wednesday's close, IBM shares were down 30% so far in 2026, while the S&P 500 index was up about 10%.\n\nIBM said its high-margin software segment produced $7.76 billion in second-quarter revenue, up 5%. Consulting revenue, at $5.33 billion, was flat. Revenue from infrastructure, at $3.84 billion, declined 7%, with Z mainframe revenue falling 42%.\n\nDuring the quarter, IBM said it signed a letter of intent to build a U.S. quantum chip foundry . It also introduced the Bob artificial intelligence coding tool that relies on a mixture of generative models, with adoption from over 80,000 employees.\n\n\"IBM is accelerating productivity by scaling software development leveraging AI, increasing the effectiveness of its sales and marketing organization, and optimizing its supply chain,\" the company said in Wednesday's statement. \"These efforts help enhance margin and free cash flow, and strengthen the company's ability to capture significant growth opportunities.\"\n\nWATCH: Melius’ Ben Reitzes on what's next for IBM",
+  "fetchedAt": "2026-07-23T00:58:12.455Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "财经",
+    "产品"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "IBM 在盈利预警后下调全年预期",
+  "chineseSummary": "IBM 现在正在寻求通过人工智能提高生产力，包括使用名为 Bob 的新编码工具。",
+  "chineseContent": "IBM 周三下调了 2026 年的预测，尽管该公司上周发布了盈利预警，但其盈利仍低于分析师的预期。 IBM表示，其目标是通过提高生产率将全年税前利润率扩大约1个百分点。\n\n以下是该公司相对于 LSEG 共识的表现：\n\n一份声明称，IBM 本季度收入同比增长 1%。净利润为 21.7 亿美元，即每股 2.30 美元，低于一年前的 21.9 亿美元，即每股 2.36 美元。调整后收益不包括与收购相关的调整。\n\n管理层呼吁 2026 年按固定汇率计算收入增长 4% 至 5%。就在 4 月份，IBM 一直在寻求按固定汇率计算超过 5% 的增长。该公司重申今年自由现金流增加 10 亿美元的预期。\n\nIBM 公布第二季度初步业绩后，分析师下调了预期。在给投资者的一封信中，首席执行官 Arvind Krishna 指出，由于各组织在预期价格上涨之前急于购买硬件，Z 大型计算机和交易处理软件的销售业绩低于计划。该股下跌 25%，创下有记录以来单日最大跌幅。\n\nIBM 周三披露的营收和调整后每股收益数据与一周前发布的数据一致。\n\n截至周三收盘，IBM 股价 2026 年迄今已下跌 30%，而标准普尔 500 指数上涨约 10%。\n\nIBM表示，其高利润软件部门第二季度收入达77.6亿美元，增长5%。咨询收入为 53.3 亿美元，持平。基础设施收入为 38.4 亿美元，下降 7%，其中 Z 大型机收入下降 42%。\n\n本季度，IBM 表示签署了一份在美国建立量子芯片代工厂的意向书。它还推出了 Bob 人工智能编码工具，该工具依赖于混合生成模型，已被超过 80,000 名员工采用。\n\n该公司在周三的声明中表示：“IBM 正在通过利用人工智能扩展软件开发、提高销售和营销组织的效率以及优化供应链来提高生产力。” “这些努力有助于提高利润率和自由现金流，并增强公司抓住重大增长机会的能力。”\n\n观看：Melius 的 Ben Reitzes 畅谈 IBM 的下一步发展",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

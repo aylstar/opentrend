@@ -1,0 +1,66 @@
+{
+  "slug": "apache__ossie",
+  "owner": "apache",
+  "repo": "ossie",
+  "name": "ossie",
+  "fullName": "apache/ossie",
+  "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+  "language": "Python",
+  "githubUrl": "https://github.com/apache/ossie",
+  "docsUrl": "https://ossie.apache.org/",
+  "stars": 1501,
+  "forks": 176,
+  "openIssues": 61,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-07-23T00:25:45Z",
+  "updatedAt": "2026-07-23T00:45:07Z",
+  "createdAt": "2025-11-18T23:27:51Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "数据分析",
+    "企业工具",
+    "自动化办公"
+  ],
+  "recommendation": 2,
+  "readmeExcerpt": "<!--\n Licensed to the Apache Software Foundation (ASF) under one\n or more contributor license agreements.  See the NOTICE file\n distributed with this work for additional information\n regarding copyright ownership.  The ASF licenses this file\n to you under the Apache License, Version 2.0 (the\n \"License\"); you may not use this file except in compliance\n with the License.  You may obtain a copy of the License at\n\n  http://www.apache.org/licenses/LICENSE-2.0\n\n Unless required by applicable law or agreed to in writing,\n software distributed under the License is distributed on an\n \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\n KIND, either express or implied.  See the License for the\n specific language governing permissions and limitations\n under the License.\n-->\n\n# Apache Ossie (incubating)\n\nApache Ossie is a collaborative, open-source effort dedicated to standardizing and streamlining semantic model exchange and utilization across the diverse array of tools and platforms within the data analytics, AI, and BI ecosystem. Our shared vision is to establish a common, vendor-agnostic semantic model specification, promoting unparalleled interoperability, efficiency, and collaboration among all participants. By providing a single, consistent source of truth, this vendor-agnostic standard ensures that your data's definitions and value remain consistent as they are interchanged between AI agents, BI platforms, and all other tools in your ecosystem, eliminating inconsistencies across your different tools.\n\nApache Ossie was formerly known as **Open Semantic Interchange (OSI)**.\n\nApache Ossie provides a single JSON- and YAML-based specification that any tool can read and write, addressing the semantic fragmentation common across today's data stack: the same KPI defined differently across tools, teams spending significant effort manually reconciling definitions, and AI agents producing unreliable outputs grounded in inconsistent business logic.\n\n## What's in this repository\n\n- [`core-spec/`](core-spec/) — The Ossie core specification (`spec.md`), the machine-readable schema (`spec.yaml`, `osi-schema.json`), and accompanying documentation.\n- [`converters/`](converters/) — Reference converters that translate between Ossie and other semantic formats (e.g., dbt, GoodData, Polaris, Salesforce).\n- [`examples/`](examples/) — Example semantic models, including a complete TPC-DS model.\n- [`validation/`](validation/) — Tooling for validating semantic models against the Ossie schema.\n- [`docs/`](docs/) — Project documentation and overview.\n\n## Get involved\n\n- **Contribute:** See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose specification changes, contribute code, and participate in the community.\n- **Roadmap:** See [ROADMAP.md](ROADMAP.md) for current working groups, future efforts, and planned enhancements informed by community discussion.\n- **Discuss:** Join the conversation on [GitHub Discussions](https://github.com/apache/ossie/discussions) and [Issues](",
+  "generatedAt": "2026-07-23T00:57:51.143Z",
+  "analysis": {
+    "oneLine": "ossie 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "ossie 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，ossie 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 1,501，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "ossie 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2,
+    "tags": [
+      "AI",
+      "数据分析",
+      "企业工具",
+      "自动化办公"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-23T00:57:51.143Z"
+}

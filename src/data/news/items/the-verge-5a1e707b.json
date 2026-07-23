@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+  "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in \"Restricted […]",
+  "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+  "publishedAt": "2026-07-22T19:13:21.000Z",
+  "id": "the-verge-5a1e707b",
+  "slug": "the-verge-5a1e707b",
+  "content": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in “Restricted Mode” if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new “Apple Upgrade” financing program for leasing new devices.&nbsp; iPhones in “Restricted Mode” would reportedly lose access to nearly all apps, except for basics like the Phone app, Settings, and the App Store. It uses a new “App Managed Features” system that allows financing or partner apps to continually check if a financed device is in good standing. According to 9to5Mac, the code also includes a new “Partner Finance Lock” intended to block users from “erasing, reselling, or stripping a restricted device for parts.” While the feature is part of Find My, it reportedly doesn’t give financing partners access to the phone’s location.&nbsp; This is from a beta version of iOS 27, so it’s possible this code and the new “Restricted Mode” could get changed or removed before Apple officially releases iOS 27. The “Apple Upgrade” program hasn’t been officially announced yet, either. Apple did not immediately respond to a request for comment.",
+  "fetchedAt": "2026-07-23T00:58:12.454Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "财经",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "据报道，iOS 代码可以让苹果在用户错过 iPhone 付款时切断应用程序",
+  "chineseSummary": "据 9to5Mac 报道，iOS 27 测试版中发现的代码将允许苹果在检测到任何错过付款的情况下将融资 iPhone 置于“受限模式”。彭博社本周早些时候报道称，苹果正准备推出一项新的“苹果升级”融资计划，用于租赁新设备。 iPhone 处于“受限 [...]",
+  "chineseContent": "据 9to5Mac 报道，在 iOS 27 测试版中发现的代码将允许苹果在检测到任何错过付款的情况下将融资 iPhone 置于“受限模式”。彭博社本周早些时候报道称，苹果正准备推出一项新的“苹果升级”融资计划，用于租赁新设备。  据报道，处于“受限模式”的 iPhone 将无法访问几乎所有应用程序，除了电话应用程序、设置和应用程序商店等基本应用程序。它使用新的“应用程序管理功能”系统，允许融资或合作伙伴应用程序不断检查融资设备是否信誉良好。据 9to5Mac 称，该代码还包括一个新的“合作伙伴财务锁”，旨在阻止用户“删除、转售或剥离受限设备的部件”。虽然该功能是“Find My”的一部分，但据报道，它不允许融资合作伙伴访问手机的位置。  这是来自 iOS 27 的 Beta 版本，因此在 Apple 正式发布 iOS 27 之前，该代码和新的“受限模式”可能会被更改或删除。“Apple Upgrade”计划也尚未正式公布。苹果没有立即回应置评请求。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d312d8ae64",
+  "slug": "weibo-谷歌财报",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "谷歌财报",
+  "summary": "微博热榜第 15 位：谷歌财报，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%B4%A2%E6%8A%A5%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-07-23T00:59:19.841Z",
+  "fetchedAt": "2026-07-23T00:59:27.984Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

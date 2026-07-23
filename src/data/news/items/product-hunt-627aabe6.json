@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "AI Agents in Chat",
+  "summary": "Your Chat UI Just Got an AI Roommate Discussion | Link",
+  "url": "https://www.producthunt.com/products/cometchat",
+  "publishedAt": "2026-07-21T11:22:53.000Z",
+  "id": "product-hunt-627aabe6",
+  "slug": "product-hunt-627aabe6",
+  "content": "CometChat packs chat, voice, video, and AI Agents into one full-stack conversations platform - so you can stop duct-taping random tools and praying they play nice. Safety, moderation, and analytics come baked in, keeping things smooth as you scale. Flexible integration options for any stack you’ve got - because our job is running the infra, not making you babysit it.",
+  "fetchedAt": "2026-07-23T00:58:12.451Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "聊天中的 AI 代理",
+  "chineseSummary": "您的聊天 UI 刚刚迎来了 AI 室友讨论 |关联",
+  "chineseContent": "CometChat 将聊天、语音、视频和 AI 代理打包到一个全栈对话平台中 - 这样您就可以停止使用管道胶带随意工具并祈祷它们运行良好。安全性、适度性和分析功能已融入其中，让您在扩展时保持顺利。为您拥有的任何堆栈提供灵活的集成选项 - 因为我们的工作是运行基础设施，而不是让您照顾它。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

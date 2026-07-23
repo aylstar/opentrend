@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures Rise; Google, Tesla Fall On Earnings, Capex, But AI Stocks Climb",
+  "summary": "Futures edged higher. Google and Tesla retreated on earnings and heavy capital spending, but AI hardware plays rose.",
+  "url": "https://finance.yahoo.com/m/092ff924-f233-311d-95de-ed11a4dabc57/dow-jones-futures-rise%3B.html?.tsrc=rss",
+  "publishedAt": "2026-07-23T00:40:35.000Z",
+  "id": "yahoo-finance-ae62e425",
+  "slug": "yahoo-finance-ae62e425",
+  "content": "Futures edged higher. Google and Tesla retreated on earnings and heavy capital spending, but AI hardware plays rose.",
+  "fetchedAt": "2026-07-23T00:58:12.454Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 25,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货上涨；谷歌、特斯拉因盈利和资本支出下降，但 AI 股票上涨",
+  "chineseSummary": "期货小幅走高。谷歌和特斯拉因盈利和巨额资本支出而回落，但人工智能硬件股上涨。",
+  "chineseContent": "期货小幅走高。谷歌和特斯拉因盈利和巨额资本支出而回落，但人工智能硬件股上涨。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
