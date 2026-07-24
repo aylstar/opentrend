@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Claude’s voice mode is now available for Opus and Sonnet",
+  "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+  "publishedAt": "2026-07-23T19:00:00.000Z",
+  "id": "the-verge-b877056b",
+  "slug": "the-verge-b877056b",
+  "content": "Until now, voice mode has only been available on Claude Haiku, Anthropic’s faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering answers to quick questions with minimal delay. But in a blog post, the company said people immediately started using voice mode for far more than casual queries. They were using it to work “through real business problems,” which Haiku was not really designed for. That model “kept conversations quick, but not always deep.” Sonnet and Opus are deeper models that the company says are “designed for hard problem-solving.” They can deliver more complex responses and analysis, and then take action on your behalf. For instance, turn a conversation you have with it into a one-page pitch, or shift around your calendar appointments if your train is running late.&nbsp; [Media: https://youtu.be/GWnNMfFivnk] Users can shift back and forth between text and voice mode mid-conversation, as well as change models. So if a quick chat with Haiku sparks an idea, you can explore it further by seamlessly switching to Opus. Anthropic is also expanding voice mode to several new languages. Until now, languages other than English were only available in beta, but now voice mode is available in French, German, Spanish, Hindi, Indonesian, Italian, Japanese, Korean, and Portuguese. Correction July 23rd: This story originally stated that voice mode launched in 2026, it launched in 2025.",
+  "fetchedAt": "2026-07-24T00:54:19.476Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克劳德的语音模式现在可用于 Opus 和 Sonnet",
+  "chineseSummary": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。现在，该公司正在以语音模式提供 Opus 和 Sonnet 模型，并将其覆盖范围扩展到 Gmail、Slack 和 Canva 等应用程序。当 Anthropic 去年推出语音模式时，它主要专注于提供 [...]",
+  "chineseContent": "到目前为止，语音模式仅适用于 Claude Haiku，Anthropic 的速度更快但功能较弱的模型。现在，该公司正在以语音模式提供 Opus 和 Sonnet 模型，并将其覆盖范围扩展到 Gmail、Slack 和 Canva 等应用程序。当 Anthropic 去年推出语音模式时，它主要专注于以最小的延迟提供快速问题的答案。但该公司在一篇博客文章中表示，人们立即开始使用语音模式，而不仅仅是随意查询。他们用它来“解决实际的业务问题”，而俳句并不是专门为这些问题而设计的。这种模式“让对话保持快速，但并不总是深入”。 Sonnet 和 Opus 是更深层次的模型，该公司称它们“是为解决难题而设计的”。他们可以提供更复杂的响应和分析，然后代表您采取行动。例如，将您与它的对话变成一页纸的内容，或者在您的火车晚点时改变您的日历约会。  [媒体：https://youtu.be/GWnNMfFivnk] 用户可以在对话中在文本和语音模式之间来回切换，以及更改模型。因此，如果与 Haiku 的快速聊天激发了一个想法，您可以通过无缝切换到 Opus 进一步探索它。 Anthropic 还将语音模式扩展到几种新语言。到目前为止，除英语以外的语言仅在测试版中可用，但现在语音模式支持法语、德语、西班牙语、印地语、印度尼西亚语、意大利语、日语、韩语和葡萄牙语。 7月23日更正：这篇报道原本说语音模式是2026年推出的，现在是2025年推出的。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

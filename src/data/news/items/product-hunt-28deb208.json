@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "AskCodi",
+  "summary": "Orchestrate agents at scale while reducing cost Discussion | Link",
+  "url": "https://www.producthunt.com/products/askcodi",
+  "publishedAt": "2026-07-21T11:35:04.000Z",
+  "id": "product-hunt-28deb208",
+  "slug": "product-hunt-28deb208",
+  "content": "AskCodi orchestrates AI coding, two ways. Talk to Codi, an AI CTO in the Mac app that runs a team of agents and picks the right model for every job. Or call the same orchestration as an OpenAI-compatible API. Bring your own key. Key features 🤖 BYOK: Claude Code, Codex CLI, and more 🧠 An AI CTO that plans, delegates, and ships 💸 Auto model routing, low cost by default 🗂️ Remembers your whole codebase 🔌 OpenAI-compatible API for any LLM 📊 Analytics and cost controls",
+  "fetchedAt": "2026-07-24T00:54:19.474Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "询问编码",
+  "chineseSummary": "大规模协调代理，同时降低成本 讨论 |关联",
+  "chineseContent": "AskCodi 通过两种方式协调 AI 编码。与 Codi 交谈，他是 Mac 应用程序中的 AI 首席技术官，负责管理一个代理团队，并为每项工作选择正确的模型。或者调用与 OpenAI 兼容的 API 相同的编排。带上你自己的钥匙。主要功能 🤖 BYOK：Claude Code、Codex CLI 等 🧠 计划、委托和交付的 AI CTO 💸 自动模型路由，默认成本较低 🗂️ 记住您的整个代码库 🔌 适用于任何 LLM 的 OpenAI 兼容 API 📊 分析和成本控制",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

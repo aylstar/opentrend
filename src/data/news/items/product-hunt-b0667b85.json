@@ -1,25 +1,26 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Basedash Suggestions",
-  "summary": "Your AI data analyst, now with ideas of its own. Discussion | Link",
+  "originalTitle": "Basedash AI Kit",
+  "summary": "Ship AI analytics in your product, powered by GPT-5.6 Discussion | Link",
   "url": "https://www.producthunt.com/products/basedash",
-  "publishedAt": "2026-07-16T14:57:03.000Z",
+  "publishedAt": "2026-07-23T03:16:23.000Z",
   "id": "product-hunt-b0667b85",
   "slug": "product-hunt-b0667b85",
-  "content": "Your AI data analyst, now with ideas of its own. Discussion | Link",
-  "fetchedAt": "2026-07-19T00:14:36.886Z",
-  "score": 73,
+  "content": "Basedash is the AI-native Business Intelligence platform that lets you create dashboards and understand your customers using natural language. Connect your data, describe the chart you want, and let AI generate the visualization. No SQL required.",
+  "fetchedAt": "2026-07-24T00:54:19.475Z",
+  "score": 79,
   "sourceWeight": 84,
   "tags": [
     "AI",
-    "全球"
+    "全球",
+    "产品"
   ],
-  "rank": 8,
-  "contentStatus": "fetch-failed",
-  "chineseTitle": "基础建议",
-  "chineseSummary": "您的人工智能数据分析师现在有了自己的想法。讨论 |关联",
-  "chineseContent": "您的人工智能数据分析师现在有了自己的想法。讨论 |关联",
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "BasedashAI 套件",
+  "chineseSummary": "由 GPT-5.6 提供支持，在您的产品中提供 AI 分析关联",
+  "chineseContent": "Basedash 是人工智能原生商业智能平台，可让您创建仪表板并使用自然语言了解客户。连接您的数据，描述您想要的图表，然后让 AI 生成可视化结果。无需 SQL。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -1,0 +1,68 @@
+{
+  "slug": "prismml-eng__bonsai-demo",
+  "owner": "PrismML-Eng",
+  "repo": "Bonsai-demo",
+  "name": "Bonsai-demo",
+  "fullName": "PrismML-Eng/Bonsai-demo",
+  "description": "Bonsai Demo",
+  "language": "Shell",
+  "githubUrl": "https://github.com/PrismML-Eng/Bonsai-demo",
+  "docsUrl": "https://prismml.com/",
+  "stars": 1976,
+  "forks": 197,
+  "openIssues": 9,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-07-23T06:08:39Z",
+  "updatedAt": "2026-07-24T00:18:03Z",
+  "createdAt": "2026-03-25T19:25:09Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "数据分析",
+    "企业工具"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# Bonsai Demo\n\n<p align=\"center\">\n  <img src=\"./assets/bonsai-logo.svg\" width=\"280\" alt=\"Bonsai\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://prismml.com\"><b>Website</b></a> &nbsp;|&nbsp;\n  <a href=\"https://github.com/PrismML-Eng/Bonsai-demo\"><b>GitHub</b></a> &nbsp;|&nbsp;\n  <a href=\"https://discord.gg/prismml\"><b>Discord</b></a>\n</p>\n\n<p align=\"center\">\n  <b>HF Collections:</b>\n  <a href=\"https://huggingface.co/collections/prism-ml/bonsai-27b\">Bonsai 27B</a> ·\n  <a href=\"https://huggingface.co/collections/prism-ml/bonsai\">Bonsai (1-bit)</a> ·\n  <a href=\"https://huggingface.co/collections/prism-ml/ternary-bonsai\">Ternary-Bonsai</a>\n</p>\n\n<p align=\"center\">\n  <b>Whitepapers:</b>\n  <a href=\"bonsai-27b-whitepaper.pdf\">Bonsai 27B</a> ·\n  <a href=\"1-bit-bonsai-8b-whitepaper.pdf\">1-bit Bonsai 8B</a> ·\n  <a href=\"ternary-bonsai-8b-whitepaper.pdf\">Ternary-Bonsai 8B</a>\n</p>\n\n---\n\n\nUsing this demo repository you can run **Bonsai** (1-bit) and **Ternary-Bonsai** language models locally on Mac (Metal), Linux/Windows (CUDA, Vulkan, ROCm), or CPU.\n\n## 🌱 New: Bonsai 27B\n\nThe family's newest and largest generation, and its first **vision-language** models ([Bonsai 27B collection](https://huggingface.co/collections/prism-ml/bonsai-27b)):\n\n- **Vision:** send photos, screenshots, and PDFs; ask about them (see [VISION.md](VISION.md)).\n- **Agentic tool calling:** native OpenAI-style `tool_calls` with full round-trips, plus MCP servers in both demo UIs (see [TOOLS.md](TOOLS.md)).\n- **Thinking:** a reasoning model; pick the reasoning effort per chat in the UI or budget it per request.\n- **Long context:** 256k+ token conversations.\n- **Tiny footprint:** the 1-bit Bonsai-27B packs to ~1.125 bits per weight: it fits on a modern iPhone without memory offloading. Ternary-Bonsai-27B (~1.7 bits per weight, packed into 2-bit for fast accelerated kernels) is the higher-quality option and this demo's default.\n\nQuick Start below gets you there in two commands: `./setup.sh` downloads Ternary-Bonsai-27B by default, then `./scripts/start_llama_server.sh` gives you chat, vision, and tools at http://localhost:8080.\n\n## Quick Start\n\nSetting things up with an AI coding agent? Point it at [AGENTS.md](AGENTS.md), a guide written for agents (hardware-specific knobs, defaults, and what to ask the user).\n\n### macOS / Linux\n\n```bash\ngit clone https://github.com/PrismML-Eng/Bonsai-demo.git\ncd Bonsai-demo\n\n# (Optional) Choose a model size: 27B (default), 8B, 4B, or 1.7B\nexport BONSAI_MODEL=27B\n\n# Set your HuggingFace token (only required for 27B while its repos are private)\nexport BONSAI_TOKEN=\"hf_your_token_here\"\n\n# One command does everything: installs deps, downloads models + binaries\n./setup.sh\n```\n\n### Windows (PowerShell)\n\n```powershell\ngit clone https://github.com/PrismML-Eng/Bonsai-demo.git\ncd Bonsai-demo\n\n# (Optional) Choose a model size: 27B (default), 8B, 4B, or 1.7B\n$env:BONSAI_MODEL = \"27B\"\n\n# Set your HuggingFace token (only required for 27B while its repos are private)\n$env:BO",
+  "generatedAt": "2026-07-24T00:54:03.544Z",
+  "analysis": {
+    "oneLine": "Bonsai-demo 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
+    "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
+    "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
+    "detailParagraphs": [
+      "Bonsai-demo 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
+      "如果把它放进实际使用场景，Bonsai-demo 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 1,976，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "前端构建提速",
+      "Node.js 服务运行时评估",
+      "CI 构建优化",
+      "开发工具链现代化"
+    ],
+    "interpretation": "Bonsai-demo 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Shell 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/PrismML-Eng/Bonsai-demo.git\ngit clone https://github.com/PrismML-Eng/Bonsai-demo.git\ngit clone -b prism https://github.com/PrismML-Eng/mlx.git mlx\ngit clone -b prism https://github.com/PrismML-Eng/llama.cpp.git\ngit clone -b prism https://github.com/PrismML-Eng/llama.cpp.git",
+    "deployment": "重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升前端和 Node.js 生态中的构建、运行和包管理效率，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Shell 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "数据分析",
+      "企业工具"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-07-24T00:54:03.546Z"
+}

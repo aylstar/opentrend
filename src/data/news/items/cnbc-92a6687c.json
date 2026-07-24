@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Cerebras stock gains on AMD partnership",
+  "summary": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
+  "url": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
+  "publishedAt": "2026-07-23T20:33:12.000Z",
+  "id": "cnbc-92a6687c",
+  "slug": "cnbc-92a6687c",
+  "content": "Cerebras shares gained about 5% on Thursday after the company forged an agreement with Advanced Micro Devices that involves the two chipmakers to work together on artificial intelligence systems.\n\nCerebras CEO Andrew Feldman said at AMD's AI conference in San Francisco that his company's chips will be used in AMD's Helios AI systems installed in Cerebras data centers starting later this year. Server buyers will be able to configure AMD systems with the company's \"wafer-scale\" chips as well.\n\nAt the event, AMD is detailing new chips and its Helios integrated system.\n\nThe partnership highlights how important \"ultra-low latency\" has become for AI firms. Chips like those made by Cerebras are configured to provide the first AI answers as quickly as possible, while making tradeoffs in terms of flexibility and total power. The companies claimed that their system would provide five times higher tokens per second per watt than competitors.\n\nAMD rival Nvidia bought assets from Groq in December for $20 billion to integrate that company's low-latency technology into its systems.\n\n\"When something's a necessity, people want to use it, and they want to use it quickly,\" Feldman said.\n\nCerebras went public in May and has been a particularly volatile stock in its early days. After going public at $185, the stock shot up as high as $386.34 in its debut before falling below $161 in late June. With Thursday's pop, the shares are trading at $220.\n\nIn January, Cerebras announced a deal with OpenAI to deliver 750 megawatts of computing power through 2028, a deal worth over $10 billion.\n\nWATCH: Open AI's chip will compete will compete with other GPUs",
+  "fetchedAt": "2026-07-24T00:54:19.477Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Cerebras 股价因 AMD 合作而上涨",
+  "chineseSummary": "Cerebras 和 AMD 同意合作，将他们的技术与人工智能系统结合起来。",
+  "chineseContent": "Cerebras 股价周四上涨约 5%，此前该公司与 Advanced Micro Devices 达成协议，两家芯片制造商将在人工智能系统领域展开合作。\n\nCerebras 首席执行官安德鲁·费尔德曼 (Andrew Feldman) 在旧金山举行的 AMD 人工智能会议上表示，从今年晚些时候开始，他公司的芯片将用于安装在 Cerebras 数据中心的 AMD Helios AI 系统。服务器购买者也将能够使用该公司的“晶圆级”芯片来配置 AMD 系统。\n\n在此次活动中，AMD 详细介绍了新芯片及其 Helios 集成系统。\n\n此次合作凸显了“超低延迟”对于人工智能公司的重要性。像 Cerebras 制造的芯片被配置为尽快提供第一个人工智能答案，同时在灵活性和总功耗方面进行权衡。这些公司声称，他们的系统每秒每瓦提供的代币数量是竞争对手的五倍。\n\nAMD 的竞争对手 Nvidia 去年 12 月斥资 200 亿美元收购了 Groq 的资产，将该公司的低延迟技术集成到其系统中。\n\n“当某样东西是必需品时，人们想要使用它，而且他们想要快速使用它，”费尔德曼说。\n\nCerebras 于 5 月上市，在上市初期一直是一只波动特别大的股票。该股以 185 美元的价格上市后，首次亮相时飙升至 386.34 美元，随后在 6 月底跌破 161 美元。随着周四的上涨，该股的交易价格为 220 美元。\n\n今年 1 月，Cerebras 宣布与 OpenAI 达成协议，到 2028 年提供 750 兆瓦的计算能力，这笔交易价值超过 100 亿美元。\n\n观看：Open AI 的芯片将与其他 GPU 竞争",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

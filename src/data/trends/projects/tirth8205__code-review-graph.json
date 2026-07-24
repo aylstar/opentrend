@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/tirth8205/code-review-graph",
   "docsUrl": "https://code-review-graph.com",
-  "stars": 25315,
-  "forks": 2392,
-  "openIssues": 125,
+  "stars": 25846,
+  "forks": 2427,
+  "openIssues": 136,
   "license": "MIT",
-  "pushedAt": "2026-07-21T04:49:59Z",
-  "updatedAt": "2026-07-23T00:56:18Z",
+  "pushedAt": "2026-07-23T10:34:36Z",
+  "updatedAt": "2026-07-24T00:49:36Z",
   "createdAt": "2026-02-26T17:25:13Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<h1 align=\"center\">code-review-graph</h1>\n\n<a href=\"https://trendshift.io/repositories/23329?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-23329\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/23329\" alt=\"tirth8205%2Fcode-review-graph | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n<p align=\"center\">\n  <strong>Stop burning tokens. Start reviewing smarter.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> |\n  <a href=\"README.zh-CN.md\">简体中文</a> |\n  <a href=\"README.ja-JP.md\">日本語</a> |\n  <a href=\"README.ko-KR.md\">한국어</a> |\n  <a href=\"README.hi-IN.md\">हिन्दी</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://pypi.org/project/code-review-graph/\"><img src=\"https://img.shields.io/pypi/v/code-review-graph?style=flat-square&color=blue\" alt=\"PyPI\"></a>\n  <a href=\"https://pepy.tech/project/code-review-graph\"><img src=\"https://img.shields.io/pepy/dt/code-review-graph?style=flat-square\" alt=\"Downloads\"></a>\n  <a href=\"https://github.com/tirth8205/code-review-graph/stargazers\"><img src=\"https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square\" alt=\"Stars\"></a>\n  <a href=\"https://opensource.org/licenses/MIT\"><img src=\"https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square\" alt=\"MIT Licence\"></a>\n  <a href=\"https://github.com/tirth8205/code-review-graph/actions/workflows/ci.yml\"><img src=\"https://github.com/tirth8205/code-review-graph/actions/workflows/ci.yml/badge.svg\" alt=\"CI\"></a>\n  <a href=\"https://www.python.org/\"><img src=\"https://img.shields.io/badge/python-3.10%2B-blue.svg?style=flat-square\" alt=\"Python 3.10+\"></a>\n  <a href=\"https://modelcontextprotocol.io/\"><img src=\"https://img.shields.io/badge/MCP-compatible-green.svg?style=flat-square\" alt=\"MCP\"></a>\n  <a href=\"https://code-review-graph.com\"><img src=\"https://img.shields.io/badge/website-code--review--graph.com-blue?style=flat-square\" alt=\"Website\"></a>\n  <a href=\"https://discord.gg/3p58KXqGFN\"><img src=\"https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"docs/USAGE.md\">Usage</a> ·\n  <a href=\"docs/COMMANDS.md\">Commands</a> ·\n  <a href=\"docs/FAQ.md\">FAQ</a> ·\n  <a href=\"docs/TROUBLESHOOTING.md\">Troubleshooting</a> ·\n  <a href=\"docs/GITHUB_ACTION.md\">GitHub Action</a> ·\n  <a href=\"docs/REPRODUCING.md\">Reproducing the benchmarks</a> ·\n  <a href=\"docs/ROADMAP.md\">Roadmap</a>\n</p>\n\n<br>\n\nAI coding tools can end up re-reading large parts of your codebase on review tasks. `code-review-graph` fixes that. It builds a structural map of your code with [Tree-sitter](https://tree-sitter.github.io/tree-sitter/), tracks changes incrementally, and gives your AI assistant precise context via [MCP](https://modelcontextprotocol.io/) so it reads only what matters.\n\n<p align=\"center\">\n  <img src=\"diagrams/diagram1_before_vs_after.png\" alt=\"The Token Problem: 38x to 528x token reduction ",
-  "generatedAt": "2026-07-23T00:57:47.010Z",
+  "generatedAt": "2026-07-24T00:54:01.225Z",
   "analysis": {
     "oneLine": "code-review-graph 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "code-review-graph 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，code-review-graph 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 25,315，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，code-review-graph 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 25,846，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

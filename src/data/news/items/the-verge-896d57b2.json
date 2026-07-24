@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Alexa Plus is getting an AI update to handle more complicated instructions",
+  "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to […]",
+  "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+  "publishedAt": "2026-07-23T21:15:06.000Z",
+  "id": "the-verge-896d57b2",
+  "slug": "the-verge-896d57b2",
+  "content": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the correct device. In an example shared by Amazon, a person with a supported washing machine can say, “Alexa, my kid’s soccer jersey could use a deep clean, but the tag says cold wash only.” From there, Alexa Plus would navigate the washer’s cycle options and choose the correct setting. The new integrations are powered by Amazon’s new AI developer toolkit, which is supposed to make it easier for device makers to connect to Alexa Plus, “including those with unique capabilities that weren’t supported before.” Amazon widely launched its revamped AI assistant in February, which can handle multi-step requests and help you create routines using your voice. It currently only performs tasks in a limited number of third-party services, such as Ticketmaster, OpenTable, Uber, Thumbtack, Expedia, Yelp, Square, and Angi. But Amazon is trying to change this by adopting the Model Context Protocol (MCP), an open-source standard that allows AI models to connect to external systems and tools. This will give more brands the ability to interact with Alexa Plus, with Canva, Headspace, Priceline, Lyft, Cengage, Virgin Atlantic, Weekend, and other companies launching integrations later this year. For example, Priceline will give customers the ability to browse hotel options and book a trip directly through Alexa Plus. Priceline, along with Atom Tickets, Cengage, Fandango, and Taskrabbit, will soon support payments through Amazon Wallet as well.",
+  "fetchedAt": "2026-07-24T00:54:19.476Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Alexa Plus 正在进行 AI 更新以处理更复杂的指令",
+  "chineseSummary": "亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。通过当前预览版的更新，Alexa Plus 可以与博世、达美航空、科沃斯、iRobot、耶鲁家居、惠而浦、Tapo、Eufy 等公司的技术连接，同时自动将请求路由到 [...]",
+  "chineseContent": "亚马逊正在推出 Alexa Plus 助手的更新，使其能够以新的方式连接到智能家居设备。通过当前预览版的更新，Alexa Plus 可以与博世、达美航空、科沃斯、iRobot、Yale Home、惠而浦、Tapo、Eufy 等公司的技术连接，同时自动将请求路由到正确的设备。在亚马逊分享的一个例子中，拥有支持洗衣机的人可以说：“Alexa，我孩子的足球球衣可以深度清洗​​，但标签上写着只能冷水清洗。”从那里，Alexa Plus 将导航洗衣机的循环选项并选择正确的设置。新的集成由亚马逊新的人工智能开发工具包提供支持，该工具包应该使设备制造商更容易连接到 Alexa Plus，“包括那些具有以前不支持的独特功能的设备”。亚马逊在二月份广泛推出了改进后的人工智能助手，它可以处理多步骤请求并帮助您使用语音创建例程。目前，它仅在有限数量的第三方服务中执行任务，例如 Ticketmaster、OpenTable、Uber、Thumbtack、Expedia、Yelp、Square 和 Angi。但亚马逊正试图通过采用模型上下文协议（MCP）来改变这一现状，这是一种开源标准，允许人工智能模型连接到外部系统和工具。这将使更多品牌能够与 Alexa Plus 互动，Canva、Headspace、Priceline、Lyft、Cengage、Virgin Atlantic、Weekend 和其他公司将在今年晚些时候推出集成。例如，Priceline 将使客户能够浏览酒店选项并直接通过 Alexa Plus 预订行程。 Priceline 以及 Atom Tickets、Cengage、Fandango 和 Taskrabbit 很快也将支持通过亚马逊钱包付款。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

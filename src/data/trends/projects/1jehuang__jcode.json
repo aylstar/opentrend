@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/1jehuang/jcode",
   "docsUrl": "https://jcode.sh",
-  "stars": 10744,
-  "forks": 1179,
-  "openIssues": 131,
+  "stars": 10996,
+  "forks": 1203,
+  "openIssues": 116,
   "license": "MIT",
-  "pushedAt": "2026-07-22T22:53:51Z",
-  "updatedAt": "2026-07-23T00:53:17Z",
+  "pushedAt": "2026-07-23T20:21:25Z",
+  "updatedAt": "2026-07-24T00:51:45Z",
   "createdAt": "2026-01-05T09:43:36Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<div align=\"center\">\n\n# jcode\n\n[![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)\n[![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases)\n[![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https://github.com/1jehuang/jcode/commits/master)\n[![GitHub Stars](https://badgen.net/github/stars/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/stargazers)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/nBe9vGyK9a)\n\nThe next generation coding agent harness to raise the skill ceiling. <br>\nBuilt for multi-session workflows, infinite customizability, and performance. \n\n<br>\n\n<a href=\"https://github.com/1jehuang/jcode/releases/download/readme-assets/jcode-memory-demo.mp4\">\n  <img src=\"https://github.com/1jehuang/jcode/releases/download/readme-assets/jcode-memory-demo.webp\" alt=\"jcode memory demonstration\" width=\"800\">\n</a>\n\n<br>\n\n[Website](https://jcode.sh) · [Features](#features) · [Install](#installation) · [Quick Start](#quick-start) · [Further Reading](#further-reading) · [Contributing](CONTRIBUTING.md)\n\n</div>\n\n---\n\n<div align=\"center\">\n\n## Installation\n\n</div>\n\n```bash\n# macOS & Linux\ncurl -fsSL https://jcode.sh/install | bash\n```\n\n```powershell\n# Windows 11 (PowerShell 5.1+)\nirm https://jcode.sh/install.ps1 | iex\n```\n\nNeed Homebrew, source builds, provider setup, or want an agent to set it up for you?\n[Jump to detailed installation](#detailed-installation).\n\n---\n\n\n<div align=\"center\">\n\n## Performance & Resource Efficiency\n\n</div>\n\njcode is built to be as performant and resource efficient as possible. Every metric is optimized to the bone, which is important for scaling multi-session workflows. Here we sample a few metrics to show the difference: RAM usage and boot up.\n\n### RAM comparison\n\n<div align=\"center\">\n\n<table>\n  <tr>\n    <td valign=\"top\" align=\"center\" width=\"50%\">\n      <strong>1 active session</strong>\n      <table>\n        <thead>\n          <tr>\n            <th>Tool</th>\n            <th>PSS</th>\n            <th>Comparison</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td><strong>jcode (local embedding off)</strong></td>\n            <td align=\"right\"><strong>27.8 MB</strong></td>\n            <td align=\"right\">baseline</td>\n          </tr>\n          <tr>\n            <td><strong>jcode</strong></td>\n            <td align=\"right\"><strong>167.1 MB</strong></td>\n            <td align=\"right\"><strong>6.0× more RAM</strong></td>\n          </tr>\n          <tr>\n            <td><strong>pi</strong></td>\n            <td align=\"right\"><strong>144.4 MB</strong></td>\n            <td align=\"right\"><strong>5.2× more RA",
-  "generatedAt": "2026-07-23T00:57:48.746Z",
+  "generatedAt": "2026-07-24T00:54:02.714Z",
   "analysis": {
     "oneLine": "jcode 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "jcode 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，jcode 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 10,744，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，jcode 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 10,996，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Fathom",
+  "summary": "Turn messy bank exports into clear financial decisions Discussion | Link",
+  "url": "https://www.producthunt.com/products/fathom-6",
+  "publishedAt": "2026-07-23T09:49:48.000Z",
+  "id": "product-hunt-51cf7298",
+  "slug": "product-hunt-51cf7298",
+  "content": "Fathom is not another finance dashboard or chat over a CSV. It turns recurring, messy bank exports into a reliable local ledger, keeps uncertainty visible, and surfaces only what still needs attention. Virtual Purpose Accounts separate where money is held from what it is for. On top of that shared financial foundation, an Advisor remembers your context, explains trade-offs, creates plans, and can take approved actions through dedicated tools.",
+  "fetchedAt": "2026-07-24T00:54:19.474Z",
+  "score": 77,
+  "sourceWeight": 84,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "捉摸",
+  "chineseSummary": "将混乱的银行出口转化为清晰的财务决策 讨论 |关联",
+  "chineseContent": "Fathom 不是另一个财务仪表板或通过 CSV 进行聊天。它将经常性的、混乱的银行出口变成可靠的本地分类账，使不确定性保持可见，并且只显示仍然需要关注的内容。虚拟目的账户将资金的存放地点与用途分开。在共享财务基础之上，顾问会记住您的背景，解释权衡，制定计划，并可以通过专用工具采取批准的行动。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

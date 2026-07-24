@@ -8,12 +8,12 @@
   "language": "Go",
   "githubUrl": "https://github.com/kunchenguid/no-mistakes",
   "docsUrl": "https://kunchenguid.github.io/no-mistakes/",
-  "stars": 6895,
-  "forks": 524,
-  "openIssues": 129,
+  "stars": 6956,
+  "forks": 535,
+  "openIssues": 133,
   "license": "MIT",
-  "pushedAt": "2026-07-22T23:57:58Z",
-  "updatedAt": "2026-07-23T00:14:06Z",
+  "pushedAt": "2026-07-23T20:15:22Z",
+  "updatedAt": "2026-07-24T00:31:28Z",
   "createdAt": "2026-04-05T06:43:05Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1 align=\"center\"><code>git push no-mistakes</code></h1>\n<p align=\"center\">\n  <a href=\"https://github.com/kunchenguid/no-mistakes/actions/workflows/release.yml\"\n    ><img\n      alt=\"Release\"\n      src=\"https://img.shields.io/github/actions/workflow/status/kunchenguid/no-mistakes/release.yml?style=flat-square&label=release\"\n  /></a>\n  <a href=\"https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=flat-square\"\n    ><img\n      alt=\"Platform\"\n      src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=flat-square\"\n  /></a>\n  <a href=\"https://x.com/kunchenguid\"\n    ><img\n      alt=\"X\"\n      src=\"https://img.shields.io/badge/X-@kunchenguid-black?style=flat-square\"\n  /></a>\n  <a href=\"https://discord.gg/Wsy2NpnZDu\"\n    ><img\n      alt=\"Discord\"\n      src=\"https://img.shields.io/discord/1439901831038763092?style=flat-square&label=discord\"\n  /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/27829?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-27829\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/27829\" alt=\"kunchenguid%2Fno-mistakes | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<h3 align=\"center\">Kill all the slop. Raise clean PR.</h3>\n\n<p align=\"center\"><strong>English</strong> · <a href=\"README.zh-CN.md\">简体中文</a></p>\n\n<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/kunchenguid/no-mistakes/main/demo.gif\" alt=\"no-mistakes demo\" width=\"800\" />\n</p>\n\n`no-mistakes` puts a local git proxy in front of your real remote.\nPush to `no-mistakes` instead of `origin`, and it spins up a disposable worktree, runs an AI-driven validation pipeline, forwards the branch to the configured push target only after every check passes, and opens a clean PR automatically.\n\n- **Non-blocking** - the pipeline runs in an isolated worktree without disrupting your work.\n- **Agent-agnostic** - `claude`, `codex`, `rovodev`, `opencode`, `pi`, `copilot`, or `cursor` / `acp:<target>` via `acpx`, with ordered fallbacks; every gate requires a runnable configured pipeline agent.\n- **Agent-native** - `/no-mistakes` lets your coding agent do a task and gate it, or gate existing committed work: it runs the pipeline, has the pipeline apply safe fixes, and escalates the rest to you.\n- **Human stays in charge** - auto-fix or review findings, your call.\n- **Clean PRs by default** - push, open PR, watch CI, and auto-fix failures in one shot.\n\nFull documentation: <https://kunchenguid.github.io/no-mistakes/>\n\n## How it works\n\n```\n        your branch\n            │  git push no-mistakes\n            ▼\n   ┌────────────────────────────────────────────────┐\n   │  disposable worktree — your work stays put     │\n   │  review → test → docs → lint → push → PR → CI  │\n   └────────────────────────────────────────────────┘\n            │  every check green\n            ▼\n        clean PR, opened for you\n```\n\nEach step ",
-  "generatedAt": "2026-07-23T00:57:56.074Z",
+  "generatedAt": "2026-07-24T00:54:07.544Z",
   "analysis": {
     "oneLine": "no-mistakes 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "no-mistakes 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，no-mistakes 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 6,895，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，no-mistakes 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 6,956，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

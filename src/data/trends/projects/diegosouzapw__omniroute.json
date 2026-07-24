@@ -4,19 +4,20 @@
   "repo": "OmniRoute",
   "name": "OmniRoute",
   "fullName": "diegosouzapw/OmniRoute",
-  "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+  "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
   "language": "TypeScript",
   "githubUrl": "https://github.com/diegosouzapw/OmniRoute",
   "docsUrl": "https://omniroute.online",
-  "stars": 25278,
-  "forks": 3357,
-  "openIssues": 232,
+  "stars": 27190,
+  "forks": 3565,
+  "openIssues": 224,
   "license": "MIT",
-  "pushedAt": "2026-07-23T00:28:21Z",
-  "updatedAt": "2026-07-23T00:57:39Z",
+  "pushedAt": "2026-07-24T00:33:03Z",
+  "updatedAt": "2026-07-24T00:53:46Z",
   "createdAt": "2026-02-13T12:38:31Z",
   "archived": false,
   "trendWindows": [
+    "weekly",
     "monthly"
   ],
   "tags": [
@@ -31,15 +32,15 @@
     "安全隐私"
   ],
   "recommendation": 2.7,
-  "readmeExcerpt": "<div align=\"center\">\n\n<img src=\"./docs/screenshots/MainOmniRoute.png\" alt=\"OmniRoute Dashboard\" width=\"820\"/>\n\n<br/>\n\n# 🚀 OmniRoute — The Free AI Gateway\n\n<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 278 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 278 AI providers · 90+ free tiers · ~1.53B free tokens/mo · 18 routing strategies · $0 to start.\"/>\n\n</div>\n\n<div align=\"center\">\n\n# 💰 ~1.53B Free Tokens / Month\n\n</div>\n\n> Stacking free tiers by hand is painful — dozens of SDKs, dozens of rate limits, and no idea how much you actually have. OmniRoute aggregates the **documented** free tiers of **43 provider pools / 460+ models** into one honest number and shows it live on the dashboard (`/dashboard/free-tiers`).\n\n<img src=\"./docs/diagrams/free-tier-budget.svg\" width=\"100%\" alt=\"OmniRoute free-tier budget card: ~1.53B free tokens per month steady, up to ~2.15B in the first month with signup credits, from the documented free tiers of 43 provider pools / 460+ models behind one endpoint. Honest pool-deduped math — each shared pool counted once (counting every rate limit 24/7 would read ~10B; not published), 15 providers ToS-flagged so you decide. Budget bar of the countable free pools with per-model grid (Mistral Large 3 1B, GPT-4o mini 150M, Gemini 2.5 Flash 60M … Claude Sonnet 4.5 25K), one-time first-month signup credits (vertex 300M, agentrouter 200M, predibase 25M, together 25M, glm-cn 20M, doubao 15M, ai21 10M, longcat 10M, deepseek 5M, hyperbolic 5M, nscale 5M), plus permanently-free no-token-cap providers (SiliconFlow, Z.AI GLM-Flash, Kilo, OpenCode Zen, baidu …) and a $10 OpenRouter top-up unlocking +24M/mo — surfaced separately so they never inflate the headline. Live used/remaining on /dashboard/free-tiers.\"/>\n\n> Animated summary of the live `/dashboard/free-tiers` page. Full methodology (pool dedupe, credit tiers, provider terms): **[docs/reference/FREE_TIERS.md](docs/reference/FREE_TIERS.md)**.\n>\n> <sub>These figures are re-audited every two weeks against the live catalog and **move both ways** — a provider ends a free tier and the number drops; a new one lands and it climbs. We publish what the catalog actually computes, never a rounded-up best case. A CI gate (`check:docs-counts`) fails the build if this headline drifts from the code.</sub>\n\n<div align=\"center\">\n\n<h3>\n\n⭐ Star the repo if OMNIROUTE helped you save money and make your work easier.\n\n</h3>\n\n[![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)](https://github.com/diegosouzapw/OmniRoute)\n<a href=\"https://trendshift.io/repositories/23589\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/23589\" alt=\"diegosouzapw%2FOmniRoute | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
-  "generatedAt": "2026-07-23T00:57:54.044Z",
+  "readmeExcerpt": "<div align=\"center\">\n\n<img src=\"./docs/screenshots/MainOmniRoute.png\" alt=\"OmniRoute Dashboard\" width=\"820\"/>\n\n<br/>\n\n# 🚀 OmniRoute — The Free AI Gateway\n\n<img src=\"./docs/diagrams/readme-hero.svg\" width=\"100%\" alt=\"OmniRoute — Never stop coding. Every AI tool → 290 providers — 90+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 290 AI providers · 90+ free tiers · ~1.53B free tokens/mo · 19 routing strategies · $0 to start.\"/>\n\n</div>\n\n<div align=\"center\">\n\n# 💰 ~1.53B Free Tokens / Month\n\n</div>\n\n> Stacking free tiers by hand is painful — dozens of SDKs, dozens of rate limits, and no idea how much you actually have. OmniRoute aggregates the **documented** free tiers of **43 provider pools / 460+ models** into one honest number and shows it live on the dashboard (`/dashboard/free-tiers`).\n\n<img src=\"./docs/diagrams/free-tier-budget.svg\" width=\"100%\" alt=\"OmniRoute free-tier budget card: ~1.53B free tokens per month steady, up to ~2.15B in the first month with signup credits, from the documented free tiers of 43 provider pools / 460+ models behind one endpoint. Honest pool-deduped math — each shared pool counted once (counting every rate limit 24/7 would read ~10B; not published), 15 providers ToS-flagged so you decide. Budget bar of the countable free pools with per-model grid (Mistral Large 3 1B, GPT-4o mini 150M, Gemini 2.5 Flash 60M … Claude Sonnet 4.5 25K), one-time first-month signup credits (vertex 300M, agentrouter 200M, predibase 25M, together 25M, glm-cn 20M, doubao 15M, ai21 10M, longcat 10M, deepseek 5M, hyperbolic 5M, nscale 5M), plus permanently-free no-token-cap providers (SiliconFlow, Z.AI GLM-Flash, Kilo, OpenCode Zen, baidu …) and a $10 OpenRouter top-up unlocking +24M/mo — surfaced separately so they never inflate the headline. Live used/remaining on /dashboard/free-tiers.\"/>\n\n> Animated summary of the live `/dashboard/free-tiers` page. Full methodology (pool dedupe, credit tiers, provider terms): **[docs/reference/FREE_TIERS.md](docs/reference/FREE_TIERS.md)**.\n>\n> <sub>These figures are re-audited every two weeks against the live catalog and **move both ways** — a provider ends a free tier and the number drops; a new one lands and it climbs. We publish what the catalog actually computes, never a rounded-up best case. A CI gate (`check:docs-counts`) fails the build if this headline drifts from the code.</sub>\n\n<div align=\"center\">\n\n<h3>\n\n⭐ Star the repo if OMNIROUTE helped you save money and make your work easier.\n\n</h3>\n\n[![Stars](https://img.shields.io/github/stars/diegosouzapw/OmniRoute?style=social)](https://github.com/diegosouzapw/OmniRoute)\n<a href=\"https://trendshift.io/repositories/23589\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/23589\" alt=\"diegosouzapw%2FOmniRoute | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+  "generatedAt": "2026-07-24T00:54:04.292Z",
   "analysis": {
     "oneLine": "OmniRoute 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "OmniRoute 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，OmniRoute 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 25,278，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，OmniRoute 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 27,190，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
