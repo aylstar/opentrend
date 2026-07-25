@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3d0a33dba5",
+  "slug": "weibo-李宏毅营业表情",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "李宏毅营业表情",
+  "summary": "微博热榜第 45 位：李宏毅营业表情，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%8F%E6%AF%85%E8%90%A5%E4%B8%9A%E8%A1%A8%E6%83%85%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

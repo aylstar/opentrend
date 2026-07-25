@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ed612128d9",
+  "slug": "weibo-王源雪崩口碑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "王源雪崩口碑",
+  "summary": "微博热榜第 26 位：王源雪崩口碑，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E9%9B%AA%E5%B4%A9%E5%8F%A3%E7%A2%91%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

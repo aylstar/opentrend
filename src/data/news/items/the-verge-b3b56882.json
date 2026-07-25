@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+  "summary": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge. The company is […]",
+  "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+  "publishedAt": "2026-07-24T22:27:46.000Z",
+  "id": "the-verge-b3b56882",
+  "slug": "the-verge-b3b56882",
+  "content": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly — even though that feature runs locally on your glasses and doesn’t require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge. The company is not giving up on the idea of a subscription fee for certain features — that’s still moving forward. Yee confirms that “some premium features will be subscription-based over time.” But Conversation Focus, the accessibility feature, “will remain available for free through our Early Access Program for early testers while we work on a better approach.” Here’s one of the company’s statements to The Verge: > Meta’s AI glasses pack a lot of value for free, and some premium features will be subscription-based over time—and conversation focus is one we want to make sure we get right. We heard the feedback so we’re pausing its subscription test for now. Conversation focus will remain available for free through our Early Access Program for early testers while we work on a better approach. The most ridiculous part of Meta’s original plan was the “rate limits.” Meta made it sound like it needed to charge a subscription for Conversation Focus because running that service had an incremental cost, to the point that even paid subscribers would only get 15 hours of Conversation Focus per month. That was easy to disprove: When I disconnected my own Meta Ray-Bans from the internet, the feature kept on working. But Meta isn’t actually promising to abandon those “rate limits.” I asked: “Given that Conversation Focus is on-device and Meta understands the backlash, is the thinking that it will no longer be rate-limited?” Meta’s answer: “We don’t have any more details to share, but its subscription test is currently paused and we’re still exploring all our options for the best approach.” Yee says that “not all” premium features will be subscription-based, though. He hints the reason Meta is charging a subscription is so it can subsidize the price of hardware, not to maintain the features themselves: > We sell hardware at accessible prices to get AI glasses into the hands of as many people as possible and they pack a lot of value for free, so some premium features will be subscription-based over time. Charging power users for expanded use of premium features is how we sustain this strategy and keep investing in breakthrough capabilities. I don’t know if I would call my $299 Meta Ray-Bans “free.” But I do know that Meta keeps angering people who don’t like its glasses, so it’d be risky to anger those who do like them, too. I suspect the company has already decided that Conversation Focus will stay free, but is saving that announcement for later — to balance out the reveal of other features that will indeed cost money.",
+  "fetchedAt": "2026-07-25T01:00:19.454Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "在强烈反对后，Meta 暂停了对其智能眼镜进行“速率限制”的计划",
+  "chineseSummary": "还记得 Meta 计划对智能眼镜功能收取每月 20 美元的订阅费吗？该功能可以让人们更清楚地听到彼此的声音 - 即使该功能在您的眼镜上本地运行并且不需要云？发言人 Tyler Yee 向 The Verge 证实，Meta 已经暂停了这些计划。该公司是[…]",
+  "chineseContent": "还记得 Meta 计划对智能眼镜功能收取每月 20 美元的订阅费吗？该功能可以让人们更清楚地听到彼此的声音，尽管该功能在您的眼镜上本地运行并且不需要云？发言人 Tyler Yee 向 The Verge 证实，Meta 已经暂停了这些计划。该公司并没有放弃对某些功能收取订阅费的想法——这一想法仍在向前推进。 Yee 确认，“随着时间的推移，一些高级功能将基于订阅。”但对话焦点（Conversation Focus）这一辅助功能“将继续通过我们的早期测试计划免费为早期测试者提供，同时我们正在研究更好的方法。”以下是该公司向 The Verge 发表的声明之一：> Meta 的 AI 眼镜免费提供很多价值，随着时间的推移，一些高级功能将基于订阅 - 而对话焦点是我们希望确保正确的功能之一。我们收到了反馈，因此我们暂时暂停其订阅测试。在我们努力寻找更好的方法的同时，对话焦点仍将通过我们的早期测试人员免费访问计划免费提供。 Meta最初的计划中最可笑的部分是“速率限制”。 Meta 听起来像是需要对 Conversation Focus 的订阅收费，因为运行该服务会产生增量成本，甚至付费订阅者每月也只能获得 15 小时的 Conversation Focus。这很容易反驳：当我将自己的 Meta Ray-Ban 眼镜与互联网断开连接时，该功能仍然有效。但 Meta 实际上并没有承诺放弃这些“速率限制”。我问道：“鉴于 Conversation Focus 是在设备上进行的，并且 Meta 理解这种强烈反对，是否认为它将不再受到速率限制？” Meta 的回答是：“我们没有更多细节可以透露",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

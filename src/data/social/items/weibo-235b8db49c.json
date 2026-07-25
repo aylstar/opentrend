@@ -1,0 +1,21 @@
+{
+  "id": "weibo-235b8db49c",
+  "slug": "weibo-特斯拉跌麻了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "特斯拉跌麻了",
+  "summary": "微博热榜第 24 位：特斯拉跌麻了，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%BA%BB%E4%BA%86%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

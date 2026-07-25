@@ -1,0 +1,21 @@
+{
+  "id": "weibo-477fc31425",
+  "slug": "weibo-鹭卓直播",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "鹭卓直播",
+  "summary": "微博热榜第 18 位：鹭卓直播，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E7%9B%B4%E6%92%AD%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

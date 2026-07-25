@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c4a85c8331",
+  "slug": "weibo-和颂又签新人了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "和颂又签新人了",
+  "summary": "微博热榜第 42 位：和颂又签新人了，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E9%A2%82%E5%8F%88%E7%AD%BE%E6%96%B0%E4%BA%BA%E4%BA%86%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

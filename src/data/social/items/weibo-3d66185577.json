@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3d66185577",
+  "slug": "weibo-詹姆斯发长文",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "詹姆斯发长文",
+  "summary": "微博热榜第 16 位：詹姆斯发长文，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%91%E9%95%BF%E6%96%87%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

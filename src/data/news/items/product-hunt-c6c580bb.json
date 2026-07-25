@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "SwiftScale Software",
+  "summary": "QA agent that tests apps the way you'd explain them Discussion | Link",
+  "url": "https://www.producthunt.com/products/swiftscale-software",
+  "publishedAt": "2026-07-22T14:25:31.000Z",
+  "id": "product-hunt-c6c580bb",
+  "slug": "product-hunt-c6c580bb",
+  "content": "QraftAI assigns a dedicated AI agent to your product. It learns your app, generates quality test cases, and executes them live across every browser — without scripts or manual QA. Start free.",
+  "fetchedAt": "2026-07-25T01:00:19.454Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "SwiftScale 软件",
+  "chineseSummary": "QA agent that tests apps the way you'd explain them Discussion |关联",
+  "chineseContent": "QraftAI assigns a dedicated AI agent to your product. It learns your app, generates quality test cases, and executes them live across every browser — without scripts or manual QA.开始免费。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-424939f06f",
+  "slug": "weibo-种地吧",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "种地吧",
+  "summary": "微博热榜第 25 位：种地吧，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-07-25T00:58:59.007Z",
+  "fetchedAt": "2026-07-25T01:01:53.859Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

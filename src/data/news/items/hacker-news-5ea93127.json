@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+  "summary": "77 points · 32 comments",
+  "content": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade. The model: The mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked. Insights: The interesting part is the mechanics of how the crisis unfolds: for example, France receives 0 oil from Hormuz directly, yet their reserves are depleted faster because other countries reactively increase their safety oil stock, increasing oil price, making stockouts more expensive for everyone. The model also gives price dynamics which are interesting on their own: the price increase is not immediate, it follows sequentially as countries reserves deplete. Some caveats: 1. For producer nodes, depletion means their export slack is reduced/exhausted. 2. No sanctioned trade (UN Comtrade data) Technical Details: The visualization is 600 lines of flask plus js frontend (LLM assisted visualization with ground-truth matching the original numerical exercise of the paper) Paper with proofs/theory: https://arxiv.org/abs/2607.17491",
+  "url": "https://globaloilnetwork.staffinganalytics.io/",
+  "publishedAt": "2026-07-23T12:31:21.000Z",
+  "points": 77,
+  "id": "hacker-news-5ea93127",
+  "slug": "hacker-news-5ea93127",
+  "fetchedAt": "2026-07-25T01:00:19.452Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "财经"
+  ],
+  "rank": 4,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：我根据真实石油贸易数据模拟关闭霍尔木兹海峡",
+  "chineseSummary": "77 分 · 32 条评论",
+  "chineseContent": "OP：我创建了这个可视化工具，作为我在哥伦比亚大学教授的供应链课程的副产品。这项教学练习后来发展成为关于全球石油贸易的全面可视化和论文。模型：机制与金融网络 Eisenberg-Noe 相同：每个国家都消费通过双边贸易相互联系的石油，而不是银行。当瓶颈节点（例如霍尔木兹海峡）被堵塞时，冲击会在整个网络中传播，从而耗尽石油储备。见解：有趣的部分是危机如何展开的机制：例如，法国直接从霍尔木兹接收的石油为0，但其储备消耗得更快，因为其他国家反应性地增加了安全石油库存，提高了油价，使缺货对每个人来说都更加昂贵。该模型还给出了本身就很有趣的价格动态：价格上涨不是立即的，而是随着国家储备的耗尽而依次发生。一些注意事项： 1. 对于生产者节点来说，耗尽意味着它们的出口余量减少/耗尽。 2. 无批准贸易（UN Comtrade 数据） 技术细节：可视化是 600 行 Flask 加 js 前端（LLM 辅助可视化，其真实值与论文的原始数值练习相匹配）带有证明/理论的论文：https://arxiv.org/abs/2607.17491",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
