@@ -1,0 +1,21 @@
+{
+  "id": "weibo-50f158eacf",
+  "slug": "weibo-王一博给摩托姐姐点赞了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "王一博给摩托姐姐点赞了",
+  "summary": "微博热榜第 12 位：王一博给摩托姐姐点赞了，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%BB%99%E6%91%A9%E6%89%98%E5%A7%90%E5%A7%90%E7%82%B9%E8%B5%9E%E4%BA%86%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-07-26T01:00:09.942Z",
+  "fetchedAt": "2026-07-26T01:06:19.147Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

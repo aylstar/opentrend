@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dccbfdf6ea",
+  "slug": "weibo-深圳台风预警升级至红色",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "深圳台风预警升级至红色",
+  "summary": "微博热榜第 41 位：深圳台风预警升级至红色，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E%E9%A2%84%E8%AD%A6%E5%8D%87%E7%BA%A7%E8%87%B3%E7%BA%A2%E8%89%B2%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-07-26T01:00:09.942Z",
+  "fetchedAt": "2026-07-26T01:06:19.147Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

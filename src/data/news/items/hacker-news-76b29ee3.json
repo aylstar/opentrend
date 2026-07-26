@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Open-weight AI is having its Kubernetes moment",
+  "summary": "303 points · 247 comments",
+  "content": "303 points · 247 comments",
+  "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+  "publishedAt": "2026-07-25T14:49:49.000Z",
+  "points": 303,
+  "id": "hacker-news-76b29ee3",
+  "slug": "hacker-news-76b29ee3",
+  "fetchedAt": "2026-07-26T01:04:22.949Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "开放重量 AI 正在迎来 Kubernetes 时刻",
+  "chineseSummary": "303 分 · 247 条评论",
+  "chineseContent": "303 分 · 247 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

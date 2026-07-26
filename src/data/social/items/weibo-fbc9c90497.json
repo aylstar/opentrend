@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fbc9c90497",
+  "slug": "weibo-鹿晗浪漫疯子",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "鹿晗浪漫疯子",
+  "summary": "微博热榜第 15 位：鹿晗浪漫疯子，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B5%AA%E6%BC%AB%E7%96%AF%E5%AD%90%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-07-26T01:00:09.942Z",
+  "fetchedAt": "2026-07-26T01:06:19.147Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

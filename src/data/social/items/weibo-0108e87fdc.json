@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0108e87fdc",
+  "slug": "weibo-台风红霞强于巴威",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "台风红霞强于巴威",
+  "summary": "微博热榜第 35 位：台风红霞强于巴威，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%BC%BA%E4%BA%8E%E5%B7%B4%E5%A8%81%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-07-26T01:00:09.942Z",
+  "fetchedAt": "2026-07-26T01:06:19.147Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

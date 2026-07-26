@@ -7,20 +7,20 @@
   "publishedAt": "2026-07-23T05:29:02.000Z",
   "id": "product-hunt-8010873a",
   "slug": "product-hunt-8010873a",
-  "content": "The power of Codex with local, self-hosted models and voice Discussion | Link",
-  "fetchedAt": "2026-07-24T00:54:19.474Z",
-  "score": 79,
+  "content": "OpenCode Superapp brings the agentic power of Codex to the models and infrastructure you choose. Run cloud, local, or self-hosted models in a native workspace where agents understand your projects, work with files, Git, and terminals, speak with you through voice, and operate Mac apps through supervised Computer Use. Private by design and extensible through skills and MCPs, it gives you capable agents without giving up model choice or control. Built from the ground up with Codex and GPT-5.6.",
+  "fetchedAt": "2026-07-26T01:04:22.952Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "科技",
     "全球"
   ],
-  "rank": 6,
-  "contentStatus": "fetch-failed",
+  "rank": 9,
+  "contentStatus": "article-extracted",
   "chineseTitle": "OpenCode 超级应用",
   "chineseSummary": "Codex 的强大功能，具有本地、自托管模型和语音讨论 |关联",
-  "chineseContent": "Codex 的强大功能，具有本地、自托管模型和语音讨论 |关联",
+  "chineseContent": "OpenCode Superapp 将 Codex 的代理能力带入您选择的模型和基础设施中。在本机工作区中运行云、本地或自托管模型，代理了解您的项目，使用文件、Git 和终端，通过语音与您交谈，并通过受监督的计算机使用来操作 Mac 应用程序。它在设计上是私有的，并可通过技能和 MCP 进行扩展，为您提供有能力的代理，而无需放弃模型选择或控制。使用 Codex 和 GPT-5.6 从头开始​​构建。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

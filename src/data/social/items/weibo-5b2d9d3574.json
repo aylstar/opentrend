@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5b2d9d3574",
+  "slug": "weibo-新冠疫情升至中流行水平",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "新冠疫情升至中流行水平",
+  "summary": "微博热榜第 11 位：新冠疫情升至中流行水平，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%8D%87%E8%87%B3%E4%B8%AD%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-26T01:00:09.942Z",
+  "fetchedAt": "2026-07-26T01:06:19.147Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

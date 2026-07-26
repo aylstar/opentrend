@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Brolly, a plain-text weather forecast site",
+  "summary": "122 points · 40 comments",
+  "content": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. I made https://brolly.sh , a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler / hotter / wetter / drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU / UK; Location search and last 5 locations; Location specific units. I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage. You can check out the weather in York, UK at https://brolly.sh/forecast/RWFP2qW8 , or search for a location at https://brolly.sh The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there's just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you'll hopefully see that this site isn't a rip off, and has its own deliberate look and feel. Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count. It's also frustrating to have an interactive site, where you can't share a page with a friend and have them see what you're seeing. To solve this, all page state (i.e. location, selected day, expanded / collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you'll always be able to come back to it. The site uses PocketBase. It’s written in Go and plain HTML/JavaScript/CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next / previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API.",
+  "url": "https://brolly.sh/forecast/RWFP2qW8",
+  "publishedAt": "2026-07-25T17:34:34.000Z",
+  "points": 122,
+  "id": "hacker-news-acbddb46",
+  "slug": "hacker-news-acbddb46",
+  "fetchedAt": "2026-07-26T01:04:22.950Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Brolly，一个纯文本天气预报网站",
+  "chineseSummary": "122 分 · 40 条评论",
+  "chineseContent": "英国 MET 办公室最近重新设计了他们的网站，添加了大量额外的空白、滚动和动画。这大大降低了它的可用性，让我想要一个“一目了然”的天气网站。我制作了 https://brolly.sh ，一个简约的纯文本天气预报网站。您可以使用它查看世界各地的天气，包括： 7 天天气预报；前一天的日志（这样您就可以确认昨天确实更冷/更热/更湿/更干燥！）；每小时的雨量、风力、温度、条件；每小时紫外线、空气质量和花粉，包括欧盟/英国境内花粉类型的特定预测；位置搜索和最后 5 个位置；地点特定单位。我主要是为自己制作这个网站，如果其他人也能从中受益，那就是一个额外的优势。您可以通过 https://brolly.sh/forecast/RWFP2qW8 查看英国约克的天气，或者通过 https://brolly.sh 搜索位置 该网站特意设计为单个长滚动栏，以便在手机上使用。您也可以在桌面上查看它，只是有很多水平填充。我自然从 plaintextsports.com 中获得了很多灵感。尽管不是体育迷，但我喜欢它的美感。但是，您会希望看到这个网站不是盗版的，并且有自己精心设计的外观和感觉。可视化对于一目了然地显示信息非常重要。我花了很多时间设计不同的可视化效果并使它们仅与角色一起使用。我最喜欢的是用于花粉计数的每小时热图。拥有一个交互式网站也令人沮丧，您无法与朋友共享页面并让他们看到您所看到的内容。为了解决这个问题，所有页面状态（即位置、所选日期、展开/折叠部分）都存储在 URL 中。您可以分享或添加书签",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

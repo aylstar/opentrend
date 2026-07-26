@@ -8,8 +8,8 @@
   "id": "product-hunt-b2ac1dbb",
   "slug": "product-hunt-b2ac1dbb",
   "content": "HOL Guard is the firewall for AI agents. It sits between agents and your systems, blocking high-risk actions before they happen like deleting production data to exposing secrets. Built by HOL, it’s free, open source, and already has 400K+ downloads.",
-  "fetchedAt": "2026-07-24T00:54:19.475Z",
-  "score": 79,
+  "fetchedAt": "2026-07-26T01:04:22.952Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
