@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple is banking on privacy to set its smart glasses apart",
+  "summary": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, […]",
+  "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+  "publishedAt": "2026-07-26T19:36:38.000Z",
+  "id": "the-verge-271e978c",
+  "slug": "the-verge-271e978c",
+  "content": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they’ll launch by the end of 2027. Part of the hold-up may be around the company’s efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta’s in particular, have ignited controversy over their ability to stealthily capture photos and videos. As Gurman points out: > The company has spent more than a decade making privacy one of its defining product messages. Simply entering the same category as Meta risks undermining that reputation, regardless of how Apple’s approach differs. Apple is likely to rely on on-device processing and skip out on more controversial features like facial recognition or an always-on-recording similar to Meta’s “super sensing.” Gurman also believes Apple will avoid using customer recordings to train AI models. Other hardware and software privacy features are also reportedly in the works. It’s also possible that Apple could eventually release a version of its smart glasses without a camera, or with a camera that is exclusively for sensing and won’t be able to capture video or photos at all, similar to what is rumored for Apple’s AI-enabled AirPods.",
+  "fetchedAt": "2026-07-27T01:05:52.946Z",
+  "score": 70,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "金融",
+    "安全",
+    "产品"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果依靠隐私来让其智能眼镜脱颖而出",
+  "chineseSummary": "据 Mark Gurman 称，苹果计划在明年 6 月的 WWDC 上展示其首款智能眼镜，预计将于 2027 年底推出。部分阻碍可能是由于该公司努力使其隐私功能和消息传递井然有序。一般来说，智能眼镜，特别是 Meta 的，[...]",
+  "chineseContent": "据 Mark Gurman 称，苹果计划在明年 6 月的 WWDC 上展示其首款智能眼镜，预计将于 2027 年底推出。部分阻碍可能是由于该公司在隐私功能和消息传递方面所做的努力。智能眼镜，尤其是 Meta 的智能眼镜，因其偷拍照片和视频的能力而引发了争议。正如古尔曼指出的那样： > 该公司十多年来一直将隐私作为其定义的产品信息之一。无论苹果的做法有何不同，仅仅进入与 Meta 相同的类别就有可能损害该声誉。苹果可能会依赖设备上的处理，并跳过更具争议性的功能，例如面部识别或类似于 Meta 的“超级传感”的始终记录功能。古尔曼还认为，苹果将避免使用客户录音来训练人工智能模型。据报道，其他硬件和软件隐私功能也在开发中。苹果最终也有可能发布一款不带摄像头的智能眼镜版本，或者带有专门用于传感的摄像头但根本无法捕捉视频或照片的版本，类似于传闻中的苹果人工智能 AirPods。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

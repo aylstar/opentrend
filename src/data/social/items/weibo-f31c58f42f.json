@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f31c58f42f",
+  "slug": "weibo-王一博第二名",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "王一博第二名",
+  "summary": "微博热榜第 11 位：王一博第二名，当前热度为 52万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%AC%AC%E4%BA%8C%E5%90%8D%23",
+  "hotValue": "52万热度",
+  "author": "",
+  "publishedAt": "2026-07-27T00:59:40.473Z",
+  "fetchedAt": "2026-07-27T01:06:57.234Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

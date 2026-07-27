@@ -1,0 +1,21 @@
+{
+  "id": "weibo-db7b0bcca0",
+  "slug": "weibo-多部电影撤出暑期档",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "多部电影撤出暑期档",
+  "summary": "微博热榜第 2 位：多部电影撤出暑期档，当前热度为 117万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E9%83%A8%E7%94%B5%E5%BD%B1%E6%92%A4%E5%87%BA%E6%9A%91%E6%9C%9F%E6%A1%A3%23",
+  "hotValue": "117万热度",
+  "author": "",
+  "publishedAt": "2026-07-27T00:59:40.473Z",
+  "fetchedAt": "2026-07-27T01:06:57.234Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

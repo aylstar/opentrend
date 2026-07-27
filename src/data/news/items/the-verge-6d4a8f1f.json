@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The US is charging an American citizen for wiping his phone at the border",
+  "summary": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick's lawyers […]",
+  "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+  "publishedAt": "2026-07-26T18:45:50.000Z",
+  "id": "the-verge-6d4a8f1f",
+  "slug": "the-verge-6d4a8f1f",
+  "content": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a “duress password” that wiped his phone when they tried to seize it at Atlanta’s Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick’s lawyers argues this was simply “a pretext for a fishing expedition into Mr Tunick’s connections” to the Stop Cop City movement in Atlanta. The government is turning to a little-known and rarely-used statute that makes it illegal to destroy or damage property to stop authorities from seizing it. They allege that Tunick used a feature of the privacy-focused GrapheneOS to wipe his phone by giving authorities a duress password, instead of the actual passcode to unlock the phone. The defense has argued that the detention and seizure were unlawful, and therefore all evidence should be tossed. According to Tunick’s attorneys, agents refused him access to a lawyer, did not provide a warrant, or inform him of his legal rights. They also allege that access to his phone was sought under false pretenses. The government has countered that they were not required to produce a warrant because Tunick had not yet been granted permission to enter the US. Marlon Kautz, a member of the Atlanta Solidarity Fund, told the Guardian earlier this week that, “we all have a right to secure our private data against unconstitutional searches. And we should — especially in a time of rising authoritarianism.” Under the Trump administration, entering the US has become a much more fraught process, even for citizens who can face hours-long detention and scrutiny of social media accounts. Most agree the only way to protect your data is to delete it.",
+  "fetchedAt": "2026-07-27T01:05:52.946Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美国对一名在边境擦拭手机的美国公民收取费用",
+  "chineseSummary": "美国政府正在起诉美国公民萨姆·图尼克 (Sam Tunick)，因为他涉嫌向当局提供“胁迫密码”，当当局于 2025 年 1 月 24 日在亚特兰大哈茨菲尔德-杰克逊机场试图没收他的手机时，该密码将其手机擦除。联邦特工在机场拘留了图尼克，据称询问他有关儿童剥削图片的问题。然而，图尼克的律师提出的动议[...]",
+  "chineseContent": "美国政府正在起诉美国公民萨姆·图尼克 (Sam Tunick)，因为他涉嫌向当局提供“胁迫密码”，当当局于 2025 年 1 月 24 日在亚特兰大哈茨菲尔德-杰克逊机场试图没收他的手机时，该密码将其手机擦除。联邦特工在机场拘留了图尼克，据称询问他有关儿童剥削图片的问题。然而，图尼克的律师提出的一项动议称，这只是“对图尼克先生与亚特兰大阻止警察城市运动的关系进行钓鱼调查的借口”。政府正在求助于一项鲜为人知且很少使用的法规，该法规规定摧毁或损坏财产以阻止当局扣押财产属于非法行为。他们声称，图尼克使用注重隐私的 GrapheneOS 的一项功能，向当局提供胁迫密码，而不是解锁手机的实际密码，从而擦除他的手机。辩方辩称，拘留和扣押是非法的，因此所有证据都应被丢弃。据图尼克的律师称，特工拒绝他会见律师，没有提供搜查令，也没有告知他他的合法权利。他们还声称有人以虚假借口寻求访问他的手机。政府反驳说，他们不需要出示逮捕令，因为图尼克尚未获得进入美国的许可。亚特兰大团结基金成员马龙·考茨本周早些时候对《卫报》表示，“我们都有权保护我们的私人数据免遭违宪搜查。而且我们应该这么做——尤其是在威权主义抬头的时代。”在特朗普政府的领导下，进入美国已成为一个更加令人担忧的过程，即使对于可能面临长达数小时的拘留和社交媒体账户审查的公民来说也是如此。大多数人同意保护数据的唯一方法是删除",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

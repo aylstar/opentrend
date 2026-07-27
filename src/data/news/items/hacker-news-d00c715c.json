@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "It's not empowering to hand off the details",
+  "summary": "181 points · 101 comments",
+  "content": "I think behind a lot of the enthusiasm around AI is a dream of being able to manifest things into reality without having to get into the details.\n\nBut you cannot escape the details. There's no level of abstraction that solves this. The closer you look at anything, the messier and more nuanced it gets. You've got to get deep, you've got to get meticulous, to do anything novel or good.\n\nYou can't hand off all of the details. What you can do is hand off some of them, but to be good at something is to know, or be able to work out, which 'some'. If you aren't good, you won't know. So inherently you can't do something well with AI without being good at the thing yourself, and to become good at the thing in the first place requires a complete reversal of the mindset that would lead one to having wanted to hand it off. Being incredibly interested in and focused on the details is the only way expertise develops.\n\nMany are captured with the idea of how reality might be if one could be good at things without caring about the details, and are enthusiastic about LLM technology because it seems like a more credible way to get there than all the previous technologies that promised to bring this reality about. But LLMs, too, will fail in this because reality doesn't work that way, and there's no reason it should.\n\nIt's not a good thing to not have the knowledge or skill to do something, and it's not empowering to hand off the details. The extent to which that can be successful is the extent to which you have played no role; have done nothing at all. Which is the precise opposite of empowerment.",
+  "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+  "publishedAt": "2026-07-26T17:58:02.000Z",
+  "points": 181,
+  "id": "hacker-news-d00c715c",
+  "slug": "hacker-news-d00c715c",
+  "fetchedAt": "2026-07-27T01:05:52.944Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "交出细节并不能赋予权力",
+  "chineseSummary": "181 分 · 101 条评论",
+  "chineseContent": "我认为，围绕人工智能的大量热情背后是一个梦想，即能够将事物变为现实，而无需深入细节。\n\n但你无法逃避细节。没有任何抽象级别可以解决这个问题。你越仔细观察任何事物，它就会变得越混乱、越微妙。你必须深入、细致，才能做任何新颖或好的事情。\n\n您无法放弃所有细节。你能做的就是放弃其中的一些，但要擅长某件事就是要知道或能够弄清楚哪些是“一些”。如果你不好，你不会知道。因此，从本质上来说，如果你自己不擅长某件事，你就无法用人工智能做好某件事，而要擅长这件事，首先需要完全转变思维方式，这种思维方式会导致人们想要放弃它。对细节非常感兴趣并专注于细节是专业知识发展的唯一途径。\n\n许多人都被这样的想法所吸引：如果一个人能够擅长做事而不关心细节，那么现实会是什么样子，并且对法学硕士技术充满热情，因为它似乎是一种比以前所有承诺实现这一现实的技术更可靠的实现方式。但法学硕士也会在这方面失败，因为现实并非如此，也没有理由如此。\n\n不具备做某事的知识或技能并不是一件好事，而且也没有能力交出细节。能成功到什么程度，取决于你没有扮演什么角色；什么也没做。这与授权恰恰相反。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

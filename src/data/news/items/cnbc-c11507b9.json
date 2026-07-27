@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Singapore tightens monetary policy as rising oil prices rekindle inflation risk",
+  "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
+  "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
+  "publishedAt": "2026-07-27T00:34:22.000Z",
+  "id": "cnbc-c11507b9",
+  "slug": "cnbc-c11507b9",
+  "content": "Singapore on Monday tightened its monetary policy for a second consecutive time, moving preemptively against a renewed oil price surge even as inflation at home stays subdued.\n\nThe Monetary Authority of Singapore said it will increase the rate of appreciation of the Singapore dollar's nominal effective exchange rate policy band \"very slightly,\" with the adjustment smaller than April's. The width of the band and the level at which it is centered were left unchanged.\n\nUnlike most central banks, the MAS conducts its monetary policy by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies within an undisclosed band, rather than setting interest rates.\n\n\"In an environment of continued heightened uncertainty, this calibrated adjustment to the policy stance builds on the tightening in April,\" the MAS said in its statement.\n\nSingapore's core inflation, which excludes accommodation and transportation costs, ticked up to 1.6% in June from 1.4% in May, near the bottom of the MAS's 1.5%–2.5% forecast range for this year, with headline inflation at 1.9%.\n\nWhile transportation fuel prices quickly rose since the onset of the U.S.-Iran conflict, softer services inflation, particularly healthcare, communication, and education, helped offset much of the upward pressure on prices, according to BMI, a FitchSolutions company.\n\n\"Imported-cost pressures typically pass through to broader consumer prices with a lag, so we still expect inflation to rise in the coming months,\" the intelligence group said.\n\nSingapore's near-total reliance on imported energy leaves it exposed to higher oil prices. Brent crude climbed back above $100 a barrel last week after Houthi militants attacked two Saudi tankers in the Red Sea, deepening a supply threat that had eased before the collapse of the Middle East ceasefire.\n\nThe economy has so far shrugged off the turmoil as AI demand powers electronics exports.\n\nSingapore's gross domestic product expanded 5.7% in the second quarter from a year earlier, beating the 5.5% median estimate in a Reuters survey and well above the government's full-year projection of 2%–4%.",
+  "fetchedAt": "2026-07-27T01:05:52.948Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "油价上涨重燃通胀风险 新加坡收紧货币政策",
+  "chineseSummary": "与大多数央行不同，金管局通过管理新加坡元兑贸易加权一篮子货币的汇率来管理中期价格稳定。",
+  "chineseContent": "新加坡周一连续第二次收紧货币政策，在国内通胀保持低迷的情况下，先发制人地应对油价再度飙升。\n\n新加坡金融管理局表示，将“非常小幅”提高新元名义有效汇率政策区间的升值幅度，调整幅度较4月份小。带的宽度及其中心水平保持不变。\n\n与大多数中央银行不同，金管局通过在未公开的区间内管理新加坡元兑贸易加权一篮子货币的汇率来实施货币政策，而不是设定利率。\n\n金管局在声明中表示：“在不确定性持续加剧的环境下，此次对政策立场的调整是在四月份紧缩政策的基础上进行的。”\n\n新加坡不包括住宿和交通费用的核心通胀率从 5 月的 1.4% 升至 6 月的 1.6%，接近金管局今年 1.5%–2.5% 预测范围的底部，总体通胀率为 1.9%。\n\n惠誉解决方案公司 BMI 表示，虽然自美伊冲突爆发以来，运输燃料价格迅速上涨，但服务业通胀疲软，尤其是医疗保健、通信和教育，帮助抵消了大部分价格上行压力。\n\n该情报组织表示：“进口成本压力通常会滞后地传导至更广泛的消费者价格，因此我们仍然预计未来几个月通胀将会上升。”\n\n新加坡几乎完全依赖进口能源，这使其面临油价上涨的风险。上周，胡塞武装分子在红海袭击了两艘沙特油轮，加深了在中东停火破裂之前已经缓解的供应威胁，布伦特原油价格回升至每桶 100 美元以上。\n\n迄今为止，随着人工智能需求推动电子产品出口，经济已经摆脱了动荡。\n\n新加坡第二季度国内生产总值同比增长 5.7%，超过路透社调查中 5.5% 的预期中值，也远高于政府 2%-4% 的全年预测。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

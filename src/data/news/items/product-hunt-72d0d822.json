@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Openbase",
+  "summary": "Manage your team of AI agents by voice, from anywhere Discussion | Link",
+  "url": "https://www.producthunt.com/products/openbase-2",
+  "publishedAt": "2026-07-19T16:15:50.000Z",
+  "id": "product-hunt-72d0d822",
+  "slug": "product-hunt-72d0d822",
+  "content": "Openbase lets you manage a team of AI coding agents by voice, from anywhere; no screen, no desk. AI agents can work async, but supervising them still pulls you back to a laptop. OpenBase fixes that. Dispatch tasks, steer agents mid-work, and approve changes just by talking. The agents write code, control your computer, open PRs, commit and push; you stay in control from your phone. Works across providers and syncs to your machine, so you pick up at your desk right where you left off.",
+  "fetchedAt": "2026-07-27T01:05:52.944Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "开放老板",
+  "chineseSummary": "随时随地通过语音管理您的 AI 代理团队关联",
+  "chineseContent": "Openbase 可让您随时随地通过语音管理 AI 编码代理团队；没有屏幕，没有桌子。人工智能代理可以异步工作，但监督它们仍然会让你回到笔记本电脑上。 OpenBase 解决了这个问题。只需通过谈话即可分配任务、指导代理工作并批准变更。代理编写代码、控制您的计算机、打开 PR、提交和推送；您可以通过手机进行控制。跨提供商工作并同步到您的计算机，因此您可以在办公桌上从上次停下的地方继续。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
