@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Rivault",
+  "summary": "Approve AI agent data access with Face ID Discussion | Link",
+  "url": "https://www.producthunt.com/products/rivault",
+  "publishedAt": "2026-07-26T20:24:52.000Z",
+  "id": "product-hunt-9bb25c79",
+  "slug": "product-hunt-9bb25c79",
+  "content": "Rivault lets you safely and securely provide AI agents and CUA data and context for tasks. Store data and context in a zero-knowledge vault, When an AI agent needs data (Passport No. or Credit Card details) to execute a task like booking a flight, Rivault sends you an auth request, you unlock data with Face ID/ Passkey and data is deterministically redacted after task completes. Rivault never gets access to your data by default.",
+  "fetchedAt": "2026-07-28T00:53:24.603Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "里沃",
+  "chineseSummary": "通过 Face ID 批准 AI 代理数据访问讨论 |关联",
+  "chineseContent": "Rivault 可让您安全可靠地提供 AI 代理和 CUA 数据以及任务上下文。将数据和上下文存储在零知识库中，当人工智能代理需要数据（护照号码或信用卡详细信息）来执行预订航班等任务时，Rivault 会向您发送身份验证请求，您可以使用面容 ID/密钥解锁数据，并在任务完成后确定性地编辑数据。默认情况下，Rivault 永远不会访问您的数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

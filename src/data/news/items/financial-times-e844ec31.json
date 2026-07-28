@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Big Tech credit risks rise sharply as AI spending soars",
+  "summary": "Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres",
+  "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
+  "publishedAt": "2026-07-27T20:55:03.000Z",
+  "id": "financial-times-e844ec31",
+  "slug": "financial-times-e844ec31",
+  "content": "Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres",
+  "fetchedAt": "2026-07-28T00:53:24.611Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "随着 AI 支出飙升，大型科技公司信用风险急剧上升",
+  "chineseSummary": "投资者越来越担心为数据中心巨额投资而大量借贷的情况",
+  "chineseContent": "投资者越来越担心为数据中心巨额投资而大量借贷的情况",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

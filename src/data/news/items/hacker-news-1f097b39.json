@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Our position on open-weights models",
+  "summary": "389 points · 505 comments",
+  "content": "A post by Dario Amodei, Anthropic CEO\n\nOver the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights models, and some people have even accused Anthropic of wanting to ban open-weights models as a means of protecting our business. Anyone who has read my past writing should know that I don’t regard such bans as a useful measure, but let me state it clearly so that there is no doubt: Anthropic has never advocated for a ban on open-weights models.\n\nOpen-weights models that don’t have dangerous capabilities are a public good: they don’t cost anything besides the compute needed to run them, and they provide value to businesses, developers, and researchers.\n\nProtectionist bans would not address my most serious national security concerns. Specifically, I am worried about two nightmare scenarios. I laid these out in my essay The Adolescence of Technology six months ago 1 , and have held these positions consistently for many years:\n\nTo address these concerns, I do support the following three measures, which I and Anthropic have consistently advocated for:\n\nThis brings me to the open letter . I agree with much of it: open weights expand access to the AI economy, they strengthen competition at least for some use cases, and they give customers greater control. Concerns about distillation should be addressed through targeted legal and commercial frameworks—the same measure I described above. But I don’t agree with the letter’s assertions that open-weights models necessarily make it easier to develop safeguards or that broad access to capabilities necessarily helps defenders more than attackers. It seems at least as likely to me that the opposite will be true. For example, I worry that biology will have a strong attacker-defender asymmetry, where sufficiently capable models may be able to quickly weaponize pandemic-level viruses with widely available materials, whereas defense against these agents is a multi-year operational task in the best case (as we saw with Operation Warp Speed) 5 . Questions like this should be empirically answered by rigorous pre-release testing, not assumed in advance.\n\nTo summarize my and Anthropic’s position, we have not and are not advocating for a ban on open-weights models as a category. We should instead focus on keeping powerful chips out of authoritarian hands, stopping industrial-scale distillation, and requiring safety testing of all sufficiently capable models, open and closed.",
+  "url": "https://www.anthropic.com/news/position-open-weights-models",
+  "publishedAt": "2026-07-27T22:03:49.000Z",
+  "points": 389,
+  "id": "hacker-news-1f097b39",
+  "slug": "hacker-news-1f097b39",
+  "fetchedAt": "2026-07-28T00:53:24.601Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我们对开放重量模型的立场",
+  "chineseSummary": "389 分 · 505 条评论",
+  "chineseContent": "Anthropic 首席执行官 Dario Amodei 的帖子\n\n在过去的几天里，关于开放权重模型的讨论很多，尤其是来自中国的模型。有报道称，一些美国官员正在考虑禁止美国公司使用中国的开放权重模型。作为回应，许多科技公司签署了一封支持开放权重模型的信函，有些人甚至指责 Anthropic 想要禁止开放权重模型作为保护我们业务的手段。任何读过我过去的文章的人都应该知道，我并不认为此类禁令是有用的措施，但让我明确地说一下，以便毫无疑问：Anthropic从未主张禁止开放权重模型。\n\n不具有危险功能的开放权重模型是一种公共产品：除了运行它们所需的计算之外，它们不需要任何成本，并且为企业、开发人员和研究人员提供价值。\n\n保护主义禁令无法解决我最严重的国家安全担忧。具体来说，我担心两个噩梦般的场景。我在六个月前的文章《科技的青春期》1 中阐述了这些观点，并且多年来一直坚持这些立场：\n\n为了解决这些问题，我确实支持我和 Anthropic 一贯倡导的以下三项措施：\n\n这让我想起了这封公开信。我同意其中的大部分观点：开放权重扩大了人工智能经济的准入，至少在某些用例上加强了竞争，并且给予客户更大的控制权。对蒸馏的担忧应该通过有针对性的法律和商业框架来解决——这与我上面描述的措施相同。但我不同意这封信的主张，即开放权重模型必然使开发防护措施变得更容易，或者广泛访问能力必然对防御者比攻击者有更多帮助。至少在我看来，情况恰恰相反。例如，我担心生物学将具有很强的攻击者-防御者不对称性，其中足够强大的模型可能能够利用广泛可用的材料快速将大流行级别的病毒武器化，而在最好的情况下，防御这些代理是一项多年的操作任务（正如我们在“曲速行动”中看到的那样）5。像这样的问题应该通过严格的发布前测试来凭经验回答，而不是提前假设。\n\n总结一下我和 Anthropic 的立场，我们过去没有、现在也不会提倡禁止开放权重模型作为一个类别。相反，我们应该专注于防止强大的芯片落入独裁者手中，停止工业规模的精炼，并要求对所有能力足够的模型（开放式和封闭式）进行安全测试。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

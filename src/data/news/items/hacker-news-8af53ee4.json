@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: FeyNoBg – Automatic background removal model and training library",
+  "summary": "87 points · 21 comments",
+  "content": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data. Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we're open-sourcing NoBg, the Python library we built to train and run it. Try the model here: https://huggingface.co/spaces/feyninc/feynobg . Check out the library here: https://github.com/feyninc/nobg Some sample outputs: (1) Soccer Freekick: https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q... (2) Hair in wind: https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLL... (3) Bicycle with visible spokes: https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZ... (4) Live Demo video: https://youtu.be/b1heHPvY8BM Background removal separates an image's subject from its surrounding. We've all tried it at some point. Often it is to reuse the subject in a different artifact. Nowadays, it is common to make chat stickers out of it. It is one of the most common but under-appreciated uses of AI. It is also surprisingly complex. Models can be easily confused by camouflage, motion blur, or fine structures like hair. The task requires two skills. First, a model has to identify the foreground. Second, it has to trace the foreground’s boundary and estimate an opacity value for each pixel. Generally, these skills are taught with different datasets. That creates a failure point. A poor training mix can improve one skill at the expense of the other. We saw this in our controlled evaluation. A training run with just the MaskFactory dataset improved on the CAMO benchmark but regressed on DIS5K. For FeyNoBg, we took an interpretability-first approach to training. We first studied how BiRefNet’s stages contribute to finding the foreground and reconstructing its boundary. We discovered that the third stage of it's feature extractor holds a lot of information. Both localization and boundary reconstruction depend heavily on the feature map produced here. This led us to expand this stage from 18 to 24 blocks while preserving the pre-trained weights. We then trained FeyNoBg on 26.1K diverse examples assembled from 10 datasets. The goal was to improve foreground identification and boundary precision without sacrificing either one. Across eight benchmarks, FeyNoBg achieves the best published score on four and comes within 2% of the leader on the rest. Building FeyNoBg also exposed a tooling problem. Image matting models are usually released as isolated repositories with incompatible preprocessing, training, and evaluation code. We built NoBg to solve this. NoBg puts these workflows behind one Python interface. It supports BiRefNet today, with more architectures coming. We hope you build something exciting with it! Happy to answer any questions!",
+  "url": "https://usefeyn.com/blog/feynobg/",
+  "publishedAt": "2026-07-27T16:59:08.000Z",
+  "points": 87,
+  "id": "hacker-news-8af53ee4",
+  "slug": "hacker-news-8af53ee4",
+  "fetchedAt": "2026-07-28T00:53:24.602Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 8,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：FeyNoBg – 自动背景去除模型和训练库",
+  "chineseSummary": "87 分 · 21 条评论",
+  "chineseContent": "嘿 HN，我是来自 Feyn 的 Shreyash。我们帮助公司根据他们的数据构建定制模型。今天，我们发布了 FeyNoBg，一个自动背景去除模型。除此之外，我们还开源了 NoBg，这是我们为训练和运行它而构建的 Python 库。尝试这里的模型：https://huggingface.co/spaces/feyninc/feynobg。在此处查看库：https://github.com/feyninc/nobg 一些示例输出：(1) 足球任意球：https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q...(2) 风中的头发：https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLL...(3)带有可见辐条的自行车：https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZ... (4) 现场演示视频：https://youtu.be/b1heHPvY8BM 背景去除将图像的主体与其周围环境分开。我们都曾在某个时候尝试过。通常是在不同的工件中重用该主题。如今，用它制作聊天贴纸很常见。这是人工智能最常见但未被充分重视的用途之一。它也非常复杂。模型很容易被伪装、运动模糊或头发等精细结构所迷惑。该任务需要两种技能。首先，模型必须识别前景。其次，它必须跟踪前景的边界并估计每个像素的不透明度值。一般来说，这些技能是通过不同的数据集来教授的。这会产生一个故障点。糟糕的培训组合可能会提高一项技能，但会牺牲另一项技能。我们在受控评估中看到了这一点。仅使用 MaskFactory 数据集进行的训练在 CAMO 基准上有所改进，但在 DIS5K 上有所回归。对于 FeyNoBg，我们采取了可解释性优先的训练方法。我们首先研究了 BiRefNet 的阶段如何有助于寻找前景并重建其边界。我们发现第三个",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

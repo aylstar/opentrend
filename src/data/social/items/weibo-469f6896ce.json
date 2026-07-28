@@ -1,0 +1,21 @@
+{
+  "id": "weibo-469f6896ce",
+  "slug": "weibo-金鹰奖-提名名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "金鹰奖 提名名单",
+  "summary": "微博热榜第 6 位：金鹰奖 提名名单，当前热度为 80万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96+%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23",
+  "hotValue": "80万热度",
+  "author": "",
+  "publishedAt": "2026-07-28T00:49:44.543Z",
+  "fetchedAt": "2026-07-28T00:54:04.042Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

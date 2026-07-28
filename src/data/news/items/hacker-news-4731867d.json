@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Self-contained highly-portable Python distributions",
+  "summary": "108 points · 21 comments",
+  "content": "This project produces self-contained, highly-portable Python distributions. These Python distributions contain a fully-usable, full-featured Python installation: most extension modules from the Python standard library are present and their library dependencies are either distributed with the distribution or are statically linked.\n\nThe Python distributions are built in a manner to minimize run-time dependencies. This includes limiting the CPU instructions that can be used and limiting the set of shared libraries required at run-time. The goal is for the produced distribution to work on any system for the targeted architecture.\n\nSome distributions ship with their build artifacts (object files, libraries, etc) along with rich metadata describing the distribution and how it was assembled. The build artifacts can be recombined by downstream repackagers to derive a custom Python distribution, possibly without certain features like SQLite and OpenSSL. This is useful for embedding Python in a larger binary. See the PyOxidizer sister project for such a downstream repackager.\n\nMany users of these distributions might be better served by the PyOxy sister project. PyOxy takes these Python distributions and adds some Rust code for enhancing the functionality of the Python interpreter. The official PyOxy release binaries are single file executables providing a full-featured Python interpreter.",
+  "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+  "publishedAt": "2026-07-27T18:43:31.000Z",
+  "points": 108,
+  "id": "hacker-news-4731867d",
+  "slug": "hacker-news-4731867d",
+  "fetchedAt": "2026-07-28T00:53:24.602Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "独立的高度可移植的 Python 发行版",
+  "chineseSummary": "108 分 · 21 条评论",
+  "chineseContent": "该项目生成独立的、高度可移植的 Python 发行版。这些 Python 发行版包含完全可用、功能齐全的 Python 安装：Python 标准库中的大多数扩展模块都存在，并且它们的库依赖项要么随发行版一起分发，要么静态链接。\n\nPython 发行版的构建方式可以最大限度地减少运行时依赖性。这包括限制可以使用的 CPU 指令以及限制运行时所需的共享库集。目标是使生成的发行版能够在目标架构的任何系统上运行。\n\n一些发行版附带了它们的构建工件（目标文件、库等）以及描述发行版及其组装方式的丰富元数据。下游重新打包程序可以重新组合构建工件，以派生自定义 Python 发行版，可能没有 SQLite 和 OpenSSL 等某些功能。这对于将 Python 嵌入到更大的二进制文件中非常有用。有关此类下游重新打包程序，请参阅 PyOxidizer 姊妹项目。\n\nPyOxy 姊妹项目可能会为这些发行版的许多用户提供更好的服务。 PyOxy 采用这些 Python 发行版并添加了一些 Rust 代码以增强 Python 解释器的功能。官方 PyOxy 发布的二进制文件是单文件可执行文件，提供全功能的 Python 解释器。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

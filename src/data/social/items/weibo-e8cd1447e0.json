@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e8cd1447e0",
+  "slug": "weibo-美股",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "美股",
+  "summary": "微博热榜第 1 位：美股，当前热度为 142万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%23",
+  "hotValue": "142万热度",
+  "author": "",
+  "publishedAt": "2026-07-28T00:49:44.543Z",
+  "fetchedAt": "2026-07-28T00:54:04.042Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
