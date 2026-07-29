@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "qsa.sh",
+  "summary": "External security scan of your own IP, in your terminal Discussion | Link",
+  "url": "https://www.producthunt.com/products/qsa-sh-quick-security-audit",
+  "publishedAt": "2026-07-26T14:49:30.000Z",
+  "id": "product-hunt-16191136",
+  "slug": "product-hunt-16191136",
+  "content": "Run curl qsa.sh for a one-command external security scan of your server's own public IP — naabu, nmap + vulners, and nuclei map your open ports, service versions, and known CVEs, streamed straight to your terminal in ~30 seconds. See exactly what the internet sees of your host: no account, nothing stored. Free scans run live; paid Pro (all 65,535 ports, async) and one-time Deep (the full nuclei firehose, emailed) dig deeper uncovering vulnerabilities below the surface.",
+  "fetchedAt": "2026-07-29T00:15:04.569Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "qsa.sh",
+  "chineseSummary": "在您的终端中对您自己的 IP 进行外部安全扫描 讨论 |关联",
+  "chineseContent": "运行curl qsa.sh，对服务器自己的公共IP进行一命令外部安全扫描——naabu、nmap +漏洞和nuclei映射您的开放端口、服务版本和已知的CVE，在大约30秒内直接传输到您的终端。准确查看互联网上您主机的情况：没有帐户，没有存储任何内容。免费扫描实时运行；付费 Pro（所有 65,535 个端口，异步）和一次性 Deep（完整的 nuclei firehose，通过电子邮件发送）深入挖掘，发现表面之下的漏洞。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

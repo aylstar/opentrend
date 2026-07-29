@@ -8,12 +8,12 @@
   "language": "HTML",
   "githubUrl": "https://github.com/hasaneyldrm/exercises-dataset",
   "docsUrl": "",
-  "stars": 17209,
-  "forks": 2113,
-  "openIssues": 35,
+  "stars": 17621,
+  "forks": 2148,
+  "openIssues": 36,
   "license": "NOASSERTION",
   "pushedAt": "2026-07-16T06:50:42Z",
-  "updatedAt": "2026-07-28T00:52:09Z",
+  "updatedAt": "2026-07-29T00:14:46Z",
   "createdAt": "2026-03-18T03:07:18Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n# 💪 Exercises Dataset\n\n<p>\n  <img src=\"videos/0025-EIeI8Vf.gif\" width=\"120\" alt=\"barbell bench press\" />\n  <img src=\"videos/0043-qXTaZnJ.gif\" width=\"120\" alt=\"barbell full squat\" />\n  <img src=\"videos/0032-ila4NZS.gif\" width=\"120\" alt=\"barbell deadlift\" />\n  <img src=\"videos/0652-lBDjFxJ.gif\" width=\"120\" alt=\"pull-up\" />\n  <img src=\"videos/0294-NbVPDMW.gif\" width=\"120\" alt=\"dumbbell biceps curl\" />\n  <img src=\"videos/0334-DsgkuIt.gif\" width=\"120\" alt=\"dumbbell lateral raise\" />\n</p>\n\n**A comprehensive, ready-to-use fitness exercise dataset with 1,324 exercises — each with an animation GIF, 180×180 thumbnail image, category, body-part, equipment, target and muscle-group data, and step-by-step instructions in 10 languages (English, Spanish, Italian, Turkish, Russian, Chinese, Hindi, Polish, Korean, French).**\n\n[![Exercises](https://img.shields.io/badge/Exercises-1324-blue?style=flat-square)](data/exercises.json)\n[![Animation GIFs](https://img.shields.io/badge/Animation%20GIFs-1324-brightgreen?style=flat-square)](videos/)\n[![Thumbnails](https://img.shields.io/badge/Thumbnails-1324-orange?style=flat-square)](images/)\n[![Languages](https://img.shields.io/badge/Languages-10-green?style=flat-square)](#-overview)\n[![Mobile App](https://img.shields.io/badge/App-LogPress-111111?style=flat-square&logo=react)](https://github.com/hasaneyldrm/logpress-public)\n[![License](https://img.shields.io/badge/License-MIT%20%2B%20media%20terms-blue?style=flat-square)](LICENSE)\n\n</div>\n\n> **📱 Powers the [LogPress](https://github.com/hasaneyldrm/logpress-public) app** — an AI-assisted workout tracker; this dataset is its exercise data layer. Building your own fitness app? Drop it straight into your backend.\n\n---\n\n## 📦 Data Source\n\n**This repository provides:**\n\n- 1,324 exercises with category, body-part, equipment, target and muscle-group data\n- an animation GIF + 180×180 thumbnail for every exercise (media © [Gym visual](https://gymvisual.com/) — see [License](#-license--use))\n- step-by-step instructions in 10 languages (🇬🇧 English, 🇪🇸 Spanish, 🇮🇹 Italian, 🇹🇷 Turkish, 🇷🇺 Russian, 🇨🇳 Chinese, 🇮🇳 Hindi, 🇵🇱 Polish, 🇰🇷 Korean, 🇫🇷 French)\n- the interactive browser (`index.html`) and developer setup guide (`setup.html`)\n\n---\n\n## 📋 Table of Contents\n\n- [Data Source](#-data-source)\n- [Overview](#-overview)\n- [Interactive Browser & Developer Setup](#-interactive-browser--developer-setup)\n- [File Structure](#-file-structure)\n- [Statistics](#-statistics)\n- [Data Schema](#-data-schema)\n- [Sample Exercises](#-sample-exercises)\n- [Usage Examples](#-usage-examples)\n- [License & Use](#-license--use)\n\n---\n\n## 🔍 Overview\n\nThis dataset is a curated collection of **1,324 fitness exercises** for educational and research purposes. It covers a wide range of muscle groups, equipment types, and exercise categories — making it ideal for:\n\n- Building fitness or workout planning applications\n- Machine learning projects involving exercise recognition or ",
-  "generatedAt": "2026-07-28T00:53:12.197Z",
+  "generatedAt": "2026-07-29T00:14:51.622Z",
   "analysis": {
     "oneLine": "exercises-dataset 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "exercises-dataset 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，exercises-dataset 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 17,209，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 HTML 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，exercises-dataset 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 17,621，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 HTML 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

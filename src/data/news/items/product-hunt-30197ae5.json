@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Liminal",
+  "summary": "A workspace & 2nd brain for you, your agent, and your team Discussion | Link",
+  "url": "https://www.producthunt.com/products/liminal-4",
+  "publishedAt": "2026-07-27T13:10:57.000Z",
+  "id": "product-hunt-30197ae5",
+  "slug": "product-hunt-30197ae5",
+  "content": "Your agent writes files locally in markdown and HTML, the formats it already speaks. Liminal renders them as clean UI instantly and syncs to your team in real time. Share a link and everyone sees the same live workspace, editable in the browser. No sending markdown over Slack, no hosting your own HTML, no waiting on Google Drive. No MCP calls, no proprietary formats, no wasted tokens. Over time, it becomes a shared second brain for your team and every agent working with you.",
+  "fetchedAt": "2026-07-29T00:15:04.569Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "阈限",
+  "chineseSummary": "为您、您的代理和您的团队提供工作空间和第二大脑关联",
+  "chineseContent": "您的代理以 Markdown 和 HTML（它已经使用的格式）在本地编写文件。 Liminal 立即将它们呈现为干净的 UI，并实时同步到您的团队。共享链接，每个人都可以看到相同的实时工作区，并且可以在浏览器中进行编辑。无需通过 Slack 发送 Markdown，无需托管自己的 HTML，无需在 Google Drive 上等待。没有 MCP 调用，没有专有格式，没有浪费的令牌。随着时间的推移，它会成为您的团队以及与您合作的每个代理的共享第二大脑。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

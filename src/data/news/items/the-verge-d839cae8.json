@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The US is banning foreign robots",
+  "summary": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited […]",
+  "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+  "publishedAt": "2026-07-28T22:37:53.000Z",
+  "id": "the-verge-d839cae8",
+  "slug": "the-verge-d839cae8",
+  "content": "The US government is targeting China with a new import ban on “advanced robotic devices” and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include “mobile” robots, such as humanoid and quadruped models — but it is not limited to robots that walk around. Though the FCC says the move isn’t targeted at a specific country, it will have a major impact on China as the country ramps up efforts to produce humanoid robots, some of which we’ve seen in viral videos stumbling to Michael Jackson, partaking in MMA fights, and even appearing on America’s Got Talent. Meanwhile, in the US, Tesla has discontinued its Model S and Model X vehicles to make room for its Optimus humanoid robot production. China is also home to the world’s leading power inverter producers — Sungrow and the already-blacklisted Huawei — which are often used in solar panel arrays and other renewable energy systems. In its announcement, the FCC cites “unacceptable risks to the national security of the United States or the safety and security of United States persons” as the reason for the ban. A FAQ page published by the FCC defines an “advanced robotic device” as a machine that is capable of “locomotion, obstacle avoidance, navigation, or movement on the ground;” comes with a sensor that perceives the surrounding environment; and has a chip for network connectivity. It must also weigh more than 4.4 pounds (including its docking station, if it has one). By that definition, even future robot vacuums would automatically be banned if they do not obtain a waiver. The FCC does not appear to be limiting this ban to robots with legs. In fact, the National Security Determination that the FCC is using to justify the move explicitly mentions The Verge’s reporting on the poor security of DJI’s Romo robovac. Similar to the US government’s ban on foreign-made routers, companies can request a waiver if they want to keep bringing new products into the US, but the waiver application does not include any requirements to improve the security of those robots or inverters. Existing products in the US also won’t be subject to the ban, so individuals and companies can keep on using existing robots and inverters.&nbsp; Like previously, the US government seems to care primarily about where these devices are designed and manufactured before they get a waiver — and every applicant needs to provide a detailed plan to start manufacturing them in the United States instead. Sources tell Reuters that the FCC “is expected to exempt many non-Chinese suppliers from the restrictions.” The FCC says today that all robots and power inverters can keep getting security and compatibility updates through January 1st, 2029 thanks to an additional waiver, but the agency is once again misleading the public about how those updates work. Companies do not currently need to inform the FCC when they push security updates to their devices.",
+  "fetchedAt": "2026-07-29T00:15:04.570Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美国禁止外国机器人",
+  "chineseSummary": "据路透社早些时候报道，美国政府针对中国对外国制造的“先进机器人设备”和电源逆变器实施新的进口禁令。美国联邦通信委员会在周二的一份声明中表示，该禁令将包括“移动”机器人，例如人形和四足模型 - 但并不限于 [...]",
+  "chineseContent": "据路透社早些时候报道，美国政府针对中国对外国制造的“先进机器人设备”和电源逆变器实施新的进口禁令。美国联邦通信委员会在周二的一份声明中表示，该禁令将包括“移动”机器人，例如人形和四足模型，但不仅限于四处走动的机器人。尽管美国联邦通信委员会表示此举并不针对特定国家，但随着中国加大力度生产人形机器人，这将对中国产生重大影响，我们在病毒视频中看到其中一些机器人与迈克尔·杰克逊绊倒，参加综合格斗比赛，甚至出现在美国达人秀上。与此同时，在美国，特斯拉已停产 Model S 和 Model X 车辆，为其 Optimus 人形机器人生产腾出空间。中国也是世界领先的逆变器生产商——阳光电源和已被列入黑名单的华为——的所在地，这些逆变器通常用于太阳能电池板阵列和其他可再生能源系统。美国联邦通信委员会在其公告中将“对美国国家安全或美国人的安全和保障构成不可接受的风险”作为禁令的理由。 FCC 发布的常见问题解答页面将“先进机器人设备”定义为能够“移动、避障、导航或在地面上移动”的机器；自带传感器，感知周围环境；并有一个用于网络连接的芯片。它还必须超过 4.4 磅（包括其扩展坞，如果有的话）。根据这个定义，即使是未来的机器人吸尘器，如果没有获得豁免，也将自动被禁止。美国联邦通信委员会似乎并未将此禁令限制于有腿的机器人。事实上，FCC 所使用的国家安全决定只是为了",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

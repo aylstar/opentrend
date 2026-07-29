@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/oblien/openship",
   "docsUrl": "https://openship.io",
-  "stars": 8978,
-  "forks": 728,
-  "openIssues": 68,
+  "stars": 9388,
+  "forks": 753,
+  "openIssues": 80,
   "license": "Apache-2.0",
-  "pushedAt": "2026-07-27T23:24:45Z",
-  "updatedAt": "2026-07-28T00:42:43Z",
+  "pushedAt": "2026-07-28T23:14:19Z",
+  "updatedAt": "2026-07-29T00:12:09Z",
   "createdAt": "2026-03-05T20:16:56Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<h1 align=\"center\">Openship</h1>\n\n<p align=\"center\">\n  Open-source, self-hostable deployment platform with built-in CI/CD.<br>\n  Point it at a repo — it builds, ships, routes, and TLS-terminates your app. Drive it from a desktop app, web dashboard, or CLI.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/38817?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-38817\">\n    <img src=\"https://trendshift.io/api/badge/repositories/38817\" alt=\"Trendshift\" width=\"250\" height=\"55\" />\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.npmjs.com/package/openship\"><img src=\"https://img.shields.io/npm/v/openship?color=0b7285&label=npm\" alt=\"npm version\" /></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue\" alt=\"License\" /></a>\n  <a href=\"https://openship.io\"><img src=\"https://img.shields.io/badge/website-openship.io-0b7285\" alt=\"Website\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#quick-start\">Quick Start</a> ·\n  <a href=\"#how-it-works\">How It Works</a> ·\n  <a href=\"#interfaces\">Interfaces</a> ·\n  <a href=\"https://openship.io/docs\">Docs</a> ·\n  <a href=\"CONTRIBUTING.md\">Contributing</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\"><img src=\"https://img.shields.io/badge/lang-English-0b7285\" alt=\"English\" /></a>\n  <a href=\"docs/i18n/README.ar.md\"><img src=\"https://img.shields.io/badge/lang-العربية-555\" alt=\"العربية\" /></a>\n  <a href=\"docs/i18n/README.zh.md\"><img src=\"https://img.shields.io/badge/lang-简体中文-555\" alt=\"简体中文\" /></a>\n  <a href=\"docs/i18n/README.es.md\"><img src=\"https://img.shields.io/badge/lang-Español-555\" alt=\"Español\" /></a>\n  <a href=\"docs/i18n/README.fr.md\"><img src=\"https://img.shields.io/badge/lang-Français-555\" alt=\"Français\" /></a>\n  <a href=\"docs/i18n/README.ja.md\"><img src=\"https://img.shields.io/badge/lang-日本語-555\" alt=\"日本語\" /></a>\n  <a href=\"docs/i18n/README.pt.md\"><img src=\"https://img.shields.io/badge/lang-Português-555\" alt=\"Português\" /></a>\n  <a href=\"docs/i18n/README.de.md\"><img src=\"https://img.shields.io/badge/lang-Deutsch-555\" alt=\"Deutsch\" /></a>\n  <a href=\"docs/i18n/README.tr.md\"><img src=\"https://img.shields.io/badge/lang-Türkçe-555\" alt=\"Türkçe\" /></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/screenshots/screen.png\" alt=\"Openship dashboard\" width=\"800\" />\n</p>\n\n---\n\n## Quick Start\n\nThere's one decision to make first: **how you run Openship itself** (the control plane). Everything else is the same afterwards.\n\n| If you're… | Run Openship as | Where your apps run |\n|---|---|---|\n| **Solo, one machine, no ops** | **Desktop app** | A server you connect over SSH, or Openship Cloud |\n| **A team — or you want push-to-deploy / to host apps on your own box** | **Self-hosted server** (`openship up`) | On that box (Compose mode) — or out to another server / Cloud (bare mode) |\n| **Not interested in running anything** | **Openship Cloud** | Managed sandboxes, zero setup |\n\n> [!TIP]\n> **Solo? Use the desktop app.** It runs Openship's control plane",
-  "generatedAt": "2026-07-28T00:53:09.001Z",
+  "generatedAt": "2026-07-29T00:14:46.309Z",
   "analysis": {
     "oneLine": "openship 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "openship 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，openship 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 8,978，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，openship 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 9,388，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
