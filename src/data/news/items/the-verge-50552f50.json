@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Mark Zuckerberg is planning a big push into personal AI agents",
+  "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do […]",
+  "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+  "publishedAt": "2026-07-29T21:48:07.000Z",
+  "id": "the-verge-50552f50",
+  "slug": "the-verge-50552f50",
+  "content": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday’s Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do to make them viable for users — and how it will convince less technical people to give them a shot: > Soon we will have agents that can work 24/7 on your behalf to help you achieve your goals and improve your life, your health, your relationships, your finances, whatever you want. The first domain that agents have really taken off in is coding. But engineers are more technical and willing to spend time making those agents work, so to build great personal agents, this needs to be a great consumer product that just works out of the box and is easy enough for billions of people to adopt and use. Zuckerberg seems to be trying to differentiate his vision from that of companies like Anthropic and OpenAI, which have invested heavily in agents focused on coding and enterprise work. Google has also made a push into personal AI agents with its Gemini Spark tool, which I found to be very good but to an almost creepy degree, and it’s unclear right now how Meta’s potential agents might compare.&nbsp; However, Meta could have an uphill battle in personal agents. Its AI efforts still lag behind the bigger AI labs. Unlike Google or Microsoft, it doesn’t have ecosystem access to people’s email or documents in the way Google or Microsoft do. And Meta is dealing with a different creep problem right now with smart glasses, and general distrust toward Meta might make people unwilling to use its agents. The company will have more to share about its personal agents “soon,” Zuckerberg said. Earlier in the call, he said that personal agents will be “the foundation for our next wave of products and revenue lines in the months and years ahead.” Zuckerberg also highlighted Meta’s business agents that are available on WhatsApp and Messenger, and he said that more than 1 million businesses are using them every week. The business agents are being rolled out to Instagram as well, Zuckerberg said. Meta’s big move into agents follows the launch of its Muse Spark AI model last quarter, which it recently updated with a 1.1 update that offers better coding capabilities. The company has restructured itself to focus heavily on AI, reportedly moving 7,000 staffers to work on new AI initiatives, though it also laid off about 8,000 people in May. The company is also investing heavily in compute, noting in today’s earnings that it expects to spend $130 to $145 billion in capital expenditures in 2026. Yesterday, it announced that it’s building a 1 gigawatt data center campus in partnership with BlackRock. During the Q2 2026 earnings call, Zuckerberg also said that Instagram now has more than 2 billion daily active users.",
+  "fetchedAt": "2026-07-30T00:52:46.237Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "财经"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "马克·扎克伯格正计划大力推进个人 AI 代理",
+  "chineseSummary": "Meta 全力投入人工智能领域，不久之后，该公司将大力推动个人人工智能代理的发展，这些代理可以代表你做事。在周三的 2026 年第二季度财报电话会议上，首席执行官马克·扎克伯格 (Mark Zuckerberg) 预览了公司如何考虑个人代理以及将做什么的高层愿景 [...]",
+  "chineseContent": "Meta 全力投入人工智能领域，不久之后，该公司将大力推动个人人工智能代理的发展，这些代理可以代表你做事。在周三的 2026 年第二季度财报电话会议上，首席执行官马克·扎克伯格 (Mark Zuckerberg) 预览了公司如何考虑个人代理以及将采取哪些措施使它们对用户可行，以及如何说服技术水平较低的人员尝试使用个人代理的高层愿景：> 很快，我们将拥有可以代表您 24/7 全天候工作的代理，帮助您实现目标并改善您的生活、您的健康、您的人际关系、您的财务状况，无论您想要什么。智能体真正起飞的第一个领域是编码。但工程师技术性更强，愿意花时间让这些代理发挥作用，因此要打造出色的个人代理，这需要成为一款出色的消费产品，开箱即用，并且易于数十亿人采用和使用。扎克伯格似乎试图将他的愿景与 Anthropic 和 OpenAI 等公司的愿景区分开来，这些公司在专注于编码和企业工作的代理上投入了大量资金。谷歌还利用其 Gemini Spark 工具进军个人人工智能领域，我发现该工具非常好，但达到了几乎令人毛骨悚然的程度，目前还不清楚 Meta 的潜在代理会如何比较。  然而，梅塔在个人经纪人方面可能会面临一场艰苦的战斗。它的人工智能工作仍然落后于更大的人工智能实验室。与谷歌或微软不同，它没有像谷歌或微软那样的生态系统访问人们的电子邮件或文档。 Meta 目前正在通过智能眼镜解决另一个令人毛骨悚然的问题，对 Meta 的普遍不信任可能会让人们不愿意使用其代理。扎克伯格表示，该公司“很快”将分享更多有关其私人代理人的信息。早些时候",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

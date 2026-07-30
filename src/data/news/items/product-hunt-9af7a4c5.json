@@ -7,18 +7,18 @@
   "publishedAt": "2026-07-27T23:44:55.000Z",
   "id": "product-hunt-9af7a4c5",
   "slug": "product-hunt-9af7a4c5",
-  "content": "An AI circuit copilot that designs your project and sources the parts automatically — no electrical engineering experience needed. Describe it in plain language, get a verified parts kit, and build it staged from breadboard to soldered perfboard.",
-  "fetchedAt": "2026-07-29T00:15:04.569Z",
+  "content": "Hardware prototyping, as simple as vibe-coding Discussion | Link",
+  "fetchedAt": "2026-07-30T00:52:46.236Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 14,
-  "contentStatus": "article-extracted",
+  "rank": 17,
+  "contentStatus": "fetch-failed",
   "chineseTitle": "易电路",
   "chineseSummary": "硬件原型设计，就像振动编码一样简单 讨论 |关联",
-  "chineseContent": "人工智能电路副驾驶可以设计您的项目并自动采购零件——无需电气工程经验。用简单的语言描述它，获得经过验证的零件套件，并从面包板到焊接穿孔板分阶段构建它。",
+  "chineseContent": "硬件原型设计，就像振动编码一样简单 讨论 |关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

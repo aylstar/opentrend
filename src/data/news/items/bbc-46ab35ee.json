@@ -1,0 +1,26 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Trump considering AI controls after OpenAI hacking incidents",
+  "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+  "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-07-30T00:41:28.000Z",
+  "id": "bbc-46ab35ee",
+  "slug": "bbc-46ab35ee",
+  "content": "The Trump administration has taken a more hands-off approach to AI.\n\nUS President Donald Trump said on Wednesday that his administration is considering asserting more power over artificial intelligence (AI) tools after recent cybersecurity incidents.\n\nAsked about OpenAI's tools being responsible for improperly breaching the private technology of other companies, Trump said: \"We're looking at AI, we're looking at controls, we're also making sure that we lead.\"\n\nIt marks a change of tone for his administration, which has taken a more hands-off approach to the technology.\n\nTrump's comments come after an escalation of not only the apparent hacking capabilities of popular AI tools, but White House threats aimed at competing Chinese tech.\n\nTrump added that while some kind of control around AI tools was on the table, such a move would have to be done carefully.\n\n\"We don't want to restrict them where all of the sudden we come in second to China,\" he said.\n\n\"China has virtually no [AI] controls. It's freewheeling a little bit,\" Trump added.\n\nThe White House has been contacted for additional comment. The BBC has also contacted the Chinese embassy in Washington for comment.\n\nIn the last week, OpenAI has taken responsibility for at least two hacking incidents involving its AI tools acting outside of what they were designed and directed to do.\n\nDuring a trip to Washington on Wednesday, OpenAI's chief executive Sam Altman was asked by a reporter if there were more systems that had been breached by the company's tools.\n\n\"I mean, there could be yeah\", Altman said.\n\nThe US government intervened when Anthropic, OpenAI's main American rival, decided to release to the public a model that it had previously said was too much of a risk to be made widely available.\n\nMeanwhile, in an internal White House memo from April, Trump's senior tech advisor Michael Kratsios accused China's AI firms of \"industrial-scale\" theft of US AI technology. He did so again last week, claiming that the popular Kimi 3 AI model from China's Moonshot AI was developed by stealing information from Anthropic.\n\nThe Chinese government has consistently rejected such accusations.\n\nUS Treasury Secretary Scott Bessent has also warned that Chinese AI firms could face sanctions for such activity. And the Federal Communications Commission this week banned the importation of new foreign-made humanoid robots .\n\nMost AI models being developed in China are open source, meaning they are built and then made freely available online for anyone with the proper computer equipment to download and use.\n\nRecently, executives from most major US tech companies have signed onto public statements of support for open-source models , external .",
+  "fetchedAt": "2026-07-30T00:52:46.225Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "科技",
+    "安全"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 黑客事件后特朗普考虑控制 AI",
+  "chineseSummary": "这标志着他的政府基调的改变，对这项技术采取了更加不干涉的态度。",
+  "chineseContent": "特朗普政府对人工智能采取了更加不干涉的态度。\n\n美国总统唐纳德·特朗普周三表示，在最近的网络安全事件发生后，他的政府正在考虑对人工智能（AI）工具行使更多权力。\n\n当被问及 OpenAI 的工具不当侵犯其他公司的私有技术时，特朗普表示：“我们正在研究人工智能，我们正在研究控制，我们也在确保我们的领先地位。”\n\n这标志着他的政府基调的改变，对这项技术采取了更加不干涉的态度。\n\n特朗普发表此番言论之前，不仅流行人工智能工具的明显黑客能力不断升级，而且白宫还针对中国竞争技术发出了威胁。\n\n特朗普补充说，虽然对人工智能工具的某种控制已经摆在桌面上，但此举必须谨慎行事。\n\n“我们不想限制他们，让我们突然落后于中国，”他说。\n\n“中国几乎没有[人工智能]控制。它有点随心所欲，”特朗普补充道。\n\n已联系白宫征求更多评论。 BBC还联系了中国驻华盛顿大使馆请其置评。\n\n上周，OpenAI 承担了至少两起黑客事件的责任，涉及其人工智能工具的行为超出了其设计和指示的范围。\n\n周三前往华盛顿期间，OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 被记者询问是否还有更多系统被该公司的工具攻破。\n\n“我的意思是，可能是的，”奥特曼说。\n\n当 OpenAI 在美国的主要竞争对手 Anthropic 决定向公众发布一个模型时，美国政府进行了干预，该模型此前曾表示该模型风险太大，无法广泛使用。\n\n与此同时，在 4 月份的一份白宫内部备忘录中，特朗普的高级技术顾问 Michael Kratsios 指责中国的人工智能公司“工业规模”窃取美国人工智能技术。上周他再次这样做，声称中国Moonshot AI流行的Kimi 3人工智能模型是通过窃取Anthropic的信息而开发的。\n\n中国政府一贯否认此类指控。\n\n美国财政部长斯科特·贝森特也警告说，中国人工智能公司可能因此类活动而面临制裁。美国联邦通信委员会本周禁止进口新型外国制造的人形机器人。\n\n中国正在开发的大多数人工智能模型都是开源的，这意味着它们是构建出来的，然后免费在线供任何拥有适当计算机设备的人下载和使用。\n\n最近，美国大多数主要科技公司的高管都签署了支持开源模式的公开声明。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

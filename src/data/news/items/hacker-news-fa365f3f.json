@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Keychron announces first open-source firmware for gaming mice",
+  "summary": "276 points · 102 comments",
+  "content": "ZGM. That's the name of peripheral manufacturer Keychron's upcoming open-source gaming mouse firmware, announced today and planned to release in the first quarter of 2027 for the G6 HE hybrid magnetic switch gaming mouse (pictured above). This model is notable for being one of the first competitors to the Logitech X2 SuperStrike, but custom firmware support would be an impressive second string to its bow.\n\nThe ZGM firmware is essentially a mouse equivalent to the QMK and ZMK projects for mechanical keyboards. If you've never run across these, they're pretty useful - keyboards made using these firmwares can be freely amended with a range of tools, freeing you of the obligation to use only the manufacturer's preferred software and unlocking some advanced functionality. More importantly, the firmware is written to the keyboard's internal memory, so you don't need to have any programs running in the background for things to remain functional.\n\nThe ZGM firmware is intended to offer much the same advantages, but in a space where open-source firmware is far from the norm. The ZGM page is pretty light on details, but it does enshrine some sensible standards - including a focus on low-latency operation, modular layers for different components like sensor, buttons, scroll wheel and lights, and support for a wide range of microcontrollers and both wired and wireless mice.\n\nKeychron was last in the headlines here at Digital Foundry for its open-source keyboard efforts , which saw both firmware and .step CAD files being released to the community. Other manufacturers like analogue keyboard experts Wooting have also released a portion of their work under permissive licenses, but this is far from a common occurrence - I'd never expect to see similar efforts from giants like Razer or Logitech, for example.\n\nIf you're interested, I would suggest having a look at the ZGM GitHub page , which includes details like the GNU General Public License being used, the project's goals and so on. Keychron says that the project is \"currently in its early setup phase\", but it intends for the setup to take place in public and shaped by feedback.\n\nIt'll be interesting to see how ZGM fares once it reaches a releasable state, as QMK quickly became the base-line standard for boutique mechanical keyboards. If ZGM is able to achieve similar levels of success, it would be a huge deal for Keychron and the community as a whole.",
+  "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+  "publishedAt": "2026-07-29T16:36:59.000Z",
+  "points": 276,
+  "id": "hacker-news-fa365f3f",
+  "slug": "hacker-news-fa365f3f",
+  "fetchedAt": "2026-07-30T00:52:46.234Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Keychron 宣布首款游戏鼠标开源固件",
+  "chineseSummary": "276 分 · 102 条评论",
+  "chineseContent": "ZGM。这是外设制造商 Keychron 即将推出的开源游戏鼠标固件的名称，该固件于今天宣布，并计划于 2027 年第一季度针对 G6 HE 混合磁性开关游戏鼠标（如上图所示）发布。该型号因是 Logitech X2 SuperStrike 的首批竞争对手之一而闻名，但定制固件支持将是令人印象深刻的第二根线。\n\nZGM 固件本质上是一个鼠标，相当于机械键盘的 QMK 和 ZMK 项目。如果您从未遇到过这些，它们非常有用 - 使用这些固件制作的键盘可以使用一系列工具自由修改，使您不必仅使用制造商的首选软件并解锁一些高级功能。更重要的是，固件被写入键盘的内部存储器，因此您不需要在后台运行任何程序即可保持功能。\n\nZGM 固件旨在提供大致相同的优势，但在开源固件远非常态的领域。 ZGM 页面的细节非常少，但它确实包含了一些合理的标准 - 包括关注低延迟操作、传感器、按钮、滚轮和灯等不同组件的模块化层，以及对各种微控制器以及有线和无线鼠标的支持。\n\nKeychron 最后一次成为 Digital Foundry 的头条新闻是因为它的开源键盘工作，固件和 .step CAD 文件都被发布到社区。模拟键盘专家 Wooting 等其他制造商也已在许可下发布了他们的部分作品，但这远非常见现象 - 例如，我从未想过会看到 Razer 或 Logitech 等巨头做出类似的努力。\n\n如果您有兴趣，我建议您查看 ZGM GitHub 页面，其中包括正在使用的 GNU 通用公共许可证、该项目的目标等详细信息。 Keychron 表示，该项目“目前处于早期设置阶段”，但它打算在公开场合进行设置并根据反馈进行调整。\n\n随着 QMK 迅速成为精品机械键盘的基准标准，ZGM 达到可发布状态后的表现将会很有趣。如果 ZGM 能够取得类似的成功，对于 Keychron 和整个社区来说将是一件大事。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
