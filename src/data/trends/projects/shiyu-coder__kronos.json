@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/shiyu-coder/Kronos",
   "docsUrl": "https://zdoc.app/de/shiyu-coder/Kronos",
-  "stars": 34970,
-  "forks": 5835,
-  "openIssues": 264,
+  "stars": 35112,
+  "forks": 5857,
+  "openIssues": 255,
   "license": "MIT",
   "pushedAt": "2026-04-13T12:38:49Z",
-  "updatedAt": "2026-07-30T00:20:44Z",
+  "updatedAt": "2026-07-31T00:48:15Z",
   "createdAt": "2025-07-01T02:54:32Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\r\n  <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2>\r\n</div>\r\n\r\n\r\n<div align=\"center\">\r\n\r\n</a> \r\n<a href=\"https://huggingface.co/NeoQuasar\"> \r\n<img src=\"https://img.shields.io/badge/🤗-Hugging_Face-yellow\" alt=\"Hugging Face\"> \r\n</a> \r\n<a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/🚀-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a>\r\n<a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> \r\n<img src=\"https://img.shields.io/github/last-commit/shiyu-coder/Kronos?color=blue\" alt=\"Last Commit\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/stargazers\"> \r\n<img src=\"https://img.shields.io/github/stars/shiyu-coder/Kronos?color=lightblue\" alt=\"GitHub Stars\"> \r\n</a> \r\n<a href=\"https://github.com/shiyu-coder/Kronos/network/members\"> \r\n<img src=\"https://img.shields.io/github/forks/shiyu-coder/Kronos?color=yellow\" alt=\"GitHub Forks\"> \r\n</a> \r\n<a href=\"./LICENSE\"> \r\n<img src=\"https://img.shields.io/github/license/shiyu-coder/Kronos?color=green\" alt=\"License\"> \r\n</a>\r\n\r\n</div>\r\n\r\n<div align=\"center\">\r\n  <!-- Keep these links. Translations will automatically update with the README. -->\r\n  <a href=\"https://zdoc.app/de/shiyu-coder/Kronos\">Deutsch</a> | \r\n  <a href=\"https://zdoc.app/es/shiyu-coder/Kronos\">Español</a> | \r\n  <a href=\"https://zdoc.app/fr/shiyu-coder/Kronos\">Français</a> | \r\n  <a href=\"https://zdoc.app/ja/shiyu-coder/Kronos\">日本語</a> | \r\n  <a href=\"https://zdoc.app/ko/shiyu-coder/Kronos\">한국어</a> | \r\n  <a href=\"https://zdoc.app/pt/shiyu-coder/Kronos\">Português</a> | \r\n  <a href=\"https://zdoc.app/ru/shiyu-coder/Kronos\">Русский</a> | \r\n  <a href=\"https://zdoc.app/zh/shiyu-coder/Kronos\">中文</a>\r\n</div>\r\n\r\n<p align=\"center\">\r\n\r\n<img src=\"./figures/logo.png\" width=\"100\">\r\n\r\n</p>\r\n\r\n> Kronos is the **first open-source foundation model** for financial candlesticks (K-lines), \r\n> trained on data from over **45 global exchanges**.\r\n\r\n\r\n</div>\r\n\r\n## 📰 News\r\n*   🚩 **[2025.11.10]** Kronos has been accpeted by AAAI 2026.\r\n*   🚩 **[2025.08.17]** We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks.\r\n*   🚩 **[2025.08.02]** Our paper is now available on [arXiv](https://arxiv.org/abs/2508.02739)!\r\n\r\n<p align=\"center\">\r\n\r\n## 📜 Introduction\r\n\r\n**Kronos** is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequences. Unlike general-purpose TSFMs, Kronos is designed to handle the unique, high-noise characteristics of financial data. It leverages a novel two-stage framework: \r\n1. A specialized tokenizer first quantizes continuous, multi-dimensional K-line data (OHLCV) into **hierarchical discrete tokens**. \r\n2. A large, autoregressive Transformer is then pre-trained on these tokens, enabling it to serve as a unified model for diverse quantitative tasks.\r\n\r\n<p align=\"center\">\r\n    <img src=\"figures/overview.png\" alt=\"\" align=\"center\" width=\"700px\"",
-  "generatedAt": "2026-07-30T00:52:31.765Z",
+  "generatedAt": "2026-07-31T01:00:22.483Z",
   "analysis": {
     "oneLine": "Kronos 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "Kronos 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，Kronos 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 34,970，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Kronos 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 35,112，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

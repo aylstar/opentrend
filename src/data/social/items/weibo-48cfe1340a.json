@@ -1,0 +1,21 @@
+{
+  "id": "weibo-48cfe1340a",
+  "slug": "weibo-九门爆开",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "九门爆开",
+  "summary": "微博热榜第 10 位：九门爆开，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E9%97%A8%E7%88%86%E5%BC%80%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-07-31T00:53:35.401Z",
+  "fetchedAt": "2026-07-31T01:02:26.034Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

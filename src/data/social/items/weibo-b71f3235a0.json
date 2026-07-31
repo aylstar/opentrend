@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b71f3235a0",
+  "slug": "weibo-王腾买了小米n90max",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "王腾买了小米N90Max",
+  "summary": "微博热榜第 48 位：王腾买了小米N90Max，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3N90Max%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-07-31T00:53:35.401Z",
+  "fetchedAt": "2026-07-31T01:02:26.034Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

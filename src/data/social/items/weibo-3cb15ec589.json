@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3cb15ec589",
+  "slug": "weibo-blg经理否认bin失联",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 43,
+  "title": "BLG经理否认Bin失联",
+  "summary": "微博热榜第 43 位：BLG经理否认Bin失联，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E7%BB%8F%E7%90%86%E5%90%A6%E8%AE%A4Bin%E5%A4%B1%E8%81%94%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-07-31T00:53:35.401Z",
+  "fetchedAt": "2026-07-31T01:02:26.034Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

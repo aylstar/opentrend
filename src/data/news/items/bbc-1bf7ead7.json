@@ -1,0 +1,26 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Anthropic says AI models hacked three firms during tests",
+  "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+  "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-07-31T00:41:45.000Z",
+  "id": "bbc-1bf7ead7",
+  "slug": "bbc-1bf7ead7",
+  "content": "Anthropic chief executive Dario Amodei\n\nUS tech company Anthropic says three of its artificial intelligence (AI) models broke out of isolated test environments and hacked into the systems of three other firms during a cybersecurity exercise.\n\nIt comes just days after rival OpenAI said that its models had breached the systems of other companies , including Hugging Face - a hub for AI tools.\n\nThe announcement prompted Anthropic to check whether its own models had carried out similar attacks. It says it uncovered three cases that have since been reported to the affected companies.\n\nAnthropic, which did not name the firms, urged other AI labs to perform similar reviews to better understand the risks of their models' capabilities.\n\nAnthropic said in a statement , external that it reviewed more than 140,000 tests to find evidence that Claude - its family of AI models - could access the internet from testing environments that were designed to be sealed off.\n\nThe tests include so-called \"capture-the-flag\" evaluations in which Claude was tasked with obtaining information by breaching other systems - a common way that experts assess a model's hacking capabilities.\n\nA \"miscommunication\" on systems run by Anthropic and its testing partner left the models with live internet access, allowing them to breach other systems, the San Francisco-based firm said.\n\nAnthropic added that it is \"approaching the fixes as if the responsibility were ours alone.\"\n\nA string of AI-driven cyberattacks has fuelled calls for tighter safeguards and oversight of the technology, over concerns about the risks posed by increasingly powerful autonomous systems.\n\nUS President Donald Trump said on Wednesday that Washington is considering measures to rein in artificial intelligence tools after recent cybersecurity incidents.",
+  "fetchedAt": "2026-07-31T01:00:37.857Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 表示 AI 模型在测试期间入侵了三家公司",
+  "chineseSummary": "就在几天前，竞争对手 OpenAI 表示，流氓人工智能代理已经侵入了其他公司的网络。",
+  "chineseContent": "Anthropic 首席执行官达里奥·阿莫代 (Dario Amodei)\n\n美国科技公司 Anthropic 表示，其三个人工智能 (AI) 模型在一次网络安全演习中突破了孤立的测试环境，并侵入了其他三家公司的系统。\n\n就在几天前，竞争对手 OpenAI 表示，其模型已经侵入了其他公司的系统，其中包括人工智能工具中心 Hugging Face。\n\n该公告促使 Anthropic 检查其自己的模型是否进行了类似的攻击。该公司表示，已发现三起案件，并已向受影响的公司报告。\n\nAnthropic 没有透露具体公司名称，但敦促其他人工智能实验室进行类似的审查，以更好地了解其模型能力的风险。\n\nAnthropic 在一份外部声明中表示，它审查了超过 140,000 项测试，以找到证据表明 Claude（其人工智能模型家族）可以从设计为封闭的测试环境访问互联网。\n\n这些测试包括所谓的“夺旗”评估，其中克劳德的任务是通过破坏其他系统来获取信息——这是专家评估模型黑客能力的常用方式。\n\n这家总部位于旧金山的公司表示，Anthropic 及其测试合作伙伴运行的系统存在“沟通不畅”，导致模型可以实时访问互联网，从而破坏其他系统。\n\nAnthropic 补充说，它“正在解决问题，就好像责任是我们一个人承担的一样。”\n\n由于担心日益强大的自主系统带来的风险，一系列人工智能驱动的网络攻击引发了对该技术进行更严格的保护和监督的呼声。\n\n美国总统唐纳德·特朗普周三表示，在最近的网络安全事件发生后，华盛顿正在考虑采取措施控制人工智能工具。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

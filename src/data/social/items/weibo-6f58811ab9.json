@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6f58811ab9",
+  "slug": "weibo-显卡全面封仓",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "显卡全面封仓",
+  "summary": "微博热榜第 9 位：显卡全面封仓，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%98%BE%E5%8D%A1%E5%85%A8%E9%9D%A2%E5%B0%81%E4%BB%93%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-07-31T00:53:35.401Z",
+  "fetchedAt": "2026-07-31T01:02:26.034Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google DeepMind’s new AI model can control a robot’s entire body",
+  "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots […]",
+  "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+  "publishedAt": "2026-07-30T17:18:45.000Z",
+  "id": "the-verge-ec5ed39",
+  "slug": "the-verge-ec5ed39",
+  "content": "Google DeepMind says the latest version of its Gemini Robotics AI model can “control entire humanoid robots.” While the previous model focused on controlling a humanoid robot’s upper body, Gemini Robotics 2 now supports “whole-body motions” ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots to perform a wider range of actions, as it allows them to walk, crouch, stretch, and manipulate objects. Videos shared by Google show how Apptronik’s Apollo 2 robot can bend over to pick up a watering can, as well as find and take specific items off a shelf. [Media: https://youtu.be/9MNLEAzA59o?si=02zFLpyUWiebY9dL] Though Google DeepMind notes that its robots “have more to advance in movement speed,” it adds that this update “is an important step towards the skills needed to complete more complex, real-world tasks that require whole-body coordination.” Additionally, Gemini Robotics 2 supports better dexterity, as it can now control more complex, five-fingered hands. That enables robots to perform tasks like sealing a Ziploc, tying a trash bag, or unscrewing a lightbulb. [Media: https://youtu.be/O9-650iHAls?si=E24B2zu3yzrqg2U2] Google DeepMind is updating Gemini Robotics ER (embodied reasoning) as well, a vision-language model that helps robots to analyze their surroundings, process instructions, and perform multi-step tasks. Gemini Robotics ER 2 is better at completing tasks over an extended period of time and “now understands when tasks begin and end.” Google DeepMind says this update also allows multiple robots of different types to work together and complete tasks, with one video showing how Apollo 2 instructs Google’s dual-arm robot to put tools inside a bin while cleaning the garage. [Media: https://youtu.be/CiTPDm7PKW0?si=02Sj7JcvZbvoWvXq] The company notes Gemini Robotics ER 2 is its “safest robotics model to date,” as it can “better detect when humans are nearby, trigger safety tool calls and bring the robot to a safe stop if someone approaches too closely.” Meanwhile, Google DeepMind has brought improvements to its Gemini Robotics On-Device Model, which can run locally on a robot without an internet connection. This model can now adapt to new embodiments faster, including those with “drastically different shapes, sensors and degrees of freedom.”",
+  "fetchedAt": "2026-07-31T01:00:37.868Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌DeepMind的新 AI 模型可以控制机器人的整个身体",
+  "chineseSummary": "谷歌 DeepMind 表示，其 Gemini Robotics 人工智能模型的最新版本可以“控制整个人形机器人”。根据周四发布的公告，虽然之前的模型专注于控制人形机器人的上半身，但 Gemini Robotics 2 现在支持从脚到指尖的“全身运动”。新模型将允许人形机器人[...]",
+  "chineseContent": "谷歌 DeepMind 表示，其 Gemini Robotics 人工智能模型的最新版本可以“控制整个人形机器人”。根据周四的公告，虽然之前的模型专注于控制人形机器人的上半身，但 Gemini Robotics 2 现在支持从脚到指尖的“全身运动”。新模型将允许人形机器人执行更广泛的动作，因为它允许它们行走、蹲伏、伸展和操纵物体。谷歌分享的视频展示了 Apptronik 的 Apollo 2 机器人如何弯腰拿起喷壶，以及如何找到并从架子上拿走特定物品。 [媒体：https://youtu.be/9MNLEAzA59o?si=02zFLpyUWiebY9dL] 尽管 Google DeepMind 指出其机器人“在移动速度方面还有更多进步”，但它补充说，这次更新“是朝着完成更复杂、需要全身协调的现实世界任务所需的技能迈出的重要一步。”此外，Gemini Robotics 2 支持更好的灵活性，因为它现在可以控制更复杂的五指手。这使得机器人能够执行诸如密封密封袋、系垃圾袋或拧开灯泡等任务。 [媒体：https://youtu.be/O9-650iHAls?si=E24B2zu3yzrqg2U2] Google DeepMind 也在更新 Gemini Robotics ER（体现推理），这是一种视觉语言模型，可以帮助机器人分析周围环境、处理指令并执行多步骤任务。 Gemini Robotics ER 2 能够更好地在较长时间内完成任务，并且“现在可以了解任务何时开始和结束”。谷歌 DeepMind 表示，此次更新还允许多个不同类型的机器人协同工作并完成任务，其中一个视频展示了阿波罗 2 号如何指示谷歌的双臂机器人在清洁车库时将工具放入垃圾箱内。 [媒体：https://youtu.be/Ci",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
