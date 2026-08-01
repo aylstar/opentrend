@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3190d88c3d",
+  "slug": "weibo-三大运营商发布公告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "三大运营商发布公告",
+  "summary": "微博热榜第 20 位：三大运营商发布公告，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-01T00:55:05.067Z",
+  "fetchedAt": "2026-08-01T01:01:34.439Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

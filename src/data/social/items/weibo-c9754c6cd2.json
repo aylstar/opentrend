@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c9754c6cd2",
+  "slug": "weibo-张雅琪挑战玩手机",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "张雅琪挑战玩手机",
+  "summary": "微博热榜第 16 位：张雅琪挑战玩手机，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E6%8C%91%E6%88%98%E7%8E%A9%E6%89%8B%E6%9C%BA%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-01T00:55:05.067Z",
+  "fetchedAt": "2026-08-01T01:01:34.439Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

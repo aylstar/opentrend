@@ -7,18 +7,18 @@
   "publishedAt": "2026-07-30T02:31:47.000Z",
   "id": "product-hunt-390b6106",
   "slug": "product-hunt-390b6106",
-  "content": "Your personal assistant that lives in your texts Discussion | Link",
-  "fetchedAt": "2026-07-31T01:00:37.867Z",
-  "score": 79,
+  "content": "Pally is an AI personal assistant you reach over iMessage, RCS, and even on the phone. Unlike other iMessage agents, we connect directly to your iMessage and WhatsApp inboxes, because thats where your life really lives. Pally learns quickly how it can help you, and deploys end-to-end workflows to automate your most manual tasks.",
+  "fetchedAt": "2026-08-01T01:00:23.530Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 2,
-  "contentStatus": "fetch-failed",
+  "rank": 16,
+  "contentStatus": "article-extracted",
   "chineseTitle": "帕利",
   "chineseSummary": "存在于您的文本中的您的私人助理 讨论 |关联",
-  "chineseContent": "存在于您的文本中的您的私人助理 讨论 |关联",
+  "chineseContent": "Pally 是一款人工智能个人助理，您可以通过 iMessage、RCS 甚至电话联系。与其他 iMessage 代理不同，我们直接连接到您的 iMessage 和 WhatsApp 收件箱，因为那才是您真正的生活所在。 Pally 可以快速了解它如何为您提供帮助，并部署端到端工作流程来自动执行大多数手动任务。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google Earth’s AI deepfake tool only lasted one day",
+  "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]",
+  "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+  "publishedAt": "2026-07-31T19:13:29.000Z",
+  "id": "the-verge-2ac1d36d",
+  "slug": "the-verge-2ac1d36d",
+  "content": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging’s Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border and a bomb crater by a hospital in Gaza. On Thursday, Google’s initial response to van Ess noted that images generated with Nano Banana 2 in Google Earth included a digital watermark and that the company prevented “image creation on harmful topics.” One day later, Google’s new statement says that “We know that people uniquely trust Google Earth for a reliable view of the world. We’ve seen geospatial professionals using this feature for a range of useful purposes, however we’ve also seen people sharing screenshots of generated imagery that appear to violate our policies. So we’re rolling back this feature in Google Earth while we work on implementing stronger guardrails. It’s important to note that generated images didn’t appear in the main Google Earth experience for others to see and were watermarked as AI generated.” van Ess pointed out that he was able to fool Hive’s AI detection tool with a video generated in Google Earth, showing how the generated media could spread despite the watermarks, and said in his testing, “Nothing was refused, nothing was softened, and nothing suggested I try a different prompt.”",
+  "fetchedAt": "2026-08-01T01:00:23.532Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌地球的 AI Deepfake工具只持续了一天",
+  "chineseSummary": "谷歌已经关闭了周四推出的谷歌地球功能，该功能允许用户使用人工智能编辑带有文本提示的卫星图像。该工具本质上是让用户使用文本提示创建现实世界的人工智能深度赝品；例如，Digital Digging 的 Henk van Ess 故意生成图像，添加墨西哥边境附近的难民等内容 […]",
+  "chineseContent": "谷歌已经关闭了周四推出的谷歌地球功能，该功能允许用户使用人工智能编辑带有文本提示的卫星图像。该工具本质上是让用户使用文本提示创建现实世界的人工智能深度赝品；例如，Digital Digging 的 Henk van Ess 有意生成图像，添加了墨西哥边境附近的难民和加沙一家医院旁的炸弹坑等内容。周四，谷歌对 van Ess 的初步回应指出，谷歌地球中使用 Nano Banana 2 生成的图像包含数字水印，并且该公司阻止“有害主题的图像创建”。一天后，谷歌的新声明表示，“我们知道，人们唯一信任谷歌地球能够提供可靠的世界视图。我们已经看到地理空间专业人士将这一功能用于一系列有用的目的，但我们也看到人们分享了似乎违反我们政策的生成图像的屏幕截图。因此，我们在谷歌地球中回滚这一功能，同时我们致力于实施更强大的护栏。值得注意的是，生成的图像并没有出现在主要的谷歌地球体验中供其他人查看，并且被其他人看到。人工智能生成时带有水印。” van Ess 指出，他能够用 Google Earth 中生成的视频欺骗 Hive 的人工智能检测工具，展示生成的媒体如何在有水印的情况下传播，并在测试中表示，“没有任何内容被拒绝，没有任何内容被软化，也没有任何内容建议我尝试不同的提示。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

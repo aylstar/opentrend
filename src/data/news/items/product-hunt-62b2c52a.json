@@ -1,0 +1,27 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "TraceLLM",
+  "summary": "OpenTelemetry for production AI applications Discussion | Link",
+  "url": "https://www.producthunt.com/products/tracellm",
+  "publishedAt": "2026-07-29T14:43:16.000Z",
+  "id": "product-hunt-62b2c52a",
+  "slug": "product-hunt-62b2c52a",
+  "content": "Tracellm is an observability platform for production AI applications. Monitor prompt execution, token consumption, latency, spans, errors, and model calls across your LLM workflows. Export traces using OpenTelemetry (OTLP) and quickly identify bottlenecks before they impact users",
+  "fetchedAt": "2026-08-01T01:00:23.530Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "追踪法学硕士",
+  "chineseSummary": "用于生产 AI 应用程序的 OpenTelemetry 讨论 |关联",
+  "chineseContent": "Tracellm 是一个用于生产人工智能应用程序的可观察平台。监控 LLM 工作流程中的提示执行、令牌消耗、延迟、跨度、错误和模型调用。使用 OpenTelemetry (OTLP) 导出跟踪并在瓶颈影响用户之前快速识别瓶颈",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

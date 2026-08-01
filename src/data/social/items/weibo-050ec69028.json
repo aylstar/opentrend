@@ -1,0 +1,21 @@
+{
+  "id": "weibo-050ec69028",
+  "slug": "weibo-房主任致歉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "房主任致歉",
+  "summary": "微博热榜第 24 位：房主任致歉，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%87%B4%E6%AD%89%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-08-01T00:55:05.067Z",
+  "fetchedAt": "2026-08-01T01:01:34.439Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

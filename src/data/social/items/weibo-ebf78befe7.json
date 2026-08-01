@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ebf78befe7",
+  "slug": "weibo-建军节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "建军节",
+  "summary": "微博热榜第 33 位：建军节，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E5%86%9B%E8%8A%82%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-08-01T00:55:05.067Z",
+  "fetchedAt": "2026-08-01T01:01:34.440Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

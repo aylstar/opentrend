@@ -1112,3 +1112,17 @@
 {"type":"public_translation_error","at":"2026-07-31T01:01:48.593Z","id":"bloomberg-68dc86fa","error":"500 Internal Server Error"}
 {"type":"public_translation_error","at":"2026-07-31T01:01:50.245Z","id":"bloomberg-5eeafaf5","error":"500 Internal Server Error"}
 {"type":"news_report_generated","at":"2026-07-31T01:02:24.089Z","date":"2026-07-31","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-08-01T01:00:23.514Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:23.949Z","id":"product-hunt-64f32772","source":"Product Hunt","url":"https://www.producthunt.com/products/witr","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:25.168Z","id":"product-hunt-5d79effe","source":"Product Hunt","url":"https://www.producthunt.com/products/poth-labs","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:25.173Z","id":"product-hunt-9f95ff8b","source":"Product Hunt","url":"https://www.producthunt.com/products/depthdata","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:27.574Z","id":"financial-times-c709170e","source":"Financial Times","url":"https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:27.575Z","id":"financial-times-3eebce02","source":"Financial Times","url":"https://www.ft.com/content/c167fb1b-69c3-4df0-9126-1e0af678f924?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:27.579Z","id":"financial-times-eff4d65d","source":"Financial Times","url":"https://www.ft.com/content/395afe31-3c86-4911-af05-54ca5aa2d41b?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:27.661Z","id":"financial-times-cc2de794","source":"Financial Times","url":"https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:28.660Z","id":"investing-77213b7c","source":"Investing","url":"https://www.investing.com/analysis/rising-interest-rates-threaten-market-recovery-despite-strong-earnings-200684998","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-01T01:00:28.664Z","id":"investing-8fd23b5d","source":"Investing","url":"https://www.investing.com/analysis/why-the-fed-and-bank-of-england-held-rates-amid-the-energy-shock-200684931","error":"403 Forbidden"}
+{"type":"public_translation_error","at":"2026-08-01T01:00:31.307Z","id":"guardian-ad320985","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-08-01T01:00:32.374Z","id":"bbc-84e11b2b","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-08-01T01:00:42.777Z","id":"guardian-5a52fdea","error":"500 Internal Server Error"}
+{"type":"news_report_generated","at":"2026-08-01T01:01:32.798Z","date":"2026-08-01","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

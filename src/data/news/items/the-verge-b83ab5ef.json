@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The major labels propose rules to keep AI slop off the charts",
+  "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+  "publishedAt": "2026-07-31T16:36:48.000Z",
+  "id": "the-verge-b83ab5ef",
+  "slug": "the-verge-b83ab5ef",
+  "content": "Several record labels, including the big three — Universal Music Group, Sony Music, and Warner Music Group — have proposed rules regarding chart eligibility for AI songs. In short, they wouldn’t be.&nbsp; The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry (IFPI), SAG-AFTRA, and others. That would create a set of standardized labels for AI-generated and AI-assisted music. The labels’ proposal would require songs be clearly labeled, but it would also keep them off international charts unless they met specific criteria, including being “substantially human made.”&nbsp; To be eligible, the songs would also have to respect the terms of service of whatever AI service was used, the model would have to have the rights to any data it was trained on, and “not raise stream or chart manipulation concerns.” What sort of concerns and what constitutes “substatially human made” are currently vague. Sony Music, UMG, and Mom+Pop Music did not immediately respond to a request for clarification. The IFPI has thrown its weight behind the labels’ proposal, though no charting organization has signaled any immediate plan to adopt the rules, the full list of which are: > Recordings developed with generative AI services must not be included in official charts where there is reason to believe that they do not satisfy all of the following criteria: > Any generative AI services used to develop the recording are properly authorised and lawful. > They are substantially human made. > They do not raise stream or chart manipulation concerns. > They comply with applicable laws, including those relating to copyright, related rights, and personality rights. > The making available of the recordings does not breach the terms of the generative AI service used. > The use of generative AI services to develop the recording is appropriately signalled to consumers on downstream services (e.g., digital streaming platforms), in accordance with any applicable legislation and/or industry labelling standards.",
+  "fetchedAt": "2026-08-01T01:00:23.532Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "主要唱片公司提出规则以防止 AI 在排行榜上失势",
+  "chineseSummary": "多家唱片公司，包括三巨头——环球音乐集团、索尼音乐和华纳音乐集团——已经提出了有关人工智能歌曲上榜资格的规则。简而言之，他们不会。该提案比国际唱片业协会 RIAA 提出的标签提案更进一步 […]",
+  "chineseContent": "多家唱片公司，包括三巨头——环球音乐集团、索尼音乐和华纳音乐集团——已经提出了有关人工智能歌曲上榜资格的规则。简而言之，他们不会。  该提案比 RIAA、国际唱片业联合会 (IFPI)、SAG-AFTRA 等机构提出的标签提案更进一步。这将为人工智能生成和人工智能辅助的音乐创建一套标准化标签。唱片公司的提议将要求歌曲被明确标记，但这也将使它们远离国际排行榜，除非它们符合特定标准，包括“基本上是人造的”。  为了符合资格，这些歌曲还必须尊重所使用的任何人工智能服务的服务条款，该模型必须拥有对其训练的任何数据的权利，并且“不会引起流或图表操纵问题”。什么样的担忧以及什么构成“基本上是人为的”目前还很模糊。索尼音乐、UMG 和 Mom+Pop Music 没有立即回应澄清请求。 IFPI 大力支持唱片公司的提议，但没有任何制图组织表示任何立即采用这些规则的计划，其完整列表如下： > 如果有理由相信使用生成式 AI 服务开发的唱片不满足以下所有标准，则不得将其包含在官方图表中： > 用于开发唱片的任何生成式 AI 服务均经过适当授权且合法。 > 它们基本上是人造的。 > 它们不会引起流或图表操纵问题。 > 它们遵守适用的法律，包括与版权、相关权和人格权相关的法律。 > 提供录音并不违反",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Using the railway network as a flatbed scanner [video]",
+  "summary": "48 points · 25 comments",
+  "content": "I've been taking extremely wide photos by pointing an industrial linear camera out the window of a moving train and stitching together the several thousand lines captured per second after the fact. I'll talk about the pains of measuring the speed and collecting each line fast enough to produce a coherent image, as well as the problems of processing and displaying such wide images.\n\nLicensed to the public under https://creativecommons.org/licenses/by-sa/4.0/",
+  "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+  "publishedAt": "2026-07-31T18:30:44.000Z",
+  "points": 48,
+  "id": "hacker-news-befe07aa",
+  "slug": "hacker-news-befe07aa",
+  "fetchedAt": "2026-08-01T01:00:23.528Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "视频"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "使用铁路网络作为平板扫描仪[视频]",
+  "chineseSummary": "48 分 · 25 条评论",
+  "chineseContent": "我一直在拍摄极宽的照片，方法是将工业线性相机指向行驶的火车窗外，然后将每秒捕获的数千条线缝合在一起。我将讨论测量速度和足够快地收集每条线以生成连贯图像的痛苦，以及处理和显示此类宽图像的问题。\n\n根据 https://creativecommons.org/licenses/by-sa/4.0/ 向公众许可",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
