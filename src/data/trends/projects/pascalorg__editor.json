@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/pascalorg/editor",
   "docsUrl": "https://editor.pascal.app",
-  "stars": 20437,
-  "forks": 2642,
+  "stars": 20612,
+  "forks": 2655,
   "openIssues": 37,
   "license": "MIT",
   "pushedAt": "2026-07-30T10:44:33Z",
-  "updatedAt": "2026-08-01T00:40:44Z",
+  "updatedAt": "2026-08-02T00:39:08Z",
   "createdAt": "2025-10-16T19:35:06Z",
   "archived": false,
   "trendWindows": [
@@ -26,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Pascal Editor\n\nA 3D building editor built with React Three Fiber and WebGPU.\n\n[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core)\n[![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer)\n[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/SaBRA9t2)\n[![X (Twitter)](https://img.shields.io/badge/follow-%40pascal__app-black?logo=x&logoColor=white)](https://x.com/pascal_app)\n\nhttps://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b\n\n## Using Published Packages\n\nThe viewer runtime and built-in node definitions are separate packages. Install the full built-in\nviewer set, then load the built-in plugin once before mounting `<Viewer>`:\n\n```bash\nnpm install @pascal-app/core @pascal-app/viewer @pascal-app/editor @pascal-app/nodes\n```\n\n```typescript\nimport { loadPlugin } from '@pascal-app/core'\nimport { builtinPlugin } from '@pascal-app/nodes'\n\nawait loadPlugin(builtinPlugin)\n```\n\nSee the [`@pascal-app/viewer` quick start](packages/viewer/README.md#usage) for a React example.\n\n\n## Repository Architecture\n\nThis is a Turborepo monorepo with four main runtime packages:\n\n```\neditor/\n├── apps/\n│   └── editor/          # Next.js application\n├── packages/\n│   ├── core/            # Schemas, scene state, and registry contracts\n│   ├── viewer/          # 3D rendering runtime and shared systems\n│   ├── editor/          # Editing tools and UI components\n│   ├── nodes/           # Built-in node definitions, renderers, and systems\n│   └── ui/              # Shared UI components\n```\n\n### Separation of Concerns\n\n| Package | Responsibility |\n|---------|---------------|\n| **@pascal-app/core** | Node schemas, scene state (Zustand), registry contracts, spatial queries, and event bus |\n| **@pascal-app/viewer** | 3D rendering via React Three Fiber, shared render systems, default camera/controls, and post-processing |\n| **@pascal-app/editor** | Editing tools, panels, selection, and direct-manipulation UI |\n| **@pascal-app/nodes** | Built-in registry plugin with node definitions, renderers, geometry, and systems |\n| **apps/editor** | Standalone Next.js host for the editor packages |\n\nThe **viewer** renders the scene with sensible defaults. The **editor** extends it with interactive tools, selection management, and editing capabilities.\n\n### Stores\n\nEach package has its own Zustand store for managing state:\n\n| Store | Package | Responsibility |\n|-------|---------|----------------|\n| `useScene` | `@pascal-app/core` | Scene data: nodes, root IDs, dirty nodes, CRUD operations. Persisted to IndexedDB with undo/redo via Zundo. |\n| `useViewer` | `@pascal-app/viewer` | Viewer state: current selection (building/level/zone IDs), leve",
-  "generatedAt": "2026-08-01T01:00:04.964Z",
+  "generatedAt": "2026-08-02T01:03:13.543Z",
   "analysis": {
     "oneLine": "editor 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
     "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
     "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
     "detailParagraphs": [
       "editor 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
-      "如果把它放进实际使用场景，editor 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 20,437，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，editor 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 20,612，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

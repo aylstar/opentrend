@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a934d90055",
+  "slug": "weibo-奥德赛上座率",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "奥德赛上座率",
+  "summary": "微博热榜第 47 位：奥德赛上座率，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%BE%B7%E8%B5%9B%E4%B8%8A%E5%BA%A7%E7%8E%87%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-08-02T01:00:02.831Z",
+  "fetchedAt": "2026-08-02T01:04:19.599Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

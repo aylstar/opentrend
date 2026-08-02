@@ -1126,3 +1126,18 @@
 {"type":"public_translation_error","at":"2026-08-01T01:00:32.374Z","id":"bbc-84e11b2b","error":"500 Internal Server Error"}
 {"type":"public_translation_error","at":"2026-08-01T01:00:42.777Z","id":"guardian-5a52fdea","error":"500 Internal Server Error"}
 {"type":"news_report_generated","at":"2026-08-01T01:01:32.798Z","date":"2026-08-01","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-08-02T01:03:28.357Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:28.923Z","id":"product-hunt-b5624ab6","source":"Product Hunt","url":"https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:28.930Z","id":"product-hunt-ffc08c01","source":"Product Hunt","url":"https://www.producthunt.com/products/agentmicro","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:28.931Z","id":"product-hunt-8f142d08","source":"Product Hunt","url":"https://www.producthunt.com/products/nudgeforme","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:29.091Z","id":"product-hunt-4863990a","source":"Product Hunt","url":"https://www.producthunt.com/products/gemini-robotics-2","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:29.092Z","id":"product-hunt-64f32772","source":"Product Hunt","url":"https://www.producthunt.com/products/witr","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:29.093Z","id":"product-hunt-9f95ff8b","source":"Product Hunt","url":"https://www.producthunt.com/products/depthdata","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:29.099Z","id":"product-hunt-daa0d4c1","source":"Product Hunt","url":"https://www.producthunt.com/products/sorinai","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:29.432Z","id":"financial-times-766c21b8","source":"Financial Times","url":"https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:29.578Z","id":"financial-times-b58096b8","source":"Financial Times","url":"https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:31.177Z","id":"investing-8fd23b5d","source":"Investing","url":"https://www.investing.com/analysis/why-the-fed-and-bank-of-england-held-rates-amid-the-energy-shock-200684931","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:31.179Z","id":"investing-77213b7c","source":"Investing","url":"https://www.investing.com/analysis/rising-interest-rates-threaten-market-recovery-despite-strong-earnings-200684998","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:31.482Z","id":"investing-451ce73c","source":"Investing","url":"https://www.investing.com/analysis/week-ahead-warsh-wants-a-quieter-fed--boe-shows-how-200684980","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-08-02T01:03:31.482Z","id":"investing-2525a02a","source":"Investing","url":"https://www.investing.com/analysis/fomc-fallout-5-signs-chairman-warshs-honeymoon-at-the-fed-is-over-200684940","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-08-02T01:04:17.623Z","date":"2026-08-02","total":79,"global":20,"aiTech":20,"finance":30,"youtube":9}

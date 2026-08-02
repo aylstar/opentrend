@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a2d713fef1",
+  "slug": "weibo-蜘蛛侠-屏摄",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "蜘蛛侠 屏摄",
+  "summary": "微博热榜第 18 位：蜘蛛侠 屏摄，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%9C%98%E8%9B%9B%E4%BE%A0+%E5%B1%8F%E6%91%84%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-08-02T01:00:02.831Z",
+  "fetchedAt": "2026-08-02T01:04:19.599Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

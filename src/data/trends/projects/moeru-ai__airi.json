@@ -1,0 +1,76 @@
+{
+  "slug": "moeru-ai__airi",
+  "owner": "moeru-ai",
+  "repo": "airi",
+  "name": "airi",
+  "fullName": "moeru-ai/airi",
+  "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/moeru-ai/airi",
+  "docsUrl": "https://airi.moeru.ai/docs/",
+  "stars": 46383,
+  "forks": 4571,
+  "openIssues": 205,
+  "license": "MIT",
+  "pushedAt": "2026-08-01T16:10:49Z",
+  "updatedAt": "2026-08-02T00:40:01Z",
+  "createdAt": "2024-12-01T16:33:36Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "<picture>\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-dark-1280x640.avif\"\n    media=\"(prefers-color-scheme: dark)\"\n  />\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-light-1280x640.avif\"\n    media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\"\n  />\n  <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" />\n</picture>\n\n<h1 align=\"center\">Project AIRI</h1>\n\n<p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>\n\n<p align=\"center\">\n  [<a href=\"https://discord.gg/TgQ3Cu2F7A\">Join Discord Server</a>] [<a href=\"https://airi.moeru.ai\">Try it</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md\">简体中文</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.ja-JP.md\">日本語</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.ru-RU.md\">Русский</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.vi.md\">Tiếng Việt</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.fr.md\">Français</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.ko-KR.md\">한국어</a>]\n</p>\n\n<p align=\"center\">\n  <a href=\"https://deepwiki.com/moeru-ai/airi\"><img src=\"https://deepwiki.com/badge.svg\"></a>\n  <a href=\"https://github.com/moeru-ai/airi/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/moeru-ai/airi.svg?style=flat&colorA=080f12&colorB=1fa669\"></a>\n  <a href=\"https://discord.gg/TgQ3Cu2F7A\"><img src=\"https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FTgQ3Cu2F7A%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&logo=discord&logoColor=white&label=%20&color=7389D8&labelColor=6A7EC2\"></a>\n  <a href=\"https://x.com/proj_airi\"><img src=\"https://img.shields.io/badge/%40proj__airi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30\"></a>\n  <a href=\"https://t.me/+7M_ZKO3zUHFlOThh\"><img src=\"https://img.shields.io/badge/Telegram-%235AA9E6?logo=telegram&labelColor=FFFFFF\"></a>\n  <a href=\"./docs/wechat.md\"><img src=\"https://img.shields.io/badge/WeChat-%2307C160?logo=wechat&logoColor=%2307C160&labelColor=FFFFFF\"></a>\n  <a href=\"https://qun.qq.com/universal-share/share?ac=1&authKey=9g00d%2BZS7nORzcJugNNddJ7rCghZTIR7fhXabGwch2S%2BG%2BKGIKwlN1N2nIqkh2jg&busi_data=eyJncm91cENvZGUiOiIxMDU4MTU2Njk3IiwidG9rZW4iOiJmcnkra1hWNFIxNytEcG0zcHRUdVJIaldlRDFxN0dzK080QWtvTEdOQjJkNEY2eUFta1g1clNpbkxSMS9FQWFYIiwidWluIjoiMTI2MDkwNzMzNSJ9&data=b1eJrwn3GVOUh7YIxZ7l9vHQo99HPmRxKPpMKlDCmfzx8Y57IXb2EZCMaOC9rVTd2U558qpNjwUYUWlPHxVHvg&svctype=4&tempid=h5_group_info\"><img src=\"https://img.shields.io/badge/QQ-%2312B7F5?logo=qq&labelColor=FFFFFF\"></a>\n</p>\n\n<p float=\"left\" align=\"center\">\n  <!-- readme-section:release-binary-windows -->\n  <a href=\"https://github.com/moeru-ai/airi/releases/download/v0.10.2/AIRI-0.10.2-windows-x64-setup.exe\">\n    <picture>\n      <source\n        widt",
+  "generatedAt": "2026-08-02T01:03:14.440Z",
+  "analysis": {
+    "oneLine": "airi 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "airi 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，airi 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 46,383，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "airi 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "pnpm i\npnpm dev\npnpm dev\npnpm dev:tamagotchi\npnpm dev:tamagotchi",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-02T01:03:14.441Z"
+}

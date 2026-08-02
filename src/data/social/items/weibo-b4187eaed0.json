@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b4187eaed0",
+  "slug": "weibo-王一博曾是yg第一",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "王一博曾是YG第一",
+  "summary": "微博热榜第 15 位：王一博曾是YG第一，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9B%BE%E6%98%AFYG%E7%AC%AC%E4%B8%80%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-08-02T01:00:02.831Z",
+  "fetchedAt": "2026-08-02T01:04:19.599Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

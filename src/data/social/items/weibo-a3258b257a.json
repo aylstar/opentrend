@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a3258b257a",
+  "slug": "weibo-小佩顿重新回归勇士",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "小佩顿重新回归勇士",
+  "summary": "微博热榜第 42 位：小佩顿重新回归勇士，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BD%A9%E9%A1%BF%E9%87%8D%E6%96%B0%E5%9B%9E%E5%BD%92%E5%8B%87%E5%A3%AB%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-08-02T01:00:02.831Z",
+  "fetchedAt": "2026-08-02T01:04:19.599Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

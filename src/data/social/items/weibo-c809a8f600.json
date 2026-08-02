@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c809a8f600",
+  "slug": "weibo-蔡徐坤默片",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 26,
+  "title": "蔡徐坤默片",
+  "summary": "微博热榜第 26 位：蔡徐坤默片，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%BB%98%E7%89%87%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-08-02T01:00:02.831Z",
+  "fetchedAt": "2026-08-02T01:04:19.599Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
