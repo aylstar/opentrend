@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+  "summary": "15 points · 6 comments",
+  "content": "MicroCodex is an ultra-lightweight coding agent that runs locally in your terminal.\n\nRun the following on Mac or Linux to install MicroCodex:\n\nThen simply run microcodex login to sign in, followed by microcodex to get started.\n\nEach GitHub Release contains these executables:\n\nEach archive contains a single entry with the platform baked into the name (for example, microcodex-aarch64-apple-darwin ), so you likely want to rename it to microcodex after extracting it.\n\nThe installer selects the native build for the current architecture. Linux requires the libcurl and OpenSSL runtime libraries.\n\nTo install a specific release, set MICROCODEX_RELEASE :\n\nUsing MicroCodex with your ChatGPT plan\n\nRun microcodex login and open the displayed URL in your browser. On a remote or headless machine, run microcodex login --device-auth and enter the displayed one-time code at the verification URL. MicroCodex stores the resulting OAuth credentials under $CODEX_HOME , or ~/.codex when CODEX_HOME is unset.\n\nYou can then start an interactive session or pass a one-shot prompt:\n\nMicroCodex is not a sandbox. Before starting the user's shell, it applies a simple lexical denylist that blocks forced file removal ( rm -f / rm -rf ), git reset --hard , forced git clean , git checkout -- , disk-formatting tools, and shutdown commands. This guard is not a shell parser and is not a complete security boundary: commands that do not match the denylist and all file operations run with the same permissions as the MicroCodex process.\n\nMicroCodex discovers the same filesystem skills installed for Codex under $CODEX_HOME/skills , or ~/.codex/skills when CODEX_HOME is unset. Each skill must have a SKILL.md with YAML frontmatter containing a name and description . Skill metadata is added to the agent instructions at session startup; the complete skill is read only when its name or description matches the task.\n\nBuilding requires a C++23 compiler, make , libcurl development files, and OpenSSL development files on Linux.\n\nThe executable is written to build/microcodex . Run the test suite with make test .\n\nThis repository is licensed under the Apache-2.0 License .",
+  "url": "https://github.com/paoloanzn/microcodex",
+  "publishedAt": "2026-08-02T20:11:35.000Z",
+  "points": 15,
+  "id": "hacker-news-6ae4f2f6",
+  "slug": "hacker-news-6ae4f2f6",
+  "fetchedAt": "2026-08-03T01:03:26.717Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+  "chineseSummary": "15 分 · 6 条评论",
+  "chineseContent": "MicroCodex 是一种超轻量级编码代理，可在您的终端本地运行。\n\n在 Mac 或 Linux 上运行以下命令来安装 MicroCodex：\n\n然后只需运行 microcodex login 即可登录，然后运行 microcodex 即可开始。\n\n每个 GitHub 版本都包含以下可执行文件：\n\n每个存档都包含一个条目，其名称中包含平台（例如， microcodex-aarch64-apple-darwin ），因此您可能希望在解压后将其重命名为 microcodex 。\n\n安装程序选择当前架构的本机构建。 Linux 需要 libcurl 和 OpenSSL 运行时库。\n\n要安装特定版本，请设置 MICROCODEX_RELEASE ：\n\n将 MicroCodex 与您的 ChatGPT 计划结合使用\n\n运行 microcodex 登录并在浏览器中打开显示的 URL。在远程或无头计算机上，运行 microcodex login --device-auth 并在验证 URL 处输入显示的一次性代码。 MicroCodex 将生成的 OAuth 凭据存储在 $CODEX_HOME 下，或者在未设置 CODEX_HOME 时存储在 ~/.codex 下。\n\n然后，您可以启动交互式会话或传递一次性提示：\n\nMicroCodex 不是沙箱。在启动用户的 shell 之前，它会应用一个简单的词法拒绝列表，阻止强制文件删除 ( rm -f / rm -rf )、 git reset --hard 、强制 git clean 、 git checkout -- 、磁盘格式化工具和 shutdown 命令。此防护不是 shell 解析器，也不是完整的安全边界：与拒绝列表不匹配的命令以及所有文件操作都以与 MicroCodex 进程相同的权限运行。\n\nMicroCodex 会发现在 $CODEX_HOME/skills 下为 Codex 安装的相同文件系统技能，或者在未设置 CODEX_HOME 时在 ~/.codex/skills 下安装。每个技能都必须有一个 SKILL.md，其 YAML frontmatter 包含名称和描述。技能元数据在会话启动时添加到代理指令中；仅当其名称或描述与任务匹配时，完整技能才会被读取。\n\n构建需要 Linux 上的 C++23 编译器、 make 、 libcurl 开发文件和 OpenSSL 开发文件。\n\n可执行文件被写入 build/microcodex 。使用 make test 运行测试套件。\n\n该存储库根据 Apache-2.0 License 获得许可。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

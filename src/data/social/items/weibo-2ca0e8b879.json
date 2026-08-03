@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2ca0e8b879",
+  "slug": "weibo-八仙",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "八仙",
+  "summary": "微博热榜第 15 位：八仙，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%23",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-08-03T01:02:10.759Z",
+  "fetchedAt": "2026-08-03T01:04:33.681Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

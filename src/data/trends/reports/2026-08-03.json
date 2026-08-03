@@ -1,0 +1,93 @@
+{
+  "slug": "2026-08-03",
+  "date": "2026-08-03",
+  "title": "2026年08月03日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-08-03T01:03:10.304Z",
+  "stats": {
+    "totalProjects": 19,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.4
+  },
+  "sections": {
+    "recommended": [
+      "koala73__worldmonitor",
+      "diegosouzapw__omniroute",
+      "block__buzz"
+    ],
+    "weekly": [
+      "block__buzz",
+      "virgiliojr94__book-to-skill",
+      "ayghri__i-have-adhd",
+      "microsoft__ai-for-beginners",
+      "bojieli__ai-agent-book",
+      "1jehuang__jcode",
+      "pascalorg__editor",
+      "alibaba__open-code-review",
+      "permissionlesstech__bitchat",
+      "moeru-ai__airi"
+    ],
+    "monthly": [
+      "permissionlesstech__bitchat",
+      "diegosouzapw__omniroute",
+      "stablyai__orca",
+      "emilkowalski__skills",
+      "tt-a1i__archify",
+      "nutlope__hallmark",
+      "koala73__worldmonitor",
+      "bradautomates__claude-video",
+      "zackriya-solutions__meetily",
+      "iofficeai__officecli"
+    ],
+    "commercial": [
+      "block__buzz",
+      "virgiliojr94__book-to-skill",
+      "microsoft__ai-for-beginners",
+      "bojieli__ai-agent-book",
+      "1jehuang__jcode",
+      "pascalorg__editor"
+    ],
+    "deployable": [
+      "block__buzz",
+      "virgiliojr94__book-to-skill",
+      "ayghri__i-have-adhd",
+      "microsoft__ai-for-beginners",
+      "bojieli__ai-agent-book",
+      "1jehuang__jcode"
+    ],
+    "risky": [
+      "block__buzz",
+      "virgiliojr94__book-to-skill",
+      "ayghri__i-have-adhd",
+      "microsoft__ai-for-beginners",
+      "bojieli__ai-agent-book",
+      "1jehuang__jcode"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 19 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "block__buzz",
+    "virgiliojr94__book-to-skill",
+    "ayghri__i-have-adhd",
+    "microsoft__ai-for-beginners",
+    "bojieli__ai-agent-book",
+    "1jehuang__jcode",
+    "pascalorg__editor",
+    "alibaba__open-code-review",
+    "permissionlesstech__bitchat",
+    "moeru-ai__airi",
+    "diegosouzapw__omniroute",
+    "stablyai__orca",
+    "emilkowalski__skills",
+    "tt-a1i__archify",
+    "nutlope__hallmark",
+    "koala73__worldmonitor",
+    "bradautomates__claude-video",
+    "zackriya-solutions__meetily",
+    "iofficeai__officecli"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ed069bf699",
+  "slug": "weibo-赛里木湖",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "赛里木湖",
+  "summary": "微博热榜第 33 位：赛里木湖，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-03T01:02:10.759Z",
+  "fetchedAt": "2026-08-03T01:04:33.681Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

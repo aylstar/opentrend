@@ -1,0 +1,21 @@
+{
+  "id": "weibo-97ef2f91fd",
+  "slug": "weibo-难听",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "难听",
+  "summary": "微博热榜第 40 位：难听，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-08-03T01:02:10.759Z",
+  "fetchedAt": "2026-08-03T01:04:33.681Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

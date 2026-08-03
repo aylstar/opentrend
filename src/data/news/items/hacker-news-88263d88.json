@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+  "summary": "93 points · 43 comments",
+  "content": "Run 1 of 3 · Aug 2 2026 · 64.0s · 3,900 B\n\nThe annotations are mostly structural labels, but include some editorializing about the jaw feature: \"massive protruding mandible\" and describing the upper lip as \"recessed, tucked behind the jaw\" and lower teeth as \"protruding\" over the upper lip, which offer anatomical interpretation beyond plain labeling.\n\nRun 2 of 3 · Aug 2 2026 · 42.0s · 3,465 B\n\nThe annotations mostly use structural labels, but include editorializing on exaggerated anatomy (\"HUGE protruding Habsburg jaw,\" \"lower teeth jutting over the upper lip\") and implied royal bearing/mood via \"droopy regal eyelids.\"\n\nRun 3 of 3 · Aug 2 2026 · 59.6s · 3,909 B\n\nThe annotations are largely structural labels, but include some editorializing on anatomical effect, notably describing the jaw as \"massive elongated protruding mandible\" and the mouth as \"underbite mouth: receded upper lip, protruding lower lip\" — emphasizing exaggerated deformity beyond a neutral label. No commentary on mood, royalty, or bearing is present beyond the literal \"HABSBURG JAW\" label itself.",
+  "url": "https://frogs.vaguespac.es/",
+  "publishedAt": "2026-08-02T19:42:08.000Z",
+  "points": 93,
+  "id": "hacker-news-88263d88",
+  "slug": "hacker-news-88263d88",
+  "fetchedAt": "2026-08-03T01:03:26.716Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+  "chineseSummary": "93 分 · 43 条评论",
+  "chineseContent": "第 1 轮（共 3 轮） · 2026 年 8 月 2 日 · 64.0 秒 · 3,900 B\n\n这些注释主要是结构标签，但包括一些关于下颌特征的社论：“巨大突出的下颌骨”，并将上唇描述为“凹陷，塞在下颌后面”，将下牙描述为“突出”在上唇之上，这提供了超越普通标签的解剖学解释。\n\n第 2 场（共 3 场） · 2026 年 8 月 2 日 · 42.0 秒 · 3,465 B\n\n这些注释大多使用结构标签，但包括对夸张的解剖结构的社论（“巨大突出的哈布斯堡下巴”、“下牙突出在上唇上方”）以及通过“下垂的帝王眼睑”暗示的皇家举止/情绪。\n\n第 3 场（共 3 场） · 2026 年 8 月 2 日 · 59.6 秒 · 3,909 B\n\n这些注释主要是结构标签，但包括一些对解剖学效果的社论，特别是将下巴描述为“巨大的拉长突出的下颌骨”，将嘴巴描述为“反咬合的嘴：上唇后退，下唇突出”——强调了超出中性标签的夸张畸形。除了“哈布斯堡下巴”标签本身之外，没有任何关于情绪、皇室或举止的评论。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

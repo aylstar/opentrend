@@ -1,0 +1,70 @@
+{
+  "slug": "microsoft__ai-for-beginners",
+  "owner": "microsoft",
+  "repo": "AI-For-Beginners",
+  "name": "AI-For-Beginners",
+  "fullName": "microsoft/AI-For-Beginners",
+  "description": "12 Weeks, 24 Lessons, AI for All!",
+  "language": "Jupyter Notebook",
+  "githubUrl": "https://github.com/microsoft/AI-For-Beginners",
+  "docsUrl": "https://docs.microsoft.com/learn/paths/introduction-ai-for-business-users/?WT.mc_id=academic-77998-bethanycheum",
+  "stars": 59032,
+  "forks": 11602,
+  "openIssues": 16,
+  "license": "MIT",
+  "pushedAt": "2026-07-21T11:11:48Z",
+  "updatedAt": "2026-08-03T01:03:01Z",
+  "createdAt": "2021-03-03T16:27:36Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "自部署",
+    "企业工具",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE)\n[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/graphs/contributors/)\n[![GitHub issues](https://img.shields.io/github/issues/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/issues/)\n[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/pulls/)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)\n\n[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/AI-For-Beginners.svg?style=social&label=Watch)](https://GitHub.com/microsoft/AI-For-Beginners/watchers/)\n[![GitHub forks](https://img.shields.io/github/forks/microsoft/AI-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/AI-For-Beginners/network/)\n[![GitHub stars](https://img.shields.io/github/stars/microsoft/AI-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/AI-For-Beginners/stargazers/)\n[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/ai-for-beginners/HEAD)\n[![Gitter](https://badges.gitter.im/Microsoft/ai-for-beginners.svg)](https://gitter.im/Microsoft/ai-for-beginners?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)\n\n[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)\n\n# Artificial Intelligence for Beginners - A Curriculum\n\n|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)|\n|:---:|\n| AI For Beginners - _Sketchnote by [@girlie_mac](https://twitter.com/girlie_mac)_ |\n\nExplore the world of **Artificial Intelligence** (AI) with our 12-week, 24-lesson curriculum!  It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI\n\n\n### 🌐 Multi-Language Support\n\n#### Supported via GitHub Action (Automated & Always Up-to-Date)\n\n<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->\n[Arabic](./translations/ar/README.md) | [Bengali](./translations/bn/README.md) | [Bulgarian](./translations/bg/README.md) | [Burmese (Myanmar)](./translations/my/README.md) | [Chinese (Simplified)](./translations/zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](./translations/zh-HK/README.md) | [Chinese (Traditional, Macau)](./translations/zh-MO/README.md) | [Chinese (Traditional, Taiwan)](./translations/zh-TW/README.md) | [Croatian](./translations/hr/README.md) | [Czech](./translations/cs/README.md) | [Danish](./translations/da/README.md) | [Dutch](./translations/nl/README.md) | [Estonian](./translations/et/README.md) | [Finnish](./translat",
+  "generatedAt": "2026-08-03T01:03:02.574Z",
+  "analysis": {
+    "oneLine": "AI-For-Beginners 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
+    "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
+    "audience": "研究人员、学生、行业分析师、知识工作者",
+    "detailParagraphs": [
+      "AI-For-Beginners 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
+      "如果把它放进实际使用场景，AI-For-Beginners 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 59,032，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Jupyter Notebook 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "文献阅读工作流",
+      "研究资料整理",
+      "行业报告素材管理",
+      "AI 辅助研究流程"
+    ],
+    "interpretation": "AI-For-Beginners 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Jupyter Notebook 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在改善文献检索、阅读、整理和研究输出流程，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Jupyter Notebook 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于不同研究场景差异较大，自动化效果需要真实任务验证。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "自部署",
+      "企业工具",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-03T01:03:02.576Z"
+}
