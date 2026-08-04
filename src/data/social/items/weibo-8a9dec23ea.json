@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8a9dec23ea",
+  "slug": "weibo-deepseek登顶全球第一",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "DeepSeek登顶全球第一",
+  "summary": "微博热榜第 38 位：DeepSeek登顶全球第一，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-08-04T00:54:07.618Z",
+  "fetchedAt": "2026-08-04T00:58:50.888Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "claudemon",
+  "summary": "Wild Pokémon appear while you wait for Claude Code Discussion | Link",
+  "url": "https://www.producthunt.com/products/claudemon",
+  "publishedAt": "2026-08-02T17:23:42.000Z",
+  "id": "product-hunt-ca796d4c",
+  "slug": "product-hunt-ca796d4c",
+  "content": "Half of Claude Code is waiting. claudemon makes that time a game: your prompts are steps through the grass, every 20s of work another step. Something jumps out, the status line says so, you fight it in a second terminal tab. All 151, fully local, no account.",
+  "fetchedAt": "2026-08-04T00:57:55.310Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克劳德蒙",
+  "chineseSummary": "当你等待克劳德代码讨论时，野生神奇宝贝出现了 |关联",
+  "chineseContent": "克劳德代码的一半正在等待。克劳德蒙将这段时间变成了一个游戏：你的提示是穿过草地的步骤，每 20 秒的工作又一步。有东西跳出来，状态行这么说，你在第二个终端选项卡中对抗它。全部 151，完全本地化，没有帐户。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

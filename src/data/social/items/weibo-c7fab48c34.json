@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c7fab48c34",
+  "slug": "weibo-闵塔鲨删博了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "闵塔鲨删博了",
+  "summary": "微博热榜第 22 位：闵塔鲨删博了，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%97%B5%E5%A1%94%E9%B2%A8%E5%88%A0%E5%8D%9A%E4%BA%86%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-08-04T00:54:07.618Z",
+  "fetchedAt": "2026-08-04T00:58:50.887Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
+  "summary": "Hopes are running high that high-profile software provider Palantir can shake off its nine-month bear market and rally after earnings.",
+  "url": "https://www.cnbc.com/2026/08/03/can-palantir-pull-off-a-microsoft-style-comeback-heres-what-options-say.html",
+  "publishedAt": "2026-08-03T18:34:52.000Z",
+  "id": "cnbc-22492415",
+  "slug": "cnbc-22492415",
+  "content": "Hopes are running high that high-profile software provider Palantir can shake off its nine-month bear market and rally after earnings Monday night. After all, the chart of Microsoft was looking similar going into its report, and that stock's now in the midst of a three-day, 25% bounce. The options flows around Palantir also mirror Microsoft going into its report, where traders were scooping up calls and betting on a bigger-than-usual swing. More than twice as many Palantir calls traded than puts by volume Monday, with traders buying 56,000 calls and fewer than 25,000 puts, according to ThinkOrSwim data. Of the $160 million in premium traded, $120 million was tied to calls, and the top five contracts traded by volume were all calls, SpotGamma data show.\n\nThe most popular contract for bulls was the 130-strike call expiring Friday, where traders bought 8,500 contracts totaling $4.4 million, according to SpotGamma. Trading for $5.30 a contract, the 130-strike calls need an 8 percent rally before the weekend to pay off. The 150 and 140-strike calls were second and third-most popular by volume. Cboe LiveVol data shows options pricing implying a 10.5% move after earnings, bigger than the median 7.4% move the past year. For the past five straight quarters, Palantir options have overestimated the actual move, the data show. The heavy call volume doesn't mean bears aren't taking shots. In fact, seven of the eight biggest dollar-amount trades of the day were neutral or bearish, according to Cboe data. That includes the biggest premium trade of the day, a sale of 800 of the 145-strike calls in Palantir that expire in mid-December 2028, a bearish bet against extensive gains in the stock that brought in $3.4 million for the seller.",
+  "fetchedAt": "2026-08-04T00:57:55.314Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Palantir 能否实现微软式的东山再起？这是选项所说的内容",
+  "chineseSummary": "人们对备受瞩目的软件提供商 Palantir 能够摆脱长达九个月的熊市并在盈利后反弹的希望很高。",
+  "chineseContent": "人们对备受瞩目的软件提供商 Palantir 能够摆脱长达九个月的熊市并在周一晚间发布财报后反弹抱有很高的希望。毕竟，微软的图表在其报告中看起来很相似，而且该股目前正处于为期三天的 25% 反弹之中。 Palantir 周围的期权流动也反映了微软在其报告中的情况，其中交易员正在买入看涨期权并押注比平常更大的波动。 ThinkOrSwim 数据显示，周一 Palantir 看涨期权交易量是看跌期权交易量的两倍多，交易者买入 56,000 份看涨期权，买入不到 25,000 份看跌期权。 SpotGamma 数据显示，在 1.6 亿美元的溢价交易中，有 1.2 亿美元与看涨期权相关，按交易量计算前五名的合约都是看涨期权。\n\n据 SpotGamma 称，最受多头欢迎的合约是周五到期的 130 次看涨期权，交易员买入了 8,500 份合约，总价值 440 万美元。每份合约的交易价格为 5.30 美元，130 次执行的看涨期权需要在周末之前上涨 8% 才能得到回报。按数量计算，150 次和 140 次执行的呼吁分别位列第二和第三。 Cboe LiveVol 数据显示，期权定价意味着盈利后将上涨 10.5%，高于去年 7.4% 的中值涨幅。数据显示，在过去连续五个季度中，Palantir 期权高估了实际走势。大量的呼叫量并不意味着空头不会出手。事实上，根据芝加哥期权交易所的数据，当天金额最大的八笔交易中有七笔是中性或看跌的。其中包括当天最大的溢价交易，即出售 Palantir 145 次执行看涨期权中的 800 份，该看涨期权将于 2028 年 12 月中旬到期，这是对该股大幅上涨的看跌押注，为卖方带来了 340 万美元的收入。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

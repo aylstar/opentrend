@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0155c25cd8",
+  "slug": "weibo-deepseek一天消耗了8万亿",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "DeepSeek一天消耗了8万亿",
+  "summary": "微博热榜第 6 位：DeepSeek一天消耗了8万亿，当前热度为 55万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF%23",
+  "hotValue": "55万热度",
+  "author": "",
+  "publishedAt": "2026-08-04T00:54:07.618Z",
+  "fetchedAt": "2026-08-04T00:58:50.887Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

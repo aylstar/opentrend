@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "What's the largest software project AI can complete on its own?",
+  "summary": "66 points · 74 comments",
+  "content": "Crucially, we provide a large enough inference budget to make a serious attempt at MirrorCode tasks. Many existing software engineering benchmarks limit inference spending to around $1–10, even when the task would take weeks for a human to complete. For example, one of the largest MirrorCode tasks cost $2,600 for a single run and involved AI working for 19 days without human intervention.",
+  "url": "https://epoch.ai/MirrorCode",
+  "publishedAt": "2026-08-03T16:16:40.000Z",
+  "points": 66,
+  "id": "hacker-news-29add937",
+  "slug": "hacker-news-29add937",
+  "fetchedAt": "2026-08-04T00:57:55.309Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 能够独立完成的最大软件项目是什么？",
+  "chineseSummary": "66 分 · 74 条评论",
+  "chineseContent": "至关重要的是，我们提供了足够大的推理预算来认真尝试 MirrorCode 任务。许多现有的软件工程基准将推理支出限制在 1-10 美元左右，即使这项任务需要人类花费数周时间才能完成。例如，最大的 MirrorCode 任务之一单次运行成本为 2,600 美元，并且需要人工智能在没有人工干预的情况下工作 19 天。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

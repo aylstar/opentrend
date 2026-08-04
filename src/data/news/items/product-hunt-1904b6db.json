@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Open Minis",
+  "summary": "An on-device AI Agent that runs on your phone, open & secure Discussion | Link",
+  "url": "https://www.producthunt.com/products/open-minis",
+  "publishedAt": "2026-08-02T14:34:55.000Z",
+  "id": "product-hunt-1904b6db",
+  "slug": "product-hunt-1904b6db",
+  "content": "Open Minis is a free, open-source AI agent for iOS and Android that does more than chat — it gives the model a real computer to work with. A sandboxed Alpine Linux shell runs on your device: it installs packages, runs Python, edits real files and drives a browser. Around it, 30+ native bridges reach HealthKit, HomeKit, Calendar, Photos. etc. Bring your own model — Claude, GPT, Gemini, Kimi, Grok, or any OpenAI-compatible endpoint. Keys and data never leave your phone. Free and Open Source.",
+  "fetchedAt": "2026-08-04T00:57:55.310Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "开放式迷你",
+  "chineseSummary": "在您的手机上运行的设备端 AI 代理，开放且安全关联",
+  "chineseContent": "Open Minis 是一款适用于 iOS 和 Android 的免费开源 AI 代理，它的功能不仅仅是聊天，它还为模型提供了一台真正的计算机来使用。沙盒 Alpine Linux shell 在您的设备上运行：它安装软件包、运行 Python、编辑真实文件并驱动浏览器。在它周围，有 30 多个原生桥梁连接 HealthKit、HomeKit、Calendar、Photos。等。带上您自己的模型 - Claude、GPT、Gemini、Kimi、Grok 或任何 OpenAI 兼容端点。密钥和数据永远不会离开您的手机。免费和开源。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

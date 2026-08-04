@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+  "summary": "1049 points · 564 comments",
+  "content": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+  "url": "https://qwen.ai/blog?id=qwen3.8",
+  "publishedAt": "2026-08-03T02:16:09.000Z",
+  "points": 1049,
+  "id": "hacker-news-37ee6f2a",
+  "slug": "hacker-news-37ee6f2a",
+  "fetchedAt": "2026-08-04T00:57:55.309Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Qwen3.8-Max：编码和协作的新标杆",
+  "chineseSummary": "1049 分 · 564 条评论",
+  "chineseContent": "Qwen Studio 提供全面的功能，涵盖聊天机器人、图像和视频理解、图像生成、文档处理、网络搜索集成、工具利用和工件。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

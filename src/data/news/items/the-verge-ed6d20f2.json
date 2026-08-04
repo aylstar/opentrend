@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Your Fitbit data can now connect directly to Apple Health",
+  "summary": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your data directly. Previously, you […]",
+  "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+  "publishedAt": "2026-08-03T21:24:23.000Z",
+  "id": "the-verge-ed6d20f2",
+  "slug": "the-verge-ed6d20f2",
+  "content": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health’s 5.05 update, you can now tap your profile icon, select “Partner apps,” and choose Apple Health to link your data directly. Previously, you could only import your Apple Health data into Google Health, but not the other way around. That meant using third-party apps — like Power Sync for Fitbit or Fitbit to Apple Health Sync — or some other kind of workaround to connect your Google Health information to Apple Health. Google Health replaced the Fitbit app in May. The new app had a bit of a rocky rollout after users raised concerns over the new AI health coach, user interface, and other issues, though Google has since addressed some of these complaints. Along with this update, Google announced that users in the US can use Smart Health Links to share medical records with a provider or family member. You can create a link by heading to the Health tab, choosing the “Medical” section, selecting “Shareable records,” and tapping the “plus” icon. From there, you can choose which data you want to include in the link and share it via a URL or QR code.",
+  "fetchedAt": "2026-08-04T00:57:55.312Z",
+  "score": 60,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "您的 Fitbit 数据现在可以直接连接到 Apple Health",
+  "chineseSummary": "据 9to5Mac 早些时候报道，谷歌正在推出一项更新，最终允许您将 Fitbit 锻炼、步数、生命体征和其他数据连接到 Apple Health。通过 Google Health 5.05 更新，您现在可以点击您的个人资料图标，选择“合作伙伴应用程序”，然后选择 Apple Health 直接链接您的数据。此前，你[...]",
+  "chineseContent": "据 9to5Mac 早些时候报道，谷歌正在推出一项更新，最终允许您将 Fitbit 锻炼、步数、生命体征和其他数据连接到 Apple Health。通过 Google Health 5.05 更新，您现在可以点击个人资料图标，选择“合作伙伴应用程序”，然后选择 Apple Health 直接链接您的数据。以前，您只能将 Apple Health 数据导入 Google Health，反之则不行。这意味着使用第三方应用程序（例如 Power Sync for Fitbit 或 Fitbit to Apple Health Sync）或其他某种解决方法将您的 Google Health 信息连接到 Apple Health。 Google Health 在 5 月份取代了 Fitbit 应用程序。在用户对新的人工智能健康教练、用户界面和其他问题提出担忧后，这款新应用程序的推出遇到了一些困难，尽管谷歌此后已经解决了其中一些投诉。随着此更新，谷歌宣布美国用户可以使用智能健康链接与提供者或家庭成员共享医疗记录。您可以通过前往“健康”选项卡、选择“医疗”部分、选择“可共享记录”并点击“加号”图标来创建链接。从那里，您可以选择要包含在链接中的数据并通过 URL 或 QR 代码共享。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

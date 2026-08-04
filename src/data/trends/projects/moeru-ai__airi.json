@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/moeru-ai/airi",
   "docsUrl": "https://airi.moeru.ai/docs/",
-  "stars": 46546,
-  "forks": 4591,
-  "openIssues": 201,
+  "stars": 46715,
+  "forks": 4609,
+  "openIssues": 207,
   "license": "MIT",
-  "pushedAt": "2026-08-02T17:10:47Z",
-  "updatedAt": "2026-08-03T00:57:28Z",
+  "pushedAt": "2026-08-03T20:23:23Z",
+  "updatedAt": "2026-08-04T00:57:14Z",
   "createdAt": "2024-12-01T16:33:36Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<picture>\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-dark-1280x640.avif\"\n    media=\"(prefers-color-scheme: dark)\"\n  />\n  <source\n    width=\"100%\"\n    srcset=\"./docs/content/public/banner-light-1280x640.avif\"\n    media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\"\n  />\n  <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" />\n</picture>\n\n<h1 align=\"center\">Project AIRI</h1>\n\n<p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>\n\n<p align=\"center\">\n  [<a href=\"https://discord.gg/TgQ3Cu2F7A\">Join Discord Server</a>] [<a href=\"https://airi.moeru.ai\">Try it</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.zh-CN.md\">简体中文</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.ja-JP.md\">日本語</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.ru-RU.md\">Русский</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.vi.md\">Tiếng Việt</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.fr.md\">Français</a>] [<a href=\"https://github.com/moeru-ai/airi/blob/main/docs/README.ko-KR.md\">한국어</a>]\n</p>\n\n<p align=\"center\">\n  <a href=\"https://deepwiki.com/moeru-ai/airi\"><img src=\"https://deepwiki.com/badge.svg\"></a>\n  <a href=\"https://github.com/moeru-ai/airi/blob/main/LICENSE\"><img src=\"https://img.shields.io/github/license/moeru-ai/airi.svg?style=flat&colorA=080f12&colorB=1fa669\"></a>\n  <a href=\"https://discord.gg/TgQ3Cu2F7A\"><img src=\"https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FTgQ3Cu2F7A%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&logo=discord&logoColor=white&label=%20&color=7389D8&labelColor=6A7EC2\"></a>\n  <a href=\"https://x.com/proj_airi\"><img src=\"https://img.shields.io/badge/%40proj__airi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30\"></a>\n  <a href=\"https://t.me/+7M_ZKO3zUHFlOThh\"><img src=\"https://img.shields.io/badge/Telegram-%235AA9E6?logo=telegram&labelColor=FFFFFF\"></a>\n  <a href=\"./docs/wechat.md\"><img src=\"https://img.shields.io/badge/WeChat-%2307C160?logo=wechat&logoColor=%2307C160&labelColor=FFFFFF\"></a>\n  <a href=\"https://qun.qq.com/universal-share/share?ac=1&authKey=9g00d%2BZS7nORzcJugNNddJ7rCghZTIR7fhXabGwch2S%2BG%2BKGIKwlN1N2nIqkh2jg&busi_data=eyJncm91cENvZGUiOiIxMDU4MTU2Njk3IiwidG9rZW4iOiJmcnkra1hWNFIxNytEcG0zcHRUdVJIaldlRDFxN0dzK080QWtvTEdOQjJkNEY2eUFta1g1clNpbkxSMS9FQWFYIiwidWluIjoiMTI2MDkwNzMzNSJ9&data=b1eJrwn3GVOUh7YIxZ7l9vHQo99HPmRxKPpMKlDCmfzx8Y57IXb2EZCMaOC9rVTd2U558qpNjwUYUWlPHxVHvg&svctype=4&tempid=h5_group_info\"><img src=\"https://img.shields.io/badge/QQ-%2312B7F5?logo=qq&labelColor=FFFFFF\"></a>\n</p>\n\n<p float=\"left\" align=\"center\">\n  <!-- readme-section:release-binary-windows -->\n  <a href=\"https://github.com/moeru-ai/airi/releases/download/v0.10.2/AIRI-0.10.2-windows-x64-setup.exe\">\n    <picture>\n      <source\n        widt",
-  "generatedAt": "2026-08-03T01:03:05.545Z",
+  "generatedAt": "2026-08-04T00:57:38.794Z",
   "analysis": {
     "oneLine": "airi 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "airi 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，airi 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 46,546，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，airi 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 46,715，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
