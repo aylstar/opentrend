@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "mpai",
+  "summary": "Make existing Codex and Claude Code sessions multiplayer Discussion | Link",
+  "url": "https://www.producthunt.com/products/mpai",
+  "publishedAt": "2026-08-02T20:12:27.000Z",
+  "id": "product-hunt-64eeb3ad",
+  "slug": "product-hunt-64eeb3ad",
+  "content": "Open-source terminal multiplayer for Codex and Claude Code. Join a teammate's explicitly shared native session from another Mac, arrive with the real context, and prompt with your name attached. Tailscale stays private; the host Mac stays in control.",
+  "fetchedAt": "2026-08-05T00:52:48.080Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "姆帕伊",
+  "chineseSummary": "使现有的 Codex 和 Claude Code 会话成为多人讨论 |关联",
+  "chineseContent": "Codex 和 Claude Code 的开源终端多人游戏。从另一台 Mac 加入队友明确共享的本机会话，到达真实上下文，并提示附加您的姓名。 Tailscale 保持私有；主机 Mac 保持控制。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

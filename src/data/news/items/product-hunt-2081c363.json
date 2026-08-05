@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Finyuus",
+  "summary": "A code-first language for durable, governed AI workflows Discussion | Link",
+  "url": "https://www.producthunt.com/products/finyuus",
+  "publishedAt": "2026-08-03T18:14:47.000Z",
+  "id": "product-hunt-2081c363",
+  "slug": "product-hunt-2081c363",
+  "content": "Finyuus is a code-first platform for building, running, and governing AI workflows. It introduces a small indentation-based DSL for composing agents, tools, guards, human approvals, and nested workflows — then runs them on Temporal with retries, cancellation, and replayability. Unlike visual builders, workflows are stored as text for Git-based review and diffs. Unlike prompt chains, every run is durable, versioned, observable via Langfuse, and governable through guards and human approvals.",
+  "fetchedAt": "2026-08-05T00:52:48.080Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "凤凰",
+  "chineseSummary": "用于持久、受管控的 AI 工作流程的代码优先语言关联",
+  "chineseContent": "Finyuus 是一个用于构建、运行和管理人工智能工作流程的代码优先平台。它引入了一种基于缩进的小型 DSL，用于组合代理、工具、防护、人工批准和嵌套工作流程，然后在 Temporal 上运行它们，并具有重试、取消和可重玩性。与可视化构建器不同，工作流程存储为文本以进行基于 Git 的审查和比较。与提示链不同，每次运行都是持久的、版本化的、可通过 Langfuse 观察的，并可通过警卫和人类批准进行管理。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

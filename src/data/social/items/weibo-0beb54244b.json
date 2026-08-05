@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0beb54244b",
+  "slug": "weibo-workbuddy-飞书钉钉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "WorkBuddy 飞书钉钉",
+  "summary": "微博热榜第 50 位：WorkBuddy 飞书钉钉，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23WorkBuddy+%E9%A3%9E%E4%B9%A6%E9%92%89%E9%92%89%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-05T00:52:13.596Z",
+  "fetchedAt": "2026-08-05T00:53:49.134Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

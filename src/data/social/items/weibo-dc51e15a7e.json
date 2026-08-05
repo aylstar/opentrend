@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dc51e15a7e",
+  "slug": "weibo-王一博只有一部待播作品了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "王一博只有一部待播作品了",
+  "summary": "微博热榜第 8 位：王一博只有一部待播作品了，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%AA%E6%9C%89%E4%B8%80%E9%83%A8%E5%BE%85%E6%92%AD%E4%BD%9C%E5%93%81%E4%BA%86%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-08-05T00:52:13.596Z",
+  "fetchedAt": "2026-08-05T00:53:49.133Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

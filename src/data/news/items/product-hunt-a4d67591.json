@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Vibe Buddy",
+  "summary": "Hardware for AI coding Discussion | Link",
+  "url": "https://www.producthunt.com/products/vibe-buddy",
+  "publishedAt": "2026-08-03T08:36:13.000Z",
+  "id": "product-hunt-a4d67591",
+  "slug": "product-hunt-a4d67591",
+  "content": "Vibe Buddy is a small desktop robot that keeps Codex and Claude Code usage limits and task status visible while you work. See when your AI is working, needs your input, has finished, or has hit its usage limit—without opening another tab.",
+  "fetchedAt": "2026-08-05T00:52:48.079Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "氛围好友",
+  "chineseSummary": "AI 编码硬件讨论 |关联",
+  "chineseContent": "Vibe Buddy 是一款小型桌面机器人，可在您工作时保持 Codex 和 Claude Code 使用限制和任务状态可见。查看您的 AI 何时工作、需要您的输入、已完成或已达到其使用限制，而无需打开另一个选项卡。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

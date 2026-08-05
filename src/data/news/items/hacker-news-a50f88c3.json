@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+  "summary": "124 points · 76 comments",
+  "content": "Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL",
+  "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+  "publishedAt": "2026-08-04T22:01:41.000Z",
+  "points": 124,
+  "id": "hacker-news-a50f88c3",
+  "slug": "hacker-news-a50f88c3",
+  "fetchedAt": "2026-08-05T00:52:48.078Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "随着诈骗激增，AI 助长了非洲一半以上的网络犯罪——国际刑警组织",
+  "chineseSummary": "124 分 · 76 条评论",
+  "chineseContent": "据国际刑警组织称，目前非洲一半以上的网络犯罪报告均由人工智能驱动，犯罪分子能够发起更快、更有说服力和更大规模的攻击",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

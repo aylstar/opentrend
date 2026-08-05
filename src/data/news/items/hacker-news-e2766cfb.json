@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+  "summary": "212 points · 57 comments",
+  "content": "I've been getting a lot of those \"your parcel couldn't be delivered\" phishing attacks lately and if you're a human with a phone, you probably have been too. Just as a brief reminder, they look like this: These get through all the technical controls that exist at",
+  "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+  "publishedAt": "2026-08-04T21:09:39.000Z",
+  "points": 212,
+  "id": "hacker-news-e2766cfb",
+  "slug": "hacker-news-e2766cfb",
+  "fetchedAt": "2026-08-05T00:52:48.079Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "感谢联邦快递，这就是我们不断遭到网络钓鱼的原因 (2024)",
+  "chineseSummary": "212 分 · 57 条评论",
+  "chineseContent": "我最近收到了很多“你的包裹无法投递”的网络钓鱼攻击，如果你是一个有手机的人，你可能也遇到过。简单提醒一下，它们看起来像这样：它们通过了存在于的所有技术控制",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

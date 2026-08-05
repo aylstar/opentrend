@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6f1cde6ff5",
+  "slug": "weibo-短剧-降薪",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "短剧 降薪",
+  "summary": "微博热榜第 12 位：短剧 降薪，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7+%E9%99%8D%E8%96%AA%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-08-05T00:52:13.596Z",
+  "fetchedAt": "2026-08-05T00:53:49.133Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

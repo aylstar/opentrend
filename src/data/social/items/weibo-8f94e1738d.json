@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8f94e1738d",
+  "slug": "weibo-光模块",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "光模块",
+  "summary": "微博热榜第 34 位：光模块，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E6%A8%A1%E5%9D%97%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-08-05T00:52:13.596Z",
+  "fetchedAt": "2026-08-05T00:53:49.134Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
