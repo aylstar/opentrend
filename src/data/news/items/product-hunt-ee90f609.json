@@ -7,19 +7,19 @@
   "publishedAt": "2026-08-04T04:49:37.000Z",
   "id": "product-hunt-ee90f609",
   "slug": "product-hunt-ee90f609",
-  "content": "The AI SDR that runs outbound for you Discussion | Link",
-  "fetchedAt": "2026-08-05T00:52:48.080Z",
-  "score": 79,
+  "content": "Stynar is an autonomous AI Revenue Agent that runs your entire outbound workflow. It researches every prospect, writes highly personalized emails, sends campaigns from unlimited mailboxes, automatically follows up, manages every reply in one inbox, detects buying intent, and books meetings directly on your calendar. Instead of hiring more SDRs, let AI handle outbound while your team focuses on closing deals.",
+  "fetchedAt": "2026-08-06T00:49:21.299Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 14,
+  "contentStatus": "article-extracted",
   "chineseTitle": "斯蒂纳尔",
   "chineseSummary": "为您运行出站的AI SDR 讨论 |关联",
-  "chineseContent": "为您运行出站的AI SDR 讨论 |关联",
+  "chineseContent": "Stynar 是一个自主的 AI 收入代理，可运行您的整个出站工作流程。它研究每一位潜在客户，撰写高度个性化的电子邮件，从无限的邮箱发送营销活动，自动跟进，管理一个收件箱中的每一个回复，检测购买意图，并直接在日历上预订会议。不要雇佣更多的特别提款权，而是让人工智能处理出站工作，而您的团队则专注于完成交易。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

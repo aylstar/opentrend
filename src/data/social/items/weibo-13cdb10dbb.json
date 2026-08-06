@@ -1,0 +1,21 @@
+{
+  "id": "weibo-13cdb10dbb",
+  "slug": "weibo-黎彼得去世",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "黎彼得去世",
+  "summary": "微博热榜第 15 位：黎彼得去世，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%BD%BC%E5%BE%97%E5%8E%BB%E4%B8%96%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-08-06T00:50:01.250Z",
+  "fetchedAt": "2026-08-06T00:50:13.780Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

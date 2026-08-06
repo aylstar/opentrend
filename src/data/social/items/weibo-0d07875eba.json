@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0d07875eba",
+  "slug": "weibo-余承东回应口误",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "余承东回应口误",
+  "summary": "微博热榜第 20 位：余承东回应口误，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E5%8F%A3%E8%AF%AF%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-08-06T00:50:01.250Z",
+  "fetchedAt": "2026-08-06T00:50:13.780Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "MarketWatch",
+  "category": "finance",
+  "originalTitle": "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
+  "summary": "The midpoint of the company’s revenue forecast was below what analysts had been modeling.",
+  "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
+  "publishedAt": "2026-08-05T22:25:00.000Z",
+  "id": "marketwatch-aa9d3eb",
+  "slug": "marketwatch-aa9d3eb",
+  "content": "The midpoint of the company’s revenue forecast was below what analysts had been modeling.",
+  "fetchedAt": "2026-08-06T00:49:21.302Z",
+  "score": 90,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "由于公司的预测未达到高预期，Sandisk 股价下跌",
+  "chineseSummary": "该公司收入预测的中点低于分析师的预测。",
+  "chineseContent": "该公司收入预测的中点低于分析师的预测。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "SpeakoFlow",
+  "summary": "Free, open-source voice dictation and AI assistant, offline Discussion | Link",
+  "url": "https://www.producthunt.com/products/speakoflow",
+  "publishedAt": "2026-08-03T08:34:16.000Z",
+  "id": "product-hunt-a460baad",
+  "slug": "product-hunt-a460baad",
+  "content": "SpeakoFlow puts your voice over your whole desktop. Speak, and your words land in any app — email, editor, chat, terminal. Say \"Hey Flow\" and it writes the whole reply from what's on your screen. Ask the assistant about what you're looking at and hear the answer back. It also cleans up your dictation, translates as you speak, and learns how you work. Everything can run on your machine — speech-to-text always does. Free, open source, MIT. Windows, macOS, Linux.",
+  "fetchedAt": "2026-08-06T00:49:21.299Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "语音流",
+  "chineseSummary": "免费、开源语音听写和AI助手，离线讨论|关联",
+  "chineseContent": "SpeakoFlow 将您的声音传送到整个桌面。说话，您的话语就会出现在任何应用程序中——电子邮件、编辑器、聊天、终端。说“Hey Flow”，它就会写下屏幕上的完整回复。向助理询问您正在查看的内容并听取答复。它还可以清理您的听写，在您说话时进行翻译，并了解您的工作方式。一切都可以在您的机器上运行 - 语音转文本始终如此。免费，开源，麻省理工学院。 Windows、macOS、Linux。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

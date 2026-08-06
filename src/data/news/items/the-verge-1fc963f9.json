@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sure seems like Fenix Flexin used AI music generator Treblo",
+  "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+  "publishedAt": "2026-08-05T16:57:25.000Z",
+  "id": "the-verge-1fc963f9",
+  "slug": "the-verge-1fc963f9",
+  "content": "We were pretty sure that Fenix Flexin’s “Rubberz” was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using Treblo, though not other AI tools. According to a blog post, it has a false positive rate of less than 1 in 10,000. That’s not unimpeachable, but it’s notable that the company’s own Classifier determined that “Rubberz” was “very likely Treblo” with “high confidence,” adding more fuel to the PR nightmare for Fenix. [Media: https://soundcloud.com/fenixflexin/rubberz] Treblo does seem to be relishing the attention a bit. “The classifier returns a very high probability score for Rubberz, indicating the released audio was generated almost entirely by our model. That would make it the first known AI-generated song to reach the Billboard Hot 100,” CEO Ryan Tremblay said in a statement to The Verge. He continued, “Someone appears to have used our model to find a sound that millions of people connected with and that’s exciting.” [Image: Unsurprisingly, “Rubberz” is “very likely” AI. https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-05-at-12.44.17-PM.png?quality=90&strip=all] Fenix has continued to deny that Rubberz was made using AI, and has posted clips of what he claims are the project files of the recording session. However, those low-quality videos have done little to dispel any allegations of the song being AI-generated. According to Stereogum, Medasin contended in a since-expired Instagram story that Fenix clearly just used an AI stem separator to fake the session. Fenix did not immediately return a request for comment. Correction August 5th: This story originally stated that the false positive rate for Treblo’s detector was 1 in 1,000; it is 1 in 10,000.",
+  "fetchedAt": "2026-08-06T00:49:21.300Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "产品"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "当然，Fenix Flexin 似乎使用了 AI 音乐生成器 Treblo",
+  "chineseSummary": "我们非常确定 Fenix Flexin 的“Rubberz”是使用 AI 制作的，但音乐家 Medasin 确信它是专门使用 Treblo 制作的。现在该公司和新的检测工具似乎证实了这一点。周一，该公司宣布推出开源 Treblo AI 音乐分类器，该分类器可以使用 [...] 检测歌曲的生成时间。",
+  "chineseContent": "我们非常确定 Fenix Flexin 的“Rubberz”是使用 AI 制作的，但音乐家 Medasin 确信它是专门使用 Treblo 制作的。现在该公司和新的检测工具似乎证实了这一点。周一，该公司宣布推出开源 Treblo AI 音乐分类器，该分类器可以检测使用 Treblo 生成歌曲的时间，但不能检测其他人工智能工具。根据一篇博客文章，它的误报率低于万分之一。这并非无可挑剔，但值得注意的是，该公司自己的分类器以“高置信度”确定“Rubberz”“很可能是 Treblo”，这为 Fenix 的公关噩梦增添了更多火上浇油。 [媒体：https://soundcloud.com/fenixflexin/rubberz] Treblo 似乎确实有点享受这种关注。 “分类器为 Rubberz 返回了非常高的概率分数，表明发布的音频几乎完全是由我们的模型生成的。这将使其成为第一首进入 Billboard Hot 100 的已知人工智能生成歌曲，”首席执行官 Ryan Tremblay 在给 The Verge 的一份声明中表示。他继续说道：“似乎有人使用我们的模型找到了一种让数百万人产生共鸣的声音，这令人兴奋。” [图片：毫不奇怪，“Rubberz”“很可能”是人工智能。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-05-at-12.44.17-PM.png?quality=90&strip=all] Fenix 继续否认 Rubberz 是使用 AI 制作的，并发布了他声称是录制会话的项目文件的剪辑。然而，这些低质量的视频并没有消除任何关于这首歌是人工智能生成的指控。据 Stereogum 报道，Medasin 在一篇已过期的 Instagram 故事中辩称，Fenix 显然只是使用了人工智能茎分离器来伪造会话。 Fenix 没有立即回复合作请求",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

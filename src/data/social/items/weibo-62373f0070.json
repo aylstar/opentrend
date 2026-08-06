@@ -1,0 +1,21 @@
+{
+  "id": "weibo-62373f0070",
+  "slug": "weibo-tfboys换置顶",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 23,
+  "title": "TFBOYS换置顶",
+  "summary": "微博热榜第 23 位：TFBOYS换置顶，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23TFBOYS%E6%8D%A2%E7%BD%AE%E9%A1%B6%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-08-06T00:50:01.250Z",
+  "fetchedAt": "2026-08-06T00:50:13.781Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

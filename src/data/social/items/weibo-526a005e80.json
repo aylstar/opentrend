@@ -1,0 +1,21 @@
+{
+  "id": "weibo-526a005e80",
+  "slug": "weibo-最近你买黄金了没",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "最近你买黄金了没",
+  "summary": "微博热榜第 12 位：最近你买黄金了没，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%BF%91%E4%BD%A0%E4%B9%B0%E9%BB%84%E9%87%91%E4%BA%86%E6%B2%A1%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-08-06T00:50:01.250Z",
+  "fetchedAt": "2026-08-06T00:50:13.780Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "woosal1337__blog",
+  "owner": "woosal1337",
+  "repo": "blog",
+  "name": "blog",
+  "fullName": "woosal1337/blog",
+  "description": "My blog website.",
+  "language": "JavaScript",
+  "githubUrl": "https://github.com/woosal1337/blog",
+  "docsUrl": "https://chele.bi",
+  "stars": 399,
+  "forks": 32,
+  "openIssues": 7,
+  "license": "NOASSERTION",
+  "pushedAt": "2026-08-01T16:19:34Z",
+  "updatedAt": "2026-08-06T00:45:40Z",
+  "createdAt": "2024-02-23T19:23:00Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "自部署"
+  ],
+  "recommendation": 2,
+  "readmeExcerpt": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"public/contour-logo/contour-logo-white.svg\">\n    <img src=\"public/contour-logo/contour-logo-black.svg\" width=\"128\" alt=\"chele.bi\">\n  </picture>\n</p>\n\n# chele.bi\n\nPersonal blog and portfolio of [Ege Chelebi](https://www.chele.bi) ([@woosal1337](https://x.com/woosal1337)).\n\nA dark, editorial personal site — writing, projects, and a reading shelf — built with Next.js 14 (App Router), MDX, Tailwind CSS, and Biome, deployed on Vercel.\n\n## Highlights\n\n- Editorial dark theme: Geist Sans for reading, Geist Mono for code, hairline borders, one motion curve.\n- MDX blog with a left-rail table of contents, callouts, and per-post chrome.\n- Post banners generated from the title — a deterministic contour mark (`lib/contour.ts`), no manual cover images.\n- Liquid-glass circular controls and frosted-glass tags.\n- A single contour identity mark drives the logo and favicons.\n\n## Stack\n\n- Next.js 14 (App Router), React 18, TypeScript\n- MDX posts colocated under `app/(website)/blog/(post)/[slug]/page.mdx`\n- Tailwind CSS with a token layer in `app/globals.css` (dark, editorial)\n- Reusable design-system primitives in `components/ds/`, domain blocks in `components/blocks/`\n- Biome for linting and formatting\n\n## Local setup\n\n```bash\nbun install\nbun dev\n```\n\nRequires Node >= 20 and Bun. No environment variables required.\n\n## Commands\n\n- `bun dev` — dev server\n- `bun run build` — production build\n- `bun run check` — Biome lint and format with auto-fix\n\n## Credits\n\nThe live ASCII surfaces in `components/blocks/ascii/` — donut, flow, plasma, tunnel — are ported from [cobanov/soft-club-ui](https://github.com/cobanov/soft-club-ui) (MIT) and retuned monochrome against this site's tokens. The table-of-contents marker geometry follows [ncdai's LineNav](https://chanhdai.com/components/line-nav).\n\n## License\n\nCode is MIT. Blog content and images are all rights reserved. See [LICENSE](LICENSE).\n",
+  "generatedAt": "2026-08-06T00:49:04.974Z",
+  "analysis": {
+    "oneLine": "blog 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
+    "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
+    "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
+    "detailParagraphs": [
+      "blog 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
+      "如果把它放进实际使用场景，blog 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 399，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "前端构建提速",
+      "Node.js 服务运行时评估",
+      "CI 构建优化",
+      "开发工具链现代化"
+    ],
+    "interpretation": "blog 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 JavaScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升前端和 Node.js 生态中的构建、运行和包管理效率，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 JavaScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。",
+    "recommendation": 2,
+    "tags": [
+      "自部署"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-06T00:49:04.974Z"
+}

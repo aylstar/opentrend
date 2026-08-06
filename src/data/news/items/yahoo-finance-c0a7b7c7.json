@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Nvidia Lifts Dow, But Google, SpaceX Skid; Sandisk, Western Digital Lead Earnings Losers Late",
+  "summary": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
+  "url": "https://finance.yahoo.com/m/23f39a0c-7e02-33c1-8c52-010f887f1807/dow-jones-futures%3A-nvidia.html?.tsrc=rss",
+  "publishedAt": "2026-08-06T00:39:08.000Z",
+  "id": "yahoo-finance-c0a7b7c7",
+  "slug": "yahoo-finance-c0a7b7c7",
+  "content": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
+  "fetchedAt": "2026-08-06T00:49:21.300Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "财经"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：Nvidia 提振道琼斯指数，但谷歌、SpaceX 下滑；闪迪、西部数据领跌盈利",
+  "chineseSummary": "道琼斯指数因英伟达而创下新高，但谷歌、SpaceX 和 AMD 给纳斯达克指数带来压力。闪迪、西部数据尾盘下跌。",
+  "chineseContent": "道琼斯指数因英伟达而创下新高，但谷歌、SpaceX 和 AMD 给纳斯达克指数带来压力。闪迪、西部数据尾盘下跌。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

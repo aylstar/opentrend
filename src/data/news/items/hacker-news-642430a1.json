@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+  "summary": "160 points · 64 comments",
+  "content": "Atlassian’s Rovo AI is a multi-purpose agent that operates across Atlassian’s product suite (Jira, Confluence, etc.).\n\nVulnerabilities have been identified that enable data exfiltration across an Atlassian tenant (Jira tickets, Confluence docs, etc.) via indirect prompt injection. This attack executes without requiring any human-in-the-loop approval, and succeeds by exploiting Rovo's URL retrieval tool.\n\nThis attack succeeds even if an organization has disabled web search for Rovo. This is because the web search setting fails to remove the tool for opening the search results.\n\nPromptArmor disclosed the vulnerabilities covered in this article to Atlassian on May 23rd. Atlassian assigned a case number and expressed thanks, but after multiple follow-ups by PromptArmor over more than two months, Atlassian has made no further communication, and Rovo remains vulnerable. As such, we are publishing to inform users of the risks.\n\nThe victim prepares a query asking Rovo to organize Jira tickets\n\nThe victim uploads a file to Rovo that contains a hidden prompt injection\n\nFor general use cases, this is quite common: a user finds a file online and uploads it to Rovo. This attack is not dependent on the injection source - other injection sources include, but are not limited to: external data in Atlassian (e.g., support tickets), web data (if search is enabled), third-party ‘connectors’, etc.\n\nThe victim asks Rovo to organize their Jira tickets\n\nThe injection manipulates Rovo to submit Jira tickets and Confluence documents to the attacker’s website\n\nRovo's URL retrieval tool is insecure: there are no protections against opening a URL that has been dynamically created by the agent . Here, Rovo is manipulated to append sensitive data to an attacker's URL. When Rovo calls the insecure tool to open the URL, the attacker's site logs the request, including the appended sensitive data.\n\nNote: This attack succeeds even if an organization has disabled web search for Rovo. This is because the web search setting fails to remove the tool for opening the search results.\n\nIf the user returns to the chat later, they see the agent's suggested ticket updates, but no evidence of the attack.\n\nThe attacker views the victim’s tickets and document contents in their website logs\n\nThe prompt injection can exfiltrate any data the agent can access in Atlassian, including any data the agent can access via ‘connectors’.\n\nExtra: A second exfiltration mechanism\n\nAtlassian Rovo also renders Markdown images from AI outputs. Insecure Markdown image rendering is a well-known vector for data exfiltration via indirect prompt injection.\n\nTo see what a full attack chain looks like for insecure Markdown image rendering, here are some examples from our other research:\n\nPromptArmor disclosed the vulnerabilities covered in this article to Atlassian on May 23rd. Atlassian assigned a case number and expressed thanks, but after multiple follow-ups by PromptArmor over more than two months, Atlassian has made no further communication, and Rovo remains vulnerable as of the release of this article.",
+  "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+  "publishedAt": "2026-08-05T17:23:25.000Z",
+  "points": 160,
+  "id": "hacker-news-642430a1",
+  "slug": "hacker-news-642430a1",
+  "fetchedAt": "2026-08-06T00:49:21.297Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Atlassian Rovo 绕过控制窃取数据",
+  "chineseSummary": "160 分 · 64 条评论",
+  "chineseContent": "Atlassian 的 Rovo AI 是一种多用途代理，可在 Atlassian 的产品套件（Jira、Confluence 等）中运行。\n\n已发现的漏洞可通过间接提示注入在 Atlassian 租户（Jira 票证、Confluence 文档等）中进行数据泄露。此攻击无需任何人机交互批准即可执行，并通过利用 Rovo 的 URL 检索工具而成功。\n\n即使组织禁用了 Rovo 的网络搜索，此攻击也会成功。这是因为网页搜索设置未能删除打开搜索结果的工具。\n\nPromptArmor 于 5 月 23 日向 Atlassian 披露了本文中涉及的漏洞。 Atlassian分配了案件编号并表示感谢，但经过PromptArmor两个多月的多次跟进后，Atlassian没有进行进一步的沟通，Rovo仍然处于脆弱状态。因此，我们发布信息是为了告知用户风险。\n\n受害者准备询问，要求 Rovo 整理 Jira 门票\n\n受害者将一个文件上传到 Rovo，其中包含隐藏的提示注入\n\n对于一般用例，这很常见：用户在线找到文件并将其上传到 Rovo。这种攻击不依赖于注入源 - 其他注入源包括但不限于：Atlassian 中的外部数据（例如支持票证）、Web 数据（如果启用了搜索）、第三方“连接器”等。\n\n受害者要求 Rovo 整理他们的 Jira 门票\n\n注入操作 Rovo 将 Jira 票据和 Confluence 文档提交到攻击者的网站\n\nRovo 的 URL 检索工具不安全：没有针对打开由代理动态创建的 URL 的保护措施。此处，Rovo 被操纵以将敏感数据附加到攻击者的 URL 中。当 Rovo 调用不安全的工具打开 URL 时，攻击者的站点会记录该请求，包括附加的敏感数据。\n\n注意：即使组织禁用了 Rovo 的网络搜索，此攻击也会成功。这是因为网页搜索设置未能删除打开搜索结果的工具。\n\n如果用户稍后返回聊天，他们会看到代理建议的票证更新，但没有攻击的证据。\n\n攻击者在其网站日志中查看受害者的票据和文档内容\n\n提示注入可以泄露代理可以在 Atlassian 中访问的任何数据，包括代理可以通过“连接器”访问的任何数据。\n\n额外：第二个渗漏机制\n\nAtlassian Rovo 还渲染来自 AI 输出的 Markdown 图像。不安全的 Markdown 图像渲染是通过间接提示注入进行数据泄露的众所周知的载体。\n\n要了解不安全的 Markdown 图像渲染的完整攻击链是什么样子，以下是我们其他研究中的一些示例：\n\nPromptArmor 于 5 月 23 日向 Atlassian 披露了本文中涉及的漏洞。 Atlassian分配了案例编号并表示感谢，但经过PromptArmor两个多月的多次跟进后，Atlassian并未进行进一步的沟通，截至本文发布时，Rovo仍处于脆弱状态。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
