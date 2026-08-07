@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b3e4a50868",
+  "slug": "weibo-粉笔公告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "粉笔公告",
+  "summary": "微博热榜第 13 位：粉笔公告，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T01:41:02.656Z",
+  "fetchedAt": "2026-08-07T01:48:14.265Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

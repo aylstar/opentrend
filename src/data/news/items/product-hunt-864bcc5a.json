@@ -7,19 +7,19 @@
   "publishedAt": "2026-08-04T19:29:34.000Z",
   "id": "product-hunt-864bcc5a",
   "slug": "product-hunt-864bcc5a",
-  "content": "Build powerful AI agents & workflows Discussion | Link",
-  "fetchedAt": "2026-08-06T00:49:21.298Z",
+  "content": "Keystroke is an all-in-one platform for building powerful AI agents. Describe the agent you need, and Keystroke builds it, connects your tools, tests it, and deploys it to a shared workspace. Give agents memory, workflows, triggers, approvals, and access to 1,000+ integrations. Open source, YC-backed, and free to try with $20 in credits.",
+  "fetchedAt": "2026-08-07T01:46:04.807Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 10,
-  "contentStatus": "fetch-failed",
+  "rank": 15,
+  "contentStatus": "article-extracted",
   "chineseTitle": "按键",
   "chineseSummary": "构建强大的人工智能代理和工作流程讨论 |关联",
-  "chineseContent": "构建强大的人工智能代理和工作流程讨论 |关联",
+  "chineseContent": "Key Strike 是一个用于构建强大的 AI 代理的一体化平台。描述您需要的代理，Keytrip 会构建它、连接您的工具、测试它并将其部署到共享工作区。为代理提供内存、工作流程、触发器、批准以及对 1,000 多个集成的访问权限。开源，由 YC 支持，只需 20 美元的积分即可免费试用。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

@@ -8,12 +8,12 @@
   "language": "Swift",
   "githubUrl": "https://github.com/permissionlesstech/bitchat",
   "docsUrl": "",
-  "stars": 34562,
-  "forks": 5518,
-  "openIssues": 118,
+  "stars": 34667,
+  "forks": 5531,
+  "openIssues": 119,
   "license": "Unlicense",
   "pushedAt": "2026-08-02T06:52:34Z",
-  "updatedAt": "2026-08-06T00:47:05Z",
+  "updatedAt": "2026-08-07T01:42:08Z",
   "createdAt": "2025-07-04T14:34:38Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "<img width=\"256\" height=\"256\" alt=\"icon_128x128@2x\" src=\"https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47\" />\n\n## bitchat\n\nA decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat.\n\n[bitchat.free](http://bitchat.free)\n\n📲 [App Store](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)\n\n📲 [Play Store](https://play.google.com/store/apps/details?id=com.bitchat.droid)\n\n### Getting a copy you can trust\n\nInstall from the App Store, or build from source you have verified. A compiled build from anywhere else cannot be verified — see [Verifying bitchat](docs/VERIFYING-A-BUILD.md) for how to check source against the per-release hash manifest, and for what to do if that is the only build you can get.\n\nThis matters more than it usually would: this repository has been the target of takedown demands, and when a repository or releases page disappears, mirrors appear that nobody can check.\n\n## License\n\nThis project is released into the public domain. See the [LICENSE](LICENSE) file for details.\n\n## Features\n\n- **Dual Transport Architecture**: Bluetooth mesh for offline + Nostr protocol for internet-based messaging\n- **Location-Based Channels**: Geographic chat rooms using geohash coordinates over global Nostr relays\n- **Intelligent Message Routing**: Automatically chooses best transport (Bluetooth → Nostr fallback)\n- **Decentralized Mesh Network**: Automatic peer discovery and multi-hop message relay over Bluetooth LE\n- **Privacy First**: No accounts, no phone numbers, no servers. Note that the mesh does use a persistent per-device identifier derived from your identity key — see [the whitepaper](WHITEPAPER.md) on identity and metadata for what a nearby radio can observe\n- **Private Message End-to-End Encryption**: [Noise Protocol](https://noiseprotocol.org) for mesh, BitChat private envelopes for Nostr fallback\n- **IRC-Style Commands**: Familiar `/slap`, `/msg`, `/who` style interface\n- **Universal App**: Native support for iOS and macOS\n- **Emergency Wipe**: Triple-tap to instantly clear all data\n- **Performance Optimizations**: LZ4 message compression, adaptive battery modes, and optimized networking\n\n## [Technical Architecture](https://deepwiki.com/permissionlesstech/bitchat)\n\nBitChat uses a **hybrid messaging architecture** with two complementary transport layers:\n\n### Bluetooth Mesh Network (Offline)\n\n- **Local Communication**: Direct peer-to-peer within Bluetooth range\n- **Multi-hop Relay**: Messages route through nearby devices (max 7 hops)\n- **No Internet Required**: Works completely offline in disaster scenarios\n- **Noise Protocol Encryption**: End-to-end encryption, with forward secrecy for live sessions (store-and-forward mail is sealed without it — see the whitepaper)\n- **Binary Protocol**: Compact packet format op",
-  "generatedAt": "2026-08-06T00:49:05.377Z",
+  "generatedAt": "2026-08-07T01:45:45.848Z",
   "analysis": {
     "oneLine": "bitchat 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "bitchat 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，bitchat 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 34,562，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，bitchat 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 34,667，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "UCP Radar",
+  "summary": "Make your product feed visible to AI shopping agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/ucp-radar",
+  "publishedAt": "2026-08-05T11:03:42.000Z",
+  "id": "product-hunt-2fc287b9",
+  "slug": "product-hunt-2fc287b9",
+  "content": "Your titles and descriptions were probably never written to Google's spec. And the fields AI agents read (material, product details, age group, highlights, FAQ) are sitting empty. Connecting UCP Radar to Merchant Center is one click. It then works through the catalog, flagging what breaks GMC rules and what hides you from AI shopping assistants, rewriting weak titles and filling the blanks. Brand names it leaves alone. Out comes a supplemental feed Google, Perplexity and ChatGPT can read.",
+  "fetchedAt": "2026-08-07T01:46:04.807Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "雷达",
+  "chineseSummary": "让 AI 购物代理可以看到您的产品 Feed 讨论 |关联",
+  "chineseContent": "您的标题和描述可能从未按照 Google 的规范编写。人工智能代理阅读的字段（材料、产品详细信息、年龄组、亮点、常见问题解答）却是空的。只需点击一下即可将 UCP Radar 连接到 Merchant Center。然后，它会遍历目录，标记哪些内容违反了 GMC 规则，哪些内容让您无法被人工智能购物助理发现，重写薄弱的标题并填补空白。它留下的品牌名称。 Google、Perplexity 和 ChatGPT 可以读取补充提要。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

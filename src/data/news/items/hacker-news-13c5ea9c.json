@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "GitHub Actions and Pages are experiencing degraded availability",
+  "summary": "320 points · 270 comments",
+  "content": "https://www.githubstatus.com/uptime/br0l2tvcx85d",
+  "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+  "publishedAt": "2026-08-06T15:49:38.000Z",
+  "points": 320,
+  "id": "hacker-news-13c5ea9c",
+  "slug": "hacker-news-13c5ea9c",
+  "fetchedAt": "2026-08-07T01:46:04.804Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "GitHub Actions 和 Pages 的可用性下降",
+  "chineseSummary": "320 分 · 270 条评论",
+  "chineseContent": "https://www.githubstatus.com/uptime/br0l2tvcx85d",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

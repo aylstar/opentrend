@@ -1,0 +1,21 @@
+{
+  "id": "douyin-5afc09bb00",
+  "slug": "douyin-今日立秋",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 1,
+  "title": "今日立秋",
+  "summary": "抖音热榜第 1 位：今日立秋，当前热度为 1,132万热度。",
+  "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E7%AB%8B%E7%A7%8B?type=general",
+  "hotValue": "1,132万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T01:29:45.042Z",
+  "fetchedAt": "2026-08-07T01:48:14.227Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

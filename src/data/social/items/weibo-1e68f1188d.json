@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e68f1188d",
+  "slug": "weibo-粉笔公告自曝决策失误",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "粉笔公告自曝决策失误",
+  "summary": "微博热榜第 2 位：粉笔公告自曝决策失误，当前热度为 294万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF%23",
+  "hotValue": "294万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T01:41:02.656Z",
+  "fetchedAt": "2026-08-07T01:48:14.265Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

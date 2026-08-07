@@ -1,0 +1,21 @@
+{
+  "id": "weibo-19981d2f4c",
+  "slug": "weibo-苍兰诀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "苍兰诀",
+  "summary": "微博热榜第 5 位：苍兰诀，当前热度为 71万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%23",
+  "hotValue": "71万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T01:41:02.656Z",
+  "fetchedAt": "2026-08-07T01:48:14.265Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b2c5a85158",
+  "slug": "weibo-张帅vs萨巴伦卡",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "张帅vs萨巴伦卡",
+  "summary": "微博热榜第 27 位：张帅vs萨巴伦卡，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B8%85vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T01:41:02.656Z",
+  "fetchedAt": "2026-08-07T01:48:14.265Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

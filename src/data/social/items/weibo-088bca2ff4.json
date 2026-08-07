@@ -1,0 +1,21 @@
+{
+  "id": "weibo-088bca2ff4",
+  "slug": "weibo-日本网友为mina发声",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "日本网友为Mina发声",
+  "summary": "微博热榜第 12 位：日本网友为Mina发声，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T01:41:02.656Z",
+  "fetchedAt": "2026-08-07T01:48:14.265Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
