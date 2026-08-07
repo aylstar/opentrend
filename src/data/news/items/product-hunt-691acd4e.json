@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Reference",
+  "summary": "Local semantic search for AI agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/reference-2",
+  "publishedAt": "2026-08-05T05:07:59.000Z",
+  "id": "product-hunt-691acd4e",
+  "slug": "product-hunt-691acd4e",
+  "content": "Reference is local semantic search for your files and code, built for AI agents. No cloud, nothing leaves your machine. Ask it \"how did I implement rate limiting here\" and get your actual code back, cited down to the exact function, not generic advice. Live index that updates as you save, code-aware chunking (tree-sitter), and a built-in MCP server (/search, /explain, /find_similar, /check_doc_drift)so Claude Code gets precise cited results instead of burning tokens on grep loops.",
+  "fetchedAt": "2026-08-07T23:55:43.056Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "参考",
+  "chineseSummary": "AI 代理的本地语义搜索讨论 |关联",
+  "chineseContent": "Reference 是针对您的文件和代码的本地语义搜索，专为 AI 代理而构建。没有云，任何东西都不会离开您的机器。问它“我是如何在这里实现速率限制的”并获取你的实际代码，引用精确的函数，而不是通用的建议。保存时会更新的实时索引、代码感知分块（tree-sitter）和内置 MCP 服务器（/search、/explain、/find_similar、/check_doc_drift），因此 Claude Code 可以获得精确的引用结果，而不是在 grep 循环上烧毁令牌。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

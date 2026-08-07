@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e6035b0956",
+  "slug": "weibo-黄金",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "黄金",
+  "summary": "微博热榜第 15 位：黄金，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T23:55:47.566Z",
+  "fetchedAt": "2026-08-07T23:56:32.497Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

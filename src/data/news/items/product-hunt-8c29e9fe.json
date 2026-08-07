@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Merge",
+  "summary": "AI-native code review assessments Discussion | Link",
+  "url": "https://www.producthunt.com/products/merge-5",
+  "publishedAt": "2026-08-06T05:55:10.000Z",
+  "id": "product-hunt-8c29e9fe",
+  "slug": "product-hunt-8c29e9fe",
+  "content": "Merge is a online code review assessment that helps engineering teams assess engineering judgement. With Merge, candidates review a PR, just like on the job. Then, our AI agent addresses PR comments in realtime, simulating a real engineer. At the end, we assess bug coverage, communication, PR quality, and token use efficiency.",
+  "fetchedAt": "2026-08-07T23:55:43.055Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "合并",
+  "chineseSummary": "AI 原生代码审查评估讨论 |关联",
+  "chineseContent": "Merge 是一种在线代码审查评估，可帮助工程团队评估工程判断。通过合并，候选人可以像在工作中一样审查 PR。然后，我们的人工智能代理实时处理公关评论，模拟真正的工程师。最后，我们评估错误覆盖率、沟通、公关质量和代币使用效率。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

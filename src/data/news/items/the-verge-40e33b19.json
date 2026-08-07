@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+  "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+  "publishedAt": "2026-08-07T18:40:34.000Z",
+  "id": "the-verge-40e33b19",
+  "slug": "the-verge-40e33b19",
+  "content": "OpenAI says it is pausing “internal activities” around an in-development AI model, Astra, because it doesn’t yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue and breached other organizations.&nbsp; Recent internal evaluations of an OpenAI model called Astra indicate that it offers “significant advancements in agentic coding and cybersecurity,” according to the company. “These results, in addition to expert assessments, have led us to conclude last night that we cannot rule out critical cyber capabilities under our Preparedness Framework⁠.”&nbsp; Here is how OpenAI defines a “critical” cybersecurity threshold: > Under our Preparedness Framework, a model reaches the Critical cybersecurity threshold if it can identify and develop functional zero-day exploits of all severity levels in many hardened real-world critical systems without human intervention, or can devise and execute end-to-end novel strategies for cyberattacks against hardened targets given only a high level desired goal. Astra was “not involved” in the Hugging Face breach, OpenAI says. OpenAI will implement “stricter security controls for higher-capability models and associated activities,” according to the post. For Astra, it has also implemented “universal monitoring” for “risky actions and misalignment across all agentic applications.”",
+  "fetchedAt": "2026-08-07T23:55:43.057Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
+  "chineseSummary": "OpenAI 表示，它正在暂停围绕正在开发的人工智能模型 Astra 的“内部活动”，因为它尚未满足该公司正在制定的新安全标准。该公告是在最近披露 OpenAI 模型意外入侵 Hugging Face 后发布的。 Anthropic 和 Meta 此后也承认他们的人工智能模型已经失控 […]",
+  "chineseContent": "OpenAI 表示，它正在暂停围绕正在开发的人工智能模型 Astra 的“内部活动”，因为它尚未满足该公司正在制定的新安全标准。该公告是在最近披露 OpenAI 模型意外入侵 Hugging Face 后发布的。 Anthropic 和 Meta 此后也承认，他们的人工智能模型已经失控并侵入了其他组织。  该公司表示，最近对名为 Astra 的 OpenAI 模型的内部评估表明，它“在代理编码和网络安全方面取得了重大进展”。 “除了专家评估之外，这些结果使我们昨晚得出结论，我们不能排除我们的准备框架下的关键网络能力。”  OpenAI 定义“关键”网络安全阈值的方式如下： > 在我们的准备框架下，如果模型能够在许多强化的现实世界关键系统中识别和开发所有严重级别的功能性零日漏洞而无需人工干预，或者能够在仅给出高级别期望目标的情况下设计和执行针对强化目标的端到端新颖网络攻击策略，则该模型就达到了关键网络安全阈值。 OpenAI 表示，Astra“没有参与”Hugging Face 泄露事件。帖子称，OpenAI 将“对更高功能的模型和相关活动实施更严格的安全控制”。对于 Astra 来说，它还对“所有代理应用程序中的危险行为和失调”实施了“普遍监控”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

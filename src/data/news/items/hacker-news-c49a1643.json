@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Oracle bans AI-generated code from OpenJDK",
+  "summary": "355 points · 240 comments",
+  "content": "Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels. The policy contrasts sharply with Oracle's internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle's code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster. Oracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.",
+  "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+  "publishedAt": "2026-08-07T17:36:30.000Z",
+  "points": 355,
+  "id": "hacker-news-c49a1643",
+  "slug": "hacker-news-c49a1643",
+  "fetchedAt": "2026-08-07T23:55:43.054Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Oracle 禁止 OpenJDK 中 AI 生成的代码",
+  "chineseSummary": "355 分 · 240 条评论",
+  "chineseContent": "Oracle 以安全和知识产权风险为由，禁止在 OpenJDK 贡献中使用人工智能生成的代码。这位开源 Java 项目管理员表示，开发人员可以私下使用 LLM 来调试和审查代码，但不能将人工智能生成的材料提交到存储库、拉取请求或其他项目渠道。该政策与甲骨文的内部做法形成鲜明对比。联合创始人拉里·埃里森 (Larry Ellison) 最近宣称人工智能模型现在可以编写 Oracle 的代码，而联合首席执行官迈克·西西利亚 (Mike Sicilia) 则认为人工智能工具使较小的工程团队能够更快地交付。甲骨文今年将投资 700 亿美元用于数据中心扩建。这一支出热潮促使信贷机构标准普尔将甲骨文的评级下调至 BBB-，比垃圾级高一级，理由是投资回报不确定。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

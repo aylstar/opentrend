@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Progress AI Observability",
+  "summary": "Trace, evaluate, and improve AI agents in production Discussion | Link",
+  "url": "https://www.producthunt.com/products/progress-ai-observability",
+  "publishedAt": "2026-08-05T14:27:52.000Z",
+  "id": "product-hunt-b24f9dfa",
+  "slug": "product-hunt-b24f9dfa",
+  "content": "Debug and monitor AI agent failures in minutes. Trace every run, catch hallucinations and ungrounded answers that traditional monitoring misses, and see exactly what went wrong. Reduce token waste, improve agent quality, and ship faster with support forNET, Python, and JavaScript.",
+  "fetchedAt": "2026-08-07T23:55:43.055Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 可观测性进展",
+  "chineseSummary": "跟踪、评估和改进生产中的 AI 代理关联",
+  "chineseContent": "在几分钟内调试和监控 AI 代理故障。追踪每次跑步，捕捉传统监控遗漏的幻觉和毫无根据的答案，并准确查看出了什么问题。通过对 NET、Python 和 JavaScript 的支持，减少令牌浪费、提高代理质量并加快发货速度。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "douyin-b90b370613",
+  "slug": "douyin-edg-1-2-tec",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 2,
+  "title": "EDG 1:2 TEC",
+  "summary": "抖音热榜第 2 位：EDG 1:2 TEC，当前热度为 1,079万热度。",
+  "url": "https://www.douyin.com/search/EDG%201%3A2%20TEC?type=general",
+  "hotValue": "1,079万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T23:46:22.780Z",
+  "fetchedAt": "2026-08-07T23:56:32.499Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "StepShot",
+  "summary": "AI that turns real workflows into step-by-step guides Discussion | Link",
+  "url": "https://www.producthunt.com/products/stepshot-2",
+  "publishedAt": "2026-08-05T08:17:49.000Z",
+  "id": "product-hunt-1c383d0d",
+  "slug": "product-hunt-1c383d0d",
+  "content": "StepShot is an AI-powered documentation tool that turns real on-screen workflows into polished step-by-step guides as you work. It captures clicks and typing; local AI frames screenshots, writes instructions, and explains which actions to keep or skip. Edit, annotate, reorder, and redact every step, then export to PDF, Markdown, or HTML. It runs locally on your Mac with no account or product telemetry, while optional cloud AI polishing uses your own OpenAI-compatible provider.",
+  "fetchedAt": "2026-08-07T23:55:43.056Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "步击",
+  "chineseSummary": "人工智能将真实的工作流程转变为分步指南关联",
+  "chineseContent": "StepShot 是一款人工智能驱动的文档工具，可在您工作时将真实的屏幕工作流程转变为精美的分步指南。它捕获点击和打字；本地人工智能会截取屏幕截图、编写指令并解释要保留或跳过哪些操作。编辑、注释、重新排序和编辑每个步骤，然后导出为 PDF、Markdown 或 HTML。它在您的 Mac 上本地运行，无需帐户或产品遥测，而可选的云 AI 抛光则使用您自己的 OpenAI 兼容提供商。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0d674d86c3",
+  "slug": "weibo-粉笔小作文",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "粉笔小作文",
+  "summary": "微博热榜第 49 位：粉笔小作文，当前热度为 7万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E5%B0%8F%E4%BD%9C%E6%96%87%23",
+  "hotValue": "7万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T23:55:47.566Z",
+  "fetchedAt": "2026-08-07T23:56:32.497Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

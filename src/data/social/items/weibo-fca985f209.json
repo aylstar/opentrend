@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fca985f209",
+  "slug": "weibo-中餐厅",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "中餐厅",
+  "summary": "微博热榜第 22 位：中餐厅，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-08-07T23:55:47.566Z",
+  "fetchedAt": "2026-08-07T23:56:32.497Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

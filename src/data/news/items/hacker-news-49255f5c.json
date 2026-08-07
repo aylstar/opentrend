@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Psychological Warfare in Reverse Engineering (2015)",
+  "summary": "39 points · 2 comments",
+  "content": ": Psychological Warfare in Reverse Engineering\n\ngithub.com/xoreaxeaxeax/repsych // domas // @xoreaxeaxeax\n\nThe REpsych toolset is a proof-of-concept illustrating the generation of images through a program's control flow graph (CFG).\n\nThere is no specific point to the project (other than to show that it can be done), but possible (non-serious) applications are outlined in the DEF CON presentation .\n\nThe program works reliably with all tested versions of the IDA Pro reverse engineering tool, and semi-reliably with other CFG viewers (Hopper, BinNavi, radare2, etc).\n\nThe toolset translates source images into functioning programs, such that the program's control flow graph generates the source image.\n\nTo generate a new program from an image:\n\nTwo functioning programs will be created: repsych_v1 and repsych_v2. Each uses a different strategy for ensuring the CFG renderer correctly places the CFG nodes.\n\nThe tool will create a basic block (CFG node) for each pixel of the source image; as such, you should try to use small source images (not larger than 100x100), and you may need to increase the number of allowed nodes in your CFG viewer.\n\nWhen using an image of text as input to the tool, first convert the image to a 2 BPP black and white bitmap first, then to a 24 BPP bitmap; this will remove non black and white colors, and give the best results in the control flow graph.\n\nThe technique is outlined in detail in the DEF CON presentation .\n\nSlides from the presentation are provided here .\n\nREpsych is a proof-of-concept from Christopher Domas ( @xoreaxeaxeax ).",
+  "url": "https://github.com/xoreaxeaxeax/repsych",
+  "publishedAt": "2026-08-07T18:51:45.000Z",
+  "points": 39,
+  "id": "hacker-news-49255f5c",
+  "slug": "hacker-news-49255f5c",
+  "fetchedAt": "2026-08-07T23:55:43.055Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "逆向工程中的心理战 (2015)",
+  "chineseSummary": "39 分 · 2 条评论",
+  "chineseContent": "：逆向工程中的心理战\n\ngithub.com/xoreaxeaxeax/repsych // 域名 // @xoreaxeaxeax\n\nREpsych 工具集是一个概念验证，说明通过程序的控制流图 (CFG) 生成图像。\n\n该项目没有具体的要点（除了表明它可以完成），但 DEF CON 演示文稿中概述了可能的（非严肃的）应用。\n\n该程序可与 IDA Pro 逆向工程工具的所有经过测试的版本可靠地配合使用，并且与其他 CFG 查看器（Hopper、BinNavi、radare2 等）半可靠地配合使用。\n\n该工具集将源图像转换为功能程序，以便程序的控制流图生成源图像。\n\n要从图像生成新程序：\n\n将创建两个功能程序：repsych_v1 和 repsych_v2。每个都使用不同的策略来确保 CFG 渲染器正确放置 CFG 节点。\n\n该工具将为源图像的每个像素创建一个基本块（CFG节点）；因此，您应该尝试使用较小的源图像（不大于 100x100），并且您可能需要增加 CFG 查看器中允许的节点数量。\n\n当使用文本图像作为工具的输入时，首先将图像转换为 2 BPP 黑白位图，然后转换为 24 BPP 位图；这将删除非黑色和白色，并在控制流程图中给出最佳结果。\n\nDEF CON 演示文稿中详细概述了该技术。\n\n此处提供了演示文稿的幻灯片。\n\nREpsych 是 Christopher Domas (@xoreaxeaxeax) 的概念验证。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/block/buzz",
   "docsUrl": "https://docs.docker.com/get-docker/",
-  "stars": 24280,
-  "forks": 2781,
-  "openIssues": 2141,
+  "stars": 24933,
+  "forks": 2899,
+  "openIssues": 2227,
   "license": "Apache-2.0",
-  "pushedAt": "2026-08-07T01:30:23Z",
-  "updatedAt": "2026-08-07T01:45:11Z",
+  "pushedAt": "2026-08-07T23:40:35Z",
+  "updatedAt": "2026-08-07T23:46:45Z",
   "createdAt": "2026-03-06T21:00:56Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<h1 align=\"center\">Buzz 🐝</h1>\n\n<p align=\"center\">\n  <strong>A workspace where humans and agents build together, on a relay you own.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"VISION.md\">Vision</a> ·\n  <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> ·\n  <a href=\"VISION_PROJECTS.md\">Forge</a> ·\n  <a href=\"VISION_AGENT.md\">Agents</a> ·\n  <a href=\"ARCHITECTURE.md\">Architecture</a> ·\n  <a href=\"RELEASING.md\">Releasing</a> ·\n  <a href=\"LICENSE\">Apache 2.0</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project channel where people and an agent coordinate on a release plan\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <sub><em>People and agents building together in the same room.</em></sub>\n</p>\n\n---\n\n## What is this, really?\n\nBuzz is a self-hostable workspace where humans and AI agents share the same rooms.\n\nA Buzz **community** is the workspace a user reaches by URL. In the single-relay\nsetup that ships today, the relay URL selects exactly one community. A hosted\noperator can serve many communities behind many domains or subdomains, but the\nclient-facing rule stays the same: the URL is authoritative for the workspace,\nand all tenant-observable state under that URL is community-local.\n\nIt's a Nostr relay: every message, reaction, workflow step, review approval, and git event is a signed event in one log. Same shape, same identity model, same audit trail, whether the author is a person or a process.\n\nIn practice it feels like a team workspace. Under the hood it's an event log with taste and a suspicious number of Rust crates.\n\nYes, it's another AI-adjacent developer tool. We're sorry. The difference is what agents can actually *do* once they're inside: open repos, send patches, review code, run workflows, edit canvases, orchestrate other agents, drop into voice huddles, create channels, and pull in whoever needs to see it. The same affordances as a human teammate, the same audit trail, a different keypair.\n\n---\n\n## Stuff you do in Buzz\n\n- **Ask the project a question and get an answer with receipts.** Agents search six months of history and post the threads, not vibes.\n- **Let an agent triage a bug without giving it the keys to the kingdom.** Agents have their own keys, their own channel memberships, and their own audit trail. Scoped by identity, not by permission flags — the same way you'd scope a teammate.\n- **Turn a feature branch into a room** where patches, CI, review, and the merge decision live together — so the channel becomes the record of why the code exists.\n- **Search the conversation, the patch, the workflow run, and the approval in one place** — because they're all the same kind of event.\n- **Let an agent run the workspace, not just talk in it.** Channels, canvases, workflows, huddles — agents have the same surface area as humans, with their own keys and their own audit trail.\n\n---\n\n## A look inside\n\n<table>\n  <tr>\n    <td width=\"50%\" valign=\"top\">\n      <img src=\"docs/assets/screenshots/channel",
-  "generatedAt": "2026-08-07T01:45:43.742Z",
+  "generatedAt": "2026-08-07T23:55:26.398Z",
   "analysis": {
     "oneLine": "buzz 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "buzz 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，buzz 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 24,280，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，buzz 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 24,933，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
