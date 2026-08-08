@@ -7,19 +7,19 @@
   "publishedAt": "2026-08-07T03:57:52.000Z",
   "id": "product-hunt-d21a0732",
   "slug": "product-hunt-d21a0732",
-  "content": "Automate boring work. Extensible and free desktop AI agent. Discussion | Link",
-  "fetchedAt": "2026-08-07T23:55:43.056Z",
-  "score": 79,
+  "content": "Automate any boring task with AgentOne. With over 19,000 built-in extensions, it's easy to integrate nearly any app or website. Connect Gmail, GitHub, Canva, Blender, Chrome, Discord, and more. AgentOne can do work while you do something else. It runs as a desktop app in the background, similar to Claude Cowork. But unlike Claude Cowork, it's free! Plus, you can use any OpenAI-compatible provider (or Claude) to choose from over 8000 AI models.",
+  "fetchedAt": "2026-08-08T23:51:52.054Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 2,
-  "contentStatus": "fetch-failed",
+  "rank": 12,
+  "contentStatus": "article-extracted",
   "chineseTitle": "AgentOne 桌面版",
   "chineseSummary": "自动化无聊的工作。可扩展且免费的桌面 AI 代理。讨论 |关联",
-  "chineseContent": "自动化无聊的工作。可扩展且免费的桌面 AI 代理。讨论 |关联",
+  "chineseContent": "使用 AgentOne 自动执行任何无聊的任务。凭借 19,000 多个内置扩展，可以轻松集成几乎任何应用程序或网站。连接 Gmail、GitHub、Canva、Blender、Chrome、Discord 等。 AgentOne 可以在您做其他事情的同时完成工作。它作为桌面应用程序在后台运行，类似于 Claude Cowork。但与 Claude Cowork 不同的是，它是免费的！另外，您可以使用任何兼容 OpenAI 的提供商（或 Claude）从 8000 多个 AI 模型中进行选择。",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

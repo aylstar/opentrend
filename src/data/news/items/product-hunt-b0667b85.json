@@ -1,26 +1,24 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Basedash AI Kit",
-  "summary": "Ship AI analytics in your product, powered by GPT-5.6 Discussion | Link",
+  "originalTitle": "Basedash Subscriptions",
+  "summary": "Subscribe to any dashboard. Delivered on schedule. Discussion | Link",
   "url": "https://www.producthunt.com/products/basedash",
-  "publishedAt": "2026-07-23T03:16:23.000Z",
+  "publishedAt": "2026-08-08T04:18:54.000Z",
   "id": "product-hunt-b0667b85",
   "slug": "product-hunt-b0667b85",
-  "content": "Ship AI analytics in your product, powered by GPT-5.6 Discussion | Link",
-  "fetchedAt": "2026-07-26T01:04:22.951Z",
-  "score": 73,
+  "content": "Subscribe to any dashboard. Delivered on schedule. Discussion | Link",
+  "fetchedAt": "2026-08-08T23:51:52.054Z",
+  "score": 79,
   "sourceWeight": 84,
   "tags": [
-    "AI",
-    "全球",
-    "产品"
+    "全球"
   ],
-  "rank": 7,
+  "rank": 2,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "BasedashAI 套件",
-  "chineseSummary": "由 GPT-5.6 提供支持，在您的产品中提供 AI 分析关联",
-  "chineseContent": "由 GPT-5.6 提供支持，在您的产品中提供 AI 分析关联",
+  "chineseTitle": "基于ash订阅",
+  "chineseSummary": "订阅任何仪表板。按计划交付。讨论 |关联",
+  "chineseContent": "订阅任何仪表板。按计划交付。讨论 |关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

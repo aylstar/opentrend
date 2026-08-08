@@ -1,0 +1,21 @@
+{
+  "id": "weibo-da6391523d",
+  "slug": "weibo-百花奖",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "百花奖",
+  "summary": "微博热榜第 47 位：百花奖，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-08T23:44:58.501Z",
+  "fetchedAt": "2026-08-08T23:52:41.905Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

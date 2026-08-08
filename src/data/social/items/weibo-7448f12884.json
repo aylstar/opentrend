@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7448f12884",
+  "slug": "weibo-kpl",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "KPL",
+  "summary": "微博热榜第 42 位：KPL，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23KPL%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-08-08T23:44:58.501Z",
+  "fetchedAt": "2026-08-08T23:52:41.905Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

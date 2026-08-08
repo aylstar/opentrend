@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/usekaneo/kaneo",
   "docsUrl": "https://kaneo.app/",
-  "stars": 7617,
-  "forks": 610,
-  "openIssues": 45,
+  "stars": 7744,
+  "forks": 620,
+  "openIssues": 56,
   "license": "MIT",
-  "pushedAt": "2026-08-07T17:15:01Z",
-  "updatedAt": "2026-08-07T23:30:33Z",
+  "pushedAt": "2026-08-08T15:29:36Z",
+  "updatedAt": "2026-08-08T23:40:27Z",
   "createdAt": "2024-12-31T08:25:09Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://kaneo.app\">\n    <img src=\"https://assets.kaneo.app/logo-text.png\" alt=\"Kaneo's logo\" width=\"450\" />\n  </a>\n</p>\n\n<div align=\"center\">\n\n[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/usekaneo/kaneo/ci.yml?branch=main)](https://github.com/usekaneo/kaneo/actions)\n[![Discord](https://img.shields.io/discord/1326250681530843178?color=7389D8&label=&logo=discord&logoColor=ffffff)](https://discord.gg/rU4tSyhXXU)\n[![Sponsors](https://img.shields.io/github/sponsors/andrejsshell)](https://github.com/sponsors/andrejsshell)\n\n</div>\n\n<div align=\"center\">\n  <h3>\n    <a href=\"https://kaneo.app/docs/core\">Quick Start</a>\n    <span> | </span>\n    <a href=\"https://kaneo.app\">Website</a>\n    <span> | </span>\n    <a href=\"https://cloud.kaneo.app\">Cloud</a>\n    <span> | </span>\n    <a href=\"https://discord.gg/rU4tSyhXXU\">Discord</a>\n  </h3>\n</div>\n\n\n<p align=\"center\">\n  <img src=\"https://assets.kaneo.app/readme.png\" alt=\"Kaneo Dashboard\" />\n</p>\n\n## Why Kaneo?\n\nAfter years of using bloated, overcomplicated project management platforms that distracted from actual work, we built Kaneo to be different.\n\nThe problem with most tools isn't that they lack features, it's that they have **too many**. Every notification, every unnecessary button, every complex workflow pulls your team away from what matters: **building great products**.\n\nWe believe the best tools are **invisible**. They should amplify your team's natural workflow, not force you to adapt to theirs. Kaneo is built on the principle that **less is more**: every feature exists because it solves a real problem, not because it looks impressive in a demo.\n\n**What makes it different:**\n- **Clean interface** that focuses on your work, not the tool\n- **Self-hosted** so your data stays yours\n- **Actually fast** because we care about performance\n- **Open source** with a permissive MIT license\n\nLearn more about Kaneo's features and capabilities in our [documentation](https://kaneo.app/docs/core).\n\n## Sponsors\n\nKaneo is open source. If you find it useful, consider [sponsoring the project](https://github.com/sponsors/andrejsshell) to help support ongoing development.\n\n<!-- sponsors --><a href=\"https://github.com/danielsada\"><img src=\"https:&#x2F;&#x2F;github.com&#x2F;danielsada.png\" width=\"60px\" alt=\"User avatar: Daniel Sada\" /></a><a href=\"https://github.com/randoneering\"><img src=\"https:&#x2F;&#x2F;github.com&#x2F;randoneering.png\" width=\"60px\" alt=\"User avatar: (justin)randoneering\" /></a><a href=\"https://github.com/floreabogdan\"><img src=\"https:&#x2F;&#x2F;github.com&#x2F;floreabogdan.png\" width=\"60px\" alt=\"User avatar: Bogdan FLOREA\" /></a><a href=\"https://github.com/meruw\"><img src=\"https:&#x2F;&#x2F;github.com&#x2F;meruw.png\" width=\"60px\" alt=\"User avatar: meri\" /></a><!-- sponsors -->\n\n## Getting Started\n\n### One-Click Deployment with drim\n\nFor straightforward deployments, use ",
-  "generatedAt": "2026-08-07T23:55:24.264Z",
+  "generatedAt": "2026-08-08T23:51:37.539Z",
   "analysis": {
     "oneLine": "kaneo 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "kaneo 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，kaneo 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 7,617，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，kaneo 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 7,744，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

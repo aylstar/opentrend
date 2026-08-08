@@ -1,0 +1,70 @@
+{
+  "slug": "unclebob__swarm-forge",
+  "owner": "unclebob",
+  "repo": "swarm-forge",
+  "name": "swarm-forge",
+  "fullName": "unclebob/swarm-forge",
+  "description": "A simple tool for coordinating several AI agents.",
+  "language": "Clojure",
+  "githubUrl": "https://github.com/unclebob/swarm-forge",
+  "docsUrl": "",
+  "stars": 1979,
+  "forks": 209,
+  "openIssues": 18,
+  "license": "",
+  "pushedAt": "2026-08-08T18:02:22Z",
+  "updatedAt": "2026-08-08T23:27:27Z",
+  "createdAt": "2026-04-17T15:18:26Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "NAS",
+    "自部署",
+    "企业工具",
+    "自动化办公"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "<p align=\"center\" style=\"color: red; font-weight: bold; font-size: 2em; font-style: italic; text-decoration: underline;\">\nDo not spend any money on a bankrbot SWARM token.\n</p>\n\n# SwarmForge\n\n**A disciplined tmux-based agent orchestration platform that turns swarms of AI agents into reliable, professional software engineers.**\n\n## Intent\n\nThis `main` branch is documentary: it explains the system and carries the shared operational scripts and default constitution articles. The runnable workflow branches carry the project-facing configurations, role prompts, and local constitution articles that define specific workflows.\n\nSwarmForge is an agent coordination system that facilitates communication between agents working in different git worktrees.\n\nIt provides a shared structure for role-specific prompts, worktree assignment, tmux sessions, and message passing so multiple agents can collaborate on the same project without stepping on each other.\n\n## Branches\n\nThe runnable SwarmForge configurations live on dedicated branches. Each branch contains the `swarmforge/swarmforge.conf`, local constitution articles, and role prompts for one workflow. At startup, its `./swarm` wrapper copies the shared operational scripts and shared constitution articles from `main` when they are not already present, then launches that branch's local configuration.\n\n### `two-pack`\n\n`two-pack` is the quick backend workflow. Use it for small tasks that benefit from fast coding without the overhead of Gherkin and acceptance testing, while still preserving backend refactoring and hardening.\n\n- `coder` implements requested behavior with TDD and unit tests.\n- `cleaner` batches coder handoffs and performs cleanup, CRAP and DRY review, architectural review, encapsulation and separation-of-concerns fixes, and language mutation hardening.\n\nThe normal flow is `coder` -> `cleaner` -> `coder`. Use this branch when you want a tight implementation/refinement loop without specification, QA, property-test, or acceptance-test roles.\n\n### `four-pack`\n\n`four-pack` is the compact specification workflow. Use it for moderate projects that require Gherkin specification and some architectural consideration without splitting every quality gate into its own agent:\n\n- `specifier` turns user intent into precise Gherkin acceptance specifications and asks for approval before handoff.\n- `coder` implements approved behavior slices with TDD, unit tests, and generated acceptance tests.\n- `refactorer` performs behavior-preserving cleanup, coverage improvement, CRAP and DRY review, mutation-site scans, and property-test support.\n- `architect` owns high-level structure, dependency direction, mutation hardening, DRY review, soft Gherkin mutation, and final completion notification.\n\nThe normal flow is `specifier` -> `coder` -> `refactorer` -> `architect` -> `specifier`. Use this branch when you want disciplined development without splitting cleanup, architecture, hardening, and QA into separate agents.\n\n### `six-pack",
+  "generatedAt": "2026-08-08T23:51:39.184Z",
+  "analysis": {
+    "oneLine": "swarm-forge 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
+    "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
+    "audience": "研究人员、学生、行业分析师、知识工作者",
+    "detailParagraphs": [
+      "swarm-forge 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
+      "如果把它放进实际使用场景，swarm-forge 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 1,979，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Clojure 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "文献阅读工作流",
+      "研究资料整理",
+      "行业报告素材管理",
+      "AI 辅助研究流程"
+    ],
+    "interpretation": "swarm-forge 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Clojure 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在改善文献检索、阅读、整理和研究输出流程，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Clojure 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于不同研究场景差异较大，自动化效果需要真实任务验证。",
+    "recommendation": 2.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "NAS",
+      "自部署",
+      "企业工具",
+      "自动化办公"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-08T23:51:39.185Z"
+}

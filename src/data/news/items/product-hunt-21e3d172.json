@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Toolport",
+  "summary": "Every tool, one port. One MCP setup for all your AI agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/conduit-12",
+  "publishedAt": "2026-08-07T20:20:13.000Z",
+  "id": "product-hunt-21e3d172",
+  "slug": "product-hunt-21e3d172",
+  "content": "Your agent got slower the more MCP servers you added, and it's not the model. Every server dumps its whole tool list into context on every request: 3 servers cost ~24k tokens before you even say hi. Toolport puts them behind one local gateway that exposes 4 meta-tools the agent searches on demand. Measured: 97% less tool overhead per request, ~90% fewer tokens, same task success. Cloud or local, one tool or five. Keys in your OS keychain. Free and open source. Windows, macOS, and Linux.",
+  "fetchedAt": "2026-08-08T23:51:52.054Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "工具端口",
+  "chineseSummary": "每一种工具，一个端口。为所有 AI 代理设置一个 MCP 讨论 |关联",
+  "chineseContent": "添加的 MCP 服务器越多，代理速度就越慢，这不是模型的问题。每个服务器都会将其整个工具列表转储到每个请求的上下文中：在您打招呼之前，3 个服务器就花费了约 24k 代币。 Toolport 将它们置于一个本地网关后面，该网关公开 4 个元工具，供代理按需搜索。测量结果：每个请求的工具开销减少 97%，令牌减少约 90%，任务成功率相同。云或本地，一个或五个工具。操作系统钥匙串中的钥匙。免费且开源。 Windows、macOS 和 Linux。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

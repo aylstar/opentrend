@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Timeline of the OpenAI accidental attack against Hugging Face",
+  "summary": "310 points · 314 comments",
+  "content": "Now we have a timeline of the OpenAI accidental attack against Hugging Face\n\nOpenAI gave a last-minute presentation at the Black Hat security on Wednesday about “the Hugging Face Incident” ( previously on this blog). The video was published yesterday. It’s short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I’ve used the video to construct the timeline below.\n\nHere’s the timeline. My favourite detail is at the end: OpenAI found out that they were responsible for the attack on Hugging Face when they reached out to ask to have their credentials revoked (after their internal investigation) and learned that they had been revoked already since they were used in that attack!\n\nI’ll quote the next bit in full because wow :\n\nThe agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine using this known Linux kernel privilege escalation CVE — in this case, pte_physroot . Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they’re able to effectively leverage their concurrency and parallelism to move quite rapidly. They obtain IAM credentials via IMDS . They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and they harvest cluster credentials, including Azure Key Vault . Agents eventually obtain cluster admin on the cluster and associated credentials.\n\nHugging Face told the next bit of the story already. The agents found a Modal-hosted insecure app with a weak API key, then used that to stage an attack against Hugging Face. They chained together a an HDF5 arbitrary-file-read bug (to explore files and steal credentials) and a Jinja template-injection RCE to go from single-pod code execution to cluster admin across multiple Hugging Face clusters in under 13 hours.\n\nThis is Now we have a timeline of the OpenAI accidental attack against Hugging Face by Simon Willison, posted on 7th August 2026 .\n\nPrevious: One-shotting a Raccoon Heist game using Claude Fable 5\n\nSponsor me for $10/month and get a curated email digest of the month's most important LLM developments.",
+  "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+  "publishedAt": "2026-08-08T10:57:44.000Z",
+  "points": 310,
+  "id": "hacker-news-750d504e",
+  "slug": "hacker-news-750d504e",
+  "fetchedAt": "2026-08-08T23:51:52.054Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 对 Hugging Face 的意外攻击的时间线",
+  "chineseSummary": "310 分 · 314 条评论",
+  "chineseContent": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表\n\n周三，OpenAI 在黑帽安全会议上做了最后一刻的演讲，内容涉及“拥抱脸事件”（之前在本博客中）。该视频于昨天发布。它很短，信息密集，非常值得一看，特别是因为它提供了 OpenAI 内部发生的事情以及事情如何进行的完整细节。我使用该视频构建了下面的时间线。\n\n这是时间表。我最喜欢的细节在最后：当 OpenAI 联系要求撤销其凭证（经过内部调查后）后，OpenAI 发现他们对 Hugging Face 的攻击负有责任，并得知自从在攻击中使用它们以来，它们已经被撤销了！\n\n我将完整引用下一点，因为哇：\n\n这些代理在 Artifactory 中远程执行代码，Artifactory 在容器即服务环境中运行。代理通过探索其本地环境并确定其运行的计算机的 Linux 内核版本具有最新的 CVE，在本地进行权限提升。他们下载 CVE 的漏洞，对其进行自定义以在计算机上成功，并使用此已知的 Linux 内核权限提升 CVE（在本例中为 pte_physroot ）在本地计算机上将权限提升为 root。一旦获得了单台机器的 root 权限，代理就会快速提升权限并在容器即服务基础设施环境中横向移动。特别是，代理始终使用留言板来共享凭证、技术和进度，并且他们能够有效地利用其并发性和并行性来快速移动。他们通过 IMDS 获取 IAM 凭证。他们利用 Kubernetes 服务帐户错误配置，特别是特定服务帐户的过度许可，并获取集群凭据，包括 Azure Key Vault 。代理最终获得集群的集群管理员和关联的凭据。\n\n拥抱脸已经讲述了故事的下一部分。特工发现了一个 Modal 托管的不安全应用程序，其 API 密钥较弱，然后利用该应用程序对 Hugging Face 进行攻击。他们将 HDF5 任意文件读取错误（用于探索文件和窃取凭证）和 Jinja 模板注入 RCE 链接在一起，在 13 小时内从单 Pod 代码执行到跨多个 Hugging Face 集群的集群管理。\n\n现在我们有了 Simon Willison 于 2026 年 8 月 7 日发布的 OpenAI 对 Hugging Face 意外攻击的时间表。\n\n上一篇： 使用《克劳德寓言 5》一次性完成《浣熊抢劫》游戏\n\n每月支付 10 美元赞助我，即可获得本月最重要的法学硕士发展的精选电子邮件摘要。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

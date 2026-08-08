@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cfb61ba2c7",
+  "slug": "weibo-ksg夺得kwc冠军",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "KSG夺得KWC冠军",
+  "summary": "微博热榜第 17 位：KSG夺得KWC冠军，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23KSG%E5%A4%BA%E5%BE%97KWC%E5%86%A0%E5%86%9B%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-08-08T23:44:58.501Z",
+  "fetchedAt": "2026-08-08T23:52:41.904Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

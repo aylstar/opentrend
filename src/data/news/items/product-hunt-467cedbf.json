@@ -1,0 +1,26 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Hexis",
+  "summary": "Git-backed skills, tools & context for AI agents Discussion | Link",
+  "url": "https://www.producthunt.com/products/bevel-4",
+  "publishedAt": "2026-08-03T16:15:36.000Z",
+  "id": "product-hunt-467cedbf",
+  "slug": "product-hunt-467cedbf",
+  "content": "We're building the infrastructure for deploying AI agents in enterprises. From the team behind UTCP, the open tool-calling protocol as an alternative to MCP.",
+  "fetchedAt": "2026-08-08T23:51:52.054Z",
+  "score": 69,
+  "sourceWeight": 84,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "六边形",
+  "chineseSummary": "人工智能代理的 Git 支持的技能、工具和上下文关联",
+  "chineseContent": "我们正在构建用于在企业中部署人工智能代理的基础设施。来自 UTCP 背后的团队，开放工具调用协议作为 MCP 的替代方案。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

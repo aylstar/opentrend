@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Gentoo bugzilla closed due AI bot scraper overload",
+  "summary": "151 points · 103 comments",
+  "content": "I've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see. EDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to deal with this shit. I'm just trying to get some useful job done. I'm not supposed to have to be dealing with this. #AI #NoAI #NoLLM",
+  "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+  "publishedAt": "2026-08-08T13:55:42.000Z",
+  "points": 151,
+  "id": "hacker-news-2a6ada95",
+  "slug": "hacker-news-2a6ada95",
+  "fetchedAt": "2026-08-08T23:51:52.054Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gentoo bugzilla 由于 AI bot scraper 过载而关闭",
+  "chineseSummary": "151 分 · 103 条评论",
+  "chineseContent": "我已经把#Gentoo Bugzilla 拿下来了，因为它无论如何都无法使用。为使用数千个不同 IPv4 地址的#LLM 抓取工具提供数据是没有意义的，而且我看不到明显的模式。编辑：我不是在寻找提示。我不是系统管理员，我没有时间处理这些事情。我只是想完成一些有用的工作。我不应该处理这件事。 #AI #NoAI #NoLLM",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

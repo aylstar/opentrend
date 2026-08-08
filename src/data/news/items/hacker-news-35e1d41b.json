@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "A domain can now say it is for sale, in DNS",
+  "summary": "326 points · 129 comments",
+  "content": "_for-sale is a reserved DNS leaf node name, defined by RFC 10023 (Informational, July 2026) and registered with IANA. A TXT record published at _for-sale.example.com signals that example.com , although registered and resolving normally, is available for purchase.\n\nThe record carries a mandatory version tag followed by at most one tag=value pair:\n\nThe wrong belief to clear first is that this is a way of parking a domain. It is close to the opposite. Parking replaces the site with a sales page, which costs you every visitor the domain still has. _for-sale sits beside a live site in DNS and says nothing to a browser: the homepage keeps serving, the mail keeps flowing, and the record can be added and removed at will. RFC 10023 makes the point explicitly — the convention is designed to work while the domain is still in active use.\n\nIt is also not the same thing as registration data. WHOIS and RDAP answer “is this name registered?”; a registered name may still be purchasable, and an unregistered one may not be worth having. That gap is the whole reason the convention exists, and it is why brokers and automated availability services are the intended audience rather than people.\n\nThe signal a domain owner most wants to send is the one there has never been a channel for. If you are willing to sell, the interested buyer has no way to learn that short of a cold email to a WHOIS contact that privacy redaction has probably removed. Enquiries that would have been welcome never arrive, and the ones that do arrive are indistinguishable from spam.\n\nPutting the signal in DNS rather than on the page is what makes it useful to the parties who can act on it. A broker or an availability service checking a name resolves it anyway; one extra lookup tells them what a rendered page could not, because nothing on a working homepage says “the domain under this is negotiable”. It is externally checkable, costs one record, and carries no risk to the site itself — a browser never sees it.\n\nPublish a single TXT record at the _for-sale leaf of the zone you are selling, and only while you mean it.\n\nRules worth getting right the first time:\n\nSign the zone with DNSSEC if you can. An unsigned TXT record asserting your domain is for sale, at a price, with a contact URI, is a comfortable thing for someone else to forge.\n\nThis site does not ship a _for-sale record: specification.website is not for sale.",
+  "url": "https://specification.website/spec/foundations/for-sale-dns/",
+  "publishedAt": "2026-08-08T13:26:51.000Z",
+  "points": 326,
+  "id": "hacker-news-35e1d41b",
+  "slug": "hacker-news-35e1d41b",
+  "fetchedAt": "2026-08-08T23:51:52.053Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "域名现在可以在 DNS 中说它正在出售",
+  "chineseSummary": "326 分 · 129 条评论",
+  "chineseContent": "_for-sale 是保留的 DNS 叶节点名称，由 RFC 10023（信息性，2026 年 7 月）定义并在 IANA 注册。在 _for-sale.example.com 上发布的 TXT 记录表明 example.com 尽管已正常注册和解析，但仍可供购买。\n\n该记录带有强制版本标签，后跟至多一个标签=值对：\n\n首先要澄清的错误观念是，这是一种停放域名的方式。它接近于相反的情况。停放将网站替换为销售页面，这会让该域中仍然拥有的每个访问者付出代价。 _for-sale 位于 DNS 中的一个实时站点旁边，对浏览器什么也不说：主页继续提供服务，邮件继续流动，并且可以随意添加和删除记录。 RFC 10023 明确指出了这一点——该约定旨在在域仍在活跃使用时发挥作用。\n\n它也与注册数据不同。 WHOIS 和 RDAP 回答“这个名称是否已注册？”；已注册的名称可能仍然可以购买，而未注册的名称可能不值得拥有。这种差距是该公约存在的全部原因，也是经纪人和自动可用性服务成为目标受众而不是普通人的原因。\n\n域名所有者最想发送的信号是从未有渠道发送的信号。如果您愿意出售，感兴趣的买家将无法得知，除非向 WHOIS 联系人发送一封冷冰冰的电子邮件，而隐私修订可能已将其删除。本来受欢迎的询问永远不会到达，而到达的询问也与垃圾邮件没有区别。\n\n将信号放在 DNS 中而不是放在页面上，这对于可以对其采取行动的各方来说非常有用。经纪人或可用性服务检查名称无论如何都会解决它；一项额外的查找告诉他们渲染的页面不能做什么，因为工作主页上没有任何内容表明“此下的域名是可协商的”。它是可从外部检查的，需要一条记录，并且不会给网站本身带来任何风险——浏览器永远不会看到它。\n\n仅当您有意为之时，才在您正在销售的区域的 _for-sale 叶上发布一条 TXT 记录。\n\n值得第一次就做好的规则：\n\n如果可以的话，使用 DNSSEC 对该区域进行签名。一条未签名的 TXT 记录表明您的域名正在出售，并带有联系 URI，对于其他人来说这是一件很容易伪造的事情。\n\n此网站不提供 _for-sale 记录：规格。网站不出售。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

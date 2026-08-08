@@ -7,18 +7,18 @@
   "publishedAt": "2026-08-06T05:29:41.000Z",
   "id": "product-hunt-f1eb9962",
   "slug": "product-hunt-f1eb9962",
-  "content": "delivered tomorrow morning at a random time between 8 -10 AM Discussion | Link",
-  "fetchedAt": "2026-08-07T01:46:04.806Z",
-  "score": 79,
+  "content": "Hey Postcard is a slow messaging app for people who matter. Instead of sending another instant message, write a digital postcard. It arrives the next morning at a random time, bringing back that little feeling of waiting for something special. We built Hey Postcard because meaningful conversations shouldn’t get lost between notifications, group chats, and everyday noise. Write. Send. Wait for the postman. 💌",
+  "fetchedAt": "2026-08-08T23:51:52.055Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 3,
-  "contentStatus": "fetch-failed",
+  "rank": 15,
+  "contentStatus": "article-extracted",
   "chineseTitle": "嘿明信片 - 数字明信片",
   "chineseSummary": "明天早上 8 点至 10 点之间的随机时间交付 讨论 |关联",
-  "chineseContent": "明天早上 8 点至 10 点之间的随机时间交付 讨论 |关联",
+  "chineseContent": "Hey Postcard 是一款针对重要人士的慢速消息传递应用程序。与其发送另一条即时消息，不如写一张数字明信片。它在第二天早上随机到达，带回了那种等待特别的东西的感觉。我们制作“嘿明信片”是因为有意义的对话不应该在通知、群聊和日常噪音之间迷失。写。发送。等待邮递员。 💌",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
