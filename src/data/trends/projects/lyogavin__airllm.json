@@ -8,12 +8,12 @@
   "language": "Jupyter Notebook",
   "githubUrl": "https://github.com/lyogavin/airllm",
   "docsUrl": "https://github.com/ml-explore/mlx?tab=readme-ov-file#installation",
-  "stars": 30148,
-  "forks": 3207,
-  "openIssues": 133,
+  "stars": 30370,
+  "forks": 3233,
+  "openIssues": 135,
   "license": "Apache-2.0",
-  "pushedAt": "2026-08-08T06:54:20Z",
-  "updatedAt": "2026-08-08T23:50:57Z",
+  "pushedAt": "2026-08-09T06:59:19Z",
+  "updatedAt": "2026-08-09T23:44:19Z",
   "createdAt": "2023-06-12T16:28:41Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "![airllm_logo](https://github.com/lyogavin/airllm/blob/main/assets/airllm_logo_sm.png?v=3&raw=true)\n\n[**Quickstart**](#quickstart) | \n[**Configurations**](#configurations) | \n[**MacOS**](#macos) | \n[**Example notebooks**](#example-python-notebook) | \n[**FAQ**](#faq)\n\n**AirLLM** dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run **405B Llama 3.1** on **8GB**, **DeepSeek-V3 (671B)** on **~12GB**, and **Kimi K3 (2.8T)** — the largest open-source model released to date — on **under 4GB**, because sparse MoE models stream one expert at a time rather than a whole layer.\n\n<a href=\"https://github.com/lyogavin/airllm/stargazers\">![GitHub Repo stars](https://img.shields.io/github/stars/lyogavin/airllm?style=social)</a>\n[![Downloads](https://static.pepy.tech/personalized-badge/airllm?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads)](https://pepy.tech/project/airllm)\n\n[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/LianjiaTech/BELLE/blob/main/LICENSE)\n[![Generic badge](https://img.shields.io/badge/wechat-Anima-brightgreen?logo=wechat)](https://static.aicompose.cn/static/wecom_barcode.png?t=1671918938)\n[![Discord](https://img.shields.io/discord/1175437549783760896?logo=discord&color=7289da\n)](https://discord.gg/2xffU5sn)\n[![PyPI - AirLLM](https://img.shields.io/pypi/format/airllm?logo=pypi&color=3571a3)\n](https://pypi.org/project/airllm/)\n[![Website](https://img.shields.io/website?up_message=blog&url=https%3A%2F%2Fmedium.com%2F%40lyo.gavin&logo=medium&color=black)](https://medium.com/@lyo.gavin)\n[![Website](https://img.shields.io/badge/Gavin_Li-Blog-blue)](https://gavinliblog.com)\n[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgavinli%26type%3Dpatrons&style=flat)](https://patreon.com/gavinli)\n[![GitHub Sponsors](https://img.shields.io/github/sponsors/lyogavin?logo=GitHub&color=lightgray)](https://github.com/sponsors/lyogavin)\n\n## AI Agents Recommendation:\n\n* [Best AI Game Sprite Generator](https://godmodeai.co)\n\n* [Best AI Facial Expression Editor](https://crazyfaceai.com)\n\n* [Bloome — build & run AI agent teams in the cloud, zero setup](https://bloome.im/app?ref=G6BYnov0&utm_medium=github&utm_source=lyogavin-airllm-ivor-202606)\n\n## Updates\n[2026/07] **Kimi K3 (2.8T)** support: the largest open-source model runs on a single card in **3.72GB** of VRAM, measured end to end on one RTX 6000 Ada. Per-expert streaming loads only the experts a token actually routes to. K3 brings three requirements of its own: `pip install compressed-tensors flash-attn` (its model code mandates flash attention regardless of what you request), a CUDA 12 build of torch, since no prebuilt flash-attn wheel exists for CUDA 13 yet, and `transformers` 4.56.x, as its remote code does not load",
-  "generatedAt": "2026-08-08T23:51:36.256Z",
+  "generatedAt": "2026-08-09T23:56:08.021Z",
   "analysis": {
     "oneLine": "airllm 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "airllm 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，airllm 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 30,148，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Jupyter Notebook 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，airllm 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 30,370，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Jupyter Notebook 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

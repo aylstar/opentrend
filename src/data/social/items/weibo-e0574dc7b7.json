@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e0574dc7b7",
+  "slug": "weibo-bin心态好转",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "Bin心态好转",
+  "summary": "微博热榜第 33 位：Bin心态好转，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Bin%E5%BF%83%E6%80%81%E5%A5%BD%E8%BD%AC%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-08-09T23:50:43.444Z",
+  "fetchedAt": "2026-08-09T23:58:23.313Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

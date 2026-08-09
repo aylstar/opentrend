@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
   "docsUrl": "https://hermes-agent.nousresearch.com/docs/",
-  "stars": 18202,
-  "forks": 1632,
-  "openIssues": 568,
+  "stars": 18744,
+  "forks": 1691,
+  "openIssues": 591,
   "license": "NOASSERTION",
   "pushedAt": "2026-08-06T12:07:09Z",
-  "updatedAt": "2026-08-08T23:48:31Z",
+  "updatedAt": "2026-08-09T23:53:58Z",
   "createdAt": "2026-04-07T06:34:26Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "\n<div align=\"center\">\n\n<img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" />\n\n### Agents remember. Humans innovate.\n\n<a href=\"https://trendshift.io/repositories/29310?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-29310\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/29310\" alt=\"TencentCloud%2FTencentDB-Agent-Memory | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n[![npm](https://img.shields.io/npm/v/@tencentdb-agent-memory/memory-tencentdb?color=blue)](https://www.npmjs.com/package/@tencentdb-agent-memory/memory-tencentdb)\n[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)\n[![Node](https://img.shields.io/badge/node-%3E=22.16-brightgreen)](https://nodejs.org/)\n[![OpenClaw](https://img.shields.io/badge/OpenClaw-%3E=2026.3.13-orange)](https://github.com/openclaw/openclaw)\n[![Hermes](https://img.shields.io/badge/Hermes-Gateway-7B61FF)](https://hermes-agent.nousresearch.com/docs/)\n[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/dJQM6mKMF)\n\n[Installation](#installation) · [What is it?](#what-is-tencentdb-agent-memory) · [Team Play](#one-play-style-build-a-growing-agent-team-for-a-one-person-company) · [Technical Implementation](#technical-implementation) · [Benchmark](#benchmark)\n\n[**English**](./README.md) · [简体中文](./README_CN.md)\n\n</div>\n\n---\n\n> **Latest:** Team Memory Beta is evolving quickly — install it and start exploring in minutes.\n\n<td>\n   <video src=\"https://github.com/user-attachments/assets/efb1a808-1f86-4cfe-802c-f7453f7ca938\" width=\"100%\" controls autoplay loop muted playsinline></video>\n</td>\n\n# Installation\n\nStart all three services in one go (`memory-core` + `memory-hub` + `proxy`):\n\n```bash\ngit clone https://github.com/Tencent/TencentDB-Agent-Memory.git\ncd TencentDB-Agent-Memory/deploy/global-images\ncp .env.example .env\n$EDITOR .env       # Fill in two sets of LLM parameters (memory group + proxy group)\n./start-all.sh     # Launch everything with one command; when finished, it prints a one-liner you can paste directly into Claude\n```\n\nOpen the panel: [http://localhost:8125](http://localhost:8125).\n\nComplete installation documentation (standalone Memory Hub deployment, Proxy + Claude Code / CodeBuddy usage, stop and cleanup, port reference, etc.) is available in [**INSTALL.md**](./INSTALL.md) (中文: [INSTALL_CN.md](./INSTALL_CN.md)).\n\n### Migrating data from an older version\n\nIf you're already on an older release (v1.x / v0.x) and want to bring your existing data over to v2.0.0+, we provide a migration tool:\n\nSee [**Data Migration Tool (v2 → v3)**](./MemoryCore/scripts/migrate-v2-to-v3/README.md) for full usage and flags. New installations can skip this.\n\n# What is TencentDB Agent Memory?\n\nWe started from a practical question: **How do you reduce repetitive work when using Agents?**\n\nIf project context has already been explained, it should",
-  "generatedAt": "2026-08-08T23:51:35.838Z",
+  "generatedAt": "2026-08-09T23:56:07.248Z",
   "analysis": {
     "oneLine": "TencentDB-Agent-Memory 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "TencentDB-Agent-Memory 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，TencentDB-Agent-Memory 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 18,202，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，TencentDB-Agent-Memory 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 18,744，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

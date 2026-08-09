@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Mea Culpa – Dark Hours",
+  "summary": "534 points · 246 comments",
+  "content": "Last week I launched a project called Dark Hours, which was a website utility to give you an idea of what could be seen in the sky that night.\n\nA developer who created another web app called DarkHours.app replied to my comment on Bluesky yesterday to show me how similar the project was to his, including the name. The thread is here .\n\nI told him I’d significantly differentiate the featureset, change the name, and write up a blog post to show people his project.\n\nAbout an hour later, once it became clear to me that the web app I had launched using Claude was strikingly similar to his open source project, even reproducing a bug he had later fixed, it was clear that there wasn’t anything to do except to redirect the domain directly to him and kill any plans I had to launch an iOS app for the project.\n\nI’d like to give credit where credit is due. I think he’s made a wonderful open source app and if you liked the features that were included in what I launched, please use the actual version of the project. That’s what I’ll be doing.\n\nI’d also like to apologize for my irresponsible use of AI to build such a thing. While I had genuinely never seen DarkHours.app before yesterday, I was careless in relying on AI to generate the project without doing the work to understand whether it closely resembled an existing project. That’s on me, and I am responsible for what I published.\n\nGoing forward, I won’t be using AI in this way to create any more web stuff, and I do not use it to anything close to this extent on iOS software. I do ask questions, debug issues, things like that, but I do not create apps with Claude for iOS.",
+  "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+  "publishedAt": "2026-08-09T13:20:43.000Z",
+  "points": 534,
+  "id": "hacker-news-fdd3c83e",
+  "slug": "hacker-news-fdd3c83e",
+  "fetchedAt": "2026-08-09T23:56:29.030Z",
+  "score": 67,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Mea Culpa——黑暗时刻",
+  "chineseSummary": "534 分 · 246 条评论",
+  "chineseContent": "上周我启动了一个名为“黑暗时刻”的项目，这是一个网站实用程序，可以让您了解那天晚上天空中可以看到什么。\n\n昨天，一位创建了另一个名为 DarkHours.app 的 Web 应用程序的开发人员回复了我对 Bluesky 的评论，向我展示了该项目与他的项目有多么相似，包括名称。线索就在这里。\n\n我告诉他我会显着区分功能集，更改名称，并写一篇博客文章向人们展示他的项目。\n\n大约一个小时后，当我清楚地意识到我使用 Claude 启动的 Web 应用程序与他的开源项目惊人相似，甚至重现了他后来修复的错误时，很明显除了将域名直接重定向到他并终止我为该项目启动 iOS 应用程序的任何计划之外，没有什么可做的。\n\n我想在应得的荣誉上给予荣誉。我认为他制作了一个很棒的开源应用程序，如果您喜欢我发布的功能，请使用该项目的实际版本。这就是我要做的。\n\n我还要为我不负责任地使用人工智能来构建这样的东西而道歉。虽然我在昨天之前确实从未见过 DarkHours.app，但我粗心地依赖人工智能来生成该项目，而没有做工作来了解它是否与现有项目非常相似。这是我的责任，我对我发表的内容负责。\n\n展望未来，我不会以这种方式使用人工智能来创建更多的网络内容，而且我不会在 iOS 软件上使用它到这种程度。我确实会提出问题，调试问题，诸如此类的事情，但我不会使用 Claude 创建 iOS 版应用程序。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "2026-08-10",
+  "date": "2026-08-10",
+  "title": "2026年08月10日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-08-09T23:56:16.313Z",
+  "stats": {
+    "totalProjects": 18,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "koala73__worldmonitor",
+      "diegosouzapw__omniroute",
+      "usekaneo__kaneo"
+    ],
+    "weekly": [
+      "firecrawl__pdf-inspector",
+      "zhaoxuya520__reverse-skill",
+      "tencentcloud__tencentdb-agent-memory",
+      "lyogavin__airllm",
+      "esengine__deepseek-reasonix",
+      "microsoft__ai-for-beginners",
+      "usekaneo__kaneo",
+      "virgiliojr94__book-to-skill",
+      "google__skills",
+      "unclebob__swarm-forge"
+    ],
+    "monthly": [
+      "zhaoxuya520__reverse-skill",
+      "microsoft__ai-for-beginners",
+      "diegosouzapw__omniroute",
+      "nutlope__hallmark",
+      "koala73__worldmonitor",
+      "1jehuang__jcode",
+      "stablyai__orca",
+      "pingdotgg__t3code",
+      "hkuds__deeptutor",
+      "opencut-app__opencut"
+    ],
+    "commercial": [
+      "firecrawl__pdf-inspector",
+      "zhaoxuya520__reverse-skill",
+      "tencentcloud__tencentdb-agent-memory",
+      "lyogavin__airllm",
+      "esengine__deepseek-reasonix",
+      "microsoft__ai-for-beginners"
+    ],
+    "deployable": [
+      "firecrawl__pdf-inspector",
+      "zhaoxuya520__reverse-skill",
+      "tencentcloud__tencentdb-agent-memory",
+      "lyogavin__airllm",
+      "esengine__deepseek-reasonix",
+      "microsoft__ai-for-beginners"
+    ],
+    "risky": [
+      "firecrawl__pdf-inspector",
+      "zhaoxuya520__reverse-skill",
+      "tencentcloud__tencentdb-agent-memory",
+      "lyogavin__airllm",
+      "esengine__deepseek-reasonix",
+      "microsoft__ai-for-beginners"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 18 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "firecrawl__pdf-inspector",
+    "zhaoxuya520__reverse-skill",
+    "tencentcloud__tencentdb-agent-memory",
+    "lyogavin__airllm",
+    "esengine__deepseek-reasonix",
+    "microsoft__ai-for-beginners",
+    "usekaneo__kaneo",
+    "virgiliojr94__book-to-skill",
+    "google__skills",
+    "unclebob__swarm-forge",
+    "diegosouzapw__omniroute",
+    "nutlope__hallmark",
+    "koala73__worldmonitor",
+    "1jehuang__jcode",
+    "stablyai__orca",
+    "pingdotgg__t3code",
+    "hkuds__deeptutor",
+    "opencut-app__opencut"
+  ]
+}

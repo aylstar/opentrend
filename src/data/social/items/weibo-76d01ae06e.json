@@ -1,0 +1,21 @@
+{
+  "id": "weibo-76d01ae06e",
+  "slug": "weibo-百花奖",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "百花奖",
+  "summary": "微博热榜第 6 位：百花奖，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-08-09T23:50:43.444Z",
+  "fetchedAt": "2026-08-09T23:58:23.312Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

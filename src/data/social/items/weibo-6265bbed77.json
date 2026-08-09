@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6265bbed77",
+  "slug": "weibo-白海豚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "白海豚",
+  "summary": "微博热榜第 10 位：白海豚，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-08-09T23:50:43.444Z",
+  "fetchedAt": "2026-08-09T23:58:23.312Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

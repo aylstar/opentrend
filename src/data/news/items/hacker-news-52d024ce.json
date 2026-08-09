@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+  "summary": "42 points · 10 comments",
+  "content": "Line-level provenance for text under agentic editing — who wrote this line, us or them? — derived from a text's version history. Use it as library or as CLI tool.\n\nWith agentic coding and editing, provenance becomes a pertinent question. Text a human wrote or edited should be considered close to sacred: an agent should be hesitant and have a very good reason to touch it. Slop another agent has produced, on the other hand, is completely up for grabs.\n\nA use case for this: Take a mostly vibecoded app in which you want to establish some corners in the code where you want to assert your ideas and ownership. You surely don't want another agent bulldoze over this piece of code in the next session.\n\nAnother use case: the README.md, originally generated, where you rewrite the opening paragraphs. The agent should feel free to redo or append parts further downwards but should really think twice changing anything in the opener.\n\nThe main constraint under which this should work is that this should not require for text to be marked up specifically for that. Omnipresent plain text (markdown) should be supported as is.\n\nThe only thing to leverage then, is that each new version of a text is created under identifable authorship - of either a human or an agent.\n\nThe output of an evaluation over a given text is a set of ranges — \"islands\" of human-authored lines inside a \"sea\" of machine generated text. Technically based on simple diffing, this is the guiding metaphor for development of the algorithm. We don't want to track authorship of individual lines only, but of meaningfully coherent pieces of text. So joining, splitting apart, and dilution of authorship are behaviours to be factored in, also in such a manner that we don't converge in full sea or full island.\n\nUsing us-vs-them as CLI tool requires bbin for a local install.\n\nA git repository is already a history of versions each carrying a provenance marker — every revision of the file, in order, with the author of the change that made it.\n\nTo use it anywhere inside a git repository:\n\nwhere 1.0 means fully human authored range. 0.46 means originally human authored range, modified by agents to a certain degree. 0.00 means fully agent authored.\n\n--ours : these are the humans, everonee else is considered an agent\n\n--theirs : these are agents, everyone else is considered human\n\nName whichever side is the shorter list. Passing both arguments at the same time will be rejected.\n\nThe best way to understand the behaviour is to have a look at caution_test.clj .",
+  "url": "https://github.com/eighttrigrams/us-vs-them",
+  "publishedAt": "2026-08-09T15:25:29.000Z",
+  "points": 42,
+  "id": "hacker-news-52d024ce",
+  "slug": "hacker-news-52d024ce",
+  "fetchedAt": "2026-08-09T23:56:29.031Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "人类与 AI——代理编辑下文本的基于差异的行级出处",
+  "chineseSummary": "42 分 · 10 条评论",
+  "chineseContent": "代理编辑下文本的行级出处——这行代码是谁写的，是我们还是他们？ ——源自文本的版本历史。将其用作库或 CLI 工具。\n\n通过代理编码和编辑，出处成为一个相关问题。人类编写或编辑的文本应该被视为接近神圣：代理应该犹豫并有充分的理由去触碰它。另一方面，另一家代理商生产的污水则完全可供争夺。\n\n一个用例：以一个主要是 vivicoded 的应用程序为例，您希望在代码中建立一些角落，以在其中声明您的想法和所有权。您肯定不希望另一个代理在下一个会话中强行处理这段代码。\n\n另一个用例：最初生成的 README.md，您可以在其中重写开头段落。代理应该随意重做或进一步向下附加部分，但应该三思而后行地更改开场白中的任何内容。\n\n这应该起作用的主要限制是，这不应该要求专门为此标记文本。应按原样支持无所不在的纯文本（markdown）。\n\n那么唯一可以利用的是，文本的每个新版本都是在可识别的作者身份下创建的 - 无论是人类还是代理。\n\n对给定文本的评估的输出是一组范围——机器生成文本“海洋”内的人类创作行的“岛屿”。从技术上讲，基于简单的比较，这是算法开发的指导隐喻。我们不想只追踪单行的作者，而是想要追踪有意义的连贯文本片段的作者。因此，加入、分裂和稀释作者身份都是需要考虑的行为，而且我们不会在整个海洋或整个岛屿上汇聚。\n\n使用 us-vs-them 作为 CLI 工具需要 bbin 进行本地安装。\n\ngit 存储库已经是版本的历史记录，每个版本都带有出处标记 - 文件的每个修订版（按顺序）以及进行更改的作者。\n\n要在 git 存储库中的任何位置使用它：\n\n其中 1.0 表示完全由人类创作的范围。 0.46 表示最初是人类创作的范围，经过代理进行了一定程度的修改。 0.00 表示完全由代理创作。\n\n--ours：这些是人类，其他人都被视为特工\n\n--他们的：这些是特工，其他人都被认为是人类\n\n说出列表中较短的一侧。同时通过两个参数将被拒绝。\n\n了解该行为的最佳方法是查看cautality_test.clj。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

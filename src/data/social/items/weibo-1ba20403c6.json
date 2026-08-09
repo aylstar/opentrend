@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1ba20403c6",
+  "slug": "weibo-国乒怎么了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "国乒怎么了",
+  "summary": "微博热榜第 7 位：国乒怎么了，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-08-09T23:50:43.444Z",
+  "fetchedAt": "2026-08-09T23:58:23.312Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
