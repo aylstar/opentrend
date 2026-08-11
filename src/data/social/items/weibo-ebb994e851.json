@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ebb994e851",
+  "slug": "weibo-无冕影帝",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "无冕影帝",
+  "summary": "微博热榜第 11 位：无冕影帝，当前热度为 42万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%86%95%E5%BD%B1%E5%B8%9D%23",
+  "hotValue": "42万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.205Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

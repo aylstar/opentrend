@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+  "summary": "621 points · 347 comments",
+  "content": "Give agents the autonomy they need to get work done, safely.\n\nNeed to enforce these controls across your whole team?\n\nNetwork and filesystem controls you define.\n\nEnforceable org-wide with Docker AI Governance.\n\nHard security boundary from the host.\n\nDisposable by default. Faster than VMs.\n\nAgents can spin up containers within Sandboxes.\n\nInstall packages, run services, work unattended.\n\nClaude Code, Copilot CLI, Codex, Kiro, OpenCode.\n\nGive agents freedom. Keep what matters safe.\n\nWhat is a sandbox for AI coding agents?\n\nA sandbox is a microVM isolated environment that protects your filesystem and network from agents running inside it.\n\nOut of the box we support Claude Code, Gemini CLI, Copilot CLI, Codex, OpenCode, Kiro. You can also create your own\n\nWhat does “YOLO mode” mean, and is it safe?\n\nYOLO mode ( --dangerously-skip-permissions ) gives agents autonomy with no approval prompts. Essential for speed, but risky without guardrails. Sandboxes make it safe by isolating each agent inside a dedicated microVM.\n\nHow is a sandbox different from a VM?\n\nSandboxes run fully isolated in microVMs, giving more isolation without paying the full cost of running a VM. This lets them do things that need more permissions safely, like running additional Docker containers.\n\nWhat safety controls can I configure?\n\nTo define these once and enforce them on every developer’s machine, see Docker AI Governance .\n\nDo I need Docker Desktop to use sandboxes?\n\nWhat if I need additional admin controls?\n\nInstalling Sandboxes covers core functionality. For centralized controls across a team such as network policies, filesystem rules, MCP governance: Docker AI Governance .\n\nNeed More Control Over Your Sandboxes?\n\nThank you for your interest. The Docker Team will be in touch",
+  "url": "https://www.docker.com/products/docker-sandboxes/",
+  "publishedAt": "2026-08-10T06:02:38.000Z",
+  "points": 621,
+  "id": "hacker-news-1eafcd2a",
+  "slug": "hacker-news-1eafcd2a",
+  "fetchedAt": "2026-08-10T23:58:28.315Z",
+  "score": 80,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
+  "chineseSummary": "621 分 · 347 条评论",
+  "chineseContent": "为客服人员提供安全完成工作所需的自主权。\n\n需要在整个团队中实施这些控制？\n\n您定义的网络和文件系统控制。\n\n通过 Docker AI 治理在组织范围内强制执行。\n\n来自主机的硬安全边界。\n\n默认为一次性。比虚拟机更快。\n\n代理可以在沙箱内启动容器。\n\n安装软件包、运行服务、无人值守工作。\n\n克劳德代码、Copilot CLI、Codex、Kiro、OpenCode。\n\n给予代理人自由。确保重要事物的安全。\n\n什么是 AI 编码代理的沙箱？\n\n沙箱是一个 microVM 隔离环境，可保护您的文件系统和网络免受在其中运行的代理的影响。\n\n我们开箱即用地支持 Claude Code、Gemini CLI、Copilot CLI、Codex、OpenCode、Kiro。您也可以创建自己的\n\n“YOLO 模式”是什么意思，安全吗？\n\nYOLO 模式（ --dangerously-skip-permissions ）为代理提供自主权，无需批准提示。对于速度至关重要，但没有护栏则存在风险。沙箱通过将每个代理隔离在专用的 microVM 内来确保安全。\n\n沙箱与虚拟机有何不同？\n\n沙箱在 microVM 中完全隔离运行，提供更多隔离，而无需支付运行 VM 的全部成本。这让他们可以安全地执行需要更多权限的操作，例如运行额外的 Docker 容器。\n\n我可以配置哪些安全控制？\n\n要定义一次并在每个开发人员的机器上强制执行它们，请参阅 Docker AI 治理。\n\n我需要 Docker Desktop 才能使用沙箱吗？\n\n如果我需要额外的管理控制怎么办？\n\n安装沙箱涵盖了核心功能。对于整个团队的集中控制，例如网络策略、文件系统规则、MCP 治理：Docker AI 治理。\n\n需要对您的沙箱进行更多控制？\n\n感谢您的关注。 Docker 团队将与您联系",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

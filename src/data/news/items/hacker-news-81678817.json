@@ -1,0 +1,28 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+  "summary": "61 points · 39 comments",
+  "content": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa ( https://www.stoaexchange.com ), a marketplace for new and used GPUs and AI servers. GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute. If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensive fast, even with the same hardware as collateral. The lender’s problem is pretty reasonable. If the borrower defaults and we need to sell these servers, what can we actually get for them? There isn’t a good answer today. We started brokering GPU deals to understand why. It was much more manual than we expected. The hardware is still traded through phone calls, forwarded spreadsheets and long email threads. One week, a seller quoted us $200k for a server node and another quoted $240k for what looked like the same thing. Neither was necessarily wrong. They had different information and could only see their own corner of the market. Before we could compare the quotes, we had to sort out the configuration, condition, warranty, location and delivery terms. It’s the same information Kelley Blue Book attaches to a used-car price through the year, trim, mileage and condition. “An H100 server” isn’t enough information to know what something is worth, just as “a used BMW” isn’t. This is also just a bad way to buy or sell hardware. A buyer looking for the best price shouldn’t have to contact several brokers and dealers separately, repeat the same request and then untangle a pile of different quotes. Sellers shouldn’t have to search for demand one buyer at a time. A market of this size deserves better liquidity. Stoa puts the request into one format and sends it to dealers that have gone through know-your-business (KYB) checks. We verify the company, who owns it and who is allowed to trade for it. Before the request goes out, the buyer confirms the exact configuration, quantity, condition, warranty, location, delivery terms and what will be checked during inspection. Dealers return firm quotes against that same request without seeing each other’s bids. Once a quote is accepted, payment, shipping, delivery and inspection are then tracked through settlement. We don’t take possession of the hardware. We got more than $300M in requests for quotes (RFQs) during our first month. The immediate goal is to make buying and selling this hardware less painful. As trades build up, they also leave lenders with actual resale evidence instead of list prices and one off appraisals. We knew from the beginning that this couldn’t be a software only marketplace. GPU trading runs on relationships, and inventory isn’t shown to just anyone. Dealers need to trust the people bringing them clients, and clients need to trust that quotes will actually turn into trades. We built those relationships over time by brokering deals ourselves. Stoa gives people a cleaner way to trade, from the first RFQ through settlement, but it doesn’t replace the trust underneath. Those relationships, and the history of who actually follows through, are a big part of our process. We’ve known each other for more than ten years. We have founded companies, traded interest rate derivatives, built trading and pricing systems for oil and gas. We learned GPU trading by doing the deals ourselves, and Stoa grew out of the problems we kept running into. We charge a tiered fee on completed trades, with lower fees at higher volumes. It’s free to sign up at https://www.stoaexchange.com/signup . If you’ve bought, sold, financed or had to liquidate GPUs, would be great to hear your take!",
+  "url": "https://www.stoaexchange.com",
+  "publishedAt": "2026-08-10T16:35:27.000Z",
+  "points": 61,
+  "id": "hacker-news-81678817",
+  "slug": "hacker-news-81678817",
+  "fetchedAt": "2026-08-10T23:58:28.314Z",
+  "score": 83,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 2,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场",
+  "chineseSummary": "61 分 · 39 条评论",
+  "chineseContent": "嗨，HN，我们是艾伦、培拉特和卡恩。我们正在构建 Stoa ( https://www.stoaexchange.com )，这是一个新旧 GPU 和人工智能服务器的市场。 GPU 是数据中心扩建的抵押品。如今，融资条款主要取决于承购商，即承诺使用计算的公司。如果该公司是一家超大规模企业，那么融资可能看起来是投资级的。如果是较小的云或初创公司，即使使用相同的硬件作为抵押品，条款也会很快变得昂贵。贷方的问题是相当合理的。如果借款人违约，我们需要出售这些服务器，我们实际上能得到什么？今天还没有一个好的答案。我们开始代理 GPU 交易来了解原因。它比我们预期的要手动得多。硬件交易仍然通过电话、转发电子表格和长电子邮件进行。一周，一位卖家对服务器节点的报价为 20 万美元，而另一位卖家对看起来相同的东西的报价为 24 万美元。两者都不一定是错误的。他们掌握的信息不同，只能看到自己的市场一角。在比较报价之前，我们必须先弄清楚配置、状况、保修、位置和交货条款。这与凯利蓝皮书附加到二手车价格、年份、装饰、里程和车况的信息相同。 “H100 服务器”没有足够的信息来了解某物的价值，就像“二手宝马”没有足够的信息一样。这也是购买或销售硬件的一种糟糕方式。寻求最佳价格的买家不必分别联系多个经纪人和交易商，重复相同的请求，然后理清一堆不同的报价。卖家不应该一次只寻找一个买家的需求。如此规模的市场值得更好的流动性。 Stoa 将请求转换为一种格式并",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

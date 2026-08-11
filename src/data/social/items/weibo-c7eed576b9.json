@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c7eed576b9",
+  "slug": "weibo-百花奖获奖名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "百花奖获奖名单",
+  "summary": "微博热榜第 2 位：百花奖获奖名单，当前热度为 118万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23",
+  "hotValue": "118万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.205Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

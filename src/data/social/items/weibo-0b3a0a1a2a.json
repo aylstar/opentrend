@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0b3a0a1a2a",
+  "slug": "weibo-微博之夜含金量",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "微博之夜含金量",
+  "summary": "微博热榜第 32 位：微博之夜含金量，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%90%AB%E9%87%91%E9%87%8F%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.206Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

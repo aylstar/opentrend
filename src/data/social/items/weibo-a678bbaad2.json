@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a678bbaad2",
+  "slug": "weibo-theshy还是太权威了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "TheShy还是太权威了",
+  "summary": "微博热榜第 48 位：TheShy还是太权威了，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23TheShy%E8%BF%98%E6%98%AF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.206Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

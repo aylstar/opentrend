@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cfa80f9d4e",
+  "slug": "weibo-小小的我导演0票",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "小小的我导演0票",
+  "summary": "微博热榜第 25 位：小小的我导演0票，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AF%BC%E6%BC%940%E7%A5%A8%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.206Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

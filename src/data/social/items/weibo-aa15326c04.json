@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aa15326c04",
+  "slug": "weibo-沈腾最大的奖-微博king",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "沈腾最大的奖 微博King",
+  "summary": "微博热榜第 12 位：沈腾最大的奖 微博King，当前热度为 42万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A5%96+%E5%BE%AE%E5%8D%9AKing%23",
+  "hotValue": "42万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.205Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

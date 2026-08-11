@@ -1,0 +1,21 @@
+{
+  "id": "weibo-78470d36ad",
+  "slug": "weibo-王宝强0票",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "王宝强0票",
+  "summary": "微博热榜第 1 位：王宝强0票，当前热度为 334万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8%23",
+  "hotValue": "334万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.205Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

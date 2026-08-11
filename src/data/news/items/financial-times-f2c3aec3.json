@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models",
+  "summary": "Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available",
+  "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1",
+  "publishedAt": "2026-08-10T10:00:02.000Z",
+  "id": "financial-times-f2c3aec3",
+  "slug": "financial-times-f2c3aec3",
+  "content": "Meta’s founder casts OpenAI and Anthropic as foils in his pitch for powerful AI to become more freely available",
+  "fetchedAt": "2026-08-10T23:58:28.324Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "财经",
+    "产品"
+  ],
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "随着 Meta 回归开放模型，马克·扎克伯格攻击“封闭”的 AI 竞争对手",
+  "chineseSummary": "Meta 的创始人将 OpenAI 和 Anthropic 作为他的陪衬，以让强大的人工智能变得更加免费",
+  "chineseContent": "Meta 的创始人将 OpenAI 和 Anthropic 作为他的陪衬，以让强大的人工智能变得更加免费",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

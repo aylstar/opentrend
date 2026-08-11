@@ -8,12 +8,12 @@
   "language": "Clojure",
   "githubUrl": "https://github.com/unclebob/swarm-forge",
   "docsUrl": "",
-  "stars": 2049,
-  "forks": 217,
-  "openIssues": 18,
+  "stars": 2114,
+  "forks": 220,
+  "openIssues": 20,
   "license": "",
-  "pushedAt": "2026-08-09T18:01:49Z",
-  "updatedAt": "2026-08-09T23:47:24Z",
+  "pushedAt": "2026-08-10T19:50:15Z",
+  "updatedAt": "2026-08-10T22:16:14Z",
   "createdAt": "2026-04-17T15:18:26Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<p align=\"center\" style=\"color: red; font-weight: bold; font-size: 2em; font-style: italic; text-decoration: underline;\">\nDo not spend any money on a bankrbot SWARM token.\n</p>\n\n# SwarmForge\n\n**A disciplined tmux-based agent orchestration platform that turns swarms of AI agents into reliable, professional software engineers.**\n\n## Intent\n\nThis `main` branch is documentary: it explains the system and carries the shared operational scripts and default constitution articles. The runnable workflow branches carry the project-facing configurations, role prompts, and local constitution articles that define specific workflows.\n\nSwarmForge is an agent coordination system that facilitates communication between agents working in different git worktrees.\n\nIt provides a shared structure for role-specific prompts, worktree assignment, tmux sessions, and message passing so multiple agents can collaborate on the same project without stepping on each other.\n\n## Branches\n\nThe runnable SwarmForge configurations live on dedicated branches. Each branch contains the `swarmforge/swarmforge.conf`, local constitution articles, and role prompts for one workflow. At startup, its `./swarm` wrapper copies the shared operational scripts and shared constitution articles from `main` when they are not already present, then launches that branch's local configuration.\n\n### `two-pack`\n\n`two-pack` is the quick backend workflow. Use it for small tasks that benefit from fast coding without the overhead of Gherkin and acceptance testing, while still preserving backend refactoring and hardening.\n\n- `coder` implements requested behavior with TDD and unit tests.\n- `cleaner` batches coder handoffs and performs cleanup, CRAP and DRY review, architectural review, encapsulation and separation-of-concerns fixes, and language mutation hardening.\n\nThe normal flow is `coder` -> `cleaner` -> `coder`. Use this branch when you want a tight implementation/refinement loop without specification, QA, property-test, or acceptance-test roles.\n\n### `four-pack`\n\n`four-pack` is the compact specification workflow. Use it for moderate projects that require Gherkin specification and some architectural consideration without splitting every quality gate into its own agent:\n\n- `specifier` turns user intent into precise Gherkin acceptance specifications and asks for approval before handoff.\n- `coder` implements approved behavior slices with TDD, unit tests, and generated acceptance tests.\n- `refactorer` performs behavior-preserving cleanup, coverage improvement, CRAP and DRY review, mutation-site scans, and property-test support.\n- `architect` owns high-level structure, dependency direction, mutation hardening, DRY review, soft Gherkin mutation, and final completion notification.\n\nThe normal flow is `specifier` -> `coder` -> `refactorer` -> `architect` -> `specifier`. Use this branch when you want disciplined development without splitting cleanup, architecture, hardening, and QA into separate agents.\n\n### `six-pack",
-  "generatedAt": "2026-08-09T23:56:11.570Z",
+  "generatedAt": "2026-08-10T23:58:08.199Z",
   "analysis": {
     "oneLine": "swarm-forge 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "swarm-forge 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，swarm-forge 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 2,049，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Clojure 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，swarm-forge 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 2,114，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Clojure 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

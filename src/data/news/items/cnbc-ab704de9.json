@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Gold just had its best week in 7 months. Here’s why Mike Khouw is buying more",
+  "summary": "Gold logged its best weekly gain in seven months driven by several forces.",
+  "url": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
+  "publishedAt": "2026-08-10T16:09:32.000Z",
+  "id": "cnbc-ab704de9",
+  "slug": "cnbc-ab704de9",
+  "content": "Gold jumped roughly 7% last week, logging its best weekly gain since January, driven by a weaker U.S. dollar, falling Treasury yields, and an unexpected contraction in employment data that reduced fears of aggressive Federal Reserve rate hikes.\n\n(Note: the employment data wasn't that bad; layoffs were low, private employment climbed by 30,000, and the data was negatively skewed by the seasonal effect of ~50k fewer government education jobs)\n\nFor the moment, gold remains below the 150-day moving average; the more leveraged way to play it — the gold miner ETFs GDX and GDXJ — are bumping up against it.\n\nThe key indicator is that Newmont Mining, the largest constituent of the gold miners, has broken through the 150-day moving average. To me, that suggests the others (GDX and GLD) will soon follow.\n\nFrom an options traders perspective, gold has a more symmetric \"Volatility Smile\" - meaning out-of-the-money calls have higher \"implied volatility\" than at-the-money calls do, which improves the payoff of a long call spread (debit spread) relative to a similar option strategy in the S&P 500.\n\nFor example, a November 400/460 call spread in SPDR Gold Shares (GLD) would cost about $16.15, just over 25% of the difference between the strikes (a total of $1,615 as each contract represents 100 shares), providing an upside payoff of almost 3:1 if GLD should rally another 15% over the next 100 days.",
+  "fetchedAt": "2026-08-10T23:58:28.318Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "全球",
+    "财经"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "黄金刚刚经历了 7 个月以来最好的一周。这就是 Mike Khouw 购买更多商品的原因",
+  "chineseSummary": "在多种力量的推动下，金价录得七个月以来的最大单周涨幅。",
+  "chineseContent": "受美元疲软、美国国债收益率下降以及就业数据意外收缩减轻了人们对美联储大幅加息的担忧的推动，金价上周上涨约 7%，录得自 1 月份以来的最佳单周涨幅。\n\n（注：就业数据并没有那么糟糕；裁员率较低，私人就业人数攀升了 30,000 人，而且政府教育工作岗位减少约 5 万个的季节性影响导致数据出现负向偏差）\n\n目前金价仍维持在150日均线下方；更具杠杆化的方式——黄金矿商 ETF GDX 和 GDXJ——正在与它对抗。\n\n关键指标是金矿股中最大成分股纽蒙特矿业(Newmont Mining)已突破150日移动均线。对我来说，这表明其他公司（GDX 和 GLD）很快就会跟进。\n\n从期权交易者的角度来看，黄金具有更加对称的“波动性微笑”，这意味着虚值看涨期权比平值看涨期权具有更高的“隐含波动性”，这相对于标准普尔 500 指数中的类似期权策略提高了多头看涨期权价差（借方价差）的回报。\n\n例如，SPDR 黄金股 (GLD) 的 11 月 400/460 看涨期权价差约为 16.15 美元，略高于行权价差的 25%（每份合约代表 100 股，总计 1,615 美元），如果 GLD 在未来 100 天内再上涨 15%，则提供近 3:1 的上行回报。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

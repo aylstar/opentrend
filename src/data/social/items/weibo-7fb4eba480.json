@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7fb4eba480",
+  "slug": "weibo-哥伦比亚发生7-5级地震",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "哥伦比亚发生7.5级地震",
+  "summary": "微博热榜第 17 位：哥伦比亚发生7.5级地震，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-08-10T23:53:27.570Z",
+  "fetchedAt": "2026-08-10T23:59:42.205Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
