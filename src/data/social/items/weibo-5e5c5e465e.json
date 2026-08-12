@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5e5c5e465e",
+  "slug": "weibo-白鹿直播破1000万人次",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "白鹿直播破1000万人次",
+  "summary": "微博热榜第 25 位：白鹿直播破1000万人次，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD%E7%A0%B41000%E4%B8%87%E4%BA%BA%E6%AC%A1%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-08-12T00:01:03.911Z",
+  "fetchedAt": "2026-08-12T00:06:25.958Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

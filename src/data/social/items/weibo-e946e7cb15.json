@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e946e7cb15",
+  "slug": "weibo-欢迎来龙餐馆票房",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "欢迎来龙餐馆票房",
+  "summary": "微博热榜第 27 位：欢迎来龙餐馆票房，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-08-12T00:01:03.911Z",
+  "fetchedAt": "2026-08-12T00:06:25.958Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

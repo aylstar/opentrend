@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Suzanne: AI tool for designing and manufacturing physical products",
+  "summary": "26 points · 18 comments",
+  "content": "The AI-native product design tool. Start from a prompt, a photo, or a sketch, flesh the idea out by chat, and export manufacturable geometry straight into production. Browser-based, no install required.",
+  "url": "https://www.suzanne3d.com/",
+  "publishedAt": "2026-08-11T21:28:26.000Z",
+  "points": 26,
+  "id": "hacker-news-33ff947d",
+  "slug": "hacker-news-33ff947d",
+  "fetchedAt": "2026-08-12T00:05:29.468Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Suzanne：用于设计和制造实体产品的 AI 工具",
+  "chineseSummary": "26 分 · 18 条评论",
+  "chineseContent": "AI 原生产品设计工具。从提示、照片或草图开始，通过聊天充实想法，并将可制造的几何形状直接导出到生产中。基于浏览器，无需安装。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

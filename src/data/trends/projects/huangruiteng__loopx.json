@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/huangruiteng/loopx",
   "docsUrl": "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg",
-  "stars": 3946,
-  "forks": 314,
-  "openIssues": 15,
+  "stars": 4159,
+  "forks": 345,
+  "openIssues": 27,
   "license": "MIT",
-  "pushedAt": "2026-08-10T20:09:29Z",
-  "updatedAt": "2026-08-10T23:55:05Z",
+  "pushedAt": "2026-08-11T23:59:23Z",
+  "updatedAt": "2026-08-11T23:55:34Z",
   "createdAt": "2026-05-31T14:58:56Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n<h1 align=\"center\">LoopX</h1>\n\n<img src=\"docs/assets/loopx-social-preview.png\" alt=\"LoopX loop engineering social preview banner\" width=\"560\">\n\n**The open, provider-neutral, stateful control plane for long-running agents.**\n\n<sub>Keep objectives, gates, todos, evidence, quota, and handoffs stable while Codex, Claude Code, Cursor, or your own runtime executes bounded turns.</sub>\n\n<a href=\"https://trendshift.io/repositories/102379?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-102379\"><img src=\"https://trendshift.io/api/badge/repositories/102379\" alt=\"huangruiteng/loopx on Trendshift\" width=\"220\" height=\"48\"></a>\n\n[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Release](https://img.shields.io/github/v/release/huangruiteng/loopx?display_name=tag)](https://github.com/huangruiteng/loopx/releases/latest) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/XmGgQyCFZd) [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml) [![Local first](https://img.shields.io/badge/control--plane-local--first-brightgreen.svg)](docs/public-private-boundary.md) [![Loop Agents](https://img.shields.io/badge/status-loop%20agents%20early-orange.svg)](docs/product/release-readiness.md)\n\n[Public website](https://huangruiteng.github.io/loopx/) · [Docs](https://huangruiteng.github.io/loopx/docs/) · [Developer Book](https://huangruiteng.github.io/loopx/docs/book/) · [Try LoopX](#try-loopx) · [See real loops](#evidence) · [How it works](#why-loopx) · [User manual](https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg) · [简体中文](README.zh-CN.md)\n\n**把会干活的 Agent，接成可管理、可复盘、可持续改进的数字员工。**\n\n</div>\n\n---\n\nOpen and provider-neutral, LoopX is a lightweight state kernel and local-first\ncontrol plane for loop engineering. It keeps long-running work reviewable,\nrestartable, and easier to hand off across turns, tools, and agents without\nreplacing the runtime that performs the work.\n\n**Loop engineering for long-running AI agents and peer agent teams.**\n\n> Keep the loop moving. Keep the judgment human.\n\n## Learn LoopX\n\n- **Developer Book** - the curated bilingual path from control-plane foundations to project onboarding and developer contributions. [中文版](https://huangruiteng.github.io/loopx/docs/book/) · [English](https://huangruiteng.github.io/loopx/docs/book/en/)\n- **Getting started** - install, connect a project, and run your first governed loop. [Guide](docs/guides/getting-started.md)\n- **Docs** - the full reference and operations site. [LoopX Docs](https://huangruiteng.github.io/loopx/docs/)\n\n<a id=\"how-it-works\"></a>\n\n## Why LoopX\n\nAn agent can finish a task in one session. Long-running work is harder:\nobjectives change, owner decisions appear, evidence goes stale, agents hand work\nto peers, and a scheduler can keep spending after no useful transition remains.\nChat memory and a timer are not enough to govern that.\n\nLoopX k",
-  "generatedAt": "2026-08-10T23:58:04.016Z",
+  "generatedAt": "2026-08-12T00:05:09.490Z",
   "analysis": {
     "oneLine": "loopx 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "loopx 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，loopx 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 3,946，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，loopx 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 4,159，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8eb5a50e68",
+  "slug": "weibo-郭兰英逝世",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "郭兰英逝世",
+  "summary": "微博热榜第 2 位：郭兰英逝世，当前热度为 123万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%85%B0%E8%8B%B1%E9%80%9D%E4%B8%96%23",
+  "hotValue": "123万热度",
+  "author": "",
+  "publishedAt": "2026-08-12T00:01:03.911Z",
+  "fetchedAt": "2026-08-12T00:06:25.958Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-265559b847",
+  "slug": "weibo-雅典娜朋友发声",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "雅典娜朋友发声",
+  "summary": "微博热榜第 10 位：雅典娜朋友发声，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9B%85%E5%85%B8%E5%A8%9C%E6%9C%8B%E5%8F%8B%E5%8F%91%E5%A3%B0%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-08-12T00:01:03.911Z",
+  "fetchedAt": "2026-08-12T00:06:25.958Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

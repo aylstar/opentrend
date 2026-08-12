@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3eda3cff39",
+  "slug": "weibo-小鹏g9l全球首秀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "小鹏G9L全球首秀",
+  "summary": "微博热榜第 50 位：小鹏G9L全球首秀，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-08-12T00:01:03.911Z",
+  "fetchedAt": "2026-08-12T00:06:25.958Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

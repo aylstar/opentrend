@@ -1,0 +1,21 @@
+{
+  "id": "weibo-db647b8978",
+  "slug": "weibo-众球星祝贺c罗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "众球星祝贺C罗",
+  "summary": "微博热榜第 15 位：众球星祝贺C罗，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E7%90%83%E6%98%9F%E7%A5%9D%E8%B4%BAC%E7%BD%97%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-12T00:01:03.911Z",
+  "fetchedAt": "2026-08-12T00:06:25.958Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
