@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Cats and dogs are missing meals after a popular smart feeder went down",
+  "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will […]",
+  "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+  "publishedAt": "2026-08-12T21:07:17.000Z",
+  "id": "the-verge-f0f32376",
+  "slug": "the-verge-f0f32376",
+  "content": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that “existing settings and schedules stored locally on your device will continue to operate as programmed,” many users say that’s not the case. Instead, some users report that Petlibro’s RFID and Granary food dispensers are missing scheduled feedings due to the outage — a major problem for pet owners currently away from home. Some users say they’ve had issues with Petlibro’s Dockstream smart fountains and Luma litter boxes as well, while the app also isn’t working for some. “We are currently experiencing a service issue affecting some Petlibro app functions,” Petlibro said on Tuesday. “Our team is actively restoring service, validating stability, and bringing functionality back in stages.” In an update on Wednesday at 2:30PM ET, Petlibro said that “much of our service is restored as we continue to bring the app back into full operation.” Some users say their devices have started working again, but others are still having issues reconnecting them to the Petlibro app. The Verge reached out to Petlibro with a request for more information but didn’t immediately hear back.",
+  "fetchedAt": "2026-08-13T00:05:38.740Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "流行的智能喂食器故障后，猫和狗失去了食物",
+  "chineseSummary": "Petlibro 的故障导致其智能宠物喂食器和其他设备无法执行计划任务，例如分配食物。停电从周二开始，Reddit 上的用户报告说他们的智能喂食器、垃圾箱和饮水机已经离线。尽管 Petlibro 坚称“设备上本地存储的现有设置和时间表将 [...]",
+  "chineseContent": "Petlibro 的故障导致其智能宠物喂食器和其他设备无法执行计划任务，例如分配食物。停电从周二开始，Reddit 上的用户报告说他们的智能喂食器、垃圾箱和饮水机已经离线。尽管 Petlibro 坚称“设备本地存储的现有设置和时间表将继续按程序运行”，但许多用户表示情况并非如此。相反，一些用户报告说，Petlibro 的 RFID 和 Granary 食品分配器由于断电而错过了预定的喂食——这对于目前不在家的宠物主人来说是一个主要问题。一些用户表示，他们在使用 Petlibro 的 Dockstream 智能喷泉和 Luma 垃圾箱时也遇到了问题，而该应用程序也对某些用户不起作用。 Petlibro 周二表示：“我们目前遇到了影响 Petlibro 应用程序某些功能的服务问题。” “我们的团队正在积极恢复服务、验证稳定性并分阶段恢复功能。” Petlibro 在美国东部时间周三下午 2:30 发布的更新中表示，“随着我们继续让应用程序恢复全面运行，我们的大部分服务已恢复。”一些用户表示他们的设备已重新开始工作，但其他用户在将设备重新连接到 Petlibro 应用程序时仍然遇到问题。 The Verge 联系 Petlibro 要求提供更多信息，但没有立即收到回复。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

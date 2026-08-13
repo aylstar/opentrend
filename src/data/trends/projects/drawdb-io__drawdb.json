@@ -1,0 +1,65 @@
+{
+  "slug": "drawdb-io__drawdb",
+  "owner": "drawdb-io",
+  "repo": "drawdb",
+  "name": "drawdb",
+  "fullName": "drawdb-io/drawdb",
+  "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+  "language": "JavaScript",
+  "githubUrl": "https://github.com/drawdb-io/drawdb",
+  "docsUrl": "https://drawdb.app",
+  "stars": 38942,
+  "forks": 3174,
+  "openIssues": 224,
+  "license": "AGPL-3.0",
+  "pushedAt": "2026-08-12T19:01:54Z",
+  "updatedAt": "2026-08-12T23:40:31Z",
+  "createdAt": "2023-07-16T17:09:20Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "效率工具",
+    "自部署",
+    "数据分析",
+    "企业工具"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "<div align=\"center\">\n  <sup>Special thanks to:</sup>\n  <br>\n  <a href=\"https://www.warp.dev/drawdb/\" target=\"_blank\">\n    <img alt=\"Warp sponsorship\" width=\"280\" src=\"https://github.com/user-attachments/assets/c7f141e7-9751-407d-bb0e-d6f2c487b34f\">\n    <br>\n    <b>Next-gen AI-powered intelligent terminal for all platforms</b>\n  </a>\n</div>\n\n<br/>\n<br/>\n\n<div align=\"center\">\n    <img width=\"64\" alt=\"drawDB logo\" src=\"./src/assets/icon-dark.png\">\n    <h1>drawDB</h1>\n</div>\n\n<h3 align=\"center\">Free, simple, and intuitive database schema editor and SQL generator.</h3>\n\n<div align=\"center\" style=\"margin-bottom:12px;\">\n    <a href=\"https://drawdb.app/\" style=\"display: flex; align-items: center;\">\n        <img src=\"https://img.shields.io/badge/Start%20building-grey\" alt=\"drawDB\"/>\n    </a>\n    <a href=\"https://discord.gg/BrjZgNrmR6\" style=\"display: flex; align-items: center;\">\n        <img src=\"https://img.shields.io/discord/1196658537208758412.svg?label=Join%20the%20Discord&logo=discord\" alt=\"Discord\"/>\n    </a>\n    <a href=\"https://x.com/drawDB_\" style=\"display: flex; align-items: center;\">\n        <img src=\"https://img.shields.io/badge/Follow%20us%20on%20X-blue?logo=X\" alt=\"Follow us on X\"/>\n    </a>\n</div>\n\n<h3 align=\"center\"><img width=\"700\" style=\"border-radius:5px;\" alt=\"drawDB screenshot demo\" src=\"drawdb.png\"></h3>\n\nDrawDB is a robust and user-friendly database entity relationship diagram (ERD) editor right in your browser. Build diagrams with a few clicks, export and import SQL scripts, generate migrations, customize your editor, and more without creating an account. See the full set of features on [here](https://drawdb.app/).\n\n## Getting Started\n\n### Local Development\n\n```bash\ngit clone https://github.com/drawdb-io/drawdb\ncd drawdb\nnpm install\nnpm run dev\n```\n\n### Build\n\n```bash\ngit clone https://github.com/drawdb-io/drawdb\ncd drawdb\nnpm install\nnpm run build\n```\n\n### Docker Build\n\n```bash\ndocker build -t drawdb .\ndocker run -p 3000:80 drawdb\n```\n\nIf you want to enable sharing, set up the [server](https://github.com/drawdb-io/drawdb-server) and environment variables according to `.env.sample`. This is optional unless you need to share files.\n\n## Contributing\n\nPlease see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.\n\n## Support\n- Join discussions: [Discord](https://discord.gg/BrjZgNrmR6)\n",
+  "generatedAt": "2026-08-13T00:05:23.247Z",
+  "analysis": {
+    "oneLine": "drawdb 是一个值得跟踪的开源项目，适合用于技术选型、原型验证和同类产品研究。",
+    "problem": "降低技术团队发现、理解和验证新工具的成本",
+    "audience": "技术负责人、独立开发者、小团队和需要寻找可复用工具的业务人员",
+    "detailParagraphs": [
+      "drawdb 更准确地说是一个值得跟踪的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：降低技术团队发现、理解和验证新工具的成本。",
+      "如果把它放进实际使用场景，drawdb 的价值主要来自技术选型、原型验证和同类产品研究。当前 Star 约 38,942，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性。需要先核对运行环境、第三方服务依赖、许可证和数据安全边界。当前最需要警惕的是：主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "技术选型初筛",
+      "内部工具原型验证",
+      "同类产品和工程实践研究"
+    ],
+    "interpretation": "drawdb 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 JavaScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/drawdb-io/drawdb\nnpm install\nnpm run dev\ngit clone https://github.com/drawdb-io/drawdb\nnpm install",
+    "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
+    "commercialValue": "更适合作为选型池和原型组件，能否商业化取决于场景匹配、部署成本和维护连续性；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在技术选型、原型验证和同类产品研究，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 JavaScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "主要风险在于 README 信息不足、依赖复杂度不明和生产环境验证不足。",
+    "recommendation": 2.5,
+    "tags": [
+      "效率工具",
+      "自部署",
+      "数据分析",
+      "企业工具"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-13T00:05:23.248Z"
+}

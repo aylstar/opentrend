@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Twitch streamers can now opt out from training Amazon’s AI",
+  "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, […]",
+  "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+  "publishedAt": "2026-08-12T17:29:10.000Z",
+  "id": "the-verge-7104d71a",
+  "slug": "the-verge-7104d71a",
+  "content": "Twitch users can now opt out of allowing their content to be used to train Amazon’s generative AI models. Opting out means that “your streams, VODs, clips, stream chats, and pictures and text on your channel” won’t be used in “future training” of an Amazon AI model “whose purpose is to generate or synthesize text, audio, images, or video,” according to a Twitch support page. Other “AI-supported” features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person’s stream, “their opt-out preferences govern if that chat can be used for training,” Twitch says. The “Training for Generative AI” toggle is present for me in Twitch’s settings under the Security and Privacy tab. It was toggled on when I found it, and I’ve asked Amazon if that’s the default. Here’s the full text of Amazon’s description for the toggle: > Allow your channel content to train generative AI content models at Amazon. Turning this off does not opt you out of Twitch and Amazon using your channel content for other purposes described in the Twitch Privacy Notice, including using AI-supported Twitch features that benefit the community by facilitating streamer growth and monetization (such as real-time sponsorship campaign assistance), viewer discovery (such as recommendations), and community safety (such as AutoMod). Learn more",
+  "fetchedAt": "2026-08-13T00:05:38.740Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "视频"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Twitch 主播现在可以选择不参加亚马逊 AI 的训练",
+  "chineseSummary": "Twitch 用户现在可以选择不允许他们的内容被用于训练亚马逊的生成人工智能模型。选择退出意味着“您的流、视频点播、剪辑、流聊天以及频道上的图片和文本”将不会用于亚马逊人工智能模型的“未来训练”，“其目的是生成或合成文本，[...]",
+  "chineseContent": "Twitch 用户现在可以选择不允许他们的内容被用于训练亚马逊的生成人工智能模型。根据 Twitch 支持页面的说法，选择退出意味着“您的直播、视频点播、剪辑、直播聊天以及频道上的图片和文本”将不会用于亚马逊 AI 模型的“未来训练”，“该模型的目的是生成或合成文本、音频、图像或视频”。如果您选择退出生成人工智能培训，其他“人工智能支持”的功能（例如字幕和安全工具）仍然会起作用。然而，如果你参与另一个人的直播中的聊天，“他们的选择退出偏好将决定该聊天是否可以用于培训，”Twitch 说。我在 Twitch 设置的“安全和隐私”选项卡下找到了“生成 AI 训练”开关。当我发现它时它就被打开了，我问亚马逊这是否是默认设置。以下是亚马逊对该切换的说明全文： > 允许您的频道内容在亚马逊上训练生成式 AI 内容模型。关闭此功能并不会让您拒绝 Twitch 和 Amazon 将您的频道内容用于 Twitch 隐私声明中所述的其他目的，包括使用人工智能支持的 Twitch 功能，这些功能通过促进流媒体增长和货币化（例如实时赞助活动协助）、观看者发现（例如推荐）和社区安全（例如 AutoMod）来造福社区。了解更多",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

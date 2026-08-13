@@ -1,0 +1,27 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+  "summary": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+  "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+  "publishedAt": "2026-08-12T20:16:05.000Z",
+  "id": "cnbc-8db098e7",
+  "slug": "cnbc-8db098e7",
+  "content": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+  "fetchedAt": "2026-08-13T00:05:38.742Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "CoreWeave 反驳了 AI 行业的一个关键悲观案例。这对我们的数据中心库存意味着什么",
+  "chineseSummary": "CoreWeave 看到了对已有六年历史的 Nvidia 芯片的强劲需求，这有助于证明当前所有人工智能资本支出的合理性。",
+  "chineseContent": "CoreWeave 看到了对已有六年历史的 Nvidia 芯片的强劲需求，这有助于证明当前所有人工智能资本支出的合理性。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6155a34df9",
+  "slug": "weibo-金价油价全涨了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "金价油价全涨了",
+  "summary": "微博热榜第 28 位：金价油价全涨了，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E5%85%A8%E6%B6%A8%E4%BA%86%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-08-13T00:04:23.593Z",
+  "fetchedAt": "2026-08-13T00:07:04.756Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

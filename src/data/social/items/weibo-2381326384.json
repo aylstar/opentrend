@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2381326384",
+  "slug": "weibo-日全食",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "日全食",
+  "summary": "微博热榜第 42 位：日全食，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%85%A8%E9%A3%9F%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-13T00:04:23.593Z",
+  "fetchedAt": "2026-08-13T00:07:04.756Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

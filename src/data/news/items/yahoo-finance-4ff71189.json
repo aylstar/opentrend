@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "JPMorgan says Wall Street’s AI bet is finally paying off",
+  "summary": "For much of the artificial intelligence boom, investors faced an uncomfortable trade-off. Big Tech continued to spend tens of billions of dollars on data centers, semiconductors, and cloud capacity as Wall Street waited for confirmation that investments would create enough income to justify the ...",
+  "url": "https://www.thestreet.com/investing/jpmorgan-raises-sp500-target-8000-ai-spending?.tsrc=rss",
+  "publishedAt": "2026-08-12T23:00:00.000Z",
+  "id": "yahoo-finance-4ff71189",
+  "slug": "yahoo-finance-4ff71189",
+  "content": "For much of the artificial intelligence boom, investors faced an uncomfortable trade-off. Big Tech continued to spend tens of billions of dollars on data centers, semiconductors, and cloud capacity as Wall Street waited for confirmation that investments would create enough income to justify the ...",
+  "fetchedAt": "2026-08-13T00:05:38.741Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "财经"
+  ],
+  "rank": 24,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "摩根大通表示华尔街的 AI 赌注终于得到回报",
+  "chineseSummary": "在人工智能繁荣的大部分时间里，投资者都面临着令人不安的权衡。当华尔街等待确认投资将创造足够的收入来证明其合理性时，大型科技公司继续在数据中心、半导体和云容量上花费数百亿美元。",
+  "chineseContent": "在人工智能繁荣的大部分时间里，投资者都面临着令人不安的权衡。当华尔街等待确认投资将创造足够的收入来证明其合理性时，大型科技公司继续在数据中心、半导体和云容量上花费数百亿美元。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

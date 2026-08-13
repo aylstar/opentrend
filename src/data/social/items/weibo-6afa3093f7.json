@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6afa3093f7",
+  "slug": "weibo-这段话缓解了我的焦虑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "这段话缓解了我的焦虑",
+  "summary": "微博热榜第 46 位：这段话缓解了我的焦虑，当前热度为 8万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E8%AF%9D%E7%BC%93%E8%A7%A3%E4%BA%86%E6%88%91%E7%9A%84%E7%84%A6%E8%99%91%23",
+  "hotValue": "8万热度",
+  "author": "",
+  "publishedAt": "2026-08-13T00:04:23.593Z",
+  "fetchedAt": "2026-08-13T00:07:04.756Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

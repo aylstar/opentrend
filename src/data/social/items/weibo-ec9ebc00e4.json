@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec9ebc00e4",
+  "slug": "weibo-威少宣布退役",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "威少宣布退役",
+  "summary": "微博热榜第 2 位：威少宣布退役，当前热度为 105万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23",
+  "hotValue": "105万热度",
+  "author": "",
+  "publishedAt": "2026-08-13T00:04:23.593Z",
+  "fetchedAt": "2026-08-13T00:07:04.755Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ad9949d0da",
+  "slug": "weibo-朱镕基同志逝世",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "朱镕基同志逝世",
+  "summary": "微博热榜第 1 位：朱镕基同志逝世，当前热度为 106万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23",
+  "hotValue": "106万热度",
+  "author": "",
+  "publishedAt": "2026-08-13T00:04:23.593Z",
+  "fetchedAt": "2026-08-13T00:07:04.754Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
