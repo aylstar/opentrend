@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7b599014a9",
+  "slug": "weibo-邹市明辟谣",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "邹市明辟谣",
+  "summary": "微博热榜第 1 位：邹市明辟谣，当前热度为 150万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E8%BE%9F%E8%B0%A3%23",
+  "hotValue": "150万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T00:05:45.829Z",
+  "fetchedAt": "2026-08-14T00:07:11.501Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

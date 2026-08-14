@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The fight over Flock and other ALPRs",
+  "summary": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people’s movements throughout the day and across […]",
+  "url": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+  "publishedAt": "2026-08-13T21:46:21.000Z",
+  "id": "the-verge-83e67be8",
+  "slug": "the-verge-83e67be8",
+  "content": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people’s movements throughout the day and across the country. Dozens of communities have canceled contracts for the cameras or turned them off, including Los Angeles, as officials have pushed for more limits on the data they collect, who has access to it, and how it can be used in the future. Earlier this year, Amazon-owned Ring canceled a partnership with Flock after online backlash.",
+  "fetchedAt": "2026-08-14T00:05:34.107Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Flock 和其他 ALPR 之争",
+  "chineseSummary": "美国各地安装了超过 120,000 个 Flock 自动车牌读取器 (ALPR) 摄像头。 Flock 的摄像头和其他类似摄像头使用人工智能根据车牌号、品牌、型号、颜色和其他信息来识别和跟踪车辆，并联网以跟踪车辆和人员全天和跨 [...]",
+  "chineseContent": "美国各地安装了超过 120,000 个 Flock 自动车牌读取器 (ALPR) 摄像头。 Flock 的摄像头和其他类似摄像头使用人工智能根据车牌号、品牌、型号、颜色和其他信息来识别和跟踪车辆，并将其联网以跟踪全天和全国范围内的车辆和人员的活动。包括洛杉矶在内的数十个社区已经取消了摄像机合同或将其关闭，因为官员们对他们收集的数据、谁有权访问这些数据以及未来如何使用这些数据施加了更多限制。今年早些时候，由于网络强烈反对，亚马逊旗下的 Ring 取消了与 Flock 的合作关系。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

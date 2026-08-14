@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/pingdotgg/t3code",
   "docsUrl": "https://t3.codes",
-  "stars": 18428,
-  "forks": 4211,
-  "openIssues": 1726,
+  "stars": 18600,
+  "forks": 4282,
+  "openIssues": 1835,
   "license": "MIT",
-  "pushedAt": "2026-08-12T23:26:29Z",
-  "updatedAt": "2026-08-13T00:04:26Z",
+  "pushedAt": "2026-08-14T00:01:11Z",
+  "updatedAt": "2026-08-14T00:04:03Z",
   "createdAt": "2026-02-08T23:46:22Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "# T3 Code\n\nT3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id6787819824), [Android](https://play.google.com/store/apps/details?id=com.t3tools.t3code)), [web app](https://app.t3.codes) and [Electron-based desktop app](https://t3.codes).\n\nWorks with your subscriptions on Claude Code, Codex, Cursor, Grok Build, and OpenCode. If they're set up on your computer, T3 Code can control them.\n\n## \"Wait, what are you selling me?\"\n\nNothing. We built T3 Code because we wanted the best possible development experience with agents. We were inspired by existing solutions like the Codex desktop app, Conductor, Claude Desktop and Cursor Glass, but none met our bar.\n\nWe wanted something performant, remote-ready, and truly open. If we ever go the wrong direction, we want you to have everything you need to fork and build the editor that you want.\n\n## Installation\n\n> [!WARNING]\n> T3 Code currently supports Codex, Claude, Cursor, Grok Build and OpenCode. Install and authenticate at least one provider before use:\n>\n> - Codex: install [Codex CLI](https://developers.openai.com/codex/cli) and run `codex login`\n> - Claude: install [Claude Code](https://claude.com/product/claude-code) and run `claude auth login`\n> - Cursor: install [Cursor CLI](https://cursor.com/cli) and run `agent login`\n> - Grok Build: install [Grok Build CLI](https://x.ai/cli) and run `grok login`\n> - OpenCode: install [OpenCode](https://opencode.ai) and run `opencode auth login`\n\n### Try it out (install-free)\n\nThe easiest way to test T3 Code is to run the server in your terminal (requires Node.js 22.16+, 23.11+, or 24.10+):\n\n```bash\nnpx t3@latest\n```\n\nThis will launch T3 Code's backend on your machine as well as the local web app to control your agents.\n\nTip: Use `npx t3@latest --help` for the full CLI reference.\n\n### Desktop app\n\nInstall the latest version of the desktop app from [GitHub Releases](https://github.com/pingdotgg/t3code/releases), or from your favorite package registry:\n\n#### Windows (`winget`)\n\n```bash\nwinget install T3Tools.T3Code\n```\n\n#### macOS (Homebrew)\n\n```bash\nbrew install --cask t3-code\n```\n\n#### Arch Linux (AUR)\n\n```bash\nyay -S t3code-bin\n```\n\n## Some notes\n\nWe are very very early in this project. Expect bugs.\n\nWe are (mostly) not accepting contributions yet. Small fixes may be considered. Big features will not be.\n\n## Documentation\n\nFull docs live in [docs/](./docs). There's no docs site yet.\n\n- [Install and first run](./docs/user/install.md)\n- [Permission modes](./docs/user/permission-modes.md)\n- [Keyboard shortcuts](./docs/user/keybindings.md)\n- [Customize a project icon](./docs/user/project-settings.md)\n- [Remote access from a phone or another machine](./docs/user/remote-access.md)\n- [Keeping app and server in sync](./docs/user/updating.md)\n- [Source control integrations](./docs/user/source-control.md)\n- Multiple accounts: [Codex](./do",
-  "generatedAt": "2026-08-13T00:05:26.770Z",
+  "generatedAt": "2026-08-14T00:05:22.019Z",
   "analysis": {
     "oneLine": "t3code 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "t3code 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，t3code 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 18,428，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，t3code 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 18,600，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

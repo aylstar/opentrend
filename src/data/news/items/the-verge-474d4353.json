@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The Trump admin will start letting private firms launch international cyberattacks",
+  "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. […]",
+  "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+  "publishedAt": "2026-08-13T18:56:13.000Z",
+  "id": "the-verge-474d4353",
+  "slug": "the-verge-474d4353",
+  "content": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate “under the control and oversight” of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. The Department of Justice and Department of Homeland Security will oversee the private firms, which must meet requirements in “technical proficiency, proven performance of cyber operations, facility security,” and more. Companies in the program must hold a bond or escrow of at least $1 million that they’ll forfeit if they don’t comply with their contractual agreement.&nbsp;The memorandum also says private firms will only hack groups that are “not an institutional part of a foreign government or wholly operated under a foreign government’s direction.” The memo describes private businesses as “underutilized” forces for fighting criminal networks. “It is the policy of the United States to use all instruments of national power, including the innovative capabilities of the private sector, to combat cybercrime,” it says. But as pointed out by Cybersecurity Dive, it can be difficult to identify which criminal groups are affiliated with foreign governments, which could put cybersecurity firms at risk of stoking geopolitical or legal conflicts. Jason Healey, a senior cyber conflict researcher at Columbia University, tells Cybersecurity Dive that “Anyone conducting these operations is doing so at substantial personal legal risk.” Jake Williams, the vice president of research and development at Hunter Strategy, similarly tells TechCrunch that “Americans participating in these operations could easily be classified as non-uniformed combatants while traveling overseas.” Ben Bernstein, a manager for the cybersecurity advisers team at Huntress, also raises concerns about how this program will play out. “Threat actors don’t launch attacks from labeled servers in Moscow; they route traffic through compromised, innocent infrastructure, like a vulnerable router at an Ohio dental office or a hospital network,” Bernstein says. “That makes it practically impossible to ‘strike back’ without taking out innocent bystanders.” The US government previously carried out its own cyber operations, rather than relying on third parties. President Donald Trump began making plans to get private cybersecurity companies involved last year, Bloomberg reported.",
+  "fetchedAt": "2026-08-14T00:05:34.107Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "金融",
+    "安全",
+    "产品"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "特朗普政府将开始允许私营公司发起国际网络攻击",
+  "chineseSummary": "据彭博社早些时候报道，特朗普政府正在启动一项新计划，允许私营公司对外国犯罪分子进行网络攻击。根据周三发布的总统备忘录，这些私营公司将在联邦政府的“控制和监督下”运营，允许它们监视和破坏犯罪网络。 […]",
+  "chineseContent": "据彭博社早些时候报道，特朗普政府正在启动一项新计划，允许私营公司对外国犯罪分子进行网络攻击。根据周三发布的总统备忘录，这些私营公司将在联邦政府的“控制和监督下”运营，允许它们监视和破坏犯罪网络。司法部和国土安全部将监督私营公司，这些公司必须满足“技术熟练程度、经过验证的网络运营性能、设施安全”等方面的要求。参与该计划的公司必须持有至少 100 万美元的保证金或托管金，如果不遵守合同协议，这些保证金或托管金将被没收。 该备忘录还表示，私营公司只会攻击“不属于外国政府机构一部分或完全在外国政府指导下运营”的组织。该备忘录将私营企业描述为打击犯罪网络的“未充分利用”力量。报告称：“美国的政策是利用一切国家力量手段，包括私营部门的创新能力，打击网络犯罪。”但正如 Cyber​​security Dive 指出的那样，很难确定哪些犯罪集团隶属于外国政府，这可能会使网络安全公司面临引发地缘政治或法律冲突的风险。哥伦比亚大学高级网络冲突研究员杰森·希利 (Jason Healey) 告诉 Cyber​​security Dive，“任何进行这些操作的人都会面临巨大的个人法律风险。” Hunter Strategy 的研发副总裁杰克·威廉姆斯 (Jake Williams) 同样告诉 TechCrunch，“参与这些行动的美国人很容易",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

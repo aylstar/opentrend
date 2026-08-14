@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+  "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+  "url": "https://finance.yahoo.com/m/d77ca588-1019-36e1-8065-a36ae0ce7b6c/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+  "publishedAt": "2026-08-13T22:19:25.000Z",
+  "id": "yahoo-finance-6e5745e9",
+  "slug": "yahoo-finance-6e5745e9",
+  "content": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+  "fetchedAt": "2026-08-14T00:05:34.108Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "科技",
+    "财经"
+  ],
+  "rank": 24,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：标准普尔 500 指数在工作日触及高位，Sandisk、油价；应用材料公司公布业绩较晚",
+  "chineseSummary": "在油价下跌的背景下，标准普尔 500 指数创下新高。 Workday 和 Sandisk 提升了软件和内存的性能。应用材料公司的财报尾盘下跌。",
+  "chineseContent": "在油价下跌的背景下，标准普尔 500 指数创下新高。 Workday 和 Sandisk 提升了软件和内存的性能。应用材料公司的财报尾盘下跌。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

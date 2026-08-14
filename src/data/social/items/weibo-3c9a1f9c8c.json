@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3c9a1f9c8c",
+  "slug": "weibo-贾樟柯-红果",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "贾樟柯 红果",
+  "summary": "微博热榜第 28 位：贾樟柯 红果，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E6%A8%9F%E6%9F%AF+%E7%BA%A2%E6%9E%9C%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T00:05:45.829Z",
+  "fetchedAt": "2026-08-14T00:07:11.502Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

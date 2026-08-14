@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b95587ff63",
+  "slug": "weibo-魏子宸好帅",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "魏子宸好帅",
+  "summary": "微博热榜第 48 位：魏子宸好帅，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%AD%90%E5%AE%B8%E5%A5%BD%E5%B8%85%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T00:05:45.829Z",
+  "fetchedAt": "2026-08-14T00:07:11.502Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

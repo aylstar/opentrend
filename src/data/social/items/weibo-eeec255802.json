@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eeec255802",
+  "slug": "weibo-whiplash直拍",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "Whiplash直拍",
+  "summary": "微博热榜第 46 位：Whiplash直拍，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Whiplash%E7%9B%B4%E6%8B%8D%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T00:05:45.829Z",
+  "fetchedAt": "2026-08-14T00:07:11.502Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
