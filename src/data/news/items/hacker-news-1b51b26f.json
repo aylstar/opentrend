@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Qwen 3.8 27B",
+  "summary": "821 points · 541 comments",
+  "content": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+  "publishedAt": "2026-08-14T15:00:00.000Z",
+  "points": 821,
+  "id": "hacker-news-1b51b26f",
+  "slug": "hacker-news-1b51b26f",
+  "fetchedAt": "2026-08-14T23:44:36.434Z",
+  "score": 70,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "骐文3.8 27B",
+  "chineseSummary": "821 分 · 541 条评论",
+  "chineseContent": "我们正在通过开源和开放科学推进人工智能并使之民主化。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

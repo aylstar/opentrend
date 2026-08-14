@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+  "summary": "51 points · 8 comments",
+  "content": "51 points · 8 comments",
+  "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+  "publishedAt": "2026-08-14T14:22:39.000Z",
+  "points": 51,
+  "id": "hacker-news-7e214a9d",
+  "slug": "hacker-news-7e214a9d",
+  "fetchedAt": "2026-08-14T23:44:36.435Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "AI 模型图集 – 将 ML 模型群体可视化为互连的 3D 图",
+  "chineseSummary": "51 分 · 8 条评论",
+  "chineseContent": "51 分 · 8 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-495437411f",
+  "slug": "weibo-文黛黛假死",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "文黛黛假死",
+  "summary": "微博热榜第 39 位：文黛黛假死，当前热度为 7万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E9%BB%9B%E9%BB%9B%E5%81%87%E6%AD%BB%23",
+  "hotValue": "7万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T23:42:13.408Z",
+  "fetchedAt": "2026-08-14T23:45:13.350Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

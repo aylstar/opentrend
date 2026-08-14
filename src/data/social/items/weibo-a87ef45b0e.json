@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a87ef45b0e",
+  "slug": "weibo-wenbo受伤",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "Wenbo受伤",
+  "summary": "微博热榜第 18 位：Wenbo受伤，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Wenbo%E5%8F%97%E4%BC%A4%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T23:42:13.408Z",
+  "fetchedAt": "2026-08-14T23:45:13.349Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

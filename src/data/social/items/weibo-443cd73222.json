@@ -1,0 +1,21 @@
+{
+  "id": "weibo-443cd73222",
+  "slug": "weibo-旺旺都不好卖了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "旺旺都不好卖了",
+  "summary": "微博热榜第 7 位：旺旺都不好卖了，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E9%83%BD%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T23:42:13.408Z",
+  "fetchedAt": "2026-08-14T23:45:13.349Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

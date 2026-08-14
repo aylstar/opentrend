@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "You can now turn off Google Gemini’s visible watermarks",
+  "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of […]",
+  "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+  "publishedAt": "2026-08-14T16:39:32.000Z",
+  "id": "the-verge-98f69fd6",
+  "slug": "the-verge-98f69fd6",
+  "content": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new “Media watermark” setting in Gemini and Google’s AI video generator, Flow. When toggled off, Google will remove the “sparkle” watermark that appears in the bottom-right corner of content generated with the company’s Nano Banana and Omni models. Though visible watermarks are now optional, AI-generated content will have invisible SynthID watermarks and C2PA metadata embedded in the background, according to Josh Woodward, the vice president of Google Labs, Gemini, and AI Studio. That means you can still verify if a piece of content has one of these markers by asking Gemini or Search if it’s AI-generated. [Image: You can find the “Media watermark” option in Gemini’s settings menu. https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gemini-watermark-option.png?quality=90&strip=all] While this change might make it more difficult to quickly discern if an image or video is AI-generated, many users have already been editing out visible watermarks. Other AI image generators, like OpenAI and Meta’s, also don’t apply visible watermarks. Instead, OpenAI relies on SynthID and C2PA to signal whether something is AI-generated, while Meta launched its own Content Seal standard. Anthropic also announced this week that it’s applying invisible watermarks to both AI-generated text and images. Google plans on rolling out its new watermark setting to Search as well, but the toggle won’t launch in countries that require visible watermarks.",
+  "fetchedAt": "2026-08-14T23:44:36.437Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "您现在可以关闭 Google Gemini 的可见水印",
+  "chineseSummary": "谷歌现在允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。通过更新，您可以在 Gemini 和 Google 的 AI 视频生成器 Flow 中关闭新的“媒体水印”设置。关闭后，Google 将删除出现在 [...] 右下角的“闪光”水印。",
+  "chineseContent": "谷歌现在允许您从使用人工智能工具制作的图像、视频和音乐中删除可见水印。通过更新，您可以在 Gemini 和 Google 的 AI 视频生成器 Flow 中关闭新的“媒体水印”设置。关闭后，谷歌将删除该公司 Nano Banana 和 Omni 型号生成的内容右下角出现的“闪光”水印。谷歌实验室、Gemini 和 AI Studio 副总裁 Josh Woodward 表示，虽然可见水印现在是可选的，但人工智能生成的内容将在后台嵌入不可见的 SynthID 水印和 C2PA 元数据。这意味着您仍然可以通过询问 Gemini 或 Search 是否由 AI 生成来验证某内容是否具有这些标记之一。 [图片：您可以​​在Gemini的设置菜单中找到“媒体水印”选项。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gemini-watermark-option.png?quality=90&strip=all] 虽然这一变化可能会使快速辨别图像或视频是否是人工智能生成变得更加困难，但许多用户已经编辑掉了可见的水印。其他 AI 图像生成器，例如 OpenAI 和 Meta，也不应用可见水印。相反，OpenAI 依靠 SynthID 和 C2PA 来表明某些内容是否是 AI 生成的，而 Meta 推出了自己的 Content Seal 标准。 Anthropic 本周还宣布，它将在人工智能生成的文本和图像上应用隐形水印。谷歌还计划在搜索中推出新的水印设置，但该切换功能不会在需要可见水印的国家/地区推出。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-637f98ad7e",
+  "slug": "weibo-北京暴雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "北京暴雨",
+  "summary": "微博热榜第 21 位：北京暴雨，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-08-14T23:42:13.408Z",
+  "fetchedAt": "2026-08-14T23:45:13.349Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
