@@ -1,0 +1,76 @@
+{
+  "slug": "tooljet__tooljet",
+  "owner": "ToolJet",
+  "repo": "ToolJet",
+  "name": "ToolJet",
+  "fullName": "ToolJet/ToolJet",
+  "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+  "language": "JavaScript",
+  "githubUrl": "https://github.com/ToolJet/ToolJet",
+  "docsUrl": "https://tooljet.com",
+  "stars": 39518,
+  "forks": 5294,
+  "openIssues": 1127,
+  "license": "AGPL-3.0",
+  "pushedAt": "2026-08-14T14:11:22Z",
+  "updatedAt": "2026-08-15T23:32:38Z",
+  "createdAt": "2021-03-30T08:51:34Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 3,
+  "readmeExcerpt": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tools, workflows and AI agents. The community edition provides a powerful visual builder, drag-and-drop UI, and integrations with databases, APIs, SaaS apps, and object storage. For AI-powered UI generation, query building, debugging, and enterprise features, see ToolJet AI.\n\n :star: If you find ToolJet useful, please consider giving us a star on GitHub! Your support helps us continue to innovate and deliver exciting features.\n\n![Docker Cloud Build Status](https://img.shields.io/docker/automated/tooljet/tooljet-ce)\n![Number of GitHub contributors](https://img.shields.io/github/contributors/tooljet/tooljet)\n[![Number of GitHub issues that are open](https://img.shields.io/github/issues/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet/issues)\n[![Number of GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet/stargazers)\n![Number of GitHub closed issues](https://img.shields.io/github/issues-closed/tooljet/tooljet)\n![Number of GitHub pull requests that are open](https://img.shields.io/github/issues-pr-raw/tooljet/tooljet)\n![GitHub release; latest by date](https://img.shields.io/github/v/release/tooljet/tooljet)\n![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tooljet/tooljet)\n[![GitHub license which is AGPL license](https://img.shields.io/github/license/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet)\n[![Follow us on X, formerly Twitter](https://img.shields.io/twitter/follow/ToolJet?style=social)](https://twitter.com/ToolJet)\n\n<p align=\"center\">\n    <img src=\"docs/static/img/readme/banner.png\" alt=\"Tooljet dashboard showing inventory and orders\"/>\n</p>\n\n<p align=\"center\">\n    <img src=\"docs/static/img/readme/flowchart.png\"/>\n</p>\n\n## Features  \n\n### Community Edition (CE)  \n- **Visual App Builder:** 60+ responsive components (Tables, Charts, Forms, Lists, Progress Bars, and more).  \n- **ToolJet Database:** Built-in no-code database.  \n- **Multi-page Apps & Multiplayer Editing:** Build complex apps collaboratively.  \n- **80+ Data Sources:** Connect to databases, APIs, cloud storage, and SaaS tools.  \n- **Flexible Deployment:** Self-host with Docker, Kubernetes, AWS, GCP, Azure, and more.  \n- **Collaboration Tools:** Inline comments, mentions, and granular access control.  \n- **Extensibility:** Create plugins and connectors with the [ToolJet CLI](https://www.npmjs.com/package/@tooljet/cli).  \n- **Code Anywhere:** Run JavaScript and Python inside your apps.  \n- **Secure by Design:** AES-256-GCM encryption, proxy-only data flow, SSO support.  \n\n### ToolJet AI (Enterprise)  \nEverything in CE, plus:  \n- **AI App Generation:** Create apps instantly from natural language prompts.  \n- **AI Query Builder:** Generate and transform queries with AI assistance.  \n- **AI Debugging:** Identify and fix issues with one click.  \n- **Agent Builder:** Create intelligent agents to",
+  "generatedAt": "2026-08-15T23:41:34.062Z",
+  "analysis": {
+    "oneLine": "ToolJet 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
+    "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
+    "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
+    "detailParagraphs": [
+      "ToolJet 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
+      "如果把它放进实际使用场景，ToolJet 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 39,518，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "投研辅助分析",
+      "量化策略学习",
+      "金融数据处理",
+      "交易 Agent 原型验证"
+    ],
+    "interpretation": "ToolJet 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 JavaScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "docker run \\",
+    "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
+    "commercialValue": "可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在辅助市场研究、交易策略模拟或金融数据分析，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 JavaScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。",
+    "recommendation": 3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-15T23:41:34.063Z"
+}

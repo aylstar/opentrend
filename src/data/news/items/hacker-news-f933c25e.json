@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+  "summary": "1 points · 0 comments",
+  "content": "Autonomous Drones for Earth Observation\n\nVoltair is building the world’s first distributed network of drones for earth observation. We envision a world where after a major storm, an operator of critical infrastructure can simply sign into our platform and dispatch a drone. Within minutes, we will identify high risk hazards and stream issues directly to crews on the ground. With our ground stations and long range drones, we can cover the continental U.S. with only ~5000 stations.\n\nWe operate as a full stack service, meaning we build drones, deploy them, capture data, analyze it, and deliver the results on our software platform. Our first market is power utilities. We’ve serviced multiple utilities already, and are preparing for our biggest deployment with a large multinational utility later this year.\n\nWe’re looking for a Flight Test Engineer who is equally comfortable soldering a wiring harness on the bench and operating a 54lb fixed-wing aircraft in the field. This is not a pure R&D flight-test role and it's not a pure operations role, it's both. You'll build and validate the test fixtures and hardware that keep our flying robots reliable, and you'll deploy with that same hardware to fly real missions for large enterprise customers.\n\nYou’ll be responsible for turning our prototypes into production grade vehicles, ready to service customer contracts. You'll work closely with our hardware, software, and operations teams, and you'll be one of the people customers see in the field representing Voltair.\n\nWe expect this role to travel about ~1 week every 2 months.\n\nYou’ll be the 7th full time employee of Voltair. On day 1 we’ll begin transitions of all flight testing responsibilities from our CEO to you. Drone manufacturing will follow shortly thereafter. Within 90 days of your arrival, we expect you’ll be deploying our drone for customer contracts. Qualifications & Experiences\n\nWe build drones with unlimited range (by recharging on power lines). The grid is the world’s largest machine. Thus, we can collect data anywhere, anytime. We're selling a full-stack inspection service to power utilities by delivering reports with annotated photos of equipment that is broken or at risk. Our mission is to find faults and other maintenance concerns before they spark wildfires. Today power utilities are our customer, but tomorrow they'll be our deployment partner. At scale we are a new infrastructure layer for data on the physical world.",
+  "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+  "publishedAt": "2026-08-15T18:33:25.000Z",
+  "points": 1,
+  "id": "hacker-news-f933c25e",
+  "slug": "hacker-news-f933c25e",
+  "fetchedAt": "2026-08-15T23:41:52.394Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Voltair (YC W26) 正在招聘一名试飞工程师",
+  "chineseSummary": "1 分 · 0 条评论",
+  "chineseContent": "用于地球观测的自主无人机\n\nVoltair 正在构建世界上第一个用于地球观测的分布式无人机网络。我们设想这样一个世界：在一场大风暴之后，关键基础设施的运营商可以简单地登录我们的平台并派遣无人机。几分钟之内，我们将识别高风险危险并将问题直接发送给地面工作人员。凭借我们的地面站和远程无人机，我们只需约 5000 个地面站即可覆盖美国大陆。\n\n我们作为全栈服务运营，这意味着我们制造无人机、部署无人机、捕获数据、分析数据，并在我们的软件平台上交付结果。我们的第一个市场是电力公用事业。我们已经为多家公用事业公司提供了服务，并正在为今年晚些时候与一家大型跨国公用事业公司进行最大规模的部署做准备。\n\n我们正在寻找一名飞行测试工程师，他既能在工作台上焊接线束，又能在现场操作 54 磅的固定翼飞机。这不是纯粹的研发飞行测试角色，也不是纯粹的运营角色，而是两者兼而有之。您将构建并验证测试装置和硬件，以保持我们的飞行机器人的可靠性，并且您将使用相同的硬件进行部署，为大型企业客户执行真正的任务。\n\n您将负责将我们的原型转变为生产级车辆，准备好为客户合同提供服务。您将与我们的硬件、软件和运营团队密切合作，并且您将成为客户在该领域看到的 Voltair 代表之一。\n\n我们预计该角色每 2 个月大约出差 1 周。\n\n您将成为 Voltair 的第七位全职员工。从第一天起，我们将开始将所有飞行测试职责从首席执行官移交给您。此后不久将进行无人机制造。在您抵达后 90 天内，我们希望您能够为客户合同部署我们的无人机。资格和经验\n\n我们制造无限航程的无人机（通过电线充电）。电网是世界上最大的机器。因此，我们可以随时随地收集数据。我们向电力公司提供全栈检查服务，提供带有损坏或有风险设备的带注释照片的报告。我们的任务是在故障和其他维护问题引发野火之前找到它们。今天，电力公司是我们的客户，但明天他们将成为我们的部署合作伙伴。从规模上看，我们是物理世界数据的新基础设施层。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

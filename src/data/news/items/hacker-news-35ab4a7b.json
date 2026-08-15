@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Working with AI feels more like leadership than coding",
+  "summary": "247 points · 166 comments",
+  "content": "For most of my career, code gave me certainty. A program did what its instructions told it to do. If the same input produced a different result, we called it a bug.\n\nPeople were never like that. As a leader, I can explain a task and get exactly what I asked for. I can also get something better because a colleague understood the intent behind the request. Sometimes the result shows that I was not as clear as I thought.\n\nWorking with AI feels closer to the second experience.\n\nAI runs on software, but working with it is not fully predictable. The same request can produce a different answer. It can make a useful connection, miss an obvious point, or surprise me with an approach I had not considered.\n\nThis is frustrating when I treat AI like a compiler. It becomes more useful when I treat the interaction as a form of collaboration.\n\nThat does not make AI a person. It has no lived experience, accountability, or human judgment. The comparison is about how we work. Good leaders do more than issue instructions. They share context, explain the desired outcome, set boundaries, and respond to what comes back.\n\nThe same habits improve my work with AI. A good prompt helps, but a shared working context helps more. Examples, corrections, and reusable instructions reduce misunderstandings. Over time, the system becomes better aligned with how I think and what I need from it.\n\nThe investment is not in pretending that AI is human. It is in becoming better at expressing intent.\n\nWe spent years learning how to tell computers exactly what to do. Now we also need to explain why the work matters, what a good result looks like, and where judgment is needed.\n\nFor me, that is the shift. AI is making software work less like issuing commands to a machine and more like leading through a conversation. The technology is new. The leadership skills are not.\n\nThis note led to a thoughtful discussion on Hacker News . I recommend reading through all the comments; the agreement, criticism, and different experiences add more to the idea than I could fit here.",
+  "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+  "publishedAt": "2026-08-15T10:39:41.000Z",
+  "points": 247,
+  "id": "hacker-news-35ab4a7b",
+  "slug": "hacker-news-35ab4a7b",
+  "fetchedAt": "2026-08-15T23:41:52.394Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "与 AI 一起工作感觉更像是领导而不是编码",
+  "chineseSummary": "247 分 · 166 条评论",
+  "chineseContent": "在我职业生涯的大部分时间里，代码给了我确定性。程序按照指令的指示去做。如果相同的输入产生不同的结果，我们称其为错误。\n\n人们从来都不是这样的。作为领导者，我可以解释任务并准确地得到我所要求的内容。我还可以得到更好的东西，因为一位同事理解了请求背后的意图。有时候结果表明我并没有我想象的那么清晰。\n\n与人工智能一起工作感觉更接近第二种体验。\n\n人工智能在软件上运行，但与软件的合作并不完全可预测。同一个请求可能会产生不同的答案。它可能会建立有用的联系，错过一个明显的观点，或者用我没有考虑过的方法让我感到惊讶。\n\n当我将人工智能视为编译器时，这令人沮丧。当我将交互视为一种协作形式时，它会变得更有用。\n\n这并不能使人工智能成为一个人。它没有生活经验、责任感或人类判断力。比较是关于我们的工作方式。优秀的领导者所做的不仅仅是发出指示。他们分享背景、解释期望的结果、设定界限并对反馈结果做出回应。\n\n同样的习惯也改善了我在人工智能方面的工作。良好的提示会有所帮助，但共享的工作环境会更有帮助。示例、更正和可重复使用的说明可减少误解。随着时间的推移，该系统变得更加符合我的想法和我的需求。\n\n这项投资并不是假装人工智能是人类。这是为了更好地表达意图。\n\n我们花了数年时间学习如何告诉计算机准确地做什么。现在我们还需要解释为什么这项工作很重要，什么是好的结果，以及哪里需要判断。\n\n对我来说，这就是转变。人工智能正在使软件的工作方式不再像向机器发出命令，而更像是进行对话。这项技术是新的。领导能力则不然。\n\n这篇文章在 Hacker News 上引发了一场深思熟虑的讨论。我建议阅读所有评论；共识、批评和不同的经历对这个想法的补充超出了我在这里所能容纳的范围。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8e34e31de7",
+  "slug": "weibo-旺旺感谢关注和支持",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "旺旺感谢关注和支持",
+  "summary": "微博热榜第 37 位：旺旺感谢关注和支持，当前热度为 7万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%BA%E6%97%BA%E6%84%9F%E8%B0%A2%E5%85%B3%E6%B3%A8%E5%92%8C%E6%94%AF%E6%8C%81%23",
+  "hotValue": "7万热度",
+  "author": "",
+  "publishedAt": "2026-08-15T23:40:22.042Z",
+  "fetchedAt": "2026-08-15T23:43:06.983Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

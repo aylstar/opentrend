@@ -1,0 +1,21 @@
+{
+  "id": "weibo-95888aacaf",
+  "slug": "weibo-贺峻霖",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "贺峻霖",
+  "summary": "微博热榜第 17 位：贺峻霖，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-08-15T23:40:22.042Z",
+  "fetchedAt": "2026-08-15T23:43:06.983Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

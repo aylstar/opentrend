@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5c26421cc3",
+  "slug": "weibo-bin-回归",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "Bin 回归",
+  "summary": "微博热榜第 30 位：Bin 回归，当前热度为 7万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Bin+%E5%9B%9E%E5%BD%92%23",
+  "hotValue": "7万热度",
+  "author": "",
+  "publishedAt": "2026-08-15T23:40:22.042Z",
+  "fetchedAt": "2026-08-15T23:43:06.983Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

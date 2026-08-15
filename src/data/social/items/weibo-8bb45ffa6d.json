@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8bb45ffa6d",
+  "slug": "weibo-小沈阳秒了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "小沈阳秒了",
+  "summary": "微博热榜第 12 位：小沈阳秒了，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E7%A7%92%E4%BA%86%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-08-15T23:40:22.042Z",
+  "fetchedAt": "2026-08-15T23:43:06.982Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

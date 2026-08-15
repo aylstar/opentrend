@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4a19c13be4",
+  "slug": "weibo-淑元回应",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "淑元回应",
+  "summary": "微博热榜第 32 位：淑元回应，当前热度为 7万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B7%91%E5%85%83%E5%9B%9E%E5%BA%94%23",
+  "hotValue": "7万热度",
+  "author": "",
+  "publishedAt": "2026-08-15T23:40:22.042Z",
+  "fetchedAt": "2026-08-15T23:43:06.983Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

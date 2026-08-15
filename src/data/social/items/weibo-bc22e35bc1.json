@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bc22e35bc1",
+  "slug": "weibo-曹骏披哥席位第一",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "曹骏披哥席位第一",
+  "summary": "微博热榜第 6 位：曹骏披哥席位第一，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9B%B9%E9%AA%8F%E6%8A%AB%E5%93%A5%E5%B8%AD%E4%BD%8D%E7%AC%AC%E4%B8%80%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-08-15T23:40:22.042Z",
+  "fetchedAt": "2026-08-15T23:43:06.982Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
