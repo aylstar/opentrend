@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5ecf43a492",
+  "slug": "weibo-龙餐馆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "龙餐馆",
+  "summary": "微博热榜第 30 位：龙餐馆，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E9%A4%90%E9%A6%86%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-08-16T23:40:37.977Z",
+  "fetchedAt": "2026-08-16T23:42:00.391Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

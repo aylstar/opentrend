@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/macro-inc/macro",
   "docsUrl": "https://macro.com",
-  "stars": 3267,
-  "forks": 324,
-  "openIssues": 61,
+  "stars": 3402,
+  "forks": 338,
+  "openIssues": 67,
   "license": "AGPL-3.0",
-  "pushedAt": "2026-08-15T23:09:35Z",
-  "updatedAt": "2026-08-15T23:20:19Z",
+  "pushedAt": "2026-08-16T04:04:03Z",
+  "updatedAt": "2026-08-16T23:38:57Z",
   "createdAt": "2025-11-08T15:18:27Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<div align=\"center\">\n  <a target=\"_blank\" href=\"https://macro.com\">\n    <img width=\"2195\" height=\"721\" alt=\"Frame 11\" src=\"https://github.com/user-attachments/assets/50405352-785e-4984-b24f-544e89731acb\" />\n  </a>\n\n  <br />\n  <br />\n\n  <p>\n    <a href=\"https://macro.com/app\">Sign up</a>\n    ·\n    <a href=\"https://docs.macro.com\">Docs</a>\n    ·\n    <a href=\"https://cal.com/team/macro/macro-demo-call?metadata%5Bfbp%5D=fb.1.1778954074516.817396687896036613\">Book demo</a>\n    ·\n    <a href=\"https://macro.com\">Website</a>\n    ·\n    <a href=\"mailto:contact@macro.com\">Feature requests</a>\n    ·\n    <a href=\"CONTRIBUTING.md\">Contribute</a>\n    ·\n    <a href=\"mailto:teo@macro.com\">Hiring</a>\n  </p>\n</div>\n\n<br />\n\nMacro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @linked and searchable so your team (and your agents) never have to switch tools.\n\n<br />\n\n# Why Macro\n\nWe built Macro because we wanted a single operating system for our startup. There are many good software products, and we used them all — Slack, Linear, Notion, HubSpot, and Superhuman — but they don't work together as one system. As we scaled our last venture to ~20 people things started to break: every team got their own tools and the company was held together by MCP and Zapier. The company was not computable. It was chaotic.\n\nMacro is a complete redesign of work software from the ground up as a single system.\n\nDesigned by us in NYC and Toronto, dogfooded by our team of ~15 for two years. Built in SolidJS and Rust for speed and reliability. We're focused on building something that any small company or team at a larger company can use as their \"operating system\".\n\n<br />\n\n# Features\n\nMacro is composed of 'blocks' designed to be modular, extensible, and work together like Lego. For each block, we studied the best prior art and tried to make it even better.\n\nEach surface is purpose-built for its job rather than composed from a generic block primitive — but every one of them shares the same backend; cross-references between a doc and a task, or a channel message and an email, are natively stored as a **bidirectional graph**.\n\n| Block         | Docs                                                      | What it does                                                                  |\n| ------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------- |\n| Email         | [Docs &rarr;](https://docs.macro.com/product/email)       | Multi-account unified inbox, keyboard shortcuts, and shared inboxes. Gmail.   |\n| Messages      | [Docs &rarr;](https://docs.macro.com/product/channels)    | Channels and direct messages designed for focused technical discussions.      |\n| Tasks         | [Docs &rarr;](https://docs.macro.com/product/tasks)       | Linear-inspired task",
-  "generatedAt": "2026-08-15T23:41:33.515Z",
+  "generatedAt": "2026-08-16T23:40:52.857Z",
   "analysis": {
     "oneLine": "macro 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "macro 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，macro 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 3,267，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，macro 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 3,402，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -8,16 +8,16 @@
   "language": "Python",
   "githubUrl": "https://github.com/bojieli/ai-agent-book",
   "docsUrl": "https://docs.astral.sh/uv/getting-started/installation/",
-  "stars": 29922,
-  "forks": 3193,
+  "stars": 37865,
+  "forks": 4168,
   "openIssues": 6,
   "license": "Apache-2.0",
-  "pushedAt": "2026-08-02T18:38:43Z",
-  "updatedAt": "2026-08-03T01:02:02Z",
+  "pushedAt": "2026-08-16T10:55:11Z",
+  "updatedAt": "2026-08-16T23:31:31Z",
   "createdAt": "2025-09-09T02:41:44Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "monthly"
   ],
   "tags": [
     "AI",
@@ -26,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# 深入理解 AI Agent：设计原理与工程实践\n\n[![PDF](https://img.shields.io/badge/PDF-%E4%B8%8B%E8%BD%BD-success.svg)](#-电子书) [![在线阅读](https://img.shields.io/badge/🌐_在线阅读-bojieli.github.io-success?style=flat-square)](https://bojieli.github.io/ai-agent-book/) [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)](https://github.com/bojieli/ai-agent-book) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![Languages](https://img.shields.io/badge/翻译-13%20种%20语言-informational.svg)](#-电子书)\n[![Trending GitHub Project of the Day](https://img.shields.io/badge/GitHub%20Trending-Project%20of%20the%20Day-orange?logo=github)](https://github.com/trending)\n\n**中文** ← 当前 · [English](docs/en/README.md) · [Español](docs/es/README.md) · [Bahasa Indonesia](docs/id/README.md) · [العربية](docs/ar/README.md) · [繁體中文（台灣）](docs/zh-TW/README.md) · [Русский](docs/ru/README.md) · [Tiếng Việt](docs/vi/README.md) · [தமிழ்](docs/ta/README.md) · [日本語](docs/ja/README.md) · [Türkçe](docs/tr/README.md) · [한국어](docs/ko/README.md) · [Magyar](docs/hu/README.md)\n\n> 📥 **[下载 PDF / EPUB](#-电子书)**（推荐）— 推荐使用 PDF / EPUB 离线阅读，排版最佳；也可[在线阅读](https://bojieli.github.io/ai-agent-book/)（支持多语言切换、章节折叠、全文搜索，每次推送自动更新）。\n\n**Agent = LLM + 上下文 + 工具**——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、**95 个配套实验**全部开源，欢迎亲手把实验跑一遍。\n\n| 📚 **10 章** 正文，从基础到生产 | 📂 **95 个** 配套实验（含本地项目与外部复现轨道） | 🌐 **13 种** 语言：中 / 英 / 西 / 印尼 / 阿 / 繁體中文（台灣） / 俄 / 泰米尔 / 越 / 日 / 土耳其 / 韩 / 匈牙利 |\n| :---: | :---: | :---: |\n\n## 📖 电子书\n\n> 📥 **离线下载**（推荐，全书正文，开源免费）。以下链接始终指向 main 分支的最新构建；固定版本见 [Releases](https://github.com/bojieli/ai-agent-book/releases)：\n> - **中文（原版）**：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-CN.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-CN.epub)\n> - **英文**（社区翻译，by [@nsdevaraj](https://github.com/nsdevaraj)、[@whanyu1212](https://github.com/whanyu1212)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-en.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-en.epub)\n> - **西班牙语**（社区翻译，by [@santhreal](https://github.com/santhreal)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-es.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-es.epub)\n> - **印度尼西亚语**（社区翻译，by [@jojixyz666](https://github.com/jojixyz666)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-id.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-id.epub)\n> - **繁體中文（台灣）**（社区翻译，by [@tigercosmos](https://github.com/tigercosmos)）：[PDF](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-TW.pdf) · [EPUB](https://github.com/bojieli/ai-agent-book/releases/download/latest/AI-Agents-in-Depth-zh-TW.epub)\n> - **俄语**（社区翻译，by ",
-  "generatedAt": "2026-08-03T01:03:03.068Z",
+  "generatedAt": "2026-08-16T23:40:54.264Z",
   "analysis": {
     "oneLine": "ai-agent-book 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "ai-agent-book 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，ai-agent-book 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 29,922，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ai-agent-book 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 37,865，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
@@ -44,7 +44,7 @@
     ],
     "interpretation": "ai-agent-book 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
     "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
-    "installGuide": "uv sync --locked --extra ch1\nuv run python chapter1/context/main.py\ngit clone https://github.com/google-research/android_world.git chapter6/android_world && git -C chapter6/android_world checkout --detach 0e95d641e244504c22087cc29b013f3b2428a261\ngit clone https://huggingface.co/datasets/gaia-benchmark/GAIA chapter6/GAIA && git -C chapter6/GAIA checkout --detach 682dd723ee1e1697e00360edccf2366dc8418dd9\ngit clone https://github.com/xlang-ai/OSWorld.git chapter6/OSWorld && git -C chapter6/OSWorld checkout --detach 8365edc975efd0477a0d62444a5beed562ab5a7b",
+    "installGuide": "uv sync --locked --extra ch1\nuv run python chapter1/context/main.py\ngit clone https://github.com/anthropics/claude-quickstarts.git chapter6/claude-quickstarts && git -C chapter6/claude-quickstarts checkout --detach 9bcc95e316e5ef6542b4c9d0469f4078829eead5  # 实验 9-5 使用 computer-use-demo/\ngit clone https://github.com/browser-use/browser-use.git chapter6/browser-use && git -C chapter6/browser-use checkout --detach ec9277c5001f2cb78ee419c927775a3cfc227ff8  # 实验 9-6\ngit clone https://github.com/Vector-Wangel/XLeRobot.git chapter6/XLeRobot && git -C chapter6/XLeRobot fetch origin 3d14695e40c9c68229c0aacffca6053c75cd3eb6 && git -C chapter6/XLeRobot checkout --detach 3d14695e40c9c68229c0aacffca6053c75cd3eb6 && test \"$(git -C chapter6/XLeRobot rev-parse HEAD)\" = \"3d14695e40c9c68229c0aacffca6053c75cd3eb6\"  # 实验 9-7、9-9 共用",
     "deployment": "应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
     "commercialValue": "可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
     "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升自动化浏览器在测试、采集和复杂网页交互中的兼容性，并减少从零选型和重复开发的时间。",

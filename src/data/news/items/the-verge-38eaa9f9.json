@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Amazon is trying to crush class-action suits before they get started",
+  "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would […]",
+  "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+  "publishedAt": "2026-08-16T17:35:02.000Z",
+  "id": "the-verge-38eaa9f9",
+  "slug": "the-verge-38eaa9f9",
+  "content": "On Friday, Amazon customers received an email alerting them to an update to the site’s terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a “fast and efficient” way to resolve issues, but it notably would prevent customers from seeking the involvement of a judge or jury in most circumstances. Customers can still take Amazon to small claims court in certain circumstances, though payouts are often limited to a few thousand dollars. The relevant sections of Amazon’s legal policies page now read: > YOU AND WE AGREE THAT ANY DISPUTE OR CLAIM RELATING IN ANY WAY TO YOUR USE OF ANY AMAZON SERVICE, OR TO ANY PRODUCTS OR SERVICES SOLD OR DISTRIBUTED BY AMAZON OR THROUGH AMAZON.COM, WILL BE RESOLVED BY BINDING ARBITRATION RATHER THAN IN COURT … > Class Action Waiver. YOU AND WE AGREE THAT ANY ARBITRATION PROCEEDING WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION. You and we may only seek or obtain individualized relief in arbitration, and claims or requests for public injunctive relief or relief where you or we act in a representative capacity are not allowed. Amazon had removed similar language in 2021 as it faced growing legal challenges from users over privacy concerns relating to Alexa and its Echo speakers. It’s also faced class action suits over the years regarding product returns and its Prime membership. Rather than let those sorts of cases go to court, Amazon’s new terms would seek to resolve larger disputes through mass arbitration rather than mandatory 1-on-1 arbitration hearings. The agreement might not hold up in court, however. Plaintiffs and attorneys could still seek class action suits, and a judge would decide whether to let the case proceed.",
+  "fetchedAt": "2026-08-16T23:41:08.255Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "亚马逊正试图在集体诉讼开始之前粉碎它们",
+  "chineseSummary": "周五，亚马逊客户收到一封电子邮件，提醒他们网站条款和条件的更新。最值得注意的是，它表示争议现在将通过仲裁解决，并表示用户同意集体诉讼豁免。亚马逊将此定义为解决问题的“快速有效”方式，但值得注意的是，它会 [...]",
+  "chineseContent": "周五，亚马逊客户收到一封电子邮件，提醒他们网站条款和条件的更新。最值得注意的是，它表示争议现在将通过仲裁解决，并表示用户同意集体诉讼豁免。亚马逊将此视为解决问题的“快速有效”方式，但在大多数情况下，它尤其会阻止客户寻求法官或陪审团的参与。在某些情况下，顾客仍然可以将亚马逊告上小额索赔法庭，尽管赔偿金额通常仅限于几千美元。亚马逊法律政策页面的相关部分现为： > 您和我们同意，以任何方式与您使用任何亚马逊服务、或由亚马逊或通过 Amazon.com 销售或分销的任何产品或服务相关的任何争议或索赔，将通过具有约束力的仲裁而不是在法庭上解决… > 集体诉讼豁免。您和我们同意，任何仲裁程序将仅以个人为基础进行，而不是以集体或代表诉讼的形式进行。您和我们只能在仲裁中寻求或获得个性化救济，并且不允许您或我们以代表身份提出公共禁令救济或救济的索赔或请求。亚马逊于 2021 年删除了类似的语言，因为用户因 Alexa 及其 Echo 扬声器的隐私问题而面临越来越多的法律挑战。多年来，该公司还面临着有关产品退货和 Prime 会员资格的集体诉讼。亚马逊的新条款不会让此类案件诉诸法庭，而是寻求通过大规模仲裁而不是强制性的一对一仲裁听证会来解决更大的争议。然而，该协议可能在法庭上不起作用。原告和律师仍然可以寻求集体诉讼，法官将",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

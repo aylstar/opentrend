@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d91ddbec05",
+  "slug": "weibo-阿森纳3比0曼城",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "阿森纳3比0曼城",
+  "summary": "微博热榜第 20 位：阿森纳3比0曼城，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B33%E6%AF%940%E6%9B%BC%E5%9F%8E%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-16T23:40:37.977Z",
+  "fetchedAt": "2026-08-16T23:42:00.391Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

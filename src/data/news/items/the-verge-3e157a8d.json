@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+  "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+  "publishedAt": "2026-08-16T14:56:40.000Z",
+  "id": "the-verge-3e157a8d",
+  "slug": "the-verge-3e157a8d",
+  "content": "ChatGPT’s desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt-in, rather than opt-out, and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically ignore content in incognito or private browser tabs. [Media: https://twitter.com/AriX/status/2087996577227124775] In a quick demo video, Dominik Kundel, a member of the Developer Experiences team at OpenAI, shows the app looking up the last document he edited, checking if it was shared with people via Slack, and delivering a recap of how he spent his morning. The feature is definitely reminiscent of Windows Recall, but where Microsoft’s controversial AI feature relied heavily on screenshots, OpenAI says Computer History doesn’t capture images, videos, or audio, instead relying on “events.” [Media: https://youtu.be/W-HhMUe9hOg]",
+  "fetchedAt": "2026-08-16T23:41:08.255Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "ChatGPT 的计算机历史记录跟踪您的点击和击键",
+  "chineseSummary": "ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据、了解您的工作方式、建议自动化，甚至拾取您未完成的任务。它使用您的活动来构建一个时间表，供 ChatGPT 和 Codex 在您提出请求时参考。该功能[...]",
+  "chineseContent": "ChatGPT 在 macOS 上的桌面应用程序有一个名为“计算机历史记录”的新功能，可以将您的操作转化为训练数据，了解您的工作方式，建议自动化，甚至拾取您未完成的任务。它使用您的活动来构建一个时间表，供 ChatGPT 和 Codex 在您提出请求时参考。该功能是选择加入，而不是选择退出，您可以从计算机历史记录中排除某些应用程序和网站，如果您想要更细粒度的控制，您可以删除条目。 OpenAI 产品和工程经理 Ari Weinstein 在 X 上表示，计算机历史记录会自动忽略隐身或私人浏览器选项卡中的内容。 [媒体：https://twitter.com/AriX/status/2087996577227124775] 在一个快速演示视频中，OpenAI 开发者体验团队的成员 Dominik Ku​​ndel 展示了该应用程序查找他编辑的最后一个文档，检查该文档是否通过 Slack 与其他人共享，并回顾了他如何度过了一个上午。该功能肯定会让人想起Windows Recall，但微软备受争议的人工智能功能严重依赖于屏幕截图，而 OpenAI 表示，计算机历史记录不会捕获图像、视频或音频，而是依赖于“事件”。 [媒体：https://youtu.be/W-HhMUe9hOg]",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

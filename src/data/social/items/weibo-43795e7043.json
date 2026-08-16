@@ -1,0 +1,21 @@
+{
+  "id": "weibo-43795e7043",
+  "slug": "weibo-王源年度最佳内地男歌手",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "王源年度最佳内地男歌手",
+  "summary": "微博热榜第 13 位：王源年度最佳内地男歌手，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%86%85%E5%9C%B0%E7%94%B7%E6%AD%8C%E6%89%8B%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-08-16T23:40:37.977Z",
+  "fetchedAt": "2026-08-16T23:42:00.391Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

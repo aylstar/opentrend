@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Claude: System Prompts",
+  "summary": "494 points · 211 comments",
+  "content": "See updates to the core system prompts on [claude.ai](https://claude.ai) and the [Claude iOS app](https://anthropic.com/ios) and [Claude Android app](https://anthropic.com/android).",
+  "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+  "publishedAt": "2026-08-16T12:48:21.000Z",
+  "points": 494,
+  "id": "hacker-news-5ceb43f1",
+  "slug": "hacker-news-5ceb43f1",
+  "fetchedAt": "2026-08-16T23:41:08.252Z",
+  "score": 66,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克劳德：系统提示",
+  "chineseSummary": "494 分 · 211 条评论",
+  "chineseContent": "请参阅 [claude.ai](https://claude.ai) 和 [Claude iOS 应用程序](https://anthropic.com/ios) 和 [Claude Android 应用程序](https://anthropic.com/android) 上的核心系统提示更新。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1ab397d40e",
+  "slug": "weibo-王俊凯口误了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "王俊凯口误了",
+  "summary": "微博热榜第 7 位：王俊凯口误了，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%A3%E8%AF%AF%E4%BA%86%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-08-16T23:40:37.977Z",
+  "fetchedAt": "2026-08-16T23:42:00.391Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

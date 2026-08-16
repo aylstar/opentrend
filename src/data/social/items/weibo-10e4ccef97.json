@@ -1,0 +1,21 @@
+{
+  "id": "weibo-10e4ccef97",
+  "slug": "weibo-赵今麦好美",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 23,
+  "title": "赵今麦好美",
+  "summary": "微博热榜第 23 位：赵今麦好美，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%A5%BD%E7%BE%8E%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-16T23:40:37.977Z",
+  "fetchedAt": "2026-08-16T23:42:00.391Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

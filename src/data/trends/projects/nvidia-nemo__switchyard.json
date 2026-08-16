@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/NVIDIA-NeMo/Switchyard",
   "docsUrl": "https://docs.astral.sh/uv/getting-started/installation/",
-  "stars": 1583,
-  "forks": 144,
-  "openIssues": 100,
+  "stars": 1681,
+  "forks": 153,
+  "openIssues": 105,
   "license": "Apache-2.0",
   "pushedAt": "2026-08-14T22:34:53Z",
-  "updatedAt": "2026-08-15T23:37:03Z",
+  "updatedAt": "2026-08-16T23:08:48Z",
   "createdAt": "2026-05-19T19:06:33Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"Switchyard\" width=\"800\">\n</p>\n\n# Switchyard\n\nSwitchyard is a Rust proxy and library for LLM traffic. It routes requests\nacross providers, translates between OpenAI and Anthropic APIs, records\noperational metrics, and provides typed, composable routing algorithms.\n\n**Why Switchyard?** Point a coding agent such as Claude Code or Codex at an\nopen-source model. Switchyard translates between the OpenAI Chat, Anthropic\nMessages, and OpenAI Responses formats, so the agent keeps speaking its native\nAPI while the request is served by vLLM, NVIDIA NIM, Ollama, or any\nOpenAI-compatible endpoint. The same proxy can spread traffic across several\nmodels for A/B benchmarking, apply signal-driven stage routing, or run a custom\nalgorithm you write yourself.\n\n## Features\n\n- **Protocol Translation**: convert between OpenAI Chat, Anthropic Messages, and OpenAI Responses formats\n- **Multi-Backend Routing**: random routing, LLM-as-classifier routing, signal-driven stage-router, or your own algorithm\n- **Operational Metrics**: Prometheus metrics cover requests, errors, latency, tokens, and routing overhead\n\n## Maturity\n\nSwitchyard is pre-alpha software that is evolving rapidly. The API and algorithms are expected to change significantly before we reach v1.0.\n\n> [!WARNING]\n> Experimental software. Not for production use.\n\n## Quick Start\n\nChoose the launcher path to run Claude Code, Codex CLI, or OpenClaw through\nSwitchyard. Choose the server path to run Switchyard as a standalone proxy.\nChoose the library path to embed routing in your own Rust application.\n\n### Launcher Path\n\nInstall [`uv`](https://docs.astral.sh/uv/getting-started/installation/) if it is\nnot already available, then install the published Switchyard tool:\n\n```bash\ncurl -LsSf https://astral.sh/uv/install.sh | sh\nsource \"$HOME/.local/bin/env\"\nuv tool install --python 3.10 \"nemo-switchyard[cli]\"\n```\n\nThe coding agent you launch must also be installed and on your `PATH`. This does\nnot install the standalone `switchyard-server` binary; use the Server Path for\nthat.\n\nSet an OpenRouter key and launch against the packaged deployment:\n\n```bash\nexport OPENROUTER_API_KEY=\"your-openrouter-key\"  # pragma: allowlist secret\nswitchyard launch claude --model switchyard\nswitchyard launch codex --model switchyard\nswitchyard launch openclaw --model switchyard\n```\n\nTo use your own native TOML deployment, pass its route ID and configuration:\n\n```bash\nswitchyard launch claude --model my-route --config routes.toml\n```\n\n### Server Path\n\nUse this path to install and run the standalone Rust proxy. Install\n[Rust with Cargo](https://rust-lang.org/tools/install/), then install the\npublished binary:\n\n```bash\ncargo install --locked switchyard-server\nswitchyard-server --help\n```\n\nCargo builds the release binary and installs it into `~/.cargo/bin` by default.\n\nCreate `routes.toml` using the\n[Getting Started guide](docs/getting_started.md#server-path), then validate it\nand start the ser",
-  "generatedAt": "2026-08-15T23:41:31.949Z",
+  "generatedAt": "2026-08-16T23:40:51.769Z",
   "analysis": {
     "oneLine": "Switchyard 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "Switchyard 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，Switchyard 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 1,583，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Switchyard 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 1,681，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

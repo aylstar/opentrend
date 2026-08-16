@@ -1,0 +1,94 @@
+{
+  "slug": "2026-08-17",
+  "date": "2026-08-17",
+  "title": "2026年08月17日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-08-16T23:40:57.317Z",
+  "stats": {
+    "totalProjects": 20,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.6
+  },
+  "sections": {
+    "recommended": [
+      "koala73__worldmonitor",
+      "diegosouzapw__omniroute",
+      "tooljet__tooljet"
+    ],
+    "weekly": [
+      "cathrynlavery__diagram-design",
+      "semantica-agi__semantica",
+      "primeintellect-ai__prime-agent",
+      "nvidia-nemo__switchyard",
+      "megadose__holehe",
+      "cactus-compute__needle",
+      "macro-inc__macro",
+      "vitali87__code-graph-rag",
+      "tooljet__tooljet",
+      "addyosmani__agent-skills"
+    ],
+    "monthly": [
+      "bojieli__ai-agent-book",
+      "diegosouzapw__omniroute",
+      "koala73__worldmonitor",
+      "1jehuang__jcode",
+      "tencentcloud__tencentdb-agent-memory",
+      "zhaoxuya520__reverse-skill",
+      "pingdotgg__t3code",
+      "earendil-works__pi",
+      "every-app__open-seo",
+      "mattpocock__skills"
+    ],
+    "commercial": [
+      "cathrynlavery__diagram-design",
+      "semantica-agi__semantica",
+      "primeintellect-ai__prime-agent",
+      "nvidia-nemo__switchyard",
+      "megadose__holehe",
+      "cactus-compute__needle"
+    ],
+    "deployable": [
+      "cathrynlavery__diagram-design",
+      "semantica-agi__semantica",
+      "primeintellect-ai__prime-agent",
+      "nvidia-nemo__switchyard",
+      "megadose__holehe",
+      "cactus-compute__needle"
+    ],
+    "risky": [
+      "cathrynlavery__diagram-design",
+      "semantica-agi__semantica",
+      "primeintellect-ai__prime-agent",
+      "nvidia-nemo__switchyard",
+      "megadose__holehe",
+      "cactus-compute__needle"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 20 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "cathrynlavery__diagram-design",
+    "semantica-agi__semantica",
+    "primeintellect-ai__prime-agent",
+    "nvidia-nemo__switchyard",
+    "megadose__holehe",
+    "cactus-compute__needle",
+    "macro-inc__macro",
+    "vitali87__code-graph-rag",
+    "tooljet__tooljet",
+    "addyosmani__agent-skills",
+    "bojieli__ai-agent-book",
+    "diegosouzapw__omniroute",
+    "koala73__worldmonitor",
+    "1jehuang__jcode",
+    "tencentcloud__tencentdb-agent-memory",
+    "zhaoxuya520__reverse-skill",
+    "pingdotgg__t3code",
+    "earendil-works__pi",
+    "every-app__open-seo",
+    "mattpocock__skills"
+  ]
+}

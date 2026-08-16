@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7b705bded3",
+  "slug": "weibo-盗墓笔记",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "盗墓笔记",
+  "summary": "微博热榜第 10 位：盗墓笔记，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-08-16T23:40:37.977Z",
+  "fetchedAt": "2026-08-16T23:42:00.391Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
