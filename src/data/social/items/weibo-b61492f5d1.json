@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b61492f5d1",
+  "slug": "weibo-桃黑黑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "桃黑黑",
+  "summary": "微博热榜第 13 位：桃黑黑，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-08-17T23:44:28.597Z",
+  "fetchedAt": "2026-08-17T23:45:34.766Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

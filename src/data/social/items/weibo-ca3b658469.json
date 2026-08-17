@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ca3b658469",
+  "slug": "weibo-井迪音乐节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "井迪音乐节",
+  "summary": "微博热榜第 19 位：井迪音乐节，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%BF%AA%E9%9F%B3%E4%B9%90%E8%8A%82%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-17T23:44:28.597Z",
+  "fetchedAt": "2026-08-17T23:45:34.766Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

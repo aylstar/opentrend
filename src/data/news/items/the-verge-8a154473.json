@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sonos finally added Live Activities controls for your iPhone lockscreen",
+  "summary": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sonos shared to Reddit today that was spotted by 9to5Mac. While some features […]",
+  "url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
+  "publishedAt": "2026-08-17T16:38:35.000Z",
+  "id": "the-verge-8a154473",
+  "slug": "the-verge-8a154473",
+  "content": "Sonos released an update to its mobile app that finally introduces support for iOS’ Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a “much requested, anticipated, and needed feature,” according to a post Sonos shared to Reddit today that was spotted by 9to5Mac. While some features like displaying album art are not available, the Sonos Live Activity provides basic details and controls when listening to music or podcasts through a Sonos system without having to fully unlock your iPhone and open the app.&nbsp; Support for Live Activities and lockscreen controls similar to what’s already available in the Android version of the Sonos app was teased by the company’s CEO Tom Conrad during an interview with Bloomberg last February. And following backlash to a major Sonos app update in 2024, support for Live Activities is off by default but can be enabled by navigating to both the Sonos app’s preferences as well as the Sonos app section of iOS’ settings. Once it’s turned on, the Live Activity will appear “after you initiate playback and then close the app” and displays the name of the group or room where audio was last playing from and the title of what you’re listening to. After playback stops, the Live Activity will automatically disappear from your lockscreen after 15 minutes. Support for the Apple Watch and CarPlay is included, but while the Live Activity will be displayed on your wrist or in your car, the controls aren’t supported there. It’s not known if or when those controls will ever work, but Sonos says its team is still working to improve the new feature, and when it comes to album art, the company is exploring “alternative ways to enhance the lock screen experience.”",
+  "fetchedAt": "2026-08-17T23:44:11.318Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Sonos 终于为 iPhone 锁屏添加了实时活动控件",
+  "chineseSummary": "Sonos 发布了其移动应用程序的更新，最终引入了对 iOS 实时活动的支持，让 iPhone 用户可以快速访问锁屏上的播放控件。根据 Sonos 今天在 Reddit 上分享的一篇由 9to5Mac 发现的帖子，增加的功能是“人们强烈要求、期待和需要的功能”。虽然一些功能[...]",
+  "chineseContent": "Sonos 发布了其移动应用程序的更新，最终引入了对 iOS 实时活动的支持，让 iPhone 用户可以快速访问锁屏上的播放控件。根据 Sonos 今天在 Reddit 上分享的一篇由 9to5Mac 发现的帖子，增加的功能是“人们强烈要求、期待和需要的功能”。虽然显示专辑封面等一些功能不可用，但 Sonos Live Activity 提供了通过 Sonos 系统收听音乐或播客时的基本详细信息和控件，而无需完全解锁 iPhone 并打开应用程序。  去年 2 月，该公司首席执行官汤姆·康拉德 (Tom Conrad) 在接受彭博社采访时表示，对实时活动和锁屏控制的支持与 Android 版 Sonos 应用程序中已有的功能类似。在 2024 年 Sonos 应用程序重大更新遭到强烈反对后，对实时活动的支持默认关闭，但可以通过导航到 Sonos 应用程序的首选项以及 iOS 设置的 Sonos 应用程序部分来启用。打开后，实时活动将在“启动播放然后关闭应用程序后”出现，并显示上次播放音频的组或房间的名称以及您正在收听的内容的标题。播放停止后，实时活动将在 15 分钟后自动从锁定屏幕上消失。包括对 Apple Watch 和 CarPlay 的支持，但虽然实时活动将显示在您的手腕上或汽车中，但那里不支持控件。目前尚不清楚这些控件是否或何时会起作用，但 Sonos 表示其团队仍在努力改进新功能，并且在专辑封面方面，该公司正在探索“增强锁屏体验的替代方法”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

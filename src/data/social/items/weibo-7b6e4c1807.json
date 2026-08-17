@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7b6e4c1807",
+  "slug": "weibo-大批ai博主停更了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "大批AI博主停更了",
+  "summary": "微博热榜第 2 位：大批AI博主停更了，当前热度为 72万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23",
+  "hotValue": "72万热度",
+  "author": "",
+  "publishedAt": "2026-08-17T23:44:28.597Z",
+  "fetchedAt": "2026-08-17T23:45:34.765Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

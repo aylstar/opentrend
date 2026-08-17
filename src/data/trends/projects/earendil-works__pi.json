@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/earendil-works/pi",
   "docsUrl": "https://pi.dev/docs/latest",
-  "stars": 91450,
-  "forks": 11349,
-  "openIssues": 135,
+  "stars": 92318,
+  "forks": 11445,
+  "openIssues": 136,
   "license": "MIT",
-  "pushedAt": "2026-08-16T23:17:31Z",
-  "updatedAt": "2026-08-16T23:28:31Z",
+  "pushedAt": "2026-08-17T23:09:50Z",
+  "updatedAt": "2026-08-17T23:33:11Z",
   "createdAt": "2025-08-09T14:03:50Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://pi.dev\">\n    <img alt=\"pi logo\" src=\"https://pi.dev/logo-auto.svg\" width=\"128\">\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a>\n  <a href=\"https://www.npmjs.com/package/@earendil-works/pi-coding-agent\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-square\" /></a>\n</p>\n\n> New issues and PRs from new contributors are auto-closed by default. Maintainers review auto-closed issues daily. See [CONTRIBUTING.md](CONTRIBUTING.md).\n\n# Pi Agent Harness\n\nThis is the home of the Pi agent harness project including our self extensible coding agent.\n\n* **[@earendil-works/pi-coding-agent](packages/coding-agent)**: Interactive coding agent CLI\n* **[@earendil-works/pi-agent-core](packages/agent)**: Agent runtime with tool calling and state management\n* **[@earendil-works/pi-ai](packages/ai)**: Unified multi-provider LLM API (OpenAI, Anthropic, Google, …)\n\nTo learn more about Pi:\n\n* [Visit pi.dev](https://pi.dev), the project website with demos\n* [Read the documentation](https://pi.dev/docs/latest), but you can also ask the agent to explain itself\n\n## All Packages\n\n| Package | Description |\n|---------|-------------|\n| **[@earendil-works/pi-telemetry](packages/telemetry)** | Vendor-neutral telemetry contracts, reference adapter, conformance tests, and typed schemas |\n| **[@earendil-works/pi-ai](packages/ai)** | Unified multi-provider LLM API (OpenAI, Anthropic, Google, etc.) |\n| **[@earendil-works/pi-agent-core](packages/agent)** | Agent runtime with tool calling and state management |\n| **[@earendil-works/pi-coding-agent](packages/coding-agent)** | Interactive coding agent CLI |\n| **[@earendil-works/pi-tui](packages/tui)** | Terminal UI library with differential rendering |\n\nFor Slack/chat automation and workflows see [earendil-works/pi-chat](https://github.com/earendil-works/pi-chat).\n\n## Permissions & Containerization\n\nPi does not include a built-in permission system for restricting filesystem, process, network, or credential access. By default, it runs with the permissions of the user and process that launched it.\n\nIf you need stronger boundaries, containerize or sandbox Pi. See [packages/coding-agent/docs/containerization.md](packages/coding-agent/docs/containerization.md) for three patterns:\n\n- **Gondolin extension**: keep `pi` and provider auth on the host while routing built-in tools and `!` commands into a local Linux micro-VM.\n- **Plain Docker**: run the whole `pi` process in a local container for simple isolation.\n- **OpenShell**: run the whole `pi` process in a policy-controlled sandbox.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines and [AGENTS.md](AGENTS.md) for project-specific rules (for both humans and agents).  Longer term plans for Pi can also be found in [RFCs](http",
-  "generatedAt": "2026-08-16T23:40:56.656Z",
+  "generatedAt": "2026-08-17T23:43:59.982Z",
   "analysis": {
     "oneLine": "pi 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
     "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
     "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
     "detailParagraphs": [
       "pi 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
-      "如果把它放进实际使用场景，pi 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 91,450，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，pi 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 92,318，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

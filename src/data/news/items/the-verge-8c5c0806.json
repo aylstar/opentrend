@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
+  "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But […]",
+  "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
+  "publishedAt": "2026-08-17T15:10:25.000Z",
+  "id": "the-verge-8c5c0806",
+  "slug": "the-verge-8c5c0806",
+  "content": "Apple’s changing its rules for data collection consent prompts after Germany’s Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple’s App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But as a designated “gatekeeper” under the EU’s DMA rules, it is facing additional scrutiny over whether the program provides a level playing field.&nbsp; The regulator says the prompts steer users away from agreeing to let third-party apps use their data, while encouraging them to give consent for Apple’s apps. > In its preliminary assessment, the Bundeskartellamt considered that the current design of the [App Tracking Transparency] prompt steers users towards refusing consent, whereas the design of the [Personalized Ads] prompt steers them towards giving their consent to the use of their data for advertising purposes. Factors that contribute to this steering effect include the symbols used (for example, a warning hand symbol), different wordings (“app tracking” versus “personalised advertising”), partially ambiguous descriptions of how the data will be used, differences in the space available to explain the advantages of allowing data use, and the order in which the selection options are displayed. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/germany-Bundeskartellamt-apple-data-consent-prompts.png?quality=90&strip=all] Apple now has four months to update the design and language of the consent pop-ups. The proposed changes would remove discouraging language and symbols from third-party app pop-ups, like a warning hand icon, and give them a more neutral design similar to the pop-ups for Apple’s apps. Third-party app developers would also be able to combine or link Apple’s required pop-ups with other data collection consent prompts.&nbsp; According to Reuters, the changes “would apply in almost all European Union countries.”",
+  "fetchedAt": "2026-08-17T23:44:11.318Z",
+  "score": 70,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融",
+    "产品"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果公司被责令停止恐吓 iPhone 和 iPad 用户使用第三方应用程序",
+  "chineseSummary": "在德国联邦卡特尔办公室指责苹果公司为提示设计有利于自己的应用程序后，苹果改变了数据收集同意提示的规则。据报道，苹果的应用程序跟踪透明度提示在社交媒体应用程序与 iOS 14.5 一起推出时花费了近 100 亿美元，使得用户的跨应用程序跟踪很大程度上选择了加入。但是 [...]",
+  "chineseContent": "在德国联邦卡特尔办公室指责苹果公司为提示设计有利于自己的应用程序后，苹果改变了数据收集同意提示的规则。据报道，苹果的应用程序跟踪透明度提示在社交媒体应用程序与 iOS 14.5 一起推出时花费了近 100 亿美元，使得用户的跨应用程序跟踪基本上选择了加入。但作为欧盟 DMA 规则下指定的“看门人”，它正面临着对该计划是否提供公平竞争环境的额外审查。  监管机构表示，这些提示会引导用户放弃同意第三方应用程序使用其数据，同时鼓励他们同意苹果的应用程序。 > 在初步评估中，德国联邦卡特尔局认为，[应用程序跟踪透明度]提示的当前设计会引导用户拒绝同意，而[个性化广告]提示的设计会引导他们同意将其数据用于广告目的。造成这种转向效果的因素包括所使用的符号（例如，警告手势）、不同的措辞（“应用程序跟踪”与“个性化广告”）、对如何使用数据的部分模糊描述、可用于解释允许使用数据的优点的空间差异以及选择选项的显示顺序。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/germany-Bundeskartellamt-apple-data-consent-prompts.png?quality=90&strip=all] 苹果现在有四个月的时间来更新同意弹出窗口的设计和语言。拟议的更改将从第三方应用程序弹出窗口中删除令人沮丧的语言和符号，例如警告手形图标，并为它们提供更加中立的设计，类似于苹果的弹出窗口。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

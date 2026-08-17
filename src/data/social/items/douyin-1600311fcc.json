@@ -1,0 +1,21 @@
+{
+  "id": "douyin-1600311fcc",
+  "slug": "douyin-这是酷狗音乐吗",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 16,
+  "title": "这是酷狗音乐吗",
+  "summary": "抖音热榜第 16 位：这是酷狗音乐吗，当前热度为 869万热度。",
+  "url": "https://www.douyin.com/search/%E8%BF%99%E6%98%AF%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90%E5%90%97?type=general",
+  "hotValue": "869万热度",
+  "author": "",
+  "publishedAt": "2026-08-17T23:27:50.126Z",
+  "fetchedAt": "2026-08-17T23:45:34.770Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
