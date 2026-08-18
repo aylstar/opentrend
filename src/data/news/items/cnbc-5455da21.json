@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
+  "summary": "The biggest single options trade in the entire market Monday was a $129 million bet against the VanEck Semiconductor ETF.",
+  "url": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
+  "publishedAt": "2026-08-18T13:13:13.000Z",
+  "id": "cnbc-5455da21",
+  "slug": "cnbc-5455da21",
+  "content": "When it comes to the fate of the all-important semiconductor sector, traders in the options market are faced with a classic investing dilemma: go with the crowd, or the big-money contrarian? According to options flows, the crowd is leaning the most heavily bullish since April. The catch is that the biggest single options trade in the entire market Monday – a $129 million trade that accounted for over a third of total premium in the VanEck Semiconductor ETF (SMH) – was resolutely bearish. First, the crowd: the ratio of open put to call contracts on the SMH slid to 1.89 Monday, the most lopsided towards calls since early April and down from a high of 3.5 the last week of June, according to Barchart. The ratio hasn't fallen below 1.5 in at least a year, reflecting the general demand for puts as a hedging instrument to long equity positions.\n\nThe fluctuation of the open-interest ratio has arguably been a compelling indicator for the price of the underlying ETF this year. Traders started buying up puts in late May and early June as SMH momentum slowed and the ratio reached a one-year bearish high on June 24, just two days before the fund peaked and entered a 25% draw-down. \"Bank exposure to leveraged ETF and Situational Awareness this summer got to the point they felt very exposed to jump risk in semiconductor names and that caused hedging and volatility to go way up,\" said Zed Francis, CIO of Chicago-based Convexitas, which runs a semiconductor options trading strategy for clients. \"Now they don't need those hedges, and I believe unwinding of those hedges has made volatility in the sector inexpensive.\" Queue the big-money contrarian. Whether it's the dropoff in the cost of trading semiconductor options – SMH implied volatility collapsed from 65% last month to 40% Monday, the lowest since February – or just the trader urge to fade the crowd, someone put on a massive bet against the group on Monday. Just before 11 a.m. ET, a trader on the Nasdaq PHLX exchange bought 20,100 630-strike SMH puts expiring Nov. 20 for $129 million, according to data from SpotGamma and ThinkOrSwim. Open interest in that contract was less than 50 at Friday's close, meaning the trade was almost certainly a new position. Without any other trades of that magnitude at that time Monday, and with the fund trading at $594, the deep in-the-money put position is likely being used as a synthetic short bet against the group. It was the single biggest options trade on the tape Monday and 3.5 times bigger than the second-biggest transaction, a $37 million leg of a multi-part trade in Sandisk, according to SpotGamma data.\n\n\"The further out you go in some of these semiconductor options, the dumber the options pricing gets betting on an upside crash,\" said Don Kaufman, co-founder of TheoTrade. \"That unto itself makes me a contrarian.\"",
+  "fetchedAt": "2026-08-18T23:43:25.950Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "逆向投资者与大众投资者：一位交易员大量押注做空芯片股",
+  "chineseSummary": "周一整个市场最大的单一期权交易是做空 VanEck Semiconductor ETF 的 1.29 亿美元。",
+  "chineseContent": "当谈到最重要的半导体行业的命运时，期权市场的交易者面临着一个典型的投资困境：随波逐流，还是逆势而上？根据期权流向，人群倾向于自四月份以来最严重的看涨情绪。问题在于，周一整个市场最大的单一期权交易——一笔 1.29 亿美元的交易，占 VanEck 半导体 ETF (SMH) 总溢价的三分之一以上——是绝对看跌的。首先，人群：根据 Barchart，SMH 未平仓看跌期权与看涨期权合约的比率周一下滑至 1.89，这是自 4 月初以来最不平衡的看涨期权，并从 6 月最后一周的高点 3.5 下降。该比率至少在一年内没有跌破 1.5，反映了对看跌期权作为多头股票头寸对冲工具的普遍需求。\n\n未平仓利率的波动可以说是今年基础ETF价格的一个引人注目的指标。随着 SMH 势头放缓，该比率于 6 月 24 日达到一年来的看跌高点，就在该基金见顶并进入 25% 回撤的前两天，交易员开始在 5 月底和 6 月初买入看跌期权。总部位于芝加哥的 Convexitas 首席信息官泽德·弗朗西斯 (Zed Francis) 表示，“今年夏天，银行对杠杆 ETF 和态势感知的投资已经达到了这样的程度，他们感觉自己非常容易面临半导体名称的跳跃风险，这导致对冲和波动性大幅上升。”Convexitas 为客户提供半导体期权交易策略。 “现在他们不需要这些对冲，而且我相信这些对冲的解除使该行业的波动变得便宜。”排队大笔资金逆向投资者。无论是半导体期权交易成本的下降（SMH 隐含波动率从上个月的 65% 跌至周一的 40%，为 2 月份以来的最低水平），还是只是交易者想要淡出人群的冲动，有人在周一对该集团进行了大量押注。根据 SpotGamma 和 ThinkOrSwim 的数据，就在美国东部时间上午 11 点之前，纳斯达克 PHLX 交易所的一名交易员以 1.29 亿美元的价格买入了 20,100 手 630 次行使价的 SMH 看跌期权，这些看跌期权将于 11 月 20 日到期。截至周五收盘，该合约的未平仓合约不足 50，这意味着该交易几乎肯定是一个新头寸。周一当时没有任何其他如此规模的交易，并且该基金的交易价格为 594 美元，深度价内看跌期权头寸很可能被用作对该集团的综合空头押注。根据 SpotGamma 的数据，这是周一盘中最大的单笔期权交易，比第二大交易（Sandisk 的多部分交易的 3700 万美元）大 3.5 倍。\n\nTheoTrade 联合创始人唐·考夫曼 (Don Kaufman) 表示：“在某些半导体期权中，你的投资越远，期权定价就越愚蠢。” “这本身就让我成为一个逆向投资者。”",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

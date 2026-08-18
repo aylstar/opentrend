@@ -1,0 +1,21 @@
+{
+  "id": "weibo-775e31ea80",
+  "slug": "weibo-现在该不该换手机",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "现在该不该换手机",
+  "summary": "微博热榜第 17 位：现在该不该换手机，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8D%A2%E6%89%8B%E6%9C%BA%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-08-18T23:40:32.031Z",
+  "fetchedAt": "2026-08-18T23:44:04.413Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

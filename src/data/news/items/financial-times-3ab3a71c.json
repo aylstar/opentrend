@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Soaring diesel prices rip across US economy",
+  "summary": "Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections",
+  "url": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1",
+  "publishedAt": "2026-08-18T19:33:02.000Z",
+  "id": "financial-times-3ab3a71c",
+  "slug": "financial-times-3ab3a71c",
+  "content": "Rising fuel costs threaten new jolt of inflation ahead of November’s midterm elections",
+  "fetchedAt": "2026-08-18T23:43:25.955Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 10,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "柴油价格飙升冲击美国经济",
+  "chineseSummary": "燃料成本上涨可能会在 11 月中期选举之前引发新一轮通胀",
+  "chineseContent": "燃料成本上涨可能会在 11 月中期选举之前引发新一轮通胀",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

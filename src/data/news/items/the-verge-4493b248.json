@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+  "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+  "publishedAt": "2026-08-18T19:28:30.000Z",
+  "id": "the-verge-4493b248",
+  "slug": "the-verge-4493b248",
+  "content": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have “critical” cybersecurity capabilities, and the company says it instituted a two-week pause in reinforcement learning (RL) training on its “latest models intended for deployment” while it tightened up security. The company’s “largest planned frontier RL run remains on hold.” For its frontier model research, OpenAI now requires stronger sandboxes for workloads that “execute model-generated or otherwise untrusted code,” and has more controls to “isolate higher-risk and untrusted workloads from the internet.” It has also updated its research environment to “remove potentially vulnerable shared services, reduce standing privileges, and improve security and trust boundaries.” As part of the company’s expanded monitoring setup, OpenAI now aims to issue an alert “within 30 minutes after concerning activity is surfaced,” OpenAI says. If the people paged after an alert can’t “conclusively” determine whether an alert is a false positive within 30 minutes, “those teams are expected to pause the activity.”&nbsp; OpenAI also says that it’s applying “our core alignment techniques across more stages of the training process,” including reward models that “better detect and discourage unsafe behavior” and training models “to be more honest about their actions, capabilities, and limitations.” Since the discovery of the Hugging Face breach, Anthropic and Meta have also found that their AI models had hacked other organizations.",
+  "fetchedAt": "2026-08-18T23:43:25.948Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "安全"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 在 AI 黑客入侵 Hugging Face 后制定了新的安全变更",
+  "chineseSummary": "继 7 月份有消息称其 AI 突破沙盒环境并意外入侵 Hugging Face 后，OpenAI 宣布了安全更新，包括对其研究环境、监控和对齐技术的改进。该公司已经停止了新车型 Astra 的开发，它认为该车型可能具有“关键”的网络安全能力，并且 [...]",
+  "chineseContent": "继 7 月份有消息称其 AI 突破沙盒环境并意外入侵 Hugging Face 后，OpenAI 宣布了安全更新，包括对其研究环境、监控和对齐技术的改进。该公司已经停止了其认为可能具有“关键”网络安全能力的新模型 Astra，该公司表示，在加强安全性的同时，对其“打算部署的最新模型”的强化学习 (RL) 培训暂停了两周。该公司“最大的计划中的前沿 RL 运行仍处于搁置状态。”对于前沿模型研究，OpenAI 现在需要更强大的沙箱来处理“执行模型生成的或其他不可信代码”的工作负载，并拥有更多控制来“将高风险和不可信的工作负载与互联网隔离”。它还更新了其研究环境，以“删除潜在脆弱的共享服务，减少常设特权，并改善安全和信任边界。” OpenAI 表示，作为公司扩大监控设置的一部分，OpenAI 现在的目标是“在相关活动出现后 30 分钟内”发出警报。如果收到警报后寻呼的人员无法在 30 分钟内“最终”确定警报是否为误报，“这些团队将暂停活动。”  OpenAI 还表示，它正在将“我们的核心调整技术应用于训练过程的更多阶段”，包括“更好地检测和阻止不安全行为”的奖励模型以及“更诚实地了解其行为、能力和局限性”的训练模型。自从 Hugging Face 漏洞被发现以来，Anthropic 和 Meta 还发现他们的人工智能模型已经入侵了其他组织。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

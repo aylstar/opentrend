@@ -1,0 +1,21 @@
+{
+  "id": "douyin-9e53f64afe",
+  "slug": "douyin-今日七夕",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 3,
+  "title": "今日七夕",
+  "summary": "抖音热榜第 3 位：今日七夕，当前热度为 1,096万热度。",
+  "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E4%B8%83%E5%A4%95?type=general",
+  "hotValue": "1,096万热度",
+  "author": "",
+  "publishedAt": "2026-08-18T23:32:16.361Z",
+  "fetchedAt": "2026-08-18T23:44:04.524Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

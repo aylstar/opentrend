@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0e4177d115",
+  "slug": "weibo-七夕",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "七夕",
+  "summary": "微博热榜第 2 位：七夕，当前热度为 61万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%95%23",
+  "hotValue": "61万热度",
+  "author": "",
+  "publishedAt": "2026-08-18T23:40:32.031Z",
+  "fetchedAt": "2026-08-18T23:44:04.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
