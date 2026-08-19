@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/unslothai/unsloth",
   "docsUrl": "https://unsloth.ai/docs",
-  "stars": 73579,
-  "forks": 6647,
-  "openIssues": 1321,
+  "stars": 73851,
+  "forks": 6672,
+  "openIssues": 1340,
   "license": "Apache-2.0",
-  "pushedAt": "2026-08-18T22:24:26Z",
-  "updatedAt": "2026-08-18T23:37:15Z",
+  "pushedAt": "2026-08-19T23:40:42Z",
+  "updatedAt": "2026-08-19T23:42:40Z",
   "createdAt": "2023-11-29T16:50:09Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<h1 align=\"center\" style=\"margin:0;\">\n  <a href=\"https://unsloth.ai/docs\"><picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20white%20text.png\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\">\n    <img alt=\"Unsloth logo\" src=\"https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png\" height=\"80\" style=\"max-width:100%;\">\n  </picture></a>\n</h1>\n<h3 align=\"center\" style=\"margin: 0; margin-top: 0;\">\nUnsloth is the first desktop app to run and train models.\n</h3>\n\n<p align=\"center\">\n  <a href=\"#-features\">Features</a> •\n  <a href=\"#-install\">Quickstart</a> •\n  <a href=\"#-free-notebooks\">Notebooks</a> •\n  <a href=\"https://unsloth.ai/docs\">Documentation</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://unsloth.ai/docs/desktop\">\n    <img height=\"400\" alt=\"unsloth desktop\" src=\"https://unsloth.ai/cgi/image/unsloth_qwen3.8_final_ut2eqWnYJ-SLmu0s7x522.png?format=raw\" />\n  </a>\n</p>\n\n## ⚡ Get started\nDownload the native Unsloth Desktop app for your operating system:\n<table>\n  <tr>\n    <td><b>Platform</b></td>\n    <td><b>Link</b></td>\n  </tr>\n  <tr>\n    <td><b>Windows</b></td>\n    <td><a href='https://github.com/unslothai/unsloth/releases/download/v0.1.800-beta/Unsloth-Desktop-0_1_800_beta-Windows.exe'>Download</a></td>\n  </tr>\n  <tr>\n    <td><b>macOS</b></td>\n    <td><a href='https://github.com/unslothai/unsloth/releases/download/v0.1.800-beta/Unsloth-Desktop-0_1_800_beta-MacOS.dmg'>Download</a></td>\n  </tr>\n  <tr>\n    <td><b>Linux / Ubuntu (deb)</b></td>\n    <td><a href='https://github.com/unslothai/unsloth/releases/download/v0.1.800-beta/Unsloth-Desktop-0_1_800_beta-Ubuntu.deb'>Download</a></td>\n  </tr>\n  <tr>\n    <td><b>Linux (AppImage)</b></td>\n    <td><a href='https://github.com/unslothai/unsloth/releases/download/v0.1.800-beta/Unsloth-Desktop-0_1_800_beta-Linux.AppImage'>Download</a></td>\n  </tr>\n  <tr>\n    <td><b>Linux (Arm64)</b></td>\n    <td><a href='https://github.com/unslothai/unsloth/releases/download/v0.1.800-beta/Unsloth-Desktop-0_1_800_beta-ARM64.app.tar.gz'>Download</a></td>\n  </tr>\n</table>\n\nDownload from [Unsloth](https://unsloth.ai/download) or [GitHub Releases](https://github.com/unslothai/unsloth/releases).\n\nOr if you prefer to install manually:\n\n#### macOS, Linux, WSL:\n```bash\ncurl -fsSL https://unsloth.ai/install.sh | sh\n```\n#### Windows:\n```powershell\nirm https://unsloth.ai/install.ps1 | iex\n```\n#### Community:\n\n- [Discord](https://discord.gg/unsloth)\n- [𝕏 (Twitter)](https://x.com/UnslothAI)\n- [Reddit](https://reddit.com/r/unsloth)\n\n## ⭐ Features\nUnsloth lets you run, train, and deploy AI models locally, with support for all types of models.\n\n### Run & Build with AI\n* Run and train LLMs, diffusion, embedding, audio models: [Kimi K3](https://unsloth.ai/docs/models/kimi-k3), MiniMax-H3, Qwen3.8, ",
-  "generatedAt": "2026-08-18T23:43:10.229Z",
+  "generatedAt": "2026-08-19T23:43:56.285Z",
   "analysis": {
     "oneLine": "unsloth 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "unsloth 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，unsloth 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 73,579，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，unsloth 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 73,851，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

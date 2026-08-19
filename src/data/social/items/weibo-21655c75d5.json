@@ -1,0 +1,21 @@
+{
+  "id": "weibo-21655c75d5",
+  "slug": "weibo-lpl",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "LPL",
+  "summary": "微博热榜第 35 位：LPL，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23LPL%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-08-19T23:40:02.023Z",
+  "fetchedAt": "2026-08-19T23:44:51.338Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

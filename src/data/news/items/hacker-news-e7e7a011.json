@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Devices with GrapheneOS support should be available in 2027",
+  "summary": "569 points · 356 comments",
+  "content": "@Revan_9766@mastodon.social The initial devices with GrapheneOS support should be available in 2027. The initial devices will be flagships so they'll be higher end hardware than Pixels at a higher price. Lower end devices will take more time to meet our requirements since the updates and security features aren't as good. It's mostly due to how Qualcomm handles it. The latest Snapdragon flagships have the best security features. We'll also need Motorola to start paying them for longer updates below flagships.",
+  "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+  "publishedAt": "2026-08-19T11:46:58.000Z",
+  "points": 569,
+  "id": "hacker-news-e7e7a011",
+  "slug": "hacker-news-e7e7a011",
+  "fetchedAt": "2026-08-19T23:44:10.738Z",
+  "score": 79,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "支持 GrapheneOS 的设备将于 2027 年上市",
+  "chineseSummary": "569 分 · 356 条评论",
+  "chineseContent": "@Revan_9766@mastodon.social 支持 GrapheneOS 的初始设备应于 2027 年上市。初始设备将是旗舰设备，因此它们将是比 Pixel 更高端的硬件，价格也更高。低端设备将需要更多时间来满足我们的要求，因为更新和安全功能不太好。这主要是由于高通的处理方式所致。最新的 Snapdragon 旗舰产品具有最佳的安全功能。我们还需要摩托罗拉开始向他们支付旗舰以下较长时间的更新费用。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

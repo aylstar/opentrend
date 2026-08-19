@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US government debt hits $40tn as borrowing rises at historic rate",
+  "summary": "Public spending surges despite Donald Trump’s vow to stabilise America’s public finances",
+  "url": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1",
+  "publishedAt": "2026-08-19T20:18:55.000Z",
+  "id": "financial-times-2b81211f",
+  "slug": "financial-times-2b81211f",
+  "content": "Public spending surges despite Donald Trump’s vow to stabilise America’s public finances",
+  "fetchedAt": "2026-08-19T23:44:10.747Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 10,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "由于借贷以历史速度增长，美国政府债务达到 40 兆美元",
+  "chineseSummary": "尽管唐纳德·特朗普誓言稳定美国公共财政，但公共支出仍在激增",
+  "chineseContent": "尽管唐纳德·特朗普誓言稳定美国公共财政，但公共支出仍在激增",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

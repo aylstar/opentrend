@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+  "summary": "242 points · 86 comments",
+  "content": "Google replaced pushing Git tags for certain source code with obtaining source code via Google Drive after making a request through Google Forms. It's completely ridiculous and they've gradually become very slow at handling requests. They're in clear violation of the GPLv2 now.",
+  "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+  "publishedAt": "2026-08-19T17:47:29.000Z",
+  "points": 242,
+  "id": "hacker-news-d2bae6cd",
+  "slug": "hacker-news-d2bae6cd",
+  "fetchedAt": "2026-08-19T23:44:10.736Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Google 将某些源代码的 Git 标签替换为通过 Google Drive 获取",
+  "chineseSummary": "242 分 · 86 条评论",
+  "chineseContent": "Google 通过 Google Forms 发出请求后，通过 Google Drive 获取源代码，从而取代了推送某些源代码的 Git 标签。这完全是荒谬的，他们处理请求的速度逐渐变得非常慢。他们现在明显违反了 GPLv2。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

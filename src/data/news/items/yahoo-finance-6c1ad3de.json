@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+  "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
+  "url": "https://finance.yahoo.com/m/68a3e9b8-8858-3a96-8c98-dd4126c44fbe/dow-jones-futures%3A-s%26p-500%2C.html?.tsrc=rss",
+  "publishedAt": "2026-08-19T23:08:04.000Z",
+  "id": "yahoo-finance-6c1ad3de",
+  "slug": "yahoo-finance-6c1ad3de",
+  "content": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
+  "fetchedAt": "2026-08-19T23:44:10.740Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "科技",
+    "财经"
+  ],
+  "rank": 24,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：标准普尔 500 指数、纳斯达克指数因国债变动而上涨； Moderna、默克刺激大型生物制药公司收益",
+  "chineseSummary": "由于美国国债收益率下跌，标准普尔 500 指数和纳斯达克指数周三小幅上涨。 Moderna 和默克为生物技术公司和制药商带来了巨大的收益。",
+  "chineseContent": "由于美国国债收益率下跌，标准普尔 500 指数和纳斯达克指数周三小幅上涨。 Moderna 和默克为生物技术公司和制药商带来了巨大的收益。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

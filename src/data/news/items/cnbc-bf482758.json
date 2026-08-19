@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Stripe to buy OpenRouter as fintech expands deeper into AI",
+  "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+  "url": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+  "publishedAt": "2026-08-19T20:10:01.000Z",
+  "id": "cnbc-bf482758",
+  "slug": "cnbc-bf482758",
+  "content": "Stripe said Wednesday that it plans to acquire the startup OpenRouter, as the fintech company expands into the artificial intelligence model market.\n\nTerms of the deal weren't disclosed, but The New York Times , citing a person familiar with the matter, said the price tag is about $7.5 billion, with $1.5 billion allocated to OpenRouter's founders. Less than three months ago OpenRouter raised $113 million at a valuation of of about $1.3 billion.\n\nOpenRouter has become popular with developers seeking to use AI models, particularly those considered non-proprietary and available for free. Many of these so-called open-weight AI models stem from Chinese labs like DeepSeek and Z.ai, which have gained steam among developers for generally being more cost-efficient relative to proprietary AI models from U.S. companies like OpenAI and Anthropic.\n\nIn a blog post about the deal, Stripe noted that it's been working with companies to \"optimize their token costs and route tokens efficiently,\" referring to a kind of metric used to measure AI model usage . Stripe said it's difficult to manage AI costs relative to performance because of the rapid \"pace at which models are released and repriced.\"\n\nStripe has become one of the most valuable startups in the world, with a valuation of close to $160 billion as of earlier this year, thanks mostly to its online payment technology that's become ubiquitous in many markets. Last year it bolstered its exposure to crypto with the $1.1 billion acquisition of stablecoin platform Bridge .\n\nThe AI market is much bigger and growing much faster.\n\n\"Stripe is building the economic infrastructure for AI, and together with OpenRouter we'll help businesses maximize profitability by routing their requests intelligently and spending their tokens efficiently,\" Stripe CEO Patrick Collison said in a statement.\n\nOpenRouter said in a blog post that combining with Stripe will help with its overall vision of \"a healthy AI ecosystem where many models thrive, where AI neurodiversity is a strength, where a lab or an inference provider with a breakthrough can reach millions of developers, and where no single model becomes the default by inertia.\"\n\nWATCH : Stripe and Advent in talks to buy PayPal, according to Wall Street Journal .",
+  "fetchedAt": "2026-08-19T23:44:10.741Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "随着金融科技深入 AI 领域，Stripe 收购 OpenRouter",
+  "chineseSummary": "Stripe 表示，随着支付公司 OpenRouter 向人工智能模型市场扩张，该公司正在收购该公司。",
+  "chineseContent": "Stripe 周三表示，随着这家金融科技公司进军人工智能模型市场，它计划收购初创公司 OpenRouter。\n\n交易条款并未披露，但《纽约时报》援引一位知情人士的话称，交易价格约为 75 亿美元，其中 15 亿美元分配给 OpenRouter 的创始人。不到三个月前，OpenRouter 筹集了 1.13 亿美元，估值约为 13 亿美元。\n\nOpenRouter 受到寻求使用 AI 模型的开发人员的欢迎，特别是那些被认为是非专有且免费的模型。许多所谓的开放权重人工智能模型都源自 DeepSeek 和 Z.ai 等中国实验室，这些实验室因相对于 OpenAI 和 Anthropic 等美国公司的专有人工智能模型更具成本效益而受到了开发人员的青睐。\n\n在有关该交易的博客文章中，Stripe 指出，它一直在与公司合作“优化其代币成本并有效地路由代币”，指的是一种用于衡量人工智能模型使用情况的指标。 Stripe 表示，由于“模型发布和重新定价的速度很快”，因此很难管理相对于性能的人工智能成本。\n\nStripe 已成为世界上最有价值的初创公司之一，截至今年早些时候，其估值接近 1600 亿美元，这主要归功于其在许多市场中无处不在的在线支付技术。去年，它以 11 亿美元收购稳定币平台 Bridge，增强了其在加密领域的投资。\n\n人工智能市场规模更大，增长速度也更快。\n\nStripe 首席执行官帕特里克·科里森 (Patrick Collison) 在一份声明中表示：“Stripe 正在为人工智能构建经济基础设施，我们将与 OpenRouter 一起，通过智能地路由请求并有效地使用代币来帮助企业最大限度地提高盈利能力。”\n\nOpenRouter 在一篇博客文章中表示，与 Stripe 的结合将有助于实现其总体愿景：“一个健康的人工智能生态系统，其中许多模型蓬勃发展，人工智能神经多样性是一种优势，具有突破性的实验室或推理提供商可以接触到数百万开发人员，并且没有任何一个模型会因为惯性而成为默认模型。”\n\n观看：据《华尔街日报》报道，Stripe 和 Advent 正在洽谈收购 PayPal。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

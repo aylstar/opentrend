@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Air Theremin – A browser theremin you play by waving at your webcam",
+  "summary": "236 points · 83 comments",
+  "content": "Play it in mid-air, two ways. HANDS — wave both hands at the camera: spread them apart for volume, raise them for pitch, lean back to soften the tone, put your palms together for silence. A laptop webcam does just as well as a phone. GYRO — on a phone, tilt it instead: left-right sets volume, forward-back sets pitch, and the whole range lives inside the frame (tilt the marker outside it to cut the sound). With neither sensor nor camera, the mouse drives it. Press START — on a phone, hold it steady and it calibrates to your grip.",
+  "url": "https://theremin.bizibah.com/",
+  "publishedAt": "2026-08-19T10:15:00.000Z",
+  "points": 236,
+  "id": "hacker-news-cb49d2b2",
+  "slug": "hacker-news-cb49d2b2",
+  "fetchedAt": "2026-08-19T23:44:10.737Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Air Theremin – 通过在网络摄像头上挥手即可播放的浏览器 Theremin",
+  "chineseSummary": "236 分 · 83 条评论",
+  "chineseContent": "在半空中演奏，有两种方式。手——对着镜头挥动双手：张开双手以调节音量，举起双手以调节音高，向后倾斜以柔化音调，合掌以保持安静。笔记本电脑网络摄像头的功能与手机一样好。陀螺仪 - 在手机上，请倾斜它：左右设置音量，前后设置音高，整个范围位于框架内（倾斜框架外的标记以消除声音）。既没有传感器也没有摄像头，由鼠标驱动。按开始 - 在手机上，稳定地握住它，它会根据您的握力进行校准。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ad605cb08a",
+  "slug": "weibo-金价彻底反弹了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "金价彻底反弹了",
+  "summary": "微博热榜第 11 位：金价彻底反弹了，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E5%8F%8D%E5%BC%B9%E4%BA%86%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-08-19T23:40:02.023Z",
+  "fetchedAt": "2026-08-19T23:44:51.338Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

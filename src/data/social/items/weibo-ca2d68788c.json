@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ca2d68788c",
+  "slug": "weibo-七夕但不对劲",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "七夕但不对劲",
+  "summary": "微博热榜第 5 位：七夕但不对劲，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%95%E4%BD%86%E4%B8%8D%E5%AF%B9%E5%8A%B2%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-08-19T23:40:02.023Z",
+  "fetchedAt": "2026-08-19T23:44:51.337Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

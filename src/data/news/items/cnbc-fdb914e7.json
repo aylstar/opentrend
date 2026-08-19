@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+  "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+  "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+  "publishedAt": "2026-08-19T20:01:53.000Z",
+  "id": "cnbc-fdb914e7",
+  "slug": "cnbc-fdb914e7",
+  "content": "Marvell Technology shares rallied nearly 10% on a deal that would allow Google to buy up to $12.2 billion in shares of the chipmaking company, according to a securities filing .\n\nThe deal, part of Google and Marvell's partnership on custom chips, would allow the tech giant to purchase up to 58,970,907 shares at $206.58 apiece. The stake is tied to purchasing targets through the 2033 fiscal year.\n\nMarvell said in a filing that the expanded agreement will include products that \"attach to the [tensor processing unit] ecosystem,\" such as artificial intelligence inference accelerators and storage and network interface controllers.\n\nIn April, Marvell shares popped on a report of a chip deal with Google for artificial intelligence workloads. At the time, The Information reported that the deal would include a TPU and memory processing unit.\n\nGoogle and its megacap competitors, including Amazon, Meta and Microsoft have been working on custom silicon chips for AI workloads in a bid to find cheaper substitutes to Nvidia chips.\n\nOver the last decade, Google has largely collaborated with Broadcom on custom chips. The companies expanded that deal in April .\n\nBroadcom 's stock fell about 5% on Wednesday.",
+  "fetchedAt": "2026-08-19T23:44:10.742Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Marvell 股价因 AI 芯片交易而上涨 10%，谷歌可购买高达 122 亿美元的股票",
+  "chineseSummary": "谷歌及其竞争对手一直在寻求定制芯片，以提高效率并减少对英伟达的依赖。",
+  "chineseContent": "根据一份证券备案文件，Marvell Technology 股价上涨近 10%，这笔交易允许谷歌购买这家芯片制造公司高达 122 亿美元的股票。\n\n该交易是 Google 和 Marvell 在定制芯片方面合作的一部分，将使这家科技巨头能够以每股 206.58 美元的价格购买最多 58,970,907 股股票。该股份与 2033 财年的采购目标挂钩。\n\nMarvell 在一份文件中表示，扩大后的协议将包括“附加到[张量处理单元]生态系统”的产品，例如人工智能推理加速器以及存储和网络接口控制器。\n\n今年 4 月，Marvell 股价因与谷歌达成人工智能工作负载芯片交易的报道而上涨。当时，The Information 报道称，该交易将包括 TPU 和内存处理单元。\n\n谷歌及其大型竞争对手，包括亚马逊、Meta 和微软，一直在致力于为人工智能工作负载开发定制硅芯片，以期找到 Nvidia 芯片的更便宜的替代品。\n\n在过去的十年中，谷歌主要与博通在定制芯片方面进行合作。两家公司于四月份扩大了该交易。\n\n周三博通股价下跌约5%。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
