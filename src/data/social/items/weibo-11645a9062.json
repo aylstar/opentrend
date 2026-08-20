@@ -1,0 +1,21 @@
+{
+  "id": "weibo-11645a9062",
+  "slug": "weibo-癌症疫苗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "癌症疫苗",
+  "summary": "微博热榜第 5 位：癌症疫苗，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-08-20T23:39:40.391Z",
+  "fetchedAt": "2026-08-20T23:49:37.677Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

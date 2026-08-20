@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bca2386b1e",
+  "slug": "weibo-我国气候异常",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "我国气候异常",
+  "summary": "微博热榜第 2 位：我国气候异常，当前热度为 72万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B0%94%E5%80%99%E5%BC%82%E5%B8%B8%23",
+  "hotValue": "72万热度",
+  "author": "",
+  "publishedAt": "2026-08-20T23:39:40.391Z",
+  "fetchedAt": "2026-08-20T23:49:37.677Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

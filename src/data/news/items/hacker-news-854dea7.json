@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Huzzah – a novel approach to coding with AI",
+  "summary": "193 points · 107 comments",
+  "content": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you 2. on save, the editor synchronizes your work to real source code 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent. It may not work for every use case, but in my initial playthroughs I've found it very enjoyable. Right now it's just a proof of concept - installation instructions are here in the readme: https://github.com/danielvaughn/hz You can also watch a video of it in action here: https://x.com/danielvaughn/status/2090456808431165715 Cheers!",
+  "url": "https://www.danielvaughn.dev/posts/huzzah/",
+  "publishedAt": "2026-08-20T19:05:36.000Z",
+  "points": 193,
+  "id": "hacker-news-854dea7",
+  "slug": "hacker-news-854dea7",
+  "fetchedAt": "2026-08-20T23:47:36.413Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Huzzah——一种利用 AI 进行编码的新颖方法",
+  "chineseSummary": "193 分 · 107 条评论",
+  "chineseContent": "大家好。我一直在开发一个名为 Huzzah 的实验性编辑器。自今年一月以来，我几乎一直与编码代理一起工作，在过去的几个月里，我开始对他们感到精疲力尽。它们很棒，但我发现为我想要的每一个更改编写完整的句子越来越乏味。不仅如此，代码库似乎还存在复杂性限制——超过某个点，代理就会开始混淆自己。我想重新开始编写代码，但我不想一直回到完全手动编码。因此，我提出了这种交互范例，您可以： 1. 以对您最有意义的方式编写伪代码 2. 保存时，编辑器将您的工作与真实源代码同步 3. 伪代码与生成的代码一起保留，使您的提示有效地成为存储的意图记录。它可能不适用于所有用例，但在我最初的游戏中，我发现它非常有趣。现在它只是一个概念证明 - 安装说明位于自述文件中：https://github.com/danielvaughn/hz 您还可以在此处观看其实际操作视频：https://x.com/danielvaughn/status/2090456808431165715 干杯！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

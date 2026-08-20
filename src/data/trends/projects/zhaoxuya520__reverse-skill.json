@@ -8,12 +8,12 @@
   "language": "PowerShell",
   "githubUrl": "https://github.com/zhaoxuya520/reverse-skill",
   "docsUrl": "https://reverse.apivix.com/docs/",
-  "stars": 26735,
-  "forks": 3642,
-  "openIssues": 18,
+  "stars": 27016,
+  "forks": 3684,
+  "openIssues": 21,
   "license": "MIT",
-  "pushedAt": "2026-08-19T09:35:00Z",
-  "updatedAt": "2026-08-19T23:41:57Z",
+  "pushedAt": "2026-08-20T04:35:55Z",
+  "updatedAt": "2026-08-20T23:34:36Z",
   "createdAt": "2026-05-13T14:37:57Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<p align=\"center\">\n  <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" />\n</p>\n\n<h1 align=\"center\">reverse-skill</h1>\n<h3 align=\"center\">Cybersecurity Skills Router · 逆向技能路由包</h3>\n\n<p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases\"><img src=\"https://img.shields.io/badge/release-v1.0.1-blue\" alt=\"release v1.0.1\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/stargazers\"><img src=\"https://img.shields.io/github/stars/zhaoxuya520/reverse-skill?style=flat&logo=github\" alt=\"stars\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/forks\"><img src=\"https://img.shields.io/github/forks/zhaoxuya520/reverse-skill?style=flat&logo=github\" alt=\"forks\"></a>\n  <a href=\"https://github.com/zhaoxuya520/reverse-skill/issues\"><img src=\"https://img.shields.io/github/issues/zhaoxuya520/reverse-skill?style=flat&logo=github\" alt=\"issues\"></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-green\" alt=\"license\"></a>\n  <a href=\"CHANGELOG.md\"><img src=\"https://img.shields.io/badge/changelog-Keep%20a%20Changelog-orange\" alt=\"changelog\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://trendshift.io/repositories/43969?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-43969\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/43969\" alt=\"zhaoxuya520%2Freverse-skill | Trendshift\" width=\"250\" height=\"55\"/></a>\n  <a href=\"https://trendshift.io/repositories/43969?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-43969\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/43969/daily\" alt=\"zhaoxuya520%2Freverse-skill | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n<br/>\n<p align=\"center\">\n  <a href=\"#about\">About</a> ·\n  <a href=\"#getting-started\">Getting Started</a> ·\n  <a href=\"#usage\">Usage</a> ·\n  <a href=\"https://reverse.apivix.com/docs/\">Tutorial</a> ·\n  <a href=\"skills/MASTER-ROUTING.md\">Fast route</a> ·\n  <a href=\"skills/routing.md\">Routing</a> ·\n  <a href=\"skills/ops/\">Ops contracts</a> ·\n  <a href=\"README_AI.md\">AI Bootstrap</a> ·\n  <a href=\"#sponsors\">Sponsors</a> ·\n  <a href=\"#contributing\">Contributing</a>\n</p>\n\n<p align=\"center\">\n  🌐 <a href=\"README_zh.md\">中文</a> ·\n  <a href=\"https://reverse.apivix.com/\">Project website</a> ·\n  <a href=\"https://reverse.apivix.com/docs/\">Online tutorial</a>\n</p>\n\n<br/>\n\n<a id=\"about\"></a>\n\n## About\n\n> **If you are an AI Agent, jump to [README_AI.md](README_AI.md) and follow the instructions strictly.**\n\nWhen an AI agent (Claude Code, Codex, Cursor, OpenCode, or another compatible client) encounters an APK, a binary, frontend JS encryption, a CTF challenge, or a pentesting target, this package routes it to the right methodology, checks",
-  "generatedAt": "2026-08-19T23:43:59.057Z",
+  "generatedAt": "2026-08-20T23:47:18.841Z",
   "analysis": {
     "oneLine": "reverse-skill 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "reverse-skill 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，reverse-skill 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 26,735，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 PowerShell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，reverse-skill 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 27,016，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 PowerShell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

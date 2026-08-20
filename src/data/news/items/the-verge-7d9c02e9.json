@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "FCC officially decides gigabit speeds are too good for you",
+  "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download […]",
+  "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+  "publishedAt": "2026-08-20T17:38:30.000Z",
+  "id": "the-verge-7d9c02e9",
+  "slug": "the-verge-7d9c02e9",
+  "content": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download and upload speeds across the country! It’s wild that 13 years after Comcast said Americans don’t need gigabit internet we’re somehow back in this conversation. Especially since the private sector has delivered, albeit unevenly, on super high speeds in certain areas; For example, the apartment I’m about to move into offers 5 gigabit synchronous internet speed which will require a new PCIe network card to handle. Those speeds are ludicrous, but why are we not aiming for the moon across the country? It took years for the FCC to finally admit publicly that the outdated 25Mbps definition of “broadband” speed sucked. Remember Ajit Pai, the guy with the giant Reese’s mug who killed net neutrality? He once said we didn’t need more than that. (The standard was raised from 25/3 to 100/20 in 2024.) Pai’s successor Brendan Carr — who is far worse in almost every category — is repeating the same stuff but in an even more cynical way. Here’s part of what the FCC says about its decision to abandon the gigabit speed goal: > At present, it is impossible to predict long-term technological developments and the evolution of consumer preferences. This is one of the least-impossible things to predict. Who would possibly choose for things to be slower if they could be faster? This is peak regulatory arrogance from an administration that is generally not shy about lying through its teeth to the public. But, no worries. The abandonment of the gigabit goal is wrapped inside a broader broadband report that claims everything is just fine! The FCC says speeds are up, competition is up, and prices are down. Too bad, as Ars Technica notes, that some of these insights are sourced from industry lobby groups and no adverse research from advocacy groups. Why is the FCC doing this? Who knows, but here’s a solid guess: the FCC has been further captured by industry interests that would love for their pet projects (like satellite internet) not to look bad when compared to high standards. Just how much has the FCC been captured? Incidentally, The Guardian reported just today that Brendan Carr has been exceptionally cozy with the White House and right-wing media. It’s an easy bet to make that killing the broadband goal has nothing to do with public interests.",
+  "fetchedAt": "2026-08-20T23:47:36.416Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "FCC 正式认定千兆位速度对您来说太好了",
+  "chineseSummary": "又一天，又一件令人悲伤的事情要报告，关于我们受损的联邦通信委员会。董事长布伦丹·卡尔 (Brendan Carr) 兑现了他的 2025 年威胁，要取消拜登政府期间制定的长期宽带速度目标，该目标旨在最终让我们达到千兆位下载和半千兆位上传速度。我们怎么敢梦想传播伟大的下载[...]",
+  "chineseContent": "又一天，又一件令人悲伤的事情要报告，关于我们受损的联邦通信委员会。董事长布伦丹·卡尔 (Brendan Carr) 兑现了他的 2025 年威胁，要取消拜登政府期间制定的长期宽带速度目标，该目标旨在最终让我们达到千兆位下载和半千兆位上传速度。我们怎么敢梦想在全国范围内传播出色的下载和上传速度！康卡斯特表示美国人不需要千兆互联网 13 年后，我们又以某种方式回到了这个话题，这真是太疯狂了。特别是私营部门在某些领域实现了超高速，尽管不均衡；例如，我即将搬进的公寓提供 5 GB 同步互联网速度，这将需要新的 PCIe 网卡来处理。这些速度是荒谬的，但为什么我们不瞄准全国范围内的月球呢？ FCC 花了数年时间才最终公开承认“宽带”速度的过时 25Mbps 定义很糟糕。还记得阿吉特·派（Ajit Pai）吗，那个拿着里斯大脸的家伙破坏了网络中立性？他曾经说过我们不需要更多。 （2024 年，该标准从 25/3 提高到 100/20。）Pai 的继任者布伦丹·卡尔（Brendan Carr）——几乎在每个类别上都差得多——正在重复同样的事情，但方式更加愤世嫉俗。以下是 FCC 关于放弃千兆速度目标的决定的部分内容： > 目前，无法预测长期技术发展和消费者偏好的演变。这是最不可能预测的事情之一。如果事情可以变得更快，谁可能会选择放慢速度？这是一个通常不羞于向公众撒谎的政府的最高监管傲慢。但是，不用担心。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

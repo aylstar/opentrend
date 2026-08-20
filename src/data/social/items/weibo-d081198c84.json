@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d081198c84",
+  "slug": "weibo-华为puraxview",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "华为PuraXView",
+  "summary": "微博热榜第 49 位：华为PuraXView，当前热度为 5万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPuraXView%23",
+  "hotValue": "5万热度",
+  "author": "",
+  "publishedAt": "2026-08-20T23:39:40.391Z",
+  "fetchedAt": "2026-08-20T23:49:37.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

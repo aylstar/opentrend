@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Alibaba shares fall 5% as AI spending drives 75% drop in net income",
+  "summary": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
+  "url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+  "publishedAt": "2026-08-20T13:42:25.000Z",
+  "id": "cnbc-e6786c34",
+  "slug": "cnbc-e6786c34",
+  "content": "China's Alibaba on Thursday posted a 75% fall in profits for the June quarter as AI spending weighed on the tech giant's results.\n\nCapital expenditure was up 75% to 67.7 billion Chinese yuan ($10 billion), primarily driven by uneven timing of customer purchases, an increase in CPU-compute capacity and higher prices across a broad range of chip components, the company said.\n\nMeanwhile, revenue rose 9% to 268.95 billion Chinese yuan, slightly higher than an LSEG estimate of 268.88 billion yuan.\n\nAs the AI race accelerates, companies across the sector are increasingly contending with rising expenses for computing power and hardware. In March, the company reportedly said it was raising prices for its AI computing and storage products by as much as 34% amid surging demand.\n\nAlibaba's U.S. listed shares were down 4.6% shortly after the market opened.\n\nRevenue at the tech giant's key cloud division totaled 48.4 billion yuan, up 45% year-on-year. Alibaba's cloud unit is seen as key to the company monetizing artificial intelligence, much like Microsoft or Google .\n\nAI-related product revenue delivered \"triple-digit growth for the twelfth consecutive quarter,\" CEO Eddie Wu said in a Thursday statement. \"With our full‑stack AI strategy, we have put Alibaba in a superior position to capture the substantial growth of demand for artificial intelligence and AI compute,\" he added.\n\nAlibaba's disclosures on the performance of its AI Labs and Applications segment provide investors with a clearer view of how much the company is investing in AI, and how its AI products are progressing, Citi analysts said in a Thursday note.\n\nHowever, capex increasing 75% and negative free cash flow of 44.7 billion yuan could raise concerns around capital needs and investment returns, they said.\n\nThe Chinese tech giant operates across a wide range of industries, including chips, cloud infrastructure and models. Shares rallied earlier this month after Alibaba unveiled what it described as its \"most powerful\" AI model Qwen3.8-Max . Alibaba shared results showing it delivered comparable, or sometimes better, scores than Anthropic's Fable 5.\n\nThis month also saw Alibaba release an AI model that's designed to run on consumer hardware like laptops — a new battleground for AI model developers. Qwen3.8-27B has \"excellent capabilities\" in handling coding, professional work, research, and long-horizon agentic tasks, the company said at the time.",
+  "fetchedAt": "2026-08-20T23:47:36.418Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 21,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 支出导致净利润下降 75%，阿里巴巴股价下跌 5%",
+  "chineseSummary": "阿里巴巴在美国上市的股票在 6 月份季度净利润下降 75% 后，在盘前交易中出现波动。",
+  "chineseContent": "中国阿里巴巴周四公布，由于人工智能支出影响了这家科技巨头的业绩，其 6 月份季度的利润下降了 75%。\n\n该公司表示，资本支出增长了 75%，达到 677 亿元人民币（100 亿美元），这主要是由于客户购买时间不均匀、CPU 计算能力的增加以及各种芯片组件的价格上涨所致。\n\n与此同时，收入增长 9% 至 2,689.5 亿元人民币，略高于 LSEG 预期的 2,688.8 亿元人民币。\n\n随着人工智能竞赛的加速，整个行业的公司越来越多地应对计算能力和硬件费用不断上涨的问题。据报道，3 月份，该公司表示，由于需求激增，其人工智能计算和存储产品的价格将提高 34%。\n\n开盘后不久，阿里巴巴在美国上市的股价下跌4.6%。\n\n这家科技巨头的关键云部门的收入总计484亿元人民币，同比增长45%。阿里巴巴的云部门被视为该公司人工智能货币化的关键，就像微软或谷歌一样。\n\n首席执行官埃迪·吴(Eddie Wu)在周四的声明中表示，人工智能相关产品收入“连续第十二个季度实现三位数增长”。他补充道：“凭借我们的全栈人工智能战略，我们使阿里巴巴处于有利地位，可以抓住人工智能和人工智能计算需求的大幅增长。”\n\n花旗分析师在周四的一份报告中表示，阿里巴巴披露的人工智能实验室和应用部门的业绩让投资者能够更清楚地了解该公司在人工智能方面的投资额以及其人工智能产品的进展情况。\n\n然而，他们表示，资本支出增长75%，自由现金流为负447亿元，可能会引发人们对资本需求和投资回报的担忧。\n\n这家中国科技巨头涉足多个行业，包括芯片、云基础设施和模型。本月早些时候，在阿里巴巴推出其所谓的“最强大”人工智能模型 Qwen3.8-Max 后，股价上涨。阿里巴巴分享的结果显示，它的得分与 Anthropic 的《神鬼寓言 5》相当，有时甚至更好。\n\n本月，阿里巴巴还发布了一个人工智能模型，该模型旨在在笔记本电脑等消费类硬件上运行——这是人工智能模型开发人员的新战场。该公司当时表示，Qwen3.8-27B 在处理编码、专业工作、研究和长期代理任务方面具有“出色的能力”。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

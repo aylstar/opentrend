@@ -1,0 +1,21 @@
+{
+  "id": "douyin-689e77e0d3",
+  "slug": "douyin-xlg-1-2-nova",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 2,
+  "title": "XLG 1:2 NOVA",
+  "summary": "抖音热榜第 2 位：XLG 1:2 NOVA，当前热度为 1,181万热度。",
+  "url": "https://www.douyin.com/search/XLG%201%3A2%20NOVA?type=general",
+  "hotValue": "1,181万热度",
+  "author": "",
+  "publishedAt": "2026-08-20T23:12:04.263Z",
+  "fetchedAt": "2026-08-20T23:49:37.664Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

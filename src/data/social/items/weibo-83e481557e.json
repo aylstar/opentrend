@@ -1,0 +1,21 @@
+{
+  "id": "weibo-83e481557e",
+  "slug": "weibo-花开锦绣",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "花开锦绣",
+  "summary": "微博热榜第 40 位：花开锦绣，当前热度为 6万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3%23",
+  "hotValue": "6万热度",
+  "author": "",
+  "publishedAt": "2026-08-20T23:39:40.391Z",
+  "fetchedAt": "2026-08-20T23:49:37.678Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

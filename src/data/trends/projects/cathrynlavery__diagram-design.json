@@ -8,12 +8,12 @@
   "language": "HTML",
   "githubUrl": "https://github.com/cathrynlavery/diagram-design",
   "docsUrl": "https://cathrynlavery.github.io/diagram-design/",
-  "stars": 23290,
-  "forks": 1434,
-  "openIssues": 30,
+  "stars": 24283,
+  "forks": 1470,
+  "openIssues": 19,
   "license": "MIT",
-  "pushedAt": "2026-08-19T23:38:31Z",
-  "updatedAt": "2026-08-19T23:43:31Z",
+  "pushedAt": "2026-08-20T19:42:26Z",
+  "updatedAt": "2026-08-20T23:45:15Z",
   "createdAt": "2026-04-16T18:01:16Z",
   "archived": false,
   "trendWindows": [
@@ -29,15 +29,15 @@
     "安全隐私"
   ],
   "recommendation": 2.7,
-  "readmeExcerpt": "# Diagram Design\n\n**Editorial diagrams your designer won't hate.**\n\n<a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n![Content site architecture](docs/screenshots/architecture.png)\n\n![The self-improving loop](docs/screenshots/loop.png)\n\n*New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*\n\n*New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default.*\n\n*New in 2.5.10: ten more layout grammars — Sankey, fishbone, Wardley map, kanban, user journey, deployment, dependency graph, UML class, story map, and database schema.*\n\n38 visual types. One agent skill for Claude Code, Codex, and Pi. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boundary can use the nearest existing type without expanding the type count. Static HTML remains the default; optional motion is available for ordered explanations. The skill also redraws draw.io or Mermaid sources at a chosen format, size, and detail level.\n\nNo Figma. No generic rounded boxes. No 30-minute color-picking sessions.\n\n---\n\n## Why I built it\n\nI write at [littlemight.com](https://littlemight.com?utm_source=diagram-design&utm_medium=readme&utm_campaign=github&utm_content=intro) (and run [BestSelf.co](https://bestself.co?utm_source=diagram-design&utm_medium=readme&utm_campaign=github&utm_content=intro) on the side). Every time I needed a diagram — an architecture sketch, a flowchart, a pyramid of what matters most — I'd ask Claude and get back a generic rounded-box thing that looked nothing like the rest of the site. I'd either fight with Figma for 30 minutes or just skip the diagram.\n\nSo I built a Claude Code skill for it. Thirty-eight visual types, editorial quality, matches your brand in 60 seconds by reading your website.\n\n> *The highest-quality move is usually deletion.* Every node earns its place. The accent color is reserved for the 1–2 things the reader should look at first. Target density: 4/10.\n\n---\n\n## What it makes\n\nAll 38 visual types ship in three static variants: minimal light, minimal dark, and full-editorial. Open any of them directly in a browser. There is no build step, JavaScript, or external image dependency.\n\n<table>\n<tr>\n  <td align=\"center\" width=\"33%\"><img src=\"docs/screenshots/architecture.png\" alt=\"Architecture\"><br><b>Architecture</b><br><sub>Components + connections</sub></td>\n  <td align=\"center\" width=\"33%\"><img src=\"docs/screenshots/flowchart.png\" alt=\"Flowchart\"><br><b>Flowchart</b><br><sub>Decision logic</sub></td>\n  <td align=\"center\" width=\"33%\"><img src=\"docs/screenshots/sequence.png\" alt=\"Sequence\"><br><b>Sequence</b><br><sub>Messages over time</sub></td>\n</tr>\n<tr",
-  "generatedAt": "2026-08-19T23:43:53.766Z",
+  "readmeExcerpt": "# Diagram Design\n\n**Editorial diagrams your designer won't hate.**\n\n<a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n![Content site architecture](docs/screenshots/architecture.png)\n\n![The self-improving loop](docs/screenshots/loop.png)\n\n*New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*\n\n*New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default.*\n\n*New in 2.5.10: ten more layout grammars — Sankey, fishbone, Wardley map, kanban, user journey, deployment, dependency graph, UML class, story map, and database schema.*\n\n39 editorial diagram types for Claude Code, Codex, Factory Droid, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. Semantic patterns describe behavior separately from layout, so a queue, policy trace, or trust boundary can use the nearest existing type without expanding the type count. Static HTML remains the default; optional motion is available for ordered explanations. The skill also redraws draw.io or Mermaid sources at a chosen format, size, and detail level.\n\nNo Figma. No generic rounded boxes. No 30-minute color-picking sessions.\n\n---\n\n## Why I built it\n\nI write at [littlemight.com](https://littlemight.com?utm_source=diagram-design&utm_medium=readme&utm_campaign=github&utm_content=intro) (and run [BestSelf.co](https://bestself.co?utm_source=diagram-design&utm_medium=readme&utm_campaign=github&utm_content=intro) on the side). Every time I needed a diagram — an architecture sketch, a flowchart, a pyramid of what matters most — I'd ask Claude and get back a generic rounded-box thing that looked nothing like the rest of the site. I'd either fight with Figma for 30 minutes or just skip the diagram.\n\nSo I built a Claude Code skill for it. Thirty-nine visual types, editorial quality, matches your brand in 60 seconds by reading your website.\n\n> *The highest-quality move is usually deletion.* Every node earns its place. The accent color is reserved for the 1–2 things the reader should look at first. Target density: 4/10.\n\n---\n\n## What it makes\n\nAll 39 visual types ship in three static variants: minimal light, minimal dark, and full-editorial. Open any of them directly in a browser. There is no build step, JavaScript, or external image dependency.\n\n<table>\n<tr>\n  <td align=\"center\" width=\"33%\"><img src=\"docs/screenshots/architecture.png\" alt=\"Architecture\"><br><b>Architecture</b><br><sub>Components + connections</sub></td>\n  <td align=\"center\" width=\"33%\"><img src=\"docs/screenshots/it-state.png\" alt=\"IT current-state\"><br><b>IT current-state</b><br><sub>Legacy landscape + modernization</sub></td>\n  <td align=\"center\" width=\"33%\"><img src=\"docs/screenshots/f",
+  "generatedAt": "2026-08-20T23:47:12.236Z",
   "analysis": {
     "oneLine": "diagram-design 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "diagram-design 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，diagram-design 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 23,290，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 HTML 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，diagram-design 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 24,283，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 HTML 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
@@ -48,7 +48,7 @@
     ],
     "interpretation": "diagram-design 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
     "installRequirements": "通常需要 HTML 相关运行环境，具体版本以官方 README 为准。",
-    "installGuide": "git clone git@github.com:cathrynlavery/diagram-design.git ~/code/diagram-design",
+    "installGuide": "git clone git@github.com:cathrynlavery/diagram-design.git ~/code/diagram-design\npip install playwright && playwright install chromium   # same dep as PNG export",
     "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
     "commercialValue": "价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
     "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口，并减少从零选型和重复开发的时间。",

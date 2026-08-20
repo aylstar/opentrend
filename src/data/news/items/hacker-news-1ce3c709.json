@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Tidal Cycles – Live coding music with Algorithmic patterns",
+  "summary": "44 points · 8 comments",
+  "content": "Tidal Cycles (or 'Tidal' for short) is a free/open source live coding environment for algorithmic patterns, written in Haskell. Tidal is using SuperCollider, another open-source software, for synthesis and MIDI. Tidal has inspired a open source family of similar environments adopting its model of patterns of time known as Uzulangs , including the web-based Strudel environment.\n\nTidal Cycles allows you to make patterns with code. It includes language for describing flexible (e.g. polyphonic, polyrhythmic, generative) sequences of sounds, notes, parameters, and all kind of information.\n\nTidal is used by a diverse and vibrant community of musicians for composition, improvisation and exploration of algorithmic music. Check out the Tidal Blog or submit your own blog post . Learn about the Tidal community .",
+  "url": "https://tidalcycles.org/",
+  "publishedAt": "2026-08-20T19:21:45.000Z",
+  "points": 44,
+  "id": "hacker-news-1ce3c709",
+  "slug": "hacker-news-1ce3c709",
+  "fetchedAt": "2026-08-20T23:47:36.413Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "全球"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Tidal Cycles – 使用算法模式现场编码音乐",
+  "chineseSummary": "44 分 · 8 条评论",
+  "chineseContent": "Tidal Cycles（或简称“Tidal”）是一个免费/开源的算法模式实时编码环境，用 Haskell 编写。 Tidal 使用另一个开源软件 SuperCollider 进行合成和 MIDI。 Tidal 启发了一个类似环境的开源系列，采用其称为 Uzulangs 的时间模式模型，包括基于 Web 的 Strudel 环境。\n\nTidal Cycles 允许您使用代码制作图案。它包括用于描述灵活的（例如复调的、多节奏的、生成的）声音序列、音符、参数和所有类型的信息的语言。\n\nTidal 被多元化且充满活力的音乐家社区用于创作、即兴创作和探索算法音乐。查看 Tidal 博客或提交您自己的博客文章。了解潮汐社区。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

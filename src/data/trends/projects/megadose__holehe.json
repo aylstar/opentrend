@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/megadose/holehe",
   "docsUrl": "",
-  "stars": 13731,
-  "forks": 1796,
-  "openIssues": 109,
+  "stars": 13829,
+  "forks": 1800,
+  "openIssues": 113,
   "license": "GPL-3.0",
   "pushedAt": "2024-09-10T20:24:32Z",
-  "updatedAt": "2026-08-19T23:41:01Z",
+  "updatedAt": "2026-08-20T23:09:21Z",
   "createdAt": "2020-06-25T23:03:02Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# **Holehe OSINT - Email to Registered Accounts**\n👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:\nmegadose@protonmail.com\n\n📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!\n\n![](https://files.catbox.moe/5we2ya.png)\n![PyPI](https://img.shields.io/pypi/v/holehe) ![PyPI - Week](https://img.shields.io/pypi/dw/holehe) ![PyPI - Downloads](https://static.pepy.tech/badge/holehe) ![PyPI - License](https://img.shields.io/pypi/l/holehe)\n\n# [Holehe Online Version](https://osint.industries/)\n\n## **Summary**\n\n*Efficiently finding registered accounts from emails.*\n\nHolehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.\n\n+ Retrieves information using the forgotten password function.\n+ **[Does not alert the target email.](https://github.com/megadose/holehe/issues/12)**\n+ Runs on [Python 3](https://www.python.org/downloads/release/python-370/).\n## 🛠️ Installation\n\n### With PyPI\n\n```pip3 install holehe```\n\n### With Github\n\n```bash\ngit clone https://github.com/megadose/holehe.git\ncd holehe/\npython3 setup.py install\n```\n\n### With Docker\n\n```bash\ndocker build . -t my-holehe-image\ndocker run my-holehe-image holehe test@gmail.com\n```\n\n## Quick Start\n\nHolehe can be run from the CLI and rapidly embedded within existing python applications.\n### 📚 CLI Example\n\n```bash\nholehe test@gmail.com\n```\n### 📈 Python Example\n\n```python\nimport trio\nimport httpx\n\nfrom holehe.modules.social_media.snapchat import snapchat\n\n\nasync def main():\n    email = \"test@gmail.com\"\n    out = []\n    client = httpx.AsyncClient()\n\n    await snapchat(email, client, out)\n\n    print(out)\n    await client.aclose()\n\ntrio.run(main)\n```\n![](https://github.com/megadose/gif-demo/raw/master/holehe-demo.gif)\n## Module Output\n\nFor each module, data is returned in a standard dictionary with the following json-equivalent format :\n```json\n{\n  \"name\": \"example\",\n  \"rateLimit\": false,\n  \"exists\": true,\n  \"emailrecovery\": \"ex****e@gmail.com\",\n  \"phoneNumber\": \"0*******78\",\n  \"others\": null\n}\n```\n\n- rateLitmit : Lets you know if you've been rate-limited.\n- exists : If an account exists for the email on that service.\n- emailrecovery : Sometimes partially obfuscated recovery emails are returned.\n- phoneNumber : Sometimes partially obfuscated recovery phone numbers are returned.\n- others : Any extra info.\n\n\nRate limit? Change your IP.\n\n\n## Maltego Transform : [Holehe Maltego](https://github.com/megadose/holehe-maltego)\n\n## Thank you to :\n\n- [navlys](https://twitter.com/navlys_/)\n- [Chris](https://twitter.com/chris_kirsch)\n- [socialscan](https://pypi.org/project/socialscan/)\n- [UhOh365](https://github.com/Raikia/UhOh365)\n- [soxoj](https://github.com/soxoj)\n- [mxrch](https://github.com/mxrch) (and for the logo)\n- [novitae](https://github.com/novitae)\n\n## Donations\n\nFor BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ\n\n## 📝 License\n\n[GNU General Public Lic",
-  "generatedAt": "2026-08-19T23:43:54.851Z",
+  "generatedAt": "2026-08-20T23:47:16.072Z",
   "analysis": {
     "oneLine": "holehe 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "holehe 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，holehe 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 13,731，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，holehe 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 13,829，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

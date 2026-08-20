@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Australia says Roblox hasn’t fixed its child predator problem",
+  "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16.\" While […]",
+  "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+  "publishedAt": "2026-08-20T17:42:34.000Z",
+  "id": "the-verge-af822df4",
+  "slug": "the-verge-af822df4",
+  "content": "Roblox is promising more changes to its child safety features following testing from Australia’s online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn’t been in compliance with Australia’s Online Safety Act, including “allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16. While Roblox has put some new safety measures in place, eSafety’s testing this year found that the platform “continued to put children at risk, including allowing contact between children and adult strangers.” eSafety’s testing found that: > adults could send connection requests to young Australian children without parental or carer consent; > children and adults could view and respond to one another’s posts on forums outside game environments without parental or carer consent; > children’s connections were visible to anyone on the Roblox platform; > children’s profiles and biographies, including account names, number and names of connections, avatar images, and non-sensitive biographical information such as their interests were visible to anyone on the Roblox platform, with no option to restrict the visibility of this information. Roblox believes it meets its Online Safety Act obligations, according to eSafety. But the company will be adding further safety measures that include: > preventing adults from contacting unknown children without parental consent > strengthening the account settings of children’s accounts so they are private by default > accessible reporting mechanisms that notify users of complaint outcomes > engaging an independent third-party auditor to assess the effectiveness of its safety measures, including the deployment of its age-estimation measures. Roblox didn’t immediately reply to a request for comment. In the US, Roblox is under investigation by a US Senate subcommittee and has been sued by multiple states over alleged child safety issues, though it has settled some state lawsuits. Earlier this year, the platform announced two new types of accounts for younger users that restrict certain games and chat features.",
+  "fetchedAt": "2026-08-20T23:47:36.416Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "澳大利亚称 Roblox 尚未解决儿童掠夺者问题",
+  "chineseSummary": "Roblox 承诺在澳大利亚在线安全监管机构 eSafety 进行测试后对其儿童安全功能进行更多改变。 eSafety 一直在调查该公司未遵守澳大利亚在线安全法的担忧，包括“据称未能采取足够的措施来防止成人与 16 岁以下儿童之间的接触”。尽管 […]",
+  "chineseContent": "在澳大利亚在线安全监管机构 eSafety 进行测试后，Roblox 承诺对其儿童安全功能进行更多改变。 eSafety 一直在调查该公司未遵守澳大利亚在线安全法的担忧，包括“据称未能采取足够的措施来防止成人与 16 岁以下儿童之间的接触。虽然 Roblox 采取了一些新的安全措施，但 eSafety 今年的测试发现该平台“继续将儿童置于危险之中，包括允许儿童与成年陌生人之间的接触。” eSafety 的测试发现： > 成年人可以在未经父母或看护者同意的情况下向澳大利亚幼儿发送连接请求； > 儿童和成人可以在游戏环境之外的论坛上查看和回复彼此的帖子，无需父母或看护人的同意； > Roblox 平台上的任何人都可以看到儿童的联系； > 儿童的个人资料和传记，包括帐户名称、联系人数量和姓名、头像图像以及非敏感传记信息（例如他们的兴趣）对 Roblox 平台上的任何人都可见，且无法限制这些信息的可见性。据 eSafety 称，Roblox 认为自己履行了《在线安全法》的义务。但该公司将增加进一步的安全措施，包括： > 防止成年人在未经父母同意的情况下联系身份不明的儿童 > 加强儿童帐户的帐户设置，使其默认为私密 > 方便的报告机制，通知用户投诉结果 > 聘请独立的第三方审计员来评估其安全措施的有效性，包括部署其年龄估计措施。 Roblox 没有立即回复",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

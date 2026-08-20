@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Vomit: Clean up Claude 5's token output with a separate LLM",
+  "summary": "166 points · 179 comments",
+  "content": "Vomit converts Claude's token vomit into English by piping it through a local LLM. It's fully local (no telemetry) and has no external dependencies.\n\nI wrote a small blog post about this project: https://zachahn.com/posts/1787191554\n\nIn addition, there's a non-invasive mode if you want to run Vomit on the side.\n\nIf you don't have a local LLM set up already, I think I recommend using Llama.app , then downloading GPT-OSS 20B through it. Run the init subcommand after you set this up.",
+  "url": "https://github.com/zachahn/vomit",
+  "publishedAt": "2026-08-20T15:26:02.000Z",
+  "points": 166,
+  "id": "hacker-news-f4b902e9",
+  "slug": "hacker-news-f4b902e9",
+  "fetchedAt": "2026-08-20T23:47:36.413Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出",
+  "chineseSummary": "166 分 · 179 条评论",
+  "chineseContent": "Vomit 通过本地 LLM 进行管道传输，将 Claude 的令牌呕吐物转换为英语。它完全是本地的（无遥测）并且没有外部依赖项。\n\n我写了一篇关于这个项目的小博客文章：https://zachahn.com/posts/1787191554\n\n此外，如果您想同时运行 Vomit，还有一种非侵入模式。\n\n如果您还没有设置本地 LLM，我想我建议使用 Llama.app ，然后通过它下载 GPT-OSS 20B。设置后运行 init 子命令。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
