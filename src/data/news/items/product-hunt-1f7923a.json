@@ -1,26 +1,24 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Google Antigravity 2.0",
-  "summary": "Orchestrate multi-agent workflows from a desktop app Discussion | Link",
+  "originalTitle": "Antigravity IDE Extensions",
+  "summary": "Antigravity agents now live inside your existing editor Discussion | Link",
   "url": "https://www.producthunt.com/products/google-antigravity",
-  "publishedAt": "2026-05-20T05:24:04.000Z",
+  "publishedAt": "2026-08-21T06:58:44.000Z",
   "id": "product-hunt-1f7923a",
   "slug": "product-hunt-1f7923a",
-  "content": "Orchestrate multi-agent workflows from a desktop app Discussion | Link",
-  "fetchedAt": "2026-05-22T06:14:51.000Z",
-  "score": 73,
+  "content": "Antigravity agents now live inside your existing editor Discussion | Link",
+  "fetchedAt": "2026-08-21T23:45:25.612Z",
+  "score": 79,
   "sourceWeight": 84,
   "tags": [
-    "科技",
-    "全球",
-    "金融"
+    "全球"
   ],
-  "rank": 12,
-  "contentStatus": "article-extracted",
-  "chineseTitle": "Google Antigravity 2.0：AI 开发工具更新",
-  "chineseSummary": "从桌面应用程序编排多代理工作流程关联",
-  "chineseContent": "从桌面应用程序编排多代理工作流程关联",
+  "rank": 2,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "反重力 IDE 扩展",
+  "chineseSummary": "反重力代理现在存在于您现有的编辑器中关联",
+  "chineseContent": "反重力代理现在存在于您现有的编辑器中关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

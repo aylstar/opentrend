@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Tornadoes touch down in New York and Delaware",
+  "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+  "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-08-21T14:35:50.000Z",
+  "id": "bbc-1848921",
+  "slug": "bbc-1848921",
+  "content": "Tornadoes, heavy rain and powerful winds battered the Northeast, through Atlantic Beach in Long Island, New York and knocked out power across parts of Delaware’s capital. Police say there are no reports of serious injuries in Atlantic Beach.",
+  "fetchedAt": "2026-08-21T23:45:25.606Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "龙卷风登陆纽约和特拉华州",
+  "chineseSummary": "龙卷风席卷了纽约和特拉华州，猛烈的风暴给大西洋中部带来了暴雨。",
+  "chineseContent": "龙卷风、暴雨和强风袭击了东北部，穿过纽约长岛的大西洋海滩，导致特拉华州首府部分地区停电。警方表示，大西洋海滩没有严重受伤的报告。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

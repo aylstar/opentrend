@@ -1,0 +1,21 @@
+{
+  "id": "weibo-196e594767",
+  "slug": "weibo-小沈阳摔了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "小沈阳摔了",
+  "summary": "微博热榜第 28 位：小沈阳摔了，当前热度为 8万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E6%91%94%E4%BA%86%23",
+  "hotValue": "8万热度",
+  "author": "",
+  "publishedAt": "2026-08-21T23:38:57.100Z",
+  "fetchedAt": "2026-08-21T23:46:10.383Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

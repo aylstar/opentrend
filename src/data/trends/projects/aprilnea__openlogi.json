@@ -1,0 +1,68 @@
+{
+  "slug": "aprilnea__openlogi",
+  "owner": "AprilNEA",
+  "repo": "OpenLogi",
+  "name": "OpenLogi",
+  "fullName": "AprilNEA/OpenLogi",
+  "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+  "language": "Rust",
+  "githubUrl": "https://github.com/AprilNEA/OpenLogi",
+  "docsUrl": "https://openlogi.org",
+  "stars": 12899,
+  "forks": 350,
+  "openIssues": 239,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-08-21T20:42:44Z",
+  "updatedAt": "2026-08-21T23:45:06Z",
+  "createdAt": "2026-05-24T10:10:36Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "数据分析",
+    "企业工具",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "> [!WARNING]\n> **OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a **Star** ⭐ and **Watch** 👀 it to get notified when a new release lands.\n\n<h4 align=\"right\"><strong>English</strong> | <a href=\"docs/README.zh-CN.md\">简体中文</a> | <a href=\"docs/README.ja.md\">日本語</a> | <a href=\"docs/README.de.md\">Deutsch</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.ko.md\">한국어</a></h4>\n\n<p align=\"center\">\n    <img src=\"https://assets.openlogi.org/brand/openlogi-icon.png\" width=\"138\" alt=\"OpenLogi\"/>\n</p>\n\n<h1 align=\"center\">OpenLogi</h1>\n<p align=\"center\"><strong>⚡️ A native, local-first alternative to Logitech Options+, written in Rust 🦀<br/>Unlock the full capabilities of Logitech mice, keyboards, and webcams over HID++ and UVC</strong></p>\n\n\n<div align=\"center\">\n    <a href=\"https://twitter.com/AprilNEA\" target=\"_blank\">\n    <img alt=\"twitter\" src=\"https://img.shields.io/badge/follow-AprilNEA-green?style=social&logo=Twitter\"></a>\n    <a href=\"https://t.me/+VDtkR5OSAT04NzVh\" target=\"_blank\">\n    <img alt=\"telegram\" src=\"https://img.shields.io/badge/chat-telegram-blueviolet?style=flat&logo=Telegram\"></a>\n    <a href=\"https://github.com/AprilNEA/OpenLogi/releases\" target=\"_blank\">\n    <img alt=\"GitHub downloads\" src=\"https://img.shields.io/github/downloads/AprilNEA/OpenLogi/total.svg?style=flat\"></a>\n    <a href=\"https://github.com/AprilNEA/OpenLogi/commits\" target=\"_blank\">\n    <img alt=\"GitHub commit\" src=\"https://img.shields.io/github/commit-activity/m/AprilNEA/OpenLogi?style=flat\"></a>\n    <img alt=\"Hits\" src=\"https://hits.aprilnea.com/hits?url=https://github.com/aprilnea/openlogi\">\n</div>\n\n<p align=\"center\">\n    <a href=\"https://trendshift.io/repositories/42303\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/42303\" alt=\"AprilNEA%2FOpenLogi | Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n> **Fed up with Options+? Try OpenLogi.**\n\nRuns on macOS, Linux, and Windows.\n\n---\n\n## Beyond Options+\n\nThings OpenLogi does that Options+ won't:\n\n- **Stay light.** Native Rust + GPUI.\n- **Run on Linux.** Linux is a first-class platform in OpenLogi.\n- **Gestures on any button.** Give the gesture role to any physical button — or turn gestures off entirely.\n- **Plain-text config.** Everything is one TOML file you can sync between machines however you like.\n- **Script it.** A real CLI alongside the GUI.\n\n## Features\n\n- Devices connected over Logi Bolt receivers, Unifying receivers, Bluetooth, or a wired connection, with battery percentage and charge state\n- Button remapping via the OS input hook: a built-in action catalog plus custom keyboard shortcuts authored in the TOML config¹\n- Per-application profile overlays that auto-switch on app focus (macOS + Windows; Linux on X11 / XWayland only)\n- Litra lights: power, brightness, and color temperature, with optional auto power that follows camera activity\n\n**Mouse**\n\n- Capture and remap the middle, mode-shift, and thum",
+  "generatedAt": "2026-08-21T23:45:09.372Z",
+  "analysis": {
+    "oneLine": "OpenLogi 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "OpenLogi 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，OpenLogi 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 12,899，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "OpenLogi 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Rust 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "brew install --cask openlogi\nbrew tap aprilnea/tap\nbrew install --cask aprilnea/tap/openlogi@latest",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Rust 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "数据分析",
+      "企业工具",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-21T23:45:09.372Z"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+  "summary": "Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.",
+  "url": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+  "publishedAt": "2026-08-21T15:59:25.000Z",
+  "id": "cnbc-f6efb5b",
+  "slug": "cnbc-f6efb5b",
+  "content": "Broadcom is in talks to raise upwards of $70 billion to $80 billion in debt for a chip financing deal aimed at supporting artificial intelligence companies including Anthropic, CNBC's David Faber confirmed Thursday morning.\n\nThe senior tranche of financing, which would get paid back first, is expected to be around $45 billion, and the junior tranche will be about $35 billion, though the numbers are fluid sources said. Bloomberg first covered the deal on Thursday, reporting that it could reach $100 billion in total and that Blackstone and Apollo Global Management are among the firms in talks to participate.\n\nChipmakers are seeking historic levels of capital to help finance the AI buildout and meet increased demand for new models and workloads. In June, Broadcom announced a new AI platform designed to enable 20 gigawatts of compute for Anthropic and OpenAI. Blackstone and Apollo led the initial $35 billion financing.\n\nNvidia, the leading maker of AI chips, said this week it will provide up to $105 billion to finance a new data center for OpenAI in Ohio, according to a securities filing. A week earlier, Nvidia said it was partnering with six large asset managers on a $500 billion financing push designed to treat compute infrastructure as a new asset class.\n\nBroadcom shares rose a little more than 1% on Friday.",
+  "fetchedAt": "2026-08-21T23:45:25.615Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "财经"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "消息人士称博通债务交易预计将达到 700 亿美元以上",
+  "chineseSummary": "据 CNBC 的 David Faber 周五报道，博通正在就一项芯片融资交易筹集 70 至 800 亿美元的债务进行谈判。",
+  "chineseContent": "CNBC 的 David Faber 周四上午证实，博通正在就一项芯片融资协议筹集 700 亿至 800 亿美元的债务进行谈判，旨在支持包括 Anthropic 在内的人工智能公司。\n\n优先部分融资将首先得到偿还，预计约为 450 亿美元，初级部分融资约为 350 亿美元，不过消息人士称，这些数字并不固定。彭博社周四首次报道了该交易，报道称交易总额可能达到 1000 亿美元，黑石集团和阿波罗全球管理公司也在参与谈判的公司之列。\n\n芯片制造商正在寻求历史水平的资本，以帮助为人工智能建设提供资金，并满足对新模型和工作负载不断增长的需求。 6 月，Broadcom 宣布推出新的 AI 平台，旨在为 Anthropic 和 OpenAI 提供 20 吉瓦的计算能力。 Blackstone 和 Apollo 领投了 350 亿美元的初始融资。\n\n根据一份证券备案文件，领先的人工智能芯片制造商英伟达本周表示，将提供高达 1050 亿美元的资金，为 OpenAI 在俄亥俄州的新数据中心提供资金。一周前，英伟达表示，它正在与六家大型资产管理公司合作，推出 5000 亿美元的融资计划，旨在将计算基础设施视为一种新的资产类别。\n\n周五博通股价上涨略高于 1%。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "I'm becoming AI-blind",
+  "summary": "237 points · 239 comments",
+  "content": "Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to focus on its content.\n\nI end up getting dragged into an endless back and forth with the sender, asking questions about things that have been covered in what they've already sent me. It's rather concerning, because I've spent the last year trying to re-learn how to focus and these situations show the exact opposite.\n\nI sat down to analyze these situations and realized they all have a common denominator: the documents all show a strong trace to AI.\n\nA design document that looks like a copy-paste from Claude. While it does cover the design of the specific feature in question, it also carries a lot of Claude-specific analysis and lingo. \"This cuts just through it\", \"The first gate is real\".\n\nA 20-page marketing concept deck that mixes up (a rather reasonable) marketing strategy with some nonsense product technical architecture gibberish. How does it pitch the idea? \"It's not selling X, it's selling Y\". \"The Redis backbone redefines the product\".\n\nA technical requirements document that describes a rather simple concept in a very verbose way. The thing is, a lot of this document reads like someone's \"internal\" reasoning that's not fully sure about certain decisions. Sounds like an LLM to me.\n\nThere's an ongoing discussion of whether humans are good at recognizing AI-generated text. While most research claims that humans don't really do a good job there, I disagree. It's not that difficult, at least when we're talking about the low-effort results. Florian Roth wrote a pretty good summary of the common patterns in the context of social media .\n\nI see a similar thing happening for work-related texts. Besides the obvious choice of words, the general flow of sentences and the attempt to pitch every small detail as a breakthrough quickly give it away. If your document describes the checkboxes in an RBAC configuration view for an enterprise application, don't sell it like you've just invented fire.\n\nI feel like I've been \"pre-trained\" on all the AI-generated LinkedIn posts, emails and websites that are full of text but empty on meaning. My brain learned to quickly spot signs of AI-generated content, at least the content generated with low effort, and it now ignores it and moves on without thinking much about it.\n\nI've heard some people comparing it to \"banner blindness\". It's not surprising. With the amount of content being pushed at us, filtering it out is how we need to stay sane.\n\nWhat's fascinating to me, is that the same AI that was supposed to make me more productive, is what's now slowing me down in an unexpected way.\n\nI don't usually go on vacation, but this year I really needed a break. One evening I was really hungry, walking past some restaurants on the Baltic coast. There was a single one I immediately ignored, but a minute later something in my head asked \"Hey, did they really put up a photo of quiche with mold?\" I walked back just to see this.",
+  "url": "https://cymerys.com/w/im-becoming-ai-blind",
+  "publishedAt": "2026-08-21T11:48:05.000Z",
+  "points": 237,
+  "id": "hacker-news-fa0020bd",
+  "slug": "hacker-news-fa0020bd",
+  "fetchedAt": "2026-08-21T23:45:25.611Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我变得 AI 盲了",
+  "chineseSummary": "237 分 · 239 条评论",
+  "chineseContent": "最近，我发现自己在工作中遇到了这些小时刻，当我试图阅读某人发给我的文件时，我的大脑不知何故拒绝分析它。感觉就像在读它，但我无法专注于它的内容。\n\n我最终陷入了与发件人无休止的来回沟通中，询问他们已经发送给我的内容中已涵盖的内容。这相当令人担忧，因为去年我一直在尝试重新学习如何集中注意力，但这些情况却恰恰相反。\n\n我坐下来分析这些情况，并意识到它们都有一个共同点：这些文档都显示出对人工智能的强烈追踪。\n\n看起来像是克劳德复制粘贴的设计文档。虽然它确实涵盖了所讨论的特定功能的设计，但它也包含大量克劳德特定的分析和术语。 “这正好穿过它”，“第一扇门是真实的”。\n\n一个 20 页的营销概念平台，将（相当合理的）营销策略与一些无意义的产品技术架构混在一起。它是如何推销这个想法的？ “这不是卖X，而是卖Y”。 “Redis 主干重新定义了产品”。\n\n一份技术需求文档，以非常详细的方式描述了一个相当简单的概念。问题是，这份文件的很多内容读起来就像某人的“内部”推理，对某些决定并不完全确定。对我来说听起来像是法学硕士。\n\n关于人类是否擅长识别人工智能生成的文本的讨论正在进行中。虽然大多数研究都声称人类在这方面做得并不好，但我不同意。这并不困难，至少当我们谈论省力成果时是这样。弗洛里安·罗斯 (Florian Roth) 对社交媒体背景下的常见模式做了很好的总结。\n\n我发现与工作相关的文本也发生了类似的情况。除了明显的用词选择之外，句子的总体流程以及将每个小细节作为突破的尝试很快就暴露了这一点。如果您的文档描述了企业应用程序的 RBAC 配置视图中的复选框，请不要像您刚刚发明了火一样出售它。\n\n我觉得我已经接受过人工智能生成的 LinkedIn 帖子、电子邮件和网站的“预先训练”，这些帖子、电子邮件和网站充满了文字，但意义空洞。我的大脑学会了快速发现人工智能生成的内容的迹象，至少是那些不费吹灰之力生成的内容，现在它会忽略它并继续前进，而不会考虑太多。\n\n我听一些人将其与“横幅失明”进行比较。这并不奇怪。随着大量内容被推送给我们，过滤掉它们是我们保持理智的方法。\n\n让我着迷的是，原本应该让我提高工作效率的人工智能，现在却以意想不到的方式减慢了我的速度。\n\n我通常不去度假，但今年我真的需要休息一下。一天晚上，我真的很饿，路过波罗的海沿岸的一些餐馆。有一个我立即忽略了，但一分钟后我脑子里有东西问：“嘿，他们真的放了一张发霉的乳蛋饼照片吗？”我走回来就是为了看到这个。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

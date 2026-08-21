@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ef4711f415",
+  "slug": "weibo-欢子-摆烂",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "欢子 摆烂",
+  "summary": "微博热榜第 17 位：欢子 摆烂，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E5%AD%90+%E6%91%86%E7%83%82%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-08-21T23:38:57.100Z",
+  "fetchedAt": "2026-08-21T23:46:10.383Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

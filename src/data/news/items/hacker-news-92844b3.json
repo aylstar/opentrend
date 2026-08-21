@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Kagi added a setting for removing paywalled links from search results",
+  "summary": "966 points · 331 comments",
+  "content": "August 21st, 2026 - A new Stocks widget and a better everyday Assistant experience #\n\nWe've revamped our Stocks widget. It should appear more often when you need it. It can now display information about exchange-traded funds in addition to stocks. Most importantly, it now features a price chart, with animations between time windows that instantly contexturalize how big the price fluctuations you're seeing are compared to the wider story:\n\nAs well, we've added a setting for removing paywalled links from search results automatically.\n\nRicher messages User messages now render links, Markdown, and LaTex. #6674 @oxlvlnle , #3283 @EvacuatedTerminal\n\nMore powerful search Search across all your threads, sort by recency or alphabetically, and start with / to filter by folder.\n\nMore control with calmer settings Now you can choose whether temporary threads stick around for 24h, 7 or 30 days. All within a calmer, easier-to-scan settings experience.",
+  "url": "https://kagi.com/changelog#11296",
+  "publishedAt": "2026-08-21T13:56:37.000Z",
+  "points": 966,
+  "id": "hacker-news-92844b3",
+  "slug": "hacker-news-92844b3",
+  "fetchedAt": "2026-08-21T23:45:25.610Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Kagi 添加了从搜索结果中删除付费链接的设置",
+  "chineseSummary": "966 分 · 331 条评论",
+  "chineseContent": "2026 年 8 月 21 日 - 新的股票小部件和更好的日常助理体验 #\n\n我们改进了股票小部件。当您需要时，它应该更频繁地出现。除了股票之外，它现在还可以显示有关交易所交易基金的信息。最重要的是，它现在具有价格图表，时间窗口之间有动画，可以立即将您看到的价格波动与更广泛的故事相比有多大：\n\n此外，我们还添加了自动从搜索结果中删除付费链接的设置。\n\n更丰富的消息 用户消息现在呈现链接、Markdown 和 LaTex。 #6674 @oxlvlnle , #3283 @EvacuatedTerminal\n\n更强大的搜索 搜索所有线程，按新近度或字母顺序排序，并以 / 开头按文件夹过滤。\n\n通过更平静的设置进行更多控制现在，您可以选择临时线程是否保留 24 小时、7 天或 30 天。一切都在更平静、更易于扫描的设置体验中。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

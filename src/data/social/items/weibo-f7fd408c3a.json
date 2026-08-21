@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f7fd408c3a",
+  "slug": "weibo-曾辉团宠",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "曾辉团宠",
+  "summary": "微博热榜第 32 位：曾辉团宠，当前热度为 7万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BE%89%E5%9B%A2%E5%AE%A0%23",
+  "hotValue": "7万热度",
+  "author": "",
+  "publishedAt": "2026-08-21T23:38:57.100Z",
+  "fetchedAt": "2026-08-21T23:46:10.383Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
