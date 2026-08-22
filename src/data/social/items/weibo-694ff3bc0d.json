@@ -1,0 +1,21 @@
+{
+  "id": "weibo-694ff3bc0d",
+  "slug": "weibo-肖战完全王子",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "肖战完全王子",
+  "summary": "微博热榜第 17 位：肖战完全王子，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%AE%8C%E5%85%A8%E7%8E%8B%E5%AD%90%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

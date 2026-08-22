@@ -8,19 +8,19 @@
   "id": "the-verge-8ca37b04",
   "slug": "the-verge-8ca37b04",
   "content": "LinkedIn actually announced a “Seems like AI slop” button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, “over a million people” have clicked on the button, which is accessible from the three dots menu on a post.&nbsp; LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn’s longform posts were flagged as fully AI generated, which 404 Media reported on. Alongside the AI slop button, LinkedIn introduced “new and improved” classifiers to identify posts as AI and removed a feature that would “enhance your post” with AI. “AI slop is a top priority for all of us,” Srinivasan said at the time, and it sounds as if the platform’s changes may be making a difference. In Thursday’s post, Srinivasan said that users are overall “now experiencing 40% less views on what we classify as AI slop from just a few weeks ago.” LinkedIn is also adding a new message that will tell users who make a post if “Some members told us this post seems like AI.” “We approached this assuming good intent; I know I’m increasingly conscious on how to not sound like AI & the goal is to provide helpful feedback,” Srinivasan said. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1787176243087.jpeg?quality=90&strip=all] Earlier this year, LinkedIn also said it would be cracking down on comments users create at scale “with little or no human involvement.”",
-  "fetchedAt": "2026-08-21T23:45:25.613Z",
-  "score": 72,
+  "fetchedAt": "2026-08-22T23:42:27.852Z",
+  "score": 66,
   "sourceWeight": 80,
   "tags": [
     "AI",
     "全球",
     "产品"
   ],
-  "rank": 17,
+  "rank": 18,
   "contentStatus": "article-extracted",
-  "chineseTitle": "超过 100 万人点击了 LinkedIn 的 AI slop 按钮",
-  "chineseSummary": "LinkedIn 实际上在 7 月 30 日宣布了一个“看起来像 AI slop”按钮，该公司表示很多人已经使用过它。根据首席产品官 Hari Srinivasan 周四发布的帖子，“超过一百万人”点击了该按钮，可以通过 […]",
-  "chineseContent": "LinkedIn 实际上在 7 月 30 日宣布了一个“看起来像 AI slop”按钮，该公司表示很多人已经使用过它。根据首席产品官 Hari Srinivasan 周四发布的帖子，“超过一百万人”点击了该按钮，可以通过帖子上的三点菜单访问该按钮。  据 404 Media 报道，在 AI 检测器 Pangram 确定 LinkedIn 41% 的长篇帖子被标记为完全由 AI 生成的几周后，LinkedIn 宣布了该按钮。除了 AI slop 按钮之外，LinkedIn 还引入了“新的和改进的”分类器来将帖子识别为 AI，并删除了一个可以通过 AI“增强您的帖子”的功能。斯里尼瓦桑当时表示：“人工智能技术是我们所有人的首要任务。”听起来该平台的变化可能会产生影响。斯里尼瓦桑在周四的帖子中表示，总体而言，用户“现在对我们归类为人工智能垃圾的内容的浏览量比几周前减少了 40%”。 LinkedIn 还添加了一条新消息，如果“某些会员告诉我们这篇文章看起来像人工智能”，该消息将告诉发帖的用户。 “我们是抱着良好的意图来处理这个问题的；我知道我越来越意识到如何听起来不像人工智能，目标是提供有用的反馈，”斯里尼瓦桑说。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1787176243087.jpeg?quality=90&strip=all] 今年早些时候，LinkedIn 还表示将打击用户在“很少或根本没有人为参与”的情况下大规模发表的评论。",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Over 1 million people have clicked LinkedIn’s AI slop button",
+  "chineseSummary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a […]",
+  "chineseContent": "LinkedIn actually announced a “Seems like AI slop” button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, “over a million people” have clicked on the button, which is accessible from the three dots menu on a post.&nbsp; LinkedIn announced the button a few weeks after AI detector Pangram determined that 41 percent of LinkedIn’s longform posts were flagged as fully AI generated, which 404 Media reported on. Alongside the AI slop button, LinkedIn introduced “new and improved” classifiers to identify posts as AI and removed a feature that would “enhance your post” with AI. “AI slop is a top priority for all of us,” Srinivasan said at the time, and it sounds as if the platform’s changes may be making a difference. In Thursday’s post, Srinivasan said that users are overall “now experiencing 40% less views on what we classify as AI slop from just a few weeks ago.” LinkedIn is also adding a new message that will tell users who make a post if “Some members told us this post seems like AI.” “We approached this assuming good intent; I know I’m increasingly conscious on how to not sound like AI & the goal is to provide helpful feedback,” Srinivasan said. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1787176243087.jpeg?quality=90&strip=all] Earlier this year, LinkedIn also said it would be cracking down on comments users create at scale “with little or no human involvement.”",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

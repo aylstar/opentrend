@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2b5a41302c",
+  "slug": "weibo-德甲",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "德甲",
+  "summary": "微博热榜第 49 位：德甲，当前热度为 5万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%94%B2%23",
+  "hotValue": "5万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

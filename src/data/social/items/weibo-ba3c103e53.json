@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ba3c103e53",
+  "slug": "weibo-桃酥是没有一滴水的",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "桃酥是没有一滴水的",
+  "summary": "微博热榜第 19 位：桃酥是没有一滴水的，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%85%A5%E6%98%AF%E6%B2%A1%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%E7%9A%84%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

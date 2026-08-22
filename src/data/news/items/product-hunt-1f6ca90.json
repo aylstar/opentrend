@@ -8,17 +8,17 @@
   "id": "product-hunt-1f6ca90",
   "slug": "product-hunt-1f6ca90",
   "content": "Your personal AGI on your PC. Built to finish real work. Discussion | Link",
-  "fetchedAt": "2026-08-21T23:45:25.611Z",
-  "score": 79,
+  "fetchedAt": "2026-08-22T23:42:27.851Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 1,
+  "rank": 9,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "幕府将军 AI",
-  "chineseSummary": "您 PC 上的个人 AGI。专为完成实际工作而设计。讨论 |关联",
-  "chineseContent": "您 PC 上的个人 AGI。专为完成实际工作而设计。讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "ShogunAI",
+  "chineseSummary": "Your personal AGI on your PC. Built to finish real work. Discussion | Link",
+  "chineseContent": "Your personal AGI on your PC. Built to finish real work. Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

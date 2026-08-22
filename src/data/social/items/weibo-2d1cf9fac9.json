@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2d1cf9fac9",
+  "slug": "weibo-樊振东新赛季首秀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "樊振东新赛季首秀",
+  "summary": "微博热榜第 2 位：樊振东新赛季首秀，当前热度为 75万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%96%B0%E8%B5%9B%E5%AD%A3%E9%A6%96%E7%A7%80%23",
+  "hotValue": "75万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

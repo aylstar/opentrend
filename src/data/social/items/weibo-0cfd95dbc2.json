@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0cfd95dbc2",
+  "slug": "weibo-李维嘉追星成功王菲",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "李维嘉追星成功王菲",
+  "summary": "微博热榜第 12 位：李维嘉追星成功王菲，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%E7%8E%8B%E8%8F%B2%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

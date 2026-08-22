@@ -1,0 +1,21 @@
+{
+  "id": "weibo-79d321d1a0",
+  "slug": "weibo-日本东京震感强烈",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "日本东京震感强烈",
+  "summary": "微博热榜第 28 位：日本东京震感强烈，当前热度为 8万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88%23",
+  "hotValue": "8万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

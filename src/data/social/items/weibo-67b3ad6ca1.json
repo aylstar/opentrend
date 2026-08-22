@@ -1,0 +1,21 @@
+{
+  "id": "weibo-67b3ad6ca1",
+  "slug": "weibo-处暑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "处暑",
+  "summary": "微博热榜第 16 位：处暑，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%84%E6%9A%91%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-08-22T23:40:56.334Z",
+  "fetchedAt": "2026-08-22T23:42:56.041Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

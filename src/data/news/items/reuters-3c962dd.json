@@ -8,8 +8,8 @@
   "id": "reuters-3c962dd",
   "slug": "reuters-3c962dd",
   "content": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-08-21T23:45:25.626Z",
-  "score": 98,
+  "fetchedAt": "2026-08-22T23:42:27.862Z",
+  "score": 92,
   "sourceWeight": 94,
   "tags": [
     "全球",
@@ -17,9 +17,9 @@
   ],
   "rank": 1,
   "contentStatus": "article-extracted",
-  "chineseTitle": "独家：奇瑞机器人子公司AiMOGA考虑IPO，瞄准海外市场",
-  "chineseSummary": "独家：奇瑞机器人子公司 AiMOGA 考虑 IPO，瞄准海外市场 路透",
-  "chineseContent": "独家：奇瑞机器人子公司 AiMOGA 考虑 IPO，瞄准海外市场 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market",
+  "chineseSummary": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market &nbsp;&nbsp; Reuters",
+  "chineseContent": "EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
