@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/public-apis/public-apis",
   "docsUrl": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
-  "stars": 468617,
-  "forks": 51702,
-  "openIssues": 1746,
+  "stars": 469191,
+  "forks": 51756,
+  "openIssues": 1753,
   "license": "MIT",
   "pushedAt": "2026-08-19T21:44:19Z",
-  "updatedAt": "2026-08-22T23:42:03Z",
+  "updatedAt": "2026-08-23T23:34:14Z",
   "createdAt": "2016-03-20T23:49:42Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# APILayer Unified Suite in now Live! 🎉 🥳\n\n[APILayer unified suite](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) allows you to integrate production-grade REST APIs using **One Account, One Dashboard, and One API key.** Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.\n\n[Sign up](https://app.apilayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) and start building today!\n\nFork our official [APILayer Postman Collection](https://www.postman.com/apilayer/apilayer/collection/2uo8qbu/apilayer-suite) and get started in under 60 seconds.\n\n![APILayer Banner](https://raw.githubusercontent.com/public-apis/public-apis/refs/heads/master/.github/assets/apilayer-banner.png)\n\n### APIs Covered Under APILayer Suite!\n\n- [IPstack](https://apilayer.com/products/ipstack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Markestack](https://apilayer.com/products/mediastack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Aviationstack](https://apilayer.com/products/aviationstack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Positionstack](https://apilayer.com/products/positionstack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Mediastack](https://apilayer.com/products/mediastack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Mailboxlayer](https://apilayer.com/products/mailboxlayer?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Countrylayer](https://apilayer.com/products/countrylayer?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Serpstack](https://apilayer.com/products/serpstack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n- [Scrapestack](https://apilayer.com/products/scrapestack?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)\n\n# Try Public APIs for free\nThe Public APIs repository is manually curated by community members like you and folks working at [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo). It includes an extensive list of public APIs from many domains that you can use for your own products. Consider it a treasure trove of APIs well-managed by the community over the years.\n\n<br >\n\n<p>\n    <a href=\"https://apilayer.com\">\n        <div>\n            <img src=\".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png\" width=\"100%\" alt=\"APILayer Logo\" />\n        </div>\n    </a>\n  </p>\n\nAPILayer is the fastest way to integrate APIs into any product. Explore [APILayer APIs](https://apilayer.com/products/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) here for your next project.\n\nJoin our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) to get updates, ask questi",
-  "generatedAt": "2026-08-22T23:42:13.755Z",
+  "generatedAt": "2026-08-23T23:42:02.537Z",
   "analysis": {
     "oneLine": "public-apis 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "public-apis 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，public-apis 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 468,617，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，public-apis 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 469,191，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

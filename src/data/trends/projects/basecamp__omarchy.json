@@ -8,12 +8,12 @@
   "language": "Shell",
   "githubUrl": "https://github.com/basecamp/omarchy",
   "docsUrl": "https://omarchy.org",
-  "stars": 28264,
-  "forks": 2882,
-  "openIssues": 1234,
+  "stars": 29096,
+  "forks": 2959,
+  "openIssues": 1345,
   "license": "MIT",
-  "pushedAt": "2026-08-22T18:18:17Z",
-  "updatedAt": "2026-08-22T23:37:58Z",
+  "pushedAt": "2026-08-23T22:31:50Z",
+  "updatedAt": "2026-08-23T23:40:43Z",
   "createdAt": "2025-06-01T07:26:22Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "# Omarchy\n\nOmarchy is a beautiful, modern & opinionated Linux distribution by DHH.\n\nRead more at [omarchy.org](https://omarchy.org).\n\n## The Omarchy Manual\n\nThe manual lives in [`manual/`](manual/), which is its authoritative source. It's\nmirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where\nits screenshots are also hosted.\n\n- [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md)\n\n**The Basics**\n\n- [Getting Started](manual/02-getting-started.md)\n- [Coming From Mac or Windows](manual/03-coming-from-mac-or-windows.md)\n- [Navigation](manual/04-navigation.md)\n- [The top bar](manual/05-the-top-bar.md)\n- [Themes](manual/06-themes.md)\n- [Hotkeys](manual/07-hotkeys.md)\n- [Unified Clipboard & History](manual/08-unified-clipboard-history.md)\n- [Reminders](manual/09-reminders.md)\n- [Notices](manual/10-notices.md)\n- [Text Extraction & Dictation](manual/11-text-extraction-dictation.md)\n- [Screenshots & Recording](manual/12-screenshots-recording.md)\n- [Toggles, idle & screensaver](manual/13-toggles-idle-screensaver.md)\n- [Omarchy CLI](manual/14-omarchy-cli.md)\n\n**The Applications**\n\n- [Terminal](manual/15-terminal.md)\n- [Neovim](manual/16-neovim.md)\n- [AI](manual/17-ai.md)\n- [Development Tools](manual/18-development-tools.md)\n- [Shell Tools](manual/19-shell-tools.md)\n- [Shell Functions](manual/20-shell-functions.md)\n- [TUIs](manual/21-tuis.md)\n- [GUIs](manual/22-guis.md)\n- [Browsers](manual/23-browsers.md)\n- [Commercial apps/services](manual/24-commercial-apps-services.md)\n- [Web Apps](manual/25-web-apps.md)\n- [Gaming](manual/26-gaming.md)\n- [Filling out PDFs](manual/27-filling-out-pdfs.md)\n- [Windows VM](manual/28-windows-vm.md)\n- [Other Packages](manual/29-other-packages.md)\n\n**Configuration**\n\n- [Updates](manual/30-updates.md)\n- [Dotfiles](manual/31-dotfiles.md)\n- [Shell plugins](manual/32-shell-plugins.md)\n- [Monitors](manual/33-monitors.md)\n- [Keyboard, Mouse, Trackpad](manual/34-keyboard-mouse-trackpad.md)\n- [Networking](manual/35-networking.md)\n- [System sleep](manual/36-system-sleep.md)\n- [Hardware authentication](manual/37-hardware-authentication.md)\n- [Fonts](manual/38-fonts.md)\n- [Backgrounds](manual/39-backgrounds.md)\n- [Prompt](manual/40-prompt.md)\n- [Branding](manual/41-branding.md)\n- [Common tweaks](manual/42-common-tweaks.md)\n- [Extra themes](manual/43-extra-themes.md)\n- [Making your own theme](manual/44-making-your-own-theme.md)\n\n**The Rest**\n\n- [Mac support](manual/45-mac-support.md)\n- [Troubleshooting](manual/46-troubleshooting.md)\n- [FAQ](manual/47-faq.md)\n- [System snapshots](manual/48-system-snapshots.md)\n- [Security](manual/49-security.md)\n- [Omarchy on...](manual/50-omarchy-on.md)\n- [Dual Boot Install](manual/51-dual-boot-install.md)\n- [Unattended Installs](manual/52-unattended-installs.md)\n\n## License\n\nOmarchy is released under the [MIT License](https://opensource.org/licenses/MIT).\n",
-  "generatedAt": "2026-08-22T23:42:12.322Z",
+  "generatedAt": "2026-08-23T23:42:01.165Z",
   "analysis": {
     "oneLine": "omarchy 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "omarchy 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，omarchy 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 28,264，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，omarchy 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 29,096，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

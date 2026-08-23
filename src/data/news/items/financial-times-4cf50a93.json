@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+  "summary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+  "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
+  "publishedAt": "2026-08-23T08:33:27.000Z",
+  "id": "financial-times-4cf50a93",
+  "slug": "financial-times-4cf50a93",
+  "content": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+  "fetchedAt": "2026-08-23T23:42:22.873Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "AI"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
+  "chineseSummary": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+  "chineseContent": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

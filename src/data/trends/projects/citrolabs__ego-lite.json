@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/citrolabs/ego-lite",
   "docsUrl": "https://lite.ego.app",
-  "stars": 12754,
-  "forks": 663,
-  "openIssues": 125,
+  "stars": 12965,
+  "forks": 676,
+  "openIssues": 131,
   "license": "MIT",
   "pushedAt": "2026-08-22T11:36:35Z",
-  "updatedAt": "2026-08-22T23:14:51Z",
+  "updatedAt": "2026-08-23T23:37:26Z",
   "createdAt": "2026-04-16T12:51:09Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n<img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" />\n\n**The fastest browser for AI agents to run browser automation**\n\n<a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n<p>\n  <a href=\"https://cdn.ego.app/setup/macos/arm64/egolite-Y7MbxKIuhzFB.dmg\"><img src=\"https://img.shields.io/badge/Download-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download for Apple Silicon\" /></a>\n  <a href=\"https://cdn.ego.app/setup/macos/x64/egolite-Y7MbxKIuhzFB.dmg\"><img src=\"https://img.shields.io/badge/Download-Intel-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download for Intel\" /></a>\n  <a href=\"https://discord.gg/5eGZVvHbTq\"><img src=\"https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\" /></a>\n  <a href=\"https://x.com/ego_agent\"><img src=\"https://img.shields.io/badge/Follow-%40ego__agent-000000?style=for-the-badge&logo=x&logoColor=white\" alt=\"Follow @ego_agent on X\" /></a>\n  <a href=\"https://lite.ego.app/document/\"><img src=\"https://img.shields.io/badge/Docs-lite.ego.app-1E90FF?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\" /></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge\" alt=\"License MIT\" /></a>\n</p>\n\n</div>\n\nego (lite) is a browser where you and your AI agents work in parallel. Your agents run multiple browser tasks in their own Spaces while your tabs stay yours, and tasks complete faster on fewer tokens.\n\nExisting tools like browser-use and agent-browser are browser automation frameworks: they need a separate browser to drive, logins never carry cleanly, and you and the agent end up fighting for the same tabs. ego lite is one browser designed from the start for the two of you to share. No extra setup, and the agent can always reach your real logins and tabs through `ego-browser`.\n\n## Demo\n\nhttps://github.com/user-attachments/assets/ffe7954b-58ee-411e-b35d-ec30c58a08bc\n\n## Quick Start\n\nego lite runs on macOS today. Windows and Linux are on the [roadmap](https://lite.ego.app/roadmap).\n\n### 1. Install\n\nPick whichever fits your flow.\n\n**1.1 Download the macOS app**\n\n<a href=\"https://cdn.ego.app/setup/macos/arm64/egolite-Y7MbxKIuhzFB.dmg\"><img src=\"https://img.shields.io/badge/⬇%20Apple%20Silicon-.dmg-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download ego lite for Apple Silicon\" /></a>\n<a href=\"https://cdn.ego.app/setup/macos/x64/egolite-Y7MbxKIuhzFB.dmg\"><img src=\"https://img.shields.io/badge/⬇%20Intel-.dmg-000000?style=for-the-badge&logo=apple&logoColor=white\" alt=\"Download ego lite for Intel\" /></a>\n\nClick to download, then open it to install. Either way, ego lite adds the `eg",
-  "generatedAt": "2026-08-22T23:42:15.734Z",
+  "generatedAt": "2026-08-23T23:42:06.455Z",
   "analysis": {
     "oneLine": "ego-lite 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "ego-lite 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，ego-lite 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 12,754，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ego-lite 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 12,965，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
