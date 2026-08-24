@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3c689f99b1",
+  "slug": "weibo-太湖湾音乐节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "太湖湾音乐节",
+  "summary": "微博热榜第 10 位：太湖湾音乐节，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-08-24T23:42:31.176Z",
+  "fetchedAt": "2026-08-24T23:44:06.817Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

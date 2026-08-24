@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aa0002cbae",
+  "slug": "weibo-小米18fold",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "小米18Fold",
+  "summary": "微博热榜第 2 位：小米18Fold，当前热度为 86万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318Fold%23",
+  "hotValue": "86万热度",
+  "author": "",
+  "publishedAt": "2026-08-24T23:42:31.176Z",
+  "fetchedAt": "2026-08-24T23:44:06.817Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

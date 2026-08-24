@@ -9,7 +9,7 @@
   "domain": "vneconomy.vn",
   "id": "gdelt-b378813d",
   "slug": "gdelt-b378813d",
-  "fetchedAt": "2026-08-10T23:58:28.303Z",
+  "fetchedAt": "2026-08-24T23:43:34.499Z",
   "score": 68,
   "sourceWeight": 95,
   "tags": [
@@ -17,9 +17,9 @@
   ],
   "rank": 19,
   "contentStatus": "article-extracted",
-  "chineseTitle": "越南凭借 AI 和创新取得突破",
+  "chineseTitle": "Việt Nam bứt phá nhờ AI và đổi mới sáng tạo",
   "chineseSummary": "GDELT 收录时间：20260729T104500Z",
-  "chineseContent": "VGIC 2026旨在推广倡议、项目和技术解决方案，为连接世界技术精英与越南做出贡献。此次活动汇聚了 100 名创新者，他们是越南和越南的专家、科学家和技术领导者，在世界领先的科技公司、研究机构和大学担任多个职位。",
-  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
-  "translationStatus": "translated"
+  "chineseContent": "VGIC 2026 hướng tới thúc đẩy các sáng kiến, dự án và giải pháp công nghệ, góp phần kết nối tinh hoa công nghệ thế giới với Việt Nam. Sự kiện quy tụ 100 nhà đổi mới sáng tạo là các chuyên gia, nhà khoa học và lãnh đạo công nghệ người Việt và gốc Việt đang đảm nhiệm nhiều vị trí tại các tập đoàn công nghệ, viện nghiên cứu và trường đại học hàng đầu thế giới.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

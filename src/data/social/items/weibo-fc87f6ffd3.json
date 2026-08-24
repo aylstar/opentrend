@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fc87f6ffd3",
+  "slug": "weibo-台风沙德尔生成",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "台风沙德尔生成",
+  "summary": "微博热榜第 27 位：台风沙德尔生成，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E7%94%9F%E6%88%90%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-08-24T23:42:31.176Z",
+  "fetchedAt": "2026-08-24T23:44:06.817Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

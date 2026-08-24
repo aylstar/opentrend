@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "iCloud+ Hide My Email addresses will remain on icloud.com",
+  "summary": "128 points · 26 comments",
+  "content": "Update: New domain for Sign in with Apple\n\nStarting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses on privaterelay.appleid.com will continue to work and forward mail to users without interruption.\n\nAfter further consideration and reviewing community feedback, iCloud+ Hide My Email addresses will remain on icloud.com .\n\nDevelopers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new private.icloud.com domain in addition to the existing privaterelay.appleid.com domain.\n\nLearn more about Sign in with Apple\n\nCommunicating using the Private Email Relay Service",
+  "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+  "publishedAt": "2026-08-24T22:13:40.000Z",
+  "points": 128,
+  "id": "hacker-news-b6d16c5d",
+  "slug": "hacker-news-b6d16c5d",
+  "fetchedAt": "2026-08-24T23:43:34.509Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "iCloud+ Hide My Email addresses will remain on icloud.com",
+  "chineseSummary": "128 points · 26 comments",
+  "chineseContent": "Update: New domain for Sign in with Apple\n\nStarting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com , will be issued on private.icloud.com . Existing addresses on privaterelay.appleid.com will continue to work and forward mail to users without interruption.\n\nAfter further consideration and reviewing community feedback, iCloud+ Hide My Email addresses will remain on icloud.com .\n\nDevelopers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new private.icloud.com domain in addition to the existing privaterelay.appleid.com domain.\n\nLearn more about Sign in with Apple\n\nCommunicating using the Private Email Relay Service",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

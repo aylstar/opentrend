@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "SeL4 security proofs now complete on AArch64",
+  "summary": "165 points · 36 comments",
+  "content": "seL4 security proofs now complete on AArch64\n\nAfter completing the proofs of functional correctness and integrity , Proofcraft has now established the proof that seL4 enforces confidentiality on AArch64, providing a formal mathematical proof that the kernel prevents an application running on top of seL4 from learning information without authorisation.\n\nThanks to continued support from NCSC , this milestone completes the formal proof that the seL4 implementation code on AArch64 enforces security isolation of the applications running on top (under the assumptions listed here ). This isolation prevents attacks on non-critical applications from propagating to critical applications and compromising them.",
+  "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+  "publishedAt": "2026-08-24T11:32:51.000Z",
+  "points": 165,
+  "id": "hacker-news-574b97e3",
+  "slug": "hacker-news-574b97e3",
+  "fetchedAt": "2026-08-24T23:43:34.509Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "SeL4 security proofs now complete on AArch64",
+  "chineseSummary": "165 points · 36 comments",
+  "chineseContent": "seL4 security proofs now complete on AArch64\n\nAfter completing the proofs of functional correctness and integrity , Proofcraft has now established the proof that seL4 enforces confidentiality on AArch64, providing a formal mathematical proof that the kernel prevents an application running on top of seL4 from learning information without authorisation.\n\nThanks to continued support from NCSC , this milestone completes the formal proof that the seL4 implementation code on AArch64 enforces security isolation of the applications running on top (under the assumptions listed here ). This isolation prevents attacks on non-critical applications from propagating to critical applications and compromising them.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

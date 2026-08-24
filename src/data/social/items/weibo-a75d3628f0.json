@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a75d3628f0",
+  "slug": "weibo-现货黄金",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "现货黄金",
+  "summary": "微博热榜第 25 位：现货黄金，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-24T23:42:31.176Z",
+  "fetchedAt": "2026-08-24T23:44:06.817Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
