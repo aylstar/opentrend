@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1d78a3ca76",
+  "slug": "weibo-爱情公寓",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "爱情公寓",
+  "summary": "微博热榜第 46 位：爱情公寓，当前热度为 6万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%23",
+  "hotValue": "6万热度",
+  "author": "",
+  "publishedAt": "2026-08-25T23:39:54.994Z",
+  "fetchedAt": "2026-08-25T23:46:28.406Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

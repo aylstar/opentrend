@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: I made a Raspberry with Qwen my local car AI",
+  "summary": "81 points · 15 comments",
+  "content": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room! So now it can answer car questions such as \"when should I add oil and what kind of oil?\" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them. For example, if car breaks and can't move the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something.",
+  "url": "https://github.com/ThinkOffApp/CarWatch",
+  "publishedAt": "2026-08-25T15:20:20.000Z",
+  "points": 81,
+  "id": "hacker-news-70151ea8",
+  "slug": "hacker-news-70151ea8",
+  "fetchedAt": "2026-08-25T23:46:00.283Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN: I made a Raspberry with Qwen my local car AI",
+  "chineseSummary": "81 points · 15 comments",
+  "chineseContent": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual. And then hooked it up with my other agents in our discussion room! So now it can answer car questions such as \"when should I add oil and what kind of oil?\" and help you fully offline, and when online talk with the agent family that includes all the most powerful models so they know how the car is, plan new features and develop itself with them. For example, if car breaks and can't move the car agent informs my agent family and they can already look for a suitable train ticket without me needing to check things or do something.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -8,16 +8,16 @@
   "language": "Python",
   "githubUrl": "https://github.com/cactus-compute/needle",
   "docsUrl": "https://cactuscompute.com",
-  "stars": 8122,
-  "forks": 520,
-  "openIssues": 23,
+  "stars": 9167,
+  "forks": 591,
+  "openIssues": 27,
   "license": "Apache-2.0",
-  "pushedAt": "2026-08-20T20:43:04Z",
-  "updatedAt": "2026-08-20T23:45:16Z",
+  "pushedAt": "2026-08-24T16:09:36Z",
+  "updatedAt": "2026-08-25T23:18:29Z",
   "createdAt": "2026-02-24T04:50:47Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "monthly"
   ],
   "tags": [
     "AI",
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "![Needle](assets/banner.png)\n\n# Needle 2\n\nNeedle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM2.5 230M and Apple FM, at 5x to 70x smaller, and 2 bits against their f16.\n\nThis repository is the Python package: inference, LoRA fine-tuning, and export. `pip install cactus-needle`, describe your tools, and call them from Python. The inference engine is fetched once from Hugging Face and cached; there is nothing else to build, and offline setup for air gapped devices is covered in [doc/apis.md](doc/apis.md).\n\n- **Self-contained**: weights baked into a single 14MB engine; no separate model files to manage, and inference does no network.\n- **Simple contract**: tool calls come back as structured data, text in, JSON out; a byte-level grammar compiled from your schemas constrains every token.\n- **Confidence-gated**: every response carries a calibrated confidence score from a learned head; set a threshold, act above it, escalate below it.\n- **Tool retrieval**: declare a large catalogue and a built-in retrieval head renders only the top five tools per turn, with the grammar constrained to that subset.\n- **Bounded memory**: a 256-token sliding window with the tools pinned as KV sinks, so total memory stays near 28MB no matter how long the conversation runs.\n\nWeights: [huggingface.co/Cactus-Compute/needle2](https://huggingface.co/Cactus-Compute/needle2) &middot; source: [github.com/cactus-compute/needle](https://github.com/cactus-compute/needle).\n\n![Size-quality frontier: mobile-class and below](assets/frontier.png)\n\n## Simple Attention Network\n\nNeedle 2 is a Simple Attention Network, our dense small-model recipe: a Hadamard MLP in place of the FFN, GQA attention, engram key-value memory, and multi-lane hyper-connections. See the paper for the design and ablations: [arXiv:2607.18363](https://arxiv.org/abs/2607.18363).\n\n![Simple Attention Network architecture](assets/architecture.png)\n\nEach block carries its update rule. Here x̂ is the RMS-normalised flattening of the four residual streams, H the orthonormal Walsh-Hadamard transform (a fixed matrix, applied in n log n time with no weights to read), (kₜ, vₜ) rows gathered from hashed n-gram tables, and P the doubly-stochastic normalisation of the routing logits A, computed by Sinkhorn iteration; a, b, g and all σ-gates are learned and input-dependent. Both attention and MLP residuals are sandwich-normed and gated, the engram sites fire at two layers, and decoding is constrained by a byte-level grammar compiled from the declared schemas.\n\n## Quickstart\n\n```sh\npip install cactus-needle\n```\n\nNeedle reads your tool descriptions to decide what to call and how to fill ",
-  "generatedAt": "2026-08-20T23:47:13.499Z",
+  "generatedAt": "2026-08-25T23:45:49.362Z",
   "analysis": {
     "oneLine": "needle 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "needle 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，needle 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 8,122，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，needle 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 9,167，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

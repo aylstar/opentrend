@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a131882c5d",
+  "slug": "weibo-goodthings-难听",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "goodthings 难听",
+  "summary": "微博热榜第 22 位：goodthings 难听，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23goodthings+%E9%9A%BE%E5%90%AC%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-08-25T23:39:54.994Z",
+  "fetchedAt": "2026-08-25T23:46:28.406Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+  "summary": "1 points · 0 comments",
+  "content": "You'll own Clara's growth engine, supporting our mission by helping more patients discover Clara and turn to it for their day-to-day primary care needs. Landing pages, onboarding funnel, experimentation, attribution, and lifecycle messaging all belong to you. You'll work across the entire funnel - from the first ad impression or search result, through signup and onboarding, into first chat, subscription and long-term retention. You'll write the code, ship the pages, wire the events, run the tests, and read the results yourself. You'll partner closely with our clinical and compliance teams to make sure every page, claim and experiment is medically accurate and HIPAA-safe.\n\nAcquisition and conversion surfaces:\n\nWhat Clara offers founding engineers\n\nGrowth stack: Amplitude (incl. session replay + Experiment), Customer.io , Stripe, Google/Meta/Reddit Ads APIs. Underneath: React 19 + TypeScript product app, Next.js + Payload CMS marketing site on Vercel, Python/Django backend on AWS, and frontier LLMs with proprietary prompts and tool calls.\n\nWe will sponsor TN, OPT and H1B transfer work permits for the right candidate.\n\nClara is an AI-powered medical practice on a bold mission: to add one billion years of healthspan to humanity. We are building the autonomous medical practice of the future, supervised by human medical providers who review and approve every medical decision. Our founders have built and scaled Circle Medical to over $100M in annual revenue, and founding executives have held key roles at Hims and Hers, GoodRx and Teladoc. We are full time in San Francisco and have raised $12M in pre-seed funding from Y Combinator and top investors. This is the A team, and we have a place for you.",
+  "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+  "publishedAt": "2026-08-25T17:28:52.000Z",
+  "points": 1,
+  "id": "hacker-news-5eb682f3",
+  "slug": "hacker-news-5eb682f3",
+  "fetchedAt": "2026-08-25T23:46:00.284Z",
+  "score": 82,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+  "chineseSummary": "1 points · 0 comments",
+  "chineseContent": "You'll own Clara's growth engine, supporting our mission by helping more patients discover Clara and turn to it for their day-to-day primary care needs. Landing pages, onboarding funnel, experimentation, attribution, and lifecycle messaging all belong to you. You'll work across the entire funnel - from the first ad impression or search result, through signup and onboarding, into first chat, subscription and long-term retention. You'll write the code, ship the pages, wire the events, run the tests, and read the results yourself. You'll partner closely with our clinical and compliance teams to make sure every page, claim and experiment is medically accurate and HIPAA-safe.\n\nAcquisition and conversion surfaces:\n\nWhat Clara offers founding engineers\n\nGrowth stack: Amplitude (incl. session replay + Experiment), Customer.io , Stripe, Google/Meta/Reddit Ads APIs. Underneath: React 19 + TypeScript product app, Next.js + Payload CMS marketing site on Vercel, Python/Django backend on AWS, and frontier LLMs with proprietary prompts and tool calls.\n\nWe will sponsor TN, OPT and H1B transfer work permits for the right candidate.\n\nClara is an AI-powered medical practice on a bold mission: to add one billion years of healthspan to humanity. We are building the autonomous medical practice of the future, supervised by human medical providers who review and approve every medical decision. Our founders have built and scaled Circle Medical to over $100M in annual revenue, and founding executives have held key roles at Hims and Hers, GoodRx and Teladoc. We are full time in San Francisco and have raised $12M in pre-seed funding from Y Combinator and top investors. This is the A team, and we have a place for you.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

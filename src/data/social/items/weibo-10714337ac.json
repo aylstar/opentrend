@@ -1,0 +1,21 @@
+{
+  "id": "weibo-10714337ac",
+  "slug": "weibo-苹果m6芯片",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "苹果M6芯片",
+  "summary": "微博热榜第 49 位：苹果M6芯片，当前热度为 6万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CM6%E8%8A%AF%E7%89%87%23",
+  "hotValue": "6万热度",
+  "author": "",
+  "publishedAt": "2026-08-25T23:39:54.994Z",
+  "fetchedAt": "2026-08-25T23:46:28.406Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

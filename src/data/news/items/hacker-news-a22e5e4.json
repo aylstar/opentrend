@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+  "summary": "37 points · 2 comments",
+  "content": "Video: https://www.youtube.com/watch?v=PTD4yvGWgvA",
+  "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+  "publishedAt": "2026-08-25T15:26:45.000Z",
+  "points": 37,
+  "id": "hacker-news-a22e5e4",
+  "slug": "hacker-news-a22e5e4",
+  "fetchedAt": "2026-08-25T23:46:00.284Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 12,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+  "chineseSummary": "37 points · 2 comments",
+  "chineseContent": "Video: https://www.youtube.com/watch?v=PTD4yvGWgvA",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
