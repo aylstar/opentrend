@@ -1,0 +1,21 @@
+{
+  "id": "weibo-989e1cc51c",
+  "slug": "weibo-报案人就是凶手",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "报案人就是凶手",
+  "summary": "微博热榜第 6 位：报案人就是凶手，当前热度为 67万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E6%8A%A5%E6%A1%88%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%87%B6%E6%89%8B",
+  "hotValue": "67万热度",
+  "author": "",
+  "publishedAt": "2026-08-26T05:18:04.752Z",
+  "fetchedAt": "2026-08-26T05:20:04.065Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+  "summary": "50 points · 21 comments",
+  "content": "Note: This is a community fork of adevinta/maiao . The original maintainers are no longer at Adevinta and the upstream repository is no longer actively maintained. This fork continues development under runetes/maiao .\n\nGerrit-style code review workflow for GitHub, GitLab, Gitea, Forgejo, Bitbucket Cloud, and Cursor Origin\n\nMaiao brings the power of stacked pull requests (or merge requests) to your git hosting provider, enabling you to break large features into small, reviewable commits where each commit becomes its own PR/MR.\n\nMaiao provides the git review command that:\n\nMaiao auto-detects the provider from your remote URL for known hosts ( github.com , gitlab.com , codeberg.org , bitbucket.org , origin.cursor.com ). For self-hosted instances, it prompts on first use and saves the choice to git config maiao.provider .\n\nResult : Three PRs/MRs created and stacked:\n\nMaiao treats GitHub native stacks as a progressive enhancement. When two or more PRs are pushed, Maiao probes the Stacks API (cached for 24 hours) and registers the PRs as a stack if supported. On older GitHub Enterprise instances the feature is silently skipped — branch-based stacking still works as before.\n\nMaiao implements the stacked diffs methodology. Learn more:\n\nAs Maiao encourages users to create smaller and nicer commits in their pull requests, it has been given the name of a tiny island:\n\nContributions are welcome! See CONTRIBUTING.md for details.\n\nMIT License - see DISCLAIMER.md for details.",
+  "url": "https://github.com/runetes/maiao",
+  "publishedAt": "2026-08-25T22:40:07.000Z",
+  "points": 50,
+  "id": "hacker-news-74e3b33a",
+  "slug": "hacker-news-74e3b33a",
+  "fetchedAt": "2026-08-26T05:19:11.871Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+  "chineseSummary": "50 points · 21 comments",
+  "chineseContent": "Note: This is a community fork of adevinta/maiao . The original maintainers are no longer at Adevinta and the upstream repository is no longer actively maintained. This fork continues development under runetes/maiao .\n\nGerrit-style code review workflow for GitHub, GitLab, Gitea, Forgejo, Bitbucket Cloud, and Cursor Origin\n\nMaiao brings the power of stacked pull requests (or merge requests) to your git hosting provider, enabling you to break large features into small, reviewable commits where each commit becomes its own PR/MR.\n\nMaiao provides the git review command that:\n\nMaiao auto-detects the provider from your remote URL for known hosts ( github.com , gitlab.com , codeberg.org , bitbucket.org , origin.cursor.com ). For self-hosted instances, it prompts on first use and saves the choice to git config maiao.provider .\n\nResult : Three PRs/MRs created and stacked:\n\nMaiao treats GitHub native stacks as a progressive enhancement. When two or more PRs are pushed, Maiao probes the Stacks API (cached for 24 hours) and registers the PRs as a stack if supported. On older GitHub Enterprise instances the feature is silently skipped — branch-based stacking still works as before.\n\nMaiao implements the stacked diffs methodology. Learn more:\n\nAs Maiao encourages users to create smaller and nicer commits in their pull requests, it has been given the name of a tiny island:\n\nContributions are welcome! See CONTRIBUTING.md for details.\n\nMIT License - see DISCLAIMER.md for details.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

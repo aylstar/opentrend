@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c66f06dfa8",
+  "slug": "weibo-电视剧醒来开播",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "电视剧醒来开播",
+  "summary": "微博热榜第 48 位：电视剧醒来开播，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%86%92%E6%9D%A5%E5%BC%80%E6%92%AD",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-26T05:18:04.752Z",
+  "fetchedAt": "2026-08-26T05:20:04.065Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8deb95a84f",
+  "slug": "weibo-wtt中国大满贯票价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "WTT中国大满贯票价",
+  "summary": "微博热榜第 47 位：WTT中国大满贯票价，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%A5%A8%E4%BB%B7",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-26T05:18:04.752Z",
+  "fetchedAt": "2026-08-26T05:20:04.065Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

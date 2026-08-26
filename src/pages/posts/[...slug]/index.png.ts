@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { fontData, experimental_getFontFileURL } from "astro:assets";
+import { readFile } from "node:fs/promises";
 import satori from "satori";
 import sharp from "sharp";
 import { getFontPathByWeight } from "@/utils/getFontPathByWeight";
@@ -24,27 +25,53 @@ export async function getStaticPaths() {
   }));
 }
 
+async function loadFontFromSystem() {
+  const candidates = [
+    "/System/Library/Fonts/Supplemental/Arial.ttf",
+    "/System/Library/Fonts/Supplemental/Verdana.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
+  ];
+
+  for (const file of candidates) {
+    try {
+      return await readFile(file);
+    } catch {
+      // Try the next platform-specific fallback.
+    }
+  }
+
+  return null;
+}
+
+async function loadAstroFont(path: string | undefined, url: URL) {
+  if (!path) return null;
+  try {
+    return await fetch(experimental_getFontFileURL(path, url)).then(res =>
+      res.arrayBuffer()
+    );
+  } catch {
+    return null;
+  }
+}
+
 export const GET: APIRoute = async ({ props, url }) => {
   if (!config.features.dynamicOgImage) {
     return new Response(null, { status: 404, statusText: "Not found" });
   }
 
-  const fonts = fontData["--font-google-sans-code"];
+  const fonts = fontData["--font-google-sans-code"] ?? [];
   const regularFontPath = getFontPathByWeight(fonts, 400);
   const boldFontPath = getFontPathByWeight(fonts, 700);
 
-  if (regularFontPath === undefined || boldFontPath === undefined) {
-    throw new Error("Cannot find the font path.");
-  }
-
+  const systemFont = await loadFontFromSystem();
   const [regularData, boldData] = await Promise.all([
-    fetch(experimental_getFontFileURL(regularFontPath, url)).then(res =>
-      res.arrayBuffer()
-    ),
-    fetch(experimental_getFontFileURL(boldFontPath, url)).then(res =>
-      res.arrayBuffer()
-    ),
+    loadAstroFont(regularFontPath, url),
+    loadAstroFont(boldFontPath, url),
   ]);
+  const fallbackData = regularData ?? boldData ?? systemFont;
+
+  if (!fallbackData) return new Response(null, { status: 204 });
 
   const svg = await satori(
     {
@@ -176,13 +203,13 @@ export const GET: APIRoute = async ({ props, url }) => {
       fonts: [
         {
           name: "Google Sans Code",
-          data: regularData,
+          data: regularData ?? fallbackData,
           weight: 400,
           style: "normal",
         },
         {
           name: "Google Sans Code",
-          data: boldData,
+          data: boldData ?? fallbackData,
           weight: 700,
           style: "normal",
         },

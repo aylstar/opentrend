@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4f77027288",
+  "slug": "weibo-好雨知时节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 29,
+  "title": "好雨知时节",
+  "summary": "微博热榜第 29 位：好雨知时节，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E9%9B%A8%E7%9F%A5%E6%97%B6%E8%8A%82",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-08-26T05:18:04.752Z",
+  "fetchedAt": "2026-08-26T05:20:04.065Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

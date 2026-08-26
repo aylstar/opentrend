@@ -1,0 +1,21 @@
+{
+  "id": "weibo-360e6929fa",
+  "slug": "weibo-复仇者联盟5",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "复仇者联盟5",
+  "summary": "微博热榜第 27 位：复仇者联盟5，当前热度为 37万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5",
+  "hotValue": "37万热度",
+  "author": "",
+  "publishedAt": "2026-08-26T05:18:04.752Z",
+  "fetchedAt": "2026-08-26T05:20:04.065Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

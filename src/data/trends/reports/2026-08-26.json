@@ -3,7 +3,7 @@
   "date": "2026-08-26",
   "title": "2026年08月26日 GitHub 趋势项目报告",
   "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
-  "generatedAt": "2026-08-25T23:45:49.364Z",
+  "generatedAt": "2026-08-26T05:18:44.452Z",
   "stats": {
     "totalProjects": 18,
     "weeklyProjects": 10,
@@ -14,7 +14,7 @@
     "recommended": [
       "volcengine__openviking",
       "block__buzz",
-      "harry0703__moneyprinterturbo"
+      "akitaonrails__ai-memory"
     ],
     "weekly": [
       "modular__modular",
@@ -26,7 +26,7 @@
       "volcengine__openviking",
       "freestylefly__awesome-gpt-image-2",
       "openai__codex",
-      "jundot__omlx"
+      "akitaonrails__ai-memory"
     ],
     "monthly": [
       "basecamp__omarchy",
@@ -79,7 +79,7 @@
     "volcengine__openviking",
     "freestylefly__awesome-gpt-image-2",
     "openai__codex",
-    "jundot__omlx",
+    "akitaonrails__ai-memory",
     "tencentcloud__tencentdb-agent-memory",
     "block__buzz",
     "zhaoxuya520__reverse-skill",

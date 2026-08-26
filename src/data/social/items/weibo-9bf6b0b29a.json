@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9bf6b0b29a",
+  "slug": "weibo-国自然",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "国自然",
+  "summary": "微博热榜第 41 位：国自然，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%87%AA%E7%84%B6",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-08-26T05:18:04.752Z",
+  "fetchedAt": "2026-08-26T05:20:04.065Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
