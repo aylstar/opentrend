@@ -1,0 +1,21 @@
+{
+  "id": "weibo-64cc8e3e54",
+  "slug": "weibo-空枪-低成本",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "空枪 低成本",
+  "summary": "微博热榜第 16 位：空枪 低成本，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%9E%AA+%E4%BD%8E%E6%88%90%E6%9C%AC%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-08-27T04:36:00.926Z",
+  "fetchedAt": "2026-08-27T04:36:35.779Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

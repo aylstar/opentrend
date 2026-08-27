@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c3e91c4838",
+  "slug": "weibo-ai短剧-抄袭",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "AI短剧 抄袭",
+  "summary": "微博热榜第 5 位：AI短剧 抄袭，当前热度为 79万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7+%E6%8A%84%E8%A2%AD%23",
+  "hotValue": "79万热度",
+  "author": "",
+  "publishedAt": "2026-08-27T04:36:00.926Z",
+  "fetchedAt": "2026-08-27T04:36:35.779Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

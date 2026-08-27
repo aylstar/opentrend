@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7eef87db50",
+  "slug": "weibo-苹果发布会定档",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "苹果发布会定档",
+  "summary": "微博热榜第 36 位：苹果发布会定档，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-08-27T04:36:00.926Z",
+  "fetchedAt": "2026-08-27T04:36:35.779Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

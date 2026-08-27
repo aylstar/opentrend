@@ -8,16 +8,15 @@
   "language": "Python",
   "githubUrl": "https://github.com/volcengine/OpenViking",
   "docsUrl": "https://openviking.ai/",
-  "stars": 33356,
-  "forks": 2540,
-  "openIssues": 513,
+  "stars": 33639,
+  "forks": 2561,
+  "openIssues": 520,
   "license": "AGPL-3.0",
-  "pushedAt": "2026-08-26T04:57:47Z",
-  "updatedAt": "2026-08-26T05:16:03Z",
+  "pushedAt": "2026-08-27T04:18:23Z",
+  "updatedAt": "2026-08-27T04:20:08Z",
   "createdAt": "2026-01-05T07:11:17Z",
   "archived": false,
   "trendWindows": [
-    "weekly",
     "monthly"
   ],
   "tags": [
@@ -33,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<div align=\"center\">\n\n<a href=\"https://openviking.ai/\" target=\"_blank\">\n  <picture>\n    <img alt=\"OpenViking\" src=\"docs/images/ov-logo.png\" width=\"200px\" height=\"auto\">\n  </picture>\n</a>\n\n### OpenViking: The Context Database for AI Agents\n\nEnglish / [中文](README_CN.md) / [日本語](README_JA.md)\n\n<a href=\"https://www.openviking.ai\">Website</a> · <a href=\"https://openviking.ai/studio\">Live Demo</a> · <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> · <a href=\"https://github.com/volcengine/OpenViking/issues\">Issues</a> · <a href=\"https://docs.openviking.ai/\">Docs</a>\n\n[![](https://img.shields.io/github/v/release/volcengine/OpenViking?color=369eff\\&labelColor=black\\&logo=github\\&style=flat-square)](https://github.com/volcengine/OpenViking/releases)\n[![](https://img.shields.io/github/stars/volcengine/OpenViking?labelColor\\&style=flat-square\\&color=ffcb47)](https://github.com/volcengine/OpenViking)\n[![](https://img.shields.io/github/issues/volcengine/OpenViking?labelColor=black\\&style=flat-square\\&color=ff80eb)](https://github.com/volcengine/OpenViking/issues)\n[![](https://img.shields.io/github/contributors/volcengine/OpenViking?color=c4f042\\&labelColor=black\\&style=flat-square)](https://github.com/volcengine/OpenViking/graphs/contributors)\n[![](https://img.shields.io/badge/license-AGPLv3-white?labelColor=black\\&style=flat-square)](https://github.com/volcengine/OpenViking/blob/main/LICENSE)\n[![](https://img.shields.io/github/last-commit/volcengine/OpenViking?color=c4f042\\&labelColor=black\\&style=flat-square)](https://github.com/volcengine/OpenViking/commits/main)\n\n👋 Join our Community\n\n📱 <a href=\"https://docs.openviking.ai/en/about/01-about-us#lark-group\">Lark Group</a> · <a href=\"https://docs.openviking.ai/en/about/01-about-us#wechat-group\">WeChat</a> · <a href=\"https://discord.com/invite/eHvx8E9XF3\">Discord</a> · <a href=\"https://x.com/openvikingai\">X</a>\n\n<a href=\"https://trendshift.io/repositories/19668\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/19668\" alt=\"volcengine%2FOpenViking | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n</div>\n\n***\n\n## What is OpenViking\n\nOpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual filesystem under the `viking://` protocol, so an agent browses its own context with `ls`, `tree`, and `find` instead of querying a black-box vector store. Content is processed into three tiers — L0 abstract, L1 overview, L2 details — and loaded on demand. Every retrieval leaves a trajectory you can watch and debug. Full introduction: [Getting started](https://docs.openviking.ai/en/getting-started/01-introduction).\n\n[![OpenViking Studio playground](docs/images/studio-playground.png)](https://openviking.ai/studio)\n\n*The [OpenViking Studio](https://openviking.ai/studio) playground — a live demo you can open in the browser, no installation required.*\n\n## Why OpenViking\n\n- **One filesystem for all context.**",
-  "generatedAt": "2026-08-26T05:18:34.771Z",
+  "generatedAt": "2026-08-27T04:35:56.393Z",
   "analysis": {
     "oneLine": "OpenViking 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "OpenViking 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，OpenViking 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 33,356，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，OpenViking 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 33,639，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

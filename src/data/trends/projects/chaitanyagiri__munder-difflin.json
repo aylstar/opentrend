@@ -1,0 +1,74 @@
+{
+  "slug": "chaitanyagiri__munder-difflin",
+  "owner": "chaitanyagiri",
+  "repo": "munder-difflin",
+  "name": "munder-difflin",
+  "fullName": "chaitanyagiri/munder-difflin",
+  "description": "local multi-agent harness",
+  "language": "JavaScript",
+  "githubUrl": "https://github.com/chaitanyagiri/munder-difflin",
+  "docsUrl": "https://munderdiffl.in",
+  "stars": 4873,
+  "forks": 588,
+  "openIssues": 97,
+  "license": "NOASSERTION",
+  "pushedAt": "2026-08-27T02:51:50Z",
+  "updatedAt": "2026-08-27T04:31:19Z",
+  "createdAt": "2026-05-31T15:25:05Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "<div align=\"center\">\n\n<img src=\"./docs/logo.png\" alt=\"Munder Difflin — agent harness to run an office of your clones\" width=\"340\">\n\n# Munder Difflin\n\n### Agent harness to run an office of your clones\n\n**Free, open source and performant** — a multi-agent harness that works with the\nsubscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI\nyou already run into a clone of you, one that keeps working while you're away and\ncoordinates a whole office of agents on your own machine.\n\nWraps [Claude Code](https://claude.com/claude-code), Antigravity (Gemini), OpenAI Codex,\n**xAI Grok**, **Kimi Code**, **Gemini CLI**, **Qwen**, **OpenCode**, **Crush**,\n**pi.dev**, **GitHub Copilot CLI**, and **Cursor** — with bring-your-own keys and local LLMs.\nAgents that message, route, and remember, coordinated by **your clone** (Michael) and\nvisualized as avatars at work on a shared office floor.\n\n<p>\n  <em>Electron · React · TypeScript · Pixi.js · xterm.js · node-pty</em>\n</p>\n\n<p>\n  <a href=\"./LICENSE\"><img alt=\"License: MIT\" src=\"https://img.shields.io/badge/license-MIT-F4D35E.svg?style=flat-square&labelColor=6E1423\"></a>\n  <a href=\"./CHANGELOG.md\"><img alt=\"Version: 0.4.6\" src=\"https://img.shields.io/badge/version-0.4.6-F4D35E.svg?style=flat-square&labelColor=6E1423\"></a>\n  <img alt=\"Status: prototype\" src=\"https://img.shields.io/badge/status-working%20prototype-F4F1EA.svg?style=flat-square&labelColor=6E1423\">\n  <img alt=\"Platform: macOS | Windows | Linux\" src=\"https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-F4F1EA.svg?style=flat-square&labelColor=6E1423\">\n  <a href=\"./CONTRIBUTING.md\"><img alt=\"PRs welcome\" src=\"https://img.shields.io/badge/PRs-welcome-F4D35E.svg?style=flat-square&labelColor=6E1423\"></a>\n  <a href=\"https://discord.gg/SEDzP5ZPk5\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-join%20the%20office-F4D35E.svg?style=flat-square&labelColor=6E1423\"></a>\n</p>\n\n<br>\n\n<img src=\"./docs/media/og.png\" alt=\"Munder Difflin — A hive of agents that message, route, and remember\" width=\"1240\">\n\n<br>\n\n<!-- Inline player renders on github.com (raw URL required; relative paths only link). -->\n<video src=\"https://github.com/chaitanyagiri/munder-difflin/raw/main/docs/media/hero.mp4\" poster=\"https://github.com/chaitanyagiri/munder-difflin/raw/main/docs/media/og.png\" controls muted loop playsinline width=\"820\">\n  <a href=\"https://github.com/chaitanyagiri/munder-difflin/raw/main/docs/media/hero.mp4\">▶ Watch the floor — Munder Difflin running a hive of Claude Code agents</a>\n</video>\n\n</div>\n\n---\n\n> [!NOTE]\n> **The world's best agents. The world's worst paper company.**\n> Munder Difflin takes the terminal-agent CLIs you already run — `claude`, `agy`, `codex`, `grok`,\n> `kimi`, `qwen`, `opencode`, `crush`, `pi`, and `copilot` — and turns them\n> into a self-coordinating team: each agent gets long-term memory, a mailbox, and a desk on a 2D\n> office floor — and **your clone** (Michael) routes work between t",
+  "generatedAt": "2026-08-27T04:35:53.252Z",
+  "analysis": {
+    "oneLine": "munder-difflin 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
+    "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
+    "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
+    "detailParagraphs": [
+      "munder-difflin 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
+      "如果把它放进实际使用场景，munder-difflin 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 4,873，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "客服 Agent 长期上下文",
+      "个人 AI 助手记忆层",
+      "企业知识工作流状态管理",
+      "Agent 框架二次开发"
+    ],
+    "interpretation": "munder-difflin 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 JavaScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/chaitanyagiri/munder-difflin.git\nnpm install        # postinstall rebuilds node-pty against Electron's ABI\nnpm run dev        # launches the Electron app with hot reload\nnpm run build      # production build via electron-vite\nnpm run preview    # preview the production build",
+    "deployment": "需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在为智能体应用提供上下文记忆、长期状态和可复用会话能力，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 JavaScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。",
+    "recommendation": 2.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-08-27T04:35:53.253Z"
+}

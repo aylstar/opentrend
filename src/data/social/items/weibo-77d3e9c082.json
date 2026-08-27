@@ -1,0 +1,21 @@
+{
+  "id": "weibo-77d3e9c082",
+  "slug": "weibo-吴青峰长文",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "吴青峰长文",
+  "summary": "微博热榜第 49 位：吴青峰长文，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E9%95%BF%E6%96%87%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-08-27T04:36:00.926Z",
+  "fetchedAt": "2026-08-27T04:36:35.779Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
