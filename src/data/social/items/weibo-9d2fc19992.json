@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9d2fc19992",
+  "slug": "weibo-jennie新歌mv",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "Jennie新歌MV",
+  "summary": "微博热榜第 25 位：Jennie新歌MV，当前热度为 46万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8CMV%23",
+  "hotValue": "46万热度",
+  "author": "",
+  "publishedAt": "2026-08-28T06:55:31.442Z",
+  "fetchedAt": "2026-08-28T06:59:30.326Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

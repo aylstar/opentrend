@@ -1,0 +1,21 @@
+{
+  "id": "weibo-99b0483554",
+  "slug": "weibo-披哥一公个人喜爱度排名",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "披哥一公个人喜爱度排名",
+  "summary": "微博热榜第 20 位：披哥一公个人喜爱度排名，当前热度为 47万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E5%93%A5%E4%B8%80%E5%85%AC%E4%B8%AA%E4%BA%BA%E5%96%9C%E7%88%B1%E5%BA%A6%E6%8E%92%E5%90%8D%23",
+  "hotValue": "47万热度",
+  "author": "",
+  "publishedAt": "2026-08-28T06:55:31.442Z",
+  "fetchedAt": "2026-08-28T06:59:30.326Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

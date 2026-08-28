@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5ff135f85e",
+  "slug": "weibo-微博签约首位电竞选手",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "微博签约首位电竞选手",
+  "summary": "微博热榜第 37 位：微博签约首位电竞选手，当前热度为 43万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%AD%BE%E7%BA%A6%E9%A6%96%E4%BD%8D%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23",
+  "hotValue": "43万热度",
+  "author": "",
+  "publishedAt": "2026-08-28T06:55:31.442Z",
+  "fetchedAt": "2026-08-28T06:59:30.326Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

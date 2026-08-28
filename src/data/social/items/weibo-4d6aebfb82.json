@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4d6aebfb82",
+  "slug": "weibo-早春晴朗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "早春晴朗",
+  "summary": "微博热榜第 5 位：早春晴朗，当前热度为 62万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23",
+  "hotValue": "62万热度",
+  "author": "",
+  "publishedAt": "2026-08-28T06:55:31.442Z",
+  "fetchedAt": "2026-08-28T06:59:30.326Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

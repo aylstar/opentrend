@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8cc925920f",
+  "slug": "weibo-西藏吉隆泥石流",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "西藏吉隆泥石流",
+  "summary": "微博热榜第 30 位：西藏吉隆泥石流，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-08-28T06:55:31.442Z",
+  "fetchedAt": "2026-08-28T06:59:30.326Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

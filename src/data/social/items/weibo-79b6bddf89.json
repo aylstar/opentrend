@@ -1,0 +1,21 @@
+{
+  "id": "weibo-79b6bddf89",
+  "slug": "weibo-四川地震",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "四川地震",
+  "summary": "微博热榜第 2 位：四川地震，当前热度为 79万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%23",
+  "hotValue": "79万热度",
+  "author": "",
+  "publishedAt": "2026-08-28T06:55:31.442Z",
+  "fetchedAt": "2026-08-28T06:59:30.326Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

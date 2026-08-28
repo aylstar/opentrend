@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+  "summary": "87 points · 9 comments",
+  "content": "Learn the applied-LLM stack the way you'll actually be interviewed on it: framework-free, on a free API, from prompting all the way to serving, fine-tuning, and a red-team benchmark.\n\nRunnable Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set. You build working systems on top of foundation models (model APIs, RAG, evals, agents, adaptation, serving) using raw APIs, not frameworks.\n\nBuilt as the hands-on companion to Plan: Transitioning to Forward Deployed Engineer / AI Engineer . The plan explains what to learn and why; these notebooks are where you run it.\n\nBackend or full-stack engineers moving into AI Engineer, FDE, Applied AI, or Solutions Engineer (AI) roles. Different titles, largely the same job. You can ship production code; you want the applied-model layer on top.\n\nWork top to bottom. Each notebook is self-contained (installs its own dependencies, reads API keys from Colab secrets) and ends with exercises.\n\n09 — Serving & inference performance\n\nWhere the free Groq API can't run the topic (these frameworks need a GPU), the notebook teaches it concept-first and fences an optional Colab-GPU appendix, the same pattern as the section-06 LoRA appendix.\n\n10 — ML system design & performance\n\n11 — Customer craft (the FDE differentiator)\n\nWhere the skills come together into projects. First a case study (one realistic scenario worked end to end, runnable), then the capstone : the deployed repo you build yourself. ( Section overview .)\n\nCapstone: the brief for the deployed project that goes on your resume, a real repo with a serving component and an eval report. Case studies are for learning; the capstone is for hiring.\n\nRunning locally instead: pip install -r requirements.txt && pip install -e . (the second installs the aien setup helper), export GROQ_API_KEY=... , open with Jupyter.",
+  "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+  "publishedAt": "2026-08-27T21:46:39.000Z",
+  "points": 87,
+  "id": "hacker-news-2cd6241d",
+  "slug": "hacker-news-2cd6241d",
+  "fetchedAt": "2026-08-28T06:59:01.481Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+  "chineseSummary": "87 points · 9 comments",
+  "chineseContent": "Learn the applied-LLM stack the way you'll actually be interviewed on it: framework-free, on a free API, from prompting all the way to serving, fine-tuning, and a red-team benchmark.\n\nRunnable Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set. You build working systems on top of foundation models (model APIs, RAG, evals, agents, adaptation, serving) using raw APIs, not frameworks.\n\nBuilt as the hands-on companion to Plan: Transitioning to Forward Deployed Engineer / AI Engineer . The plan explains what to learn and why; these notebooks are where you run it.\n\nBackend or full-stack engineers moving into AI Engineer, FDE, Applied AI, or Solutions Engineer (AI) roles. Different titles, largely the same job. You can ship production code; you want the applied-model layer on top.\n\nWork top to bottom. Each notebook is self-contained (installs its own dependencies, reads API keys from Colab secrets) and ends with exercises.\n\n09 — Serving & inference performance\n\nWhere the free Groq API can't run the topic (these frameworks need a GPU), the notebook teaches it concept-first and fences an optional Colab-GPU appendix, the same pattern as the section-06 LoRA appendix.\n\n10 — ML system design & performance\n\n11 — Customer craft (the FDE differentiator)\n\nWhere the skills come together into projects. First a case study (one realistic scenario worked end to end, runnable), then the capstone : the deployed repo you build yourself. ( Section overview .)\n\nCapstone: the brief for the deployed project that goes on your resume, a real repo with a serving component and an eval report. Case studies are for learning; the capstone is for hiring.\n\nRunning locally instead: pip install -r requirements.txt && pip install -e . (the second installs the aien setup helper), export GROQ_API_KEY=... , open with Jupyter.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
