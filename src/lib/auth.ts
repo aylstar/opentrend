@@ -11,9 +11,27 @@ export type AccessPass = {
   deviceLimit: number;
 };
 
-const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
+const rawSupabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
 const supabaseServiceRoleKey = import.meta.env.SUPABASE_SERVICE_ROLE_KEY;
 const adminToken = import.meta.env.ADMIN_TOKEN;
+
+function normalizeSupabaseUrl(value?: string) {
+  const trimmed = String(value ?? "").trim();
+  if (!trimmed) return "";
+
+  try {
+    const url = new URL(trimmed);
+    if (url.hostname.endsWith(".supabase.co")) {
+      return url.origin;
+    }
+  } catch {
+    return trimmed.replace(/\/rest\/v1\/?$/i, "").replace(/\/+$/, "");
+  }
+
+  return trimmed.replace(/\/rest\/v1\/?$/i, "").replace(/\/+$/, "");
+}
+
+const supabaseUrl = normalizeSupabaseUrl(rawSupabaseUrl);
 
 export const accessCodeCookie = "tr_access_code";
 export const deviceCookie = "tr_device_id";
