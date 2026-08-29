@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Verschlimmbesserung: The Word Your Software Updates Need",
+  "summary": "113 points · 73 comments",
+  "content": "The German language has a word for what your last software update did.\n\nIt is called Verschlimmbesserung : an attempted improvement that only makes things worse.\n\nWe have all lived through the SaaS update that moved a button, renamed a menu, and broke a workflow we relied on daily. Some product team shipped a &ldquo;better experience&rdquo; that solved a problem nobody had.\n\nEliyahu Goldratt nailed the root cause decades ago:\n\n&ldquo;Tell me how you measure me, and I will tell you how I will behave. If you measure me in an illogical way… do not complain about illogical behaviour…&rdquo;\n\nWhen point releases become more important than the product itself, you are incentivising Verschlimmbesserung. Your engineering teams are not failing. They are optimising for the metrics you gave them.\n\nHow you measure and incentivise your teams tells them exactly what you value. If the metric rewards churn, you get churn. If the metric rewards shipping, you get shipping; whether it improves anything or not.\n\nIs new always better? Probably not. Office 2003 is still incredibly useful because nobody forced it to constantly reinvent itself.\n\nStability is a feature. Knowing when not to ship is an engineering discipline.\n\nThe Germans built a word for it. Perhaps we should start using it.",
+  "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+  "publishedAt": "2026-08-28T14:30:33.000Z",
+  "points": 113,
+  "id": "hacker-news-462bc71a",
+  "slug": "hacker-news-462bc71a",
+  "fetchedAt": "2026-08-29T04:14:13.029Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Verschlimmbesserung: The Word Your Software Updates Need",
+  "chineseSummary": "113 points · 73 comments",
+  "chineseContent": "The German language has a word for what your last software update did.\n\nIt is called Verschlimmbesserung : an attempted improvement that only makes things worse.\n\nWe have all lived through the SaaS update that moved a button, renamed a menu, and broke a workflow we relied on daily. Some product team shipped a &ldquo;better experience&rdquo; that solved a problem nobody had.\n\nEliyahu Goldratt nailed the root cause decades ago:\n\n&ldquo;Tell me how you measure me, and I will tell you how I will behave. If you measure me in an illogical way… do not complain about illogical behaviour…&rdquo;\n\nWhen point releases become more important than the product itself, you are incentivising Verschlimmbesserung. Your engineering teams are not failing. They are optimising for the metrics you gave them.\n\nHow you measure and incentivise your teams tells them exactly what you value. If the metric rewards churn, you get churn. If the metric rewards shipping, you get shipping; whether it improves anything or not.\n\nIs new always better? Probably not. Office 2003 is still incredibly useful because nobody forced it to constantly reinvent itself.\n\nStability is a feature. Knowing when not to ship is an engineering discipline.\n\nThe Germans built a word for it. Perhaps we should start using it.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

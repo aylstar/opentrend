@@ -1,0 +1,21 @@
+{
+  "id": "weibo-918d26112a",
+  "slug": "weibo-c罗第978球",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "C罗第978球",
+  "summary": "微博热榜第 49 位：C罗第978球，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%AC%AC978%E7%90%83%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-08-29T04:12:07.548Z",
+  "fetchedAt": "2026-08-29T04:14:41.991Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

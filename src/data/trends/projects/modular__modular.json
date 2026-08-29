@@ -8,12 +8,12 @@
   "language": "Mojo",
   "githubUrl": "https://github.com/modular/modular",
   "docsUrl": "https://docs.modular.com/",
-  "stars": 29268,
-  "forks": 3116,
+  "stars": 29311,
+  "forks": 3121,
   "openIssues": 1125,
   "license": "NOASSERTION",
-  "pushedAt": "2026-08-27T20:53:48Z",
-  "updatedAt": "2026-08-28T05:58:58Z",
+  "pushedAt": "2026-08-28T09:02:51Z",
+  "updatedAt": "2026-08-29T04:08:05Z",
   "createdAt": "2023-04-28T22:17:24Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "<!-- rumdl-disable-file MD033 MD041 MD075 -->\n\n<div align=\"center\">\n    <img src=\"https://modular-assets.s3.us-east-1.amazonaws.com/images/modular-banner-github.png\">\n\n[About Modular] | [MAX docs] | [Mojo docs] | [Contributing]\n\n</div>\n\n---\n\n# Modular Platform\n\nThis repo hosts open-source components of the Modular Platform,\na unified platform for AI development and deployment,\nincluding the **MAX Framework**🧑‍🚀 and the **Mojo Language**🔥.\n\n## Get started\n\nTo get started with the Modular Platform and serve a model using the MAX\nframework, see\n[the MAX quickstart guide](https://max.modular.com/get-started).\n\nTo get started with the Mojo language, see\n[the Mojo quickstart guide](https://mojolang.org/docs/manual/quickstart/).\n\n## About the repo\n\nWe're constantly open-sourcing more of the Modular Platform and you can find\nall of it in here.\n\nThe main components include:\n\n- Mojo compiler: [/KGEN](KGEN)\n- Mojo standard library: [/mojo/stdlib](mojo/stdlib)\n- MAX accelerator library: [/max/kernels](/max/kernels)\n- MAX inference server: [/max/python/max/serve](/max/python/max/serve)\n  (OpenAI-compatible endpoint)\n- MAX model pipelines: [/max/python/max/pipelines](/max/python/max/pipelines)\n  (Python-based graphs)\n- Code examples: [/max/examples](/max/examples) +\n  [/mojo/examples](mojo/examples)\n\n## Contribute\n\nWe accept contributions to the [Mojo standard library](./mojo), [MAX\naccelerator library](./max/kernels), [MAX model\narchitectures](/max/python/max/pipelines/architectures), code examples, Mojo\ndocs, and more. We aren't accepting contributions to the Mojo compiler yet.\n\nFirst, please read the [Contribution Guide](./CONTRIBUTING.md), and then refer\nto the following documentation about how to develop in the repo:\n\n- [`/max/docs`](/max/docs): Docs for developers working in the MAX framework\n  codebase.\n- [`/mojo/stdlib/docs`](/mojo/stdlib/docs): Docs for developers working in the\n  Mojo standard library.\n\nWe also welcome your bug reports. If you have a bug, please [file an issue\nhere](https://github.com/modular/modular/issues/new/choose).\n\n## License\n\nThis repository and its contributions are licensed under the Apache License v2.0\nwith LLVM Exceptions. See [LICENSE](LICENSE).\n\nMAX usage and distribution are licensed under the\n[Modular Community License](https://www.modular.com/legal/community).\n\n### Third party licenses\n\nYou are entirely responsible for checking and validating the licenses of third\nparties (for example, Hugging Face) for related software and libraries that are\ndownloaded.\n\n## Community & Events\n\nGet help from community members, tune in for a community meeting, or join a\nlocal meetup.\n\n| Channel               | Link                                            |\n|-----------------------|-------------------------------------------------|\n| 💬 Discord            | [discord.gg/modular][discord]                   |\n| 💬 Forum              | [forum.modular.com][forum]                      |\n| 📅 Meetup Group       | [meetup.com/modular-meet",
-  "generatedAt": "2026-08-28T06:58:46.669Z",
+  "generatedAt": "2026-08-29T04:14:00.008Z",
   "analysis": {
     "oneLine": "modular 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "modular 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，modular 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 29,268，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Mojo 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，modular 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 29,311，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Mojo 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6900291167",
+  "slug": "weibo-灿如繁星",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "灿如繁星",
+  "summary": "微博热榜第 41 位：灿如繁星，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-08-29T04:12:07.548Z",
+  "fetchedAt": "2026-08-29T04:14:41.991Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
