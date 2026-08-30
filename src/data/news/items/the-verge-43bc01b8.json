@@ -8,14 +8,14 @@
   "id": "the-verge-43bc01b8",
   "slug": "the-verge-43bc01b8",
   "content": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google’s results page; instead of seeing part of an AI Overview with a “Show more” button you can click, you’ll Google will show a full AI Overview at the top of your search, an “Ask anything” box under that, and then the list of links. It can lead to a lot of scrolling. It’s unclear exactly what Google’s criteria is for the auto-expanding AI Overviews. Before writing this story, I was seeing them with most of my test searches. But now, AI Overviews usually just show the initial part of the response and the “Show more” button. My most consistent query to get the auto-expanding AI Overview is “what is the best game on switch 2”, but even that hasn’t been consistent across searches and browsers. “For some queries, AI Overviews may dynamically expand for topics where our systems determine it’s most useful for people,” Google spokesperson Jennifer Kutz says in a statement to The Verge. “Our research has shown that with this dynamic experience, users find Search more helpful and engage deeper in follow-up exploration.” Kutz also says that “If users have already begun scrolling to view content below the AI Overview, we cancel expansion so that the user doesn’t lose their reading position.”",
-  "fetchedAt": "2026-08-29T04:14:13.030Z",
-  "score": 72,
+  "fetchedAt": "2026-08-30T01:23:19.959Z",
+  "score": 66,
   "sourceWeight": 80,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 14,
+  "rank": 20,
   "contentStatus": "article-extracted",
   "chineseTitle": "Google further buries search results under AI mode",
   "chineseSummary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with […]",

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3a7865eb68",
+  "slug": "weibo-是我妈在发帖吗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "是我妈在发帖吗",
+  "summary": "微博热榜第 39 位：是我妈在发帖吗，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%88%91%E5%A6%88%E5%9C%A8%E5%8F%91%E5%B8%96%E5%90%97%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-08-30T01:15:21.970Z",
+  "fetchedAt": "2026-08-30T01:23:49.703Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
