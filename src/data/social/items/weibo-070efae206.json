@@ -1,0 +1,21 @@
+{
+  "id": "weibo-070efae206",
+  "slug": "weibo-开学",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "开学",
+  "summary": "微博热榜第 16 位：开学，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-08-31T01:20:02.048Z",
+  "fetchedAt": "2026-08-31T01:26:15.227Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

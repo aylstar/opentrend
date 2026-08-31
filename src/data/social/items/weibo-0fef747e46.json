@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0fef747e46",
+  "slug": "weibo-皇马4比0马拉加",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "皇马4比0马拉加",
+  "summary": "微博热榜第 47 位：皇马4比0马拉加，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC4%E6%AF%940%E9%A9%AC%E6%8B%89%E5%8A%A0%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-08-31T01:20:02.048Z",
+  "fetchedAt": "2026-08-31T01:26:15.227Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

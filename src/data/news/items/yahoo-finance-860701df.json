@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
+  "summary": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+  "url": "https://finance.yahoo.com/m/f2abac1b-c525-31ba-9e2e-f1bf9ebaa4ae/stock-futures-drift-lower%2C.html?.tsrc=rss",
+  "publishedAt": "2026-08-30T22:13:00.000Z",
+  "id": "yahoo-finance-860701df",
+  "slug": "yahoo-finance-860701df",
+  "content": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+  "fetchedAt": "2026-08-31T01:25:46.642Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
+  "chineseSummary": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+  "chineseContent": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

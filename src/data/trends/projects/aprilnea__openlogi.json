@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/AprilNEA/OpenLogi",
   "docsUrl": "https://openlogi.org",
-  "stars": 17658,
-  "forks": 511,
-  "openIssues": 373,
+  "stars": 17906,
+  "forks": 522,
+  "openIssues": 390,
   "license": "Apache-2.0",
-  "pushedAt": "2026-08-29T17:00:13Z",
-  "updatedAt": "2026-08-30T01:22:21Z",
+  "pushedAt": "2026-08-30T18:37:53Z",
+  "updatedAt": "2026-08-31T01:19:30Z",
   "createdAt": "2026-05-24T10:10:36Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "> [!WARNING]\n> **OpenLogi is under active development** and not yet stable — features and config may still change. Give the repo a **Star** ⭐ and **Watch** 👀 it to get notified when a new release lands.\n\n<h4 align=\"right\"><strong>English</strong> | <a href=\"docs/README.zh-CN.md\">简体中文</a> | <a href=\"docs/README.ja.md\">日本語</a> | <a href=\"docs/README.de.md\">Deutsch</a> | <a href=\"docs/README.fr.md\">Français</a> | <a href=\"docs/README.ko.md\">한국어</a></h4>\n\n<p align=\"center\">\n    <img src=\"https://assets.openlogi.org/brand/openlogi-icon.png\" width=\"138\" alt=\"OpenLogi\"/>\n</p>\n\n<h1 align=\"center\">OpenLogi</h1>\n<p align=\"center\"><strong>⚡️ A native, local-first alternative to Logitech Options+, written in Rust 🦀<br/>Unlock the full capabilities of Logitech mice, keyboards, and webcams over HID++ and UVC</strong></p>\n\n<div align=\"center\">\n    <a href=\"https://twitter.com/AprilNEA\" target=\"_blank\">\n    <img alt=\"twitter\" src=\"https://img.shields.io/badge/follow-AprilNEA-green?style=social&logo=Twitter\"></a>\n    <a href=\"https://t.me/+VDtkR5OSAT04NzVh\" target=\"_blank\">\n    <img alt=\"telegram\" src=\"https://img.shields.io/badge/chat-telegram-blueviolet?style=flat&logo=Telegram\"></a>\n    <a href=\"https://github.com/AprilNEA/OpenLogi/releases\" target=\"_blank\">\n    <img alt=\"GitHub downloads\" src=\"https://img.shields.io/github/downloads/AprilNEA/OpenLogi/total.svg?style=flat\"></a>\n    <a href=\"https://github.com/AprilNEA/OpenLogi/commits\" target=\"_blank\">\n    <img alt=\"GitHub commit\" src=\"https://img.shields.io/github/commit-activity/m/AprilNEA/OpenLogi?style=flat\"></a>\n    <img alt=\"Hits\" src=\"https://hits.aprilnea.com/hits?url=https://github.com/aprilnea/openlogi\">\n</div>\n\n<p align=\"center\">\n    <a href=\"https://trendshift.io/repositories/42303\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/42303\" alt=\"AprilNEA%2FOpenLogi | Trendshift\" width=\"250\" height=\"55\"/></a>\n    <a href=\"https://www.producthunt.com/products/openlogi?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-openlogi\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <picture>\n        <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=openlogi&amp;theme=dark&amp;period=daily\">\n        <source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=openlogi&amp;theme=light&amp;period=daily\">\n        <img alt=\"OpenLogi - A local-first alternative to Logitech Options+ | Product Hunt\" width=\"250\" height=\"54\" src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=openlogi&amp;theme=light&amp;period=daily\">\n    </picture></a>\n</p>\n\n> **Fed up with Options+? Try OpenLogi.**\n\nRuns on macOS, Linux, and Windows.\n\n---\n\n## Beyond Options+\n\nThings OpenLogi does that Options+ won't:\n\n- **Stay light.** Native Rust + GPUI.\n- **Run on Linux.** Linux is a first-class platform in ",
-  "generatedAt": "2026-08-30T01:23:04.581Z",
+  "generatedAt": "2026-08-31T01:25:39.541Z",
   "analysis": {
     "oneLine": "OpenLogi 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "OpenLogi 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，OpenLogi 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 17,658，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，OpenLogi 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 17,906，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
