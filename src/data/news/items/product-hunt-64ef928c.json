@@ -8,18 +8,18 @@
   "id": "product-hunt-64ef928c",
   "slug": "product-hunt-64ef928c",
   "content": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
-  "fetchedAt": "2026-08-31T01:25:46.641Z",
+  "fetchedAt": "2026-09-01T01:55:22.859Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
+  "rank": 9,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "oMLX",
-  "chineseSummary": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
-  "chineseContent": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "奥米克斯",
+  "chineseSummary": "Mac LLM 服务器可将座席等待时间从 90 秒缩短至 5 秒关联",
+  "chineseContent": "Mac LLM 服务器可将座席等待时间从 90 秒缩短至 5 秒关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Run macOS Software on Linux",
+  "summary": "95 points · 26 comments",
+  "content": "Darling is a translation layer that lets you run macOS software on Linux\n\nDarling runs macOS software directly without using a hardware emulator.\n\nLike Linux, Darling is free and open-source software. It is developed openly on GitHub and distributed under the GNU GPL license version 3.\n\nDarling implements a complete Darwin environment. Mach, dyld, launchd — everything you'd expect.\n\nDarling does most of the setup for you. Sit back and enjoy using your favorite software.\n\nWe aim to fully integrate apps running under Darling into the Linux desktop experience by making them look, feel and behave just like native Linux apps.\n\nAnd it is! Wine lets you run Windows software on Linux, and Darling does the same for macOS software.\n\nAlmost! This took us a lot of time and effort, but we finally have basic experimental support for running simple graphical applications.\n\nNo! We only directly use those parts of Darwin that are released as fully free software.\n\nDoes the name Darling mean anything?\n\nThe name Darling is a combination of “Darwin” and “Linux”. Darwin is the core operating system macOS and iOS are based on.\n\nCan I run Darling on Windows using WSL?\n\nWith WSL 2, yes! See the documentation for more details.\n\nDo you know about opensource.apple.com , GNUstep, The Cocotron and other projects?\n\nWe do, and in fact, Darling is largely based on the original Darwin source code published by Apple. We use The Cocotron as a basis for our Cocoa implementation, along with the Apportable Foundation and various bits of GNUstep.\n\nDo you have plans for supporting iOS apps?\n\nYes, in the long run, we'd like to be able to run iOS apps on ARM devices (like most Android phones). A significant challenge here would be to write our own implementation of UIKit. Come talk to us if you're interested in working on this!\n\nStart by reading the documentation and our blog to get familiar with Darling internals. Then, come and join us on GitHub . It's great if you have experience in developing for macOS or iOS, but it's absolutely not required to start contributing.",
+  "url": "https://www.darlinghq.org/",
+  "publishedAt": "2026-08-31T22:53:45.000Z",
+  "points": 95,
+  "id": "hacker-news-923cad13",
+  "slug": "hacker-news-923cad13",
+  "fetchedAt": "2026-09-01T01:55:22.857Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "在 Linux 上运行 macOS 软件",
+  "chineseSummary": "95 分 · 26 条评论",
+  "chineseContent": "Darling 是一个翻译层，可让您在 Linux 上运行 macOS 软件\n\nDarling 直接运行 macOS 软件，无需使用硬件模拟器。\n\n与 Linux 一样，Darling 是免费的开源软件。它在 GitHub 上公开开发，并根据 GNU GPL 许可证版本 3 分发。\n\nDarling 实现了完整的 Darwin 环境。 Mach、dyld、launchd——一切你所期望的。\n\n亲爱的，你会做大部分的设置。坐下来享受使用您最喜欢的软件的乐趣。\n\n我们的目标是将 Darling 下运行的应用程序完全集成到 Linux 桌面体验中，使它们的外观、感觉和行为就像本机 Linux 应用程序一样。\n\n确实如此！ Wine 可以让你在 Linux 上运行 Windows 软件，而 Darling 也可以在 macOS 软件上运行同样的功能。\n\n几乎！这花费了我们大量的时间和精力，但我们终于为运行简单的图形应用程序提供了基本的实验支持。\n\n不！我们只直接使用 Darwin 中作为完全自由软件发布的部分。\n\n亲爱的这个名字有什么含义吗？\n\nDarling 这个名字是“Darwin”和“Linux”的组合。 Darwin 是 macOS 和 iOS 所基于的核心操作系统。\n\n我可以使用 WSL 在 Windows 上运行 Darling 吗？\n\n有了 WSL 2，是的！请参阅文档了解更多详细信息。\n\n您了解 opensource.apple.com 、GNUstep、The Cocotron 和其他项目吗？\n\n事实上，Darling 很大程度上基于 Apple 发布的原始 Darwin 源代码。我们使用 Cocotron 作为 Cocoa 实现的基础，以及 Apportable Foundation 和 GNUstep 的各个部分。\n\n你们有支持 iOS 应用程序的计划吗？\n\n是的，从长远来看，我们希望能够在 ARM 设备（像大多数 Android 手机）上运行 iOS 应用程序。这里的一个重大挑战是编写我们自己的 UIKit 实现。如果您有兴趣从事这方面的工作，请与我们联系！\n\n首先阅读文档和我们的博客来熟悉 Darling 的内部结构。那么，快来加入我们的 GitHub 吧。如果您有 macOS 或 iOS 开发经验，那就太好了，但绝对不需要开始贡献。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

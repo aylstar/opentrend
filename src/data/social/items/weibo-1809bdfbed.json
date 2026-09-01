@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1809bdfbed",
+  "slug": "weibo-多款手机正式涨价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "多款手机正式涨价",
+  "summary": "微博热榜第 1 位：多款手机正式涨价，当前热度为 196万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23",
+  "hotValue": "196万热度",
+  "author": "",
+  "publishedAt": "2026-09-01T01:54:44.000Z",
+  "fetchedAt": "2026-09-01T01:57:38.673Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

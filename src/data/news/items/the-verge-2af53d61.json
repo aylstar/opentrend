@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+  "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the […]",
+  "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+  "publishedAt": "2026-08-31T21:41:42.000Z",
+  "id": "the-verge-2af53d61",
+  "slug": "the-verge-2af53d61",
+  "content": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a “secret ad surcharge” to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices “were largely passed on to American consumers.” According to the complaint, Amazon violated the FTC Act and over a dozen state laws. This lawsuit comes almost a year after Amazon agreed to pay $2.5 billion to settle an earlier FTC lawsuit over Prime subscription practices.&nbsp; In Amazon’s “second price” auctions for ads on its platform, the winning bidder is supposed to only pay one cent more than the second-highest bidder. However, the FTC’s complaint alleges that Amazon has been “manipulating” the auctions since 2019: > Amazon’s advertising organization (“Amazon Ads”) decided to set and charge customers higher prices for advertising placements itself. After Amazon runs its ad auctions and determines the winning and second-place bidders, it then replaces the price determined by the auction with a higher price designed to maximize Amazon’s profits and decrease the cost efficiency of its advertisers’ campaigns. As explained internally by Amazon’s Senior Vice President in charge of Amazon Ads, in Amazon’s auctions “the second price isn’t set by an actual bidder, but rather by” Amazon in the form of a “proxy 2nd price that we calculate.” The complaint claims this practice “has likely illegally extracted over 20 billion dollars from [Amazon’s] unwitting advertising customers.” Amazon responded in a blog post saying the FTC’s lawsuit is “misguided” and claiming that “from 2019 to 2024, the average winning bid for Sponsored Products search ads fell 50%.” It also disputed the FTC’s claim that higher advertising prices were passed on to consumers.",
+  "fetchedAt": "2026-09-01T01:55:22.860Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "联邦贸易委员会诉讼称亚马逊“秘密且系统地”对广告收取过高费用",
+  "chineseSummary": "FTC 和 22 个州总检察长正在起诉亚马逊，称其涉嫌使用“秘密广告附加费”来抬高其网站和应用程序上的广告价格。联邦贸易委员会主席安德鲁·弗格森在一篇有关该诉讼的博客文章中声称，较高的广告价格“很大程度上转嫁给了美国消费者”。根据[…]",
+  "chineseContent": "FTC 和 22 个州总检察长正在起诉亚马逊，称其涉嫌使用“秘密广告附加费”来抬高其网站和应用程序上的广告价格。联邦贸易委员会主席安德鲁·弗格森在一篇有关该诉讼的博客文章中声称，较高的广告价格“很大程度上转嫁给了美国消费者”。根据诉状，亚马逊违反了联邦贸易委员会法案和十多项州法律。在这起诉讼发生近一年前，亚马逊同意支付 25 亿美元来和解联邦贸易委员会 (FTC) 早些时候就 Prime 订阅行为提起的诉讼。  在亚马逊平台上的广告“第二价格”拍卖中，中标者只需比第二高出价者多支付一美分。然而，联邦贸易委员会的投诉称，亚马逊自 2019 年以来一直在“操纵”拍卖： > 亚马逊的广告组织（“亚马逊广告”）决定为广告投放本身设定并向客户收取更高的价格。亚马逊进行广告拍卖并确定获胜者和第二名竞标者后，它会用更高的价格取代拍卖确定的价格，旨在最大化亚马逊的利润并降低广告商活动的成本效率。正如亚马逊负责亚马逊广告的高级副总裁在内部解释的那样，在亚马逊的拍卖中，“第二价格不是由实际投标人设定的，而是由”亚马逊以“我们计算的代理第二价格”的形式确定的。投诉称，这种做法“可能从[亚马逊]不知情的广告客户那里非法获取了超过 200 亿美元。”亚马逊在博客文章中回应称，FTC 的诉讼是“误导性的”，并声称“从 2019 年到 2024 年，商品推广搜索广告的平均中标价格下降了 50%”。它还对联邦贸易委员会关于提高广告价格已经通过的说法提出异议",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

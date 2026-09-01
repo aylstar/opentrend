@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e37d9ec7b6",
+  "slug": "weibo-深夜门口站满了大象",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "深夜门口站满了大象",
+  "summary": "微博热榜第 48 位：深夜门口站满了大象，当前热度为 11万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%A4%9C%E9%97%A8%E5%8F%A3%E7%AB%99%E6%BB%A1%E4%BA%86%E5%A4%A7%E8%B1%A1%23",
+  "hotValue": "11万热度",
+  "author": "",
+  "publishedAt": "2026-09-01T01:54:44.000Z",
+  "fetchedAt": "2026-09-01T01:57:38.673Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

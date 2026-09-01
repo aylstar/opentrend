@@ -8,18 +8,18 @@
   "id": "product-hunt-890ae989",
   "slug": "product-hunt-890ae989",
   "content": "The AI Teleprompter that scrolls as you speak Discussion | Link",
-  "fetchedAt": "2026-08-31T01:25:46.641Z",
+  "fetchedAt": "2026-09-01T01:55:22.859Z",
   "score": 69,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 15,
+  "rank": 20,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Sayscroll",
-  "chineseSummary": "The AI Teleprompter that scrolls as you speak Discussion | Link",
-  "chineseContent": "The AI Teleprompter that scrolls as you speak Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "说滚动",
+  "chineseSummary": "说话时滚动的人工智能提词器 讨论 |关联",
+  "chineseContent": "说话时滚动的人工智能提词器 讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }
