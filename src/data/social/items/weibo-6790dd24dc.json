@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6790dd24dc",
+  "slug": "weibo-沈阳物价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "沈阳物价",
+  "summary": "微博热榜第 25 位：沈阳物价，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E7%89%A9%E4%BB%B7%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-09-02T01:10:06.939Z",
+  "fetchedAt": "2026-09-02T01:10:41.551Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+  "summary": "46 points · 17 comments",
+  "content": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks.",
+  "url": "https://masteranza.github.io/weedout/",
+  "publishedAt": "2026-09-01T22:06:57.000Z",
+  "points": 46,
+  "id": "hacker-news-79737cad",
+  "slug": "hacker-news-79737cad",
+  "fetchedAt": "2026-09-02T01:09:55.033Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "视频"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+  "chineseSummary": "46 points · 17 comments",
+  "chineseContent": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube Pull requests are not accepted; the repository is for independent forks.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

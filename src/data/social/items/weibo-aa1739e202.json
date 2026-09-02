@@ -1,0 +1,21 @@
+{
+  "id": "weibo-aa1739e202",
+  "slug": "weibo-阴阳师",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "阴阳师",
+  "summary": "微博热榜第 28 位：阴阳师，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-09-02T01:10:06.939Z",
+  "fetchedAt": "2026-09-02T01:10:41.551Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

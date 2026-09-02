@@ -1,0 +1,21 @@
+{
+  "id": "weibo-618412518a",
+  "slug": "weibo-张一山演技",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "张一山演技",
+  "summary": "微博热榜第 14 位：张一山演技，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%B8%80%E5%B1%B1%E6%BC%94%E6%8A%80%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-09-02T01:10:06.939Z",
+  "fetchedAt": "2026-09-02T01:10:41.551Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
