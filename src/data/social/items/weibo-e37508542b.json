@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e37508542b",
+  "slug": "weibo-星宇事件",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "星宇事件",
+  "summary": "微博热榜第 21 位：星宇事件，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%AE%87%E4%BA%8B%E4%BB%B6%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-09-03T01:16:00.466Z",
+  "fetchedAt": "2026-09-03T01:17:09.890Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Fable 5.1 World Modeling",
+  "summary": "139 points · 46 comments",
+  "content": "Worlds via code. Explorable, browser-native reconstructions of real places — researched, modelled, and quality-checked end to end by autonomous Claude Fable 5.1 agent swarms, then shipped as plain Three.js apps you can run with npm run dev .\n\nNo game engine. No proprietary 3D tiles. Every building, storefront, sign, tree and traffic light is generated from open data and public reference imagery by code that lives in this repo.\n\n▶ Watch the full 59-second walkthrough · 1920×1080 · aerial, plaza, Nintendo, lower level, Apple\n\nThe square and its surrounding blocks — Powell, Geary, Post and Stockton — on real terrain and a real street grid, with 129 identified storefronts, working traffic lights and cable cars, day/sunset/night, and two explorable interiors: Apple Union Square (300 Post St) and Nintendo SAN FRANCISCO (331 Powell St).\n\nEach world follows the same pipeline, and every stage is in the repo so you can re-run it:\n\nCode and generated assets: MIT . Geometry is derived from OpenStreetMap (ODbL) and USGS 3DEP (public domain). Reference photographs are not redistributed here — their provenance is recorded per sector in each world's refs/*/SOURCES.md . Brand names and logos identify the real businesses at their real locations and belong to their owners.",
+  "url": "https://github.com/PhiloLabs/fable51-worlds",
+  "publishedAt": "2026-09-02T19:49:01.000Z",
+  "points": 139,
+  "id": "hacker-news-5944da49",
+  "slug": "hacker-news-5944da49",
+  "fetchedAt": "2026-09-03T01:16:01.568Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "寓言5.1世界建模",
+  "chineseSummary": "139 分 · 46 条评论",
+  "chineseContent": "通过代码的世界。可探索的、浏览器原生的真实地点重建——由自主的 Claude Fable 5.1 代理群进行端到端的研究、建模和质量检查，然后作为简单的 Three.js 应用程序提供，您可以使用 npm run dev 运行。\n\n没有游戏引擎。没有专有的 3D 瓷砖。每个建筑物、店面、标志、树木和交通信号灯都是通过此存储库中的代码从开放数据和公共参考图像生成的。\n\n▶ 观看完整的 59 秒演练 · 1920×1080 · 航拍、广场、任天堂、下层、苹果\n\n广场及其周边街区——Powell、Geary、Post 和 Stockton——位于真实的地形和真实的街道网格上，有 129 个已识别的店面、工作中的交通灯和缆车、白天/日落/夜晚，以及两个可探索的内部空间：Apple Union Square (300 Post St) 和 Nintendo SAN FRANCISCO (331 Powell St)。\n\n每个世界都遵循相同的管道，每个阶段都在存储库中，因此您可以重新运行它：\n\n代码和生成的资产：MIT。几何图形源自 OpenStreetMap (ODbL) 和 USGS 3DEP（公共领域）。参考照片不会在这里重新分发 - 它们的出处记录在每个世界的 refs/*/SOURCES.md 中的每个扇区。品牌名称和徽标标识了其真实位置的真实企业并属于其所有者。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

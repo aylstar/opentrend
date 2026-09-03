@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq",
+  "summary": "The rally might be tied to commodities, which are also surging, or an expression of optimism around the country's upcoming general election in October.",
+  "url": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
+  "publishedAt": "2026-09-02T19:11:07.000Z",
+  "id": "cnbc-172a18b6",
+  "slug": "cnbc-172a18b6",
+  "content": "Brazilian stocks are rallying again after a monthslong sell-off from six-year highs reached in April. The iShares MSCI Brazil ETF (EWZ) , which is up more than 12% from last month's lows, is now 19% higher on the year. It's ahead of the Nasdaq-100 's 15% year-to-date advance.\n\nThe rally might be tied to the price of commodities, which are also surging, or an expression of optimism around the country's upcoming general election in October. Either way, options traders are piling in, placing uniquely big bets on EWZ that lean more bullish than bearish.\n\nOptions volume surged to more than six times the 30-day average on Wednesday, according to Cboe LiveVol data. With more than 420,000 contracts traded by midday, EWZ was a top-20 traded security in the options market, alongside Alphabet and the Cboe VIX Index , SpotGamma data show.\n\nThat's a rare ranking for any non-U.S. stock or ETF, no doubt. Whether or not the options trading signals a strong directional bias is a trickier interpretation.\n\nCalls dominate the trading in EWZ, with 400,000 calls trading versus less than 30,000 puts, but almost as many calls are being sold as bought, according to ThinkOrSwim. Of the $50 million in premium traded, almost all of it – $48 million – is tied to call contracts, with roughly $26 million of trades likely initiated by buyers, according to SpotGamma.\n\nOne thing in the bulls' favor: The top 20 contracts traded are all calls — a very rare thing to see in any options flow. While selling of calls is not bullish, it's not necessarily bearish either, and often a part of bullish spread trading or directionally-neutral bets.\n\nThe call-sellers might just be playing the heightened volatility in the fund. While the price has rallied in the past three weeks, implied volatility has as well, climbing from 0.28 to 0.39, according to ThinkOrSwim data. That means options generally are the most expensive since late June, and traders may be leaning into strategies that collect premium by betting the swings in the fund will dampen.",
+  "fetchedAt": "2026-09-03T01:16:01.574Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "交易员纷纷涌入刚刚领先于纳斯达克的国际股市",
+  "chineseSummary": "此次上涨可能与大宗商品有关，大宗商品也在飙升，或者与该国即将于 10 月份举行的大选的乐观情绪有关。",
+  "chineseContent": "巴西股市从四月份创下的六年高点经历了长达一个月的抛售之后，再次上涨。 iShares MSCI 巴西 ETF (EWZ) 较上个月的低点上涨超过 12%，目前较今年上涨 19%。它领先于纳斯达克 100 指数年初至今 15% 的涨幅。\n\n此次上涨可能与大宗商品价格（大宗商品价格也在飙升）有关，也可能与该国即将于 10 月份举行的大选的乐观情绪有关。无论哪种方式，期权交易者都在蜂拥而至，对 EWZ 下了独特的大赌注，他们的看涨倾向多于看跌倾向。\n\n根据 Cboe LiveVol 数据，周三期权成交量飙升至 30 天平均水平的六倍多。 SpotGamma 数据显示，截至中午交易量超过 420,000 份合约，EWZ 与 Alphabet 和 Cboe VIX 指数一起成为期权市场交易量排名前 20 的证券。\n\n毫无疑问，对于任何非美国股票或 ETF 来说，这样的排名都是罕见的。期权交易是否预示着强烈的方向性偏差是一个更棘手的解释。\n\n根据 ThinkOrSwim 的数据，看涨期权在 EWZ 交易中占主导地位，看涨期权交易量为 400,000 手，而看跌期权交易量不足 30,000 手，但看涨期权的卖出数量与买入数量几乎相同。据 SpotGamma 称，在 5000 万美元的溢价交易中，几乎全部（4800 万美元）都与看涨期权合约相关，其中大约 2600 万美元的交易可能是由买家发起的。\n\n有一点对多头有利：交易量最大的 20 个合约都是看涨期权——这在任何期权流中都是非常罕见的。虽然卖出看涨期权并不看涨，但也不一定看跌，而且通常是看涨价差交易或方向中性押注的一部分。\n\n看涨期权卖家可能只是在利用基金波动性加剧的机会。根据 ThinkOrSwim 的数据，虽然价格在过去三周有所上涨，但隐含波动率也从 0.28 攀升至 0.39。这意味着期权通常是自 6 月下旬以来最昂贵的，交易者可能会倾向于通过押注基金波动将会减弱来收取溢价的策略。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

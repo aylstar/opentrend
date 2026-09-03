@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+  "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+  "publishedAt": "2026-09-02T16:12:25.000Z",
+  "id": "the-verge-9bf5f74e",
+  "slug": "the-verge-9bf5f74e",
+  "content": "The Trump administration has intervened in The New York Times’ copyright lawsuit against OpenAI, making an argument in favor of the AI lab.&nbsp; The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup “billions of dollars” in damages from both Microsoft and OpenAI. This week, the Trump administration filed a statement of interest in the case, supporting OpenAI’s argument that it’s fair use to train an AI model on copyrighted text.&nbsp; “The New York Times seeks to narrow fair-use doctrine to exclude the training of OpenAl’s large language models (LLMs),” US attorneys wrote in the statement. “That result would be inconsistent with basic copyright law principles and severely hamper ‘the Progress of Science and useful Arts.’” The attorneys went on to write that “LLMs are already helping researchers across fields achieve major breakthroughs” and that “constraining LLM development under a misunderstanding of fair use doctrine would thwart such creative and scientific progress while hindering American prosperity and economic mobility.”&nbsp; The Trump administration has leaned heavily on statements of interest in private litigation, which one official has called “incredibly” successful at advancing its policy aims. It’s argued previously that AI training should count as fair use, making the case in its National AI Legislative Framework. Trump also holds a personal animus toward the Times, against which he is currently pursuing a defamation suit.&nbsp; The Times case could set precedent for other media outlets frustrated over AI systems training on their work. Copyright disagreements between media outlets and AI labs have intensified in recent years, including lawsuits from the Center for Investigative Reporting, Chicago Tribune, and New York Daily News. In a milestone 2025 decision, a judge found Anthropic could legally train its models on lawfully purchased books, but that it could still be held liable for piracy, resulting in a&nbsp; $1.5 billion settlement with authors.&nbsp; At the same time, dozens of media outlets have inked licensing deals with OpenAI, including The Associated Press, Axel Springer and Vox Media. In 2025, The New York Times entered into a licensing deal with Amazon allowing its editorial content, including news articles and recipes, to appear in Amazon’s generative AI tools.&nbsp; “The fair-use inquiry hinges on the specific facts and uses at issue in each case,” the US attorneys wrote in the statement. “But it would be problematic — and legally incorrect — to impose broad copyright liability that would generally render training of Al models impermissible without licensing. LLM training is ‘consistent with that creative ‘progress’ that is the basic constitutional objective of copyright itself.’”",
+  "fetchedAt": "2026-09-03T01:16:01.572Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "财经"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "特朗普政府在《纽约时报》版权诉讼中支持 OpenAI",
+  "chineseSummary": "特朗普政府介入了《纽约时报》针对 OpenAI 的版权诉讼，为人工智能实验室做出了有利于其的论点。这起具有里程碑意义的诉讼于 2023 年 12 月提起，指控 OpenAI 根据《纽约时报》的文章非法训练其人工智能系统，并寻求从 […]",
+  "chineseContent": "特朗普政府介入了《纽约时报》针对 OpenAI 的版权诉讼，为人工智能实验室做出了有利于其的论点。  这起具有里程碑意义的诉讼于 2023 年 12 月提起，指控 OpenAI 根据《纽约时报》的文章非法训练其人工智能系统，并寻求向微软和 OpenAI 赔偿“数十亿美元”的损失。本周，特朗普政府对此案提交了一份利益声明，支持 OpenAI 的论点，即在受版权保护的文本上训练人工智能模型是合理使用的。  美国律师在声明中写道：“《纽约时报》试图缩小合理使用原则，以排除 OpenAl 大型语言模型 (LLM) 的培训。” “这一结果将不符合版权法的基本原则，并严重阻碍‘科学和有用艺术的进步’。”律师们接着写道，“法学硕士已经在帮助跨领域的研究人员实现重大突破”，并且“在对合理使用原则的误解下限制法学硕士的发展将阻碍这种创造性和科学进步，同时阻碍美国的繁荣和经济流动性。”  特朗普政府严重依赖私人诉讼中的利益声明，一位官员称这种声明在推进其政策目标方面“令人难以置信”成功。此前有人认为，人工智能培训应算作合理使用，这在其国家人工智能立法框架中得到了体现。特朗普还对《纽约时报》抱有个人敌意，目前他正在针对《纽约时报》提起诽谤诉讼。  《纽约时报》的案例可能为其他因人工智能系统培训而对其工作感到沮丧的媒体树立先例。近年来，媒体机构和人工智能实验室之间的版权分歧不断加剧，包括来自第三方的诉讼。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

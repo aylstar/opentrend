@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3b3ca48f02",
+  "slug": "weibo-告别机顶盒",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "告别机顶盒",
+  "summary": "微博热榜第 6 位：告别机顶盒，当前热度为 86万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%88%AB%E6%9C%BA%E9%A1%B6%E7%9B%92%23",
+  "hotValue": "86万热度",
+  "author": "",
+  "publishedAt": "2026-09-03T01:16:00.466Z",
+  "fetchedAt": "2026-09-03T01:17:09.890Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

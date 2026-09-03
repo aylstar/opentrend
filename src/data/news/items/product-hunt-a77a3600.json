@@ -8,18 +8,18 @@
   "id": "product-hunt-a77a3600",
   "slug": "product-hunt-a77a3600",
   "content": "Google docs for AI agents, and you can close your laptop Discussion | Link",
-  "fetchedAt": "2026-09-02T01:09:55.035Z",
+  "fetchedAt": "2026-09-03T01:16:01.571Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 8,
+  "rank": 15,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Murmell",
-  "chineseSummary": "Google docs for AI agents, and you can close your laptop Discussion | Link",
-  "chineseContent": "Google docs for AI agents, and you can close your laptop Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "默梅尔",
+  "chineseSummary": "谷歌文档为人工智能代理，你可以关闭你的笔记本电脑关联",
+  "chineseContent": "谷歌文档为人工智能代理，你可以关闭你的笔记本电脑关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

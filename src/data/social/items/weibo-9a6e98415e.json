@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9a6e98415e",
+  "slug": "weibo-哈利波特",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 31,
+  "title": "哈利波特",
+  "summary": "微博热榜第 31 位：哈利波特，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-09-03T01:16:00.466Z",
+  "fetchedAt": "2026-09-03T01:17:09.890Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

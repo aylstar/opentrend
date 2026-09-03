@@ -1,0 +1,72 @@
+{
+  "slug": "zedeus__nitter",
+  "owner": "zedeus",
+  "repo": "nitter",
+  "name": "nitter",
+  "fullName": "zedeus/nitter",
+  "description": "Alternative Twitter front-end",
+  "language": "Nim",
+  "githubUrl": "https://github.com/zedeus/nitter",
+  "docsUrl": "https://nitter.net",
+  "stars": 14078,
+  "forks": 1291,
+  "openIssues": 156,
+  "license": "AGPL-3.0",
+  "pushedAt": "2026-08-26T11:19:23Z",
+  "updatedAt": "2026-09-03T00:29:27Z",
+  "createdAt": "2019-06-20T13:51:49Z",
+  "archived": true,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "自部署",
+    "数据分析",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 1.5,
+  "readmeExcerpt": "# Nitter\n\n> [!NOTE]\n> On 24 August 2026 cease and desist letters were sent by X Corp. demanding a permanent takedown of Nitter instances and the project's repository.\n\nA free and open source alternative Twitter front-end focused on privacy and\nperformance. \\\nInspired by the [Invidious](https://github.com/iv-org/invidious) project.\n\n## Donations\n\n**Liberapay**: https://liberapay.com/zedeus<br>\n**Patreon**: https://patreon.com/nitter<br>\n**Ko-fi**: https://ko-fi.com/zedeus<br>\n**BTC**: bc1qpqpzjkcpgluhzf7x9yqe7jfe8gpfm5v08mdr55<br>\n**ETH**: 0x24a0DB59A923B588c7A5EBd0dBDFDD1bCe9c4460<br>\n**XMR**: 42hKayRoEAw4D6G6t8mQHPJHQcXqofjFuVfavqKeNMNUZfeJLJAcNU19i1bGdDvcdN6romiSscWGWJCczFLe9RFhM3d1zpL<br>\n**SOL**: FF5bheiD5AqPEdc3eyjymJ8AoMRF1hS78Ht6FiSZZF1t<br>\n**$Nitter**: 4fSxCKc91ELQYVdv3tmHW8R15KoALPwEngyoQe1Xpump<br>\n**ZEC**: u1vndfqtzyy6qkzhkapxelel7ams38wmfeccu3fdpy2wkuc4erxyjm8ncjhnyg747x6t0kf0faqhh2hxyplgaum08d2wnj4n7cyu9s6zhxkqw2aef4hgd4s6vh5hpqvfken98rg80kgtgn64ff70djy7s8f839z00hwhuzlcggvefhdlyszkvwy3c7yw623vw3rvar6q6evd3xcvveypt\n\n## Features\n\n- No JavaScript or ads\n- All requests go through the backend, client never talks to Twitter\n- Prevents Twitter from tracking your IP or JavaScript fingerprint\n- Uses Twitter's unofficial API (no developer account required)\n- Lightweight (for [@nim_lang](https://nitter.net/nim_lang), 60KB vs 784KB from twitter.com)\n- RSS feeds\n- Themes\n- Mobile support (responsive design)\n- AGPLv3 licensed, no proprietary instances permitted\n\n## Roadmap\n\n- Embeds\n- Account system with timeline support\n- Archiving tweets/profiles\n- Developer API\n\n## Resources\n\nThe wiki contains\n[a list of instances](https://github.com/zedeus/nitter/wiki/Instances) and\n[browser extensions](https://github.com/zedeus/nitter/wiki/Extensions)\nmaintained by the community.\n\n## Why?\n\nIt's impossible to use Twitter without JavaScript enabled, and as of 2024 you\nneed to sign up. For privacy-minded folks, preventing JavaScript analytics and\nIP-based tracking is important, but apart from using a VPN and uBlock/uMatrix,\nit's impossible. Despite being behind a VPN and using heavy-duty adblockers,\nyou can get accurately tracked with your [browser's\nfingerprint](https://restoreprivacy.com/browser-fingerprinting/), [no\nJavaScript required](https://noscriptfingerprint.com/). This all became\nparticularly important after Twitter [removed the\nability](https://www.eff.org/deeplinks/2020/04/twitter-removes-privacy-option-and-shows-why-we-need-strong-privacy-laws)\nfor users to control whether their data gets sent to advertisers.\n\nUsing an instance of Nitter (hosted on a VPS for example), you can browse\nTwitter without JavaScript while retaining your privacy. In addition to\nrespecting your privacy, Nitter is on average around 15 times lighter than\nTwitter, and in most cases serves pages faster (eg. timelines load 2-4x faster).\n\nIn the future a simple account system will be added that lets you follow Twitter\nusers, allowing you to have a clean chronological timeline wit",
+  "generatedAt": "2026-09-03T01:15:44.316Z",
+  "analysis": {
+    "oneLine": "nitter 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
+    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
+    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "detailParagraphs": [
+      "nitter 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
+      "如果把它放进实际使用场景，nitter 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 14,078，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Nim 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "公开信息风险排查",
+      "账号暴露核查",
+      "安全培训演示",
+      "企业攻击面初筛"
+    ],
+    "interpretation": "nitter 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Nim 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "docker build -t nitter:latest .\ndocker run -v $(pwd)/nitter.conf:/src/nitter.conf -d --network host nitter:latest\ndocker run -v $(pwd)/nitter.conf:/src/nitter.conf -d --network host zedeus/nitter:latest\ndocker-compose up -d\ndocker-compose) from the directory you run them in. If a mounted file doesn't",
+    "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
+    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Nim 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险主要是合规、隐私和误报，需要配套人工复核机制。",
+    "recommendation": 1.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "自部署",
+      "数据分析",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-09-03T01:15:44.317Z"
+}

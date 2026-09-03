@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+  "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+  "publishedAt": "2026-09-02T20:11:40.000Z",
+  "id": "the-verge-1612ca21",
+  "slug": "the-verge-1612ca21",
+  "content": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model “works harder” than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and “calling tools iteratively.” It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million output tokens, but could still end up costing users more. Google warns that “the model might use more tokens to maximize performance, especially at higher effort levels.” Developers can keep using Gemini 3.7 Flash if they want to minimize token usage. Gemini 3.8 Flash’s launch was followed by some early impressions online. Artificial Analysis highlighted the model’s pricing, saying Gemini 3.8 Flash is “the cheapest we’ve measured at this level of intelligence. This is up ~40% from Gemini 3.7 Flash despite unchanged per-token pricing, driven by a 30% increase in output tokens per task and more turns on agentic evaluations.” [Media: https://twitter.com/ArtificialAnlys/status/2095177422270607803?s=20] Aigora.ai CEO John Ennis compared Gemini 3.8 Flash to Anthropic’s models, saying it offers “Opus 5 coding quality but at a fraction of the cost and super fast,” adding, “This is going to be so awesome for things like making remotion videos.”&nbsp; [Media: https://twitter.com/johnennis/status/2095182837112508749?s=20] Google says Gemini 3.8 Flash offers “significant improvements” for software engineering and autonomous AI agents. It outperforms its predecessor and other frontier models on the DeepSWE v1.1 software engineering benchmark, including Anthropic’s Fable 5, which got an upgrade earlier this week that also promises stronger performance at a lower price, by cutting the price to use cached data. Google’s new model also outperformed its competitors on the Vals Finance Agent V2 benchmark and Harvey’s Legal Agent benchmark. However, the new model also “ships with safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense.”&nbsp; Google also released Gemini 3.8 Flash Cyber alongside its new Fairwind Program, which is limited to governments and “trusted partners.” The program, whose 650 members include CrowdStrike and the Center for Internet Security, offers access to 3.8 Flash Cyber and Google’s CodeMender agent, which Google says can help “autonomously find and fix vulnerabilities, protecting critical infrastructure, public services, and national security.” Gemini 3.8 Flash is available now for consumers with a Google AI Pro or Ultra subscription, as well as developers and enterprise users.",
+  "fetchedAt": "2026-09-03T01:16:01.572Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌称其新的 Gemini 3.8 Flash 型号“工作更努力”但可能成本更高",
+  "chineseSummary": "Google 推出了 Gemini 3.8 Flash，比其前身仅几周后就发布了。该公司声称，新模型比 Gemini 3.7 Flash“工作更努力”，对复杂任务执行更多推理步骤并“迭代调用工具”。它的介绍性定价与 3.7 Flash 相同，每百万输入代币 0.75 美元，每百万输入代币 3.75 美元 […]",
+  "chineseContent": "Google 推出了 Gemini 3.8 Flash，比其前身仅几周后就发布了。该公司声称，新模型比 Gemini 3.7 Flash“工作更努力”，可以对复杂任务执行更多推理步骤并“迭代调用工具”。它的介绍性定价与 3.7 Flash 相同，每百万输入代币 0.75 美元，每百万输出代币 3.75 美元，但最终仍可能让用户花费更多。谷歌警告说，“该模型可能会使用更多代币来最大限度地提高性能，尤其是在更高的努力水平上。”如果开发人员想最大限度地减少令牌使用，可以继续使用 Gemini 3.7 Flash。 Gemini 3.8 Flash 发布后，网上出现了一些早期印象。 Artificial Analysis 强调了该模型的定价，称 Gemini 3.8 Flash 是“我们在这个智能水平上测量过的最便宜的。尽管每个代币的定价没有变化，但由于每个任务的输出代币增加了 30% 以及更多的代理评估，这一价格比 Gemini 3.7 Flash 上涨了约 40%。” [媒体：https://twitter.com/ArtificialAnlys/status/2095177422270607803?s=20] Aigora.ai 首席执行官 John Ennis 将 Gemini 3.8 Flash 与 Anthropic 的模型进行了比较，称它提供了“Opus 5 的编码质量，但成本仅为 Opus 5 的一小部分，而且速度超快”，并补充道，“这对于制作远程视频等事情来说非常棒。”  [媒体：https://twitter.com/johnennis/status/2095182837112508749?s=20] 谷歌表示 Gemini 3.8 Flash 为软件工程和自主人工智能代理提供了“重大改进”。它在 DeepSWE v1.1 软件工程基准测试中的表现优于其前身和其他前沿模型，包括 Anthropic 的 Fable 5，该模型于本周早些时候进行了升级，通过降低使用缓存数据的价格，还承诺以更低的价格提供更强大的性能。谷歌的新模型也表现出色",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

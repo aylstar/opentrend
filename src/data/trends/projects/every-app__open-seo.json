@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/every-app/open-seo",
   "docsUrl": "https://openseo.so",
-  "stars": 16145,
-  "forks": 1961,
-  "openIssues": 128,
+  "stars": 16411,
+  "forks": 2009,
+  "openIssues": 131,
   "license": "MIT",
   "pushedAt": "2026-09-02T00:41:23Z",
-  "updatedAt": "2026-09-02T01:07:59Z",
+  "updatedAt": "2026-09-03T01:13:00Z",
   "createdAt": "2026-02-27T18:57:41Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "# OpenSEO\n\n> Open source alternative to Semrush and Ahrefs\n\nOpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.\n\n> All-in-one SEO tool for you and your AI agent.\n\nConnect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs.\n\n<img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fd208249-44ea-4849-bb4b-5fc896aeab73\" />\n\n## Hosted Version\n\nTry OpenSEO for free on our website. If you want to support the project, a hosted subscription is $10/month.\n\n[openseo.so](https://openseo.so)\n\n## Why use OpenSEO?\n\n- Best in class MCP and AI Skills.\n- Modern, simple UI.\n  - Focused workflows instead of a bloated, complex SEO suite.\n- No subscriptions.\n  - Bring your own DataForSEO API key and pay only for what you use.\n- Fork and vibe code your own custom tool.\n\n## Main SEO Workflows\n\n- Keyword research\n- Rank tracking\n- Competitor Insights\n- Backlinks\n- Site Audits\n- AI Visibility\n\n## OpenSEO MCP & Agent Skills\n\nOpenSEO exposes an MCP server so AI agents like Claude Code, OpenClaw, and Hermes can use your SEO data directly. Agent Skills are reusable workflows that guide your agent through SEO tasks using the MCP.\n\n- [Set up OpenSEO MCP](https://openseo.so/docs/mcp)\n- [Set up OpenSEO Agent Skills](https://openseo.so/docs/skills/setup)\n\n## Self-Hosting\n\nOpenSEO supports two self-hosting paths:\n\n- **Simple: Docker (Best for testing it out)** - For personal use on your own machine. See [`docs/SELF_HOSTING_DOCKER.md`](./docs/SELF_HOSTING_DOCKER.md).\n  - Unless you already are self-hosting other apps and are confident doing so, we recommend self-hosting with Cloudflare as opposed to Railway, Coolify or Dokploy.\n  - We plan to make it simpler to host on those platforms in the next few months.\n- **Recommended: Cloudflare** - For internet-facing self-hosting across multiple devices or with your team (works on the free plan). See [`docs/SELF_HOSTING_CLOUDFLARE.md`](./docs/SELF_HOSTING_CLOUDFLARE.md).\n\nEither way, you need a DataForSEO API key to get SEO data. See [`docs/DATAFORSEO_API_KEY.md`](./docs/DATAFORSEO_API_KEY.md).\n\n## Costs\n\nOpenSEO needs a [DataForSEO](https://dataforseo.com/?aff=255379) API key so that you can get SEO data. You pay them directly when self hosting.\n\nSee [openseo.so/pricing](https://openseo.so/pricing)\n\nWhen you self host, your costs will be slightly lower than the estimates on our website. The way the hosted service makes money is by charging 28% extra for every request we make to DataForSEO.\n\n## Local Development\n\nSee [`docs/LOCAL_DEVELOPMENT.md`](./docs/LOCAL_DEVELOPMENT.md).\n\n## Contributing\n\nCreating clear issues is the best way to contribute.\n\nRead more here: [`docs/CONTRIBUTING.md`](./docs/CONTRIBUTING.md)\n\nWe have this skill: `/simple-issue-description` which helps.\n\n```sh\nnpx skills add every-app/ope",
-  "generatedAt": "2026-09-02T01:09:41.506Z",
+  "generatedAt": "2026-09-03T01:15:46.785Z",
   "analysis": {
     "oneLine": "open-seo 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "open-seo 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，open-seo 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 16,145，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，open-seo 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 16,411，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

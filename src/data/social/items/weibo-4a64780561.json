@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4a64780561",
+  "slug": "weibo-沙德尔",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "沙德尔",
+  "summary": "微博热榜第 18 位：沙德尔，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%BE%B7%E5%B0%94%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-09-03T01:16:00.466Z",
+  "fetchedAt": "2026-09-03T01:17:09.890Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3daccc7b6b",
+  "slug": "weibo-微信-一键看未读",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "微信 一键看未读",
+  "summary": "微博热榜第 39 位：微信 一键看未读，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1+%E4%B8%80%E9%94%AE%E7%9C%8B%E6%9C%AA%E8%AF%BB%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-09-03T01:16:00.466Z",
+  "fetchedAt": "2026-09-03T01:17:09.891Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
