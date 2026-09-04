@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+  "summary": "328 points · 521 comments",
+  "content": "https://status.openai.com https://status.claude.com https://status.x.ai ChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 comments) Claude outage – Resolved - https://news.ycombinator.com/item?id=49549676 (146 comments) Grok outage - https://news.ycombinator.com/item?id=49551589 (142 comments)",
+  "url": "https://news.ycombinator.com/item?id=49551096",
+  "publishedAt": "2026-09-03T15:07:01.000Z",
+  "points": 328,
+  "id": "hacker-news-e0d82ea2",
+  "slug": "hacker-news-e0d82ea2",
+  "fetchedAt": "2026-09-04T01:07:12.893Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 6,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "问 HN：为什么 OpenAI、Claude 和 Grok 同时宕机？",
+  "chineseSummary": "328 分 · 521 条评论",
+  "chineseContent": "https://status.openai.com https://status.claude.com https://status.x.ai ChatGPT 中断 - 已解决 - https://news.ycombinator.com/item?id=49550614（315 条评论） Claude 中断 - 已解决 - https://news.ycombinator.com/item?id=49549676（146 条评论） Grok 中断 - https://news.ycombinator.com/item?id=49551589（142 条评论）",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

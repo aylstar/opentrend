@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3bf79b943d",
+  "slug": "weibo-小米手环11",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "小米手环11",
+  "summary": "微博热榜第 17 位：小米手环11，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF11%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-09-04T01:07:55.845Z",
+  "fetchedAt": "2026-09-04T01:08:02.100Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

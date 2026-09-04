@@ -1,0 +1,21 @@
+{
+  "id": "xiaohongshu-06e0d333b8",
+  "slug": "xiaohongshu-小红书热榜抓取源待恢复-6",
+  "platform": "xiaohongshu",
+  "platformLabel": "小红书",
+  "rank": 6,
+  "title": "小红书热榜抓取源待恢复 6",
+  "summary": "小红书自动抓取源本次未返回可用数据。请优先配置 SOCIAL_HOT_API_BASE，或使用 CloakBrowser 导出文件接入登录态抓取结果。",
+  "url": "https://www.xiaohongshu.com",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "",
+  "fetchedAt": "2026-09-04T01:08:01.700Z",
+  "tags": [
+    "小红书",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "Fallback",
+  "sourceStatus": "fallback"
+}

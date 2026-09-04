@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/THU-MAIC/OpenMAIC",
   "docsUrl": "https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge",
-  "stars": 30534,
-  "forks": 5083,
-  "openIssues": 231,
+  "stars": 31065,
+  "forks": 5133,
+  "openIssues": 229,
   "license": "MIT",
-  "pushedAt": "2026-09-02T18:47:05Z",
-  "updatedAt": "2026-09-03T01:13:44Z",
+  "pushedAt": "2026-09-03T17:21:42Z",
+  "updatedAt": "2026-09-04T01:04:24Z",
   "createdAt": "2026-03-11T10:13:16Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<!-- <p align=\"center\">\n  <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/>\n</p> -->\n\n<p align=\"center\">\n  <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/>\n</p>\n\n<p align=\"center\">\n  Get an immersive, multi-agent learning experience in just one click\n</p>\n\n<p align=\"center\">\n  <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"v1.0.0 User Guide (English)\"/></a>\n  &nbsp;&nbsp;\n  <a href=\"https://my.feishu.cn/wiki/UIfKw9Knti0LcKkTxDNcqlUrnzh\"><img src=\"https://img.shields.io/badge/%F0%9F%93%99%20%E4%BD%93%E9%AA%8C%E6%8C%87%E5%8D%97-v1.0.0%20%C2%B7%20%E4%B8%AD%E6%96%87-FF6B35?style=for-the-badge\" alt=\"v1.0.0 体验指南（中文）\"/></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-6000-0\"><img src=\"https://img.shields.io/badge/Paper-JCST'26-blue?style=flat-square\" alt=\"Paper\"/></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-green.svg?style=flat-square\" alt=\"License: MIT\"/></a>\n  <a href=\"https://open.maic.chat/\"><img src=\"https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square\" alt=\"Live Demo\"/></a>\n  <a href=\"https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTHU-MAIC%2FOpenMAIC&envDescription=Configure%20at%20least%20one%20LLM%20provider%20API%20key%20(e.g.%20OPENAI_API_KEY%2C%20ANTHROPIC_API_KEY).%20All%20providers%20are%20optional.&envLink=https%3A%2F%2Fgithub.com%2FTHU-MAIC%2FOpenMAIC%2Fblob%2Fmain%2F.env.example&project-name=openmaic&framework=nextjs\"><img src=\"https://vercel.com/button\" alt=\"Deploy with Vercel\" height=\"20\"/></a>\n  <a href=\"#-agent-workbench-integration\"><img src=\"https://img.shields.io/badge/OpenClaw-Integration-F4511E?style=flat-square\" alt=\"OpenClaw Integration\"/></a>\n  <a href=\"#lemonade-local-ai\"><img src=\"https://img.shields.io/badge/Lemonade-Local_AI-FFD43B?style=flat-square\" alt=\"Lemonade Local AI\"/></a>\n  <a href=\"https://github.com/THU-MAIC/OpenMAIC/stargazers\"><img src=\"https://img.shields.io/github/stars/THU-MAIC/OpenMAIC?style=flat-square\" alt=\"Stars\"/></a>\n  <br/>\n  <a href=\"https://discord.gg/p8Pf2r3SaG\"><img src=\"https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Discord\"/></a>\n  &nbsp;\n  <a href=\"community/feishu.md\"><img src=\"https://img.shields.io/badge/Feishu-Community-00D6B9?style=for-the-badge&logo=bytedance&logoColor=white\" alt=\"Feishu Community\"/></a>\n  <br/>\n  <img src=\"https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js\" alt=\"Next.js\"/>\n  <img src=\"https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white\" alt=\"React\"/>\n  <img src=\"https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white\" alt=\"TypeScript\"/>\n  <img src=\"https://img.shields.io/badge/LangGraph-1.1-purple?s",
-  "generatedAt": "2026-09-03T01:15:44.913Z",
+  "generatedAt": "2026-09-04T01:06:50.735Z",
   "analysis": {
     "oneLine": "OpenMAIC 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "OpenMAIC 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，OpenMAIC 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 30,534，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，OpenMAIC 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 31,065，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

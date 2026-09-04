@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "GPT-6 Astra",
+  "summary": "1282 points · 1001 comments",
+  "content": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147",
+  "url": "https://openai.com/index/gpt-6-astra/",
+  "publishedAt": "2026-09-03T18:41:05.000Z",
+  "points": 1282,
+  "id": "hacker-news-e17be947",
+  "slug": "hacker-news-e17be947",
+  "fetchedAt": "2026-09-04T01:07:12.892Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "GPT-6 阿斯特拉",
+  "chineseSummary": "1282 分 · 1001 条评论",
+  "chineseContent": "系统卡：https://deploymentsafety.openai.com/gpt-6-astra 相关正在进行的线程：ARC-AGI-3 上的 OpenAI 的 GPT-6 Astra - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra 在人工分析编码代理索引中取得重大进展 - https://news.ycombinator.com/item?id=49556147",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

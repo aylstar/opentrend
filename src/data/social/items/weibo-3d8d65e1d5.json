@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3d8d65e1d5",
+  "slug": "weibo-长生-退役",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "长生 退役",
+  "summary": "微博热榜第 40 位：长生 退役，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%94%9F+%E9%80%80%E5%BD%B9%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-09-04T01:07:55.845Z",
+  "fetchedAt": "2026-09-04T01:08:02.101Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

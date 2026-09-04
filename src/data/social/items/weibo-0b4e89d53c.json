@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0b4e89d53c",
+  "slug": "weibo-lisa泡泡",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "Lisa泡泡",
+  "summary": "微博热榜第 47 位：Lisa泡泡，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Lisa%E6%B3%A1%E6%B3%A1%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-09-04T01:07:55.845Z",
+  "fetchedAt": "2026-09-04T01:08:02.101Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

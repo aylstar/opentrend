@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Any Human Ever – One life, drawn at random from all who have ever lived",
+  "summary": "463 points · 230 comments",
+  "content": "Over 100,000,000,000 people have ever lived.\n\nYou'll draw, step by step: a year, a place, a life, each taken at random from real data .\n\nAlmost everyone who ever lived was born recently, because population grew exponentially, so a random birth is far more likely to fall near the present.\n\nBrighter clusters held more people.",
+  "url": "https://anyhumanever.com/",
+  "publishedAt": "2026-09-03T14:51:10.000Z",
+  "points": 463,
+  "id": "hacker-news-14129566",
+  "slug": "hacker-news-14129566",
+  "fetchedAt": "2026-09-04T01:07:12.892Z",
+  "score": 78,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "任何人类——一个生命，从所有曾经活过的人中随机抽取",
+  "chineseSummary": "463 分 · 230 条评论",
+  "chineseContent": "曾经生活过超过 100,000,000,000 人。\n\n你将一步一步地画出：一年、一个地方、一种生活，每一个都是从真实数据中随机抽取的。\n\n几乎所有曾经生活过的人都是最近出生的，因为人口呈指数增长，所以随机出生更有可能落在现在附近。\n\n更明亮的星团容纳了更多的人。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

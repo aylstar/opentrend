@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": ".name Termination",
+  "summary": "1320 points · 370 comments",
+  "content": "Nearly twenty-five years ago I registered neil.fraser.name to provide a stable presence on the Internet. It has been the home of this website, my email address, and a server for APIs. It predates YouTube, Facebook, and smart phones. Minutes after my daughter was born, I also registered beverly.fraser.name .\n\nOn 15 April 2026 Verisign proposed the destruction of the entire 3rd level of the '.name' hierarchy in order to simplify their administration. Astonishingly, on 28 July 2026 ICANN approved this action . I found out about this a few days ago when my registrar emailed me.\n\nNow, it's worth pausing for a moment to discuss what '3rd-level domains' are. Many people will be familiar with shady operators selling domains like *.uk.co . In that case it's some random guy who bought the 'uk' domain from the country of Colombia, then resells third-levels. If that operator disappears, then so do all the domains he sold. As a result, 3rd-level domains have gotten a dubious reputation. However, '.name' is completely different. It was setup exclusively as a 3rd-level operation. One registers xxx.yyy.name from any registrar and there is a full whois record. Exactly like *.ny.us , or *.co.uk .\n\nOne of my original reasons for choosing '.name' was that it was run by Global Name Registry -- more specifically, it was not run by Verisign. I had history with Verisign and did not trust them. Unfortunately, Verisign acquired Global Name Registry a few years later. This mistrust was validated by the numerous lies Verisign included in their above proposal to ICANN.\n\nSo what does this mean? First, this website vanishes in February. Despite the fact that it's registered and paid for until 2040. Second, my email address also disappears. Third, all the IoT devices that use services on this domain become bricks. Basically, I disappear from the Internet.\n\nBut it gets much worse. Once the 3rd-level domains are terminated, it is assumed that the now vacant 2nd-level domains will become available for registration. Should someone (other than me) scoop up fraser.name they would be able to recreate and control neil.fraser.name . They'd be able to hijack hundreds of accounts that are linked to that address. They could commit code with my authentication. They could seize control of IoT devices. There is no way to enumerate all accounts (online and offline) which have been opened using this email address over the past quarter century.\n\nI'm just one of 22,000 people who will lose their domains. This is going to be fun. Time to lawyer up...",
+  "url": "https://neil.fraser.name/news/2026/09/03/",
+  "publishedAt": "2026-09-03T14:54:39.000Z",
+  "points": 1320,
+  "id": "hacker-news-83fbfa35",
+  "slug": "hacker-news-83fbfa35",
+  "fetchedAt": "2026-09-04T01:07:12.892Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": ".name 终止",
+  "chineseSummary": "1320 分 · 370 条评论",
+  "chineseContent": "大约二十五年前，我注册了 neil.fraser.name 以在互联网上提供稳定的存在。它是这个网站、我的电子邮件地址和 API 服务器的所在地。它早于 YouTube、Facebook 和智能手机。我女儿出生后几分钟，我也注册了 beverly.fraser.name 。\n\n2026 年 4 月 15 日，威瑞信提议销毁“.name”层次结构的整个第三层，以简化管理。令人惊讶的是，ICANN 于 2026 年 7 月 28 日批准了这一行动。几天前，当我的注册商给我发电子邮件时，我发现了这一点。\n\n现在，值得停下来讨论一下什么是“第三级域名”。许多人都会熟悉销售 *.uk.co 等域名的可疑运营商。在这种情况下，是某个随机的人从哥伦比亚国家购买了“uk”域名，然后转售第三级。如果该运营商消失，那么他出售的所有域名也会消失。因此，三级域名的声誉受到质疑。然而，“.name”则完全不同。它被专门设置为第三级操作。从任意注册商处注册 xxx.yyy.name 即可获得完整的 whois 记录。与 *.ny.us 或 *.co.uk 完全相同。\n\n我选择“.name”的最初原因之一是它是由全球名称注册管理机构运行的——更具体地说，它不是由 Verisign 运行的。我与威瑞信有过往来，但不信任他们。不幸的是，几年后，威瑞信收购了全球域名注册管理机构。威瑞信在向 ICANN 提交的上述提案中包含了大量谎言，证实了这种不信任。\n\n那么这意味着什么呢？首先，这个网站在二月份消失了。尽管事实上它的注册和付费直到 2040 年。其次，我的电子邮件地址也消失了。第三，所有使用该域上服务的物联网设备都会变砖。基本上，我从互联网上消失了。\n\n但情况变得更糟。一旦 3 级域名终止，目前空置的 2 级域名将可供注册。如果有人（除了我之外）获取 fraser.name 他们将能够重新创建和控制 neil.fraser.name 。他们能够劫持数百个链接到该地址的帐户。他们可以通过我的身份验证提交代码。他们可以控制物联网设备。无法枚举过去四分之一个世纪以来使用此电子邮件地址开设的所有帐户（在线和离线）。\n\n我只是将失去域名的 22,000 人之一。这会很有趣。是时候请律师了...",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

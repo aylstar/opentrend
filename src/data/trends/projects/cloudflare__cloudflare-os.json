@@ -1,0 +1,76 @@
+{
+  "slug": "cloudflare__cloudflare-os",
+  "owner": "cloudflare",
+  "repo": "cloudflare-os",
+  "name": "cloudflare-os",
+  "fullName": "cloudflare/cloudflare-os",
+  "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/cloudflare/cloudflare-os",
+  "docsUrl": "https://os.cloudflare.app",
+  "stars": 9571,
+  "forks": 1124,
+  "openIssues": 110,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-09-04T00:56:25Z",
+  "updatedAt": "2026-09-04T00:59:45Z",
+  "createdAt": "2026-04-15T22:22:53Z",
+  "archived": false,
+  "trendWindows": [
+    "monthly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "# Cloudflare OS: An AI productivity environment\n\nCloudflare OS is an \"operating system\" for AI productivity originally developed for use inside Cloudflare. A large portion of Cloudflare's workforce -- from engineering to sales and everything in between -- uses Cloudflare OS every day to help them do their jobs.\n\n![A Q3 planning workspace in Cloudflare OS, with an AI-generated slide deck](docs/images/q3-planning-workspace.png)\n\nThis is not a traditional computer operating system. We use the term \"operating system\" in two senses:\n\n* An operating system for *the company* to be productive with AI, in a way that is safe, so that the security team can sleep at night.\n* An operating system for AI workloads, analogous to the sense in which a traditional operating system manages compute workloads.\n\nCloudflare OS provides three things in particular:\n\n1. An agent chat UI where you can ask agents to do tasks, preloaded with knowledge about how your company operates.\n2. Sandboxed application development, so that you can ask agents to build \"gadgets\" (small personal apps) and safely share what you've built with others.\n3. A security framework, called Gatekeepers, that applies guardrails to both agents and apps such that non-technical users can safely \"go nuts\" and nothing bad will happen.\n\nWe are making Cloudflare OS open source so that others can copy it and customize it for their own company. The idea is not that your company uses Cloudflare OS, but rather that you make it \"*Your Company* OS\".\n\n## Quick Start\n\nTo quickly run Cloudflare OS locally, [install pnpm](https://pnpm.io/), then do:\n\n    pnpm run-local\n\nThen visit: http://localhost:8787\n\nThis runs the whole stack locally on wrangler and workerd. This is not meant for production use, but is a quick way to see what the product does.\n\nAlternatively, you can [deploy to your Cloudflare account](https://os.cloudflare.app/deploy).\n\n(More options at the end of this readme.)\n\n### What to try\n\nTry prompts like:\n\n* \"Make slides for my upcoming meeting with a customer.\" (This will use the built-in slides blueprint.)\n* \"Make a collaborative whiteboard app.\" (This will create a new app from scratch.)\n* \"Make a tic tac toe game.\" followed by \"I'll be X and you be O. I've made my first move. Your turn.\"\n* \"Make an issue dashboard for this GitHub repo.\" (Attach a repo; requires that the GitHub integration is configured.)\n* \"Fix the typos in this Google Doc.\" (Attach a doc; requires that the Google integration is configured.)\n\n### WARNING: Early access\n\nCloudflare OS is in a state of heavy development. This repository is actually version 2, a complete rewrite taking what we learned from version 1 and putting it on a new foundation.\n\nAs of the August 2026 release, Cloudflare OS v2 is very capable, but still has many rough edges. We know, and we're working on it. For now, consider this an \"early access\" release.\n\n## Overview: What is Cloudflare OS really?\n\n### Gadgets: A new way of thinking about software\n\nCloudflare OS ",
+  "generatedAt": "2026-09-04T01:06:54.611Z",
+  "analysis": {
+    "oneLine": "cloudflare-os 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
+    "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
+    "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
+    "detailParagraphs": [
+      "cloudflare-os 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
+      "如果把它放进实际使用场景，cloudflare-os 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 9,571，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "投研辅助分析",
+      "量化策略学习",
+      "金融数据处理",
+      "交易 Agent 原型验证"
+    ],
+    "interpretation": "cloudflare-os 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "pnpm run-local\npnpm run-local\npnpm dev-server\npnpm dev-client",
+    "deployment": "重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在辅助市场研究、交易策略模拟或金融数据分析，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。",
+    "recommendation": 2.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-09-04T01:06:54.612Z"
+}

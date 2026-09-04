@@ -1,0 +1,21 @@
+{
+  "id": "weibo-85054b77cb",
+  "slug": "weibo-救赎",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 23,
+  "title": "救赎",
+  "summary": "微博热榜第 23 位：救赎，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%95%91%E8%B5%8E%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-09-04T01:07:55.845Z",
+  "fetchedAt": "2026-09-04T01:08:02.101Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
