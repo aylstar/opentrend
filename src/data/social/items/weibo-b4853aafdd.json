@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b4853aafdd",
+  "slug": "weibo-罗志祥复出争议",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "罗志祥复出争议",
+  "summary": "微博热榜第 13 位：罗志祥复出争议，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E5%A4%8D%E5%87%BA%E4%BA%89%E8%AE%AE%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-09-05T01:05:05.761Z",
+  "fetchedAt": "2026-09-05T01:11:24.940Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

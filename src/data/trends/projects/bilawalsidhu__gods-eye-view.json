@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/bilawalsidhu/gods-eye-view",
   "docsUrl": "https://maptheworld.ai/",
-  "stars": 16950,
-  "forks": 3406,
-  "openIssues": 118,
+  "stars": 17519,
+  "forks": 3533,
+  "openIssues": 125,
   "license": "NOASSERTION",
-  "pushedAt": "2026-09-02T23:29:02Z",
-  "updatedAt": "2026-09-04T01:06:48Z",
+  "pushedAt": "2026-09-04T02:47:48Z",
+  "updatedAt": "2026-09-05T01:09:30Z",
   "createdAt": "2026-06-22T23:37:22Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n# 🌐 God's Eye View\n\n### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.\n\nPhotorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent.\n\n*No place left behind.*\n\n![Orbital HUD, a tracked live globe, FLIR terrain — then OPEN SOURCED](docs/media/hero-open-source-reveal.gif)\n\n<a href=\"https://www.youtube.com/@bilawalsidhu\">\n  <img src=\"docs/media/youtube-popular-videos.png\" alt=\"The God's Eye View video series on YouTube\" width=\"100%\">\n</a>\n\n▶️ **From the project behind the viral God's Eye View series** *(formerly WorldView)* — [5M+ on YouTube](https://youtube.com/playlist?list=PL6qSg2I-7_koPbDnSMo0QeeHX_RknA2uv&si=nBGYMoHWQw41v93Q) · [25M+ across socials](https://www.google.com/search?q=god%27s+eye+view)\n\n[![#1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://github.com/trending)\n\n🏆 **#1 on GitHub Trending this past week — thank you.** You asked for a one-click install; it's here.\n\n⚡ **No keys, no signup, no config file.** One click through [Pinokio](https://pinokio.computer/) — or `npm install && npm run dev` — and the globe comes to life. Keys are power-ups you paste into the app later. **[→ Quick Start](#-quick-start)**\n\n</div>\n\n---\n\n<div align=\"center\">\n\n**[Quick Start](#-quick-start) · [First Five Minutes](#-the-first-five-minutes) · [Talk to It](#-talk-to-it) · [What's Live](#-whats-on-the-globe) · [Under the Hood](#-under-the-hood) · [Keys & Costs](#-api-keys)**\n\n</div>\n\n---\n\n## 🌍 Why This Exists\n\n**You asked, so it's happening.** God's Eye View is open source. Track the world live. Talk to it. Break it. Extend it.\n\nMost open-source intelligence is a pile of browser tabs. The signals are abundant, but the *interface* is the bottleneck. God's Eye View turns those signals into a **place**: the world is already broadcasting — flight transponders, ship beacons, orbital elements, seismographs, public cameras — and this makes it visible on a photorealistic 3D Earth in real time. No classified clearance required; it's public signal all the way down, and the interface runs in your browser, under your control.\n\n> Half the magic is that it looks like a forbidden cockpit. The other half is that every line of code is inspectable.\n\nMost feeds are live or regularly refreshed. Traffic is simulated along real\nroads using aggregate location data. CCTV camera poses and rocket launch\ntrajectories are coarse estimates.\n\nYou'll be surprised how accessible this is. Free and nearly-free APIs deliver\na surprisingly complete experience out of the box — then it's yours to extend\nwith bigger data sources whenever you're ready.\n\n---\n\n## 🎛️ What This Thing Does\n\n- **🛩️ Cockpit view:** Ride inside a tracked flight — the camera holds the terrain under you all the way down.\n- **📡 Contacts:** A 250 km roster of everyth",
-  "generatedAt": "2026-09-04T01:06:50.332Z",
+  "generatedAt": "2026-09-05T01:09:55.174Z",
   "analysis": {
     "oneLine": "gods-eye-view 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "gods-eye-view 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，gods-eye-view 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 16,950，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，gods-eye-view 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 17,519，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

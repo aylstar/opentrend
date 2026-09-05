@@ -1,0 +1,68 @@
+{
+  "slug": "fmtlib__fmt",
+  "owner": "fmtlib",
+  "repo": "fmt",
+  "name": "fmt",
+  "fullName": "fmtlib/fmt",
+  "description": "A modern formatting library",
+  "language": "C++",
+  "githubUrl": "https://github.com/fmtlib/fmt",
+  "docsUrl": "https://fmt.dev",
+  "stars": 25471,
+  "forks": 3035,
+  "openIssues": 12,
+  "license": "MIT",
+  "pushedAt": "2026-09-04T23:27:22Z",
+  "updatedAt": "2026-09-05T01:08:11Z",
+  "createdAt": "2012-12-07T16:26:46Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<img src=\"https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png\" alt=\"{fmt}\" width=\"25%\"/>\n\n[![image](https://github.com/fmtlib/fmt/actions/workflows/linux.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Alinux)\n[![image](https://github.com/fmtlib/fmt/actions/workflows/macos.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Amacos)\n[![image](https://github.com/fmtlib/fmt/actions/workflows/windows.yml/badge.svg?branch=master)](\nhttps://github.com/fmtlib/fmt/actions?query=workflow%3Awindows)\n[![fmt is continuously fuzzed at oss-fuzz](https://oss-fuzz-build-logs.storage.googleapis.com/badges/fmt.svg)](\nhttps://issues.oss-fuzz.com/issues?q=title:fmt%20cc:victor.zverovich@gmail.com)\n[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8880/badge)](\nhttps://www.bestpractices.dev/projects/8880)\n[![image](https://api.securityscorecards.dev/projects/github.com/fmtlib/fmt/badge)](\nhttps://securityscorecards.dev/viewer/?uri=github.com/fmtlib/fmt)\n[![Ask questions at StackOverflow with the tag fmt](\nhttps://img.shields.io/badge/stackoverflow-fmt-blue.svg)](https://stackoverflow.com/questions/tagged/fmt)\n[![Support Ukraine](\nhttps://img.shields.io/badge/Support-Ukraine-005BBB?labelColor=FFD500)](https://novaukraine.org/)\n\n**{fmt}** is an open-source formatting library providing a fast and safe\nalternative to C stdio and C++ iostreams.\n\n[Documentation](https://fmt.dev)\n\n[Cheat Sheets](https://hackingcpp.com/cpp/libs/fmt.html)\n\nQ&A: ask questions on [StackOverflow with the tag\nfmt](https://stackoverflow.com/questions/tagged/fmt).\n\nTry {fmt} in [Compiler Explorer](https://godbolt.org/z/8Mx1EW73v).\n\n[![Live demo by Demoshell](https://build.demoshell.com/v1/embed/badge.svg)](https://build.demoshell.com/launch?snapshot=demoshell%2Ftools%3Afmt)\n\n# Features\n\n- Simple [format API](https://fmt.dev/latest/api/) with positional\n  arguments for localization\n- Implementation of [C++20\n  std::format](https://en.cppreference.com/w/cpp/utility/format) and\n  [C++23 std::print](https://en.cppreference.com/w/cpp/io/print)\n- [Format string syntax](https://fmt.dev/latest/syntax/) similar\n  to Python\\'s\n  [format](https://docs.python.org/3/library/stdtypes.html#str.format)\n- Fast IEEE 754 floating-point formatter with correct rounding,\n  shortness and round-trip guarantees using the\n  [Dragonbox](https://github.com/jk-jeon/dragonbox) algorithm\n- Portable Unicode support\n- Safe [printf\n  implementation](https://fmt.dev/latest/api/#printf-api)\n  including the POSIX extension for positional arguments\n- Extensibility: [support for user-defined\n  types](https://fmt.dev/latest/api/#formatting-user-defined-types)\n- High performance: faster than common standard library\n  implementations of `(s)printf`, iostreams, `to_string` and\n  `to_chars`, see [Speed tests](#speed-tests) and [Converting a\n  hundred million integers to strings per\n  second](https://vitaut.net",
+  "generatedAt": "2026-09-05T01:09:58.094Z",
+  "analysis": {
+    "oneLine": "fmt 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
+    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
+    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "detailParagraphs": [
+      "fmt 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
+      "如果把它放进实际使用场景，fmt 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 25,471，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C++ 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "公开信息风险排查",
+      "账号暴露核查",
+      "安全培训演示",
+      "企业攻击面初筛"
+    ],
+    "interpretation": "fmt 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 C++ 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 C++ 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险主要是合规、隐私和误报，需要配套人工复核机制。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-09-05T01:09:58.095Z"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Government Rails Site Hit Hours After CVE Patch",
+  "summary": "74 points · 21 comments",
+  "content": "74 points · 21 comments",
+  "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+  "publishedAt": "2026-09-04T19:06:39.000Z",
+  "points": 74,
+  "id": "hacker-news-beeac456",
+  "slug": "hacker-news-beeac456",
+  "fetchedAt": "2026-09-05T01:10:14.085Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "CVE 补丁发布后数小时内，政府铁路网站出现瘫痪",
+  "chineseSummary": "74 分 · 21 条评论",
+  "chineseContent": "74 分 · 21 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

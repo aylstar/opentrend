@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US economy smashes forecast with 162,000 jobs added in August",
+  "summary": "Expectations for Federal Reserve rate rise in September tick up after strong report",
+  "url": "https://www.ft.com/content/a7ce8b2f-98f5-4e96-afa0-ccf4dceef8bd?syn-25a6b1a6=1",
+  "publishedAt": "2026-09-04T19:04:05.000Z",
+  "id": "financial-times-63e29091",
+  "slug": "financial-times-63e29091",
+  "content": "Expectations for Federal Reserve rate rise in September tick up after strong report",
+  "fetchedAt": "2026-09-05T01:10:14.096Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 15,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "US economy smashes forecast with 162,000 jobs added in August",
+  "chineseSummary": "Expectations for Federal Reserve rate rise in September tick up after strong report",
+  "chineseContent": "Expectations for Federal Reserve rate rise in September tick up after strong report",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

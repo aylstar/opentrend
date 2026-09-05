@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/tt-a1i/archify",
   "docsUrl": "https://tt-a1i.github.io/archify/",
-  "stars": 45841,
-  "forks": 2939,
-  "openIssues": 107,
+  "stars": 48096,
+  "forks": 3102,
+  "openIssues": 112,
   "license": "MIT",
-  "pushedAt": "2026-09-02T01:24:50Z",
-  "updatedAt": "2026-09-04T01:06:46Z",
+  "pushedAt": "2026-09-04T16:04:29Z",
+  "updatedAt": "2026-09-05T01:09:35Z",
   "createdAt": "2026-04-15T05:27:37Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <strong>English</strong> · <a href=\"./README_ZH.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a>\n</p>\n\n![Archify product preview](docs/assets/archify-readme-hero.png)\n\n# Archify\n\n**Turn a codebase or system description into a polished, interactive system map — directly in chat.**\n\nArchify is a Node.js rendering and validation system for Cursor, Claude Code, Codex CLI, and OpenCode. Agents produce typed JSON IR; Archify deterministically compiles it into HTML/SVG.\n\n- **Open it and present** — five diagram types, four presets, dark/light themes, built-in brand marks, and finite motion\n- **Review architecture changes before merge** — compare two validated snapshots as Before / Delta / After, with exact added, removed, changed, moved, and rerouted facts\n- **Every interaction stays grounded** — search nodes, optionally open revision-verified source, trace upstream/downstream authored reach and exact routes, compare roles, and play guided stories without inventing topology\n- **One file, ready to trust and share** — typed JSON IR and deterministic checks produce self-contained HTML plus PNG, SVG, WebM, and 1200×630 share cards\n\n![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat-square)\n![Agent Skill](https://img.shields.io/badge/Agent-Skill-7C3AED?style=flat-square)\n![Development Version](https://img.shields.io/badge/version-2.17.0--dev.1-0891b2?style=flat-square)\n\n**Current development version:** `v2.17.0-dev.1`. See [Changelog](CHANGELOG.md#unreleased).\n\n**[Project page](https://tt-a1i.github.io/archify/)** · **[Scenario guide](https://tt-a1i.github.io/archify/guide.html)** · **[Proof Lab](https://tt-a1i.github.io/archify/gallery.html)**\n\n```bash\nnpx skills add tt-a1i/archify -g\n```\n\nUsing Cursor? Open the [agent-aware quick start](https://tt-a1i.github.io/archify/start.html?agent=cursor&type=architecture) for exact global and project commands.\n\n**No repository is required:** describe the system in any agent chat.\n\n## ❤️ Sponsors\n\n<table>\n  <tr><td align=\"center\" width=\"240\"><a href=\"https://apinebula.ai/ref/wywnaATT\"><img src=\"docs/assets/sponsors/apinebula-archify.jpg\" alt=\"APINEBULA\" width=\"200\" /></a><br/><strong><a href=\"https://apinebula.ai/ref/wywnaATT\">APINEBULA</a></strong></td><td>APINEBULA sponsors Archify with one API for Claude, GPT, Gemini, and more. <a href=\"https://apinebula.ai/ref/wywnaATT\">Register through Archify</a> and use <strong><code>Archify</code></strong> for <strong>10% off</strong>.</td></tr>\n  <tr><td align=\"center\" width=\"240\"><a href=\"https://github.com/EverMind-AI/Raven\"><img src=\"docs/assets/sponsors/evermind-archify-raven.png\" alt=\"Archify × Raven\" width=\"200\" /></a><br/><strong><a href=\"htt",
-  "generatedAt": "2026-09-04T01:06:49.959Z",
+  "generatedAt": "2026-09-05T01:09:54.205Z",
   "analysis": {
     "oneLine": "archify 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "archify 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，archify 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 45,841，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，archify 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 48,096，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

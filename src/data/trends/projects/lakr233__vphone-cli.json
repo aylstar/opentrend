@@ -1,0 +1,68 @@
+{
+  "slug": "lakr233__vphone-cli",
+  "owner": "Lakr233",
+  "repo": "vphone-cli",
+  "name": "vphone-cli",
+  "fullName": "Lakr233/vphone-cli",
+  "description": "",
+  "language": "Swift",
+  "githubUrl": "https://github.com/Lakr233/vphone-cli",
+  "docsUrl": "",
+  "stars": 10506,
+  "forks": 1353,
+  "openIssues": 23,
+  "license": "MIT",
+  "pushedAt": "2026-08-31T22:34:35Z",
+  "updatedAt": "2026-09-05T01:08:45Z",
+  "createdAt": "2026-02-26T11:29:08Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<div align=\"right\"><strong><a href=\"./docs/README_ko.md\">🇰🇷한국어</a></strong> | <strong><a href=\"./docs/README_ja.md\">🇯🇵日本語</a></strong> | <strong><a href=\"./docs/README_zh.md\">🇨🇳中文</a></strong> | <strong>🇬🇧English</strong></div>\n\n# vphone-cli\n\nBoot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure.\n\n![poc](./docs/demo.jpeg)\n\n## Prerequisites\n\n**Host:**\n\n- Apple Silicon\n- macOS 15+ (Sequoia)\n- Xcode + iOS SDK (cross-compiles the guest daemon)\n- [SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binary](#sipamfi-relaxation)\n\n**Dependencies:**\n\n```bash\nbrew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procursus sshpass keystone cmake libusb ipsw zstd\n```\n\n## Install\n\n```bash\nbrew install zqxwce/tap/vphone-cli\n```\n\n## Build\n\n```bash\ngit clone --recurse-submodules https://github.com/Lakr233/vphone-cli.git\n\n./scripts/setup_tools.sh      # install deps, build toolchain submodules, create the Python venv\n./scripts/build.sh            # build + sign vphone-cli, bundle the .app, cross-compile vphoned\n\ncd .build/vphone-cli.app/Contents/MacOS/\nvphone-cli --help\n```\n\n## Quick Start\n\nOne command creates a VM end-to-end (download → patch → DFU restore → CFW install → first boot):\n\n```bash\nvphone-cli vm create myphone -V jb        # -V / --variant\n\nvphone-cli vm launch myphone\n```\n\n## Commands\n\n`vphone-cli vm create` runs the whole pipeline; the individual steps below let you drive it manually or re-run one stage.\n\n### Manage\n\n```bash\nvphone-cli vm list                         # list VMs (--json for scripting)\nvphone-cli vm info myphone                  # show one VM\nvphone-cli vm new myphone                   # create an empty bundle (cpu/mem/disk options)\nvphone-cli vm config myphone --cpu 8 --memory 8192\nvphone-cli vm clone myphone myphone-2       # fast APFS clone, fresh device identity\nvphone-cli vm export myphone --out myphone.tzst   # zstd fast by default (--max = xz -9); --out may be a dir (auto-names <vm>.tzst/.txz); skips restore dir + staging files\nvphone-cli vm import myphone.tzst --name restored\nvphone-cli vm rename myphone iphone16\nvphone-cli vm delete iphone16\n```\n\n### Build a VM manually (what `vm create` automates)\n\n```bash\nvphone-cli vm new myphone                              # 1. empty bundle\nvphone-cli fw prepare myphone --iphone-version 26.1     # 2. download + merge IPSWs\nvphone-cli fw patch myphone --variant jb                # 3. patch the boot chain\n\nvphone-cli vm launch myphone --dfu &                    # 4. boot into DFU (background)\nvphone-cli restore myphone --get-shsh                   #    fetch SHSH\nvphone-cli restore myphone                              #    DFU restore\nvphone-cli vm stop myphone                              #    stop the DFU boot\n\nvphone-cli cfw install myphone --variant jb             # 5. install CFW (host-mount; asks for sudo)\nvphone-cli vm launch myphone                            # 6. first boot\n```\n\nUpdate to a newer iOS by point",
+  "generatedAt": "2026-09-05T01:09:57.627Z",
+  "analysis": {
+    "oneLine": "vphone-cli 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
+    "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
+    "audience": "研究人员、学生、行业分析师、知识工作者",
+    "detailParagraphs": [
+      "vphone-cli 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
+      "如果把它放进实际使用场景，vphone-cli 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 10,506，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "文献阅读工作流",
+      "研究资料整理",
+      "行业报告素材管理",
+      "AI 辅助研究流程"
+    ],
+    "interpretation": "vphone-cli 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Swift 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "brew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procursus sshpass keystone cmake libusb ipsw zstd\nbrew install zqxwce/tap/vphone-cli\ngit clone --recurse-submodules https://github.com/Lakr233/vphone-cli.git",
+    "deployment": "重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在改善文献检索、阅读、整理和研究输出流程，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Swift 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于不同研究场景差异较大，自动化效果需要真实任务验证。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-09-05T01:09:57.627Z"
+}
