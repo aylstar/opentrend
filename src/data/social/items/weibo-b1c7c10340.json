@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b1c7c10340",
+  "slug": "weibo-青春华章",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "青春华章",
+  "summary": "微博热榜第 3 位：青春华章，当前热度为 130万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%23",
+  "hotValue": "130万热度",
+  "author": "",
+  "publishedAt": "2026-09-06T01:01:37.439Z",
+  "fetchedAt": "2026-09-06T01:09:13.881Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

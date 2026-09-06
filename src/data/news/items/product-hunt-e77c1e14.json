@@ -8,18 +8,18 @@
   "id": "product-hunt-e77c1e14",
   "slug": "product-hunt-e77c1e14",
   "content": "OpenAI's most capable model for end-to-end work Discussion | Link",
-  "fetchedAt": "2026-09-05T01:10:14.087Z",
+  "fetchedAt": "2026-09-06T01:08:40.744Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 7,
+  "rank": 9,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "GPT-6 阿斯特拉",
-  "chineseSummary": "OpenAI 最有能力的端到端工作模型讨论 |关联",
-  "chineseContent": "OpenAI 最有能力的端到端工作模型讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "GPT-6 Astra",
+  "chineseSummary": "OpenAI's most capable model for end-to-end work Discussion | Link",
+  "chineseContent": "OpenAI's most capable model for end-to-end work Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+  "summary": "27 points · 11 comments",
+  "content": "A Domain-Neutral, Git-Native Persistent Project Memory for AI Agents based on the Open Knowledge Format (OKF) v0.2.\n\nConversations with AI agents reset when context windows close. Valuable architectural decisions, domain discoveries, and operational facts are lost unless stored persistently.\n\nOKF Agent Memory provides a standardized, vendor-neutral memory layer that lives directly in your repository ( knowledge/ ) as plain Markdown files with YAML frontmatter. It bridges the gap between unstructured ad-hoc markdown files ( CLAUDE.md , AGENTS.md ) and complex, black-box vector databases.\n\nBuilt in Go with zero external dependencies, okf is engineered for high-frequency agent tool calling loops:\n\nReproduce Locally with your own LLM : We provide an automated benchmark runner in pure Go to verify Time-To-First-Token (TTFT) speedups and -80% token reduction on your local hardware (LM Studio / Ollama with Gemma, Qwen, Llama). Run make benchmark or explore the Progressive Disclosure Benchmark Suite .\n\nClone the repository and compile the standalone okf executable:\n\nThis generates the standalone binary at bin/okf .\n\n3. Bootstrapping Agent Memory in Any Project\n\nScaffold the complete OKF Agent Memory architecture into any new or existing repository with a single command:\n\nokf ships with a native Model Context Protocol (MCP) server over stdio to seamlessly connect with Claude Code, Cursor, Codex, and other agent platforms:\n\nRun the full test suite and validate the repository's self-documenting knowledge bundle:\n\nMIT License. See LICENSE for details.",
+  "url": "https://github.com/okf-memory/okf-agent-memory",
+  "publishedAt": "2026-09-05T22:15:52.000Z",
+  "points": 27,
+  "id": "hacker-news-144f38d5",
+  "slug": "hacker-news-144f38d5",
+  "fetchedAt": "2026-09-06T01:08:40.742Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+  "chineseSummary": "27 points · 11 comments",
+  "chineseContent": "A Domain-Neutral, Git-Native Persistent Project Memory for AI Agents based on the Open Knowledge Format (OKF) v0.2.\n\nConversations with AI agents reset when context windows close. Valuable architectural decisions, domain discoveries, and operational facts are lost unless stored persistently.\n\nOKF Agent Memory provides a standardized, vendor-neutral memory layer that lives directly in your repository ( knowledge/ ) as plain Markdown files with YAML frontmatter. It bridges the gap between unstructured ad-hoc markdown files ( CLAUDE.md , AGENTS.md ) and complex, black-box vector databases.\n\nBuilt in Go with zero external dependencies, okf is engineered for high-frequency agent tool calling loops:\n\nReproduce Locally with your own LLM : We provide an automated benchmark runner in pure Go to verify Time-To-First-Token (TTFT) speedups and -80% token reduction on your local hardware (LM Studio / Ollama with Gemma, Qwen, Llama). Run make benchmark or explore the Progressive Disclosure Benchmark Suite .\n\nClone the repository and compile the standalone okf executable:\n\nThis generates the standalone binary at bin/okf .\n\n3. Bootstrapping Agent Memory in Any Project\n\nScaffold the complete OKF Agent Memory architecture into any new or existing repository with a single command:\n\nokf ships with a native Model Context Protocol (MCP) server over stdio to seamlessly connect with Claude Code, Cursor, Codex, and other agent platforms:\n\nRun the full test suite and validate the repository's self-documenting knowledge bundle:\n\nMIT License. See LICENSE for details.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

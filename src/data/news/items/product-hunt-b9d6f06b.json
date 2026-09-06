@@ -8,7 +8,7 @@
   "id": "product-hunt-b9d6f06b",
   "slug": "product-hunt-b9d6f06b",
   "content": "Our most advanced and accurate global weather AI model Discussion | Link",
-  "fetchedAt": "2026-09-05T01:10:14.087Z",
+  "fetchedAt": "2026-09-06T01:08:40.744Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -18,9 +18,9 @@
   ],
   "rank": 10,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "天气下一个 3",
-  "chineseSummary": "我们最先进、最准确的全球天气人工智能模型 讨论 |关联",
-  "chineseContent": "我们最先进、最准确的全球天气人工智能模型 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "WeatherNext 3",
+  "chineseSummary": "Our most advanced and accurate global weather AI model Discussion | Link",
+  "chineseContent": "Our most advanced and accurate global weather AI model Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

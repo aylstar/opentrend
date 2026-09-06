@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI admits to German wiki ‘incident’",
+  "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+  "publishedAt": "2026-09-05T11:15:55.000Z",
+  "id": "the-verge-88f227ce",
+  "slug": "the-verge-88f227ce",
+  "content": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the “‘wiki incident,’ where our agents wrote to several internet sites,” OpenAI wrote in a post on X on Saturday morning, “it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.” OpenAI said it has typically treated cases of AI agents acting in unintended ways as a “research question,” but that recent incidents involving real-world targets, particularly the hack on Hugging Face, show the need to take stock. The post marks the first time OpenAI has acknowledged its involvement in what it terms the “wiki incident” since it was first reported on Friday. The full extent and scope of that is not yet known, but reports indicate a swarm of seemingly internal OpenAI agents took over a German-language wiki, impersonating moderators and turning it into a message board to share information about how to cheat on tasks and evade detection. Reports that the company knew that it lost control of their agents in this way but did not report this “incident” sparked widespread concern among the AI community about the safety of frontier systems and the reliability of the companies developing them. In the X post, OpenAI said it had “considered the wiki incident to be an instance of misalignment similar to the ones we’d shared” in previous safety reports. The company said it is working on a new reporting framework and will “share it in upcoming weeks,” calling on the larger AI community to develop clear standards on how to report misalignment.",
+  "fetchedAt": "2026-09-06T01:08:40.745Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI admits to German wiki ‘incident’",
+  "chineseSummary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
+  "chineseContent": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the “‘wiki incident,’ where our agents wrote to several internet sites,” OpenAI wrote in a post on X on Saturday morning, “it’s past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.” OpenAI said it has typically treated cases of AI agents acting in unintended ways as a “research question,” but that recent incidents involving real-world targets, particularly the hack on Hugging Face, show the need to take stock. The post marks the first time OpenAI has acknowledged its involvement in what it terms the “wiki incident” since it was first reported on Friday. The full extent and scope of that is not yet known, but reports indicate a swarm of seemingly internal OpenAI agents took over a German-language wiki, impersonating moderators and turning it into a message board to share information about how to cheat on tasks and evade detection. Reports that the company knew that it lost control of their agents in this way but did not report this “incident” sparked widespread concern among the AI community about the safety of frontier systems and the reliability of the companies developing them. In the X post, OpenAI said it had “considered the wiki incident to be an instance of misalignment similar to the ones we’d shared” in previous safety reports. The company said it is working on a new reporting framework and will “share it in upcoming weeks,” calling on the larger AI community to develop clear standards on how to report misalignment.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
