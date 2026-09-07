@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d86ac03151",
+  "slug": "weibo-交锋-尺度大",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "交锋 尺度大",
+  "summary": "微博热榜第 18 位：交锋 尺度大，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%A4%E9%94%8B+%E5%B0%BA%E5%BA%A6%E5%A4%A7%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-09-07T01:04:51.570Z",
+  "fetchedAt": "2026-09-07T01:10:33.919Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Nitter and XCancel resume service after legal advice",
+  "summary": "441 points · 234 comments",
+  "content": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/",
+  "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+  "publishedAt": "2026-09-06T17:49:47.000Z",
+  "points": 441,
+  "id": "hacker-news-5b930caa",
+  "slug": "hacker-news-5b930caa",
+  "fetchedAt": "2026-09-07T01:09:39.064Z",
+  "score": 66,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Nitter 和 XCancel 在法律建议后恢复服务",
+  "chineseSummary": "441 分 · 234 条评论",
+  "chineseContent": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

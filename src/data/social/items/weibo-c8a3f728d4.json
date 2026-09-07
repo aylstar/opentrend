@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c8a3f728d4",
+  "slug": "weibo-华为-韬定律",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "华为 韬定律",
+  "summary": "微博热榜第 7 位：华为 韬定律，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA+%E9%9F%AC%E5%AE%9A%E5%BE%8B%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-09-07T01:04:51.570Z",
+  "fetchedAt": "2026-09-07T01:10:33.919Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Boox’s tiny Picco e-reader should land in November",
+  "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to […]",
+  "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+  "publishedAt": "2026-09-06T16:28:58.000Z",
+  "id": "the-verge-5116596f",
+  "slug": "the-verge-5116596f",
+  "content": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we’ve got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a phone. The 3.97-inch e-paper display, however, will be touchscreen, which The Verge’s Andrew Liszewski called a “welcome upgrade” on the X4 Pro. The Picco has physical page-turn buttons, and they can be customized with different actions for short and long presses. There’s apparently no onboard storage, and it relies entirely on a microSD card to hold books. But in addition to adding files to the card, you can transfer reading material to the Picco directly over USB-C (which the Xteink devices lack) or even WiFi from a companion app. The Picco won’t run Android, like Boox’s other devices, and will instead run a stripped-down, Linux-based OS. The company is including a handful of additional apps like a timer, a todo list, and a reading stats tracker. But, it’s unlikely that Boox will open its firmware like Xteink has, so it might be a less hackable and customizable device. There’s still some things we don’t know, like price, battery life, Bluetooth support, or if it will include a player for audiobooks. But all should be revealed in November, when it’s expected to launch.",
+  "fetchedAt": "2026-09-07T01:09:39.068Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Boox 的小型 Picco 电子阅读器将于 11 月上市",
+  "chineseSummary": "Boox 早在 7 月份就曾嘲笑过 Picco，它是对流行的 Xteink X4 电子阅读器的模仿，但几乎没有提供任何细节。现在，多亏了 IFA 的一些报道，我们得到了更多信息，但遗憾的是仍然没有价格。与 Xteink 设备不同，Picco 背面没有磁铁用于连接 [...]",
+  "chineseContent": "Boox 早在 7 月份就曾嘲笑过 Picco，它是对流行的 Xteink X4 电子阅读器的模仿，但几乎没有提供任何细节。现在，多亏了 IFA 的一些报道，我们得到了更多信息，但遗憾的是仍然没有价格。与 Xteink 设备不同，Picco 背面没有用于连接手机的磁铁。不过，3.97 英寸的电子纸显示屏将是触摸屏，The Verge 的 Andrew Liszewski 称其为 X4 Pro 的“欢迎升级”。 Picco 有物理翻页按钮，可以自定义短按和长按的不同操作。显然没有板载存储，它完全依靠 microSD 卡来保存书籍。但除了将文件添加到卡上之外，您还可以通过 USB-C（Xteink 设备缺乏）甚至 WiFi 从配套应用程序直接将阅读材料传输到 Picco。 Picco 不会像 Boox 的其他设备那样运行 Android，而是运行一个基于 Linux 的精简操作系统。该公司还提供了一些额外的应用程序，例如计时器、待办事项列表和阅读统计跟踪器。但是，Boox 不太可能像 Xteink 那样开放其固件，因此它可能是一种不易破解和可定制的设备。还有一些事情我们不知道，比如价格、电池寿命、蓝牙支持，或者是否包含有声读物播放器。但一切都应该在 11 月份揭晓，届时预计将推出。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

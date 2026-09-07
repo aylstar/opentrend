@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5c642ecefd",
+  "slug": "weibo-特斯拉降价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "特斯拉降价",
+  "summary": "微博热榜第 47 位：特斯拉降价，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%8D%E4%BB%B7%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-09-07T01:04:51.570Z",
+  "fetchedAt": "2026-09-07T01:10:33.920Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

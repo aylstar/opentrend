@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/handsomestWei/patent-disclosure-skill",
   "docsUrl": "https://skillhub.cn/skills/patent-disclosure-skill",
-  "stars": 7473,
-  "forks": 821,
-  "openIssues": 7,
+  "stars": 7799,
+  "forks": 843,
+  "openIssues": 8,
   "license": "MIT",
-  "pushedAt": "2026-09-05T08:34:42Z",
-  "updatedAt": "2026-09-06T01:06:55Z",
+  "pushedAt": "2026-09-06T08:10:33Z",
+  "updatedAt": "2026-09-07T01:08:19Z",
   "createdAt": "2026-04-07T15:44:15Z",
   "archived": false,
   "trendWindows": [
@@ -25,14 +25,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "<div align=\"center\">\n\n# 中国专利.skill\n\n> 专利点挖掘与交底书（发明/实用/外观）编写，已有交底改写成申请文件，公布公告著录检索，通俗解读专利，对照审查口径出政策简报，辅助审查答复。\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)\n[![Playwright](https://img.shields.io/badge/Playwright-mermaid%20%2B%20CNIPA-2EAD33.svg)](https://playwright.dev/)\n[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)\n\n<br>\n\n有设计文档和代码，但**专利点还没梳**？交底书要**框图 + 可改 Word**？<br>\n定稿后还要**多轮补材料、纠错**并留下修改追溯？<br>\n公开专利晦涩难懂，想**快速看懂权要与落地语境**？\n\n[初衷](#初衷) · [运行效果](#运行效果) · [子技能列表](#子技能列表) · [支持作者](#支持作者) · [参考文档](#参考文档) · [安装说明](INSTALL.md) · [技能入口](SKILL.md)\n\n</div>\n\n---\n\n## 初衷\n\n### 专利交底书编写\n\n> **做了多年核心研发，专利发明人那一栏从没写过我的名字。**\n\n代码是自己敲的，方案是自己扛的，轮到交底书却卡在「专利点怎么挖、查新怎么写、框图和 Word 怎么一次交得出去」。本技能把这一环打通：覆盖发明 / 实用新型 / 外观设计，结构图与外观图都能读懂、写进交底；从项目材料梳出可申请的点，查新、脱敏、成文、迭代另存——让真正干活的人，也能把技术贡献写进可交付的交底书里。\n\n### 专利通俗解读\n\n> **不止一篇。**\n\n公开专利常把阅读门槛抬得很高：权要绕、术语密、落地语境散落在说明书与附图里。本技能把单篇读成通俗笔记与图谱，并入库 Obsidian；依托双链、图谱、插件与 Bases 等生态，陆续解读的专利可以沉淀成**只属于自己的私有专利知识库**——权要、术语、线索与附图彼此勾连，越读越厚。再叠上 [Obsidian CLI](https://help.obsidian.md/cli) 与库内外连接能力，检索、批处理、和外部工具接力都更容易：从单篇通俗笔记，走向可检索、可关联、可继续生长的个人专利情报层，把沉睡在 PDF 里的技术细节重新点亮。库厚了之后，还能在这层之上做**专利比对、挖掘与分析**——同族对照、技术路线梳理、差异点扫描，把「读懂」推进到「用起来」。\n\n---\n\n## 运行效果\n\n### 专利交底书编写\n\n<table width=\"100%\" border=\"1\" cellpadding=\"12\" cellspacing=\"0\">\n<tr>\n<th width=\"50%\" align=\"center\">初版生成<br><sub>首次落盘交付</sub></th>\n<th width=\"50%\" align=\"center\">迭代更新<br><sub>多版本并存 + 对话记录</sub></th>\n</tr>\n<tr>\n<td width=\"50%\" valign=\"top\" align=\"center\">\n<img src=\"docs/效果例-初版生成.jpg\" alt=\"初版生成：outputs 目录下的时间戳交底书、mermaid 图目录等\" width=\"100%\" />\n</td>\n<td width=\"50%\" valign=\"top\" align=\"center\">\n<img src=\"docs/效果例-迭代更新.jpg\" alt=\"迭代更新：新时间戳文件与交底书修订对话记录\" width=\"100%\" />\n</td>\n</tr>\n</table>\n\n### 实用新型 / 外观 · 看图与出图\n\n<table width=\"100%\" border=\"1\" cellpadding=\"12\" cellspacing=\"0\">\n<tr>\n<th width=\"33%\" align=\"center\">外观线稿<br><sub>从产品图自动提炼造型轮廓</sub></th>\n<th width=\"33%\" align=\"center\">实用新型线稿<br><sub>从结构图自动生成轮廓与部件序号引出</sub></th>\n<th width=\"34%\" align=\"center\">CAD 三维模型投影<br><sub>从工程模型自动提取等轴测等多视角</sub></th>\n</tr>\n<tr>\n<td width=\"33%\" valign=\"top\" align=\"center\">\n<img src=\"docs/效果例-外观专利线稿.png\" alt=\"外观辅助线稿：产品造型黑白线稿示意\" width=\"100%\" />\n</td>\n<td width=\"33%\" valign=\"top\" align=\"center\">\n<img src=\"docs/效果例-实用新型专利线稿含部件序号引出线.png\" alt=\"实用新型辅助线稿：结构线稿与部件序号引出线\" width=\"100%\" />\n</td>\n<td width=\"34%\" valign=\"top\" align=\"center\">\n<img src=\"docs/效果例-cad提取等轴测投影图.png\" alt=\"CAD 三维模型等轴测投影：从工程模型自动提取多视角示意\" width=\"100%\" />\n</td>\n</tr>\n</table>\n\n### 专利通俗解读\n\n<table width=\"100%\" border=\"1\" cellpadding=\"12\" cellspacing=\"0\">\n<tr>\n<th width=\"50%\" align=\"center\">Obsidian 关系图<br><sub>知识图谱与多色节点</sub></th>\n<th width=\"50%\" align=\"center\">解读 Canvas<br><sub>叙事故事线 · 术语 · 公开线索</sub></th>\n</tr>\n<tr>\n<td width=\"50%\" valign=\"top\" align=\"center\">\n<img src=\"docs/效果例-obs图谱.jpg\" alt=\"Obsidian 关系图：解读笔记、术语与 Canvas 知识图谱\" width=\"100%\" />\n</td>\n<td width=\"50%\" valign=\"top\" align=\"center\">\n<img src=",
-  "generatedAt": "2026-09-06T01:08:24.527Z",
+  "generatedAt": "2026-09-07T01:09:24.938Z",
   "analysis": {
     "oneLine": "patent-disclosure-skill 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "patent-disclosure-skill 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，patent-disclosure-skill 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 7,473，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，patent-disclosure-skill 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 7,799，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

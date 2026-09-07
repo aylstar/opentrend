@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+  "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+  "publishedAt": "2026-09-06T23:36:04.000Z",
+  "id": "the-verge-87b400d1",
+  "slug": "the-verge-87b400d1",
+  "content": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by The New York Times,&nbsp;Ziff Davis,&nbsp;Merriam-Webster, and Encyclopedia Britannica against OpenAI. The Seattle Times and Newsday also named Microsoft as a defendant in the suit, since Copilot is built on OpenAI’s technology. The publishers join a list of nearly 400 local newspapers that recently sued the two companies, saying that because the chatbots reduce the need to visit their sites for reporting and answers, they cost them valuable subscription revenue. As part of the suit, The Seattle Times ​and Newsday are ⁠seeking the destruction of any copies of their works the companies are holding, as well as training datasets and AI models that incorporate them. OpenAI and Microsoft did not immediately respond to a request for comment.",
+  "fetchedAt": "2026-09-07T01:09:39.068Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "西雅图时报和新闻日报起诉 OpenAI 和微软侵权",
+  "chineseSummary": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司未经许可使用他们的新闻作为其人工智能模型的训练数据，并经常复制他们报道中的段落以回应用户的查询。这类似于 [...] 提起的诉讼",
+  "chineseContent": "《西雅图时报》和《新闻日报》是最新将 OpenAI 告上法庭的原告，指控其侵犯版权。这两家媒体表示，该公司未经许可使用他们的新闻作为其人工智能模型的训练数据，并经常复制他们报道中的段落以回应用户的查询。这类似于《纽约时报》、Ziff Davis、韦氏词典和大英百科全书针对 OpenAI 提起的诉讼。 《西雅图时报》和《新闻日报》也将微软列为诉讼中的被告，因为 Copilot 是基于 OpenAI 的技术构建的。这些出版商加入了最近起诉这两家公司的近 400 家当地报纸的行列，称由于聊天机器人减少了访问其网站进行报道和回答的需要，因此损失了宝贵的订阅收入。作为诉讼的一部分，《西雅图时报》和《新闻日报》正在寻求销毁公司持有的任何作品副本，以及包含这些作品的训练数据集和人工智能模型。 OpenAI 和微软没有立即回应置评请求。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

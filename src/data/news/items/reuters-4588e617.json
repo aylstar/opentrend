@@ -8,17 +8,17 @@
   "id": "reuters-4588e617",
   "slug": "reuters-4588e617",
   "content": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-09-05T01:10:14.100Z",
-  "score": 90,
+  "fetchedAt": "2026-09-07T01:09:39.083Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "金融"
   ],
-  "rank": 10,
+  "rank": 22,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
-  "chineseSummary": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations &nbsp;&nbsp; Reuters",
-  "chineseContent": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations &nbsp;&nbsp; Reuters",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "特朗普表示，如果美联储不降息，他将停止与一些国家的贸易",
+  "chineseSummary": "特朗普表示，如果美联储不降息，他将停止与一些国家的贸易 路透",
+  "chineseContent": "特朗普表示，如果美联储不降息，他将停止与一些国家的贸易 路透",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
 }

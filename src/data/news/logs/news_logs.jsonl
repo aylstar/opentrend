@@ -2714,3 +2714,19 @@
 {"type":"public_translation_error","at":"2026-09-06T01:09:07.297Z","id":"youtube-e7f08c8","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-09-06T01:09:07.534Z","id":"youtube-c39cd1ca","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-09-06T01:09:07.546Z","date":"2026-09-06","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-09-07T01:09:39.045Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:39.434Z","id":"product-hunt-9705ec12","source":"Product Hunt","url":"https://www.producthunt.com/products/docsalot-2","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:39.436Z","id":"product-hunt-d4436da3","source":"Product Hunt","url":"https://www.producthunt.com/products/gitwarren","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:39.444Z","id":"hacker-news-7753c6c6","source":"Hacker News","url":"https://openai.com/index/research-acceleration-view-inside-openai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:39.914Z","id":"product-hunt-2ce29769","source":"Product Hunt","url":"https://www.producthunt.com/products/experiential-labs","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:39.916Z","id":"product-hunt-3be70cfc","source":"Product Hunt","url":"https://www.producthunt.com/products/ponytail","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:40.926Z","id":"product-hunt-d74f5a86","source":"Product Hunt","url":"https://www.producthunt.com/products/fal-ai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:40.927Z","id":"product-hunt-fce9fbd7","source":"Product Hunt","url":"https://www.producthunt.com/products/chatgpt-toolbox","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:40.930Z","id":"product-hunt-ba38f9cd","source":"Product Hunt","url":"https://www.producthunt.com/products/notify-domains","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:41.973Z","id":"financial-times-3406aab0","source":"Financial Times","url":"https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:42.571Z","id":"investing-2cbd7e73","source":"Investing","url":"https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890331","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:42.803Z","id":"investing-62e705c2","source":"Investing","url":"https://www.investing.com/news/commodities-news/oil-extends-gains-after-us-and-iran-strike-ships-4890330","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:42.823Z","id":"investing-8a0a3106","source":"Investing","url":"https://www.investing.com/news/stock-market-news/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-4890327","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:43.545Z","id":"investing-e129d8e6","source":"Investing","url":"https://www.investing.com/analysis/trump-threatens-to-halt-trade-unless-the-fed-cuts-rates-200687177","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-07T01:09:43.577Z","id":"investing-65076beb","source":"Investing","url":"https://www.investing.com/analysis/fed-rate-hike-risks-rise-but-inflation-data-could-still-change-the-story-200687170","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-09-07T01:10:32.447Z","date":"2026-09-07","total":79,"global":20,"aiTech":20,"finance":30,"youtube":9}

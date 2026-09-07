@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+  "summary": "53 points · 25 comments",
+  "content": "We are aware of a security incident on @Liquid_BTC. Purported white-hat hackers have withdrawn ~4,000 BTC (~$320 million) from the Liquid Federation wallet. The @Blockstream team is working on contacting them on-chain with a signed message. What we know so far is that the funds were withdrawn via …",
+  "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+  "publishedAt": "2026-09-06T22:43:25.000Z",
+  "points": 53,
+  "id": "hacker-news-9a6eda06",
+  "slug": "hacker-news-9a6eda06",
+  "fetchedAt": "2026-09-07T01:09:39.064Z",
+  "score": 71,
+  "sourceWeight": 86,
+  "tags": [
+    "金融",
+    "安全"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "黑客已从 Liquid Federation 钱包中提取了约 4k BTC（约 3.2 亿美元）",
+  "chineseSummary": "53 分 · 25 条评论",
+  "chineseContent": "我们注意到@Liquid_BTC 上发生了安全事件。据称白帽黑客已从 Liquid Federation 钱包中提取了约 4,000 BTC（约 3.2 亿美元）。 @Blockstream 团队正在努力通过签名消息在链上与他们联系。到目前为止我们所知道的是，资金是通过……提取的。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

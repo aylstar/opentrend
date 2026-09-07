@@ -8,17 +8,17 @@
   "id": "product-hunt-d4436da3",
   "slug": "product-hunt-d4436da3",
   "content": "Review code with your coding agents before committing Discussion | Link",
-  "fetchedAt": "2026-09-06T01:08:40.743Z",
+  "fetchedAt": "2026-09-07T01:09:39.066Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 5,
+  "rank": 4,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "GitWarren",
-  "chineseSummary": "Review code with your coding agents before committing Discussion | Link",
-  "chineseContent": "Review code with your coding agents before committing Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "吉特·沃伦",
+  "chineseSummary": "在提交之前与您的编码代理一起审查代码关联",
+  "chineseContent": "在提交之前与您的编码代理一起审查代码关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

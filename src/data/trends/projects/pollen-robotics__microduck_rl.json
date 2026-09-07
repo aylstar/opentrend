@@ -1,0 +1,70 @@
+{
+  "slug": "pollen-robotics__microduck_rl",
+  "owner": "pollen-robotics",
+  "repo": "microduck_rl",
+  "name": "microduck_rl",
+  "fullName": "pollen-robotics/microduck_rl",
+  "description": "RL training environments for Microduck (mjlab)",
+  "language": "Python",
+  "githubUrl": "https://github.com/pollen-robotics/microduck_rl",
+  "docsUrl": "https://pollen-robotics.com/microduck",
+  "stars": 1823,
+  "forks": 364,
+  "openIssues": 26,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-09-05T16:24:45Z",
+  "updatedAt": "2026-09-07T00:59:46Z",
+  "createdAt": "2025-12-06T13:00:59Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "自部署",
+    "数据分析",
+    "自动化办公"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# Microduck RL\n\n<img width=\"2215\" height=\"884\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5db7cc83-b3ce-4f7c-83f0-0572a63baed7\" />\n\n\nRL training environments for [Microduck](https://github.com/pollen-robotics/microduck) —\na ~800 g, ~25 cm tall bipedal robot — built on\n[mjlab](https://github.com/mujocolab/mjlab) (MuJoCo Warp) with PPO.\nPolicies are trained here at 50 Hz, exported to ONNX, and deployed on the real\nrobot by the runtime in [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck).\n\n<!-- HERO VIDEO — real robot montage: walking, standup, roulade, roller skating.\n     Keep it short (~30 s) and real-robot-first: this is the \"why should I care\" shot. -->\n\nhttps://github.com/user-attachments/assets/50c3d537-8db2-4005-9d9c-3472faeec4d0\n\nThe repo encodes the full sim2real recipe: [BAM](https://github.com/Rhoban/bam)\nactuator physics, domain randomization, backlash simulation, and the\nreward-design lessons that made it work\n(see [AGENTS.md](AGENTS.md) for the distilled playbook).\n\n## Quickstart\n\nRequires a CUDA GPU (training runs through MuJoCo Warp) and [uv](https://docs.astral.sh/uv/).\n\n> **On ARM boxes (DGX Spark / GB10, Jetson):** `uv sync` pulls ~2 GB of CUDA\n> wheels on first run and uv's default 30 s HTTP timeout can abort mid-download.\n> Export `UV_HTTP_TIMEOUT=600` for the first sync. \n\n```bash\ngit clone https://github.com/pollen-robotics/microduck_rl\ncd microduck_rl\n\n# train the walking policy (uses your GPU; ~1-2 h for a usable gait at 4096 envs)\nuv run train Mjlab-Velocity-Flat-MicroDuck --env.scene.num-envs 4096\n\n# watch a trained policy in the viewer\nuv run play Mjlab-Velocity-Flat-MicroDuck --wandb-run-path <entity/project/run_id>\n\n# export to ONNX for deployment\nuv run scripts/export.py Mjlab-Velocity-Flat-MicroDuck --wandb-run-path <...>\nuv run publish --onnx output.onnx --repo <user>/microduck-<name> --kind episodic --duration-s 4.0   # share it (see \"Publishing a policy\")\n\n# drive the exported policy in CPU MuJoCo with the keyboard\nuv run scripts/infer_policy.py --walking output.onnx\n```\n\nResume from a checkpoint:\n\n```bash\nuv run train Mjlab-Velocity-Flat-MicroDuck --env.scene.num-envs 4096 \\\n    --agent.run-name resume --agent.load-checkpoint model_29999.pt --agent.resume True\n```\n\nNo GPU? Add `--hf-jobs` to any train command to run it on Hugging Face Jobs\ninstead of locally (see [scripts/hf/README.md](scripts/hf/README.md)).\n\n## Tasks\n\n`uv run list-envs` prints the live registry. Flat/Rough variants exist where noted.\n\n<!-- SHOWCASE GRID — one short GIF per task family (sim or real), 3 per row.\n     Priority order if you only record a few: Velocity, VelStand (fall+recover),\n     Roulade, SitStand, Rollers/Swizzle, BallKick. -->\n\n| Task id | Terrain | Description |\n|---|---|---|\n| `Mjlab-Velocity-{Flat,Rough}-MicroDuck` | flat/rough | **The main task**: walking with velocity commands + head-pose commands |\n| `Mjlab-VelStand-{Flat,Rough}-MicroDuck` | flat/rough | Walking + fall recovery in ",
+  "generatedAt": "2026-09-07T01:09:23.089Z",
+  "analysis": {
+    "oneLine": "microduck_rl 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "microduck_rl 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，microduck_rl 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 1,823，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "microduck_rl 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/pollen-robotics/microduck_rl\nuv run train Mjlab-Velocity-Flat-MicroDuck --env.scene.num-envs 4096\nuv run play Mjlab-Velocity-Flat-MicroDuck --wandb-run-path <entity/project/run_id>\nuv run scripts/export.py Mjlab-Velocity-Flat-MicroDuck --wandb-run-path <...>\nuv run publish --onnx output.onnx --repo <user>/microduck-<name> --kind episodic --duration-s 4.0   # share it (see \"Publishing a policy\")",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；当前更适合作为早期趋势观察对象，商业复用前要确认真实需求和维护质量。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "自部署",
+      "数据分析",
+      "自动化办公"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-09-07T01:09:23.090Z"
+}
