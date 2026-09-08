@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Live map of public transport in Belgium",
+  "summary": "186 points · 77 comments",
+  "content": "186 points · 77 comments",
+  "url": "https://openbaarvervoerbelgie.be/",
+  "publishedAt": "2026-09-07T09:02:47.000Z",
+  "points": 186,
+  "id": "hacker-news-10773cb0",
+  "slug": "hacker-news-10773cb0",
+  "fetchedAt": "2026-09-08T01:16:07.511Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Live map of public transport in Belgium",
+  "chineseSummary": "186 points · 77 comments",
+  "chineseContent": "186 points · 77 comments",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

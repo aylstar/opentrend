@@ -1,0 +1,21 @@
+{
+  "id": "weibo-104d334a72",
+  "slug": "weibo-余承东-华为",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "余承东 华为",
+  "summary": "微博热榜第 22 位：余承东 华为，当前热度为 49万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C+%E5%8D%8E%E4%B8%BA%23",
+  "hotValue": "49万热度",
+  "author": "",
+  "publishedAt": "2026-09-08T01:15:51.069Z",
+  "fetchedAt": "2026-09-08T01:16:35.837Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

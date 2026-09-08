@@ -1,26 +1,25 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Skills Marketplace by Databox",
-  "summary": "Ready-made AI analytics skills for your business data Discussion | Link",
+  "originalTitle": "Routines by Databox",
+  "summary": "An AI Analyst that runs analysis and reports on a schedule Discussion | Link",
   "url": "https://www.producthunt.com/products/databox",
-  "publishedAt": "2026-06-22T14:09:08.000Z",
+  "publishedAt": "2026-08-27T09:02:16.000Z",
   "id": "product-hunt-a957e3ff",
   "slug": "product-hunt-a957e3ff",
-  "content": "Ready-made AI analytics skills for your business data Discussion | Link",
-  "fetchedAt": "2026-07-03T01:08:24.554Z",
-  "score": 79,
+  "content": "An AI Analyst that runs analysis and reports on a schedule Discussion | Link",
+  "fetchedAt": "2026-09-08T01:16:07.512Z",
+  "score": 77,
   "sourceWeight": 84,
   "tags": [
     "AI",
-    "全球",
-    "金融"
+    "全球"
   ],
-  "rank": 4,
+  "rank": 2,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Databox 的技能市场",
-  "chineseSummary": "适用于您的业务数据的现成人工智能分析技能关联",
-  "chineseContent": "适用于您的业务数据的现成人工智能分析技能关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Routines by Databox",
+  "chineseSummary": "An AI Analyst that runs analysis and reports on a schedule Discussion | Link",
+  "chineseContent": "An AI Analyst that runs analysis and reports on a schedule Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

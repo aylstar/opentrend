@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c389c9b205",
+  "slug": "weibo-用ai训练ai",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "用AI训练AI",
+  "summary": "微博热榜第 19 位：用AI训练AI，当前热度为 49万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E8%AE%AD%E7%BB%83AI%23",
+  "hotValue": "49万热度",
+  "author": "",
+  "publishedAt": "2026-09-08T01:15:51.069Z",
+  "fetchedAt": "2026-09-08T01:16:35.837Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
