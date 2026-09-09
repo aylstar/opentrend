@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cfa846e3a1",
+  "slug": "weibo-小米-宁德时代",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "小米 宁德时代",
+  "summary": "微博热榜第 16 位：小米 宁德时代，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3+%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-09-09T01:12:06.310Z",
+  "fetchedAt": "2026-09-09T01:21:22.826Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

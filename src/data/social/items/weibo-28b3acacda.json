@@ -1,0 +1,21 @@
+{
+  "id": "weibo-28b3acacda",
+  "slug": "weibo-毛泽东逝世50周年",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "毛泽东逝世50周年",
+  "summary": "微博热榜第 6 位：毛泽东逝世50周年，当前热度为 71万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%9D%E4%B8%9650%E5%91%A8%E5%B9%B4%23",
+  "hotValue": "71万热度",
+  "author": "",
+  "publishedAt": "2026-09-09T01:12:06.310Z",
+  "fetchedAt": "2026-09-09T01:21:22.826Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

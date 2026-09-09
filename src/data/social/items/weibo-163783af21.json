@@ -1,0 +1,21 @@
+{
+  "id": "weibo-163783af21",
+  "slug": "weibo-美股-光通信",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "美股 光通信",
+  "summary": "微博热榜第 19 位：美股 光通信，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1+%E5%85%89%E9%80%9A%E4%BF%A1%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-09-09T01:12:06.310Z",
+  "fetchedAt": "2026-09-09T01:21:22.826Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

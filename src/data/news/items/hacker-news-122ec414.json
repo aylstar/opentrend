@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Tao: Open math problems being non-renewably mined by AI",
+  "summary": "127 points · 80 comments",
+  "content": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. This may seem unintuitive at first, since the set of possible problems one could ask is infinite. Perhaps the following analogy can help: a country or region can suffer a critical shortage of drinking water while simultaneously being surrounded by a massive ocean. One can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi. But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise. (1/4)",
+  "url": "https://mathstodon.xyz/@tao/117237320796901560",
+  "publishedAt": "2026-09-08T21:00:52.000Z",
+  "points": 127,
+  "id": "hacker-news-122ec414",
+  "slug": "hacker-news-122ec414",
+  "fetchedAt": "2026-09-09T01:20:02.574Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "陶：AI 不可再生地挖掘开放数学问题",
+  "chineseSummary": "127 分 · 80 条评论",
+  "chineseContent": "我最近写了一篇关于如何以不可再生的方式挖掘一系列好的、富有成效的开放问题的文章，导致这些问题的潜在场景变得稀缺。乍一看这似乎不直观，因为人们可能提出的问题是无限的。也许下面的类比会有所帮助：一个国家或地区可能会遭受饮用水严重短缺的问题，同时又被巨大的海洋包围。人们可以轻松地随意生成任意数量的开放式数学问题，例如计算 pi 的第 10^10^10 位。但绝大多数此类问题不值得关注：它们没有表现出任何揭示任何进一步见解或与其他问题的联系的特殊倾向，或者相对于已知技术而言，它们可能太容易或太不可能从练习中学到任何东西。 (1/4)",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

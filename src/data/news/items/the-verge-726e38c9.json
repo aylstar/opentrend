@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Drama swirls around OpenAI’s legendary mathematical milestone",
+  "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+  "publishedAt": "2026-09-08T20:53:52.000Z",
+  "id": "the-verge-726e38c9",
+  "slug": "the-verge-726e38c9",
+  "content": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem — which relates to the flow of liquid and gas — using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. OpenAI says it started training the internal AI model on August 28th, which has “exhibited unprecedented performance in our benchmarks, including mathematics.” The solution is a big breakthrough for the mathematics community, but it doesn’t come without controversy. Just one day before OpenAI’s announcement, New York University mathematics professor Tristan Buckmaster published findings on a related problem in partnership with Levent Alpöge, a researcher at Anthropic. When announcing these findings, Buckmaster claims he contacted OpenAI after learning the company had heard about their progress. However, Buckmaster found that OpenAI had produced a proof for the Navier-Stokes equation using a route he and Alpöge had been working on with OpenAI’s Codex and Anthropic’s Claude. In his statement, Buckmaster raises concerns about whether OpenAI had accessed their Codex data to get closer to the Navier-Stokes solution. “I asked whether the model had been trained on, or had access to, our sessions in Codex, into which we had been putting all our drafts for the whole of this project,” Buckmaster writes. “I was told the model did not look up user data. I asked again, about training, and I did not get an answer.” OpenAI is now attempting to squash these suspicions with its Tuesday announcement, saying “no specific user data was accessed in order to solve this problem.” It adds that “while unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models⁠.” When reached for comment, OpenAI pointed The Verge to its statement on X, which echoes its blog post. Sebastien Bubeck, a member of technical staff at OpenAI, similarly said: “We did not see any of their [Buckmaster and Alpöge’s] work until they released it publicly last night. One can in hindsight see that our proofs differ significantly and even the precise results proved are different.” Meanwhile, Buckmaster responded to this in a post on Mastodon, claiming that OpenAI is “openly admitting they used training data from a period after we found our result.” OpenAI says it doesn’t plan on taking the $1 million prize.",
+  "fetchedAt": "2026-09-09T01:20:02.577Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "戏剧围绕 OpenAI 的传奇数学里程碑展开",
+  "chineseSummary": "据《纽约时报》和《连线》早些时候报道，OpenAI 表示，它找到了一个大约 90 年来一直悬而未决的重大数学问题的解决方案。在周二的一篇博客文章中，OpenAI 宣布它发现了纳维-斯托克斯问题的解决方案 - 该问题与液体的流动和[...]",
+  "chineseContent": "据《纽约时报》和《连线》早些时候报道，OpenAI 表示，它找到了一个大约 90 年来一直悬而未决的重大数学问题的解决方案。在周二的一篇博客文章中，OpenAI 宣布它发现了一种解决纳维-斯托克斯问题（与液体和气体流动有关）的解决方案，该问题使用比新发布的 GPT-6 Astra 更强大的内部 AI 模型以及 10,000 个并发代理。纳维-斯托克斯问题是七个千年奖问题之一，解决每个问题都会获得 100 万美元的奖励。 OpenAI 表示，它于 8 月 28 日开始训练内部人工智能模型，该模型“在我们的基准测试中表现出了前所未有的性能，包括数学。”这个解决方案对于数学界来说是一个重大突破，但也并非没有争议。就在 OpenAI 宣布这一消息的前一天，纽约大学数学教授 Tristan Buckmaster 与 Anthropic 研究员 Levent Alpöge 合作发表了有关相关问题的研究结果。巴克马斯特在宣布这些发现时声称，他在得知 OpenAI 听说了他们的进展后联系了该公司。然而，Buckmaster 发现 OpenAI 已经使用他和 Alpöge 一直在与 OpenAI 的 Codex 和 Anthropic 的 Claude 合作的路线生成了 Navier-Stokes 方程的证明。 Buckmaster 在声明中对 OpenAI 是否访问了他们的 Codex 数据以更接近 Navier-Stokes 解决方案表示担忧。巴克马斯特写道：“我询问该模型是否接受过 Codex 会议的培训或访问过我们的会议，我们已将整个项目的所有草稿放入其中。” “我被告知该模型没有查找用户数据。我再次询问有关训练的问题，但没有得到答案。” OpenAI 现在正在尝试解决",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
