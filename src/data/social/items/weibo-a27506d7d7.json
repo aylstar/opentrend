@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a27506d7d7",
+  "slug": "weibo-心动的信号",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "心动的信号",
+  "summary": "微博热榜第 10 位：心动的信号，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-09-10T01:11:08.170Z",
+  "fetchedAt": "2026-09-10T01:15:13.068Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

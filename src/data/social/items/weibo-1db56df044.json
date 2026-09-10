@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1db56df044",
+  "slug": "weibo-司美格鲁肽",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "司美格鲁肽",
+  "summary": "微博热榜第 32 位：司美格鲁肽，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-09-10T01:11:08.170Z",
+  "fetchedAt": "2026-09-10T01:15:13.069Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

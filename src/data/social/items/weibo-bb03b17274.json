@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bb03b17274",
+  "slug": "weibo-冰川蓝好好看",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "冰川蓝好好看",
+  "summary": "微博热榜第 50 位：冰川蓝好好看，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B7%9D%E8%93%9D%E5%A5%BD%E5%A5%BD%E7%9C%8B%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-09-10T01:11:08.170Z",
+  "fetchedAt": "2026-09-10T01:15:13.069Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

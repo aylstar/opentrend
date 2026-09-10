@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/blader/humanizer",
   "docsUrl": "https://skills.sh/blader/humanizer",
-  "stars": 45423,
-  "forks": 3744,
-  "openIssues": 5,
+  "stars": 45994,
+  "forks": 3770,
+  "openIssues": 8,
   "license": "MIT",
   "pushedAt": "2026-09-06T20:26:10Z",
-  "updatedAt": "2026-09-09T01:18:26Z",
+  "updatedAt": "2026-09-10T01:12:39Z",
   "createdAt": "2026-01-18T05:30:15Z",
   "archived": false,
   "trendWindows": [
@@ -26,14 +26,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Humanizer\n\n[![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer)\n\nHumanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills.\n\n## Installation\n\nInstall Humanizer with the Skills CLI:\n\n```bash\nnpx skills add blader/humanizer --global\n```\n\nLeave off `--global` to install Humanizer only in the current project. Add `--agent <name>` or `--agent '*'` to choose which agents receive it, then reload their skills. The skill answers to `/humanizer`.\n\nClaude Code 2.1.142 or newer can install the plugin instead:\n\n```text\n/plugin marketplace add blader/humanizer\n/plugin install humanizer@humanizer\n```\n\nThe plugin answers to `/humanizer:humanizer`.\n\nIn Claude Desktop, download this repository as a ZIP and upload it as a skill. For a manual install, copy `SKILL.md` into the agent's skill folder.\n\n## Usage\n\nCall the skill directly:\n\n```\n/humanizer\n\n[paste your text here]\n```\n\nOr ask in plain language:\n\n```\nPlease humanize this text: [your text]\n```\n\nTo rewrite a file, give Humanizer its path:\n\n```\nHumanize the prose in docs/launch-post.md\n```\n\n### Match your voice\n\nIf you want the rewrite to sound more like you, include a sample:\n\n```\n/humanizer\n\nHere's a sample of my writing for voice matching:\n[paste 2-3 paragraphs of your own writing]\n\nNow humanize this text:\n[paste AI text to humanize]\n```\n\nHumanizer follows the sample's rhythm, word choice, punctuation, and deliberate quirks, including dashes if you use them.\n\n## How it works\n\nA language model writes whatever is most likely to come next, so by default it makes the choice that fits the widest range of readers and subjects. A person chooses for one reader and one subject. Every tell Humanizer looks for is a form of that default choice: a sentence that signals importance instead of adding a fact, rhythm or formatting applied by rule, an ordinary fact dressed as a pivotal one, or text left over from the chat.\n\n> \"LLMs use statistical algorithms to guess what should come next. The result tends toward the most statistically likely result that applies to the widest variety of cases.\"\n> Wikipedia, [\"Signs of AI writing\"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)\n\nHumanizer marks every tell it finds, strongest first. It drafts a rewrite without treating the original structure as fixed, checks the draft against the patterns and the original claims, and then writes the final version. It does not make things up. A name, number, date, quote, citation, or other factual detail must come from the source or the writer, and if a sentence needs a detail that is missing, Humanizer asks instead of inventing one.\n\nWhen you paste text, Humanizer shows its work: the first rewrite, a short critique of anything that still sounds artificial, and the final version. Point it at a file and it changes only the prose, leaving code, data, frontmatter, and link ",
-  "generatedAt": "2026-09-09T01:19:38.202Z",
+  "generatedAt": "2026-09-10T01:14:07.394Z",
   "analysis": {
     "oneLine": "humanizer 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "humanizer 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，humanizer 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 45,423，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，humanizer 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 45,994，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

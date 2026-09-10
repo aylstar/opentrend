@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0fd0aeb855",
+  "slug": "weibo-airpods5-便宜",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "AirPods5 便宜",
+  "summary": "微博热榜第 5 位：AirPods5 便宜，当前热度为 142万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23AirPods5+%E4%BE%BF%E5%AE%9C%23",
+  "hotValue": "142万热度",
+  "author": "",
+  "publishedAt": "2026-09-10T01:11:08.170Z",
+  "fetchedAt": "2026-09-10T01:15:13.068Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

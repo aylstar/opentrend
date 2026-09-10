@@ -1,0 +1,21 @@
+{
+  "id": "weibo-26a717651f",
+  "slug": "weibo-黄金白银大跌",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "黄金白银大跌",
+  "summary": "微博热榜第 16 位：黄金白银大跌，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-09-10T01:11:08.170Z",
+  "fetchedAt": "2026-09-10T01:15:13.068Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

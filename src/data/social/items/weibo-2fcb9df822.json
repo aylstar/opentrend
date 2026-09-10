@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2fcb9df822",
+  "slug": "weibo-苹果-iphoneduo",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "苹果 iPhoneDuo",
+  "summary": "微博热榜第 34 位：苹果 iPhoneDuo，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C+iPhoneDuo%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-09-10T01:11:08.170Z",
+  "fetchedAt": "2026-09-10T01:15:13.069Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
