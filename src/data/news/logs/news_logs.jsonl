@@ -2939,3 +2939,19 @@
 {"type":"public_translation_error","at":"2026-09-10T01:15:10.198Z","id":"youtube-ae70460","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-09-10T01:15:10.440Z","id":"youtube-91908e76","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-09-10T01:15:10.448Z","date":"2026-09-10","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-09-11T01:15:48.552Z","source":"Guardian","url":"https://content.guardianapis.com/search?api-key=test&show-fields=trailText,bodyText,headline&page-size=20&order-by=newest","error":"401 Unauthorized"}
+{"type":"source_error","at":"2026-09-11T01:16:00.526Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:00.875Z","id":"product-hunt-571c4dd3","source":"Product Hunt","url":"https://www.producthunt.com/products/bonds-2","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:00.878Z","id":"product-hunt-3c102bcb","source":"Product Hunt","url":"https://www.producthunt.com/products/duckfightclub","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:00.880Z","id":"product-hunt-d84ca79f","source":"Product Hunt","url":"https://www.producthunt.com/products/athenic-ai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:00.915Z","id":"product-hunt-b3bf4cf6","source":"Product Hunt","url":"https://www.producthunt.com/products/modeinspect-1-0","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:01.290Z","id":"product-hunt-64f18245","source":"Product Hunt","url":"https://www.producthunt.com/products/suno","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:01.448Z","id":"product-hunt-fc365782","source":"Product Hunt","url":"https://www.producthunt.com/products/desert-ant-labs","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:01.463Z","id":"product-hunt-383ee0f8","source":"Product Hunt","url":"https://www.producthunt.com/products/apple","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:03.192Z","id":"financial-times-6c754bf3","source":"Financial Times","url":"https://www.ft.com/content/7410c56e-5350-48f8-a5e6-24f37c1581e9?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:03.197Z","id":"financial-times-748f42b","source":"Financial Times","url":"https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:03.205Z","id":"financial-times-50bf938d","source":"Financial Times","url":"https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:03.628Z","id":"marketwatch-f6c5a748","source":"MarketWatch","url":"https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:04.178Z","id":"investing-8d4e7f10","source":"Investing","url":"https://www.investing.com/analysis/diesel-shock-sends-fed-ratehike-odds-surging-to-75-200687476","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-09-11T01:16:04.180Z","id":"investing-ccef7779","source":"Investing","url":"https://www.investing.com/analysis/30year-yield-hits-2007-high-as-oil-soars-and-september-ratehike-odds-explode-200687487","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-09-11T01:16:42.918Z","date":"2026-09-11","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

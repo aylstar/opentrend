@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Universal Music is launching an AI music platform with ElevenLabs",
+  "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+  "publishedAt": "2026-09-10T15:38:19.000Z",
+  "id": "the-verge-22d5f20c",
+  "slug": "the-verge-22d5f20c",
+  "content": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes in AI voice and music generation. Artists can choose whether to participate in UMG and ElevenLabs’ upcoming platform, which marks yet another AI deal for the record label. UMG is currently developing an AI music platform with Udio and has struck AI licensing deals with Spotify, Nvidia, and Klay.&nbsp;This week, Suno released its first AI music model trained on licensed songs from Warner Music Group, BMG, and music industry partners. UMG and ElevenLabs’ partnership will also include the “development of additional products and fan experiences in the months and years to come,” though the press release doesn’t include other details about what this might entail. ”By combining UMG’s global community and rights management expertise, with our AI models and products, we’ll enable artists and songwriters to create powerful new experiences for their fans, and ensure they are fairly compensated,” ElevenLabs CEO Mati Staniszewski says in the press release. The new AI music platform will remain separate from ElevenLabs’ Music API and ElevenMusic generator.",
+  "fetchedAt": "2026-09-11T01:16:00.537Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "环球音乐与 ElevenLabs 合作推出 AI 音乐平台",
+  "chineseSummary": "根据周四的公告，环球音乐集团正在推出一个新的人工智能平台，该平台将允许用户从其授权音乐目录中提取歌曲，以创建歌曲混音、混搭和新曲目。该唱片公司正在通过与 ElevenLabs 签订的多年许可协议来开发该平台，ElevenLabs 是一家专门从事 [...]",
+  "chineseContent": "根据周四的公告，环球音乐集团正在推出一个新的人工智能平台，该平台将允许用户从其授权音乐目录中提取歌曲，以创建歌曲混音、混搭和新曲目。该唱片公司正在通过与 ElevenLabs（一家专门从事人工智能语音和音乐生成的公司）签订的多年许可协议来开发该平台。艺术家可以选择是否参与 UMG 和 ElevenLabs 即将推出的平台，这标志着唱片公司的又一项人工智能交易。 UMG 目前正在与 Udio 开发人工智能音乐平台，并与 Spotify、Nvidia 和 Klay 达成人工智能许可协议。 本周，Suno 发布了首个人工智能音乐模型，该模型以华纳音乐集团、BMG 和音乐行业合作伙伴的授权歌曲为训练对象。 UMG 和 ElevenLabs 的合作伙伴关系还将包括“在未来几个月和几年内开发更多产品和粉丝体验”，尽管新闻稿并未包含有关这可能需要的其他细节。 ElevenLabs 首席执行官 Mati Staniszewski 在新闻稿中表示：“通过将 UMG 的全球社区和版权管理专业知识与我们的人工智能模型和产品相结合，我们将使艺术家和词曲作者能够为他们的粉丝创造强大的新体验，并确保他们得到公平的补偿。”新的人工智能音乐平台将与 ElevenLabs 的音乐 API 和 ElevenMusic 生成器保持独立。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

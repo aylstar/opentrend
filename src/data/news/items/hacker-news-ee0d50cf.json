@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+  "summary": "136 points · 131 comments",
+  "content": "Yesterday OpenAI announced a proof that settled a long-standing question about the Navier-Stokes equations from fluid dynamics. The announcement has created a lot of buzz, as one would expect. But there’s an aspect of OpenAI’s work that I haven’t seen anyone talk about: they posted a Lean 4 formal proof at the same time as their conventional human-readable proof.\n\nQuite a few other mathematical conjectures have been settled recently using AI, and these have also been accompanied with formal proofs, using Lean 4 in particular.\n\nUntil very recently, generating machine-verifiable formal proofs has been excruciatingly tedious . In 2005, Henk Barendregt and Freek Wiedijk wrote\n\nTo give an indication of how much work is needed for formalisation, we estimate that it takes approximately one work-week (five work-days of eight work-hours) to formalise one page from an undergraduate mathematics textbook.\n\nThat was the rule of thumb: forty hours per page . And this in the context of undergraduate textbooks. Research publications are much denser than textbooks. Furthermore, page 100 of a textbook probably depends mostly on material on pages 1 through 99. A sentence in a research article could cite anything that has been published before.\n\nSay a research article takes 20 times more effort to formalize than page in an undergraduate textbook. Then formalizing the 166-page paper from OpenAI would take 132,800 person-hours. It took OpenAI 17 hours to verify their proof in Lean. I hesitate to use the word “revolutionary,” but lowering the cost of anything by four orders of magnitude is revolutionary.\n\nI’ve used AI to generate formal proofs to check my work just for a little blog post. I wouldn’t dream of doing that if I had to pay someone a week’s salary to check my work.\n\nFormal verification doesn’t just apply to mathematics. You could, for example, formally verify that a set of security policies are consistent and that, given certain assumptions, they accomplish their purpose. You could formally verify that a smart contract imposes a certain maximum liability. You could verify the correctness of mission-critical algorithms. These problems are easier than formalizing mathematics research, and it is easier to quantify the return on investment.",
+  "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+  "publishedAt": "2026-09-10T21:22:59.000Z",
+  "points": 136,
+  "id": "hacker-news-ee0d50cf",
+  "slug": "hacker-news-ee0d50cf",
+  "fetchedAt": "2026-09-11T01:16:00.533Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 的 Navier-Stokes 版本包含 Lean 4 正式证明",
+  "chineseSummary": "136 分 · 131 条评论",
+  "chineseContent": "昨天，OpenAI 宣布了一项证明，解决了有关流体动力学纳维-斯托克斯方程的长期存在的问题。正如人们所预料的那样，这一公告引起了很大的轰动。但 OpenAI 工作的一个方面我还没有看到任何人谈论过：他们在传统的人类可读证明的同时发布了 Lean 4 形式证明。\n\n最近使用人工智能解决了相当多的其他数学猜想，并且这些猜想也附有形式证明，特别是使用 Lean 4。\n\n直到最近，生成机器可验证的形式证明一直是极其乏味的。 2005 年，Henk Barendregt 和 Freek Wiedijk 写道\n\n为了表明形式化需要多少工作，我们估计大约需要一个工作周（五个工作日，共八个工作小时）来形式化本科数学教科书中的一页。\n\n这是经验法则：每页四十小时。这是在本科教科书的背景下。研究出版物比教科书密集得多。此外，教科书的第 100 页可能主要取决于第 1 页到第 99 页的材料。研究文章中的句子可以引用以前发表的任何内容。\n\n假设一篇研究文章的形式化需要比本科教科书中的一页多 20 倍的努力。然后，将 OpenAI 的 166 页论文正式化需要 132,800 人时。 OpenAI 花了 17 个小时来验证他们的精益证明。我不太愿意使用“革命性”这个词，但将任何东西的成本降低四个数量级都是革命性的。\n\n我已经使用人工智能生成正式的证明来检查我的工作，只是为了写一篇小博客文章。如果我必须付给某人一周的工资来检查我的工作，我就不会梦想这样做。\n\n形式验证不仅仅适用于数学。例如，您可以正式验证一组安全策略是否一致，并且在给定某些假设的情况下，它们是否实现了其目的。您可以正式验证智能合约是否施加了一定的最大责任。您可以验证关键任务算法的正确性。这些问题比形式化数学研究更容易，也更容易量化投资回报。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

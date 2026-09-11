@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc31da17e7",
+  "slug": "weibo-油价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 23,
+  "title": "油价",
+  "summary": "微博热榜第 23 位：油价，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-09-11T01:13:05.333Z",
+  "fetchedAt": "2026-09-11T01:16:44.802Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

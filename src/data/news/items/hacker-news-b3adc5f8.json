@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI Agents API",
+  "summary": "122 points · 78 comments",
+  "content": "The Agents API gives your application access to the Codex harness through an OpenAI-managed API.\n\nOpenAI manages sessions, orchestration, context compaction, and recovery while your application provides tools and chooses its execution environment.\n\nAgents can operate in a sandbox where they can execute code, edit files, connect to MCP servers, and produce artifacts.\n\nModel usage is billed at the selected model’s API rates . OpenAI tools use their standard rates , and OpenAI-hosted sandboxes use standard container rates .\n\nThe Agents API is built around four main concepts:\n\nStart with an OpenAI-hosted sandbox in the quickstart :\n\nWith an OpenAI-hosted session, your application sends input and receives events, while OpenAI runs the agent and provisions and manages its sandbox. See environment options for setup and limitations.\n\nThe managed Codex harness supports:\n\nCheck the quickstart prerequisites for API-key permissions and SDK setup. Configure these capabilities when you create a session:\n\nFor a runtime comparison, see the Agents overview .\n\nThe Agents API retains session state so you can continue work across turns without rebuilding the conversation context. You can delete sessions and published artifacts when you no longer need them. The Agents API currently supports data residency only in the United States and does not support Zero Data Retention (ZDR). Choosing a self-hosted sandbox does not make the Agents API ZDR-eligible. See Data controls in the OpenAI platform for details on data residency and retention.",
+  "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+  "publishedAt": "2026-09-10T19:43:22.000Z",
+  "points": 122,
+  "id": "hacker-news-b3adc5f8",
+  "slug": "hacker-news-b3adc5f8",
+  "fetchedAt": "2026-09-11T01:16:00.533Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 代理 API",
+  "chineseSummary": "122 分 · 78 条评论",
+  "chineseContent": "Agents API 使您的应用程序可以通过 OpenAI 管理的 API 访问 Codex 工具。\n\nOpenAI 管理会话、编排、上下文压缩和恢复，而您的应用程序则提供工具并选择其执行环境。\n\n代理可以在沙箱中运行，在沙箱中执行代码、编辑文件、连接到 MCP 服务器并生成工件。\n\n模型使用量按所选模型的 API 费率计费。 OpenAI 工具使用其标准费率，OpenAI 托管的沙箱使用标准容器费率。\n\nAgents API 围绕四个主要概念构建：\n\n从快速入门中的 OpenAI 托管沙箱开始：\n\n通过 OpenAI 托管的会话，您的应用程序发送输入并接收事件，而 OpenAI 运行代理并配置和管理其沙箱。请参阅环境选项以了解设置和限制。\n\n托管 Codex 工具支持：\n\n检查 API 密钥权限和 SDK 设置的快速入门先决条件。创建会话时配置这些功能：\n\n有关运行时比较，请参阅代理概述。\n\nAgents API 保留会话状态，因此您可以继续轮流工作，而无需重建对话上下文。当您不再需要会话和已发布的工件时，可以将其删除。 Agents API 目前仅支持美国的数据驻留，不支持零数据保留 (ZDR)。选择自托管沙箱并不会使代理 API 符合 ZDR 资格。有关数据驻留和保留的详细信息，请参阅 OpenAI 平台中的数据控制。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
