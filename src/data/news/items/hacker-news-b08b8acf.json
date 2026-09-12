@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Claude is only available to people over 18 years",
+  "summary": "576 points · 596 comments",
+  "content": "Claude, our consumer product, is only available to people over 18 years. You’ll need to confirm you’re 18 or over while setting up an account. When we detect signals that you may be under 18, we'll ask you to verify your age before you can continue using Claude.\n\nWe have safety systems in place to detect if people under 18 may be using Claude and we’ll disable accounts based on indicators of minor activity.\n\nYou’ll have the option to verify your age using Yoti, a third-party age verification platform. A link for verification will be provided in the notification email. If you pass the age verification process, your account will be reinstated.\n\nYoti offers several ways to confirm you're 18 or over. You can choose whichever works best for you:\n\nFacial age estimation: Take a selfie and Yoti's technology estimates your age. No ID document needed.\n\nID verification: Take a photo of your ID (such as a passport, driving license, or national ID card) and upload it from your device. See Yoti's full list of supported documents for country-specific options.\n\nYoti’s Digital ID app: If you already have the Yoti app, share a verified \"over 18\" attribute from it.\n\nYoti is an independently audited age verification provider for SOC2 compliance. Your selfie, document images, and any personal data are deleted by Yoti as soon as your age is checked. Anthropic never sees your ID or image; we receive only a pass/fail result and do not process or store any personal data from the verification.",
+  "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+  "publishedAt": "2026-09-11T10:48:00.000Z",
+  "points": 576,
+  "id": "hacker-news-b08b8acf",
+  "slug": "hacker-news-b08b8acf",
+  "fetchedAt": "2026-09-12T01:18:31.291Z",
+  "score": 79,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克劳德仅适用于 18 岁以上的人",
+  "chineseSummary": "576 分 · 596 条评论",
+  "chineseContent": "我们的消费产品 Claude 仅适用于 18 岁以上的人群。设置帐户时，您需要确认您已年满 18 岁。当我们检测到您可能未满 18 岁的信号时，我们会要求您验证您的年龄，然后才能继续使用 Claude。\n\n我们拥有适当的安全系统来检测 18 岁以下的人是否可能在使用 Claude，并且我们将根据轻微活动指标禁用帐户。\n\n您可以选择使用第三方年龄验证平台 Yoti 来验证您的年龄。通知电子邮件中将提供用于验证的链接。如果您通过了年龄验证流程，您的帐户将被恢复。\n\nYoti 提供了多种方法来确认您已年满 18 岁或以上。您可以选择最适合您的：\n\n面部年龄估计：拍一张自拍照，Yoti 的技术就会估计您的年龄。无需身份证件。\n\n身份验证：拍摄您的身份证件（例如护照、驾驶执照或国民身份证）照片并从您的设备上传。有关特定于国家/地区的选项，请参阅 Yoti 的受支持文档的完整列表。\n\nYoti 的数字 ID 应用程序：如果您已经安装了 Yoti 应用程序，请分享其中经过验证的“18 岁以上”属性。\n\nYoti 是一家经过独立审核的 SOC2 合规性年龄验证提供商。一旦检查到您的年龄，Yoti 就会删除您的自拍照、文档图像和任何个人数据。 Anthropic 永远不会看到您的 ID 或图像；我们仅收到通过/失败结果，不会处理或存储验证中的任何个人数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

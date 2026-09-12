@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e2f632f5d5",
+  "slug": "weibo-马斯克怒了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "马斯克怒了",
+  "summary": "微博热榜第 8 位：马斯克怒了，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%92%E4%BA%86%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-09-12T01:15:44.940Z",
+  "fetchedAt": "2026-09-12T01:19:15.451Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

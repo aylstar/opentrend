@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ac72fe55c1",
+  "slug": "weibo-法考",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "法考",
+  "summary": "微博热榜第 45 位：法考，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-09-12T01:15:44.940Z",
+  "fetchedAt": "2026-09-12T01:19:15.451Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

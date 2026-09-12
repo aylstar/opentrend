@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/mksglu/context-mode",
   "docsUrl": "https://context-mode.com",
-  "stars": 22014,
-  "forks": 1585,
-  "openIssues": 230,
+  "stars": 22211,
+  "forks": 1603,
+  "openIssues": 233,
   "license": "NOASSERTION",
-  "pushedAt": "2026-09-10T18:06:22Z",
-  "updatedAt": "2026-09-11T01:11:34Z",
+  "pushedAt": "2026-09-11T18:05:01Z",
+  "updatedAt": "2026-09-12T00:57:46Z",
   "createdAt": "2026-02-23T05:56:28Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# Context Mode\n\n**The other half of the context problem.**\n\n[![users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmksglu%2Fcontext-mode%40main%2Fstats.json&query=%24.message&label=users&color=brightgreen)](https://www.npmjs.com/package/context-mode) [![npm](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmksglu%2Fcontext-mode%40main%2Fstats.json&query=%24.npm&label=npm&color=blue)](https://www.npmjs.com/package/context-mode) [![marketplace](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmksglu%2Fcontext-mode%40main%2Fstats.json&query=%24.marketplace&label=marketplace&color=blue)](https://github.com/mksglu/context-mode) [![GitHub stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![GitHub forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat&color=blue)](https://github.com/mksglu/context-mode/network/members) [![Last commit](https://img.shields.io/github/last-commit/mksglu/context-mode?color=green)](https://github.com/mksglu/context-mode/commits) [![License: ELv2](https://img.shields.io/badge/License-ELv2-blue.svg)](LICENSE)\n[![Discord](https://img.shields.io/discord/1478479412700909750?label=Discord&logo=discord&color=5865f2)](https://discord.gg/DCN9jUgN5v)\n[![Hacker News #1](https://img.shields.io/badge/Hacker%20News-%231%20%E2%80%A2%20570%2B%20points-ff6600?logo=ycombinator&logoColor=white)](https://news.ycombinator.com/item?id=47193064)\n\n<p align=\"center\">\n<sub>Used across teams at</sub>\n<br><br>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Microsoft-141414?style=flat\" alt=\"Microsoft\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Google-141414?style=flat&logo=google&logoColor=white\" alt=\"Google\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Meta-141414?style=flat&logo=meta&logoColor=white\" alt=\"Meta\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Amazon-141414?style=flat\" alt=\"Amazon\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/IBM-141414?style=flat\" alt=\"IBM\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/NVIDIA-141414?style=flat&logo=nvidia&logoColor=white\" alt=\"NVIDIA\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/ByteDance-141414?style=flat&logo=bytedance&logoColor=white\" alt=\"ByteDance\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Stripe-141414?style=flat&logo=stripe&logoColor=white\" alt=\"Stripe\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Datadog-141414?style=flat&logo=datadog&logoColor=white\" alt=\"Datadog\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Salesforce-141414?style=flat\" alt=\"Salesforce\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/GitHub-141414?style=flat&logo=github&logoColor=white\" alt=\"GitHub\" /></a>\n<a href=\"#\"><img src=\"https://img.shields.io/badge/Red%20Hat-141414?style=fla",
-  "generatedAt": "2026-09-11T01:15:43.966Z",
+  "generatedAt": "2026-09-12T01:18:15.223Z",
   "analysis": {
     "oneLine": "context-mode 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "context-mode 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，context-mode 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 22,014，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，context-mode 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 22,211，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

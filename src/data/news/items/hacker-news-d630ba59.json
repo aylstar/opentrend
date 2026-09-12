@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "A misalignment of AI in mathematics",
+  "summary": "618 points · 671 comments",
+  "content": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/...",
+  "url": "https://mathandai.org/",
+  "publishedAt": "2026-09-11T17:45:12.000Z",
+  "points": 618,
+  "id": "hacker-news-d630ba59",
+  "slug": "hacker-news-d630ba59",
+  "fetchedAt": "2026-09-12T01:18:31.290Z",
+  "score": 80,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "AI 在数学中的错位",
+  "chineseSummary": "618 分 · 671 条评论",
+  "chineseContent": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... 、 https://unwall.app/www.economist.com/science-and-technology/...",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

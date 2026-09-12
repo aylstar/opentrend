@@ -1,0 +1,21 @@
+{
+  "id": "weibo-623efc8d58",
+  "slug": "weibo-教资",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "教资",
+  "summary": "微博热榜第 34 位：教资，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-09-12T01:15:44.940Z",
+  "fetchedAt": "2026-09-12T01:19:15.451Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

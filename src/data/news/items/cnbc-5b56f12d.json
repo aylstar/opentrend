@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+  "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
+  "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+  "publishedAt": "2026-09-11T20:48:19.000Z",
+  "id": "cnbc-5b56f12d",
+  "slug": "cnbc-5b56f12d",
+  "content": "Dell Technologies stock rose 12% on Friday after RBC Capital Markets initiated coverage of the computer maker and gave it an outperform rating and a price target of $640.\n\nFriday's rise comes as Dell shares have more than quadrupled so far in 2026, as the longtime PC maker has emerged as one of the top vendors for Nvidia -based servers and related equipment that cloud companies and enterprises are snapping up for artificial intelligence.\n\n\"With no signs of slowing, we believe DELL continues to be well positioned to benefit from a multi-year AI infrastructure spending cycle,\" RBC analyst David Paige wrote in the note on Thursday.\n\nDell has $95 billion in sales in its server order backlog that it hasn't yet started to fill, and it sold about $16.4 billion of AI servers in its second quarter, RBC said.\n\nDell reported second-quarter earnings earlier this month that surpassed estimates and the company upped its fiscal full-year forecast to $192 billion, which would be a nearly 70% increase in sales over last year.\n\nDell executives told investors on the earnings call that it is increasing prices because of rising costs for computer parts such as memory, which factored into the elevated guidance.\n\nThe computer maker was among the first to ship Nvidia's Grace Blackwell NVL72 racks, highlighting the company's close relationship with Nvidia and its ability to secure supply of the company's GPUs. Dell supplies neoclouds including CoreWeave .\n\nDell's products that aren't based on Nvidia GPUs, such as storage, are also seeing increased demand driven by AI, with storage revenue rising 26% in the most recent quarter. Effectively, Dell can be a one-stop shop for companies looking to stand up AI infrastructure, according to RBC.\n\n\"Dell's best-in-class supply chain represents a competitive moat that differentiates the company during periods of supply disruption, as customers increasingly turn to Dell for a 'calming hand' during periods of supply volatility/constraints,\" Paige wrote.\n\nIn July, President Donald Trump , who has bought Dell shares since returning to office last year, again recommended buying Dell computers .",
+  "fetchedAt": "2026-09-12T01:18:31.296Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "戴尔股价因 RBC 启动而上涨，2026 年将上涨近 350%",
+  "chineseSummary": "RBC 表示，戴尔第二季度人工智能服务器销量约为 164 亿美元。",
+  "chineseContent": "周五，加拿大皇家银行资本市场 (RBC Capital Markets) 开始对戴尔科技 (Dell Technologies) 进行评级，并给予其跑赢大盘评级和 640 美元的目标股价，该股股价上涨 12%。\n\n周五上涨之际，戴尔股价在 2026 年迄今已上涨四倍多，这家历史悠久的 PC 制造商已成为基于 Nvidia 的服务器和相关设备的顶级供应商之一，云公司和企业正在抢购这些设备以实现人工智能。\n\n加拿大皇家银行 (RBC) 分析师戴维·佩奇 (David Paige) 在周四的报告中写道：“没有放缓的迹象，我们相信戴尔将继续处于有利位置，能够从多年的人工智能基础设施支出周期中受益。”\n\n加拿大皇家银行表示，戴尔的服务器积压订单中有 950 亿美元的销售额尚未开始填补，第二季度销售了约 164 亿美元的人工智能服务器。\n\n戴尔本月早些时候公布的第二季度盈利超出预期，并将全年财报预测上调至 1,920 亿美元，销售额较去年增长近 70%。\n\n戴尔高管在财报电话会议上告诉投资者，由于内存等计算机零部件成本上涨，该公司正在提高价格，这也是提高指导值的一个因素。\n\n该计算机制造商是首批发货 Nvidia Grace Blackwell NVL72 机架的公司之一，突显该公司与 Nvidia 的密切关系及其确保该公司 GPU 供应的能力。戴尔提供包括 CoreWeave 在内的 neocloud。\n\n戴尔非基于 Nvidia GPU 的产品（例如存储）也受到人工智能驱动，需求不断增长，最近一个季度存储收入增长了 26%。加拿大皇家银行表示，实际上，戴尔可以成为寻求建立人工智能基础设施的公司的一站式商店。\n\n佩奇写道：“戴尔一流的供应链代表了一条竞争护城河，使该公司在供应中断期间脱颖而出，因为在供应波动/限制期间，客户越来越多地向戴尔寻求‘安慰之手’。”\n\n自去年重返办公室以来一直购买戴尔股票的美国总统唐纳德·特朗普今年7月再次建议购买戴尔电脑。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
