@@ -8,18 +8,18 @@
   "id": "product-hunt-910e4a44",
   "slug": "product-hunt-910e4a44",
   "content": "Ctrl+F for every conversation you've had with an AI Discussion | Link",
-  "fetchedAt": "2026-09-12T01:18:31.292Z",
+  "fetchedAt": "2026-09-13T01:14:59.119Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 7,
+  "rank": 10,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "聊天回忆",
-  "chineseSummary": "Ctrl+F 用于您与 AI 讨论的每一次对话 |关联",
-  "chineseContent": "Ctrl+F 用于您与 AI 讨论的每一次对话 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "chat-recall",
+  "chineseSummary": "Ctrl+F for every conversation you've had with an AI Discussion | Link",
+  "chineseContent": "Ctrl+F for every conversation you've had with an AI Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

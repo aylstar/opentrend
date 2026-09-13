@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b5d539e0f5",
+  "slug": "weibo-吃得越狠老得越慢",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "吃得越狠老得越慢",
+  "summary": "微博热榜第 15 位：吃得越狠老得越慢，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E5%BE%97%E8%B6%8A%E7%8B%A0%E8%80%81%E5%BE%97%E8%B6%8A%E6%85%A2%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-09-13T01:10:51.687Z",
+  "fetchedAt": "2026-09-13T01:15:34.284Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

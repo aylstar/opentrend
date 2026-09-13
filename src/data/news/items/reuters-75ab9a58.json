@@ -8,17 +8,17 @@
   "id": "reuters-75ab9a58",
   "slug": "reuters-75ab9a58",
   "content": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-09-12T01:18:31.306Z",
-  "score": 90,
+  "fetchedAt": "2026-09-13T01:14:59.132Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "金融"
   ],
-  "rank": 9,
+  "rank": 21,
   "contentStatus": "article-extracted",
-  "chineseTitle": "华尔街未来一周投资者为不确定的美联储会议可能加息做好准备",
-  "chineseSummary": "华尔街未来一周投资者为不确定的美联储会议可能加息做好准备 路透",
-  "chineseContent": "华尔街未来一周投资者为不确定的美联储会议可能加息做好准备 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting",
+  "chineseSummary": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting &nbsp;&nbsp; Reuters",
+  "chineseContent": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

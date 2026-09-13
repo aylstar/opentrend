@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "LG responds to TV spying allegations",
+  "summary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\" LG released a […]",
+  "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+  "publishedAt": "2026-09-12T15:19:44.000Z",
+  "id": "the-verge-a3973b12",
+  "slug": "the-verge-a3973b12",
+  "content": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG’s TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that “Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.” LG released a statement in which it claims that its “TVs do not continuously record or transmit users’ conversations,” and that wake-word detection is all processed locally. However, the word “continuously” is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive logs of ambient conversations long after one would assume its AI assistant had stopped listening. LG also said that its features like “Automatic Content Recognition (ACR), voice recognition, and interest-based advertising are optional,” and “not enabled by default.” The company says that: > ACR uses audio fingerprinting technology using the TV’s internal audio processor (not a speaker) to identify content and does not collect screenshots, screen recordings, video recordings, voice recordings, or other audio recordings from the TV. The company did not address broader concerns about how much data it collects, who it shares it with, the potential for bad actors to exploit its features, or the misleading way in which its privacy options are presented.",
+  "fetchedAt": "2026-09-13T01:14:59.121Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "LG responds to TV spying allegations",
+  "chineseSummary": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\" LG released a […]",
+  "chineseContent": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG’s TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that “Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.” LG released a statement in which it claims that its “TVs do not continuously record or transmit users’ conversations,” and that wake-word detection is all processed locally. However, the word “continuously” is doing a lot of heavy lifting here as Gamers Nexus demonstrated an LG TV keeping extensive logs of ambient conversations long after one would assume its AI assistant had stopped listening. LG also said that its features like “Automatic Content Recognition (ACR), voice recognition, and interest-based advertising are optional,” and “not enabled by default.” The company says that: > ACR uses audio fingerprinting technology using the TV’s internal audio processor (not a speaker) to identify content and does not collect screenshots, screen recordings, video recordings, voice recordings, or other audio recordings from the TV. The company did not address broader concerns about how much data it collects, who it shares it with, the potential for bad actors to exploit its features, or the misleading way in which its privacy options are presented.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-37f0839396",
+  "slug": "weibo-ai短剧-成瘾",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "AI短剧 成瘾",
+  "summary": "微博热榜第 1 位：AI短剧 成瘾，当前热度为 244万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7+%E6%88%90%E7%98%BE%23",
+  "hotValue": "244万热度",
+  "author": "",
+  "publishedAt": "2026-09-13T01:10:51.687Z",
+  "fetchedAt": "2026-09-13T01:15:34.284Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

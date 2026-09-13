@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7e5b238232",
+  "slug": "weibo-yamy年度名人堂",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "Yamy年度名人堂",
+  "summary": "微博热榜第 27 位：Yamy年度名人堂，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Yamy%E5%B9%B4%E5%BA%A6%E5%90%8D%E4%BA%BA%E5%A0%82%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-09-13T01:10:51.687Z",
+  "fetchedAt": "2026-09-13T01:15:34.284Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

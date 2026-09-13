@@ -8,17 +8,17 @@
   "id": "marketwatch-1ec84236",
   "slug": "marketwatch-1ec84236",
   "content": "Economists note that the Fed historically has not been content to raise rates only once.",
-  "fetchedAt": "2026-09-12T01:18:31.299Z",
-  "score": 90,
+  "fetchedAt": "2026-09-13T01:14:59.124Z",
+  "score": 84,
   "sourceWeight": 84,
   "tags": [
     "金融"
   ],
-  "rank": 22,
+  "rank": 26,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "美联储可能加息三次。这是市场可能面临最严峻考验的地方。",
-  "chineseSummary": "经济学家指出，美联储历来并不满足于只加息一次。",
-  "chineseContent": "经济学家指出，美联储历来并不满足于只加息一次。",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+  "chineseSummary": "Economists note that the Fed historically has not been content to raise rates only once.",
+  "chineseContent": "Economists note that the Fed historically has not been content to raise rates only once.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

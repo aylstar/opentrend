@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fba2b22467",
+  "slug": "weibo-王者荣耀",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "王者荣耀",
+  "summary": "微博热榜第 16 位：王者荣耀，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-09-13T01:10:51.687Z",
+  "fetchedAt": "2026-09-13T01:15:34.284Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

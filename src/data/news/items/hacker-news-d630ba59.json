@@ -2,24 +2,24 @@
   "source": "Hacker News",
   "category": "ai-tech",
   "originalTitle": "A misalignment of AI in mathematics",
-  "summary": "618 points · 671 comments",
+  "summary": "1179 points · 1139 comments",
   "content": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/...",
   "url": "https://mathandai.org/",
   "publishedAt": "2026-09-11T17:45:12.000Z",
-  "points": 618,
+  "points": 1179,
   "id": "hacker-news-d630ba59",
   "slug": "hacker-news-d630ba59",
-  "fetchedAt": "2026-09-12T01:18:31.290Z",
-  "score": 80,
+  "fetchedAt": "2026-09-13T01:14:59.119Z",
+  "score": 81,
   "sourceWeight": 86,
   "tags": [
     "AI"
   ],
   "rank": 2,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "AI 在数学中的错位",
-  "chineseSummary": "618 分 · 671 条评论",
-  "chineseContent": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... 、 https://unwall.app/www.economist.com/science-and-technology/...",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "A misalignment of AI in mathematics",
+  "chineseSummary": "1179 points · 1139 comments",
+  "chineseContent": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/...",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
