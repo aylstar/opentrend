@@ -1,0 +1,21 @@
+{
+  "id": "weibo-506262e3b0",
+  "slug": "weibo-英国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "英国",
+  "summary": "微博热榜第 10 位：英国，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-09-14T01:13:12.298Z",
+  "fetchedAt": "2026-09-14T01:18:19.221Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Why is Google still serving dodgy ads?",
+  "summary": "570 points · 269 comments",
+  "content": "AI is really good at detecting deceptive adverts - why isn’t Google using it?\n\nA couple of months ago I noticed this advert popping up in the YouTube app. The main reason I noticed it is that I accidentally clicked it - I knew I was running out of space on my iPhone and a minor lapse of concentration caught me out.\n\nThese things can slip through even the best review processes, so I did my internet duty and reported the advert.\n\nThe response I got back was less than satisfactory:\n\nAgain, sometimes things slip through the net and people don’t always check things properly, so I reported it again. And got the same response.\n\nIn fact, multiple people have reported this advert and received the same:\n\nWe found that the ad doesn’t go against Google’s policies, which prohibit certain content and practices that we believe to be harmful to users and the overall online ecosystem.\n\nNever attribute to malice that which is adequately explained by stupidity\n\nHowever, if you were being uncharitable, you do have to question whether it’s in Google’s interest to remove adverts that get lots of clicks. After all, these adverts are probably performing well and bringing in lots of lovely 🤑.\n\nA simpler explanation is that the people reviewing adverts cannot properly review everything so things get missed.\n\nYou can’t help thinking that AI should come to the rescue here. Given Google has some pretty good models - surely it can put them to use?\n\nHere’s what Google’s Gemini has to say about the advert:\n\nDisapprove the ad creative immediately. Issue a policy violation warning/disapproval flag to the advertiser account under Misrepresentation (Misleading Ad Design) . Repeated violations of this nature may result in full account suspension for deceptive practices.\n\nGoogle’s own model rejects the ad in seconds, yet Google’s review process approved it twice.\n\nCome on, meatbags - use some of the amazing AI tools you have access to.",
+  "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+  "publishedAt": "2026-09-13T17:37:44.000Z",
+  "points": 570,
+  "id": "hacker-news-6731511e",
+  "slug": "hacker-news-6731511e",
+  "fetchedAt": "2026-09-14T01:17:49.362Z",
+  "score": 67,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Why is Google still serving dodgy ads?",
+  "chineseSummary": "570 points · 269 comments",
+  "chineseContent": "AI is really good at detecting deceptive adverts - why isn’t Google using it?\n\nA couple of months ago I noticed this advert popping up in the YouTube app. The main reason I noticed it is that I accidentally clicked it - I knew I was running out of space on my iPhone and a minor lapse of concentration caught me out.\n\nThese things can slip through even the best review processes, so I did my internet duty and reported the advert.\n\nThe response I got back was less than satisfactory:\n\nAgain, sometimes things slip through the net and people don’t always check things properly, so I reported it again. And got the same response.\n\nIn fact, multiple people have reported this advert and received the same:\n\nWe found that the ad doesn’t go against Google’s policies, which prohibit certain content and practices that we believe to be harmful to users and the overall online ecosystem.\n\nNever attribute to malice that which is adequately explained by stupidity\n\nHowever, if you were being uncharitable, you do have to question whether it’s in Google’s interest to remove adverts that get lots of clicks. After all, these adverts are probably performing well and bringing in lots of lovely 🤑.\n\nA simpler explanation is that the people reviewing adverts cannot properly review everything so things get missed.\n\nYou can’t help thinking that AI should come to the rescue here. Given Google has some pretty good models - surely it can put them to use?\n\nHere’s what Google’s Gemini has to say about the advert:\n\nDisapprove the ad creative immediately. Issue a policy violation warning/disapproval flag to the advertiser account under Misrepresentation (Misleading Ad Design) . Repeated violations of this nature may result in full account suspension for deceptive practices.\n\nGoogle’s own model rejects the ad in seconds, yet Google’s review process approved it twice.\n\nCome on, meatbags - use some of the amazing AI tools you have access to.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

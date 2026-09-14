@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ac4b1630ae",
+  "slug": "weibo-上5休1上5休3上3休7上3休1",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "上5休1上5休3上3休7上3休1",
+  "summary": "微博热榜第 1 位：上5休1上5休3上3休7上3休1，当前热度为 476万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A5%E4%BC%911%E4%B8%8A5%E4%BC%913%E4%B8%8A3%E4%BC%917%E4%B8%8A3%E4%BC%911%23",
+  "hotValue": "476万热度",
+  "author": "",
+  "publishedAt": "2026-09-14T01:13:12.298Z",
+  "fetchedAt": "2026-09-14T01:18:19.221Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,17 +8,17 @@
   "id": "bloomberg-868dc0a9",
   "slug": "bloomberg-868dc0a9",
   "content": "Fed’s Rate Decision May Have Come Down to Phone Plan Changes &nbsp;&nbsp; Bloomberg.com",
-  "fetchedAt": "2026-09-12T01:18:31.304Z",
-  "score": 90,
+  "fetchedAt": "2026-09-14T01:17:49.376Z",
+  "score": 84,
   "sourceWeight": 95,
   "tags": [
     "金融"
   ],
-  "rank": 6,
+  "rank": 26,
   "contentStatus": "article-extracted",
-  "chineseTitle": "美联储的利率决定可能取决于电话计划的变化",
-  "chineseSummary": "美联储的利率决定可能取决于电话计划的变化    Bloomberg.com",
-  "chineseContent": "美联储的利率决定可能取决于电话计划的变化    Bloomberg.com",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Fed’s Rate Decision May Have Come Down to Phone Plan Changes",
+  "chineseSummary": "Fed’s Rate Decision May Have Come Down to Phone Plan Changes &nbsp;&nbsp; Bloomberg.com",
+  "chineseContent": "Fed’s Rate Decision May Have Come Down to Phone Plan Changes &nbsp;&nbsp; Bloomberg.com",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
