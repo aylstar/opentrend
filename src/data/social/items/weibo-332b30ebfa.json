@@ -1,0 +1,21 @@
+{
+  "id": "weibo-332b30ebfa",
+  "slug": "weibo-艾美奖",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "艾美奖",
+  "summary": "微博热榜第 49 位：艾美奖，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%BE%8E%E5%A5%96%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-09-15T01:30:09.066Z",
+  "fetchedAt": "2026-09-15T01:38:26.733Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

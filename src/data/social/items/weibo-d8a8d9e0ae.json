@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d8a8d9e0ae",
+  "slug": "weibo-海南大暴雨特大暴雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "海南大暴雨特大暴雨",
+  "summary": "微博热榜第 45 位：海南大暴雨特大暴雨，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%A4%A7%E6%9A%B4%E9%9B%A8%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-09-15T01:30:09.066Z",
+  "fetchedAt": "2026-09-15T01:38:26.733Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-82c8d02d74",
+  "slug": "weibo-荣耀magic9",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 31,
+  "title": "荣耀Magic9",
+  "summary": "微博热榜第 31 位：荣耀Magic9，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80Magic9%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-09-15T01:30:09.066Z",
+  "fetchedAt": "2026-09-15T01:38:26.733Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

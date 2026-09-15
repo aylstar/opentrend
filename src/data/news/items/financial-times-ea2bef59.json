@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US tech stocks fall after big AI groups call for slowdown",
+  "summary": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
+  "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+  "publishedAt": "2026-09-14T20:10:48.000Z",
+  "id": "financial-times-ea2bef59",
+  "slug": "financial-times-ea2bef59",
+  "content": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
+  "fetchedAt": "2026-09-15T01:37:56.385Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 15,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "US tech stocks fall after big AI groups call for slowdown",
+  "chineseSummary": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
+  "chineseContent": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

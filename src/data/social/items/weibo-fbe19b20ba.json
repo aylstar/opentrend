@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fbe19b20ba",
+  "slug": "weibo-生逢其时",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "生逢其时",
+  "summary": "微博热榜第 50 位：生逢其时，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-09-15T01:30:09.066Z",
+  "fetchedAt": "2026-09-15T01:38:26.733Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
