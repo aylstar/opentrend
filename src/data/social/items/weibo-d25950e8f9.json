@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d25950e8f9",
+  "slug": "weibo-很多病都是撑出来的",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "很多病都是撑出来的",
+  "summary": "微博热榜第 49 位：很多病都是撑出来的，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E7%97%85%E9%83%BD%E6%98%AF%E6%92%91%E5%87%BA%E6%9D%A5%E7%9A%84%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-09-16T01:26:27.721Z",
+  "fetchedAt": "2026-09-16T01:31:32.283Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

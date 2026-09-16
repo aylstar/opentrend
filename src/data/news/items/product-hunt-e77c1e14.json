@@ -1,14 +1,14 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "GPT-6 Astra",
-  "summary": "OpenAI's most capable model for end-to-end work Discussion | Link",
+  "originalTitle": "OpenAI Agents API",
+  "summary": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
   "url": "https://www.producthunt.com/products/openai",
-  "publishedAt": "2026-09-03T20:14:40.000Z",
+  "publishedAt": "2026-09-14T02:33:24.000Z",
   "id": "product-hunt-e77c1e14",
   "slug": "product-hunt-e77c1e14",
-  "content": "OpenAI's most capable model for end-to-end work Discussion | Link",
-  "fetchedAt": "2026-09-06T01:08:40.744Z",
+  "content": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
+  "fetchedAt": "2026-09-16T01:30:14.420Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -17,9 +17,9 @@
   ],
   "rank": 9,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "GPT-6 Astra",
-  "chineseSummary": "OpenAI's most capable model for end-to-end work Discussion | Link",
-  "chineseContent": "OpenAI's most capable model for end-to-end work Discussion | Link",
+  "chineseTitle": "OpenAI Agents API",
+  "chineseSummary": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
+  "chineseContent": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
   "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
   "translationStatus": "fallback"
 }

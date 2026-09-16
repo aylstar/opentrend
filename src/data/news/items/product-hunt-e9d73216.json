@@ -8,7 +8,7 @@
   "id": "product-hunt-e9d73216",
   "slug": "product-hunt-e9d73216",
   "content": "Get more marketing emails into the inbox Discussion | Link",
-  "fetchedAt": "2026-09-15T01:37:56.380Z",
+  "fetchedAt": "2026-09-16T01:30:14.421Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
@@ -17,9 +17,9 @@
   ],
   "rank": 2,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Hello Inbox",
-  "chineseSummary": "Get more marketing emails into the inbox Discussion | Link",
-  "chineseContent": "Get more marketing emails into the inbox Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "你好收件箱",
+  "chineseSummary": "将更多营销电子邮件放入收件箱关联",
+  "chineseContent": "将更多营销电子邮件放入收件箱关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }
