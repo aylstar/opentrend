@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Xiaomi Mimo 2.6 live post-training dashboard",
+  "summary": "247 points · 63 comments",
+  "content": "Training metrics of the mimo-v2.6-pro and mimo-v2.6-flash reinforcement-learning runs, live from the trainer",
+  "url": "https://mimo.xiaomi.com/rl/",
+  "publishedAt": "2026-09-16T20:09:18.000Z",
+  "points": 247,
+  "id": "hacker-news-5e35904d",
+  "slug": "hacker-news-5e35904d",
+  "fetchedAt": "2026-09-17T01:33:49.137Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "小米 Mimo 2.6 实时训练后仪表板",
+  "chineseSummary": "247 分 · 63 条评论",
+  "chineseContent": "mimo-v2.6-pro 和 mimo-v2.6-flash 强化学习运行的训练指标，来自训练器",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

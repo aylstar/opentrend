@@ -1,0 +1,21 @@
+{
+  "id": "weibo-639f05eefc",
+  "slug": "weibo-玻尿酸科普",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "玻尿酸科普",
+  "summary": "微博热榜第 40 位：玻尿酸科普，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%BB%E5%B0%BF%E9%85%B8%E7%A7%91%E6%99%AE%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-09-17T01:30:50.828Z",
+  "fetchedAt": "2026-09-17T01:34:36.242Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

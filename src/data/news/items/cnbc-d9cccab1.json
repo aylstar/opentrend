@@ -1,0 +1,24 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+  "summary": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+  "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+  "publishedAt": "2026-09-16T21:40:18.000Z",
+  "id": "cnbc-d9cccab1",
+  "slug": "cnbc-d9cccab1",
+  "content": "Amazon was granted warrants to purchase up to $340 million worth of Generac stock, sending shares of the backup power provider soaring more than 40% in extended trading on Wednesday.\n\nAs part of the agreement, Generac said in a securities filing that it issued warrants to Amazon to acquire up to 1.69 million shares in the company at $200.93 a piece for a total investment that could be worth as much as $8 billion.\n\nGenerac will supply Amazon with backup power generators for its data centers, with initial deliveries expected to total $2.4 billion in 2027 and 2028, the filing states.\n\nAbout 308,000 warrant shares vested immediately and the remaining tranches vest contingent upon payments for the generators.\n\nThe warrants are equivalent to almost 3% of outstanding shares in Generac, which has a market cap of about $10.3 billion, as of Wednesday's close.\n\nIt marks the latest infrastructure deal for Amazon. Last week, Amazon struck a deal with Qualcomm to use its custom artificial intelligence chips, and got warrants to acquire as much as $4 billion in Qualcomm stock.\n\nAmazon Web Services, the leader in cloud infrastructure, has been rapidly building out data center capacity to meet a surge in compute demand tied to the artificial intelligence boom. It signed a $38 billion cloud deal with OpenAI last November, and last October, it opened a sprawling $11 billion campus for Anthropic .\n\nAmazon frequently purchases warrants and takes stakes in its suppliers, including semiconductor firm Astera Labs , air cargo contractor ATSG , green hydrogen supplier Plug Power and grocery distributor Spartan Nash.",
+  "fetchedAt": "2026-09-17T01:33:49.141Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "亚马逊获得Generac股票购买权，推动电力公司股价上涨逾40%",
+  "chineseSummary": "作为为其数据中心供应备用发电机交易的一部分，亚马逊获得了购买价值高达 3.4 亿美元的 Generac 股票的认股权证。",
+  "chineseContent": "亚马逊获得了购买价值高达 3.4 亿美元 Generac 股票的认股权证，这使得这家备用电源提供商的股价在周三的盘后交易中飙升了 40% 以上。\n\n作为协议的一部分，Generac 在一份证券备案文件中表示，它向亚马逊发行认股权证，以每股 200.93 美元的价格收购该公司最多 169 万股股票，总投资额可能高达 80 亿美元。\n\n文件称，Generac 将为亚马逊的数据中心提供备用发电机，预计 2027 年和 2028 年的首次交付总额将达到 24 亿美元。\n\n约 308,000 股认股权证股份立即归属，其余部分视发电机付款而归属。\n\n这些认股权证相当于 Generac 已发行股票的近 3%，截至周三收盘，该公司的市值约为 103 亿美元。\n\n这标志着亚马逊最新的基础设施交易。上周，亚马逊与高通达成协议，使用其定制人工智能芯片，并获得认股权证，可购买高达 40 亿美元的高通股票。\n\n云基础设施领域的领导者亚马逊网络服务一直在快速建设数据中心容量，以满足人工智能热潮带来的计算需求激增。去年 11 月，它与 OpenAI 签署了价值 380 亿美元的云协议，去年 10 月，它为 Anthropic 开设了一个价值 110 亿美元的庞大园区。\n\n亚马逊经常购买认股权证并入股其供应商，包括半导体公司 Astera Labs、航空货运承包商 ATSG、绿氢供应商 Plug Power 和杂货经销商 Spartan Nash。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

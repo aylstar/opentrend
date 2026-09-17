@@ -8,18 +8,18 @@
   "id": "product-hunt-e77c1e14",
   "slug": "product-hunt-e77c1e14",
   "content": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
-  "fetchedAt": "2026-09-16T01:30:14.420Z",
+  "fetchedAt": "2026-09-17T01:33:49.139Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 9,
+  "rank": 14,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "OpenAI Agents API",
-  "chineseSummary": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
-  "chineseContent": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "OpenAI 代理 API",
+  "chineseSummary": "云代理，在 OpenAI 的 Codex 工具上运行 讨论 |关联",
+  "chineseContent": "云代理，在 OpenAI 的 Codex 工具上运行 讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

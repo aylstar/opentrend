@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenSpec – A lightweight and configurable AI spec framework",
+  "summary": "59 points · 17 comments",
+  "content": "OpenSpec is a lightweight and configurable framework for creating and managing software specifications.\n\nWith OpenSpec, you capture what you want to build in a spec and keep your team and coding agents aligned as the work evolves. We help you refine the requirements, validate that they describe the right thing, and verify that the implementation matches.\n\nIn essence, OpenSpec helps you build the right thing and build it right .\n\n68.0k GitHub stars. A new spec every two seconds .\n\nA new spec is created with OpenSpec every two seconds .\n\nOpenSpec helps create a new spec every two seconds , has earned 68.0k GitHub stars , and is used by more than 265,000 developers a month .\n\nBuilt in the open. Used in the wild.\n\nCreating a new spec every 2 seconds\n\nOpenSpec is already part of how developers build with AI. 1 A new spec is created every two seconds. 2\n\n1 68.0k GitHub stars 2 OpenSpec usage\n\nGitHub · Discord · 68.0k stars · v1.13.0",
+  "url": "https://openspec.dev/",
+  "publishedAt": "2026-09-16T23:06:39.000Z",
+  "points": 59,
+  "id": "hacker-news-8f9653ec",
+  "slug": "hacker-news-8f9653ec",
+  "fetchedAt": "2026-09-17T01:33:49.137Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenSpec – 轻量级且可配置的 AI 规范框架",
+  "chineseSummary": "59 分 · 17 条评论",
+  "chineseContent": "OpenSpec 是一个轻量级且可配置的框架，用于创建和管理软件规范。\n\n借助 OpenSpec，您可以捕获想要在规范中构建的内容，并让您的团队和编码代理随着工作的发展保持一致。我们帮助您完善需求，验证它们是否描述了正确的内容，并验证实施是否匹配。\n\n从本质上讲，OpenSpec 可以帮助您构建正确的事物并构建正确的事物。\n\n68.0k GitHub star。每两秒就有一个新规格。\n\nOpenSpec 每两秒创建一个新规范。\n\nOpenSpec 帮助每两秒创建一个新规范，已赢得 68.0k GitHub 星星，每月有超过 265,000 名开发人员使用。\n\n建在露天。在野外使用。\n\n每 2 秒创建一个新规范\n\nOpenSpec 已经成为开发人员使用 AI 进行构建的一部分。 1 每两秒创建一个新规范。 2\n\n1 68.0k GitHub 星星 2 OpenSpec 使用情况\n\nGitHub · Discord · 68.0k 星 · v1.13.0",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
