@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d9bc96abdd",
+  "slug": "weibo-美科技股集体猛涨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "美科技股集体猛涨",
+  "summary": "微博热榜第 30 位：美科技股集体猛涨，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%A7%91%E6%8A%80%E8%82%A1%E9%9B%86%E4%BD%93%E7%8C%9B%E6%B6%A8%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-09-18T01:15:53.042Z",
+  "fetchedAt": "2026-09-18T01:22:00.462Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

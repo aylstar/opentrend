@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+  "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+  "publishedAt": "2026-09-17T18:58:05.000Z",
+  "id": "the-verge-467ae729",
+  "slug": "the-verge-467ae729",
+  "content": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has “threads” running different tasks in parallel, with a “coordinator” directing everything:&nbsp; > Under the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work into pieces using subagents, loops, and workflows when needed so large assignments finish faster. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&strip=all] Users can interact with each thread individually, or monitor and update things through the main project chat. At launch, threads run in the cloud, but Anthropic says support for local tools and code is coming “very soon.” The updated projects feature is available in beta starting today for “select Claude Pro and Max subscribers,” with access expanding to all Pro, Max, Team, and Enterprise users later, as well as Cowork and regular Claude chats. [Media: https://www.youtube.com/watch?v=-EAEc4LiTyo]",
+  "fetchedAt": "2026-09-18T01:21:23.901Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+  "chineseSummary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: […]",
+  "chineseContent": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has “threads” running different tasks in parallel, with a “coordinator” directing everything:&nbsp; > Under the hood, each thread is a Claude Code cloud session working on its own branch and copy of the repo. The coordinator keeps work organized, but if any threads work on the same code, the overlap is resolved as a merge conflict just like any other PR. Each thread can further split its delegated work into pieces using subagents, loops, and workflows when needed so large assignments finish faster. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&strip=all] Users can interact with each thread individually, or monitor and update things through the main project chat. At launch, threads run in the cloud, but Anthropic says support for local tools and code is coming “very soon.” The updated projects feature is available in beta starting today for “select Claude Pro and Max subscribers,” with access expanding to all Pro, Max, Team, and Enterprise users later, as well as Cowork and regular Claude chats. [Media: https://www.youtube.com/watch?v=-EAEc4LiTyo]",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Share your AI Setup, Learn from others",
+  "summary": "182 points · 93 comments",
+  "content": "I haven’t got my AI setup figured out either. Let’s compare.\n\nI'm a polyglot SWE from Barcelona. +20 years experience in info-sec, video streaming, e-commerce, SAAS, STEM teacher, hearing tech, and ML.\n\nCofounder and CTO of CorralData. tmux on a headless Linux workstation, local llama.cpp, \"glass factory\" automated production facility and wiki for context.\n\nBuilding mysetup.ai with Codex and Claude Code in Herdr, voice prompts through Wispr Flow, on-the-go edits with Moshi\n\nWhose AI setup would you like to see?\n\nWhat have they figured out that I haven’t?\n\nI kept seeing other engineers, makers and builders post on Twitter X. Often getting snippets of their setups, and it left me wondering: What have they figured out that I haven’t? What tools are they using? Why did they switch to that agent harness? What skills are they using? And now graph engineering? What the **** is that?\n\nI’m finding it a little overwhelming.\n\nI wanted a dedicated space to see the tools, workflows and systems behind how others build. And somewhere to keep my own setup up to date and easy to share with my friends and colleagues.\n\nThat’s why I built this. A community to share how we're working with AI, learn from others, and feel a little more comfortable knowing we don't all have it figured out.\n\nRealistically, It'll be my agent that keeps my setup current and maybe this ends up as a community of one - me, but I hope you’ll take something useful away from my setup and I'd appreciate if you could share yours. Thank you!",
+  "url": "https://mysetup.ai/",
+  "publishedAt": "2026-09-17T13:01:44.000Z",
+  "points": 182,
+  "id": "hacker-news-82d03a13",
+  "slug": "hacker-news-82d03a13",
+  "fetchedAt": "2026-09-18T01:21:23.899Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN: Share your AI Setup, Learn from others",
+  "chineseSummary": "182 points · 93 comments",
+  "chineseContent": "I haven’t got my AI setup figured out either. Let’s compare.\n\nI'm a polyglot SWE from Barcelona. +20 years experience in info-sec, video streaming, e-commerce, SAAS, STEM teacher, hearing tech, and ML.\n\nCofounder and CTO of CorralData. tmux on a headless Linux workstation, local llama.cpp, \"glass factory\" automated production facility and wiki for context.\n\nBuilding mysetup.ai with Codex and Claude Code in Herdr, voice prompts through Wispr Flow, on-the-go edits with Moshi\n\nWhose AI setup would you like to see?\n\nWhat have they figured out that I haven’t?\n\nI kept seeing other engineers, makers and builders post on Twitter X. Often getting snippets of their setups, and it left me wondering: What have they figured out that I haven’t? What tools are they using? Why did they switch to that agent harness? What skills are they using? And now graph engineering? What the **** is that?\n\nI’m finding it a little overwhelming.\n\nI wanted a dedicated space to see the tools, workflows and systems behind how others build. And somewhere to keep my own setup up to date and easy to share with my friends and colleagues.\n\nThat’s why I built this. A community to share how we're working with AI, learn from others, and feel a little more comfortable knowing we don't all have it figured out.\n\nRealistically, It'll be my agent that keeps my setup current and maybe this ends up as a community of one - me, but I hope you’ll take something useful away from my setup and I'd appreciate if you could share yours. Thank you!",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

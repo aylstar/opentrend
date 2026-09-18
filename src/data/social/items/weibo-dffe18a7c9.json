@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dffe18a7c9",
+  "slug": "weibo-粉笔-四海",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "粉笔 四海",
+  "summary": "微博热榜第 16 位：粉笔 四海，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94+%E5%9B%9B%E6%B5%B7%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-09-18T01:15:53.042Z",
+  "fetchedAt": "2026-09-18T01:22:00.462Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

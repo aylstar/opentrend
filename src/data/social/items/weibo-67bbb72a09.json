@@ -1,0 +1,21 @@
+{
+  "id": "weibo-67bbb72a09",
+  "slug": "weibo-918",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "918",
+  "summary": "微博热榜第 1 位：918，当前热度为 182万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23918%23",
+  "hotValue": "182万热度",
+  "author": "",
+  "publishedAt": "2026-09-18T01:15:53.042Z",
+  "fetchedAt": "2026-09-18T01:22:00.461Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
