@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "summary": "47 points · 47 comments",
+  "content": "AI drastically shortened its design time; it will only get faster\n\nMatthew S. Smith is a contributing editor for IEEE Spectrum and the former lead reviews editor at Digital Trends.\n\nOpenAI’s Jalapeño pairs its compute die with six stacks of HBM4 and an I/O chiplet.",
+  "url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "publishedAt": "2026-09-18T23:04:17.000Z",
+  "points": 47,
+  "id": "hacker-news-29d3d4cb",
+  "slug": "hacker-news-29d3d4cb",
+  "fetchedAt": "2026-09-19T01:20:39.874Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 如何利用自己的法学硕士来设计 Jalapeo 芯片",
+  "chineseSummary": "47 分 · 47 条评论",
+  "chineseContent": "人工智能大大缩短了设计时间；只会变得更快\n\nMatthew S. Smith 是 IEEE Spectrum 的特约编辑，也是 Digital Trends 的前首席评论编辑。\n\nOpenAI 的 Jalapeo 将其计算芯片与六个 HBM4 堆栈和一个 I/O 小芯片配对。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

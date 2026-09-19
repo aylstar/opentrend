@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Disney’s first CTO is Character.AI’s former CEO",
+  "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently […]",
+  "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+  "publishedAt": "2026-09-18T18:27:04.000Z",
+  "id": "the-verge-bcbf898b",
+  "slug": "the-verge-bcbf898b",
+  "content": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time.&nbsp; Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently appointed CEO Josh D’Amaro, and he will head up the company’s infrastructure, product, engineering, and data / AI platforms teams. Anand comes to Disney from chatbot startup Character.AI, where he served as CEO for just over a year and oversaw the company’s push into microdramas. Anand jumping ship to Disney comes as a bit of a surprise considering how this time last year, the company was sending Character.AI cease and desist letters due to the startup’s tools infringing on copyrighted IP. But Anand’s hiring could be a sign of how Disney wants to move forward with AI now that its partnership with OpenAI has fallen apart.",
+  "fetchedAt": "2026-09-19T01:20:39.877Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "迪士尼首任首席技术官是Character.AI 的前首席执行官",
+  "chineseSummary": "你可能会认为像迪士尼这样大的多媒体集团现在已经有几位首席技术官了，但该公司刚刚首次任命了这个职位。今天，迪士尼宣布卡兰迪普·阿南德 (Karandeep Anand) 加入公司，担任新任首席技术官。阿南德将直接向最近汇报[...]",
+  "chineseContent": "你可能会认为像迪士尼这样大的多媒体集团现在已经有几位首席技术官了，但该公司刚刚首次任命了这个职位。  今天，迪士尼宣布卡兰迪普·阿南德 (Karandeep Anand) 加入公司，担任新任首席技术官。阿南德将直接向最近任命的首席执行官乔什·达马罗汇报，他将领导公司的基础设施、产品、工程和数据/人工智能平台团队。阿南德 (Anand) 加入迪士尼之前，曾在聊天机器人初创公司 Character.AI 担任首席执行官一年多，并监督该公司进军微剧领域。考虑到去年这个时候，该公司因该初创公司的工具侵犯了受版权保护的知识产权而向 Character.AI 发送了停止函，阿南德跳槽到迪士尼有点令人惊讶。但阿南德的聘用可能是迪士尼在与 OpenAI 的合作关系破裂后希望推进人工智能发展的一个迹象。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

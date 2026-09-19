@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Virginia governor creates an AI task force and moves to restrain data centers",
+  "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]",
+  "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+  "publishedAt": "2026-09-18T18:29:17.000Z",
+  "id": "the-verge-d69f8c67",
+  "slug": "the-verge-d69f8c67",
+  "content": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like workforce displacement and data privacy issues, and determining how existing law can be applied to AI harms. The order represents the latest signal that states are taking data center and AI policy into their own hands as Congress and President Donald Trump have been slow or resistant to sweeping changes. Also on Friday, California Gov. Gavin Newsom issued an executive order convening experts to tackle AI safety issues, and earlier, New York Gov. Kathy Hochul and Texas Gov. Greg Abbott have both taken executive action to rein in rapid data center development. In addition to Virginia’s new executive order, Spanberger unveiled a new “Data Center Accountability Framework” for the state, which lays out additional priorities. These include eliminating “by-right approval,” like the kind that existed in Loudoun County for many years allowing developers to build on certain land without additional approvals, removing some state subsidies, establishing environmental guardrails, and safeguarding residents against increased energy prices that are associated with data centers. A press release for the actions includes many statements from environmental groups praising Spanberger’s approach, but others reportedly wish she’d gone even further. Piedmont Environmental Council (PEC), for example, is a nonprofit that has advocated for a moratorium on new development to deal with existing concerns, and PEC president Chris Miller said in a statement that “It largely addresses standards on new data centers and does not deal with what’s already built and in the pipeline, along with the ongoing impacts piling up in communities now.”",
+  "fetchedAt": "2026-09-19T01:20:39.877Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "弗吉尼亚州州长成立 AI 工作组并采取行动限制数据中心",
+  "chineseSummary": "弗吉尼亚州州长阿比盖尔·斯潘伯格命令州政府采取措施，赋予当地社区在数据中心开发方面拥有更大发言权，并放慢该州的审批速度，该州已经成为世界数据中心之都。第 22 号行政命令禁止行政部门官员签署保密协议 [...]",
+  "chineseContent": "弗吉尼亚州州长阿比盖尔·斯潘伯格命令州政府采取措施，赋予当地社区在数据中心开发方面拥有更大发言权，并放慢该州的审批速度，该州已经成为世界数据中心之都。除其他要求外，第 22 号行政命令禁止行政部门官员签署数据中心项目的保密协议，要求加快噪音监管，并要求对数据中心使用的备用发电操作进行审查。该命令还成立了一个人工智能工作组，负责评估州政府如何解决弗吉尼亚人面临的风险，例如劳动力流失和数据隐私问题，并确定如何将现有法律应用于人工智能危害。该命令代表了最新信号，表明各州正在将数据中心和人工智能政策掌握在自己手中，因为国会和唐纳德·特朗普总统一直缓慢或抵制彻底的变革。同样在周五，加利福尼亚州州长加文·纽瑟姆（Gavin Newsom）发布了一项行政命令，召集专家解决人工智能安全问题，早些时候，纽约州州长凯西·霍赫尔（Kathy Hochul）和德克萨斯州州长格雷格·阿博特（Greg Abbott）都采取了行政行动，以遏制数据中心的快速发展。除了弗吉尼亚州的新行政命令外，斯潘伯格还为该州推出了新的“数据中心责任框架”，其中列出了其他优先事项。其中包括取消“按权利批准”，就像劳登县多年来允许开发商在某些土地上进行建设而无需额外批准的那种，取消一些国家补贴，建立环境护栏，以及保护居民免受与数据中心相关的能源价格上涨的影响。有关这些行动的新闻稿包括环境署的许多声明",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

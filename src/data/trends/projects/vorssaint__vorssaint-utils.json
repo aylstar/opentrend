@@ -8,12 +8,12 @@
   "language": "Swift",
   "githubUrl": "https://github.com/vorssaint/vorssaint-utils",
   "docsUrl": "https://vorssaint.com",
-  "stars": 19666,
-  "forks": 714,
-  "openIssues": 466,
+  "stars": 19819,
+  "forks": 725,
+  "openIssues": 462,
   "license": "GPL-3.0",
-  "pushedAt": "2026-09-18T00:57:54Z",
-  "updatedAt": "2026-09-18T00:55:45Z",
+  "pushedAt": "2026-09-19T00:15:37Z",
+  "updatedAt": "2026-09-19T01:14:33Z",
   "createdAt": "2026-06-12T15:25:43Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/assets/readme/logo-dark.svg\">\n    <img src=\"docs/assets/readme/logo.svg\" width=\"220\" alt=\"Vorssaint logo\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Vorssaint</h1>\n\n<p align=\"center\">\n  One menu bar icon doing the job of a dozen paid Mac apps.<br>\n  Free, open source, and everything runs on your Mac.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://vorssaint.com\">Website</a> ·\n  <a href=\"#install\">Install</a> ·\n  <a href=\"#everything-it-does\">Features</a> ·\n  <a href=\"#private-by-default\">Privacy</a> ·\n  <a href=\"CHANGELOG.md\">Changelog</a> ·\n  <a href=\"mailto:hello@vorssaint.com\">Contact</a> ·\n  <a href=\"https://buymeacoffee.com/vorssaint\">Buy Me a Coffee</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/vorssaint/vorssaint-utils/releases\"><img src=\"https://img.shields.io/github/v/release/vorssaint/vorssaint-utils?label=release&color=4c8dff\" alt=\"Latest release\"></a>\n  <a href=\"https://github.com/vorssaint/vorssaint-utils/releases\"><img src=\"https://img.shields.io/github/downloads/vorssaint/vorssaint-utils/total?color=4c8dff\" alt=\"Downloads\"></a>\n  <a href=\"https://github.com/vorssaint/vorssaint-utils/actions/workflows/ci.yml\"><img src=\"https://github.com/vorssaint/vorssaint-utils/actions/workflows/ci.yml/badge.svg?branch=main&event=push\" alt=\"CI status\"></a>\n  <a href=\"#what-you-need\"><img src=\"https://img.shields.io/badge/macOS-14%2B%20Apple%20Silicon-black\" alt=\"macOS 14 and newer, Apple Silicon\"></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-GPL--3.0--or--later-blue\" alt=\"License GPL 3.0 or later\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/M6BwWH4BJp\">\n    <img src=\"docs/assets/readme/discord-symbol.svg\" width=\"72\" alt=\"Discord\">\n  </a>\n</p>\n\n<p align=\"center\">\n  For anything private, email\n  <a href=\"mailto:hello@vorssaint.com\"><strong>hello@vorssaint.com</strong></a>.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/53716?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-53716\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/53716\" alt=\"vorssaint/vorssaint-utils | Trendshift\" width=\"250\" height=\"55\"></a>\n  <a href=\"https://trendshift.io/repositories/53716?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-53716\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/53716/weekly?language=Swift\" alt=\"vorssaint/vorssaint-utils | Trendshift weekly ranking\" width=\"250\" height=\"55\"></a>\n</p>\n\n<p align=\"center\">\n  <img src=\"docs/assets/readme/panel-mixer.png\" width=\"196\" alt=\"Volume mixer with per app sliders, one app boosted past 100 percent\">\n  <img src=\"docs/assets/readme/panel-system.png\" width=\"196\" alt=\"System tab with temperatures, usage graphs and memory pressure\">\n  <img src=\"docs/assets/readme/panel-controls.png\" widt",
-  "generatedAt": "2026-09-18T01:21:09.560Z",
+  "generatedAt": "2026-09-19T01:20:28.937Z",
   "analysis": {
     "oneLine": "vorssaint-utils 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "vorssaint-utils 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，vorssaint-utils 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 19,666，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，vorssaint-utils 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 19,819，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Swift 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
