@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fb3f2f17be",
+  "slug": "weibo-开机进直播一键看电视",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "开机进直播一键看电视",
+  "summary": "微博热榜第 24 位：开机进直播一键看电视，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%9C%BA%E8%BF%9B%E7%9B%B4%E6%92%AD%E4%B8%80%E9%94%AE%E7%9C%8B%E7%94%B5%E8%A7%86%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-09-20T01:12:16.947Z",
+  "fetchedAt": "2026-09-20T01:20:56.224Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,19 +8,19 @@
   "id": "product-hunt-29b6dc60",
   "slug": "product-hunt-29b6dc60",
   "content": "Track what AI says about your store, fix it, generate blog Discussion | Link",
-  "fetchedAt": "2026-09-19T01:20:39.876Z",
-  "score": 79,
+  "fetchedAt": "2026-09-20T01:20:18.814Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球",
     "金融"
   ],
-  "rank": 4,
+  "rank": 14,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "真实性分数",
-  "chineseSummary": "跟踪 AI 对您商店的评价、修复问题、生成博客关联",
-  "chineseContent": "跟踪 AI 对您商店的评价、修复问题、生成博客关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Verity Score",
+  "chineseSummary": "Track what AI says about your store, fix it, generate blog Discussion | Link",
+  "chineseContent": "Track what AI says about your store, fix it, generate blog Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

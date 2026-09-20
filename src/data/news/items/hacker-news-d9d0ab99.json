@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Brood War Bench",
+  "summary": "147 points · 65 comments",
+  "content": "Brood War Bench started after I built a version of Brood War that you could only play through agents as an experiment to play with friends. I played it with a couple friends who did surprisingly well for people who have only played a couple Starcraft games in their lives. When I asked them why, they said they hadn't done much, they asked their agent to attack and it had built a small army and done the full attack for them. This lead me to wonder how far they can go on their own; this is my answer.\n\nCodex found cheese before it found macro\n\nCodex's strongest recurring idea was disruption. In Protoss games it often sent a Probe across the map to attack workers or buildings. This worked shockingly well as the opposing agents often spent dozens of seconds thinking about what to do about a probe instead of doing anything else.\n\nThe same systems were much weaker at sustained production. They delayed tech, trickled one or two basic units into defended bases, and threw workers into last stands.\n\nI also noticed Codex often created separate subagents to manage the economy, army production, and army control. They didn't communicate much with one another, so the army agent often sent each new unit straight into an attack, unaware of the larger army the other agents were planning to build.\n\nThis is a common beginner mistake: sending units in one at a time instead of waiting for a critical mass and a planned attack timing. In games where I helped direct Codex, it was much better at planning those moments and getting its subagents to work together.\n\nThe persistence was real. In G009, after losing its army and main base, Codex 5.6 Terra / medium lifted its last Command Center and moved it toward the opposite corner. It survived for another six minutes.",
+  "url": "https://bw.swerdlow.dev/report",
+  "publishedAt": "2026-09-19T14:44:02.000Z",
+  "points": 147,
+  "id": "hacker-news-d9d0ab99",
+  "slug": "hacker-news-d9d0ab99",
+  "fetchedAt": "2026-09-20T01:20:18.812Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Brood War Bench",
+  "chineseSummary": "147 points · 65 comments",
+  "chineseContent": "Brood War Bench started after I built a version of Brood War that you could only play through agents as an experiment to play with friends. I played it with a couple friends who did surprisingly well for people who have only played a couple Starcraft games in their lives. When I asked them why, they said they hadn't done much, they asked their agent to attack and it had built a small army and done the full attack for them. This lead me to wonder how far they can go on their own; this is my answer.\n\nCodex found cheese before it found macro\n\nCodex's strongest recurring idea was disruption. In Protoss games it often sent a Probe across the map to attack workers or buildings. This worked shockingly well as the opposing agents often spent dozens of seconds thinking about what to do about a probe instead of doing anything else.\n\nThe same systems were much weaker at sustained production. They delayed tech, trickled one or two basic units into defended bases, and threw workers into last stands.\n\nI also noticed Codex often created separate subagents to manage the economy, army production, and army control. They didn't communicate much with one another, so the army agent often sent each new unit straight into an attack, unaware of the larger army the other agents were planning to build.\n\nThis is a common beginner mistake: sending units in one at a time instead of waiting for a critical mass and a planned attack timing. In games where I helped direct Codex, it was much better at planning those moments and getting its subagents to work together.\n\nThe persistence was real. In G009, after losing its army and main base, Codex 5.6 Terra / medium lifted its last Command Center and moved it toward the opposite corner. It survived for another six minutes.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

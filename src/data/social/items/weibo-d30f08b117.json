@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d30f08b117",
+  "slug": "weibo-易烊千玺短信",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "易烊千玺短信",
+  "summary": "微博热榜第 13 位：易烊千玺短信，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9F%AD%E4%BF%A1%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-09-20T01:12:16.947Z",
+  "fetchedAt": "2026-09-20T01:20:56.224Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

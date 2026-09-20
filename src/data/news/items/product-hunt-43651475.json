@@ -8,18 +8,18 @@
   "id": "product-hunt-43651475",
   "slug": "product-hunt-43651475",
   "content": "AI game studio for 2D graphics assets, sounds, and sfx Discussion | Link",
-  "fetchedAt": "2026-09-19T01:20:39.875Z",
-  "score": 79,
+  "fetchedAt": "2026-09-20T01:20:18.813Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 1,
+  "rank": 10,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "旺博",
-  "chineseSummary": "用于 2D 图形资源、声音和 sfx 的 AI 游戏工作室 讨论 |关联",
-  "chineseContent": "用于 2D 图形资源、声音和 sfx 的 AI 游戏工作室 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Wombo",
+  "chineseSummary": "AI game studio for 2D graphics assets, sounds, and sfx Discussion | Link",
+  "chineseContent": "AI game studio for 2D graphics assets, sounds, and sfx Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
