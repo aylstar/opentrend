@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1b2f437981",
+  "slug": "weibo-闲鱼-涉黄",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "闲鱼 涉黄",
+  "summary": "微博热榜第 1 位：闲鱼 涉黄，当前热度为 634万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC+%E6%B6%89%E9%BB%84%23",
+  "hotValue": "634万热度",
+  "author": "",
+  "publishedAt": "2026-09-21T01:10:44.901Z",
+  "fetchedAt": "2026-09-21T01:19:22.508Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6ba2b6c1c3",
+  "slug": "weibo-马竞2比1皇马",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "马竞2比1皇马",
+  "summary": "微博热榜第 39 位：马竞2比1皇马，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%9E2%E6%AF%941%E7%9A%87%E9%A9%AC%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-09-21T01:10:44.901Z",
+  "fetchedAt": "2026-09-21T01:19:22.508Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

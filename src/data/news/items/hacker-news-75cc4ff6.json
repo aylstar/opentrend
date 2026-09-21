@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Amiga Unix, Again",
+  "summary": "12 points · 5 comments",
+  "content": "Amiga Unix — Amix — was Commodore's System V Release 4 for the Amiga: shipped in 1990–92 for the A2500UX and A3000UX, then left where it stood. amigaux.org is an unofficial community project that picks it up again: Amix on 68040 and 68060 machines and on today's accelerator hardware, with a modern toolchain, a package manager, and drivers for cards that never had any. The work is done in the open, and written down as it happens in the grimoire .\n\nBy asokero, isoriano1968 and jusii.\n\nThe install medium boots from floppy and CD-ROM on real hardware — floppy image and ISO under emulation — and takes care of the whole installation, interactively or unattended. With supported hardware, getting Amix onto a machine comes down to following the prompts. The classic tape install follows later.\n\nFrom there the network takes over: apkg installs packages straight from pkg.amigaux.org — grep, gzip, less, patch and zlib to start with, and more GNU and BSD tools as they are built and tested.\n\nPart of this work is done with generative AI in the loop — models reading the old kernels in binary, as no source is available, and writing drivers and notes — with people setting direction, reviewing every change and testing on real hardware, where it either boots or it doesn't. Other parts are done the classic way. The grimoire records both, confidence-tagged, so you can see what is verified and what is still a guess.",
+  "url": "https://amigaux.org/",
+  "publishedAt": "2026-09-20T23:57:10.000Z",
+  "points": 12,
+  "id": "hacker-news-75cc4ff6",
+  "slug": "hacker-news-75cc4ff6",
+  "fetchedAt": "2026-09-21T01:18:17.209Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Amiga Unix, Again",
+  "chineseSummary": "12 points · 5 comments",
+  "chineseContent": "Amiga Unix — Amix — was Commodore's System V Release 4 for the Amiga: shipped in 1990–92 for the A2500UX and A3000UX, then left where it stood. amigaux.org is an unofficial community project that picks it up again: Amix on 68040 and 68060 machines and on today's accelerator hardware, with a modern toolchain, a package manager, and drivers for cards that never had any. The work is done in the open, and written down as it happens in the grimoire .\n\nBy asokero, isoriano1968 and jusii.\n\nThe install medium boots from floppy and CD-ROM on real hardware — floppy image and ISO under emulation — and takes care of the whole installation, interactively or unattended. With supported hardware, getting Amix onto a machine comes down to following the prompts. The classic tape install follows later.\n\nFrom there the network takes over: apkg installs packages straight from pkg.amigaux.org — grep, gzip, less, patch and zlib to start with, and more GNU and BSD tools as they are built and tested.\n\nPart of this work is done with generative AI in the loop — models reading the old kernels in binary, as no source is available, and writing drivers and notes — with people setting direction, reviewing every change and testing on real hardware, where it either boots or it doesn't. Other parts are done the classic way. The grimoire records both, confidence-tagged, so you can see what is verified and what is still a guess.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

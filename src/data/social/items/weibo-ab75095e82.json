@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ab75095e82",
+  "slug": "weibo-网红医生-带货",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "网红医生 带货",
+  "summary": "微博热榜第 17 位：网红医生 带货，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%8C%BB%E7%94%9F+%E5%B8%A6%E8%B4%A7%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-09-21T01:10:44.901Z",
+  "fetchedAt": "2026-09-21T01:19:22.508Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

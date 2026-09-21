@@ -8,15 +8,15 @@
   "id": "the-verge-ac17e73a",
   "slug": "the-verge-ac17e73a",
   "content": "Meta’s Muse is apparently an effective AI assistant, but one that’s a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn’t actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. The problem is that Aten says he didn’t give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, “I saw the notification previews, not your message history. I haven’t been reading your texts.” Aten continued to push, asking how Muse was receiving message previews, it didn’t have a good answer. “Honest answer: I can’t give you the exact plumbing,” it said. “What I know is that the paired Mac app exposes notifications as one of its capabilities, and they arrive to me through the device sync. Obviously, not great. [Media: https://www.threads.com/share/D-Lf7ZdXQ/] Meta Superintelligence Labs’ David Singleton chimed in below the post to try to explain. First, he walks through all the permissions Muse needs to read messages, including granting the Mac app full disk access. He states that the features are opt-in. The more interesting part comes in towards the end of the thread in which Singleton says that Muse, “does not watch notifications on your Mac, but rather syncs data from Messages only after the user has specifically enabled access.” He suggests that the issue isn’t Muse illicitly reading Aten’ texts, but simply that Muse has no idea what it’s talking about: > In the conversation with his Muse in Jason’s screenshots, when Muse said it synced “device notifications”, it was confused about how to explain the feature and gave an incorrect explanation. That’s on us. We apologize for the incorrect response from Muse and we’re working to improve Muse’s understanding of its own internals so that it gives correct answers to questions about how it functions more consistently. That might not be particularly reassuring, but it also makes some sense. We already know chatbots won’t tell you their secrets and will instead tell you what you want to hear.",
-  "fetchedAt": "2026-09-20T01:20:18.814Z",
-  "score": 72,
+  "fetchedAt": "2026-09-21T01:18:17.211Z",
+  "score": 66,
   "sourceWeight": 80,
   "tags": [
     "AI",
     "科技",
     "全球"
   ],
-  "rank": 15,
+  "rank": 19,
   "contentStatus": "article-extracted",
   "chineseTitle": "Meta’s Muse is creepy, but maybe not for the reasons you think",
   "chineseSummary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",

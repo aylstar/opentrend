@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: A competition for small neural networks that play strategy games",
+  "summary": "30 points · 6 comments",
+  "content": "A ranked ladder for small neural networks that play strategy games. Train a model, write an adapter, upload two files, and get measured into a weight class from 8 KiB up.",
+  "url": "https://tinybrains.dev",
+  "publishedAt": "2026-09-20T14:59:10.000Z",
+  "points": 30,
+  "id": "hacker-news-ed7fc11b",
+  "slug": "hacker-news-ed7fc11b",
+  "fetchedAt": "2026-09-21T01:18:17.210Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN: A competition for small neural networks that play strategy games",
+  "chineseSummary": "30 points · 6 comments",
+  "chineseContent": "A ranked ladder for small neural networks that play strategy games. Train a model, write an adapter, upload two files, and get measured into a weight class from 8 KiB up.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

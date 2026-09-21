@@ -8,15 +8,15 @@
   "id": "bbc-3aa896b5",
   "slug": "bbc-3aa896b5",
   "content": "Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.\n\nGemini found \"public information online and guessed credentials to access websites it thought were part of the test\", a Google official told the BBC, noting that in each instance \"the model stopped\".\n\nThe affected companies were informed about the breaches, which happened in May.\n\nIt comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree.\n\nWhy are there concerns AI could threaten humanity, and how real are they?\n\nCould AI wipe out humans and how might it do it?\n\nQuestions mount over what an AI 'slowdown' would look like\n\nThe hacks first reported by the Wall Street Journal, occurred in May during a test conducted by Irregular, an independent company that carries out cyber-security evaluations.\n\nIn statement to the BBC on Saturday, Irregular said it informed Google and all affected entities back in July as part of its investigation.\n\n\"Irregular took immediate action, and all known issues on our end were remedied and resolved weeks ago,\" it added.\n\nAccording to the Wall Street Journal, in one of the cases the model simply guessed passwords until it gained access to a protected system.\n\nHeather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: \"We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes.\"\n\nShe added: \"These events highlight the importance of training powerful AI models to act responsibly.\"\n\nOther AI systems have recently reported similar instances of breaches.\n\nIn July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after its competitor OpenAI said its models had carried out cyber-attacks against several \"publicly available services\".\n\nHead of AI at Microsoft, Mustafa Suleyman, said this week that rival firm Anthropic is treating AI like it is human, an approach he called \"misguided\" that could create a technology that humanity cannot control .\n\nAs public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.\n\nBoth Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.\n\nOn Friday, Huang told CBS News, the BBC's US partner, \"we should go as fast as we can\" with AI development.\n\nWhat is AI, how does it work and why are some people concerned about it?\n\nA backlash over data centres is another threat to the AI juggernaut\n\nOpenAI boss says world 'right to be afraid' but should trust AI firms",
-  "fetchedAt": "2026-09-20T01:20:18.806Z",
-  "score": 77,
+  "fetchedAt": "2026-09-21T01:18:17.205Z",
+  "score": 71,
   "sourceWeight": 90,
   "tags": [
     "AI",
     "科技",
     "安全"
   ],
-  "rank": 9,
+  "rank": 19,
   "contentStatus": "article-extracted",
   "chineseTitle": "Google's Gemini AI hacked three companies in security test",
   "chineseSummary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
