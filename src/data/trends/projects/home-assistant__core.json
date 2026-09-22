@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/home-assistant/core",
   "docsUrl": "https://www.home-assistant.io",
-  "stars": 90894,
-  "forks": 38714,
-  "openIssues": 3611,
+  "stars": 90978,
+  "forks": 38722,
+  "openIssues": 3574,
   "license": "Apache-2.0",
-  "pushedAt": "2026-09-21T00:48:23Z",
-  "updatedAt": "2026-09-21T00:50:40Z",
+  "pushedAt": "2026-09-22T01:36:48Z",
+  "updatedAt": "2026-09-22T00:55:45Z",
   "createdAt": "2013-09-17T07:29:48Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "Home Assistant |Chat Status|\n=================================================================================\n\nOpen source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.\n\nCheck out `home-assistant.io <https://home-assistant.io>`__ for `a\ndemo <https://demo.home-assistant.io>`__, `installation instructions <https://home-assistant.io/getting-started/>`__,\n`tutorials <https://home-assistant.io/getting-started/automation/>`__ and `documentation <https://home-assistant.io/docs/>`__.\n\n|screenshot-states|\n\nFeatured integrations\n---------------------\n\n|screenshot-integrations|\n\nThe system is built using a modular approach so support for other devices or actions can be implemented easily. See also the `section on architecture <https://developers.home-assistant.io/docs/architecture_index/>`__ and the `section on creating your own\ncomponents <https://developers.home-assistant.io/docs/creating_component_index/>`__.\n\nIf you run into issues while using Home Assistant or during development\nof a component, check the `Home Assistant help section <https://home-assistant.io/help/>`__ of our website for further help and information.\n\n|ohf-logo|\n\n.. |Chat Status| image:: https://img.shields.io/discord/330944238910963714.svg\n   :target: https://www.home-assistant.io/join-chat/\n.. |screenshot-states| image:: https://raw.githubusercontent.com/home-assistant/core/dev/.github/assets/screenshot-states.png\n   :target: https://demo.home-assistant.io\n.. |screenshot-integrations| image:: https://raw.githubusercontent.com/home-assistant/core/dev/.github/assets/screenshot-integrations.png\n   :target: https://home-assistant.io/integrations/\n.. |ohf-logo| image:: https://www.openhomefoundation.org/badges/home-assistant.png\n   :alt: Home Assistant - A project from the Open Home Foundation\n   :target: https://www.openhomefoundation.org/\n",
-  "generatedAt": "2026-09-21T01:18:00.128Z",
+  "generatedAt": "2026-09-22T01:41:01.759Z",
   "analysis": {
     "oneLine": "core 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "core 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，core 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 90,894，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，core 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 90,978，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

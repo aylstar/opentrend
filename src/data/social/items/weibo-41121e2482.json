@@ -1,0 +1,21 @@
+{
+  "id": "weibo-41121e2482",
+  "slug": "weibo-巴图姆退役",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "巴图姆退役",
+  "summary": "微博热榜第 48 位：巴图姆退役，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9B%BE%E5%A7%86%E9%80%80%E5%BD%B9%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-09-22T01:35:59.235Z",
+  "fetchedAt": "2026-09-22T01:42:27.204Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

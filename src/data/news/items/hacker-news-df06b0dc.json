@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Transformers Explained Visually",
+  "summary": "200 points · 35 comments",
+  "content": "An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT.",
+  "url": "https://poloclub.github.io/transformer-explainer/",
+  "publishedAt": "2026-09-21T19:43:49.000Z",
+  "points": 200,
+  "id": "hacker-news-df06b0dc",
+  "slug": "hacker-news-df06b0dc",
+  "fetchedAt": "2026-09-22T01:41:17.151Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "变形金刚直观解释",
+  "chineseSummary": "200 分 · 35 条评论",
+  "chineseContent": "交互式可视化工具，向您展示 Transformer 模型如何在 GPT 等大型语言模型 (LLM) 中工作。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

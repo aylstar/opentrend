@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Heretic removes restrictions from language models",
+  "summary": "240 points · 99 comments",
+  "content": "240 points · 99 comments",
+  "url": "https://heretic-project.org/",
+  "publishedAt": "2026-09-21T04:35:22.000Z",
+  "points": 240,
+  "id": "hacker-news-d2dddc46",
+  "slug": "hacker-news-d2dddc46",
+  "fetchedAt": "2026-09-22T01:41:17.152Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Heretic 消除了语言模型的限制",
+  "chineseSummary": "240 分 · 99 条评论",
+  "chineseContent": "240 分 · 99 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

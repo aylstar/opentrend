@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "A cut cable disrupted hundreds of flights across the US",
+  "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing […]",
+  "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+  "publishedAt": "2026-09-21T23:48:56.000Z",
+  "id": "the-verge-c63bbef1",
+  "slug": "the-verge-c63bbef1",
+  "content": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing ground stops at all three major New York City airports. In a statement to CNBC, Verizon said that it bore “no responsibility for this incident,” putting the blame on “construction contractors working in the area” that “dug up and cut our cable.” Ironically, it looks like trains make have taken out the planes, but fingers are still being pointed. US Transportation Secretary Sean Duffy said an Amtrak crew accidentally cut the line, but AP reports that Amtrak blames a New Jersey Transit crew for the disruption. “This incident occurred on New Jersey Transit property and involved a New Jersey Transit contractor,” an Amtrak spokesperson told NBC4. As of Monday evening, Duffy said that “the telecom lines have been repaired, and all airport operations in the Northeast are resuming,” but cautioned that it will take “some time to clear all existing delays.” According to FlightAware, there were over 1,000 canceled flights today in the US",
+  "fetchedAt": "2026-09-22T01:41:17.153Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "一根电缆被切断导致全美数百架航班中断",
+  "chineseSummary": "周一，新泽西州的施工人员意外切断了用于空中交通管制的 Verizon 光缆，导致数百架航班取消或延误。据美国广播公司新闻报道，美国联邦航空管理局局长布莱恩·贝德福德表示，电路故障导致发现了断裂的光缆。停电重创了东北地区的机场，导致[...]",
+  "chineseContent": "周一，新泽西州的施工人员意外切断了用于空中交通管制的 Verizon 光缆，导致数百架航班取消或延误。据美国广播公司新闻报道，美国联邦航空管理局局长布莱恩·贝德福德表示，电路故障导致发现了断裂的光缆。这次停电重创了东北部的机场，导致纽约市所有三个主要机场都停飞。 Verizon 在给 CNBC 的一份声明中表示，它“对这一事件不承担任何责任”，并将责任归咎于“在该地区工作的建筑承包商”“挖掘并切断了我们的电缆”。具有讽刺意味的是，看起来火车已经取代了飞机，但指责仍然存在。美国交通部长肖恩·达菲 (Sean Duffy) 表示，美国铁路公司 (Amtrak) 的一名工作人员意外切断了线路，但美联社报道称，美国铁路公司 (Amtrak) 将此次中断归咎于新泽西州交通部 (New Jersey Transit) 的工作人员。美铁发言人告诉 NBC4：“这起事件发生在新泽西州交通公司的财产上，涉及新泽西州交通公司的承包商。”截至周一晚上，达菲表示，“电信线路已经修复，东北部所有机场的运营正在恢复”，但他警告说，“需要一些时间来消除所有现有的延误”。据 FlightAware 称，今天美国有超过 1,000 架航班取消",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
