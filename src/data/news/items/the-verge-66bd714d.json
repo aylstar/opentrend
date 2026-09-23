@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+  "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips […]",
+  "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+  "publishedAt": "2026-09-22T20:00:00.000Z",
+  "id": "the-verge-66bd714d",
+  "slug": "the-verge-66bd714d",
+  "content": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips are built on a 2nm process, and share much in common, including their modems, display specs, security features, GPS, and memory and storage support. Qualcomm no longer publishes detailed breakdowns of the cores across its silicon, but the CPU details given are identical, with two big cores at up to 5GHz and six performance cores running at up to 4GHz. Despite that, the Extreme is described as having slightly superior performance across its CPU, GPU, and NPU. Some differences are more clear-cut. The 8 Elite Extreme is capable of driving superior video capture, including 8K at 60fps, 4K at 240fps, and support for the Advanced Professional Video (APV) codec. A larger shared memory pool for the NPU should drive faster and more efficient AI performance on the Extreme chip too, while AI-dedicated matrix cores in the GPU (plus more memory) should boost gaming performance slightly when using AI features. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-extreme-gen-6-chip.jpg?quality=90&strip=all] With core performance seemingly similar, the jump up to the Extreme chip is relatively minor, so it will be interesting to see which chips manufacturers use for which phones. Motorola is the first to jump on board, confirming that its newly announced Signature 27 flagship will use the Extreme chip. Qualcomm has announced that the two chips will also be adopted by Vivo, Xiaomi, Oppo, Honor, iQoo, Nubia, OnePlus, Redmi, Redmagic, and ZTE. The two 8 Elite Gen 6 chips are Qualcomm’s first 2nm silicon, joining Apple’s A20 Pro and MediaTek’s Dimensity 9600 Pro in bringing the new silicon scale to smartphones.",
+  "fetchedAt": "2026-09-23T01:35:56.338Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "视频"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "高通 Snapdragon 8 Elite Gen 6 也有 Extreme 版本",
+  "chineseSummary": "高通已经发布了 Snapdragon 8 Elite Gen 6，今年又推出了 8 Elite Extreme Gen 6。该公司将这两款新手机芯片描述为旗舰产品，规格差异相对较小，主要限于 Extreme 型号上改进的人工智能处理、视频捕捉和游戏性能。两款第六代芯片 [...]",
+  "chineseContent": "高通已经发布了 Snapdragon 8 Elite Gen 6，今年又推出了 8 Elite Extreme Gen 6。该公司将这两款新手机芯片描述为旗舰产品，规格差异相对较小，主要限于 Extreme 型号上改进的人工智能处理、视频捕捉和游戏性能。这两款第六代芯片均采用 2nm 工艺打造，有很多共同点，包括调制解调器、显示规格、安全功能、GPS 以及内存和存储支持。高通不再发布其芯片中核心的详细细分，但给出的 CPU 详细信息是相同的，有两个主频高达 5GHz 的大核心和六个主频高达 4GHz 的高性能核心。尽管如此，Extreme 被描述为在 CPU、GPU 和 NPU 方面具有稍微优越的性能。有些差异更为明显。 8 Elite Extreme 能够驱动卓越的视频拍摄，包括 60fps 的 8K、240fps 的 4K，并支持高级专业视频 (APV) 编解码器。 NPU 更大的共享内存池也应该会在 Extreme 芯片上推动更快、更高效的 AI 性能，而 GPU 中的 AI 专用矩阵核心（加上更多内存）应该会在使用 AI 功能时略微提升游戏性能。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-extreme-gen-6-chip.jpg?quality=90&strip=all] 由于核心性能看似相似，至 Extreme 芯片的提升相对较小，因此看看制造商将哪些芯片用于哪些手机将会很有趣。摩托罗拉率先加入，确认其新发布的 Signature 27 旗舰产品将使用 Extreme 芯片。高通宣布这两款芯片也将被 Vivo、小米、Oppo、荣耀、iQoo、努比亚、OnePlus、Re 采用",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

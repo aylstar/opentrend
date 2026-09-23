@@ -1,0 +1,25 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+  "summary": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+  "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-22T01:44:17.000Z",
+  "id": "bbc-758904c3",
+  "slug": "bbc-758904c3",
+  "content": "A Canadian province is suing OpenAI over its alleged failure to notify authorities about concerning user interactions on ChatGPT prior to the Tumbler Ridge mass shooting.\n\nThe company has previously apologised for not flagging Jessie Van Rootselaar's account to law enforcement before the 18-year-old killed eight people, including six children, in February.\n\nBritish Columbia attorney general Niki Sharma said the lawsuit, filed to a US federal court on Monday, raised questions about \"the responsibilities of technology companies when they become aware of credible threats of serious violence\".\n\nFamilies of those killed or injured in the shooting have filed separate lawsuits against OpenAI.\n\nMedia reports revealed that Van Rootselaar's ChatGPT activity was flagged by OpenAI's safety team for references to gun violence months before the attack, but the company did not alert local authorities.\n\nIn April, OpenAI's chief executive Sam Altman apologised to the families of the victims.\n\n\"I am deeply sorry that we did not alert law enforcement,\" Altman wrote in an open letter.\n\nThe BBC has requested comment from OpenAI regarding the latest lawsuit.\n\n\"To date, OpenAI has not taken meaningful steps to address the concerns raised by survivors, families and the Tumbler Ridge community,\" Sharma said in a statement.\n\n\"The company still has an opportunity to demonstrate accountability by strengthening safeguards, improving transparency and taking concrete action to help prevent similar tragedies in the future.\"\n\nSpeaking to reporters on Monday, Sharma said she had not read the contents of the OpenAI chats.\n\n\"We have asked OpenAI to disclose these chats. They have refused. We should all be asking them: Why?\" she said, according to CBC , external .\n\nSharma said the lawsuit was filed in California, as the alleged decision not to report the shooter's ChatGPT account occurred in that US state, according to AFP.\n\nSharma told reporters that any financial damages won by the province would go towards rebuilding the secondary school.\n\nSeven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+  "fetchedAt": "2026-09-23T01:35:56.332Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "加拿大省就 Tumbler Ridge 校园枪击事件起诉 OpenAI",
+  "chineseSummary": "不列颠哥伦比亚省指责该公司未能向执法部门报告枪手与 ChatGPT 的令人不安的互动。",
+  "chineseContent": "加拿大的一个省正在起诉 OpenAI，指控其在 Tumbler Ridge 大规模枪击事件发生之前未能向当局通报有关 ChatGPT 上的用户互动的情况。\n\n该公司此前曾就在 18 岁的 Jessie Van Rootselaar 在 2 月份杀害 8 人（其中包括 6 名儿童）之前没有向执法部门举报 Jessie Van Rootselaar 的账户而道歉。\n\n不列颠哥伦比亚省总检察长尼基·夏尔马表示，周一向美国联邦法院提起的诉讼提出了“科技公司在意识到严重暴力的可信威胁时的责任”的问题。\n\n枪击事件中遇难者或受伤者的家属已对 OpenAI 提起单独诉讼。\n\n媒体报道显示，Van Rootselaar 的 ChatGPT 活动在袭击发生前几个月就被 OpenAI 安全团队标记为涉及枪支暴力，但该公司没有向地方当局发出警报。\n\n4月，OpenAI首席执行官萨姆·奥尔特曼向受害者家属道歉。\n\n奥特曼在一封公开信中写道：“我对我们没有向执法部门发出警报深表遗憾。”\n\nBBC 已要求 OpenAI 对最新诉讼发表评论。\n\n夏尔马在一份声明中表示：“迄今为止，OpenAI 尚未采取有意义的措施来解决幸存者、家属和 Tumbler Ridge 社区提出的担忧。”\n\n“该公司仍然有机会通过加强保障措施、提高透明度和采取具体行动来帮助防止未来发生类似悲剧来证明责任。”\n\n夏尔马周一对记者表示，她尚未阅读 OpenAI 聊天内容。\n\n“我们已经要求 OpenAI 披露这些聊天记录。他们拒绝了。我们都应该问他们：为什么？”据CBC报道，她对外表示。\n\n据法新社报道，夏尔马表示，这起诉讼是在加利福尼亚州提起的，因为据称不报告枪手 ChatGPT 帐户的决定是在美国该州做出的。\n\n夏尔马告诉记者，该省赢得的任何经济损失都将用于重建中学。\n\n加拿大大规模枪击事件受害者家属对 OpenAI 提起七起诉讼",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

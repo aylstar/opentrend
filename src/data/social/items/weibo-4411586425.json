@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4411586425",
+  "slug": "weibo-喜人奇妙夜",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "喜人奇妙夜",
+  "summary": "微博热榜第 46 位：喜人奇妙夜，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-09-23T01:31:31.744Z",
+  "fetchedAt": "2026-09-23T01:37:46.710Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

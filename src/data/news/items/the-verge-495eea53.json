@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+  "summary": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devices like the iPhone 16 and iPhone Air […]",
+  "url": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+  "publishedAt": "2026-09-22T19:48:08.000Z",
+  "id": "the-verge-495eea53",
+  "slug": "the-verge-495eea53",
+  "content": "Apple’s new texture and grain controls for stylizing photos will be more limited on older phones than initially expected.&nbsp; A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be “available” on older devices like the iPhone 16 and iPhone Air that “support the latest generation of Photographic Styles.”&nbsp; But it turns out that “available” didn’t mean that older iPhone models would have full access to those new features. Making texture adjustments to enhance or smooth a subject’s skin and adding film grain will only be an option when those phones are being used to edit shots taken with the latest iPhone models. Apple has since updated recent press releases to state that those controls will only be available for “photos captured on iPhone 18 Pro models and the Ultra Wide, Main, and Center Stage cameras on iPhone Duo.” The original version of a September 11th release, which was issued the day before the latest versions of the iPhone and Apple Watches became available for preorder, is still available in its original form on other websites with a footnote specifying that the new “texture and grain controls in Photographic Styles will be available on iOS 27 on iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max, iPhone 17, iPhone Air, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo.” This limited compatibility was corroborated by a Reddit user who was able to make adjustments to texture and grain on their iPhone 16 Pro Max, but only while editing sample photos taken on an iPhone 18 Pro by photographer Austin Mann who made them available for download on his website. I also had access to those new Photographic Styles controls when editing Mann’s samples on my own iPhone 16 Pro running iOS 27, but they were not available on photos I captured myself. The Verge has reached out to Apple for clarification on how the feature is supposed to work on older phones but did not immediately get a response.",
+  "fetchedAt": "2026-09-23T01:35:56.338Z",
+  "score": 80,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Apple 澄清纹理和颗粒控制是最新 iPhone 相机独有的",
+  "chineseSummary": "苹果用于风格化照片的新纹理和颗粒控制在旧手机上将比最初预期的更加有限。苹果公司一份措辞混乱的新闻稿表示，本月早些时候与 iPhone 18 和 18 Pro 一起发布的新功能将在 iPhone 16 和 iPhone Air 等旧设备上“可用”[…]",
+  "chineseContent": "苹果用于风格化照片的新纹理和颗粒控制在旧手机上将比最初预期的更加有限。  苹果在一份措辞令人困惑的新闻稿中表示，本月早些时候与 iPhone 18 和 18 Pro 一起发布的新功能将“可用”在 iPhone 16 和 iPhone Air 等“支持最新一代摄影风格”的旧设备上。  但事实证明，“可用”并不意味着旧款 iPhone 机型可以完全使用这些新功能。仅当这些手机用于编辑最新 iPhone 型号拍摄的照片时，才可以选择进行纹理调整以增强或平滑拍摄对象的皮肤并添加胶片颗粒。此后，苹果更新了最近的新闻稿，声明这些控件仅适用于“iPhone 18 Pro 型号以及 iPhone Duo 上的超广角、主摄像头和中央摄像头拍摄的照片”。 9 月 11 日发布的原始版本是在最新版本的 iPhone 和 Apple Watch 开始预购的前一天发布的，该版本在其他网站上仍以原始形式提供，并有脚注指定新的“摄影风格中的纹理和颗粒控制将在 iPhone 16、iPhone 16 Plus、iPhone 16 Pro、iPhone 16 Pro Max、iPhone 17、iPhone Air、iPhone 17 Pro、iPhone 17 Pro 上的 iOS 27 上提供” Max、iPhone 18 Pro、iPhone 18 Pro Max 和 iPhone Duo。”一位 Reddit 用户证实了这种有限的兼容性，他能够在 iPhone 16 Pro Max 上调整纹理和颗粒，但只能在编辑摄影师 Austin Mann 在 iPhone 18 Pro 上拍摄的样本照片时进行调整，并在他的网站上提供下载。我还可以在编辑时访问这些新的摄影风格控件",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

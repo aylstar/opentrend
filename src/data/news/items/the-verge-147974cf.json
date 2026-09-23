@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Rabbit’s new AI agent doesn’t need an R1 to run",
+  "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+  "publishedAt": "2026-09-22T20:52:40.000Z",
+  "id": "the-verge-147974cf",
+  "slug": "the-verge-147974cf",
+  "content": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don’t need its hardware to use, as reported earlier by Wired. The startup says its new OS3 “agentic operating system” runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site, a paired messaging app like Telegram or iMessage, as well as on Rabbit’s R1 device. Though Rabbit founder Jesse Lyu tells Wired that the startup has stopped manufacturing R1 devices, it isn’t giving up on AI hardware entirely. It’s instead focusing on a new vibe-coding “cyberdeck” that will run OS3 when it launches within “months,” Wired reports. Rabbit claims its OS3 system won’t store, copy, use, or sell your data. It notes that it will still keep your chats and memories stemming from them on its servers. Other AI providers linked to OS3 will also handle your data under their own privacy rules.",
+  "fetchedAt": "2026-09-23T01:35:56.338Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Rabbit 的新 AI 代理不需要 R1 即可运行",
+  "chineseSummary": "据《连线》早些时候报道，Rabbit 是 R1 设备背后的公司，它正在推出一款独立的人工智能代理，你不需要它的硬件就可以使用它。该初创公司表示，其新的 OS3“代理操作系统”在云端运行，但可以在 Windows、Mac 和 Linux 设备上本地运行。根据兔子的说法，你可以[...]",
+  "chineseContent": "据《连线》早些时候报道，Rabbit 是 R1 设备背后的公司，它正在推出一款独立的人工智能代理，你不需要它的硬件就可以使用它。该初创公司表示，其新的 OS3“代理操作系统”在云端运行，但可以跨 Windows、Mac 和 Linux 设备在本地运行。根据 Rabbit 的说法，您最多可以向一个帐户添加五台设备以及您喜欢的 AI 模型。 OS3 将自动确定完成任务所需的设备、文件、应用程序和 AI 模型。您还可以通过其专用桌面站点、配对的消息应用程序（例如 Telegram 或 iMessage）以及 Rabbit 的 R1 设备访问 OS3。尽管 Rabbit 创始人 Jesse Lyu 告诉《连线》杂志，该初创公司已停止生产 R1 设备，但它并没有完全放弃人工智能硬件。据《连线》报道，它的重点是开发一种新的氛围编码“cyberdeck”，该系统将在“几个月”内推出时运行 OS3。 Rabbit 声称其 OS3 系统不会存储、复制、使用或出售您的数据。它指出，它仍然会将您的聊天记录和记忆保留在其服务器上。与 OS3 关联的其他人工智能提供商也将根据自己的隐私规则处理您的数据。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
