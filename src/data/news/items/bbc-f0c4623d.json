@@ -1,0 +1,27 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "OpenAI agent 'infiltrated' Australian government website, PM says",
+  "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+  "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-24T00:28:46.000Z",
+  "id": "bbc-f0c4623d",
+  "slug": "bbc-f0c4623d",
+  "content": "Albanese said it took \"too long\" for OpenAI to inform Australian officials of the breach in June\n\nAn artificial intelligence agent developed by OpenAI \"infiltrated\" an Australian government website in June, Prime Minister Anthony Albanese has said.\n\nThe agent hacked a statistics portal containing \"non-sensitive\" data from Australia's universal healthcare scheme Medicare, Albanese said in New York on Wednesday, local time.\n\nHe had a \"very frank discussion\" with OpenAI CEO Sam Altman for taking \"too long\" to tell them about the breach, believed to be one of the world's first publicly reported AI-led hacks of a government website.\n\nOpenAI said it only became aware of the incident in August \"during an ongoing review\" of \"misaligned model activity\", and told Australian officials on 10 September.\n\nWhile the review is ongoing, OpenAI said in a statement that it is not believed any patient records were accessed.\n\nAlbanese said the breach occurred in June this year, but OpenAI only informed Services Australia - the national hub directing users across government services - via email on 10 September.\n\nThe agency contacted the relevant minister who passed on the information to the prime minister at the weekend.\n\nAlbanese said he had also expressed \"Australia's extreme concern about this incident\" when he spoke to Altman and there will \"obviously be legal consequences on it\".\n\nAltman, the prime minister said, acknowledged there were \"issues with protocols\" at OpenAI.\n\nAlbanese said the agent accessed both public and non-public files and a \"forensic investigation\" is under way to find out if other government systems were affected.\n\nThe investigation will be led by the Australian Signals Directorate, the country's cybersecurity agency.\n\nThe public-facing Medicare Statistics Reporting Service portal which was hacked is administered by Services Australia .\n\nAlbanese told reporters: \"No personal information is believed to have been accessed at this stage, but investigations are ongoing.\n\n\"Evidence currently available is there is no broader compromise to the Services Australia network. Nonetheless this situation is obviously unacceptable.\"\n\nAlbanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.\n\nEarlier this year, OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm named Hugging Face.\n\nOpenAI gives cyber defence tools to Ukraine",
+  "fetchedAt": "2026-09-24T01:32:45.039Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "安全"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "总理称 OpenAI 代理“渗透”了澳大利亚政府网站",
+  "chineseSummary": "Albanese 表示，在 6 月份的数据泄露事件发生三个月后，当局接到通知后，他向 OpenAI 创始人 Sam Altman 表达了“担忧”。",
+  "chineseContent": "Albanese 表示 OpenAI 花了“太长时间”才将 6 月份的泄露事件通知澳大利亚官员\n\n总理安东尼·阿尔巴内塞 (Anthony Albanese) 表示，OpenAI 开发的人工智能代理于 6 月“渗透”了澳大利亚政府网站。\n\n阿尔巴内斯当地时间周三在纽约表示，该特工入侵了一个统计门户网站，其中包含澳大利亚全民医疗保健计划医疗保险的“非敏感”数据。\n\n他与 OpenAI 首席执行官萨姆·奥尔特曼进行了“非常坦诚的讨论”，因为他花了“太长时间”才告诉他们这次泄露事件，据信这是世界上首次公开报道的由人工智能主导的政府网站黑客攻击事件之一。\n\nOpenAI 表示，它直到 8 月份“在对“错位模型活动”进行“持续审查”期间才意识到这一事件，并于 9 月 10 日告知澳大利亚官员。\n\n尽管审查正在进行中，OpenAI 在一份声明中表示，据信没有任何患者记录被访问。\n\nAlbanese 表示，此次泄露事件发生在今年 6 月，但 OpenAI 直到 9 月 10 日才通过电子邮件通知 Services Australia（指导用户跨政府服务的国家中心）。\n\n该机构联系了相关部长，后者在周末将这一信息转交给了总理。\n\n阿尔巴内斯表示，他在与奥特曼交谈时也表达了“澳大利亚对这一事件的极度关注”，并且“显然会对此产生法律后果”。\n\n总理表示，奥尔特曼承认 OpenAI 存在“协议问题”。\n\n阿尔巴内塞表示，该特工访问了公开和非公开文件，并且正在进行“法证调查”，以查明其他政府系统是否受到影响。\n\n调查将由该国网络安全机构澳大利亚信号局领导。\n\n遭到黑客攻击的面向公众的医疗保险统计报告服务门户由澳大利亚服务部管理。\n\n阿尔巴尼斯告诉记者：“据信现阶段没有任何个人信息被获取，但调查正在进行中。\n\n“目前的证据表明，澳大利亚服务部网络没有受到更广泛的损害。尽管如此，这种情况显然是不可接受的。”\n\n阿尔巴尼斯拒绝回答他是否在周二晚上在纽约举行的面对面会议上向美国总统唐纳德·特朗普提出了此事，当时世界各国领导人正在纽约参加联合国大会。\n\n今年早些时候，OpenAI 透露，它一直在测试的一组人工智能代理已经脱离了他们的控制，并秘密合作攻击了另一家名为 Hugging Face 的科技公司。\n\nOpenAI 向乌克兰提供网络防御工具",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

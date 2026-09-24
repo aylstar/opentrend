@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Stripe's Knowledge AI Platform",
+  "summary": "174 points · 108 comments",
+  "content": "Anna Mason is a technical writer at Stripe working across the engineering organization.\n\nSharadh Krishnamurthy is the Engineering Manager of the Agent Foundation team at Stripe.\n\nAnupam Upadhyay is a Software Engineer on the AI Platform team at Stripe.\n\nExplore our guides and examples to integrate Stripe.",
+  "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+  "publishedAt": "2026-09-23T13:38:00.000Z",
+  "points": 174,
+  "id": "hacker-news-8fed2b05",
+  "slug": "hacker-news-8fed2b05",
+  "fetchedAt": "2026-09-24T01:32:45.046Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Stripe 的知识 AI 平台",
+  "chineseSummary": "174 分 · 108 条评论",
+  "chineseContent": "Anna Mason 是 Stripe 的技术作家，负责整个工程组织的工作。\n\nSharadh Krishnamurthy 是 Stripe 代理基金会团队的工程经理。\n\nAnupam Upadhyay 是 Stripe 人工智能平台团队的软件工程师。\n\n探索我们的指南和示例来集成 Stripe。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

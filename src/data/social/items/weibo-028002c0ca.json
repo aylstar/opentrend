@@ -1,0 +1,21 @@
+{
+  "id": "weibo-028002c0ca",
+  "slug": "weibo-国乒决赛冲金",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "国乒决赛冲金",
+  "summary": "微博热榜第 40 位：国乒决赛冲金，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%86%B3%E8%B5%9B%E5%86%B2%E9%87%91%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-09-24T01:30:54.750Z",
+  "fetchedAt": "2026-09-24T01:33:53.303Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

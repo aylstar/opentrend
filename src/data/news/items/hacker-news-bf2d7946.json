@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Jev in 25 Lines of Python",
+  "summary": "631 points · 197 comments",
+  "content": "Everyone and their mom is talking about Jev . Jev this, Jev that. Everyone on Twitter is all over Jev, how it's the next frontier of large language models and the AI paradigm. We don’t really think so. So here's Jev in 25 lines of Python.\n\nLoad the prompt and define your choices.\n\nMassage the logits into probabilities.\n\nAnd we like not sending your data anywhere else. Check out NobodyWho .\n\n(note: this is a parody blog post, see these links for better/more complete open implementations of Jev: OpenJev , openjev-sglang , and OpenJev on DiffusionGemma .)\n\nEverything NobodyWho do is open-source, please leave a star on Github to support us ❤️\n\nPublished Sep 22, 2026 by Duarte O.Carmo",
+  "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+  "publishedAt": "2026-09-23T07:26:23.000Z",
+  "points": 631,
+  "id": "hacker-news-bf2d7946",
+  "slug": "hacker-news-bf2d7946",
+  "fetchedAt": "2026-09-24T01:32:45.046Z",
+  "score": 68,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Jev in 25 Lines of Python",
+  "chineseSummary": "631 points · 197 comments",
+  "chineseContent": "Everyone and their mom is talking about Jev . Jev this, Jev that. Everyone on Twitter is all over Jev, how it's the next frontier of large language models and the AI paradigm. We don’t really think so. So here's Jev in 25 lines of Python.\n\nLoad the prompt and define your choices.\n\nMassage the logits into probabilities.\n\nAnd we like not sending your data anywhere else. Check out NobodyWho .\n\n(note: this is a parody blog post, see these links for better/more complete open implementations of Jev: OpenJev , openjev-sglang , and OpenJev on DiffusionGemma .)\n\nEverything NobodyWho do is open-source, please leave a star on Github to support us ❤️\n\nPublished Sep 22, 2026 by Duarte O.Carmo",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

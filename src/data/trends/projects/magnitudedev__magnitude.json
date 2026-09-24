@@ -4,20 +4,20 @@
   "repo": "magnitude",
   "name": "magnitude",
   "fullName": "magnitudedev/magnitude",
-  "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+  "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
   "language": "TypeScript",
   "githubUrl": "https://github.com/magnitudedev/magnitude",
   "docsUrl": "https://magnitude.dev",
-  "stars": 4044,
-  "forks": 291,
-  "openIssues": 20,
+  "stars": 4948,
+  "forks": 374,
+  "openIssues": 22,
   "license": "Apache-2.0",
-  "pushedAt": "2026-09-08T01:15:11Z",
-  "updatedAt": "2026-09-08T01:15:48Z",
+  "pushedAt": "2026-09-23T20:39:00Z",
+  "updatedAt": "2026-09-24T01:31:33Z",
   "createdAt": "2026-06-12T09:06:26Z",
   "archived": false,
   "trendWindows": [
-    "weekly"
+    "monthly"
   ],
   "tags": [
     "AI",
@@ -26,15 +26,15 @@
     "自动化办公"
   ],
   "recommendation": 2.3,
-  "readmeExcerpt": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/brand/icon-dark.svg\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/brand/icon-light.svg\">\n    <img alt=\"Magnitude icon\" src=\"assets/brand/icon-light.svg\" width=\"120\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Magnitude</h1>\n\n<p align=\"center\"><strong>Run your agent on local models. Free, private, and offline.</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://docs.magnitude.dev\"><img src=\"https://img.shields.io/badge/%F0%9F%93%95-Docs-0369a1?style=flat-square&labelColor=0369a1&color=gray\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/EHt48pPWdC\"><img src=\"https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2&color=gray\" alt=\"Discord\"></a>\n  <a href=\"https://x.com/usemagnitude\"><img src=\"https://img.shields.io/badge/Twitter-Follow-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000&color=gray\" alt=\"Follow Magnitude on Twitter\"></a>\n  <a href=\"https://github.com/magnitudedev/magnitude/stargazers\"><img src=\"https://img.shields.io/github/stars/magnitudedev/magnitude\" alt=\"GitHub Repo stars\"></a>\n  <a href=\"https://www.npmjs.com/package/@magnitudedev/cli\"><img src=\"https://img.shields.io/npm/v/%40magnitudedev%2Fcli\" alt=\"npm version\"></a>\n</p>\n\nMagnitude is an open source inference server that runs the best local models for your hardware, plugged into the agent you already use. It profiles your machine, recommends the models that fit, then downloads, tunes, and runs them. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline, or use the built-in harness.\n\n⭐ Help us reach more developers and grow the Magnitude community. Star this repo!\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/readme/ecosystem-dark.png\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/readme/ecosystem-light.png\">\n  <img alt=\"Pi, OpenCode, Hermes, Codex, Claude Code, and OpenClaw connected to Magnitude, which runs local models for your hardware.\" src=\"assets/readme/ecosystem-light.png\">\n</picture>\n\n## Get started\n\n### Set up with your agent\n\nSend this prompt to your agent:\n\n```text\nSet up local models for me with the Magnitude CLI. Install it with `npm i -g @magnitudedev/cli` (or my package manager), then run `magnitude docs onboarding` and follow the instructions.\n```\n\nYour agent will profile your hardware, walk you through the best local models for it, download the ones you pick, and switch itself over to them.\n\n### Install manually\n\nRun these commands in your terminal:\n\n```sh\nnpm i -g @magnitudedev/cli\nmagnitude setup\n```\n\nThe interactive setup profiles your hardware, lets you choose from the recommended models, downloads your selection, and connects it to your harness.\n\nMagnitude supports macOS and Linux. Windows is supported through WSL.\n\n## Why Magnitude?\n\n- **Free to run:** no token costs, API keys, or rate limits",
-  "generatedAt": "2026-09-08T01:15:48.312Z",
+  "readmeExcerpt": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/brand/icon-dark.svg\">\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/brand/icon-light.svg\">\n    <img alt=\"Magnitude icon\" src=\"assets/brand/icon-light.svg\" width=\"120\">\n  </picture>\n</p>\n\n<h1 align=\"center\">Magnitude</h1>\n\n<p align=\"center\"><strong>Run the best open models for your machine</strong></p>\n\n<p align=\"center\">\n  <a href=\"https://magnitude.dev/download\"><img src=\"https://img.shields.io/badge/-Download-gray?style=flat-square&labelColor=0369a1&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIuMjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDN2MTIiLz48cGF0aCBkPSJtNyAxMCA1IDUgNS01Ii8%2BPHBhdGggZD0iTTQgMTd2MmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJ2LTIiLz48L3N2Zz4%3D\" alt=\"Download Magnitude\"></a>\n  <a href=\"https://docs.magnitude.dev\"><img src=\"https://img.shields.io/badge/%F0%9F%93%95-Docs-0369a1?style=flat-square&labelColor=0369a1&color=gray\" alt=\"Documentation\"></a>\n  <a href=\"https://discord.gg/EHt48pPWdC\"><img src=\"https://img.shields.io/badge/-Discord-gray?style=flat-square&logo=discord&logoColor=white&labelColor=5865F2\" alt=\"Discord\"></a>\n  <a href=\"https://x.com/usemagnitude\"><img src=\"https://img.shields.io/badge/-Twitter-gray?style=flat-square&logo=x&logoColor=white&labelColor=000000\" alt=\"Follow Magnitude on Twitter\"></a>\n  <a href=\"https://github.com/magnitudedev/magnitude/stargazers\"><img src=\"https://img.shields.io/github/stars/magnitudedev/magnitude\" alt=\"GitHub Repo stars\"></a>\n</p>\n\nMagnitude is the open source inference engine for the hardware you already own. It profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. One click connects your favorite agent (Pi, OpenCode, Hermes, etc.). Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.\n\n**[Download Magnitude for macOS, Windows, or Linux](https://magnitude.dev/download)**\n\n⭐ Help us reach more developers and grow the Magnitude community. Star this repo!\n\nhttps://github.com/user-attachments/assets/8317d05b-8a6e-40e0-b45d-81011ecbc329\n\n## Get started\n\n1. [Download Magnitude](https://magnitude.dev/download), install it, and open the app.\n2. Choose a recommended model in **Discover** and download it.\n3. Connect your agent in **Connections** and start using it.\n\nThe desktop app includes the `magnitude` CLI. No separate installation is needed.\n\n## Why Magnitude?\n\n- **Knows your machine:** profiles your hardware and estimates tok/s before you download\n- **Recommends the best models:** ranked by speed, accuracy, intelligence, and memory\n- **Tuned end to end:** speculative decoding and more, all set for your hardware\n- **Works with your agent:** one click to connect Pi, OpenCode, Hermes, and more\n- **Free to run:** no token costs, API keys, or rate ",
+  "generatedAt": "2026-09-24T01:32:33.701Z",
   "analysis": {
     "oneLine": "magnitude 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "magnitude 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，magnitude 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 4,044，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，magnitude 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 4,948，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
@@ -45,7 +45,7 @@
     ],
     "interpretation": "magnitude 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
     "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
-    "installGuide": "npm i -g @magnitudedev/cli",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
     "deployment": "需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
     "commercialValue": "如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
     "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在为智能体应用提供上下文记忆、长期状态和可复用会话能力，并减少从零选型和重复开发的时间。",

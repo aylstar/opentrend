@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f9acddd2b2",
+  "slug": "weibo-小米电视",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "小米电视",
+  "summary": "微博热榜第 47 位：小米电视，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-09-24T01:30:54.750Z",
+  "fetchedAt": "2026-09-24T01:33:53.304Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
