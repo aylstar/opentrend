@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Opus 5.5 is good at explainer videos",
+  "summary": "131 points · 89 comments",
+  "content": "Each one is a single run: a URL or a prompt in, an MP4 out. No edits.\n\n“make a modern slick and punchy video for a modern startup that works on inference”\n\nA serverless agent on OpenComputer. Yours in one click.\n\nThe whole product is one agent file, three tools, and this form. OpenComputer runs the agent, the microVM it renders in, the model gateway, and the session API the page polls.\n\nOne click. Free account, the agent lands in your project with its tools and prompt.\n\ndiggerhq/shipvideo: the agent, the renderer, and this web app.\n\nThe quickstart: a TypeScript file, a deploy, a session. Ten minutes.\n\nEverything above is in the repo, and one click deploys it to your account . The idea comes from Deedy's post on Opus 5.5 and instructional video: the model writes the film as code, and code renders the same every time.",
+  "url": "https://launchvideo.io",
+  "publishedAt": "2026-09-24T20:28:47.000Z",
+  "points": 131,
+  "id": "hacker-news-d7dde363",
+  "slug": "hacker-news-d7dde363",
+  "fetchedAt": "2026-09-25T01:40:32.031Z",
+  "score": 82,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "视频"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Opus 5.5 擅长讲解视频",
+  "chineseSummary": "131 分 · 89 条评论",
+  "chineseContent": "每个都是一次运行：一个 URL 或一个提示输入，一个 MP4 输出。没有编辑。\n\n“为致力于推理的现代初创公司制作现代流畅而有力的视频”\n\nOpenComputer 上的无服务器代理。一键为您服务。\n\n整个产品就是一个代理文件，三个工具，这个表格。 OpenComputer 运行代理、它在其中呈现的 microVM、模型网关以及页面轮询的会话 API。\n\n一键点击。免费帐户，代理以其工具和提示登陆您的项目。\n\ndiggerhq/shipvideo：代理、渲染器和此 Web 应用程序。\n\n快速入门：TypeScript 文件、部署、会话。十分钟。\n\n以上所有内容都在存储库中，一键将其部署到您的帐户。这个想法来自 Deedy 在 Opus 5.5 上的帖子和教学视频：模型将电影编写为代码，并且代码每次渲染都相同。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

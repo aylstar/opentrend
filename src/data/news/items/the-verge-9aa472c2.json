@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+  "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can […]",
+  "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+  "publishedAt": "2026-09-24T23:42:39.000Z",
+  "id": "the-verge-9aa472c2",
+  "slug": "the-verge-9aa472c2",
+  "content": "What if your wireless earbuds — or audio glasses — could stream high-quality lossless audio that doesn’t cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm’s new Snapdragon Sound Elite Gen 2 is its first to integrate “micro-power Wi-Fi 6E” right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud. [Image: Qualcomm’s old whitepaper shows that it originally required two chips for Wi-Fi earbuds. Now, Wi-Fi is integrated into the main chip. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&strip=all] If that sounds like a familiar promise, it’s probably because Qualcomm promised something similar back in 2023 with the “S7 Pro sound platform” and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Namely, 24-bit 96kHz lossless audio that can’t fit into Bluetooth’s meager bandwidth. But that old 7-series platform required a separate Wi-Fi chip to give you Wi-Fi earbuds, and it seems that wasn’t a winning formula for getting makers of incredibly tiny devices to adopt the tech! In fact, we’ve only ever heard of one: Xiaomi’s 2025 Buds 5 Pro, which didn’t get a global release. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&strip=all] Now that Wi-Fi no longer requires an extra chip, perhaps the idea can take off. Qualcomm says the Elite is also 30 percent smaller, consumes up to 40 percent less power, and has twice the AI processing capabilities of the previous gen chip, all of which should be music to device makers’ ears. So far, Qualcomm says it’s working with HP on one specific unnamed product, is “working closely with Bose,” and is “pioneering a new category of intelligent hearables” (read: earbuds with built-in cameras) with Cleer. [Image: The camera earbuds. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&strip=all]",
+  "fetchedAt": "2026-09-25T01:40:32.032Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "金融"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "高通全新“Elite”声音芯片可能最终实现 Wi-Fi 耳机梦想",
+  "chineseSummary": "如果您的无线耳塞或音频眼镜可以传输高质量无损音频，并且当您将手机放在床边充电器上或埋在沙发上时也不会中断，该怎么办？高通公司的新款 Snapdragon Sound Elite Gen 2 是首款将“微功耗 Wi-Fi 6E”集成到芯片中的产品，因此他们可以 [...]",
+  "chineseContent": "如果您的无线耳塞（或音频眼镜）可以传输高质量无损音频，并且当您将手机放在床边充电器上或埋在沙发上时也不会中断，该怎么办？高通的新款 Snapdragon Sound Elite Gen 2 是首款将“微功耗 Wi-Fi 6E”集成到芯片中的产品，因此它们可以直接连接到您的家庭 Wi-Fi 网络，并从那里连接到云端。 [图片：高通的旧白皮书显示，它最初需要两颗用于 Wi-Fi 耳塞的芯片。现在，Wi-Fi已集成到主芯片中。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&strip=all] 如果这听起来像是一个熟悉的承诺，那可能是因为高通公司早在 2023 年就通过“S7 Pro 声音平台”及其扩展个人局域网 (XPAN) 技术做出了类似的承诺，称 Wi-Fi 耳塞可以做到蓝牙无法做到的事情。也就是说，24 位 96kHz 无损音频无法适应蓝牙的微薄带宽。但旧的 7 系列平台需要一个单独的 Wi-Fi 芯片才能为您提供 Wi-Fi 耳塞，这似乎不是让极小设备制造商采用该技术的成功秘诀！事实上，我们只听说过一款：小米的 2025 Buds 5 Pro，它没有在全球发布。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&strip=all]现在Wi-Fi没有如果不再需要额外的芯片，也许这个想法可以起飞。高通表示，与上一代芯片相比，Elite 的体积缩小了 30%，功耗降低了 40%，AI 处理能力提高了一倍，所有这些对设备制造商来说都是美妙的。到目前为止，高通表示它正在发挥作用",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

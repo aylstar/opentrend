@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+  "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]",
+  "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+  "publishedAt": "2026-09-24T19:59:26.000Z",
+  "id": "the-verge-7cf9dd2e",
+  "slug": "the-verge-7cf9dd2e",
+  "content": "Google’s new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The “Live Avatar” will lip-sync and show different facial expressions during conversations, but it’s currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 languages it supports “without degrading video fidelity or introducing visual drift.” One video shared by Google shows its Live Avatar talking in English and Japanese, with its mouth animation lining up with what it’s saying in both languages. It can also pull up information on-screen while it talks. [Video: Gemini 3.8 with Live Avatar] The launch of Live Avatar comes about a week after Google revealed its new Gemini 3.8 Live model, which the company says “processes visual inputs in near real-time.” Though Google will offer a library of preset avatars for customers to choose from, it will also allow organizations to create their own. Google says output from its Live Avatar comes with its invisible SynthID watermark alongside safeguards to “respect identity.”",
+  "fetchedAt": "2026-09-25T01:40:32.032Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gemini 3.8 Live with Live Avatar 为谷歌 AI 提供了面孔",
+  "chineseSummary": "谷歌新推出的 Gemini 3.8 Live 更新让用户可以与模型进行对话，同时观看动画 AI 角色的实时响应。 “实时头像”将在对话过程中进行口型同步并显示不同的面部表情，但目前仅适用于 Gemini Enterprise 客户。正如 Google 所指出的，Live Avatar 可以在 97 [...]",
+  "chineseContent": "谷歌新推出的 Gemini 3.8 Live 更新让用户可以与模型进行对话，同时观看动画 AI 角色的实时响应。 “实时头像”将在对话过程中进行口型同步并显示不同的面部表情，但目前仅适用于 Gemini Enterprise 客户。正如谷歌所指出的，Live Avatar 可以在其支持的 97 种语言之间进行转换，“不会降低视频保真度或引入视觉漂移”。谷歌分享的一段视频显示，它的实时头像用英语和日语说话，其嘴巴动画与它用两种语言所说的内容一致。它还可以在说话时在屏幕上显示信息。 [视频：带有 Live Avatar 的 Gemini 3.8] Live Avatar 的推出是在谷歌发布其新的 Gemini 3.8 Live 模型大约一周后，该公司称该模型“近乎实时地处理视觉输入”。尽管谷歌将提供一个预设头像库供客户选择，但它也将允许组织创建自己的头像。谷歌表示，其 Live Avatar 的输出带有不可见的 SynthID 水印以及“尊重身份”的保障措施。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

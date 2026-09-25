@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cf618a8ff7",
+  "slug": "weibo-中秋节",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "中秋节",
+  "summary": "微博热榜第 6 位：中秋节，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E8%8A%82%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-09-25T01:40:10.547Z",
+  "fetchedAt": "2026-09-25T01:42:06.645Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

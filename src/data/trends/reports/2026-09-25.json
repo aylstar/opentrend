@@ -1,0 +1,93 @@
+{
+  "slug": "2026-09-25",
+  "date": "2026-09-25",
+  "title": "2026年09月25日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-09-25T01:40:21.267Z",
+  "stats": {
+    "totalProjects": 19,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "affaan-m__ecc",
+      "thu-maic__openmaic",
+      "tencent__weknora"
+    ],
+    "weekly": [
+      "anthropics__financial-services",
+      "alibaba__open-code-review",
+      "anthropics__claude-code",
+      "affaan-m__ecc",
+      "tencent__weknora",
+      "addyosmani__agent-skills",
+      "anthropics__knowledge-work-plugins",
+      "stablyai__orca",
+      "tencentcloud__octop",
+      "davila7__claude-code-templates"
+    ],
+    "monthly": [
+      "alibaba__open-code-review",
+      "bilawalsidhu__gods-eye-view",
+      "cloudflare__security-audit-skill",
+      "tt-a1i__archify",
+      "thu-maic__openmaic",
+      "superdesigndev__treg",
+      "debpalash__voicestudio",
+      "ayghri__i-have-adhd",
+      "cursor__plugins",
+      "magnitudedev__magnitude"
+    ],
+    "commercial": [
+      "anthropics__financial-services",
+      "alibaba__open-code-review",
+      "anthropics__claude-code",
+      "affaan-m__ecc",
+      "tencent__weknora",
+      "addyosmani__agent-skills"
+    ],
+    "deployable": [
+      "anthropics__financial-services",
+      "alibaba__open-code-review",
+      "anthropics__claude-code",
+      "affaan-m__ecc",
+      "tencent__weknora",
+      "addyosmani__agent-skills"
+    ],
+    "risky": [
+      "anthropics__financial-services",
+      "alibaba__open-code-review",
+      "anthropics__claude-code",
+      "affaan-m__ecc",
+      "tencent__weknora",
+      "addyosmani__agent-skills"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 19 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "anthropics__financial-services",
+    "alibaba__open-code-review",
+    "anthropics__claude-code",
+    "affaan-m__ecc",
+    "tencent__weknora",
+    "addyosmani__agent-skills",
+    "anthropics__knowledge-work-plugins",
+    "stablyai__orca",
+    "tencentcloud__octop",
+    "davila7__claude-code-templates",
+    "bilawalsidhu__gods-eye-view",
+    "cloudflare__security-audit-skill",
+    "tt-a1i__archify",
+    "thu-maic__openmaic",
+    "superdesigndev__treg",
+    "debpalash__voicestudio",
+    "ayghri__i-have-adhd",
+    "cursor__plugins",
+    "magnitudedev__magnitude"
+  ]
+}

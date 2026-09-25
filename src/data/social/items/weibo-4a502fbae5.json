@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4a502fbae5",
+  "slug": "weibo-问界品牌溢价",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "问界品牌溢价",
+  "summary": "微博热榜第 18 位：问界品牌溢价，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E5%93%81%E7%89%8C%E6%BA%A2%E4%BB%B7%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-09-25T01:40:10.547Z",
+  "fetchedAt": "2026-09-25T01:42:06.645Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

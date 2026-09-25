@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1c62b79648",
+  "slug": "weibo-港媒取的标题也太好笑了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "港媒取的标题也太好笑了",
+  "summary": "微博热榜第 13 位：港媒取的标题也太好笑了，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E5%8F%96%E7%9A%84%E6%A0%87%E9%A2%98%E4%B9%9F%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-09-25T01:40:10.547Z",
+  "fetchedAt": "2026-09-25T01:42:06.645Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

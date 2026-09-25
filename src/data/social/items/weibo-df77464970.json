@@ -1,0 +1,21 @@
+{
+  "id": "weibo-df77464970",
+  "slug": "weibo-鞠婧祎万花世界",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "鞠婧祎万花世界",
+  "summary": "微博热榜第 42 位：鞠婧祎万花世界，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-09-25T01:40:10.547Z",
+  "fetchedAt": "2026-09-25T01:42:06.645Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

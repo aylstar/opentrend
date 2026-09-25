@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+  "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports […]",
+  "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+  "publishedAt": "2026-09-25T01:25:53.000Z",
+  "id": "the-verge-f7b6a4c4",
+  "slug": "the-verge-f7b6a4c4",
+  "content": "Remember when Microsoft wanted everyone to know that “Copilot Plus PCs” were the ones to get, because those were the PCs that that’d have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central’s Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. “These are not called Copilot Plus PCs,” Microsoft Surface CVP Brett Ostrom told the publication. Kedar Kondap, Qualcomm’s SVP of compute and gaming, seemed to agree that the brand’s time is done, telling Bowden that computers that offer the same experiences will “probably” not use that branding anymore. It’s not surprising to me that Microsoft and its partners would back away. Back in 2024, smart minds pointed out that (almost) every PC would soon contain the basic levels of AI hardware that the brand was supposed to reflect. The flagship feature of Copilot Plus PCs, Microsoft’s Recall feature, wasn’t well received, and Microsoft took flak for constantly annoying Windows users with AI upsells, not to mention the dedicated Copilot keyboard key that you can now finally remap. Besides, Microsoft’s flagship hardware is now about to have Nvidia chips instead, which will supposedly kick off a new era of personal AI in Windows. On October 7th, when Microsoft hosts a “conversation on how local AI will shape the next chapter of the PC,” I’m guessing it will have a shiny new brand to replace “Copilot Plus PC.”",
+  "fetchedAt": "2026-09-25T01:40:32.032Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软正在取消“Copilot Plus PC”品牌",
+  "chineseSummary": "还记得微软希望每个人都知道“Copilot Plus PC”是最好的选择吗，因为这些 PC 拥有足够的内置人工智能能力来完成工作？两年半后，微软和高通似乎承认该品牌已经消亡。 Windows Central 的 Zac Bowden 报道 [...]",
+  "chineseContent": "还记得微软希望每个人都知道“Copilot Plus PC”是最好的选择吗，因为这些 PC 拥有足够的内置人工智能能力来完成工作？两年半后，微软和高通似乎承认该品牌已经消亡。 Windows Central 的 Zac Bowden 报告称，尽管新的 12 英寸 Microsoft Surface Pro 和 13 英寸 Surface Laptop 在技术上满足 Copilot Plus PC 的系统要求，但微软不再用这个名字来称呼它们。 “这些不叫 Copilot Plus PC，”微软 Surface 首席副总裁布雷特·奥斯特罗姆 (Brett Ostrom) 告诉该刊物。高通计算和游戏高级副总裁 Kedar Kondap 似乎同意该品牌的时代已经结束，他告诉鲍登，提供相同体验的计算机“可能”不再使用该品牌。微软及其合作伙伴的退出对我来说并不奇怪。早在 2024 年，聪明人就指出，（几乎）每台 PC 很快都会包含该品牌应该反映的基本水平的人工智能硬件。 Copilot Plus PC 的旗舰功能，即微软的 Recall 功能，并没有受到好评，微软还因不断通过人工智能追加销售烦扰 Windows 用户而受到批评，更不用说现在终于可以重新映射的专用 Copilot 键盘按键了。此外，微软的旗舰硬件现在即将采用 Nvidia 芯片，这有望开启 Windows 个人人工智能的新时代。 10 月 7 日，当微软举办“本地人工智能将如何塑造 PC 的下一个篇章的对话”时，我猜测它将有一个闪亮的新品牌来取代“Copilot Plus PC”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

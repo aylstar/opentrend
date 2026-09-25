@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+  "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is underway.",
+  "url": "https://finance.yahoo.com/m/f20152d5-c38c-3d1c-80ad-574b31be1248/dow-jones-futures%3A-market.html?.tsrc=rss",
+  "publishedAt": "2026-09-25T01:25:21.000Z",
+  "id": "yahoo-finance-b9bb73bb",
+  "slug": "yahoo-finance-b9bb73bb",
+  "content": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is underway.",
+  "fetchedAt": "2026-09-25T01:40:32.033Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：随着收益率、油价持续上涨，市场反弹强劲；特斯拉举办半决赛",
+  "chineseSummary": "尽管收益率和油价持续上涨，股市仍上涨收盘涨跌互现。台积电是买的。 Tesla Semi 活动正在进行中。",
+  "chineseContent": "尽管收益率和油价持续上涨，股市仍上涨收盘涨跌互现。台积电是买的。 Tesla Semi 活动正在进行中。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
