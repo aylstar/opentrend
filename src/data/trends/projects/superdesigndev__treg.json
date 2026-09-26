@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/superdesigndev/treg",
   "docsUrl": "https://treg.to",
-  "stars": 3168,
-  "forks": 263,
-  "openIssues": 86,
+  "stars": 3391,
+  "forks": 278,
+  "openIssues": 79,
   "license": "NOASSERTION",
-  "pushedAt": "2026-09-25T01:19:24Z",
-  "updatedAt": "2026-09-25T01:26:29Z",
+  "pushedAt": "2026-09-26T01:45:04Z",
+  "updatedAt": "2026-09-26T01:37:26Z",
   "createdAt": "2026-07-15T13:38:07Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "# Treg (OpenRouter for Tools)\n\n![treg — the tool catalog for your agent](docs/assets/treg-hero.png)\n\n**OpenRouter, but for agent tools instead of models.** Point an agent at one base URL with one token\nand it can do the job: **3,000+ catalogued endpoints across 60+ providers** — SEO and backlinks,\nsocial and trends, people and company enrichment, ads, scraping, image and video generation —\n**priced per call, from a cent**,\nwith no provider signup. Plus your own team's keys, skills and CLIs, callable by every teammate's\nagent without the credential ever leaving the server.\n\n**Ask for the task, not the tool.** You do not need to know which vendor sells backlink data, or to\nhold an account with them. Search for what you want to do, read the price, call it.\n\nBuilt for the Superdesign team, live at [treg.to](https://treg.to) — anyone can self-host.\n\n## Why it exists\n\nThe tools an agent needs for real work sit behind subscriptions nobody buys for a single run —\nSemrush $139/mo, Moz $99/mo, Crunchbase $99/mo, Apollo $59/seat — behind signup walls, or behind no\npublic API at all (invite-only, partner-only, app-review-only). treg carries those accounts and\nbills fractions of a cent per call.\n\n## Two kinds of tool, one token\n\n- **The catalog** — external endpoints treg can serve with its own key or through a verified public\n  route that needs no provider key. Own-key calls use the team's prepaid balance; anonymous calls\n  are free. No account with the provider is needed. New verified accounts receive **$1.00 free**\n  once, when they create an eligible team.\n- **Your own tools** — anything a teammate registered: a paid API account, an OAuth connection, a\n  vendor CLI, a `SKILL.md`. **Your own key always wins over treg's, and those calls are never\n  metered.**\n\nThe vocabulary for the second half:\n\n- **tool** = something the registry calls for you with the org's credential. Two kinds:\n  - **endpoint** — an upstream `base_url` + credential **bindings** (each binding injects one\n  secret into the request; a request can carry several, e.g. an OAuth bearer *and* a\n  `developer-token` header).\n  - **CLI** — a vendor binary (`stripe`, `gh`, `vercel`, ...) run with the credential injected.\n- **skill / bundle** = a recipe (`SKILL.md`) + its secrets + its tool(s), registered together.\n\n**The one rule:** the proxy **relays, never models** the upstream, and **injects auth server-side**\n— so it survives upstream API changes and callers never hold keys.\n\n---\n\n# Part 1 · Using the registry\n\nVisit [**treg.to**](https://treg.to) (hosted on Render) — the dashboard,\nsign-in, and every URL below live there.\n\n## Quickstart\n\nSame flow as the dashboard's **Getting started** guide:\n\n```bash\n# 1. install the CLI — also points it at the registry\ncurl -fsSL https://treg.to/install.sh | sh\n\n# 2. sign in (GitHub default · --email for a one-time code · --token for agents/CI)\ntreg login\n\n# 3. do something useful immediately — no key, nothing registered\ntreg catalog search \"backlinks for a",
-  "generatedAt": "2026-09-25T01:40:19.285Z",
+  "generatedAt": "2026-09-26T01:45:28.151Z",
   "analysis": {
     "oneLine": "treg 是一个面向个人私有 AI 助手的开源项目，适合用于把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。",
     "problem": "个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题",
     "audience": "重视隐私的个人用户、AI 工具重度使用者、希望自建 AI 工作台的小团队",
     "detailParagraphs": [
       "treg 更准确地说是一个面向个人私有 AI 助手的开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：个人和小团队在使用 AI 时，往往面临数据分散、工具链割裂、隐私不可控和工作流难沉淀的问题。",
-      "如果把它放进实际使用场景，treg 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 3,168，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，treg 的价值主要来自把个人知识、工具调用和 AI 能力组织成可自主管理的工作入口。当前 Star 约 3,391，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，价值不在“又一个聊天界面”，而在能否把私有数据、任务流程和工具调用沉淀为稳定入口；若部署体验足够顺滑，可以包装成私有 AI 助手或企业内部效率工作台。应重点核对本地模型或外部模型依赖、数据存储位置、权限控制、插件/工具调用边界，以及是否支持 Docker 或服务器长期运行。当前最需要警惕的是：风险集中在隐私承诺是否有工程实现支撑、AI 能力是否依赖海外服务、长期维护是否稳定，以及普通用户部署门槛是否过高。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

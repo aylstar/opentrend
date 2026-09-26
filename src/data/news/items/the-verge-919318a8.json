@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Meta makes the Muse filesystem even more accessible",
+  "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+  "publishedAt": "2026-09-25T16:49:53.000Z",
+  "id": "the-verge-919318a8",
+  "slug": "the-verge-919318a8",
+  "content": "Yesterday, with a little prodding, it was discovered that Meta’s Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren’t meant to see, not least because Muse itself told people, including us, it wasn’t supposed to reveal them.&nbsp; But today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta’s Nat Friedman later said, this is the “intended behavior.” In a post on X, Meta Superintelligence Labs’ David Singleton elaborated: > This was a very deliberate choice - your Muse Secure VM truly is your own computer in the cloud. You can install software in it, write and compile code, use the browser to surf the web: it is your own Linux box that you can operate as you choose with your Muse. Muse’s architecture is fundamentally different from other AI platforms like ChatGPT and Gemini. It’s closer to running OpenClaw on a local machine, except the machine is in the cloud.&nbsp; In a statement provided to The Verge yesterday, Meta spokesperson Daniel Roberts said, “We’re continuing to make updates to the product, so users may see changes in how much information is available about their virtual machine.” And that seems to be the case. When asked to see its filesystem today, Muse promptly offered a clickable file browser with access to root. Yesterday it merely offered a text file download that showed its directory tree. Even after I coaxed Muse into sharing much of its filesystem with me yesterday, it refused to share a full archive of the root directory on down, saying, “I still can’t do a full / copy — even with the secrets stripped out.” Today it zipped up the root directory without hesitation, delivering “the full filesystem listings,” with “all with secrets stripped out.” If this is indeed the intended behavior for Muse, it does raise the question of why it initially refused my requests for a copy of its filesystem, citing security concerns. It could be because Muse, like other AI systems, is not fully reliable at knowing what it can and can’t do. Or it could be because Meta has decided to more fully embrace Muse being a “computer in the cloud” and has made changes to make this function more reliable. In any event, it’s pretty fun. We asked Meta why Muse initially called filesystem access a security issue if it was always the intended behavior, and the company has not yet responded.",
+  "fetchedAt": "2026-09-26T01:45:41.075Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Meta 使 Muse 文件系统更易于访问",
+  "chineseSummary": "昨天，经过一点点刺激，人们发现 Meta 的 Muse 会将其文件系统暴露给好奇的用户。这些文件让我们得以一窥人工智能聊天机器人的秘密，并且似乎暴露了我们不希望看到的细节，尤其是因为 Muse 本身告诉人们，包括我们，它不应该透露 […]",
+  "chineseContent": "昨天，经过一点点刺激，人们发现 Meta 的 Muse 会将其文件系统暴露给好奇的用户。这些文件让我们得以一窥人工智能聊天机器人的秘密，似乎暴露了我们不该看到的细节，尤其是因为 Muse 本身告诉人们，包括我们，它不应该透露这些信息。  但今天，当您需要时，Muse 将热切地提供其文件系统的内容。正如 Meta 的 Nat Friedman 后来所说，这似乎是因为这是“预期的行为”。在 X 上的一篇文章中，Meta Superintelligence Labs 的 David Singleton 详细阐述了： > 这是一个经过深思熟虑的选择 - 您的 Muse Secure VM 确实是您自己的云计算机。你可以在里面安装软件，编写和编译代码，使用浏览器上网：这是你自己的Linux盒子，你可以用你的Muse选择进行操作。 Muse 的架构与 ChatGPT 和 Gemini 等其他人工智能平台有着根本的不同。它更接近于在本地计算机上运行 OpenClaw，只不过该计算机位于云端。  在昨天向 The Verge 提供的一份声明中，Meta 发言人 Daniel Roberts 表示：“我们正在继续对产品进行更新，因此用户可能会看到有关其虚拟机的可用信息量发生了变化。”情况似乎确实如此。今天，当被要求查看其文件系统时，Muse 立即提供了一个可点击的文件浏览器，可以访问 root 权限。昨天它只提供了一个显示其目录树的文本文件下载。即使昨天我哄骗 Muse 与我共享其大部分文件系统，它也拒绝共享根目录的完整存档，并说：“我仍然无法进行完整/副本 - 即使秘密被删除。”今天，它毫不犹豫地压缩了根目录，交付了“",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Ollaya – Ollama for open-source, Jev-style decision models",
+  "summary": "335 points · 98 comments",
+  "content": "Ask typed questions about any text or JSON and get calibrated answers in milliseconds. Private, open source, on your own hardware.\n\nA decision model answers in a single forward pass, with no token-by-token generation. On your own GPU, a five-question request to Laya takes about 10 ms, end to end through the HTTP API.\n\nRTX 4090, five questions, end to end\n\nOllaya: median of a five-question request through the HTTP API on an NVIDIA RTX 4090 (laya in fp16, the others in fp32). Jev: median request latency of the hosted API in third-party benchmarks ( AbdelStark/jev-benchmarks , nibzard/decision-model-benchmark ), which includes the network. Setups differ, so read it as an order-of-magnitude comparison.\n\nOllaya serves /v1/systemone and /v1/models with TypeSafe's request and response shapes. The official TypeSafe Python SDK 0.7.1 works unchanged against a local server.\n\nPick by what you need: laya is the fastest, decider the most accurate, von reads up to 8,192 tokens, and qwen3guard screens text for safety. The models page shows each one’s accuracy and speed.\n\nMore open decision models are planned: GGUF LLM-based decision models via llama.cpp.\n\nTickets, emails and user messages are often the most sensitive data you have. With Ollaya they are scored where they already live.\n\nRuns on your machine with ONNX Runtime, on the CPU or an NVIDIA GPU. The server listens on 127.0.0.1 by default.\n\nWeights come from their authors’ Hugging Face repositories, pinned to a commit and checked against sha256. Ollaya never re-hosts them, and the runtime is Apache-2.0.\n\nRun as many decisions as your hardware can handle. No metering and no API bill.\n\nProbabilities you can put thresholds on. Each model ships its own calibration, and a Modelfile refits it on your labelled data.\n\nA desktop app and a command line for macOS, Windows and Linux, and a Docker image for servers. Every model runs on the CPU; an NVIDIA GPU on Linux, in WSL 2 or in Docker takes a request down to milliseconds.\n\nNVIDIA GPUs need driver R580 or newer; the installers fetch the CUDA libraries only when they find one. On Apple, AMD and Intel GPUs, models run on the CPU.\n\nOne binary, one command: ollaya run laya .\n\nmacOS, Windows, Linux and Docker · Apache-2.0 · GitHub",
+  "url": "https://ollaya.dev/",
+  "publishedAt": "2026-09-25T18:33:50.000Z",
+  "points": 335,
+  "id": "hacker-news-7a4fedb7",
+  "slug": "hacker-news-7a4fedb7",
+  "fetchedAt": "2026-09-26T01:45:41.073Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Ollaya – Ollama 用于开源、Jev 风格的决策模型",
+  "chineseSummary": "335 分 · 98 条评论",
+  "chineseContent": "询问有关任何文本或 JSON 的键入问题，并在几毫秒内获得校准答案。私有、开源、在您自己的硬件上。\n\n决策模型在一次前向传递中给出答案，没有逐个令牌的生成。在您自己的 GPU 上，通过 HTTP API 端到端发送一个包含 5 个问题的 Laya 请求大约需要 10 毫秒。\n\nRTX 4090，五个问题，端到端\n\nOllaya：在 NVIDIA RTX 4090 上通过 HTTP API 发出的五个问题请求的中位数（laya 在 fp16 中，其他在 fp32 中）。 Jev：第三方基准测试（ AbdelStark/jev-benchmarks 、 nibzard/decision-model-benchmark ）中托管 API 的中值请求延迟，其中包括网络。设置不同，因此请将其视为数量级比较。\n\nOllaya 通过 TypeSafe 的请求和响应形状为 /v1/systemone 和 /v1/models 提供服务。官方 TypeSafe Python SDK 0.7.1 在本地服务器上运行不变。\n\n根据您的需要进行选择：laya 速度最快，决策者最准确，von 最多可读取 8,192 个标记，qwen3guard 会筛选文本以确保安全。模型页面显示每个模型的准确性和速度。\n\n计划推出更多开放决策模型：通过 llama.cpp 提供基于 GGUF LLM 的决策模型。\n\n票证、电子邮件和用户消息通常是您拥有的最敏感的数据。有了Ollaya，他们就可以在他们已经居住的地方得分。\n\n在具有 ONNX 运行时的计算机上、CPU 或 NVIDIA GPU 上运行。服务器默认监听 127.0.0.1。\n\n权重来自作者的 Hugging Face 存储库，固定到提交并根据 sha256 检查。 Ollaya 永远不会重新托管它们，运行时是 Apache-2.0。\n\n运行您的硬件可以处理的尽可能多的决策。无需计量，也无需 API 账单。\n\n您可以设置阈值的概率。每个模型都有自己的校准，模型文件会根据您的标记数据对其进行重新调整。\n\n适用于 macOS、Windows 和 Linux 的桌面应用程序和命令行，以及适用于服务器的 Docker 映像。每个模型都运行在CPU上； Linux、WSL 2 或 Docker 上的 NVIDIA GPU 将请求缩短至毫秒。\n\nNVIDIA GPU 需要 R580 或更新版本的驱动程序；安装程序仅在找到 CUDA 库时才获取该库。在 Apple、AMD 和 Intel GPU 上，模型在 CPU 上运行。\n\n一个二进制文件，一个命令： ollaya run laya 。\n\nmacOS、Windows、Linux 和 Docker · Apache-2.0 · GitHub",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

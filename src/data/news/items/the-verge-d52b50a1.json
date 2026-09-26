@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+  "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in […]",
+  "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+  "publishedAt": "2026-09-25T17:23:30.000Z",
+  "id": "the-verge-d52b50a1",
+  "slug": "the-verge-d52b50a1",
+  "content": "One of the questionable limitations of the iPhone 18 Pro’s new main camera with a variable aperture is that you’re limited to just four settings in the native iOS’ camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in Auto aperture mode, but it turns out that’s not a strict limitation of the iPhone’s camera hardware. Apple’s SDK allows third-party camera apps to implement more granular control of the aperture. BlackMagic Design’s well-featured and still completely free BlackMagic Camera app for iOS was one of the first third-party options to introduce support for the iPhone 18 Pro’s adjustable aperture. But instead of just four stop settings, the app offers 10 presets with additional options in-between the settings available in iOS’ camera. The iPhoneographers YouTube channel tested the new functionality in version 3.5 of the app last week and while they describe it as “pretty buggy” the app has since been updated to version 3.5.1 with “general performance and stability improvements.” Yesterday, Moment followed suit with an announcement on X that its $12.99 Moment Pro Camera II app has also been updated to support the iPhone 18 Pro’s variable aperture. You can adjust the aperture from f/1.48 to f/4.0 in 1/3 stop increments giving you 10 presets like Blackmagic’s app, which is the same approach as most digital cameras take. Given the small sensor size of the iPhone 18 Pro you may be hard-pressed to see a difference in background blur and focus depth when comparing photos with f-stops different by just 1/3 of a stop, but more control is never a bad thing.",
+  "fetchedAt": "2026-09-26T01:45:41.075Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "这些相机应用程序可让您更好地控制 iPhone 18 Pro 的光圈",
+  "chineseSummary": "iPhone 18 Pro 具有可变光圈的新主摄像头的一个值得怀疑的限制是，在手动模式下，您只能在原生 iOS 相机应用程序中进行四种设置：f/1.48、f/1.8、f/2.8 和 f/4。当应用程序在 [...] 中调整光圈本身时，也存在同样的限制。",
+  "chineseContent": "iPhone 18 Pro 具有可变光圈的新主摄像头的一个值得怀疑的限制是，在手动模式下，您只能在原生 iOS 相机应用程序中进行四种设置：f/1.48、f/1.8、f/2.8 和 f/4。当应用程序在自动光圈模式下调整光圈本身时，也存在同样的限制，但事实证明，这并不是 iPhone 相机硬件的严格限制。苹果的 SDK 允许第三方相机应用程序实现更精细的光圈控制。 BlackMagic Design 的 iOS 版功能齐全且完全免费的 BlackMagic Camera 应用程序是首批支持 iPhone 18 Pro 可调光圈的第三方选项之一。但该应用程序不仅提供四种停止设置，还提供 10 种预设，以及 iOS 相机中可用设置之间的其他选项。 iPhoneographers YouTube 频道上周测试了该应用程序 3.5 版本中的新功能，虽然他们将其描述为“相当有缺陷”，但该应用程序已更新至 3.5.1 版本，并具有“总体性能和稳定性改进”。昨天，Moment 紧随其后，在 X 上宣布，其售价 12.99 美元的 Moment Pro Camera II 应用程序也已更新，支持 iPhone 18 Pro 的可变光圈。您可以以 1/3 级增量将光圈从 f/1.48 调整到 f/4.0，为您提供 10 个预设，如 Blackmagic 的应用程序，这与大多数数码相机采用的方法相同。鉴于 iPhone 18 Pro 的传感器尺寸较小，在比较光圈值仅相差 1/3 档的照片时，您可能很难看到背景模糊和焦深的差异，但更多的控制永远不是坏事。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

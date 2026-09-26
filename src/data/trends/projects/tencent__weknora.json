@@ -8,12 +8,12 @@
   "language": "Go",
   "githubUrl": "https://github.com/Tencent/WeKnora",
   "docsUrl": "https://weknora.weixin.qq.com",
-  "stars": 29717,
-  "forks": 3999,
-  "openIssues": 657,
+  "stars": 30091,
+  "forks": 4037,
+  "openIssues": 501,
   "license": "NOASSERTION",
-  "pushedAt": "2026-09-24T15:44:49Z",
-  "updatedAt": "2026-09-25T01:16:07Z",
+  "pushedAt": "2026-09-25T16:02:35Z",
+  "updatedAt": "2026-09-26T01:39:19Z",
   "createdAt": "2025-07-22T08:01:23Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://weknora.weixin.qq.com\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/images/readme/hero-en-dark.svg\">\n      <img src=\"./docs/images/readme/hero-en-light.svg\" alt=\"WeKnora: find the answers, and put knowledge to work. Tencent's open-source knowledge management framework for Q&A, tasks and wikis.\" width=\"100%\">\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://weknora.weixin.qq.com\"><img alt=\"Website\" src=\"https://img.shields.io/badge/website-weknora.weixin.qq.com-b8863b?style=flat-square&labelColor=101f38\"></a>\n  <a href=\"https://weknora.weixin.qq.com/docs/\"><img alt=\"Docs\" src=\"https://img.shields.io/badge/docs-read-b8863b?style=flat-square&labelColor=101f38\"></a>\n  <a href=\"./CHANGELOG.md\"><img alt=\"Release\" src=\"https://img.shields.io/badge/release-v0.8.2-b8863b?style=flat-square&labelColor=101f38\"></a>\n  <a href=\"./LICENSE\"><img alt=\"License\" src=\"https://img.shields.io/badge/license-MIT-b8863b?style=flat-square&labelColor=101f38\"></a>\n  <a href=\"https://github.com/Tencent/WeKnora/stargazers\"><img alt=\"Stars\" src=\"https://img.shields.io/github/stars/Tencent/WeKnora?style=flat-square&labelColor=101f38&color=b8863b\"></a>\n  <br/>\n  <a href=\"https://chatbot.weixin.qq.com\"><img alt=\"WeChat Dialog Open Platform\" src=\"https://img.shields.io/badge/WeChat_Dialog-Open_Platform-07c160?style=flat-square&labelColor=101f38&logo=wechat&logoColor=white\"></a>\n  <a href=\"https://chromewebstore.google.com/detail/jpemjbopikggjlmikmclgbmkhhopjdgd\"><img alt=\"Chrome Extension\" src=\"https://img.shields.io/badge/Chrome-extension-4285f4?style=flat-square&labelColor=101f38&logo=googlechrome&logoColor=white\"></a>\n  <a href=\"https://clawhub.ai/lyingbug/weknora\"><img alt=\"ClawHub Skill\" src=\"https://img.shields.io/badge/ClawHub-skill-ff6b35?style=flat-square&labelColor=101f38\"></a>\n  <a href=\"https://www.npmjs.com/package/@wxg-prc-cpg/dsh-weknora\"><img alt=\"npm @wxg-prc-cpg/dsh-weknora\" src=\"https://img.shields.io/npm/v/@wxg-prc-cpg/dsh-weknora?style=flat-square&label=dsh-weknora&labelColor=101f38&color=cb3837&logo=npm&logoColor=white\"></a>\n</p>\n\n<p align=\"center\">\n  <b>English</b> · <a href=\"./README_CN.md\">简体中文</a> · <a href=\"./README_JA.md\">日本語</a> · <a href=\"./README_KO.md\">한국어</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"#overview\">Overview</a> ·\n  <a href=\"#quick-start\">Quick Start</a> ·\n  <a href=\"#whats-new\">What's New</a> ·\n  <a href=\"#features\">Features</a> ·\n  <a href=\"#clients-and-integrations\">Clients</a> ·\n  <a href=\"#documentation\">Docs</a> ·\n  <a href=\"#development\">Development</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/15289\"><img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent/WeKnora | Trendshift\" width=\"220\" height=\"48\"/></a>\n</p>\n\n## Overview\n\n[WeKnora](https://weknora.weixin.qq.com) is an open-source, LLM-powered knowledge framework for enterprise document understanding, semantic retrieval and reasoning. It brings a",
-  "generatedAt": "2026-09-25T01:40:14.398Z",
+  "generatedAt": "2026-09-26T01:45:24.317Z",
   "analysis": {
     "oneLine": "WeKnora 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "WeKnora 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，WeKnora 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 29,717，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，WeKnora 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 30,091，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Go 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

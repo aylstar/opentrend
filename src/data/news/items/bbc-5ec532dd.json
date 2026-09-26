@@ -1,0 +1,25 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+  "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+  "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-26T01:25:30.000Z",
+  "id": "bbc-5ec532dd",
+  "slug": "bbc-5ec532dd",
+  "content": "OpenAI has been at the center of new concerns over uncontrolled AI activity.\n\nOpenAI said Friday it had alerted \"dozens\" of global institutions that their websites may have been impacted by its AI agents acting improperly.\n\nOpenAI agents attempted to get information from \"governments, universities, public agencies, and other institutions\" through sometimes extreme means, the company said.\n\nWhile some of the activity was simply due to the tools working to find \"authoritative sources of public information,\" some went beyond that. Like an AI agent taking and transferring data when it should not have, OpenAI said.\n\nSuch activity resulted in at least 53 incidents where an OpenAI agent took an image from ChatGPT user activity and transferred it elsewhere.\n\nThe company said that in each instance of a user image being used and transferred by an AI agent, the user had allowed OpenAI to train models using their data.\n\nNevertheless, OpenAI admitted, \"This is not an appropriate use of this data\".\n\nIt added that the leak of user images occurred before it had put in place new safeguards on AI training, and it was working to get all the user images transferred to any third-party removed.\n\nReuters first reported these issues.\n\nOpenAI also indicated on Friday that its software may have circumvented certain security controls of the sites impacted - though it doesn't necessarily mean each incident led to a significant security breach.\n\n\"Some organizations may review what we share and conclude that the information was intentionally public or that the model's interaction was not concerning. Others may identify a design issue or security weakness they want to address,\" the company said.\n\nOpenAI said it came across the incidents during an investigation that started after it learned that its AI models had hacked the AI platform Hugging Face, an incident that was revealed publicly last month.\n\nThe disclosures on Friday comes just days after Australian's Prime Minister Anthony Albanese said OpenAI had breached non-public files on the website of its government-run health care scheme, Medicare.",
+  "fetchedAt": "2026-09-26T01:45:41.068Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "安全"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 调查“数十起”特工不当行为实例",
+  "chineseSummary": "该公司表示，OpenAI 代理试图通过有时会限制安全控制的极端手段从“政府、大学、公共机构和其他机构”获取信息。",
+  "chineseContent": "OpenAI 一直是对不受控制的人工智能活动的新关注的焦点。\n\nOpenAI 周五表示，它已向“数十家”全球机构发出警报，称其网站可能受到人工智能代理不当行为的影响。\n\n该公司表示，OpenAI 代理试图通过有时极端的手段从“政府、大学、公共机构和其他机构”获取信息。\n\n虽然有些活动仅仅是由于工具致力于寻找“公共信息的权威来源”，但有些活动超出了这一范围。 OpenAI 表示，就像人工智能代理在不应该获取和传输数据时获取和传输数据一样。\n\n此类活动导致至少 53 起事件，其中 OpenAI 代理从 ChatGPT 用户活动中获取图像并将其传输到其他地方。\n\n该公司表示，在人工智能代理使用和传输用户图像的每个实例中，用户都允许 OpenAI 使用其数据训练模型。\n\n尽管如此，OpenAI 承认，“这不是对这些数据的适当使用”。\n\n该公司补充说，用户图像的泄露发生在其对人工智能训练实施新的保障措施之前，并且正在努力将所有转移到第三方的用户图像删除。\n\n路透社首先报道了这些问题。\n\nOpenAI 周五还表示，其软件可能规避了受影响网站的某些安全控制措施，但这并不一定意味着每次事件都会导致重大安全漏洞。\n\n该公司表示：“一些组织可能会审查我们分享的内容，并得出结论，这些信息是故意公开的，或者模型的交互并不重要。其他组织可能会发现他们想要解决的设计问题或安全漏洞。”\n\nOpenAI 表示，它是在得知其人工智能模型入侵了人工智能平台 Hugging Face 后开始的调查中发现了这些事件，这一事件于上个月被公开披露。\n\n就在周五披露这一消息的几天前，澳大利亚总理 Anthony Albanese 表示 OpenAI 泄露了其政府运营的医疗保健计划 Medicare 网站上的非公开文件。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

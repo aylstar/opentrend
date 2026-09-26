@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sony and UMG are suing Suno again",
+  "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+  "publishedAt": "2026-09-25T15:51:56.000Z",
+  "id": "the-verge-b42a1e23",
+  "slug": "the-verge-b42a1e23",
+  "content": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it’s trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign a licensing agreement with Suno.&nbsp; In its complaint shared with The Verge, Sony and UMG accuse Suno of “model laundering,” saying: > “Training a ‘new’ model on the outputs of an infringing model does not eliminate the infringement; it launders it, passing the value of Plaintiffs’ expression from the copied recordings into the tainted models, from those models into their outputs, and from those outputs into v6 … V6 is not a fresh start; it is the fruit of the same poisoned tree.” When v6 launched, Suno’s Jack Brody told The Verge it was “trained from the ground up, with a new set of data,” including “user data,” but did not offer details beyond that. Suno spokesperson Rachel Racusen later confirmed to The Verge that data includes “creations” from users, saying, “v6 was trained on content licensed from our partners, interactions including creations and preference signals from our community, and the accumulated learnings from our team,” but did not specify whether that included uploaded audio or outputs based on uploaded audio. Sony further alleges that Suno used distillation to train v6. It claims that it was trained to replicate the results of its previous, “teacher” models, which were created using infringing data. The complaint says that “even a model not directly trained on Plaintiffs’ recordings is informed by, and benefits from, Suno’s retained unauthorized copies.” Essentially, the labels argue that, unless Suno truly starts from scratch, its models will continue to be built on stolen data. Update September 25th, 2026: Added statement from Suno.",
+  "fetchedAt": "2026-09-26T01:45:41.076Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "视频"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "索尼和UMG再次起诉Suno",
+  "chineseSummary": "索尼和环球音乐集团再次对 Suno 提起诉讼。唱片公司声称其新的 v6 模型仍然侵犯了他们的版权，因为它是根据以前模型的用户输出进行训练的，而这些模型本身是根据从 YouTube 和其他来源盗取的未经许可的音乐进行训练的。索尼和环球音乐集团是著名的坚持者，他们没有签署 [...]",
+  "chineseContent": "索尼和环球音乐集团再次对 Suno 提起诉讼。唱片公司声称其新的 v6 模型仍然侵犯了他们的版权，因为它是根据以前模型的用户输出进行训练的，而这些模型本身是根据从 YouTube 和其他来源盗取的未经许可的音乐进行训练的。索尼和环球音乐集团是著名的抵制者，他们没有与 Suno 签署许可协议。  在与 The Verge 分享的投诉中，索尼和 UMG 指控 Suno 进行“模型洗钱”，并表示：“在侵权模型的输出上训练‘新’模型并不能消除侵权行为；它是在洗钱，将原告的表达值从复制的录音传递到受污染的模型中，从这些模型传递到其输出中，再从这些输出传递到 v6 中……V6 不是一个新的开始；它是同一棵毒树的果实。”当 v6 推出时，Suno 的 Jack Brody 告诉 The Verge，它是“使用一组新数据从头开始训练的”，其中包括“用户数据”，但没有提供除此之外的详细信息。 Suno 发言人 Rachel Racusen 后来向 The Verge 证实，数据包括用户的“创作”，她表示，“v6 接受了我们合作伙伴许可的内容、包括来自我们社区的创作和偏好信号的互动以及我们团队积累的学习内容的训练”，但没有具体说明是否包括上传的音频或基于上传音频的输出。索尼进一步指控 Suno 使用蒸馏来训练 v6。它声称它经过训练可以复制之前使用侵权数据创建的“教师”模型的结果。诉状称，“即使是没有直接接受原告录音训练的模型，也会从 Suno 保留的未经授权的副本中获取信息并从中受益。”从本质上讲，标签认为，除非 Suno 真正从",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

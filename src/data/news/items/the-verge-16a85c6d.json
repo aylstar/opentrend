@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Tesla’s Optimus robot is going through growing pains",
+  "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues […]",
+  "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+  "publishedAt": "2026-09-25T17:01:36.000Z",
+  "id": "the-verge-16a85c6d",
+  "slug": "the-verge-16a85c6d",
+  "content": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced “several hundred robots a week” last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues lining up parts precisely, as The Information notes: “Not only are the Optimus production lines new, but the Optimus parts are much smaller and have to fit together far more precisely than car parts.”&nbsp; It reports that even in the “V3” Optimus robots it’s currently producing, the hands and forearms “have more than 100 screws and other small components that currently require a worker to assemble manually.” These robots are lighter and have more cameras than previous versions, but lack a “sensing glove”&nbsp; currently in development that will improve durability by making it easier to replace touch sensors without swapping out the entire hand.&nbsp; Optimus has faced delays for years now, even as Tesla CEO Elon Musk has made bold promises about it, saying Optimus will be Tesla’s “biggest product of all time.” However, at the moment they’re still being used internally for specific tasks in limited areas, and not generally or with remote teleoperation. Tesla also reportedly plans to lease the robots initially rather than selling them, and use the training data collected to improve the robots, but it will have to get them out in the world first. Meanwhile, other developers have begun shifting to less lifelike designs for their robots, and earlier this month, Chinese regulators reportedly started holding back IPO listings for humanoid robotics companies.",
+  "fetchedAt": "2026-09-26T01:45:41.075Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "产品"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "特斯拉的擎天柱机器人正在经历成长的阵痛",
+  "chineseSummary": "据报道，特斯拉要实现每周生产 20,000 台 Optimus 机器人的目标非常困难。据 The Information 报道，特斯拉在今年早些时候为 Optimus 重新调整了 Model S 和 Model X 生产线的用途后，上个月“每周生产了数百个机器人”。然而，据报道，这一策略正在制造制造障碍，例如问题[...]",
+  "chineseContent": "据报道，特斯拉要实现每周生产 20,000 台 Optimus 机器人的目标非常困难。据 The Information 报道，特斯拉在今年早些时候为 Optimus 重新调整了 Model S 和 Model X 生产线的用途后，上个月“每周生产了数百个机器人”。然而，据报道，这一策略正在制造制造障碍，例如精确排列零件的问题，正如 The Information 指出的那样：“不仅 Optimus 生产线是新的，而且 Optimus 零件要小得多，并且必须比汽车零件更精确地组装在一起。”  报道称，即使是目前正在生产的“V3”擎天柱机器人，其手和前臂“也有超过 100 个螺钉和其他小部件，目前需要工人手动组装。”这些机器人比以前的版本更轻，配备更多摄像头，但缺乏目前正在开发的“传感手套”，该手套可以更轻松地更换触摸传感器而无需更换整个手，从而提高耐用性。  尽管特斯拉首席执行官埃隆·马斯克 (Elon Musk) 做出了大胆承诺，称 Optimus 将成为特斯拉“有史以来最大的产品”，但 Optimus 多年来一直面临着延误。然而，目前它们仍在内部用于有限区域的特定任务，而不是一般或远程遥控操作。据报道，特斯拉还计划首先租赁这些机器人，而不是出售它们，并利用收集到的训练数据来改进机器人，但必须首先将它们推向世界。与此同时，其他开发商已经开始转向不太逼真的机器人设计，本月早些时候，据报道，中国监管机构开始阻止人形机器人公司的 IPO 上市。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
