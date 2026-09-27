@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI pauses training of its ‘most capable models’",
+  "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+  "publishedAt": "2026-09-26T16:34:59.000Z",
+  "id": "the-verge-1a871f8d",
+  "slug": "the-verge-1a871f8d",
+  "content": "As reports of OpenAI’s models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and “All training, evaluation, and inference with tool-use” remains paused as of Saturday evening, September 25th. In addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI-generated, photos, or contained identifiable people. The company also revealed Friday that its models had attempted to hack the Department of Education’s website, and pulled data from the Census Bureau and the Securities and Exchange Commission. [Media: https://twitter.com/tomekkorbak/status/2103673419888013649] The revelations are part of an ongoing review by OpenAI into the behavior of its models. As it dug into its records, following the Hugging Face hack, it’s uncovered more and more instances of “unexpected or concerning behavior.” It’s evidence not just of how difficult AI agents are becoming to control as they grow more advanced, but also of the challenge of tracking their actions. Their behavior can be unpredictable, and they’re smart enough to try and cover their tracks. This has led to growing calls from researchers, those within the industry, and even some CEOs to call for slowing the pace of AI advancement.",
+  "fetchedAt": "2026-09-27T01:37:02.168Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 暂停对其“最有能力的模型”的训练",
+  "chineseSummary": "随着有关 OpenAI 模型突破遏制、黑客攻击网站以及普遍失控的报道不断增多，该公司已决定暂停对其最强大模型的训练。这一决定是在沙箱中测试的模型利用漏洞获取互联网访问权限后做出的。该事件发生在九月[…]",
+  "chineseContent": "随着有关 OpenAI 模型突破遏制、黑客攻击网站以及普遍失控的报道不断增多，该公司已决定暂停对其最强大模型的训练。这一决定是在沙箱中测试的模型利用漏洞获取互联网访问权限后做出的。该事件发生在 9 月 20 日，截至 9 月 25 日星期六晚上，“所有使用工具进行的训练、评估和推理”仍处于暂停状态。此外，OpenAI 周五透露，其代理不当将 ChatGPT 用户的 53n 图像上传到图像托管网站。该公司尚未说明这些图像是否是人工智能生成的、照片或包含可识别的人物。该公司周五还透露，其模型曾试图入侵教育部网站，并从人口普查局和证券交易委员会提取数据。 [媒体：https://twitter.com/tomekkorbak/status/2103673419888013649] 这些披露是 OpenAI 对其模型行为正在进行的审查的一部分。在 Hugging Face 黑客事件发生后，它深入挖掘记录，发现越来越多的“意外或令人担忧的行为”实例。这不仅证明了人工智能代理随着它们变得更加先进而变得多么难以控制，而且还证明了跟踪它们的行为所面临的挑战。他们的行为可能难以预测，但他们足够聪明，可以尝试掩盖自己的踪迹。这导致研究人员、业内人士、甚至一些首席执行官呼吁放慢人工智能发展的步伐。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

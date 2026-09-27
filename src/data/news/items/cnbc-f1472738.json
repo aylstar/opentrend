@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+  "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+  "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+  "publishedAt": "2026-09-26T16:57:57.000Z",
+  "id": "cnbc-f1472738",
+  "slug": "cnbc-f1472738",
+  "content": "A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents.\n\nTaction sued Apple in 2021 in the U.S. District Court for the Southern District of California. The company alleged that Apple was improperly \"capitalizing on Taction's innovation and success\" by selling devices that infringed on its vibration technology, according to the complaint . Apple initially won dismissal in 2023, and the Federal Circuit later revived the case.\n\n\"While we thank the jury for their consideration, we strongly disagree with today's verdict and the damages awarded, which are entirely unsupported by the facts,\" Apple told CNBC in a statement. \"Apple's Taptic Engine is fundamentally different from Taction's technology, which Taction's own testing of Apple's products confirmed during trial. Apple does not use Taction's technology, and we will appeal.\"\n\n\"We're happy the jury found for Taction and vindicated its patent rights,\" the company's lead counsel, Lance Yang, partner at Quinn Emanuel, told CNBC. \"Taction waited five and a half years for this case to get to trial, so it was a long time coming.\"\n\nThe lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input. Taction argued that Apple's \"Taptic Engine,\" which is embedded in its Apple Watches and iPhones, uses its inventions without proper license or authority.\n\nThe jury trial began Sept. 14, and the seven jurors deliberated for two days after proceedings concluded. They returned at 1:15 p.m. PT on Friday and delivered the verdict in favor of Taction.\n\nThe jury did not find Apple's infringement willful.\n\nWATCH: Apple’s three-part iPhone rollout complicates the demand read",
+  "fetchedAt": "2026-09-27T01:37:02.169Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "科技",
+    "金融"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果因 iPhone 和 Apple Watch 触觉技术面临 57 亿美元专利侵权判决",
+  "chineseSummary": "联邦陪审团裁定苹果侵犯了两项触觉专利的权利要求，判给 Taction Technology 超过 57 亿美元的赔偿。苹果计划上诉。",
+  "chineseContent": "周五，圣地亚哥联邦陪审团裁定苹果公司侵犯了两项触觉专利的权利要求，裁定 Taction Technology 赔偿超过 57 亿美元。\n\nTaction 于 2021 年在美国加州南区地方法院起诉苹果。起诉书称，该公司指控苹果公司通过销售侵犯其振动技术的设备来不当“利用 Taction 的创新和成功”。苹果最初于 2023 年赢得驳回诉讼，联邦巡回法院后来恢复了此案。\n\n苹果公司在一份声明中对 CNBC 表示：“虽然我们感谢陪审团的考虑，但我们强烈不同意今天的判决和判给的损害赔偿金，这些判决和赔偿金完全没有事实依据。” “苹果的 Taptic Engine 与 Taction 的技术有根本的不同，Taction 自己对苹果产品的测试在审判期间证实了这一点。苹果不使用 Taction 的技术，我们将提出上诉。”\n\n该公司的首席律师、Quinn Emanuel 合伙人兰斯·杨 (Lance Yang) 告诉 CNBC：“我们很高兴陪审团裁定 Taction 胜诉，并证明其专利权是正确的。” “Taction等了五年半才让这个案件进入审判阶段，所以这是一个漫长的过程。”\n\n该诉讼以美国专利号 10,659,885 和 10,820,117 为中心，这两项专利都涉及基于振动的触觉传感器技术，可帮助用户感觉到设备对其输入做出响应。 Taction 辩称，苹果公司的 Apple Watch 和 iPhone 中嵌入的“Taptic Engine”在没有适当许可或授权的情况下使用其发明。\n\n陪审团审判于9月14日开始，七名陪审员在诉讼结束后进行了两天的审议。他们于下午 1 点 15 分返回。太平洋时间周五做出了有利于 Taction 的判决。\n\n陪审团没有发现苹果公司的侵权行为是故意的。\n\n观看：苹果分三部分推出 iPhone 使需求解读变得复杂",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

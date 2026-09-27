@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Drawgent: Coding agent on a live Excalidraw canvas",
+  "summary": "108 points · 32 comments",
+  "content": "drawgent connects your own Claude Code, Codex or opencode (your install, login, config and repo) to an Excalidraw whiteboard. Ask for a diagram in the chat panel, or write AGENT: … next to the part of a drawing you want changed. The agent looks at the canvas (screenshot + scene), edits it live, checks the result, and marks the note DONE .\n\nPrerequisite: one of claude , codex or opencode installed and logged in. The Claude and Codex bridges also need Node.js ≥ 18 (npm).\n\nChecks everything once, fails with the exact fix when something is missing, and writes ~/.config/drawgent/config.toml :\n\nThe agent CLI. Your claude / codex / opencode on PATH.\n\nLogin. claude auth status , codex login status or opencode auth list .\n\nCanvas tools for attached sessions. Only Codex needs a change: codex mcp add drawgent -- drawgent mcp . Claude and opencode get the tools at attach time.\n\nHeadless Chrome for the renderer. Setup uses your Chrome/Chromium if you have one. Otherwise it proposes:\n\nNon-interactive: --chrome download | system | /path/to/chrome .\n\ndrawgent up refuses to start until setup succeeded for that agent, or if something setup recorded disappeared.\n\nRuns in the current directory (the workspace):\n\nThe scene is kept in .drawgent/scene.json , which is git-ignored automatically.\n\nConnects the canvas to a session you already run. Without an id it lists the sessions it finds (current directory first) and lets you pick one:\n\ndocker compose up --build runs a canvas server (drawgent + Chromium, no agents ), e.g. to host a shared canvas or a room bridge on a server. Agents are never bundled: they always run with your own setup.\n\nget_scene , get_screenshot (vision; zoom with element_ids ), add_elements (Excalidraw skeletons; arrows bind by id and are routed edge-to-edge), add_mermaid (auto-layout), update_elements (labels follow shapes, bound arrows re-route), delete_elements , clear_canvas , list_instructions , resolve_instruction , set_status .\n\nGET /api/health · GET /api/scene · GET /api/screenshot?ids=&padding=&max= · POST|PATCH|DELETE /api/elements · POST /api/mermaid · POST /api/clear · GET /api/instructions · POST /api/instructions/{id}/resolve · POST /api/status · POST /api/chat {agent?, text} · WS /ws (browser sync + chat events)\n\nweb/ : editor ( main.jsx , chat.jsx , laser.js ) and renderer page ( render.jsx ).",
+  "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+  "publishedAt": "2026-09-26T15:56:34.000Z",
+  "points": 108,
+  "id": "hacker-news-890df19b",
+  "slug": "hacker-news-890df19b",
+  "fetchedAt": "2026-09-27T01:37:02.165Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Drawgent：实时 Excalidraw 画布上的编码代理",
+  "chineseSummary": "108 分 · 32 条评论",
+  "chineseContent": "drawgent 将您自己的 Claude Code、Codex 或 opencode（您的安装、登录、配置和存储库）连接到 Excalidraw 白板。在聊天面板中索要图表，或在您想要更改的绘图部分旁边写下“代理：...”。代理查看画布（屏幕截图+场景），实时编辑，检查结果，并将注释标记为 DONE 。\n\n先决条件：安装并登录 claude 、 codex 或 opencode 之一。 Claude 和 Codex 桥还需要 Node.js ≥ 18 (npm)。\n\n检查一次所有内容，当缺少某些内容时，会因精确修复而失败，并写入 ~/.config/drawgent/config.toml ：\n\n代理 CLI。你的 claude / codex / opencode 在 PATH 上。\n\n登录。 claude 身份验证状态、codex 登录状态或 opencode 身份验证列表。\n\n用于附加会话的画布工具。只有 Codex 需要更改： codex mcp adddrawgent --drawgent mcp 。 Claude 和 opencode 在附加时获取工具。\n\n用于渲染器的无头 Chrome。安装程序会使用您的 Chrome/Chromium（如果您有）。否则，它建议：\n\n非交互式：--chrome 下载 |系统| /路径/到/chrome 。\n\nDrawgent up 拒绝启动，直到该代理的安装成功，或者安装记录的某些内容消失。\n\n在当前目录（工作区）中运行：\n\n场景保存在 .drawgent/scene.json 中，它会自动被 git 忽略。\n\n将画布连接到您已运行的会话。如果没有 id，它会列出它找到的会话（首先是当前目录）并让您选择一个：\n\ndocker compose up --build 运行画布服务器（drawgent + Chromium，无代理），例如在服务器上托管共享画布或房间桥。代理永远不会捆绑：它们始终以您自己的设置运行。\n\nget_scene 、 get_screenshot （视觉；使用 element_ids 缩放）、 add_elements （Excalidraw 骨架；箭头通过 id 绑定并边到边路​​由）、 add_mermaid （自动布局）、 update_elements （标签跟随形状，绑定箭头重新路由）、 delete_elements 、clear_canvas 、 list_instructions 、resolve_instruction 、 set_status 。\n\nGET /api/health · GET /api/scene · GET /api/screenshot?ids=&padding=&max= · POST|PATCH|DELETE /api/elements · POST /api/mermaid · POST /api/clear · GET /api/instructions · POST /api/instructions/{id}/resolve · POST /api/status · POST /api/chat {agent?, text} · WS /ws （浏览器同步+聊天事件）\n\nweb/ ：编辑器（ main.jsx 、 chat.jsx 、 Laser.js ）和渲染器页面（ render.jsx ）。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

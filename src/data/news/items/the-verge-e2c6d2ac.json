@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple hit with $5.7 billion in damages over haptic patents",
+  "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a […]",
+  "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+  "publishedAt": "2026-09-26T21:30:01.000Z",
+  "id": "the-verge-e2c6d2ac",
+  "slug": "the-verge-e2c6d2ac",
+  "content": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, “The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.” Taction argued that Apple’s Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the jury did not find that Apple willfully infringed. Taction had accused Apple of reverse-engineering the tech from two Kannon gaming headsets. Apple has said that it intends to appeal the decision. We’ve reached out for additional comment and will update the story if and when we hear back.",
+  "fetchedAt": "2026-09-27T01:37:02.168Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果因触觉专利遭受 57 亿美元损失",
+  "chineseSummary": "触觉技术公司 Taction 于 2021 年起诉苹果，指控其侵犯了其两项专利。现在，圣地亚哥的联邦陪审团裁定 Taction 赔偿超过 57 亿美元。据 CNBC 报道，“这起诉讼围绕美国专利号 10,659,885 和 10,820,117 展开，这两项专利都涉及基于振动的触觉传感器技术，可帮助用户感受到 [...]",
+  "chineseContent": "触觉技术公司 Taction 于 2021 年起诉苹果，指控其侵犯了其两项专利。现在，圣地亚哥的联邦陪审团裁定 Taction 赔偿超过 57 亿美元。据 CNBC 报道，“这起诉讼主要围绕美国专利号 10,659,885 和 10,820,117，这两项专利都涉及基于振动的触觉传感器技术，可帮助用户感觉到设备对其输入做出响应。” Taction 辩称，苹果 Apple Watch 和 iPhone 中的 Taptic Engine 使用了未经适当许可而开发的技术，陪审团对此表示同意。调查发现，苹果公司侵犯了一项专利中的两项权利要求，另一项专利中侵犯了一项权利要求。不过，陪审团并未认定苹果故意侵权。 Taction 指责苹果对两款 Kannon 游戏耳机的技术进行了逆向工程。苹果公司表示打算对这一决定提出上诉。我们已经联系了更多评论，并会在收到回复后更新故事。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
