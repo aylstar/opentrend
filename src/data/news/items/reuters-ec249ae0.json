@@ -8,18 +8,18 @@
   "id": "reuters-ec249ae0",
   "slug": "reuters-ec249ae0",
   "content": "UAE markets decline after warning on regional air travel &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-09-27T01:37:02.178Z",
+  "fetchedAt": "2026-09-28T01:48:56.311Z",
   "score": 84,
   "sourceWeight": 94,
   "tags": [
     "金融",
     "财经"
   ],
-  "rank": 25,
+  "rank": 28,
   "contentStatus": "article-extracted",
-  "chineseTitle": "阿联酋市场在区域航空旅行警告后下跌",
-  "chineseSummary": "阿联酋市场在区域航空旅行警告后下跌 路透",
-  "chineseContent": "阿联酋市场在区域航空旅行警告后下跌 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "UAE markets decline after warning on regional air travel",
+  "chineseSummary": "UAE markets decline after warning on regional air travel &nbsp;&nbsp; Reuters",
+  "chineseContent": "UAE markets decline after warning on regional air travel &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

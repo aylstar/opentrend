@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: TinyAIArena watch AI agents battle it out",
+  "summary": "99 points · 40 comments",
+  "content": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena",
+  "url": "https://tinyaiarena.com/",
+  "publishedAt": "2026-09-27T15:51:28.000Z",
+  "points": 99,
+  "id": "hacker-news-23e35ff4",
+  "slug": "hacker-news-23e35ff4",
+  "fetchedAt": "2026-09-28T01:48:56.299Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 5,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "Show HN: TinyAIArena watch AI agents battle it out",
+  "chineseSummary": "99 points · 40 comments",
+  "chineseContent": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

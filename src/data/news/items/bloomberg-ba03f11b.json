@@ -8,18 +8,18 @@
   "id": "bloomberg-ba03f11b",
   "slug": "bloomberg-ba03f11b",
   "content": "Rate Market Fear Gauge Is Warning for Corporate Bonds &nbsp;&nbsp; Bloomberg",
-  "fetchedAt": "2026-09-27T01:37:02.176Z",
-  "score": 90,
+  "fetchedAt": "2026-09-28T01:48:56.309Z",
+  "score": 84,
   "sourceWeight": 95,
   "tags": [
     "金融",
     "财经"
   ],
-  "rank": 2,
+  "rank": 25,
   "contentStatus": "article-extracted",
-  "chineseTitle": "利率市场恐慌指数对公司债券发出警告",
-  "chineseSummary": "利率市场恐慌指数对公司债券发出警告 彭博社",
-  "chineseContent": "利率市场恐慌指数对公司债券发出警告 彭博社",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Rate Market Fear Gauge Is Warning for Corporate Bonds",
+  "chineseSummary": "Rate Market Fear Gauge Is Warning for Corporate Bonds &nbsp;&nbsp; Bloomberg",
+  "chineseContent": "Rate Market Fear Gauge Is Warning for Corporate Bonds &nbsp;&nbsp; Bloomberg",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

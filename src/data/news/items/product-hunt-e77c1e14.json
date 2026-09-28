@@ -1,15 +1,15 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "OpenAI Agents API",
-  "summary": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
+  "originalTitle": "GPT-6 Sol & Luna",
+  "summary": "Frontier AI intelligence, now at half the price Discussion | Link",
   "url": "https://www.producthunt.com/products/openai",
-  "publishedAt": "2026-09-14T02:33:24.000Z",
+  "publishedAt": "2026-09-22T21:59:44.000Z",
   "id": "product-hunt-e77c1e14",
   "slug": "product-hunt-e77c1e14",
-  "content": "Cloud agents, run on OpenAI's Codex harness Discussion | Link",
-  "fetchedAt": "2026-09-17T01:33:49.139Z",
-  "score": 73,
+  "content": "Frontier AI intelligence, now at half the price Discussion | Link",
+  "fetchedAt": "2026-09-28T01:48:56.299Z",
+  "score": 69,
   "sourceWeight": 84,
   "tags": [
     "AI",
@@ -17,9 +17,9 @@
   ],
   "rank": 14,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "OpenAI 代理 API",
-  "chineseSummary": "云代理，在 OpenAI 的 Codex 工具上运行 讨论 |关联",
-  "chineseContent": "云代理，在 OpenAI 的 Codex 工具上运行 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "GPT-6 Sol & Luna",
+  "chineseSummary": "Frontier AI intelligence, now at half the price Discussion | Link",
+  "chineseContent": "Frontier AI intelligence, now at half the price Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

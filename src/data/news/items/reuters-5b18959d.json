@@ -8,17 +8,17 @@
   "id": "reuters-5b18959d",
   "slug": "reuters-5b18959d",
   "content": "Explainer: Treasury yields are rising - why does it matter? &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-09-27T01:37:02.178Z",
-  "score": 92,
+  "fetchedAt": "2026-09-28T01:48:56.311Z",
+  "score": 88,
   "sourceWeight": 94,
   "tags": [
     "财经"
   ],
-  "rank": 1,
+  "rank": 20,
   "contentStatus": "article-extracted",
-  "chineseTitle": "解释者：国债收益率正在上升——为什么这很重要？",
-  "chineseSummary": "解释者：国债收益率正在上升——为什么这很重要？    路透社",
-  "chineseContent": "解释者：国债收益率正在上升——为什么这很重要？    路透社",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Explainer: Treasury yields are rising - why does it matter?",
+  "chineseSummary": "Explainer: Treasury yields are rising - why does it matter? &nbsp;&nbsp; Reuters",
+  "chineseContent": "Explainer: Treasury yields are rising - why does it matter? &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

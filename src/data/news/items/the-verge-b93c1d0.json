@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Engram is a sampler that turns broken AI hallucinations into music",
+  "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+  "publishedAt": "2026-09-27T20:46:36.000Z",
+  "id": "the-verge-b93c1d0",
+  "slug": "the-verge-b93c1d0",
+  "content": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It’s a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn’t Suno in a box, though. This isn’t a “push-button, get-song” device, aimed at creating something that sounds ready for top-40 radio. It’s about creating experimental, uncanny sounds and pushing AI audio models beyond their limits. Engram isn’t connected to the internet. Instead, it runs a “tiny AI” locally. According to the Kickstarter listing, the model is designed in-house and custom-trained. The company says: > “We’ve trained our audio models on open datasets that only contain audio licensed for commercial use (CC-BY or similar). We have not trained and will never train our models on non-commercial, pirated, or otherwise stolen data.” The company also plans to open up Engram’s firmware so that others can tweak it or load their own custom models. In the campaign video, founder Evan King uses his voice to ask for “piano,” and Engram spits out something glitchy and vaguely piano-like. He says to think of Engram as a “field recorder for latent space.” It’s about exploring the world of AI hallucinations and experimental sound design. It even draws inspiration from circuit bending, allowing you to tweak and even break its tiny AI models. [Media: https://www.kickstarter.com/projects/evmaki/engram-generative-audio-sampler-and-groovebox?ref=section-homepage-view-more-discovery-p1&category_id=Q2F0ZWdvcnktMzM5#use-of-ai] Thoughtful Things is launching with a limited run of Engrams for the Kickstarter campaign, starting at $675. The company hasn’t said what the retail price will be, though it’s likely to be between $850 and $900, as the $675 pledge is listed as a 30 percent discount.",
+  "fetchedAt": "2026-09-28T01:48:56.301Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Engram is a sampler that turns broken AI hallucinations into music",
+  "chineseSummary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 […]",
+  "chineseContent": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It’s a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn’t Suno in a box, though. This isn’t a “push-button, get-song” device, aimed at creating something that sounds ready for top-40 radio. It’s about creating experimental, uncanny sounds and pushing AI audio models beyond their limits. Engram isn’t connected to the internet. Instead, it runs a “tiny AI” locally. According to the Kickstarter listing, the model is designed in-house and custom-trained. The company says: > “We’ve trained our audio models on open datasets that only contain audio licensed for commercial use (CC-BY or similar). We have not trained and will never train our models on non-commercial, pirated, or otherwise stolen data.” The company also plans to open up Engram’s firmware so that others can tweak it or load their own custom models. In the campaign video, founder Evan King uses his voice to ask for “piano,” and Engram spits out something glitchy and vaguely piano-like. He says to think of Engram as a “field recorder for latent space.” It’s about exploring the world of AI hallucinations and experimental sound design. It even draws inspiration from circuit bending, allowing you to tweak and even break its tiny AI models. [Media: https://www.kickstarter.com/projects/evmaki/engram-generative-audio-sampler-and-groovebox?ref=section-homepage-view-more-discovery-p1&category_id=Q2F0ZWdvcnktMzM5#use-of-ai] Thoughtful Things is launching with a limited run of Engrams for the Kickstarter campaign, starting at $675. The company hasn’t said what the retail price will be, though it’s likely to be between $850 and $900, as the $675 pledge is listed as a 30 percent discount.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
