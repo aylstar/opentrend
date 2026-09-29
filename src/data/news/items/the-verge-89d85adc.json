@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Florida seeks a ban on ChatGPT acting like a person",
+  "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+  "publishedAt": "2026-09-28T17:00:23.000Z",
+  "id": "the-verge-89d85adc",
+  "slug": "the-verge-89d85adc",
+  "content": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from “giving ChatGPT false human attributes,” a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as “ChatGPT’s use of language, including first-person pronouns and output that mimics emotion, deceptively suggests to users that it is a trustworthy ‘friend.’” All of this happens to increase engagement and contribute to OpenAI’s training data, convincing users to rely on ChatGPT more even as its pursuit of engagement makes it potentially less trustworthy, claims Uthmeier. The filing also asks the court to block OpenAI from developing new AI models without “third-party approved safety guardrails,” citing recent security incidents at Hugging Face, an Australian government website, and US government websites, as well as recent statements from researchers and former OpenAI employees raising alarm bells around AI safety. Uthmeier says that OpenAI should “Stop calling it safe. Stop pretending it’s human. Stop selling it to kids.” Last month, OpenAI launched ChatGPT for Teens, with additional restrictions applied by default, saying that access to the tool “should come with protections that reflect their developmental stage, reinforce real-world relationships, and support healthy use over time.” OpenAI spokesperson Drew Pusateri commented on the filing in a statement to The Verge, saying, “People want to know AI is being developed safely, and that starts with what companies like ours do ourselves. On Friday, we announced we’ve paused training our most capable models and will resume training only when we are confident that we have additional safeguards in place. Governments have an important role to play in setting robust safety standards for AI, and we’re committed to working with Florida and other states on advancing pragmatic AI policies that apply to the entire AI industry–not just one company.” Update, September 28th: Added comment from OpenAI spokesperson Drew Pusateri. [Media: https://twitter.com/AGJamesUthmeier/status/2104565019597848938?s=20] [Media: https://www.documentcloud.org/documents/28693383-florida-motion-for-temporary-injunction-against-openai-chatgpt/]",
+  "fetchedAt": "2026-09-29T02:37:38.826Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "佛罗里达州寻求禁止 ChatGPT 像人一样行事",
+  "chineseSummary": "佛罗里达州总检察长 James Uthmeier 呼吁法官阻止 OpenAI“向 ChatGPT 提供虚假的人类属性”，几个月前佛罗里达州因安全问题起诉这家人工智能公司。根据 Uthmeier 的说法，人工智能机器人让用户产生了一种错误的安全感，因为“ChatGPT 使用的语言，包括第一人称代词 […]",
+  "chineseContent": "佛罗里达州总检察长 James Uthmeier 呼吁法官阻止 OpenAI“向 ChatGPT 提供虚假的人类属性”，几个月前佛罗里达州因安全问题起诉这家人工智能公司。根据 Uthmeier 的说法，人工智能机器人让用户产生了一种错误的安全感，因为“ChatGPT 使用的语言，包括第一人称代词和模仿情感的输出，欺骗性地向用户暗示它是一个值得信赖的‘朋友’。”所有这些都恰好增加了参与度，并有助于 OpenAI 的训练数据，说服用户更多地依赖 ChatGPT，尽管它对参与度的追求可能使其不太值得信任。乌斯迈尔。该文件还要求法院阻止 OpenAI 在没有“第三方批准的安全护栏”的情况下开发新的人工智能模型，理由是澳大利亚政府网站 Hugging Face 和美国政府网站最近发生的安全事件，以及研究人员和前 OpenAI 员工最近发表的声明，对人工智能安全敲响了警钟。 Uthmeier 表示 OpenAI 应该“停止声称它是安全的。停止假装它是人类。停止将其出售给孩子。”上个月，OpenAI 推出了针对青少年的 ChatGPT，默认情况下应用了额外的限制，并表示对该工具的访问“应该附带反映其发展阶段的保护措施，加强现实世界的关系，并支持随着时间的推移健康使用。” OpenAI 发言人 Drew Pusateri 在给 The Verge 的一份声明中评论了这份文件，他说：“人们想知道人工智能正在安全地开发，而这首先要从像我们这样的公司自己做起。周五，我们宣布我们已经暂停训练我们最有能力的模型，只有当我们确信我们有额外的保障措施时才会恢复训练。政府在这方面发挥着重要作用。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

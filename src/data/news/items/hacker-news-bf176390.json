@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "We found 24 Android vulnerabilities using our open source AI security agent",
+  "summary": "8 points · 2 comments",
+  "content": "A look at the targeted AI taskflows behind these findings, the bugs they uncovered, and how to run the same open-source agent on your own app.",
+  "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+  "publishedAt": "2026-09-29T00:55:47.000Z",
+  "points": 8,
+  "id": "hacker-news-bf176390",
+  "slug": "hacker-news-bf176390",
+  "fetchedAt": "2026-09-29T02:37:38.823Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞",
+  "chineseSummary": "8 分 · 2 条评论",
+  "chineseContent": "了解这些发现背后的目标 AI 任务流、他们发现的错误，以及如何在您自己的应用程序上运行相同的开源代理。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+  "summary": "34 points · 3 comments",
+  "content": "A distributed pipeline inference engine on multiple ESP32S3 running 1.58-bit (BitNet) Language model.\n\nThis project runs a sliced 0.5B LLM across a cluster of 7 ESP32s3. One act as master and others are node. The master node runs the tokenizer and embeding and the other attention layer and MLP ran on the nodes. The master and node communicate through high speed SPI Daisy-Chain.\n\npls refer workflow guide to start with the project.\n\nThis project is licensed under the MIT License - see the LICENSE file for details.\n\nInspiration, related works, and references:",
+  "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+  "publishedAt": "2026-09-28T21:26:41.000Z",
+  "points": 34,
+  "id": "hacker-news-736c4802",
+  "slug": "hacker-news-736c4802",
+  "fetchedAt": "2026-09-29T02:37:38.823Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "ESP32S3集群运行1.58位（BitNet）语言模型",
+  "chineseSummary": "34 分 · 3 条评论",
+  "chineseContent": "多个 ESP32S3 上运行 1.58 位 (BitNet) 语言模型的分布式管道推理引擎。\n\n该项目在 7 个 ESP32s3 集群上运行切片 0.5B LLM。一个作为master，其他作为节点。主节点运行分词器和嵌入，其他注意力层和 MLP 在节点上运行。主站和节点通过高速 SPI 菊花链进行通信。\n\n请参阅工作流程指南来开始该项目。\n\n该项目根据 MIT 许可证获得许可 - 有关详细信息，请参阅许可证文件。\n\n灵感、相关作品和参考文献：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

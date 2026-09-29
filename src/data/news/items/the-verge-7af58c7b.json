@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+  "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model […]",
+  "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+  "publishedAt": "2026-09-28T21:31:35.000Z",
+  "id": "the-verge-7af58c7b",
+  "slug": "the-verge-7af58c7b",
+  "content": "AMD announced today that it’s acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025. The deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will “continue to focus on advancing AI model research.” AMD also notes that the acquisition will strengthen “its ability to develop AI hardware, software and systems around the needs of emerging models and applications.” “Just like I knew it was time to do a startup to jumpstart the work of creating foundation models beyond LLMs and achieve the most impact in AI, it’s again very clear that the right path for myself and World Labs is to continue our mission as a part of AMD,” Li says in a post on her Substack. “Together we’re committed to keep pushing the frontier of AI to solve real problems, and doing so openly with the community and the entire ecosystem.” “Building the compute platforms for the next generation of AI requires a deep understanding of how models are evolving,” Su says in a statement. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise. Together, we can use that insight to develop the hardware, software and systems that will power the next generation of AI and strengthen the open AI ecosystem.” The World Labs deal is just the latest multi-billion dollar AI-related acquisition as of late, with Nvidia announcing earlier this month that it would be acquiring Hugging Face for nearly $13 billion.",
+  "fetchedAt": "2026-09-29T02:37:38.825Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AMD 正在收购 AI 公司 World Labs，交易价值超过 80 亿美元",
+  "chineseSummary": "AMD 今天宣布以价值约 82 亿美元的全股票交易收购 World Labs，这是一家由著名研究员李飞飞博士共同创立的人工智能研究实验室。 World Labs 于 2024 年推出，几个月内估值就达到 10 亿美元。该初创公司推出了其第一个商业产品，世界一代模型 [...]",
+  "chineseContent": "AMD 今天宣布以价值约 82 亿美元的全股票交易收购 World Labs，这是一家由著名研究员李飞飞博士共同创立的人工智能研究实验室。 World Labs 于 2024 年推出，几个月内估值就达到 10 亿美元。该初创公司于 2025 年推出了其首款商业产品，名为 Marble 的世界生成模型，可让用户根据提示制作交互式 3D 世界。该交易预计将于今年年底完成。李将成为AMD的执行副总裁兼首席科学家，向AMD首席执行官苏姿丰汇报，而世界实验室团队将“继续专注于推进人工智能模型研究”。 AMD 还指出，此次收购将增强“其围绕新兴模型和应用的需求开发人工智能硬件、软件和系统的能力”。 “就像我知道是时候创办一家初创公司来快速启动创建超越法学硕士的基础模型的工作并在人工智能领域取得最大影响一样，很明显，对于我自己和 World Labs 来说，正确的道路是继续我们作为 AMD 一部分的使命，”Li 在她的 Substack 上发表的一篇文章中说道。 “我们共同致力于不断推动人工智能的前沿发展，以解决实际问题，并与社区和整个生态系统公开合作。” “为下一代人工智能构建计算平台需要深入了解模型如何演变，”苏在一份声明中说。 “飞飞和世界实验室团队带来了卓越的研究领导力和模型专业知识。我们可以共同利用这种洞察力来开发硬件、软件和系统，为下一代人工智能提供动力，并加强开放的人工智能生态系统。”世界实验室的交易只是最近最新的数十亿美元的人工智能相关收购，英伟达本月早些时候宣布将被收购",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-de612f616a",
+  "slug": "weibo-淡淡男友",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "淡淡男友",
+  "summary": "微博热榜第 33 位：淡淡男友，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B7%A1%E6%B7%A1%E7%94%B7%E5%8F%8B%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-09-29T02:34:49.793Z",
+  "fetchedAt": "2026-09-29T02:39:13.258Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

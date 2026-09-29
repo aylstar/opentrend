@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+  "summary": "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
+  "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+  "publishedAt": "2026-09-28T21:08:05.000Z",
+  "id": "cnbc-fc05b239",
+  "slug": "cnbc-fc05b239",
+  "content": "The New York City Council issued a subpoena on Monday to Elon Musk , requiring that he or another representative of SpaceXAI testify in an investigation concerning artificial intelligence safety risks.\n\nThe city's \"investigation will assess whether fast-emerging risks to public safety, cybersecurity, economic stability, privacy, consumers and businesses warrant immediate legislative action to protect New Yorkers,\" according to correspondence signed by council Speaker Julie Menin and an attorney for the council, Nwamaka Ejebe.\n\nSpaceX , Musk's reusable rocket company, merged with his AI venture, xAI, in February this year, creating a conglomerate that now owns X and chatbot Grok . The combined company went public in June and is now valued at roughly $2 trillion. Last month, SpaceX completed its $60 billion acquisition of AI coding startup Cursor.\n\nLawsuits are piling up against SpaceXAI after Grok enabled mass production of deepfake porn based on images of real people who did not consent. The city of Baltimore has accused the company of violating consumer protection laws and engaging in deceptive trade practices by marketing its Grok image generation and editing tool as generally safe.\n\nSpaceXAI is also facing a proposed class-action lawsuit filed by teenagers after Grok generated images portraying them in sexualized and debasing scenarios.\n\nIn a press release on Monday, the New York City Council said Musk's testimony would \"occur at a rare Council Committee of the Whole hearing,\" on Oct. 5, with all 51 members present.\n\n\"The hearing comes after weeks of serious warnings from whistleblowers and AI executives, and reports that rogue AI agents have already inflicted damage to government databases,\" the release said.\n\nAnthropic, OpenAI, Google and Meta are among the AI companies that have already agreed to send representatives to testify, the council said in an e-mail to CNBC on Monday.\n\n— CNBC's Lora Kolodny contributed to this report.\n\nWATCH: Reps. Liccardo and Kiley on U.S.-China AI safety proposal",
+  "fetchedAt": "2026-09-29T02:37:38.827Z",
+  "score": 88,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 27,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "埃隆·马斯克 和 SpaceXAI 在 AI 安全调查中被纽约市传唤",
+  "chineseSummary": "纽约市议会向马斯克发出传票，要求他或 SpaceXAI 的另一名代表在有关人工智能安全的调查中作证。",
+  "chineseContent": "纽约市议会周一向埃隆·马斯克发出传票，要求他或 SpaceXAI 的另一名代表在有关人工智能安全风险的调查中作证。\n\n根据市议会发言人 Julie Menin 和市议会律师 Nwamaka Ejebe 签署的信件，该市的“调查将评估公共安全、网络安全、经济稳定、隐私、消费者和企业快速出现的风险是否需要立即采取立法行动来保护纽约人”。\n\n今年 2 月，马斯克的可重复使用火箭公司 SpaceX 与他的人工智能企业 xAI 合并，创建了一家企业集团，目前拥有 X 和聊天机器人 Grok。合并后的公司于 6 月上市，目前估值约为 2 万亿美元。上个月，SpaceX 完成了对人工智能编码初创公司 Cursor 的 600 亿美元收购。\n\n在 Grok 允许根据不同意的真人图像大规模生产 Deepfake 色情内容后，针对 SpaceXAI 的诉讼层出不穷。巴尔的摩市指控该公司违反消费者保护法，并通过宣传其 Grok 图像生成和编辑工具总体安全来从事欺骗性贸易行为。\n\nSpaceXAI 还面临着青少年提出的集体诉讼，因为 Grok 生成了描绘青少年色情和贬低场景的图像。\n\n纽约市议会在周一的一份新闻稿中表示，马斯克的证词将“在 10 月 5 日举行的罕见的议会全体委员会听证会上进行”，届时所有 51 名成员都会出席。\n\n新闻稿称：“在听证会召开之前，举报人和人工智能高管已经发出了数周的严重警告，并且有报道称，流氓人工智能特工已经对政府数据库造成了损害。”\n\n该委员会在周一发给 CNBC 的电子邮件中表示，Anthropic、OpenAI、谷歌和 Meta 等人工智能公司已经同意派代表出庭作证。\n\n— CNBC 的 Lora Kolodny 对本报告作出了贡献。\n\n观看：众议员 Liccardo 和 Kiley 讨论中美人工智能安全提案",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
