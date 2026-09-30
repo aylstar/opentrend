@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI launches Dots, its Muse competitor",
+  "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+  "publishedAt": "2026-09-29T17:15:00.000Z",
+  "id": "the-verge-ba512344",
+  "slug": "the-verge-ba512344",
+  "content": "OpenAI is responding to Meta’s buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can “do nearly anything” across connected apps in the background while learning your preferences over time. The company’s capable GPT-6 Astra model powers Dots, which use their own cloud computer to access a web browser and more than 4,000 supported apps. You can interact with a Dot through a text-message-like interface that’s similar to the one offered by Muse, as well as hop on a voice call with it from ChatGPT on the web, desktop, or mobile. Dots can also connect to Microsoft Teams and Slack, where they will carry over the context from your sessions on other apps and devices. It will soon be able to talk to you over text message as well. [Video: OpenAI Dots] For now, you can only create one Dot, though OpenAI plans to allow users to deploy multiple agents at once. Once you give your Dot a task, it will message you with updates and questions while it works. As an example, OpenAI says a developer working on an app could ask their Dot to use customer feedback to build and test updates, while presenting them with a video showing its changes. Meanwhile, a content creator could have their Dot review an interview transcript, find moments to clip, create show notes, and write social posts.&nbsp; You can follow along with your Dot’s progress by accessing its cloud computer. Dots also learn while they work, allowing them to personalize their output and come up with other tasks to complete “before you even think to ask,” according to OpenAI. You and your colleagues can also work with your Dot in ChatGPT Space, a new collaborative workspace in the app. [Image: A developer’s Dot can work on app updates in the background. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Example-3.png?quality=90&strip=all] The launch of Dots comes just weeks after Meta rolled out Muse, a customizable AI assistant capable of browsing the web, making purchases, generating documents, tracking goals, and more. Even as it soars in popularity, concerns are growing over its safety, with one user saying it handed out their address to a buyer on Facebook Marketplace without their knowledge. OpenAI says Dots come with “built-in rules for when to act independently,” but you can set custom ones that block certain actions or dictate when it should ask for permission. Dots come with an “auto-review” feature as well, which OpenAI says they’ll use to verify whether an action complies with custom rules and safety requirements. This also allows Dots to determine which tasks to hand off to users, like changing a password. [Image: Dots can help creators draft social posts and decide which parts of a video to clip. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Example-4-1.png?quality=90&strip=all] Starting today, OpenAI is rolling out Dots to ChatGPT Pro, Business Premium, and Enterprise users. OpenAI is also testing a feature that lets companies create “specialist” Dots to handle specific roles inside organizations. OpenAI notes that conversations with your Dot won’t count toward ChatGPT usage limits. “In the future, you’ll be able to add more dots, and scale the output of each dot by either increasing its speed or the total amount of work it can take on per month,” OpenAI says.",
+  "fetchedAt": "2026-09-30T02:13:39.900Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 推出 Muse 竞争对手 Dots",
+  "chineseSummary": "OpenAI 正在用自己的代理助手 Dots 来回应 Meta 的热门 Muse AI。在周二的 DevDay 主题演讲中，OpenAI 宣布 Dots 将作为永远在线的人工智能助手，可以在后台跨连接的应用程序“做几乎任何事情”，同时随着时间的推移了解您的偏好。该公司功能强大的 GPT-6 Astra 模型具有 [...]",
+  "chineseContent": "OpenAI 正在用自己的代理助手 Dots 来回应 Meta 的热门 Muse AI。在周二的 DevDay 主题演讲中，OpenAI 宣布 Dots 将作为永远在线的人工智能助手，可以在后台跨连接的应用程序“做几乎任何事情”，同时随着时间的推移了解您的偏好。该公司功能强大的 GPT-6 Astra 模型为 Dots 提供支持，Dots 使用自己的云计算机来访问网络浏览器和超过 4,000 个受支持的应用程序。您可以通过类似于 Muse 提供的类似短信的界面与 Dot 进行交互，也可以通过网络、桌面或移动设备上的 ChatGPT 与 Dot 进行语音通话。 Dots 还可以连接到 Microsoft Teams 和 Slack，它们将在其他应用程序和设备上继承您的会话中的上下文。很快它也将能够通过短信与您交谈。 [视频：OpenAI Dots] 目前，您只能创建一个 Dot，不过 OpenAI 计划允许用户同时部署多个代理。一旦你给你的 Dot 分配了任务，它就会在工作时向你发送更新和问题的消息。举个例子，OpenAI 表示，开发应用程序的开发人员可以要求他们的 Dot 使用客户反馈来构建和测试更新，同时向他们展示显示其更改的视频。与此同时，内容创建者可以让他们的 Dot 查看采访记录、查找剪辑片段、创建节目笔记以及撰写社交帖子。  您可以通过访问其云计算机来跟踪 Dot 的进度。 OpenAI 表示，Dots 还会在工作时学习，让他们能够个性化自己的输出，并在“你甚至想问之前”就想出其他任务来完成。您和您的同事还可以在 ChatGPT Space（应用程序中的新协作工作区）中使用 Dot。 [图片：开发人员的 Dot 可以工作",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

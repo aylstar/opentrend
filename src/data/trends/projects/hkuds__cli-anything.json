@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/HKUDS/CLI-Anything",
   "docsUrl": "https://clianything.cc/",
-  "stars": 50902,
-  "forks": 4647,
-  "openIssues": 113,
+  "stars": 51020,
+  "forks": 4656,
+  "openIssues": 117,
   "license": "Apache-2.0",
   "pushedAt": "2026-09-22T02:01:29Z",
-  "updatedAt": "2026-09-29T02:31:13Z",
+  "updatedAt": "2026-09-30T02:05:46Z",
   "createdAt": "2026-03-08T13:52:57Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.5,
   "readmeExcerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1>\n\n<div align=\"center\">\n<a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending\"><img alt=\"GitHub Trending Repository of the Day\" src=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending\" height=\"55\"></picture></a>&#32;<a href=\"https://trendshift.io/repositories/22991\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/22991\" alt=\"HKUDS/CLI-Anything | Trendshift\" height=\"55\"></a>&#32;<a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=rank&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=rank\"><img alt=\"Star History Rank\" src=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=rank\" height=\"55\"></picture></a>\n</div>\n\n<p align=\"center\">\n  <strong>Today's Software Serves Humans👨‍💻. Tomorrow's Users will be Agents🤖.<br>\nCLI-Anything: Bridging the Gap Between AI Agents and the World's Software</strong><br>\n</p>\n\n**🌐 [CLI-Hub](https://hkuds.github.io/CLI-Anything/)**: `pip install cli-anything-hub` then `cli-hub install <name>` — browse, install, and manage all community-built CLIs. Want to add your own? [Open a PR](https://github.com/HKUDS/CLI-Anything/blob/main/CONTRIBUTING.md) — the hub updates instantly.\n\n**🎬 [See Demos](#-real-world-demos)**: Watch AI agents use generated CLIs plus preview, live preview, and trajectory loops to produce real artifacts — CAD builds, 3D scenes, diagrams, gameplay, subtitles, and more.\n\n**🙋 [Become a Contributor, or Request a CLI]**: [Join us](https://github.com/HKUDS/CLI-Anything/issues/new?template=contributor-signup.yml)! Sign up to build a new CLI harness — once reviewed and merged, you'll gain access as one of our community contributors! Wish CLI-Anything supported a specific software or service? Submit a [wishlist request](https://github.com/HKUDS/CLI-Anything/issues/new?template=cli-wishlist.yml)!\n\n<p align=\"center\">\n  <a href=\"#-quick-start\"><img src=\"https://img.shields.io/badge/Quick_Start-5_min-blue?style=for-the-badge\" alt=\"Quick Start\"></a>\n  <a href=\"https://hkuds.github.io/CLI-Anything/\"><img src=\"https://img.shields.io/badge/CLI_Hub-Browse_%26_Install-ff69b4?style=for-the-badge\" alt=\"CLI Hub\"></a>\n  <a href=\"#-demonstrations\"><img src=\"https://img.shields.io/badge/Demos-18_Apps-green?style=for-the-badge\" alt=\"Demos\"></a>\n  <a href=\"#-test-results\"><img src=\"https://img.shields.io/b",
-  "generatedAt": "2026-09-29T02:37:24.222Z",
+  "generatedAt": "2026-09-30T02:13:22.729Z",
   "analysis": {
     "oneLine": "CLI-Anything 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "CLI-Anything 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，CLI-Anything 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 50,902，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，CLI-Anything 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 51,020，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

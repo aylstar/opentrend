@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: A working 3D model of an Enigma machine",
+  "summary": "34 points · 3 comments",
+  "content": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work. I used Astra to build out the inner components through a combination of reference images, writing out hundreds of extremely detailed prompts, and building my own inspection tools to ensure that every part is sized and positioned in a historically accurate way. It's still a work in progress, but would love any feedback on the experience so far! 1. https://www.youtube.com/watch?v=JsBZOcqZerk 2. https://www.youtube.com/watch?v=ybkkiGtJmkM",
+  "url": "https://enigma.design",
+  "publishedAt": "2026-09-29T17:15:56.000Z",
+  "points": 34,
+  "id": "hacker-news-ec25499a",
+  "slug": "hacker-news-ec25499a",
+  "fetchedAt": "2026-09-30T02:13:39.898Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "显示 HN：恩尼格玛密码机的工作 3D 模型",
+  "chineseSummary": "34 分 · 3 条评论",
+  "chineseContent": "我在 Enigma 机器上观看了精彩的 Veritasium 视频 [1]，并观看了 Jared Owen 的完整动画 [2]，但对 Enigma 机器的内部机制如何工作仍然有点困惑。我使用 Astra 通过参考图像的组合来构建内部组件，写出数百个极其详细的提示，并构建我自己的检查工具，以确保每个零件的尺寸和位置都以历史上准确的方式进行。该工作仍在进行中，但希望收到有关迄今为止体验的任何反馈！ 1. https://www.youtube.com/watch?v=JsBZOcqZerk 2. https://www.youtube.com/watch?v=ybkkiGtJmkM",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

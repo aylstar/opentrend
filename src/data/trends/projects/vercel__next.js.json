@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/vercel/next.js",
   "docsUrl": "https://nextjs.org",
-  "stars": 142860,
-  "forks": 33389,
-  "openIssues": 3531,
+  "stars": 142903,
+  "forks": 33526,
+  "openIssues": 3527,
   "license": "MIT",
-  "pushedAt": "2026-09-29T02:22:21Z",
-  "updatedAt": "2026-09-29T02:18:10Z",
+  "pushedAt": "2026-09-30T01:43:52Z",
+  "updatedAt": "2026-09-30T02:12:33Z",
   "createdAt": "2016-10-05T23:32:51Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2,
   "readmeExcerpt": "<div align=\"center\">\n  <a href=\"https://nextjs.org\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\">\n      <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\">\n    </picture>\n  </a>\n  <h1>Next.js</h1>\n\n<a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000\"></a>\n<a href=\"https://www.npmjs.com/package/next\"><img alt=\"NPM version\" src=\"https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000\"></a>\n<a href=\"https://github.com/vercel/next.js/blob/canary/license.md\"><img alt=\"License\" src=\"https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000\"></a>\n<a href=\"https://github.com/vercel/next.js/discussions\"><img alt=\"Join the community on GitHub\" src=\"https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20\"></a>\n\n</div>\n\n## Getting Started\n\nUsed by some of the world's largest companies, Next.js enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds.\n\n- Visit our [Learn Next.js](https://nextjs.org/learn) course to get started with Next.js.\n- Visit the [Next.js Showcase](https://nextjs.org/showcase) to see more sites built with Next.js.\n\n## Documentation\n\nVisit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full documentation.\n\n## Community\n\nThe Next.js community can be found on [GitHub Discussions](https://github.com/vercel/next.js/discussions) where you can ask questions, voice ideas, and share your projects with other people.\n\nTo chat with other community members, you can join the Next.js [Discord](https://nextjs.org/discord) server.\n\nDo note that our [Code of Conduct](https://github.com/vercel/next.js/blob/canary/CODE_OF_CONDUCT.md) applies to all Next.js community channels. Users are **highly encouraged** to read and adhere to it to avoid repercussions.\n\n## Contributing\n\nContributions to Next.js are welcome and highly appreciated. However, before you jump right into it, we would like you to review our [Contribution Guidelines](/contributing.md) to make sure you have a smooth experience contributing to Next.js.\n\n### Good First Issues:\n\nWe have a list of **[good first issues](https://github.com/vercel/next.js/labels/good%20first%20issue)** that contain bugs that have a relatively limited scope. This is a great place for newcomers and beginners alike to get started, gain experience, and get familiar with our contribution process.\n\n---\n## Security\n\nIf you believe you have found a security vulnerability in Next.js, we encourage you to **_responsibly disclose this and NOT open a public issue_**.\n\nTo participate in our Open Source ",
-  "generatedAt": "2026-09-29T02:37:23.499Z",
+  "generatedAt": "2026-09-30T02:13:22.310Z",
   "analysis": {
     "oneLine": "next.js 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "next.js 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，next.js 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 142,860，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，next.js 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 142,903，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cdc46c327c",
+  "slug": "weibo-金鹰奖获奖名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "金鹰奖获奖名单",
+  "summary": "微博热榜第 9 位：金鹰奖获奖名单，当前热度为 45万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%B0%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23",
+  "hotValue": "45万热度",
+  "author": "",
+  "publishedAt": "2026-09-30T02:07:13.015Z",
+  "fetchedAt": "2026-09-30T02:14:40.429Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-dbec3baf95",
+  "slug": "weibo-gpt6-1sol",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "GPT6.1Sol",
+  "summary": "微博热榜第 50 位：GPT6.1Sol，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23GPT6.1Sol%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-09-30T02:07:13.015Z",
+  "fetchedAt": "2026-09-30T02:14:40.430Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

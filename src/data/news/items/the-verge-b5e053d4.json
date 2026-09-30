@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Suspected ShinyHunters leader arrested in the Netherlands",
+  "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect on September 15th - just days before the hacking group claimed to […]",
+  "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+  "publishedAt": "2026-09-29T21:50:31.000Z",
+  "id": "the-verge-b5e053d4",
+  "slug": "the-verge-b5e053d4",
+  "content": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect on September 15th — just days before the hacking group claimed to have breached the FBI’s website and stolen employee data, as reported earlier by Reuters. Neither Dutch authorities nor the FBI name the suspect, but Krebs on Security and Reuters report that police arrested Pepijn van der Stap, a Dutch man convicted for data theft and extortion in 2023. Van der Stap joined the Dutch cybersecurity company Neo Security when he was released from prison last year, according to Krebs on Security. ShinyHunters tells Reuters that van der Stap has “no association” with the group. Brett Leatherman, assistant director of the FBI’s Cyber Division, calls the suspect one of the group’s alleged leaders, while issuing a warning to remaining members. “The longer you stay in this, the more we learn about you. You know how to find us, and we know how to find you,” Leatherman says in a video published on Tuesday. “I suggest you reach out first while the choice is still yours.” The 24-year-old is also suspected of “attempted incitement to commit two murders,” according to Dutch police. “As we speak FBI teams are actively working with partners to obtain and execute more leads in the ongoing investigation based on this arrest,” FBI Director Kash Patel writes in a post on X.",
+  "fetchedAt": "2026-09-30T02:13:39.900Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "疑似 ShinyHunters 领导人在荷兰被捕",
+  "chineseSummary": "荷兰警方表示，他们逮捕了一名与 ShinyHunters 有关的 24 岁阿姆斯特丹男子，该黑客组织声称对 Ticketmaster、Rockstar Games 以及最近对 FBI 的高调攻击负责。荷兰当局在一份新闻稿中表示，他们于 9 月 15 日逮捕了嫌疑人，就在该黑客组织声称 [...]",
+  "chineseContent": "荷兰警方表示，他们逮捕了一名与 ShinyHunters 有关的 24 岁阿姆斯特丹男子，该黑客组织声称对 Ticketmaster、Rockstar Games 以及最近对 FBI 的高调攻击负责。荷兰当局在一份新闻稿中表示，他们于 9 月 15 日逮捕了嫌疑人，正如路透社早些时候报道的那样，就在该黑客组织声称侵入 FBI 网站并窃取员工数据的几天前。荷兰当局和联邦调查局都没有透露嫌疑人的名字，但 Krebs on Security 和路透社报道称，警方逮捕了荷兰男子 Pepijn van der Stap，他于 2023 年因数据盗窃和敲诈勒索而被定罪。 据 Krebs on Security 报道，Van der Stap 去年出狱后加入了荷兰网络安全公司 Neo Security。 ShinyHunters 告诉路透社，范德斯塔普与该组织“没有任何关系”。联邦调查局网络部门助理主任布雷特·莱瑟曼 (Brett Leatherman) 称嫌疑人是该组织的所谓领导人之一，同时向其余成员发出警告。 “你呆在这个行业的时间越长，我们对你的了解就越多。你知道如何找到我们，我们也知道如何找到你，”莱瑟曼在周二发布的视频中说道。 “我建议你在选择权还在你手中的时候先联系一下。”荷兰警方称，这名 24 岁的男子还涉嫌“企图煽动实施两起谋杀案”。 FBI 局长卡什·帕特尔 (Kash Patel) 在 X 上的一篇帖子中写道：“正如我们所说，FBI 团队正在与合作伙伴积极合作，在基于此次逮捕的持续调查中获取并执行更多线索。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

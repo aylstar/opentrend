@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Elon Musk’s AI-powered Grokipedia is updating again",
+  "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a […]",
+  "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+  "publishedAt": "2026-09-29T21:49:09.000Z",
+  "id": "the-verge-d5c4262",
+  "slug": "the-verge-d5c4262",
+  "content": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn’t reviewed edits since April, but the platform’s live updates site is now showing various recent changes to pages — though as I write this, many are just a note that says “recheck all references and sources.” The site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was “Fact-checked by Grok” two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the last hour. However, the page for Honolulu, which I clicked on from Obama’s page, was last fact-checked 7 months ago, so it appears that not every page has a recent scan. While writing this article, I suggested an update to the Gears of War: E-Day page to note the game’s October 6th release date, and Grokipedia accepted the suggestion and now lists the date. I also requested an article about Meta’s Muse chatbot, and that request is “In Review.” [Image: Here’s Grok’s feedback to my request about Gears of War: E-Day. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-29-at-1.29.23-PM.png?quality=90&strip=all] SpaceXAI didn’t immediately reply to a request for comment, and Elon Musk still hasn’t posted on X about Grokipedia since February. (Musk claimed about a year ago that Grokipedia would be “a massive improvement over Wikipedia.”) However, Benji Taylor, the head of design at X and SpaceXAI, posted last week about Grokipedia, saying that “We haven’t forgotten about Grokipedia” and that “v0.2 will be better than ever” (even though v0.2 technically launched in November).",
+  "fetchedAt": "2026-09-30T02:13:39.900Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "埃隆·马斯克 AI 驱动的 Grokipedia 再次更新",
+  "chineseSummary": "Grokipedia 是 SpaceXAI 推出的人工智能在线百科全书，在长达数月的暂停后，似乎再次更新文章。 8 月份，Lawfare 报道称，Grokipedia 上的文章自 4 月份以来就没有审核过编辑内容，但该平台的实时更新网站现在正在显示最近对页面的各种更改 - 尽管在我撰写本文时，许多只是 [...]",
+  "chineseContent": "Grokipedia 是 SpaceXAI 推出的人工智能在线百科全书，在长达数月的暂停后，似乎再次更新文章。 8 月份，Lawfare 报道称，Grokipedia 上的文章自 4 月份以来就没有审核过编辑内容，但该平台的实时更新网站现在正在显示最近对页面的各种更改 - 尽管在我撰写本文时，许多只是一条注释，上面写着“重新检查所有参考文献和来源”。该网站最近似乎再次活跃起来。巴拉克·奥巴马 (Barack Obama) 总统的页面有一条注释，称其已于两天前“由 Grok 进行了事实核查”，而埃隆·马斯克 (Elon Musk) 的页面在我撰写本文时已在最后一小时内进行了事实核查。然而，我从奥巴马的页面点击的檀香山页面最后一次事实检查是在 7 个月前，因此看来并不是每个页面都有最近的扫描。在撰写本文时，我建议更新 Gears of War: E-Day 页面，以注明游戏的 10 月 6 日发布日期，Grokipedia 接受了该建议，现在列出了该日期。我还请求一篇有关 Meta 的 Muse 聊天机器人的文章，该请求是“审查中”。 [图片：这是 Grok 对我有关《战争机器：E-Day》请求的反馈。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-29-at-1.29.23-PM.png?quality=90&strip=all] SpaceXAI 没有立即回复置评请求，而埃隆·马斯克自 2 月份以来仍未在 X 上发布有关 Grokipedia 的信息。 （马斯克大约一年前声称，Grokipedia 将是“对维基百科的巨大改进。”）然而，X 和 SpaceXAI 的设计主管 Benji Taylor 上周发布了有关 Grokipedia 的帖子，表示“我们没有忘记 Grokipedia”，并且“v0.2 将比以往任何时候都更好”（尽管 v0.2 在技术上于 11 月推出）。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

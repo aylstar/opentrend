@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sam Altman says OpenAI won’t go public until its models are safe",
+  "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+  "publishedAt": "2026-09-30T00:19:13.000Z",
+  "id": "the-verge-de9bd6d0",
+  "slug": "the-verge-de9bd6d0",
+  "content": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won’t happen until the company can make better promises about model safety, with no firm timeline in sight. “We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims,” Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be “bad for the world.”&nbsp; Altman’s comments come after months of controversy about whether or not OpenAI and its rivals can control their own creations. In July, news broke that an unreleased OpenAI model had hacked into a rival AI lab, Hugging Face, without OpenAI’s knowledge. More cybersecurity incidents soon came to light at OpenAI, Anthropic, Meta, and Google. A high-profile resignation letter from an Anthropic employee sparked a public discussion about how risky these systems are for society at large. OpenAI, alongside its rivals, called for regulation and “pacing the frontier.” And earlier this month, Altman said in an interview that the company would likely not go public this year.&nbsp; At DevDay, Altman was circumspect about what “pacing the frontier” actually meant, refraining from calling it an outright slowdown. “Pacing to us means that we push safety and alignment ahead of capabilities,” Altman said. But he expressed concerns that going public could create the potential to “disappoint Wall Street supporters in the names of safety or whatever else,” and that doing it during a “shift to very capable models and a new kind of safety requirement seems ill-advised.” He said OpenAI would prioritize safety to “confidently scale to the next stage of AI without people debating what percent chance we’re going to do all these bad things,” rather than “barrel, all guns blazing, towards an IPO.”&nbsp; “I don’t want to put additional pressure right now as we’re going through this significant change and what it’s going to take to make the safety claims that we all should want us to make for these extremely capable models,” Altman said.&nbsp; OpenAI rival Anthropic officially filed to go public in June, with its IPO likely to happen in November, reportedly after the US midterm elections. Elon Musk’s SpaceX, which owns his AI company xAI, went public in June and became the biggest IPO in history.&nbsp; “I think it’s great when companies are public,” Altman said, adding, “I think it’s also kind of bad for the world if OpenAI waits too long to go public.”",
+  "fetchedAt": "2026-09-30T02:13:39.900Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Sam Altman 表示 OpenAI 在其模型安全之前不会上市",
+  "chineseSummary": "几个月来，人们一直在想 OpenAI 何时上市。首席执行官萨姆·奥尔特曼表示，除非公司能够对模型安全做出更好的承诺，否则这种情况不会发生，但目前还没有确定的时间表。 “我们打算继续人工智能的进步……但随着模型的能力不断进步，我们看到 [……]",
+  "chineseContent": "几个月来，人们一直在想 OpenAI 何时上市。首席执行官萨姆·奥尔特曼表示，除非公司能够对模型安全做出更好的承诺，否则这种情况不会发生，但目前还没有确定的时间表。 “我们打算继续人工智能的进步……但由于这些模型的能力已经大幅提高，而且我们看到前面还有更多这样的事情，我们必须能够做出自信的安全声明，”奥尔特曼周二在 DevDay 主题演讲后接受记者采访时表示。与此同时，他表示，等待 IPO 太久将“对世界不利”。  Altman 发表此番言论之前，围绕 OpenAI 及其竞争对手是否能够控制自己的创造物展开了数月的争论。 7 月，有消息称，一个未发布的 OpenAI 模型在 OpenAI 不知情的情况下侵入了竞争对手的 AI 实验室 Hugging Face。更多的网络安全事件很快在 OpenAI、Anthropic、Meta 和 Google 上曝光。一位 Anthropic 员工的一封高调辞职信引发了公众讨论这些系统对整个社会来说有多大风险。 OpenAI 与其竞争对手一起呼吁监管并“开拓前沿”。本月早些时候，奥特曼在接受采访时表示，该公司今年可能不会上市。  在 DevDay 上，Altman 对“前沿步伐”的实际含义持谨慎态度，没有称其为彻底的放缓。 “对我们来说，节奏意味着我们将安全和一致性置于能力之上，”奥特曼说。但他表示担心，上市可能会“以安全或其他名义让华尔街支持者失望”，而且在“转向非常有能力的模型和一种新型安全要求的情况下这样做似乎是不明智的”。他表示 OpenAI 将优先考虑安全性，以便“自信地扩展到下一阶段”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
