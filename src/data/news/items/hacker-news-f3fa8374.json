@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+  "summary": "26 points · 12 comments",
+  "content": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is wrong, so just saying \"there's a mistake\" every time doesn't work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa's harness is stable and has many evaluation steps to catch inconsistencies and prompt injections. You can play one on the homepage without signing up. The part that surprised me: it's hard to get an LLM to be wrong on purpose. Half the time it gives you the right answer and calls it wrong, or a \"mistake\" that's actually correct. So every case gets checked before a kid sees it. Where it can, a plain arithmetic check redoes the math exactly. A second model also solves the problem without seeing Errol's work. If anything disagrees, the case is thrown away. The weak spot is that the second model can make the same mistake as the first. The arithmetic check is there for that, but it only works on English cases so far. German and Greek write decimals with a comma and I haven't got the parsing right yet. What I'd really like to know: does finding someone else's mistake teach anything that solving the problem yourself doesn't? I'm not sure, and I'd like to hear from people who teach.",
+  "url": "https://lathoa.ai/en",
+  "publishedAt": "2026-09-30T14:38:57.000Z",
+  "points": 26,
+  "id": "hacker-news-f3fa8374",
+  "slug": "hacker-news-f3fa8374",
+  "fetchedAt": "2026-10-01T02:15:47.954Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 13,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Lathoa，一款针对儿童的数学应用，但 AI 故意出错",
+  "chineseSummary": "26 分 · 12 条评论",
+  "chineseContent": "我为 10 到 14 岁左右的孩子做了这个。一个叫 Errol 的机器人一步步解决数学问题，其中一个步骤是错误的。孩子必须找到它并说出它出了什么问题。有时并没有什么问题，所以每次都说“有一个错误”是行不通的。如果用户发现错误，需要输入解释以获得更多XP；速度对于获得更多分数也很重要。与法学硕士没有直接互动或聊天。 Lathoa 的安全带很稳定，并且有许多评估步骤来发现不一致并及时注入。您无需注册即可在主页上玩一玩。让我惊讶的是：很难让法学硕士故意犯错。有一半的时间它会给你正确的答案，但却称之为错误，或者实际上是正确的“错误”。因此，每个案例在孩子看到之前都会经过检查。在可能的情况下，简单的算术检查可以准确地重做数学。第二个模型也可以在没有看到埃罗尔的工作的情况下解决这个问题。如果有任何不同意，案件就会被丢弃。弱点是第二个模型可能会犯与第一个模型相同的错误。算术检查就是为此而存在的，但到目前为止它只适用于英语情况。德语和希腊语用逗号书写小数，但我还没有正确解析。我真正想知道的是：发现别人的错误是否能教会你自己解决问题所不能学到的东西？我不确定，我想听听老师们的意见。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3ff10d9120",
+  "slug": "weibo-飞天奖提名名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "飞天奖提名名单",
+  "summary": "微博热榜第 49 位：飞天奖提名名单，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-10-01T02:09:12.294Z",
+  "fetchedAt": "2026-10-01T02:16:45.138Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

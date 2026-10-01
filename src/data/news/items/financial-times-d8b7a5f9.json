@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US competition watchdog expands investigation of Anthropic and OpenAI",
+  "summary": "The Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies",
+  "url": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1",
+  "publishedAt": "2026-09-30T21:39:02.000Z",
+  "id": "financial-times-d8b7a5f9",
+  "slug": "financial-times-d8b7a5f9",
+  "content": "The Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies",
+  "fetchedAt": "2026-10-01T02:15:47.964Z",
+  "score": 98,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "美国竞争监管机构扩大对 Anthropic 和 OpenAI 的调查",
+  "chineseSummary": "联邦贸易委员会将要求领先人工智能公司高管提供信息并寻求证词",
+  "chineseContent": "联邦贸易委员会将要求领先人工智能公司高管提供信息并寻求证词",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

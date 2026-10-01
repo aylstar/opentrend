@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’",
+  "summary": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon plans to upload to its AI […]",
+  "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+  "publishedAt": "2026-09-30T17:21:29.000Z",
+  "id": "the-verge-64e88293",
+  "slug": "the-verge-64e88293",
+  "content": "Amazon deliveries could soon come with a new catch: the delivery driver’s smart glasses will be snapping photos of anything they see while they’re in use, including people and private property. Bloomberg reports that the glasses could take “several thousand captures in a single driver’s typical shift,” which Amazon plans to upload to its AI Wellspring platform. When asked if customers will be able to opt-out of this, Amazon’s Viraj Chatterjee told Bloomberg, “We haven’t thought about that.”&nbsp; Chatterjee claimed Amazon’s only using the data from the glasses to “enhance the delivery process,” adding, “The intent has never been stuff like surveillance.” The impact of surveillance tech won’t be new to Amazon’s delivery drivers, who have had AI cameras watching in their vehicles and complained about it failing to register secured seat belts, or forcing them to pull over to take a sip of coffee, or having footage from the cameras leaked online.&nbsp; Chatterjee also told Bloomberg that Amazon’s systems will blur any people and license plates in the images before they’re passed along for human review. Bloomberg says Amazon confirmed that “images from the smart glasses could be obtained with a warrant,” but wouldn’t specify how long it plans to store the images for. There reportedly won’t be a way for customers to see any images Amazon has of them or their property, or ask Amazon to delete those photos.&nbsp; The photos from the glasses will reportedly be of a similar quality to the quick pictures delivery drivers snap when they drop off a package. Amazon says it’s planning to put 20,000 more pairs of the glasses in the field by the end of 2027, and drivers wearing them in a pilot program have already made over 275,000 deliveries.",
+  "fetchedAt": "2026-10-01T02:15:47.957Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "据报道，亚马逊的送货司机智能眼镜将“几乎不断”拍照",
+  "chineseSummary": "亚马逊送货服务可能很快就会带来一个新功能：送货司机的智能眼镜将拍摄他们在使用时看到的任何东西的照片，包括人和私人财产。彭博社报道称，这款眼镜可以“在一个司机的典型轮班中拍摄数千张照片”，亚马逊计划将其上传到其人工智能 […]",
+  "chineseContent": "亚马逊送货服务可能很快就会带来一个新功能：送货司机的智能眼镜将拍摄他们在使用时看到的任何东西的照片，包括人和私人财产。彭博社报道称，这款眼镜可以“在一个司机的典型轮班中拍摄数千张照片”，亚马逊计划将其上传到其 AI Wellspring 平台。当被问及客户是否可以选择退出时，亚马逊的 Viraj Chatterjee 告诉彭博社，“我们还没有考虑过这一点。”  查特吉声称亚马逊只是使用眼镜中的数据来“增强交付过程”，并补充说，“其意图从来都不是监视之类的东西。”对于亚马逊的送货司机来说，监控技术的影响并不陌生，他们的车内装有人工智能摄像头，他们抱怨监控技术未能登记安全带，或者迫使他们靠边停车喝咖啡，或者摄像头的视频在网上泄露。  查特吉还告诉彭博社，亚马逊的系统将模糊图像中的任何人和车牌，然后再将其传递给人工审查。彭博社表示，亚马逊证实“可以通过搜查令获取智能眼镜的图像”，但没有具体说明计划将图像存储多长时间。据报道，顾客将无法看到亚马逊拥有的有关他们或其财产的任何图像，也无法要求亚马逊删除这些照片。  据报道，眼镜拍摄的照片质量与送货司机投递包裹时快速拍摄的照片质量相似。亚马逊表示，计划到 2027 年底前再投放 20,000 副这种眼镜，在试点项目中佩戴这种眼镜的司机已经完成了超过 275,000 次送货。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

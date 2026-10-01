@@ -1,0 +1,25 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Regulating AI 'not the right place to start' says Bailey",
+  "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+  "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-09-30T14:00:33.000Z",
+  "id": "bbc-ad5a12f",
+  "slug": "bbc-ad5a12f",
+  "content": "The Governor of the Bank of England has said regulating artificial intelligence (AI) \"is not the right place to start\" but instead called first for \"rigorous\" testing to find vulnerabilities and create safeguards to contain risk.\n\nWriting his first-ever article for Substack, Andrew Bailey said the risks around AI were \"real and increasingly significant\".\n\nHe said AI development should not be halted or prohibited - \"on the contrary, the benefits are immense\" - but added there must be a system for intervention and to establish boundaries in which AI operates.\n\nThe debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks.\n\nThe bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.\n\nOpenAI recently announced that it would not release its latest AI model due to safety concerns .\n\nThe idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: \"And, frankly, I want to keep it that way because whoever wins AI, wins.\"\n\nBut on Tuesday, after hosting a meeting with bosses from technology firms OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google, Trump said executives had signed a \"morally binding\" document that would serve as a \"form of protection\" from AI's potential risks.\n\nChinese AI tool told researchers how to make bioweapons\n\nOpenAI scraps rollout of new model over safety concerns\n\nUnder the agreement, the companies are responsible for ensuring the safety of their own technology.\n\nIn the UK, Bailey said \"important work\" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.\n\n\"But the pace of progress must accelerate,\" the bank governor said, though he added: \"We should proceed with a degree of humility.\"\n\nHe said, with testing, there will be failures and \"models will behave unexpectedly\".\n\nBut, he said: \"That is not evidence that testing has failed, rather it is evidence of why testing is necessary.\"\n\nBailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. \"But regulation is not, in my view, the right place to start.\"\n\nBailey specifically highlighted so-called frontier AI - highly-advanced, self-learning systems which, without putting in place an effective way to intervene, risk becoming \"a closed loop in which the model progressively governs itself\".",
+  "fetchedAt": "2026-10-01T02:15:47.949Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "贝利表示，监管 AI“不是正确的起点”",
+  "chineseSummary": "安德鲁·贝利表示，人工智能需要“严格”的测试和保障措施来控制风险。",
+  "chineseContent": "英国央行行长表示，监管人工智能（AI）“不是正确的起点”，但他呼吁首先进行“严格”测试，以发现漏洞并制定保障措施来遏制风险。\n\n安德鲁·贝利 (Andrew Bailey) 在为 Substack 撰写的第一篇文章中表示，人工智能的风险是“真实存在的，而且越来越严重”。\n\n他表示，人工智能的发展不应被停止或禁止——“相反，好处是巨大的”——但他补充说，必须有一个干预系统，并建立人工智能运行的边界。\n\n最近几周，关于人工智能快速发展的潜在风险及其对人类意味着什么的争论愈演愈烈。\n\nAnthropic 和 OpenAI 等领先人工智能公司的老板呼吁放慢技术的发展速度，并呼吁采取国际协调的方法来评估风险并落实保障措施。\n\nOpenAI 最近宣布，出于安全考虑，不会发布其最新的 AI 模型。\n\n然而，放缓的想法遭到了唐纳德·特朗普总统等人的拒绝，他表示美国在人工智能竞赛中领先于中国，并补充道：“坦率地说，我希望保持这种状态，因为谁赢得了人工智能，谁就获胜了。”\n\n但周二，在与 OpenAI、Anthropic、Nvidia、SpaceX、Meta 和谷歌等科技公司的老板举行会议后，特朗普表示，高管们已经签署了一份“具有道德约束力”的文件，该文件将作为人工智能潜在风险的“保护形式”。\n\n中国人工智能工具告诉研究人员如何制造生物武器\n\n出于安全考虑，OpenAI 放弃推出新模型\n\n根据协议，两家公司有责任确保各自技术的安全。\n\n贝利表示，在英国，测试人工智能的“重要工作”正在进行中——英国已经成立了人工智能安全研究所——他表示，这应该有助于形成一套标准的一部分。\n\n“但进展的步伐必须加快，”这位央行行长表示，不过他补充道：“我们应该以一定程度的谦逊态度行事。”\n\n他说，通过测试，将会出现失败，并且“模型的表现会出乎意料”。\n\n但是，他说：“这并不是测试失败的证据，而是测试为何必要的证据。”\n\n贝利表示，测试不应被视为未来监管的替代方案——随着时间的推移，可能会出现更正式的监管框架。 “但在我看来，监管并不是正确的起点。”\n\n贝利特别强调了所谓的前沿人工智能——高度先进的自学习系统，如果没有有效的干预方式，就有可能成为“模型逐步自我管理的闭环”。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

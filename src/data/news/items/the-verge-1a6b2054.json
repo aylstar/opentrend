@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+  "summary": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have […]",
+  "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+  "publishedAt": "2026-09-30T17:45:00.000Z",
+  "id": "the-verge-1a6b2054",
+  "slug": "the-verge-1a6b2054",
+  "content": "Reddit is further limiting who can use the “Old Reddit” experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the “next few months,” the company says that you’ll have to be logged in and have used Old Reddit within the last six months from when the change rolls out to be able to continue browsing the platform with the classic experience. Reddit says the six-month window covers “the vast majority of all Old Reddit users.” The announcement didn’t go into detail, but it’s clearly aimed at blocking not just new account creation for bots, but also any bots that might access unused or abandoned accounts. As part of the changes, Reddit will stop supporting RSS feeds on November 13th because RSS is “now a common surface for large-scale scraping and automated abuse,” and suggested replacements like Discord Relay for moderation help.&nbsp; Reddit: > If you use RSS for feeds outside of a community you moderate, there is no replacement. We know RSS has been a beloved part of the open web for a long time, and we’re grateful to everyone who used it to stay connected to Reddit. The company has been waging war against unsanctioned access to its data for some time, including blocking the Internet Archive’s Wayback Machine to prevent AI scraping, suing Anthropic over alleged unauthorized bot access, and striking deals with Google and OpenAI to use Reddit data for training. Reddit knows that Old Reddit is beloved by many users, and in May 2025, CEO Steve Huffman said the company would “keep it online as long as people are using it.” But this past August, Huffman said that Reddit had gotten to a point where “we need to make some changes” because the experience was being used by “everyone who spams, scrapes, or does anything bad on Reddit.” In its announcement today, Reddit said that the recent login requirement for Old Reddit “helped reduce scraping and automated abuse” but “still allowed any logged-in account to access Old Reddit, including accounts with no prior Old Reddit use.” Logged-in moderators, however, will still be able to use Old Reddit without a recent usage requirement. Reddit also shared updates for the previously announced transition moving apps and bots that use Reddit’s public data API to the company’s developer platform. Reddit will begin removing API access for users that haven’t registered their apps by January 12th, 2027, and all remaining public API access “will end in March 2027.”",
+  "fetchedAt": "2026-10-01T02:15:47.957Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Reddit 表示，由于 AI 机器人，它必须减少对“旧 Reddit”的访问",
+  "chineseSummary": "Reddit 进一步限制了谁可以使用“旧 Reddit”体​​验，作为其打击抓取和自动化流量的努力的一部分。 Reddit 最近开始强制用户登录才能使用旧 Reddit，但在“接下来的几个月”，该公司表示您必须登录并拥有 [...]",
+  "chineseContent": "Reddit 进一步限制了谁可以使用“旧 Reddit”体​​验，作为其对抗抓取和自动化流量的努力的一部分。 Reddit 最近开始强制用户登录才能使用 Old Reddit，但该公司表示，在“接下来的几个月”，您必须在更改推出后的过去六个月内登录并使用过 Old Reddit，才能继续以经典体验浏览该平台。 Reddit 表示，六个月的窗口覆盖了“绝大多数老 Reddit 用户”。该公告没有详细说明，但其显然不仅旨在阻止机器人创建新帐户，还阻止任何可能访问未使用或废弃帐户的机器人。作为变更的一部分，Reddit 将于 11 月 13 日停止支持 RSS 提要，因为 RSS “现在是大规模抓取和自动滥用的常见界面”，并建议使用 Discord Relay 等替代品来提供审核帮助。  Reddit：> 如果您在您管理的社区之外使用 RSS 提供提要，则没有替代品。我们知道 RSS 长期以来一直是开放网络深受喜爱的一部分，我们感谢所有使用它与 Reddit 保持联系的人。一段时间以来，该公司一直在打击未经批准的数据访问，包括阻止互联网档案馆的 Wayback Machine 以防止 AI 抓取、起诉 Anthropic 涉嫌未经授权的机器人访问，以及与 Google 和 OpenAI 达成协议，使用 Reddit 数据进行培训。 Reddit 知道 Old Reddit 受到许多用户的喜爱，2025 年 5 月，首席执行官史蒂夫·霍夫曼 (Steve Huffman) 表示，该公司将“只要人们在使用它，就保持它在线”。但去年 8 月，霍夫曼表示 Reddit 已经到了“我们需要做出一些改变”的地步，因为“每个人都在使用这种体验”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

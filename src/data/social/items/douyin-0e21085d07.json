@@ -1,0 +1,21 @@
+{
+  "id": "douyin-0e21085d07",
+  "slug": "douyin-国庆节快乐",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 2,
+  "title": "国庆节快乐",
+  "summary": "抖音热榜第 2 位：国庆节快乐，当前热度为 1,180万热度。",
+  "url": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90?type=general",
+  "hotValue": "1,180万热度",
+  "author": "",
+  "publishedAt": "2026-10-01T02:02:13.256Z",
+  "fetchedAt": "2026-10-01T02:16:45.150Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

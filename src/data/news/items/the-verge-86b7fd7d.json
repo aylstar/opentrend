@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+  "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much […]",
+  "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+  "publishedAt": "2026-10-01T00:23:45.000Z",
+  "id": "the-verge-86b7fd7d",
+  "slug": "the-verge-86b7fd7d",
+  "content": "Grokipedia, SpaceXAI’s AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a “newly refreshed Grokipedia.” Grokipedia’s old homepage was pretty much just a logo and a search bar, but the updated homepage includes a list of featured articles, a list of the most-read articles, and a tracker showing the “latest edits.” The new featured list showcases digital representations of books that you can spin around, and the most read section also uses the book metaphor with a horizontally-scrolling shelf of “book” spines. On the new live edits page, it’s easier to see more of the recent changes at once. [Image: The Internet Archive has a recent archive of the old homepage, which is more sparse. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Grokipedia-v-0-3-update-homepage-3.jpg?quality=90&strip=all] Article pages have a few new design tweaks, too, including a nicer-looking format for the tables at the top of articles with key facts and smaller spacing between lines of text. Otherwise, at least from what I can tell, articles themselves look largely the same. [Image: You can also check out the old article design on the Internet Archive. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Grokipedia-article-page.jpg?quality=90&strip=all] The site initially launched in v0.1 in late October 2025 with AI-cloned pages from Wikipedia, and a v0.2 update arrived a month later. But earlier this year, it appeared that Grokipedia stopped making updates altogether, with Lawfare publishing a report in August where it said that “As far as we can tell, no entry has changed in more than three months.” Given these recent updates, it appears there is some interest inside SpaceXAI toward Grokipedia once again, but the company didn’t immediately reply to a request for comment.",
+  "fetchedAt": "2026-10-01T02:15:47.957Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "埃隆·马斯克 的 Grokipedia 拥有“全新”设计",
+  "chineseSummary": "Grokipedia 是 SpaceXAI 的人工智能驱动的维基百科竞争对手，最近再次开始整合编辑功能，今天，它在 v0.3 更新中进行了一些设计调整，包括新徽标以及主页和实时编辑页面的刷新。 SpaceXAI 设计主管 Benji Taylor 称其为“新更新的 Grokipedia”。 Grokipedia 的旧主页几乎是 […]",
+  "chineseContent": "Grokipedia 是 SpaceXAI 的人工智能驱动的维基百科竞争对手，最近再次开始整合编辑功能，今天，它在 v0.3 更新中进行了一些设计调整，包括新徽标以及主页和实时编辑页面的刷新。 SpaceXAI 设计主管 Benji Taylor 称其为“新更新的 Grokipedia”。 Grokipedia 的旧主页几乎只是一个徽标和一个搜索栏，但更新后的主页包括特色文章列表、阅读次数最多的文章列表以及显示“最新编辑”的跟踪器。新的特色列表展示了您可以旋转的书籍的数字表示形式，阅读最多的部分也使用了书籍隐喻，带有水平滚动的“书”书脊架。在新的实时编辑页面上，可以更轻松地立即查看更多最近的更改。 [图片：互联网档案馆有旧主页的最新档案，内容更加稀疏。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Grokipedia-v-0-3-update-homepage-3.jpg?quality=90&strip=all] 文章页面也有一些新的设计调整，包括文章顶部的表格格式更美观，其中包含关键事实和更小的文本行间距。除此之外，至少从我看来，文章本身看起来基本上是一样的。 [图片：您还可以在互联网档案馆查看旧文章设计。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Grokipedia-article-page.jpg?quality=90&strip=all] 该网站最初于 2025 年 10 月下旬推出 v0.1，其中包含来自维基百科的 AI 克隆页面，一个月后发布了 v0.2 更新。但今年早些时候，Grokipedia 似乎完全停止了更新，Lawfare 在 8 月份发布了一份报告，其中表示“据我们所知，没有条目",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

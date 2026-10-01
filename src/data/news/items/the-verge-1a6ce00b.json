@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+  "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
+  "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+  "publishedAt": "2026-09-30T20:41:41.000Z",
+  "id": "the-verge-1a6ce00b",
+  "slug": "the-verge-1a6ce00b",
+  "content": "Google today revealed its next AI frontier model, which it’s calling Gemini 4 Argon. The new model delivers “frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,” according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a “set of trusted cyber defenders,” and Kavukcuoglu says that Google is “actively engaged in the U.S. government’s voluntary process for pre-release model access while we gradually expand access.” Kavukcuoglu says Gemini 4 Argon is already powering Google’s “internal workflows,” highlighting how the model has helped with tasks like large-scale codebase migrations. Google also shared a big chart showing many benchmarks where Gemini 4 fares better than competing models from OpenAI and Anthropic. (The AI community was buzzing earlier this week on X over what appeared to be leaked benchmarks for the new model.) Google will be strengthening “critical frontier safeguards” before a broader rollout, including defending against misuse and prompt injection attacks and monitoring for misalignment. [Media: https://twitter.com/sundarpichai/status/2105387952478277979?s=46] The launch of Gemini 4 Argon comes just a day after OpenAI’s splashy DevDay conference, where OpenAI launched its Dots AI agent and GPT-6.1 Sol AI model. (OpenAI also said this week that it wouldn’t be releasing a planned GPT-6.1 Astra model due to worries about safety.) It’s also arriving soon after Kavukcuoglu’s appointment as the new boss of DeepMind in August.",
+  "fetchedAt": "2026-10-01T02:15:47.957Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "财经"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌宣布推出 Gemini 4，并表示其功能非常强大，目前只有“值得信赖的网络防御者”才能拥有它",
+  "chineseSummary": "谷歌今天发布了其下一个人工智能前沿模型，称为 Gemini 4 Argon。首席人工智能架构师兼 Google DeepMind 高级副总裁 Koray Kavukcuoglu 表示，新模型“在现实世界软件工程、法律和金融等企业知识工作以及网络安全防御等复杂工作流程中提供了前沿性能”。但该公司限制访问[...]",
+  "chineseContent": "谷歌今天发布了其下一个人工智能前沿模型，称为 Gemini 4 Argon。首席人工智能架构师兼 Google DeepMind 高级副总裁 Koray Kavukcuoglu 表示，新模型“在现实世界软件工程、法律和金融等企业知识工作以及网络安全防御等复杂工作流程中提供了前沿性能”。但该公司首先将访问权限限制为“一组值得信赖的网络防御者”，Kavukcuoglu 表示，谷歌“在逐步扩大访问范围的同时，正在积极参与美国政府的预发布模型访问自愿流程”。 Kavukcuoglu 表示，Gemini 4 Argon 已经为 Google 的“内部工作流程”提供了动力，并强调了该模型如何帮助完成大规模代码库迁移等任务。谷歌还分享了一张大图表，显示了许多基准测试，其中 Gemini 4 的表现优于 OpenAI 和 Anthropic 的竞争模型。 （本周早些时候，人工智能社区在 X 上就似乎泄露的新模型基准进行了讨论。）谷歌将在更广泛的推出之前加强“关键前沿保障措施”，包括防范滥用和即时注入攻击以及监控错位。 [媒体：https://twitter.com/sundarpichai/status/2105387952478277979?s=46] Gemini 4 Argon 的发布是在 OpenAI 引人注目的 DevDay 会议的第二天，OpenAI 在会上推出了 Dots AI 代理和 GPT-6.1 Sol AI 模型。 （OpenAI 本周还表示，由于担心安全，它不会发布计划中的 GPT-6.1 Astra 模型。）该模型也是在 Kavukcuoglu 8 月份被任命为 DeepMind 新老板后不久发布的。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

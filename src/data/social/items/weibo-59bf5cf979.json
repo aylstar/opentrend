@@ -1,0 +1,21 @@
+{
+  "id": "weibo-59bf5cf979",
+  "slug": "weibo-这是国庆的北京",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "这是国庆的北京",
+  "summary": "微博热榜第 27 位：这是国庆的北京，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%9B%BD%E5%BA%86%E7%9A%84%E5%8C%97%E4%BA%AC%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-10-01T02:09:12.294Z",
+  "fetchedAt": "2026-10-01T02:16:45.138Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

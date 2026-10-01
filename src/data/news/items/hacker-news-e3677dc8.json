@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+  "summary": "1 points · 0 comments",
+  "content": "AI estimating & detailing for Division 8 doors, frames & hardware\n\nWe founded Bild AI to tackle the mess that is blueprint reading, cost estimation, and permit applications in construction. It's a tough technical problem that requires the newest CV and AI approaches, and we’re impact-driven to make it more efficient to build more houses, hospitals, and schools. Featured on Business Insider .\n\nOwn features end-to-end — interview customers every week and watch them use the product, and ship the feature they need by the next week\n\nBuild UIs that make complex blueprint and hardware data feel simple for people who've been doing this on paper for 20 years\n\nWork across the stack: React frontend, Python backend + infra\n\nShape what we build next, not just how we build it\n\nGreat product taste — you care about how things look, feel, and work for the user\n\n0-to-1 architect and builder who can work across the entire stack\n\nComfort talking to customers directly and translating messy domain knowledge into clean product decisions\n\nGrowth mindset, slope > y-intercept\n\nCommunicate with empathy and honesty. Tell us what makes you happy/unhappy\n\nDon’t mind schlep . We are regularly knee-deep in schlep\n\nHave built something people used/paid for (founder/startup)\n\nYour favorite fruit (mine is Sitaphal )\n\nBild AI is an early-stage startup with a ton of really difficult technical challenges to solve. We're building blueprint understanding with a model-garden approach, so there is a lots of ground to break. We raised from the top VCs in the world before demo day and have a customer-obsessed approach to product development.",
+  "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+  "publishedAt": "2026-09-30T17:00:20.000Z",
+  "points": 1,
+  "id": "hacker-news-e3677dc8",
+  "slug": "hacker-news-e3677dc8",
+  "fetchedAt": "2026-10-01T02:15:47.955Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Bild AI (YC W25) 正在招聘一名创始产品工程师",
+  "chineseSummary": "1 分 · 0 条评论",
+  "chineseContent": "对 Division 8 门、框架和硬件进行 AI 评估和细节设计\n\n我们创立 Bild AI 是为了解决蓝图阅读、成本估算和建筑许可应用等混乱问题。这是一个棘手的技术问题，需要最新的计算机视觉和人工智能方法，我们以影响为导向，以提高建造更多房屋、医院和学校的效率。 《商业内幕》专题报道。\n\n端到端的自己的功能——每周采访客户并观察他们使用产品，并在下周之前交付他们需要的功能\n\n构建 UI，让复杂的蓝图和硬件数据对于那些已经在纸上做这件事 20 年的人来说变得简单\n\n跨堆栈工作：React 前端、Python 后端 + 基础设施\n\n塑造我们接下来要构建的内容，而不仅仅是我们如何构建它\n\n出色的产品品味——您关心产品的外观、感觉和用户体验\n\n可以跨整个堆栈工作的 0 对 1 架构师和构建者\n\n轻松地直接与客户交谈并将混乱的领域知识转化为清晰的产品决策\n\n成长心态，斜率 > y 截距\n\n以同理心和诚实进行沟通。告诉我们什么让你快乐/不快乐\n\n别介意拖沓。我们经常陷入困境\n\n建造了人们使用/付费的东西（创始人/初创公司）\n\n你最喜欢的水果（我的是Sitaphal）\n\nBild AI 是一家早期初创公司，有大量非常困难的技术挑战需要解决。我们正在使用模型花园方法构建蓝图理解，因此还有很多基础需要突破。我们在演示日之前从世界顶级风险投资公司那里筹集了资金，并采用以客户为中心的产品开发方法。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

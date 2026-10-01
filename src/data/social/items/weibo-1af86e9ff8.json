@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1af86e9ff8",
+  "slug": "weibo-各大车企9月交付量",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "各大车企9月交付量",
+  "summary": "微博热榜第 10 位：各大车企9月交付量，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E8%BD%A6%E4%BC%819%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-10-01T02:09:12.294Z",
+  "fetchedAt": "2026-10-01T02:16:45.137Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
