@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sony brings AI graphics upscaling to the regular PS5",
+  "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolution (PSSR), which is […]",
+  "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+  "publishedAt": "2026-10-01T16:53:39.000Z",
+  "id": "the-verge-2ffd98f8",
+  "slug": "the-verge-2ffd98f8",
+  "content": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a “new performance tier of AI upscaling” that’s a result of Sony’s Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolution (PSSR), which is available on the PS5 Pro, “remains the gold standard,” and in Digital Foundry’s early hands-on with the tech, it does seem that QSSR isn’t as fast as PSSR because the PS5 doesn’t have dedicated machine learning silicon. As a result, you should probably expect closer to an upscaled 1440p resolution on PS5 instead of the upscaled 4K on PS5 Pro. ”On PS5 Pro, developers almost uniformly output to 4K and adjust render resolution beneath it,” Sony principal graphics R&D engineer Daniel Craig told Digital Foundry. “On PS5, teams have to be more flexible, tuning not just render resolution, but also their intermediate and final presentation targets depending on the graphics mode.” But Craig also said that QSSR is “fundamentally a drop-in replacement for titles that already support PSSR” after only a few days of tuning, making it likelier that PS5 developers will take advantage. The tech will be “offered broadly to all PlayStation developers,” Sony says. Marvel’s Wolverine and Ghost of Yōtei will be the first games to take advantage of QSSR, and are getting patches today to offer the tech as “an additional graphics option on PS5.” (Ghost of Yōtei Complete Edition also launches today.) Here are a couple videos from Sony showing off how QSSR looks in those games, and it appears to make graphics a little bit sharper: [Media: https://www.youtube.com/watch?v=RcFYsDKbAIk] [Media: https://www.youtube.com/watch?v=E929-XwrS_Q] Digital Foundry writes that “the potential here is remarkable: low resolution and poor upscaling have impacted so many titles in this generation, but QSSR could make a big difference.”",
+  "fetchedAt": "2026-10-02T02:22:50.138Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "产品"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "索尼为普通 PS5 带来 AI 图形升级",
+  "chineseSummary": "索尼专门针对普通版 PS5 推出了一项新的 AI 升级技术。根据一篇博客文章，这项名为快速光谱超分辨率 (QSSR) 的新技术是“人工智能升级的新性能层”，是索尼与 AMD 的紫水晶项目合作的结果。索尼表示 PlayStation 光谱超分辨率 (PSSR)，这是 [...]",
+  "chineseContent": "索尼专门针对普通版 PS5 推出了一项新的 AI 升级技术。根据一篇博客文章，这项名为快速光谱超分辨率 (QSSR) 的新技术是“人工智能升级的新性能层”，是索尼与 AMD 的紫水晶项目合作的结果。索尼表示，PS5 Pro 上提供的 PlayStation 光谱超分辨率 (PSSR)“仍然是黄金标准”，而在 Digital Foundry 对该技术的早期实践中，QSSR 似乎确实没有 PSSR 快，因为 PS5 没有专用的机器学习芯片。因此，您可能应该期望 PS5 上的分辨率更接近升级版 1440p，而不是 PS5 Pro 上的升级版 4K。 “在 PS5 Pro 上，开发人员几乎统一输出为 4K 并调整其下的渲染分辨率，”索尼首席图形研发工程师 Daniel Craig 告诉 Digital Foundry。 “在 PS5 上，团队必须更加灵活，不仅要调整渲染分辨率，还要根据图形模式调整中间和最终的演示目标。”但克雷格还表示，经过几天的调整，QSSR“从根本上来说是已经支持 PSSR 的游戏的直接替代品”，这使得 PS5 开发者更有可能利用这一优势。索尼表示，这项技术将“广泛提供给所有 PlayStation 开发商”。 Marvel 的《金刚狼》和《羊蹄之魂》将是第一批利用 QSSR 的游戏，并且今天将获得补丁以提供该技术作为“PS5 上的附加图形选项”。 （《羊蹄之魂》完整版也在今天推出。）以下是索尼的几个视频，展示了 QSSR 在这些游戏中的外观，它似乎使图形更加清晰：[媒体：https://www.youtube.com/watch?v=RcFYsDKbAIk] [媒体：https://www.youtube.com/watch?v=E929-XwrS_Q] Digital Foundry 写道",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

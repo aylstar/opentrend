@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "OpenAI fires workers for mishandling 'sensitive information'",
+  "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+  "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-10-02T01:34:56.000Z",
+  "id": "bbc-978b7cb3",
+  "slug": "bbc-978b7cb3",
+  "content": "OpenAI has fired three researchers for allegedly mishandling information, including work that involved an external organisation that analyses artificial intelligence (AI) models.\n\n\"Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,\" a spokesperson told the BBC.\n\nThe ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.\n\nThe firings come as the debate over AI safety and the risks the technology may pose to humanity has intensified in recent weeks.\n\n\"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" OpenAI's spokesperson said.\n\nThe BBC understands the former employees were not let go for raising safety concerns but for allegedly mishandling sensitive information.\n\nConcerns over AI safety have made headlines after some researchers and industry executives called for more guardrails around the technology.\n\nOpenAI has come under under intense scrutiny after its models went rogue and hacked several platforms, including Australian government websites .\n\nIn an earlier incident an OpenAI system accessed the internet and breached the open-source developer platform Hugging Face.\n\nThat incident led OpenAI to conduct a broad review of the activities of its AI models - called agents, which are designed to execute tasks autonomously based on simple instructions.\n\nThe AI lab said this week that it has notified more than 100 organisations about incidents involving unauthoritised activity linked to its AI systems.\n\nBeing notified \"does not mean that any private information was accessed\" or that a system was compromised, OpenAI said.\n\nThree takeaways from Trump's 'Super Intelligence' summit\n\nOpenAI says its rogue AI tried to hack other companies\n\nOpenAI scraps rollout of new model over safety concerns\n\nIn September, researcher Jacob Coxon, who left Anthropic , called for AI development to slow down so its potential risks could be properly assessed.\n\nAnthropic boss Dario Amodei and OpenAI chief executive Sam Altman have also called for measures to address concerns over AI.\n\nOn Tuesday, US President Donald Trump hosted a meeting of top technology bosses - including leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - to discuss AI.\n\nAfter the gathering at the White House, Trump posted a document that he called a \"morally binding\" agreement that would serve as a \"form of protection\" from AI's potential risks.\n\nSome technology experts criticised the pact, pointing out that it allowed AI companies to regulate themselves.\n\nTrump has repeatedly downplayed concerns about AI's risks in response to calls from some industry figures for tighter oversight of the technology.",
+  "fetchedAt": "2026-10-02T02:22:50.134Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 因处理“敏感信息”不当而解雇员工",
+  "chineseSummary": "这些前员工因与外部人工智能评估小组共享数据而受到调查。",
+  "chineseContent": "OpenAI 解雇了三名研究人员，原因是他们涉嫌信息处理不当，其中包括涉及分析人工智能 (AI) 模型的外部组织的工作。\n\n一位发言人告诉英国广播公司：“我们的调查证实，这些人在公司既定程序之外错误地处理了敏感信息，违反了我们的政策，破坏了对我们工作至关重要的信任。”\n\nChatGPT 制造商没有透露被解雇员工的名字，但其中至少有两人参与了公司的安全研究。\n\n最近几周，关于人工智能安全以及该技术可能给人类带来的风险的争论愈演愈烈，此次解雇也随之而来。\n\nOpenAI 发言人表示：“我们已与三人分道扬镳，因为他们违反了我们访问和处理敏感公司信息的政策。”\n\n据英国广播公司了解，这些前雇员并不是因为提出安全问题而被解雇，而是因为涉嫌不当处理敏感信息。\n\n在一些研究人员和行业高管呼吁围绕该技术设置更多护栏后，对人工智能安全的担忧成为头条新闻。\n\nOpenAI 在其模型失控并入侵了包括澳大利亚政府网站在内的多个平台后受到了严格审查。\n\n在早些时候的一次事件中，OpenAI 系统访问了互联网并破坏了开源开发者平台 Hugging Face。\n\n该事件导致 OpenAI 对其人工智能模型（称为代理）的活动进行了广泛的审查，这些模型旨在根据简单的指令自主执行任务。\n\n该人工智能实验室本周表示，已向 100 多个组织通报了与其人工智能系统相关的未经授权活动的事件。\n\nOpenAI 表示，收到通知“并不意味着任何私人信息被访问”或系统受到损害。\n\n特朗普“超级情报”峰会的三个要点\n\nOpenAI 称其流氓人工智能试图攻击其他公司\n\n出于安全考虑，OpenAI 放弃推出新模型\n\n今年 9 月，离开 Anthropic 的研究员 Jacob Coxon 呼吁放慢人工智能的发展速度，以便正确评估其潜在风险。\n\nAnthrotic 老板达里奥·阿莫迪 (Dario Amodei) 和 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 也呼吁采取措施解决对人工智能的担忧。\n\n周二，美国总统唐纳德·特朗普主持了一次顶级科技巨头会议，其中包括来自 OpenAI、Anthropic、Nvidia、SpaceX、Meta 和 Google 的领导人，讨论人工智能。\n\n在白宫举行会议后，特朗普发布了一份文件，他称之为“具有道德约束力”的协议，该协议将作为人工智能潜在风险的“保护形式”。\n\n一些技术专家批评该协议，指出它允许人工智能公司进行自我监管。\n\n针对一些行业人士要求加强对该技术监管的呼吁，特朗普一再淡化对人工智能风险的担忧。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

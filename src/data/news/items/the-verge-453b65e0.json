@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google’s new Guided Vision feature can help you read the fine print",
+  "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+  "publishedAt": "2026-10-01T19:47:51.000Z",
+  "id": "the-verge-453b65e0",
+  "slug": "the-verge-453b65e0",
+  "content": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone’s camera at. By sharing your camera in Gemini Live, you can have Google’s AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects.&nbsp; Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it’s designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available in Google TalkBack, or users can set up an accessibility shortcut for it in the Settings app on devices running Android 9 and above, after it was announced in a recent set of Pixel updates. You can also ask follow-up questions about whatever you’re looking at, like asking Gemini to read off the expiration date on an item it helped you find. Google says Gemini will give you audio cues to help line up your camera if you ask about something that’s not in the shot. However, Google cautions users not to rely on Guided Vision for things like “navigation, safe-travel guidance, or obstacle detection,” or as a replacement for a cane or mobility aid. [Media: https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/070_Guided_Vision_with_Gemini_Live_1x1_dQURLYx.mp4#t=0.001]",
+  "fetchedAt": "2026-10-02T02:22:50.138Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌新的引导视觉功能可以帮助您阅读细则",
+  "chineseSummary": "Guided Vision 现已在兼容 Android 设备上的 Gemini Live 中推出，利用人工智能对您将手机摄像头对准的任何物体进行实时音频描述。通过在 Gemini Live 中共享您的相机，您可以让 Google 的 AI 帮助您完成一些事情，例如阅读小文本、描述您的周围环境、查找或识别周围的物体 [...]",
+  "chineseContent": "Guided Vision 现已在兼容 Android 设备上的 Gemini Live 中推出，利用人工智能对您将手机摄像头对准的任何物体进行实时音频描述。通过在 Gemini Live 中共享相机，您可以让 Google 的 AI 帮助您完成一些任务，例如阅读小文本、描述周围环境、查找或识别周围的物体以及描述特定物体的详细信息。  与苹果在 iPhone 和 Vision Pro 中添加的 VoiceOver 实时识别功能一样，它是专为盲人、弱视人士或在特定情况下需要帮助的人设计的。除了 Gemini 应用程序之外，Guided Vision 还可以在 Google TalkBack 中使用，或者用户可以在运行 Android 9 及更高版本的设备上的“设置”应用程序中为其设置辅助快捷方式（在最近的一组 Pixel 更新中宣布）。您还可以针对您正在查看的任何内容提出后续问题，例如要求 Gemini 读出它帮助您找到的物品的过期日期。谷歌表示，如果你询问镜头中没有的内容，Gemini 会给你音频提示，帮助你调整相机。然而，谷歌警告用户不要依赖引导视觉来进行“导航、安全旅行指导或障碍物检测”等任务，也不要将其作为手杖或行动辅助工具的替代品。 [媒体：https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/070_Guided_Vision_with_Gemini_Live_1x1_dQURLYx.mp4#t=0.001]",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

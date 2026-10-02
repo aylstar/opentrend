@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+  "summary": "50 points · 6 comments",
+  "content": "Janus is a single Go binary that runs .gguf models on your machine (GPU or CPU) and exposes an OpenAI-compatible API . No Python, no Docker, no Ollama required.\n\nUse it your way: call it from the command line ( curl , PowerShell, scripts), wire it into Cursor / Cline / any OpenAI client — same local models, whatever workflow fits you.\n\nDisk: plan for the model size (often 2–8 GB per model) plus ~50 MB for Janus + llama.dll.\n\nbuild.ps1 downloads pre-built llama.cpp Vulkan DLLs and compiles dist\\janus.exe .\n\nPut a .gguf file in the models\\ folder. Use the included downloader:\n\nOr download any GGUF from Hugging Face .\n\nOpens http://127.0.0.1:8990 in your browser.\n\nOn Linux you need libllama.so next to the binary or on LD_LIBRARY_PATH .\n\nConnect to Cursor / Cline / other clients\n\nOr just .\\run.ps1 . For a full build including llama DLLs, use .\\build.ps1 .\n\nContributions welcome — see CONTRIBUTING.md .",
+  "url": "https://github.com/Vibra-Ingenn/Janus",
+  "publishedAt": "2026-10-01T20:36:47.000Z",
+  "points": 50,
+  "id": "hacker-news-34df45a",
+  "slug": "hacker-news-34df45a",
+  "fetchedAt": "2026-10-02T02:22:50.137Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "显示 HN：Janus – 在 AMD/Intel/Nvidia 上通过 Vulkan 运行 GGUF 模型的 Go 二进制文件",
+  "chineseSummary": "50 分 · 6 条评论",
+  "chineseContent": "Janus 是一个单一的 Go 二进制文件，可以在您的机器（GPU 或 CPU）上运行 .gguf 模型并公开 OpenAI 兼容的 API。不需要 Python、Docker、Ollama。\n\n按照您的方式使用它：从命令行（curl、PowerShell、脚本）调用它，将其连接到 Cursor / Cline / 任何 OpenAI 客户端 - 相同的本地模型，无论工作流程适合您。\n\n磁盘：规划模型大小（通常每个模型 2–8 GB）加上 Janus + llama.dll 的约 50 MB。\n\nbuild.ps1 下载预构建的 llama.cpp Vulkan DLL 并编译 dist\\janus.exe 。\n\n将 .gguf 文件放入 models\\ 文件夹中。使用附带的下载器：\n\n或者从 Hugging Face 下载任何 GGUF 。\n\n在浏览器中打开 http://127.0.0.1:8990。\n\n在 Linux 上，您需要在二进制文件旁边或 LD_LIBRARY_PATH 上添加 libllama.so 。\n\n连接Cursor / Cline /其他客户端\n\n或者只是 .\\run.ps1 。对于包含 llama DLL 的完整构建，请使用 .\\build.ps1 。\n\n欢迎贡献 — 请参阅 CONTRIBUTING.md 。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

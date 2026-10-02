@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+  "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC […]",
+  "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+  "publishedAt": "2026-10-01T17:12:21.000Z",
+  "id": "the-verge-9af7c59f",
+  "slug": "the-verge-9af7c59f",
+  "content": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google’s side in a ruling on Wednesday, writing that PMC and Chegg’s claims don’t stand up to antitrust law. In lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google’s practices diverted traffic away from their sites, hurting their revenue. Judge Mehta, who made a landmark antitrust ruling against Google in 2024, disagrees with Chegg and PMC’s claims. “Plaintiffs have pleaded only that they have an ‘expectation’ that Google will send them search ​traffic if they make their content available for free,” Mehta writes. “But an expectation is not an agreement. It is simply how a general search engine works.” Mehta adds that the court is not “unsympathetic to the situation publishers now find themselves in,” but writes that antitrust rules can’t replace a legislative body’s decision to address the economic impact of “new innovation.” Meanwhile, publishers continue to see effects of Google’s AI-powered search overhaul, with traffic to news outlets and small websites taking a steep dive. This week, The Information reported that Google is paying around 100 publishers for their contributions to AI Overviews, AI Mode, and Gemini as part of a pilot program. Disclosure: The Verge is part of Penske Media.",
+  "fetchedAt": "2026-10-02T02:22:50.138Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "视频"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "法官驳回针对谷歌 AI 概述的反垄断诉讼",
+  "chineseSummary": "据路透社早些时候报道，一名联邦法官驳回了 Chegg 和滚石乐队母公司 Penske Media Corporation 提起的两起反垄断诉讼，这些诉讼指控谷歌通过其人工智能驱动的搜索功能抢走了网络流量。美国地区法官阿米特·梅塔 (Amit Mehta) 在周三的裁决中站在谷歌一边，写道 PMC [...]",
+  "chineseContent": "据路透社早些时候报道，一名联邦法官驳回了 Chegg 和滚石乐队母公司 Penske Media Corporation 提起的两起反垄断诉讼，这些诉讼指控谷歌通过其人工智能驱动的搜索功能抢走了网络流量。美国地区法官阿米特·梅塔 (Amit Mehta) 在周三的裁决中站在谷歌一边，写道 PMC 和 Chegg 的主张不符合反垄断法。在去年提起的诉讼中，Chegg 和 PMC 指控谷歌滥用垄断权力，强迫出版商免费为 AI Overviews 提供内容，否则就有从搜索结果中消失的风险。出版商声称谷歌的做法转移了他们网站的流量，损害了他们的收入。梅塔法官于 2024 年对谷歌做出了具有里程碑意义的反垄断裁决，他不同意 Chegg 和 PMC 的主张。 “原告仅辩称，他们‘期望’如果谷歌免费提供其内容，谷歌将向他们发送搜索流量，”梅塔写道。 “但期望并不等于协议。这只是通用搜索引擎的工作原理。”梅塔补充说，法院并非“不同情出版商现在所处的处境”，但他写道，反垄断规则不能取代立法机构解决“新创新”的经济影响的决定。与此同时，出版商继续看到谷歌人工智能搜索改革的影响，新闻媒体和小型网站的流量急剧下降。本周，The Information 报道称，作为试点计划的一部分，谷歌正在向大约 100 家出版商支付对 AI Overviews、AI Mode 和 Gemini 的贡献。披露：The Verge 是 Penske Media 的一部分。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

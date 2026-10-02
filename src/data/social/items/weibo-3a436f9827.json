@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3a436f9827",
+  "slug": "weibo-华为赛力斯-复合",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "华为赛力斯 复合",
+  "summary": "微博热榜第 33 位：华为赛力斯 复合，当前热度为 10万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF+%E5%A4%8D%E5%90%88%23",
+  "hotValue": "10万热度",
+  "author": "",
+  "publishedAt": "2026-10-02T02:22:29.072Z",
+  "fetchedAt": "2026-10-02T02:24:03.150Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

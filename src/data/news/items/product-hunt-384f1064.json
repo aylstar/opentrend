@@ -1,25 +1,24 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Buddy AI Access (MCP)",
-  "summary": "Your agent needs more than your repo Discussion | Link",
+  "originalTitle": "Buddy Drop",
+  "summary": "Drop the files, get a live URL in seconds Discussion | Link",
   "url": "https://www.producthunt.com/products/buddy",
-  "publishedAt": "2026-09-14T10:48:06.000Z",
+  "publishedAt": "2026-09-30T09:20:05.000Z",
   "id": "product-hunt-384f1064",
   "slug": "product-hunt-384f1064",
-  "content": "Your agent needs more than your repo Discussion | Link",
-  "fetchedAt": "2026-09-16T01:30:14.421Z",
+  "content": "Drop the files, get a live URL in seconds Discussion | Link",
+  "fetchedAt": "2026-10-02T02:22:50.137Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
-    "AI",
     "全球"
   ],
-  "rank": 14,
+  "rank": 10,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Buddy AI Access (MCP)",
-  "chineseSummary": "Your agent needs more than your repo Discussion | Link",
-  "chineseContent": "Your agent needs more than your repo Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "好友掉落",
+  "chineseSummary": "删除文件，在几秒钟内获得实时 URL 讨论 |关联",
+  "chineseContent": "删除文件，在几秒钟内获得实时 URL 讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

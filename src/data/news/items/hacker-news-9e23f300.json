@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Vote on which of Hacker News' challenges for AI have been met",
+  "summary": "94 points · 106 comments",
+  "content": "94 points · 106 comments",
+  "url": "https://stoppels.ch/goalposts/",
+  "publishedAt": "2026-10-01T17:32:43.000Z",
+  "points": 94,
+  "id": "hacker-news-9e23f300",
+  "slug": "hacker-news-9e23f300",
+  "fetchedAt": "2026-10-02T02:22:50.137Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "安全"
+  ],
+  "rank": 5,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "投票选出《黑客新闻》针对 AI 提出的哪些挑战已得到解决",
+  "chineseSummary": "94 分 · 106 条评论",
+  "chineseContent": "94 分 · 106 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

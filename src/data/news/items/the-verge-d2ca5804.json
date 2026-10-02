@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+  "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart home […]",
+  "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+  "publishedAt": "2026-10-01T22:51:36.000Z",
+  "id": "the-verge-d2ca5804",
+  "slug": "the-verge-d2ca5804",
+  "content": "Apple’s rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of “a new Apple smart home ecosystem,” alongside Apple’s rumored smart home hub:&nbsp; > They’re also building home security products, both first-party and third-party home security products. And the biggest thing is a program called J450. And this is an offshoot and a companion product to the J490 smart home display. And these are little cameras that you can put around your house. They have very low frame rate. It looks like a cylinder. It looks like a metal giant, you know, chapstick. > And what does that mean? No video recording. So it’s a sensor that cannot actually pull in real video footage. It’s analyzing your environment in your home and around your home simply using AI. Gurman also mentions that the camera uses “a very similar technology” to what Apple’s reportedly developing for a pair of AirPods with cameras that leaked earlier this year. [Media: https://www.youtube.com/watch?v=Ms-uSU7-1Hs] Instead of using something like mmWave for presence sensing, using an image sensor with AI embedded that processes everything on-device, like these Sony IMX500 sensors, could work without passing images that would need to be stored and secured. Apple Home currently has a “Detect Activity” setting for HomeKit Secure Video cameras that stops video streaming and recording, but continues tracking motion, similar to what Gurman describes. He goes on to add that the smart home camera will have facial recognition for things like detecting when someone enters a room, but, “You’re not getting anything but text descriptions. There’s nothing you can do with it. There’s no video recording.”",
+  "fetchedAt": "2026-10-02T02:22:50.138Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "安全",
+    "视频"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "据报道，苹果正在开发一款不录制视频的智能家居摄像头",
+  "chineseSummary": "据传苹果进军智能家居技术的计划可能包括一款智能家居安全摄像头，该摄像头仅向用户提供文本事件描述，而不是视频片段。马克·古尔曼 (Mark Gurman) 在 Power On 播客的第一集中表示，该摄像头将成为“新的苹果智能家居生态系统”的一部分，与传闻中的苹果智能家居一起 […]",
+  "chineseContent": "据传苹果进军智能家居技术的计划可能包括一款智能家居安全摄像头，该摄像头仅向用户提供文本事件描述，而不是视频片段。 Mark Gurman 在 Power On 播客的第一集中表示，该摄像头将与传闻中的苹果智能家居中心一起成为“新的苹果智能家居生态系统”的一部分： > 他们还在构建家庭安全产品，包括第一方和第三方家庭安全产品。最大的事情是一个名为 J450 的计划。这是 J490 智能家居显示器的一个分支和配套产品。这些是你可以放在房子周围的小相机。它们的帧速率非常低。它看起来像一个圆柱体。它看起来像一个金属巨人，你知道，唇膏。 > 这意味着什么？没有视频录制。所以它是一个实际上无法提取真实视频片段的传感器。它只是使用人工智能来分析您家中和家周围的环境。古尔曼还提到，该摄像头使用了“非常相似的技术”，据报道苹果正在为一对今年早些时候泄露的带有摄像头的 AirPods 开发技术。 [媒体：https://www.youtube.com/watch?v=Ms-uSU7-1Hs] 不使用毫米波之类的技术进行存在感测，而是使用嵌入人工智能的图像传感器来处理设备上的所有内容，例如这些索尼 IMX500 传感器，可以在不传递需要存储和保护的图像的情况下工作。 Apple Home 目前为 HomeKit 安全视频摄像头提供了“检测活动”设置，可以停止视频流和录制，但会继续跟踪运动，与 Gurman 所描述的类似。他接着补充说，智能家居摄像头将具有面部识别功能，例如检测某人何时进入房间，但是，“除了文字描述之外，你什么也得不到。没有任何东西。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
