@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+  "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
+  "url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+  "publishedAt": "2026-10-02T22:38:49.000Z",
+  "id": "cnbc-61e88bfd",
+  "slug": "cnbc-61e88bfd",
+  "content": "Cerebras stock plummeted nearly 20% this week to its lowest price since the company's monster IPO in May, after a report that chip giant Nvidia will power a crucial piece of OpenAI's latest model.\n\nResearch firm SemiAnalysis posted on X on Wednesday that OpenAI will power its \"Ultrafast\" mode for GPT-6.1 Sol with Nvidia graphics processing units instead of Cerebras hardware. Cerebras shares are now down by more than half since their initial pop that followed the company's debut on the Nasdaq.\n\nThe stock, which closed on Friday at $166.43, was also under pressure this week due to the expiration of post-IPO restrictions on some insider shares.\n\nHowever, it rose almost 3% in extended trading on Friday after OpenAI CEO Sam Altman responded to the \"speculation about our partnership with Cerebras.\"\n\n\"Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed,\" Altman wrote in a post on X .\n\nStill, it's been a brutal stretch for Cerebras, which closed at a $95 billion market cap on the first day of trading, just shy of joining the ranks of Meta , Alibaba and now SpaceX , which closed their initial day with valuations over $100 billion.\n\nCerebras' market cap now sits at just over $39 billion.\n\nInvestors were excited by the prospect of an alternative to Nvidia to power AI. Cerebras makes dinner plate-sized ASICs, or a custom microchip built for inference workloads, and leases them from inside its own data centers as a cloud service. In January, Cerebras struck a deal worth over $10 billion with OpenAI to supply it with 750 megawatts of computing power through 2028.\n\nLosing OpenAI inference to Nvidia has put a damper on that exuberance. According to McKinsey , inference is set to surpass training as the most dominant workload in AI data centers by the end of the decade.\n\nMeanwhile, as more time passes from the IPO, additional shares will hit the market. According to the company's prospectus, up to 19.4 million shares held by directors, officers, non-executive employees, and non-employee holders unlocked on Wednesday. That's equal to 8% of total shares outstanding.\n\nPrior to that, up to 14.6 million shares have been unlocked for sale every two weeks since Aug. 19.\n\nCEO Andrew Feldman and CTO Sean Lie, both minted billionaires by the IPO process, sold over $240 million of Class A shares between Aug. 20 and Sept. 25 under trading plans adopted shortly after the IPO. Other executives have also sold shares valued in the millions.\n\nWATCH: CNBC’s full interview with Cerebras Systems CEO Andrew Feldman",
+  "fetchedAt": "2026-10-03T02:09:31.473Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "由于 Nvidia 压力和禁售期到期，Cerebras 股价触及 IPO 后低点，本周下跌 20%",
+  "chineseSummary": "由于芯片巨头英伟达的压力以及锁定后的抛售，Cerebras 的股价跌至历史新低。",
+  "chineseContent": "在有报道称芯片巨头英伟达将为 OpenAI 最新型号的关键部件提供动力后，Cerebras 股价本周暴跌近 20%，跌至该公司 5 月份大规模 IPO 以来的最低价格。\n\n研究公司 SemiAnalysis 周三在 X 上发布消息称，OpenAI 将使用 Nvidia 图形处理单元而不是 Cerebras 硬件为其 GPT-6.1 Sol 的“超快”模式提供支持。自公司在纳斯达克首次亮相以来，Cerebras 股价现已下跌一半以上。\n\n该股周五收于 166.43 美元，由于一些内部人士股票的 IPO 后限制到期，本周也面临压力。\n\n然而，在 OpenAI 首席执行官 Sam Altman 回应“有关我们与 Cerebras 合作的猜测”后，周五盘后交易中该股上涨了近 3%。\n\n“Cerebras 是一个亲密的合作伙伴，我们在推动速度前沿方面有着深入的合作，”Altman 在 X 上的一篇帖子中写道。\n\n尽管如此，这对 Cerebras 来说仍然是一个残酷的考验，它在交易首日收盘时的市值为 950 亿美元，距离加入 Meta、阿里巴巴和现在的 SpaceX 的行列，后者首日收盘时估值超过 1000 亿美元。\n\nCerebras 的市值目前略高于 390 亿美元。\n\n投资者对英伟达替代品驱动人工智能的前景感到兴奋。 Cerebras 制造餐盘大小的 ASIC，即为推理工作负载构建的定制微芯片，并从自己的数据中心内部将它们作为云服务出租。今年 1 月，Cerebras 与 OpenAI 达成了一项价值超过 100 亿美元的协议，到 2028 年为其提供 750 兆瓦的计算能力。\n\nOpenAI 推理功能输给了 Nvidia，这让这种繁荣受到了抑制。麦肯锡表示，到本世纪末，推理将超越训练，成为人工智能数据中心最主要的工作负载。\n\n与此同时，随着IPO时间的推移，更多的股票将会上市。根据该公司的招股说明书，周三解锁了董事、管理人员、非执行员工和非员工持有者持有的多达 1940 万股股票。这相当于已发行股票总数的 8%。\n\n此前，自8月19日以来，每两周解锁出售的股票数量高达1460万股。\n\n首席执行官 Andrew Feldman 和首席技术官 Sean Lie 均通过 IPO 成为亿万富翁，根据 IPO 后不久通过的交易计划，他们在 8 月 20 日至 9 月 25 日期间出售了价值超过 2.4 亿美元的 A 类股票。其他高管也出售了价值数百万美元的股票。\n\n观看：CNBC 对 Cerebras Systems 首席执行官安德鲁·费尔德曼 (Andrew Feldman) 的完整采访",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

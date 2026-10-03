@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
+  "summary": "6 points · 0 comments",
+  "content": "The fastest growing market in the world isn’t AI ; it’s in crypto. Market Monthly growth, 20 months Multiple RWA trades 53% 5,133x RWA spot volume 36% 483x Anthropic revenue 25% 65x 1 Real world assets (RWA) means enabling stocks & commodities like oil & copper to trade on blockchains, handling nearly 100% of the public price discovery when the commodities exchanges close. RWA powers IPO pricing weeks before public listing for Anthropic, OpenAI, SpaceX, & Cerebras,2 using instruments called perpetuals on stocks;3 & RWA provides international access to important companies. Stablecoins, digital money, have become a top-10 buyer of US government debt, more than China, Norway, & Switzerland, & they settle the transactions behind each of these tokenized assets. Every major financial player is pushing into RWA, from J.P. Morgan to HSBC to BlackRock, Citi, Goldman, Franklin Templeton, Robinhood,4 Stripe,5 & many others. As this market grows, blockchain data is essential. Bloomberg announced their RWA dashboard, powered by Allium, a Theory company.6, 7 The future of finance is onchain, & we’re rapidly seeing that transformation. Compound monthly growth rate, trailing 20 months. RWA data from Allium rwa.core.spot_trades (Jan 2025 – Sep 2026); Anthropic revenue run rate from Reuters/Bloomberg/CNBC ($1b end-2024 to $65b July 2026). ↩︎ Hyperliquid: Pre-IPO Price Discovery on Crypto Rails (Talos) : Cerebras pre-IPO perp traded within 1.3% of its Nasdaq open ; SpaceX perps carried ~$215m OI & ~$2.2b cumulative volume pre-listing. ↩︎ Pantera Capital, State of Tokenization : September 2026 : stock perpetuals on Hyperliquid & Lighter reached $67.8b in June, 16x tokenized equity spot. ↩︎ DTCC begins first tokenized stock and Treasury production trades (The Block, July 15 2026) ↩︎ Stripe’s stablecoin network — Stripe acquired Bridge & now settles stablecoin payouts, including Meta creator payouts, onchain. ↩︎ Allium ↩︎ Bloomberg Launches Stablecoin Dashboard on the Terminal Powered by Data from Allium (PR Newswire, Sept 30 2026) ↩︎",
+  "url": "https://tomtunguz.com/allium-bloomberg-rwa/",
+  "publishedAt": "2026-10-03T00:58:44.000Z",
+  "points": 6,
+  "id": "hacker-news-d68b6290",
+  "slug": "hacker-news-d68b6290",
+  "fetchedAt": "2026-10-03T02:09:31.469Z",
+  "score": 82,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "科技领域增长最快的市场不是 AI——Tomasz Tunguz",
+  "chineseSummary": "6 分 · 0 条评论",
+  "chineseContent": "世界上增长最快的市场不是人工智能，而是人工智能。它是加密货币。市场 每月增长，20 个月 多个 RWA 交易 53% 5,133x RWA 现货交易量 36% 483x 人为收入 25% 65x 1 现实世界资产 (RWA) 意味着使石油和铜等股票和大宗商品能够在区块链上进行交易，在商品交易所收盘时处理近 100% 的公开价格发现。 RWA 在 Anthropic、OpenAI、SpaceX 和 Cerebras 公开上市前几周为 IPO 定价提供支持，2 使用股票永续债券的工具；3 & RWA 为重要公司提供国际准入。稳定币（数字货币）已成为美国政府债务的十大买家，超过中国、挪威和瑞士，并且它们负责结算这些代币化资产背后的交易。每个主要金融机构都在进军 RWA，从摩根大通到汇丰银行，再到贝莱德、花旗、高盛、富兰克林邓普顿、Robinhood、4 Stripe、5 等等。随着这个市场的增长，区块链数据至关重要。 Bloomberg 宣布了由 Theory 公司 Allium 提供支持的 RWA 仪表板。6, 7 金融的未来是链上的，我们正在迅速看到这种转变。过去 20 个月的复合月增长率。来自 Allium rwa.core.spot_trades 的 RWA 数据（2025 年 1 月 – 2026 年 9 月）；路透社/彭博社/CNBC 的人为收入运行率（2024 年底 10 亿美元到 2026 年 7 月 650 亿美元）。 ↩︎ Hyperliquid：Crypto Rails (Talos) 上的首次公开募股前价格发现：Cerebras 首次公开募股前 Perp 交易价格在纳斯达克开盘价的 1.3% 以内； SpaceX 的持股人获得了约 2.15 亿美元的 OI 和约 2.2 亿美元的预上市累计销量。 ↩︎ Pantera Capital，代币化状况：2026 年 9 月：Hyperliquid & Lighter 上的股票永续合约在 6 月份达到 67.8b 美元，是代币化股票现货的 16 倍。 ↩︎ DTCC 开始首次代币化股票和国债生产交易（The Block，2026 年 7 月 15 日）↩︎ Stripe’",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

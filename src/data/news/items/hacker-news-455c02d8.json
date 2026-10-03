@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Made an open-source Lego AI generator",
+  "summary": "70 points · 41 comments",
+  "content": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time. When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc. Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model. So, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right? Then, after months of iterations and trying one thing after the other... it worked!!! Long story short: using GPT-6 Astra and Opus 5.5, I've managed to create a python toolset, instructions, and docs for agents in general. Now, these can be used by them to generate LDraw models. I've packed it all as a dockerized web app for others to try and experiment, with several providers (and agents) to choose from: OpenAI, Claude and OpenRouter. Here's a bunch of exmaples: https://anteloc.github.io/index-samples.html . If you are curious about the internals of an .mpd model, the \"what was the agent picturing on its mind\", open the .mpd file that got your attention on a text editor, and read the first line under the ones starting with \"0 FILE\". I'd really appreciate feedback and comments, let's see where this goes =)",
+  "url": "https://github.com/anteloc/ldraw-nova",
+  "publishedAt": "2026-10-02T20:00:15.000Z",
+  "points": 70,
+  "id": "hacker-news-455c02d8",
+  "slug": "hacker-news-455c02d8",
+  "fetchedAt": "2026-10-03T02:09:31.469Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 5,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：制作了一个开源乐高 AI 生成器",
+  "chineseSummary": "70 分 · 41 条评论",
+  "chineseContent": "你好:-) HN 新人，第一次发帖。去年12月左右，我开始尝试让ChatGPT和Claude用LDraw语言生成源代码。这个LDraw实际上是一种“汇编”语言，一种低级编程语言，描述如何将乐高部件组装成模型，一次一个放置指令。当由特定工具执行时，例如LDView、LeoCAD、Studio...这些指令成为乐高 CAD 模型，可以进行交互、修改等。或者换句话说：一个 .mpd 或 .ldr 格式的 LDraw 源文件相当于一个乐高 CAD 模型。所以，我的想法是：如果我设法让 ChatGPT 或 Claude 生成高质量的 LDraw 源文件……那么，他们实际上会生成高质量的乐高 CAD 模型，对吧？然后，经过几个月的迭代并尝试一件又一件的事情......它成功了！长话短说：使用 GPT-6 Astra 和 Opus 5.5，我成功地为一般代理创建了一个 python 工具集、说明和文档。现在，他们可以使用这些来生成 LDraw 模型。我将其全部打包为一个 dockerized Web 应用程序，供其他人尝试和实验，并有多个提供商（和代理）可供选择：OpenAI、Claude 和 OpenRouter。这里有一堆例子：https://anteloc.github.io/index-samples.html。如果您对 .mpd 模型的内部结构感到好奇，即“代理在其脑海中想象的是什么”，请在文本编辑器上打开引起您注意的 .mpd 文件，然后阅读以“0 FILE”开头的文件下的第一行。我非常感谢反馈和评论，让我们看看这会发生什么=）",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Eurozone inflation hits three-year high of 3.8%",
+  "summary": "Consumer prices rose at higher rate than expected in September",
+  "url": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-02T15:45:53.000Z",
+  "id": "financial-times-a5fda73e",
+  "slug": "financial-times-a5fda73e",
+  "content": "Consumer prices rose at higher rate than expected in September",
+  "fetchedAt": "2026-10-03T02:09:31.477Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "欧元区通胀率创三年新高3.8%",
+  "chineseSummary": "9月份消费者价格涨幅高于预期",
+  "chineseContent": "9月份消费者价格涨幅高于预期",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

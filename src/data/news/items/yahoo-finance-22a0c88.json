@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Stock Market Today: Nasdaq Leads Charge On Rate Hopes; Nvidia Hits Highs",
+  "summary": "Stock Market Today: The Dow Jones index rallies Friday after a surprise result from the U.S. jobs report. Tesla stock jumps on deliveries.",
+  "url": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+  "publishedAt": "2026-10-02T21:05:24.000Z",
+  "id": "yahoo-finance-22a0c88",
+  "slug": "yahoo-finance-22a0c88",
+  "content": "Stock Market Today: The Dow Jones index rallies Friday after a surprise result from the U.S. jobs report. Tesla stock jumps on deliveries.",
+  "fetchedAt": "2026-10-03T02:09:31.472Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "今日股市：纳斯达克指数领涨利率希望；英伟达股价创下新高",
+  "chineseSummary": "今日股市：美国就业报告出人意料后，道琼斯指数周五上涨。特斯拉股价因交付量而上涨。",
+  "chineseContent": "今日股市：美国就业报告出人意料后，道琼斯指数周五上涨。特斯拉股价因交付量而上涨。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

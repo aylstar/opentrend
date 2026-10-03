@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/alirezarezvani/claude-skills",
   "docsUrl": "https://alirezarezvani.medium.com/",
-  "stars": 27192,
-  "forks": 3839,
+  "stars": 27325,
+  "forks": 3852,
   "openIssues": 27,
   "license": "MIT",
   "pushedAt": "2026-08-30T09:46:16Z",
-  "updatedAt": "2026-10-02T02:17:58Z",
+  "updatedAt": "2026-10-03T02:07:11Z",
   "createdAt": "2025-10-19T04:04:05Z",
   "archived": false,
   "trendWindows": [
@@ -32,14 +32,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Claude Code Skills & Plugins — Agent Skills for Every Coding Tool\n\n**388 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools.**\n\nThe most comprehensive open-source library of Claude Code skills and agent plugins — also works with OpenAI Codex, Gemini CLI, Cursor, and 9 more coding agents. Reusable expertise packages covering engineering, DevOps, marketing (incl. AEO — Answer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level advisory (incl. founder-mode CFO/CMO/CRO/CPO/COO/CHRO/CISO/GC/CDO/CAIO/CCO/VPE personas + 21 /cs:* slash commands), productivity (capture/email/reflect/weekly-review/deep-work/meetings), an academic research stack (litreview/grants/dossier/patent/syllabus/pulse/notebooklm/deep-research + hybrid router), and enterprise Research Operations (clinical-research/research-finance/market-research/product-research, v2.9.0).\n\n**Works with:** Claude Code · OpenAI Codex · Gemini CLI · OpenClaw · Hermes Agent[^hermes] · Mistral Vibe[^vibe] · Cursor · Aider · Windsurf · Kilo Code · OpenCode · Augment · Antigravity\n\n[^hermes]: Hermes Agent is **BYO-sync tier**: the repo ships a pre-generated `.hermes/skills/claude-skills/` tree, but you run `python scripts/sync-hermes-skills.py` once locally to install into `~/.hermes/skills/`. Uses the same agentskills.io SKILL.md standard — no format conversion.\n[^vibe]: Mistral Vibe is also **BYO-sync tier**: the repo ships a pre-generated `.vibe/skills/claude-skills/` tree, run `./scripts/vibe-install.sh` once locally to install into `~/.vibe/skills/`. Same agentskills.io SKILL.md standard — no format conversion. Docs: <https://docs.mistral.ai/mistral-vibe/agents-skills>.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Skills](https://img.shields.io/badge/Skills-388-brightgreen?style=for-the-badge)](#skills-overview)\n[![Agents](https://img.shields.io/badge/Agents-118-blue?style=for-the-badge)](#agents)\n[![Personas](https://img.shields.io/badge/Personas-7-purple?style=for-the-badge)](#personas)\n[![Commands](https://img.shields.io/badge/Commands-150-orange?style=for-the-badge)](#commands)\n[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=for-the-badge)](https://github.com/alirezarezvani/claude-skills/stargazers)\n[![SkillCheck Validated](https://img.shields.io/badge/SkillCheck-Validated-4c1?style=for-the-badge)](https://getskillcheck.com)\n\n> **5,200+ GitHub stars** — the most comprehensive open-source Claude Code skills & agent plugins library.\n\n---\n\n## What Are Claude Code Skills & Agent Plugins?\n\nClaude Code skills (also called agent skills or coding agent plugins) are modular instruction packages that give AI coding agents domain expertise they don't have out of the box. Each skill includes:\n\n- **SKILL.md** — structured instructions, workflows, and decision frameworks\n- **Python tools** — 706 CLI scripts (all stdlib-only, ",
-  "generatedAt": "2026-10-02T02:22:37.342Z",
+  "generatedAt": "2026-10-03T02:09:15.966Z",
   "analysis": {
     "oneLine": "claude-skills 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "claude-skills 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，claude-skills 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 27,192，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，claude-skills 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 27,325，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
