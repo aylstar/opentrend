@@ -8,14 +8,14 @@
   "id": "the-verge-724773b8",
   "slug": "the-verge-724773b8",
   "content": "Meta now lets you make your own Muse gadgets that feature the company’s new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm. “Muse gadgets are open source devices you build yourself,” Meta says. “Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you’ve got lying on your workbench.” However, Meta cautions that you should “Proceed at your own risk!” The company is also giving away a Muse Home Link gadget that it created. With the Muse Home Link, you use community-built skills to have the AI agent “turn on a light, control your TV, send a document to a printer, and more, depending on your setup,” Meta says. It manufactured 5,000 of the gadgets, according to Meta Superintelligence Labs’ Nat Friedman, and you can claim a waitlist spot for the Muse Home Link now ahead of shipping sometime this month. [Image: Meta’s Muse Home Link gadget. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all]",
-  "fetchedAt": "2026-10-03T02:09:31.471Z",
-  "score": 72,
+  "fetchedAt": "2026-10-04T02:47:25.019Z",
+  "score": 66,
   "sourceWeight": 80,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 15,
+  "rank": 16,
   "contentStatus": "article-extracted",
   "chineseTitle": "Meta 开源代码可让您制作 Muse AI 小工具",
   "chineseSummary": "Meta 现在可以让您制作自己的 Muse 小工具，这些小工具具有该公司新的 AI 代理以及该公司开源的代码。该公司建议的项目包括在彩色电子墨水显示屏上加载 Muse 以显示提醒，将其添加到 HDMI 棒上，以便您可以在大屏幕上显示 Muse，或者 [...]",

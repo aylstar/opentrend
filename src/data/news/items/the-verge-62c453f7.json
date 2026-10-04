@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Capcom is preparing for a ‘future where we create games together with AI’",
+  "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
+  "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+  "publishedAt": "2026-10-03T16:49:10.000Z",
+  "id": "the-verge-62c453f7",
+  "slug": "the-verge-62c453f7",
+  "content": "Capcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.” During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is “successfully integrating AI technology into development workflows.” Capcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation.",
+  "fetchedAt": "2026-10-04T02:47:25.018Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "卡普空正在为“我们与 AI 一起创造游戏的未来”做准备",
+  "chineseSummary": "Capcom 的 Pragmata 可能全都是关于人工智能的恐怖，但实际上工作室似乎并不那么看不起这项技术。在 Capcom 开放大会 RE：2026 期间，程序员 Satoshi Ishida 做了一个演讲，标题是：“REX 项目的展望和未来，进一步发展 RE 引擎 […]",
+  "chineseContent": "Capcom 的 Pragmata 可能全都是关于人工智能的恐怖，但实际上该工作室似乎并不那么看不起这项技术。在Capcom开放大会RE：2026期间，程序员Satoshi Ishida做了一个演讲，标题拗口：“REX项目的展望和未来，进一步发展下一代RE引擎”。在演讲中，他阐述了制作《生化危机》规模的游戏所面临的挑战，即使是简单的任务也会变得极其耗时。石田表示，该解决方案“成功地将人工智能技术集成到开发工作流程中”。 Capcom 此前曾表示，不会在游戏中使用人工智能生成的资产，而是专注于利用该技术来提高开发效率。石田的评论似乎很一致，但似乎确实为更广泛的使用敞开了大门。根据 IGN 的翻译，他制定了一项计划，将 RE 引擎慢慢地、逐步地​​转变为“人工智能一代游戏引擎”，构建“我们与人工智能一起创造游戏的未来”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

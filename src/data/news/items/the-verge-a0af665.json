@@ -8,15 +8,15 @@
   "id": "the-verge-a0af665",
   "slug": "the-verge-a0af665",
   "content": "Apple will add new limits for “full disk access” on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it’s rolling out new controls to “ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.” The change comes just weeks after Inc’s Jason Aten found that Meta’s Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is “entirely opt-in.” Stone added that you have to “enable both Full Disk Access and the Messages connector for Muse to be able to read your Messages content.” Now Apple is addressing how developers use that sweeping access, saying: > Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history—without users’ full knowledge and understanding… As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially. Full disk access is a permission on macOS that gives an app access to a user’s entire system. Apple says the feature “largely sidesteps” privacy controls offered to users “to allow backup apps to function properly on Mac.” The company doesn’t say when it plans to roll out its update for full disk access. Apple didn’t immediately respond to The Verge’s request for comment.",
-  "fetchedAt": "2026-10-03T02:09:31.471Z",
-  "score": 72,
+  "fetchedAt": "2026-10-04T02:47:25.019Z",
+  "score": 66,
   "sourceWeight": 80,
   "tags": [
     "AI",
     "科技",
     "全球"
   ],
-  "rank": 17,
+  "rank": 18,
   "contentStatus": "article-extracted",
   "chineseTitle": "苹果将​​限制 Mac 磁盘访问，因为 AI 代理“大幅”增加了风险",
   "chineseSummary": "据 TechCrunch 早些时候报道，苹果将在 Mac 上增加“全磁盘访问”的新限制，以应对人工智能代理带来的风险。苹果在周五的更新中表示，它正在推出新的控制措施，以“确保真正希望授予应用程序这种非凡访问级别的用户只能 [...]",

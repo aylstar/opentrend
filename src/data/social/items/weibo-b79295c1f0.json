@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b79295c1f0",
+  "slug": "weibo-内耗小姐和万能先生",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "内耗小姐和万能先生",
+  "summary": "微博热榜第 12 位：内耗小姐和万能先生，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E8%80%97%E5%B0%8F%E5%A7%90%E5%92%8C%E4%B8%87%E8%83%BD%E5%85%88%E7%94%9F%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-10-04T02:41:03.913Z",
+  "fetchedAt": "2026-10-04T02:48:10.983Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

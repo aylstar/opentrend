@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Medical plane with 6 on board missing off Massachusetts coast",
+  "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+  "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-10-03T21:16:21.000Z",
+  "id": "bbc-f20af634",
+  "slug": "bbc-f20af634",
+  "content": "The search for the plane is being conducted near Nantucket, an island off the coast of the US state of Massachusetts\n\nUS authorities are searching for six people after a medical plane bound for Boston, Massachusetts, went missing early Saturday morning.\n\nThe Federal Aviation Administration told the BBC that it lost contact with the Gulfstream G-100 plane and put out a search-and-rescue notice just after 1:00 local time (6:00 GMT).\n\nAn air and water search is underway off the coast of Nantucket, a Massachusetts island, according to the US Coast Guard's Northeast District.\n\nThe plane departed from Bermuda's L.F. Wade International Airport at 23:40 local time, according to flight data from FlightAware, and was slated to land at Boston's Logan International at 1:30 EDT (6:30 GMT).\n\nAccording to the tail number released by the Coast Guard, the plane belonged to Latitude Air Ambulances, a company that provides international medical flights for patients returning home.\n\nAmong those on board were two pilots and two medical staff, both Canadian, Clarence Togeretz, director of flight operations at Latitude, told CBC News.\n\nThe crew flew to Bermuda to collect a patient and their relative, who are not Canadian, Togeretz said.\n\nFlightAware's tracker shows the aircraft significantly dropped in altitude before its communications went dark, plummeting from around 7,300m (24,000ft) to 3,300m (11,000ft).\n\nRadio transmissions shows trouble with communications between the air traffic controller and the pilot, the Boston Globe reported based on transmissions provided by LiveATC.net.\n\n\"You're coming in blind? Is that what you said?,\" the air traffic controller asked. \"Are you declaring an emergency, or no?\"\n\nThe pilot's response was inaudible.\n\n\"You're coming in a little weak so I didn't hear what your response was, if you were declaring an emergency or not,\" the air traffic controller said, according to the Globe.\n\nThe air traffic controller later confirmed the pilot had declared an emergency.\n\nAn area fire dispatcher asked emergency crews just after 1:00 EDT to prepare to meet a plane with an \"electrical issue\".\n\nThe dispatcher later said \"the aircraft has lost radio and radar\".",
+  "fetchedAt": "2026-10-04T02:47:25.010Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "载有6人的医疗飞机在马萨诸塞州海岸失踪",
+  "chineseSummary": "根据飞行数据，飞机在高度大幅下降后与飞行控制器失去了联系。",
+  "chineseContent": "对这架飞机的搜寻工作正在美国马萨诸塞州海岸附近的楠塔基特岛附近进行\n\n周六凌晨，一架飞往马萨诸塞州波士顿的医疗飞机失踪，美国当局正在寻找六人。\n\n美国联邦航空管理局告诉 BBC，它与湾流 G-100 飞机失去了联系，并在当地时间 1:00（格林威治标准时间 6:00）刚过就发布了搜救通知。\n\n据美国海岸警卫队东北区称，马萨诸塞州楠塔基特岛海岸正在进行空中和水上搜索。\n\n根据 FlightAware 的航班数据，这架飞机于当地时间 23:40 从百慕大 L.F. 韦德国际机场起飞，预计于美国东部时间 1:30（格林尼治标准时间 6:30）降落在波士顿洛根国际机场。\n\n根据海岸警卫队公布的尾号，这架飞机属于Latitude Air Ambulances公司，该公司为回国的患者提供国际医疗航班。\n\nLatitude 飞行运营总监克拉伦斯·托格雷茨 (Clarence Togeretz) 告诉 CBC 新闻，机上人员包括两名飞行员和两名医务人员，均为加拿大人。\n\n托格雷茨说，机组人员飞往百慕大去接一名患者及其亲属，他们不是加拿大人。\n\nFlightAware 的跟踪器显示，在通信中断之前，飞机的高度大幅下降，从约 7,300m（24,000 英尺）骤降至 3,300m（11,000 英尺）。\n\n据《波士顿环球报》根据 LiveATC.net 提供的传输信息报道，无线电传输显示空中交通管制员和飞行员之间的通信存在问题。\n\n“你盲目地进来？你是这么说的吗？”空中交通管制员问道。 “你是宣布紧急状态，还是不宣布紧急状态？”\n\n飞行员的反应听不见。\n\n据《环球报》报道，空中交通管制员说：“你来的时候有点虚弱，所以我没有听到你的反应，无论你是否宣布紧急情况。”\n\n空中交通管制员后来证实飞行员已宣布进入紧急状态。\n\n美国东部时间 1:00 刚过，一名地区消防调度员要求紧急救援人员准备迎接一架出现“电气问题”的飞机。\n\n调度员后来说“飞机失去了无线电和雷达”。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

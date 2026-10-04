@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "An OpenAI safety employee has quit and is sounding the alarm",
+  "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+  "publishedAt": "2026-10-03T14:31:56.000Z",
+  "id": "the-verge-89a7d8f1",
+  "slug": "the-verge-89a7d8f1",
+  "content": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It’s understandable if you’re feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn’t mean we should discount their warnings. Robinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon Valley has operated with “extreme confidence” and “perpetual sprints,” he says, building bigger and better models with “unimpeded optimism” that ignores or underestimates potential problems. He says the time has come for AI companies to develop a sense of humility and look outside the insular, move-fast-and-break-things world of the tech industry. Specifically, he says AI needs nuclear-level safeguards: > Given today’s risks, frontier labs need to run like nuclear power plants or busy airports, with layers of redundancy and careful, time-consuming planning, so that the occasional and inevitable human error does not open a door to disaster. Robinson is just the latest in a growing parade of researchers and safety workers who have left their positions at prominent AI firms. Jacob Coxon seems to have kicked off the exodus by quitting Anthropic and then publicly saying AI “could kill us all by the end of the decade.” He was followed by Robert O’Callahan, Bilal Chughtai, and Josh Engels at Google DeepMind, as well as Joe Benton at Anthropic.",
+  "fetchedAt": "2026-10-04T02:47:25.019Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 安全员工辞职并敲响警钟",
+  "chineseSummary": "David Robinson 曾经撰写 OpenAI 发布的每个主要模型附带的安全报告。本周，他辞去了职务，现在在《大西洋月刊》的一篇社论中发表讲话。如果你对每个人突然冒出来警告多么危险感到有点愤世嫉俗，这是可以理解的[…]",
+  "chineseContent": "David Robinson 曾经撰写 OpenAI 发布的每个主要模型附带的安全报告。本周，他辞去了职务，现在在《大西洋月刊》的一篇社论中发表讲话。如果你对每个人突然冒出来警告他们帮助建造的东西有多么危险感到有点愤世嫉俗，这是可以理解的。毕竟，他们确实把这件事弄得一团糟。但这并不意味着我们应该忽视他们的警告。罗宾逊表示，工业文化从根本上被打破了。这是一个比简单地就我们如何处理训练模型制定一些新规则或规定更深入的问题。他说，硅谷一直以“极度自信”和“不断冲刺”的方式运作，以“无阻碍的乐观态度”建立更大更好的模型，忽视或低估潜在的问题。他表示，人工智能公司现在应该培养谦虚的态度，并跳出狭隘、快速行动、打破常规的科技行业世界。具体来说，他说人工智能需要核级别的保障措施： > 鉴于当今的风险，前沿实验室需要像核电站或繁忙的机场一样运行，具有多层冗余和仔细、耗时的规划，这样偶尔和不可避免的人为错误就不会打开灾难之门。越来越多的研究人员和安全工作者离开了著名人工智能公司的职位，罗宾逊只是其中最新的一个。雅各布·考克森 (Jacob Coxon) 似乎通过退出 Anthropic 开始了人才外流，然后公开表示人工智能“可能会在本世纪末杀死我们所有人”。紧随其后的是 Google DeepMind 的 Robert O’Callahan、Bilal Chughtai 和 Josh Engels，以及 Anthropic 的 Joe Benton。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

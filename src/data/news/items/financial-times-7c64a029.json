@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Co-pilot used axe to carry out ‘terrorist act’ on Flydubai flight",
+  "summary": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit",
+  "url": "https://www.ft.com/content/36b90fa1-f61e-4563-8622-127cdb471101?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-03T17:21:11.000Z",
+  "id": "financial-times-7c64a029",
+  "slug": "financial-times-7c64a029",
+  "content": "Flight 1073 was heading to Tel Aviv when the attack was launched in the cockpit",
+  "fetchedAt": "2026-10-04T02:47:25.026Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "产品"
+  ],
+  "rank": 29,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Flydubai 航班副机长使用斧头实施“恐怖行为”",
+  "chineseSummary": "1073航班正飞往特拉维夫，驾驶舱内遭到袭击",
+  "chineseContent": "1073航班正飞往特拉维夫，驾驶舱内遭到袭击",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -8,12 +8,12 @@
   "language": "Dart",
   "githubUrl": "https://github.com/flutter/flutter",
   "docsUrl": "https://flutter.dev",
-  "stars": 179258,
-  "forks": 32856,
-  "openIssues": 13272,
+  "stars": 179311,
+  "forks": 32948,
+  "openIssues": 13270,
   "license": "BSD-3-Clause",
-  "pushedAt": "2026-10-03T01:35:52Z",
-  "updatedAt": "2026-10-03T02:01:40Z",
+  "pushedAt": "2026-10-03T06:28:42Z",
+  "updatedAt": "2026-10-04T02:38:48Z",
   "createdAt": "2015-03-06T22:54:58Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<a href=\"https://flutter.dev/\">\n  <h1 align=\"center\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://docs.flutter.dev/logo_dark.png\">\n      <img alt=\"Flutter\" src=\"https://docs.flutter.dev/logo.png\">\n    </picture>\n  </h1>\n</a>\n\n[![Flutter CI Status](https://flutter-dashboard.appspot.com/api/public/build-status-badge?repo=flutter)](https://flutter-dashboard.appspot.com/#/build?repo=flutter)\n[![Discord badge][]][Discord instructions]\n[![Twitter handle][]][Twitter badge]\n[![BlueSky badge][]][BlueSky handle]\n[![LFX Health Score](https://insights.linuxfoundation.org/api/badge/health-score?project=flutter)](https://insights.linuxfoundation.org/project/flutter)\n[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5631/badge)](https://bestpractices.coreinfrastructure.org/projects/5631)\n[![SLSA 1](https://slsa.dev/images/gh-badge-level1.svg)](https://slsa.dev)\n\nFlutter is Google's SDK for crafting beautiful, fast user experiences for\nmobile, web, and desktop from a single codebase. Flutter works with existing\ncode, is used by developers and organizations around the world, and is free and\nopen source.\n\n## Documentation\n\n* [Install Flutter](https://docs.flutter.dev/get-started)\n* [Flutter documentation](https://docs.flutter.dev)\n* [Development wiki](./docs/README.md)\n* [Contributing to Flutter](https://github.com/flutter/flutter/blob/main/CONTRIBUTING.md)\n\nFor release and other announcements, join the\n[flutter-announce](https://groups.google.com/g/flutter-announce)\nmailing list. Our documentation also tracks [breaking\nchanges](https://docs.flutter.dev/release/breaking-changes) across releases.\n\n## Terms of service\n\nThe Flutter tool may occasionally download resources from Google servers. By\ndownloading or using the Flutter SDK, you agree to the Google Terms of Service:\nhttps://policies.google.com/terms\n\nFor example, when installed from GitHub (as opposed to from a prepackaged\narchive), the Flutter tool will download the Dart SDK from Google servers\nimmediately when first run, as it is used to execute the `flutter` tool itself.\nThis will also occur when Flutter is upgraded (e.g. by running the `flutter\nupgrade` command).\n\n## About Flutter\n\nWe think Flutter will help you create beautiful, fast apps, with a productive,\nextensible and open development model, whether you're targeting iOS or Android,\nweb, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of\nyour choice.\n\n### Beautiful user experiences\n\nWe want to enable designers to deliver their full creative vision without being\nforced to water it down due to limitations of the underlying framework.\nFlutter's [layered architecture] gives you control over every pixel on the\nscreen and its powerful compositing capabilities let you overlay and animate\ngraphics, video, text, and controls without limitation. Flutter includes a full\n[set of widgets][widget catalog] that deliver pixel-perfect experiences whether\nyou're building for iOS ([C",
-  "generatedAt": "2026-10-03T02:09:14.691Z",
+  "generatedAt": "2026-10-04T02:47:10.318Z",
   "analysis": {
     "oneLine": "flutter 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
     "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
     "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
     "detailParagraphs": [
       "flutter 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
-      "如果把它放进实际使用场景，flutter 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 179,258，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Dart 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，flutter 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 179,311，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Dart 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

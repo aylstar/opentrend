@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/pbakaus/impeccable",
   "docsUrl": "https://impeccable.style",
-  "stars": 74353,
-  "forks": 4483,
-  "openIssues": 61,
+  "stars": 75383,
+  "forks": 4518,
+  "openIssues": 64,
   "license": "Apache-2.0",
-  "pushedAt": "2026-10-03T01:26:40Z",
-  "updatedAt": "2026-10-03T01:59:21Z",
+  "pushedAt": "2026-10-03T07:35:50Z",
+  "updatedAt": "2026-10-04T02:46:29Z",
   "createdAt": "2025-11-16T01:52:04Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Impeccable\n\nDesign guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design.\n\n> **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style).\n\n## Why Impeccable?\n\nAnthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used design skill for Claude. Impeccable started from there.\n\nEvery model trained on the same SaaS templates. Skip the guidance and you get the same handful of tells on every project: Inter for everything, purple-to-blue gradients, cards nested in cards, gray text on colored backgrounds, the rounded-square icon tile above every heading.\n\nImpeccable adds:\n- **One setup flow.** `/impeccable init` records durable product truth in `PRODUCT.md`, so later commands know the audience, purpose, operating context, constraints, voice, and evidence without confusing those facts with surface-level visual direction.\n- **24 commands.** A shared design vocabulary with your AI: `polish`, `audit`, `critique`, `distill`, `animate`, `bolder`, `quieter`, and more.\n- **61 deterministic detector rules** plus LLM-only critique checks. The CLI and browser extension run the deterministic rules with no LLM and no API key.\n\n## What's Included\n\n### The Skill: impeccable\n\nThe skill installs as one command:\n\n```bash\n/impeccable <command> <target>\n```\n\nStart every new project with:\n\n```bash\n/impeccable init\n```\n\n`init` inspects the project, asks only for material gaps in durable product truth, and writes `PRODUCT.md`. Visitor mode and visual direction are chosen later for each surface; incumbent or newly built visual systems are recorded separately in `DESIGN.md`.\n\n### 24 Commands\n\nAll commands are accessed through `/impeccable`:\n\n| Command | What it does |\n|---------|--------------|\n| `/impeccable craft` | Full shape-then-build flow with visual iteration |\n| `/impeccable init` | One-time setup: gather durable product context, write PRODUCT.md, configure live mode when applicable, recommend next steps |\n| `/impeccable document` | Generate root DESIGN.md from existing project code |\n| `/impeccable extract` | Pull reusable components and tokens into the design system |\n| `/impeccable shape` | Plan UX/UI before writing code |\n| `/impeccable critique` | UX design review: hierarchy, clarity, emotional resonance |\n| `/impeccable audit` | Run technical quality checks (a11y, performance, responsive) |\n| `/impeccable polish` | Final pass, design system alignment, and shipping readiness |\n| `/impeccable bolder` | Amplify boring designs |\n| `/impeccable quieter` | Tone down overly bold designs |\n| `/impeccable distill` | Strip to essence |\n| `/impeccable harden` | Error handling, i18n, text overflow, edge cases |\n| `/impeccable onboard` | First-run flows, empty states, activation paths |\n| `/impeccab",
-  "generatedAt": "2026-10-03T02:09:15.090Z",
+  "generatedAt": "2026-10-04T02:47:07.489Z",
   "analysis": {
     "oneLine": "impeccable 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "impeccable 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，impeccable 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 74,353，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，impeccable 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 75,383，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2720357123",
+  "slug": "weibo-知否-剧情设定",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "知否 剧情设定",
+  "summary": "微博热榜第 47 位：知否 剧情设定，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%A6+%E5%89%A7%E6%83%85%E8%AE%BE%E5%AE%9A%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-10-04T02:41:03.913Z",
+  "fetchedAt": "2026-10-04T02:48:10.984Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
