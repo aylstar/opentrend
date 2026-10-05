@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6b2d2c2007",
+  "slug": "weibo-过期但可以正常使用的物品",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "过期但可以正常使用的物品",
+  "summary": "微博热榜第 21 位：过期但可以正常使用的物品，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%9C%9F%E4%BD%86%E5%8F%AF%E4%BB%A5%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E7%89%A9%E5%93%81%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-10-05T02:12:03.779Z",
+  "fetchedAt": "2026-10-05T02:12:36.094Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

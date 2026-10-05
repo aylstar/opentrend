@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a4c35570fd",
+  "slug": "weibo-央视00后主播上新",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "央视00后主播上新",
+  "summary": "微博热榜第 10 位：央视00后主播上新，当前热度为 58万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%8600%E5%90%8E%E4%B8%BB%E6%92%AD%E4%B8%8A%E6%96%B0%23",
+  "hotValue": "58万热度",
+  "author": "",
+  "publishedAt": "2026-10-05T02:12:03.779Z",
+  "fetchedAt": "2026-10-05T02:12:36.094Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

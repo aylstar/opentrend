@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+  "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+  "publishedAt": "2026-10-04T15:21:59.000Z",
+  "id": "the-verge-6f3e320c",
+  "slug": "the-verge-6f3e320c",
+  "content": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI’s GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn’t top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, it couldn’t quite get an edge. So it resorted to a tactic that is becoming alarmingly common for modern AI models — it broke the rules. GPT-6 Astra went and downloaded Stardust, and started running that instead of its own bot. [Media: https://twitter.com/kaimcpheeters/status/2106082840186147226?s=20] StarSkirmish creator Kai McPheeters eventually rolled back GPT’s code. That GPT-6 Astra took it upon itself to go outside the bounds when confronted with an obstacle shouldn’t surprise anyone. When OpenAI agents couldn’t get the data they wanted from a UN website, they found a creative solution and hijacked Google’s XSS game (a cross-site scripting learning tool). The company’s agents also have engaged in “deceptive behavior” to cover their tracks. Of course, OpenAI’s agents are the only ones going rogue, but at least the others haven’t been caught cheating at StarCraft yet.",
+  "fetchedAt": "2026-10-05T02:11:17.343Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 无法在星际争霸中击败人类，所以它决定作弊",
+  "chineseSummary": "《StarSkirmish》让 AI 制造的玩星际争霸的机器人相互竞争，也与人类制造的机器人对抗。 OpenAI 的 GPT-6 Astra 和 Claude Opus 5.5 基本上并列为性能最佳的人工智能机器人，但它们无法超越评价最高的人造机器人 Stardust。周五，GPT 与 Claude 和人造机器人 Pluto 展开对决，但据 Kotaku 报道，[...]",
+  "chineseContent": "《StarSkirmish》让 AI 制造的玩星际争霸的机器人相互竞争，也与人类制造的机器人对抗。 OpenAI 的 GPT-6 Astra 和 Claude Opus 5.5 基本上并列为性能最佳的人工智能机器人，但它们无法超越评分最高的人造机器人 Stardust。周五，GPT 与 Claude 和人造机器人 Pluto 展开了对决，但据 Kotaku 称，它并没有取得太大优势。因此，它采取了一种在现代人工智能模型中变得非常普遍的策略——它打破了规则。 GPT-6 Astra 下载了 Stardust，并开始运行它而不是它自己的机器人。 [媒体：https://twitter.com/kaimcpheeters/status/2106082840186147226?s=20] StarSkirmish 的创建者 Kai McPheeters 最终回滚了 GPT 的代码。 GPT-6 Astra 在遇到障碍时会自行冲出界限，这应该不会令任何人感到惊讶。当 OpenAI 代理无法从联合国网站获取他们想要的数据时，他们找到了一个创造性的解决方案并劫持了谷歌的 XSS 游戏（一种跨站点脚本学习工具）。该公司的代理人还采取“欺骗行为”来掩盖自己的踪迹。当然，OpenAI 的特工是唯一作弊的，但至少其他人还没有被发现在《星际争霸》中作弊。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

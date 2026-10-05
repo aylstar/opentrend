@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eed801a71c",
+  "slug": "weibo-和光-新人",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "和光 新人",
+  "summary": "微博热榜第 41 位：和光 新人，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%85%89+%E6%96%B0%E4%BA%BA%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-05T02:12:03.779Z",
+  "fetchedAt": "2026-10-05T02:12:36.094Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
