@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "This startup is issuing AI-generated acne prescriptions",
+  "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+  "publishedAt": "2026-10-05T20:14:57.000Z",
+  "id": "the-verge-9b14ae80",
+  "slug": "the-verge-9b14ae80",
+  "content": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they’re issued for the first 100 patients, but will start reviewing them only after they’re prescribed for up to 500 patients. “After that, physicians review a sample of at least 10% of prescriptions every month, plus every case involving an escalation or side effect,” Nolla Health says. [Media: https://www.youtube.com/watch?v=PJmGHkxAMBI] Several other healthcare companies are experimenting with AI-generated prescriptions in Utah, which started allowing AI systems to renew certain medications earlier this year. But Nolla Health says it’s the first in the country to issue initial prescriptions, rather than renewals. “The pilot is designed to complement, not replace, physicians,” Nolla Health writes in its press release. “By handling routine, low-acuity cases, Nolla Derm frees dermatologists to focus on complex, high-risk patients.” The program will cost $4.99 / month, and only applies to Utah residents who are 18 years of age or older and have mild-to-moderate acne. Nolla Health says it will direct users to a physician if its AI system cannot “confidently select a treatment.” The startup’s AI can currently prescribe eight different skin treatments, according to Bloomberg.",
+  "fetchedAt": "2026-10-06T03:10:45.632Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "This startup is issuing AI-generated acne prescriptions",
+  "chineseSummary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching […]",
+  "chineseContent": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they’re issued for the first 100 patients, but will start reviewing them only after they’re prescribed for up to 500 patients. “After that, physicians review a sample of at least 10% of prescriptions every month, plus every case involving an escalation or side effect,” Nolla Health says. [Media: https://www.youtube.com/watch?v=PJmGHkxAMBI] Several other healthcare companies are experimenting with AI-generated prescriptions in Utah, which started allowing AI systems to renew certain medications earlier this year. But Nolla Health says it’s the first in the country to issue initial prescriptions, rather than renewals. “The pilot is designed to complement, not replace, physicians,” Nolla Health writes in its press release. “By handling routine, low-acuity cases, Nolla Derm frees dermatologists to focus on complex, high-risk patients.” The program will cost $4.99 / month, and only applies to Utah residents who are 18 years of age or older and have mild-to-moderate acne. Nolla Health says it will direct users to a physician if its AI system cannot “confidently select a treatment.” The startup’s AI can currently prescribe eight different skin treatments, according to Bloomberg.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

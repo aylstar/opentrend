@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/Effect-TS/effect",
   "docsUrl": "https://effect.website",
-  "stars": 16974,
-  "forks": 819,
-  "openIssues": 300,
+  "stars": 17052,
+  "forks": 828,
+  "openIssues": 322,
   "license": "MIT",
-  "pushedAt": "2026-10-04T21:51:01Z",
-  "updatedAt": "2026-10-05T02:08:44Z",
+  "pushedAt": "2026-10-06T03:08:19Z",
+  "updatedAt": "2026-10-06T03:07:02Z",
   "createdAt": "2019-11-13T12:49:21Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<!-- Use a static Shields badge because pkg.pr.new's dynamic badge times out while counting this repository's releases. -->\n\n[![pkg.pr.new](https://img.shields.io/badge/pkg.pr.new-Effect--TS%2Feffect-black)](https://pkg.pr.new/~/Effect-TS/effect)\n\n# Effect\n\nEffect is a library for building robust, maintainable, type-safe, and production grade applications in TypeScript. It helps you handle the hard problems at scale: typed errors, dependency injection, structured concurrency, scheduling, tracing, and unified schema validation.\n\n> **Effect 4.x is a long-term support (LTS) release.** If you are upgrading from Effect 3.x, follow the [migration guide](MIGRATION.md).\n\n## Installation\n\n```sh\nnpm install effect\n```\n\n## Requirements\n\n- **TypeScript 5.9 or newer.** TypeScript 7 is recommended for the best performance and compatibility with [Effect's TypeScript tooling](https://github.com/Effect-TS/tsgo#installation).\n- **Node.js 18 or newer** is the general minimum for running Effect on Node.js. Some integration packages require newer runtimes; for example, `@effect/sql-sqlite-node` requires Node.js 22.16 or newer.\n- **Strict type-checking:** the `strict` flag must be enabled in your `tsconfig.json`.\n\n## Links\n\n- [Website](https://effect.website): documentation, guides, and news\n- [Discord](https://discord.gg/effect-ts): ask questions, share what you're building, and talk to the core team\n- [Community](https://effect.website/community-hub): meetups and events, or bring Effect to your own\n- [Issues](https://github.com/Effect-TS/effect/issues): bug reports and feature requests\n- [Jobs](https://effect.website/effect-jobs): companies hiring Effect developers\n- Follow us on [X](https://x.com/EffectTS_), [Bluesky](https://bsky.app/profile/effect-ts.bsky.social), and [LinkedIn](https://www.linkedin.com/company/effect-ts)\n\n## Let's talk\n\nWhether your team is considering Effect, rolling it out, or already running it in production, we'd love to hear from you: what you're building, what works, and what you need from Effect next.\n\n- **Talk to the maintainers.** Introduce your team on [Discord](https://discord.gg/effect-ts) or email [contact@effectful.co](mailto:contact@effectful.co). We're happy to connect privately on Slack or Discord for feedback and help with adoption.\n- **Production support.** We're exploring how to better support teams running Effect in production. If your organization has specific support needs, let's discuss them.\n- **Adoption help.** Our [adoption partners](https://effect.website/adoption-partners) offer implementation, consulting, team extension, training, and commercial support.\n\nFeedback from teams using and evaluating Effect directly shapes what we stabilize and build next.\n\n## Long-term support\n\nTeams depend on Effect for systems they expect to run for years. Effect 4.x is a long-term support (LTS) release with the following guarantees:\n\n- At least three years of support, including bug and security fixes.\n- Bug fixes for one year after t",
-  "generatedAt": "2026-10-05T02:11:00.864Z",
+  "generatedAt": "2026-10-06T03:10:24.545Z",
   "analysis": {
     "oneLine": "effect 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
     "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
     "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
     "detailParagraphs": [
       "effect 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
-      "如果把它放进实际使用场景，effect 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 16,974，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，effect 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 17,052，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

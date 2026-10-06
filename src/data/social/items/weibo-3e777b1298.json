@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3e777b1298",
+  "slug": "weibo-黄仁勋世界巡演",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "黄仁勋世界巡演",
+  "summary": "微博热榜第 20 位：黄仁勋世界巡演，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-10-06T03:05:03.703Z",
+  "fetchedAt": "2026-10-06T03:11:29.295Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

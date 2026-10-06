@@ -672,3 +672,7 @@
 {"type":"source_ok","at":"2026-10-05T02:12:36.089Z","platform":"weibo","source":"UAPI Hotboard","url":"https://uapis.cn/api/v1/misc/hotboard?type=weibo","count":50}
 {"type":"source_ok","at":"2026-10-05T02:12:36.392Z","platform":"douyin","source":"UAPI Hotboard","url":"https://uapis.cn/api/v1/misc/hotboard?type=douyin","count":50}
 {"type":"social_report_generated","at":"2026-10-05T02:12:36.407Z","date":"2026-10-05","stats":{"totalItems":110,"xiaohongshuItems":10,"douyinItems":50,"weiboItems":50},"sources":["Fallback","UAPI Hotboard"]}
+{"type":"source_ok","at":"2026-10-06T03:11:29.177Z","platform":"xiaohongshu","source":"60s API Rednote","url":"https://60s.viki.moe/v2/rednote","count":20}
+{"type":"source_ok","at":"2026-10-06T03:11:29.292Z","platform":"weibo","source":"UAPI Hotboard","url":"https://uapis.cn/api/v1/misc/hotboard?type=weibo","count":50}
+{"type":"source_ok","at":"2026-10-06T03:11:34.254Z","platform":"douyin","source":"UAPI Hotboard","url":"https://uapis.cn/api/v1/misc/hotboard?type=douyin","count":50}
+{"type":"social_report_generated","at":"2026-10-06T03:11:34.263Z","date":"2026-10-06","stats":{"totalItems":120,"xiaohongshuItems":20,"douyinItems":50,"weiboItems":50},"sources":["60s API Rednote","UAPI Hotboard"]}

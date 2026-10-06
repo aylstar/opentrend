@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Euro slides to 17-month low against dollar",
+  "summary": "High energy prices and concerns over France’s public finances add to pressure on the single currency",
+  "url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-05T15:44:32.000Z",
+  "id": "financial-times-f66732e3",
+  "slug": "financial-times-f66732e3",
+  "content": "High energy prices and concerns over France’s public finances add to pressure on the single currency",
+  "fetchedAt": "2026-10-06T03:10:45.637Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "财经"
+  ],
+  "rank": 10,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Euro slides to 17-month low against dollar",
+  "chineseSummary": "High energy prices and concerns over France’s public finances add to pressure on the single currency",
+  "chineseContent": "High energy prices and concerns over France’s public finances add to pressure on the single currency",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

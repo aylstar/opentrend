@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3c47fc6e61",
+  "slug": "weibo-李荣浩回复邓紫棋",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "李荣浩回复邓紫棋",
+  "summary": "微博热榜第 16 位：李荣浩回复邓紫棋，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%9B%9E%E5%A4%8D%E9%82%93%E7%B4%AB%E6%A3%8B%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-10-06T03:05:03.703Z",
+  "fetchedAt": "2026-10-06T03:11:29.295Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

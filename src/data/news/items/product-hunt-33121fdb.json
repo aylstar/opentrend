@@ -1,25 +1,26 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "Cloudflare OS",
-  "summary": "Build the AI operating system for your company Discussion | Link",
+  "originalTitle": "Web Search API",
+  "summary": "Give AI Agents Access to Live Internet Data Discussion | Link",
   "url": "https://www.producthunt.com/products/cloudflare",
-  "publishedAt": "2026-08-05T18:52:07.000Z",
+  "publishedAt": "2026-10-04T18:43:14.000Z",
   "id": "product-hunt-33121fdb",
   "slug": "product-hunt-33121fdb",
-  "content": "Cloudflare is a leading edge network services provider that offers a wide range of solutions to enhance the security, performance, and reliability of websites and applications. With its global network infrastructure and advanced technologies, Cloudflare empowers businesses to build a faster, more secure, and resilient online presence.",
-  "fetchedAt": "2026-08-07T23:55:43.056Z",
+  "content": "Give AI Agents Access to Live Internet Data Discussion | Link",
+  "fetchedAt": "2026-10-06T03:10:45.630Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
+    "科技",
     "全球"
   ],
-  "rank": 8,
-  "contentStatus": "article-extracted",
-  "chineseTitle": "Cloudflare操作系统",
-  "chineseSummary": "为您的公司构建人工智能操作系统 讨论 |关联",
-  "chineseContent": "Cloudflare 是一家领先的网络服务提供商，提供广泛的解决方案来增强网站和应用程序的安全性、性能和可靠性。凭借其全球网络基础设施和先进技术，Cloudflare 使企业能够构建更快、更安全、更有弹性的在线业务。",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "rank": 9,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Web Search API",
+  "chineseSummary": "Give AI Agents Access to Live Internet Data Discussion | Link",
+  "chineseContent": "Give AI Agents Access to Live Internet Data Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

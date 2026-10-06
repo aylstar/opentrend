@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Gemini Call for Me might tell your mom you’re running late",
+  "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+  "publishedAt": "2026-10-05T23:09:55.000Z",
+  "id": "the-verge-400383d3",
+  "slug": "the-verge-400383d3",
+  "content": "Google may be expanding its “Call for Me” AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a “Gemini Calling” introductory screen in an APK teardown with examples that include “Call Mom and tell her I will be 15 minutes late” and “Call John and ask if he is coming for dinner.” Based on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google’s AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or even still have a landline phone.&nbsp; Android Authority also says it found “granular permissions” for Gemini actions in individual apps, including what appear to be settings for phone call permissions. These settings would allow users to pick and choose which app capabilities they want to allow Gemini to access, potentially giving users an option to opt out of receiving incoming automated calls from Gemini. However, as Android Authority notes, it’s also possible Google might not publicly release this expansion or the granular Gemini app settings.",
+  "fetchedAt": "2026-10-06T03:10:45.631Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gemini Call for Me might tell your mom you’re running late",
+  "chineseSummary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call […]",
+  "chineseContent": "Google may be expanding its “Call for Me” AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a “Gemini Calling” introductory screen in an APK teardown with examples that include “Call Mom and tell her I will be 15 minutes late” and “Call John and ask if he is coming for dinner.” Based on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google’s AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or even still have a landline phone.&nbsp; Android Authority also says it found “granular permissions” for Gemini actions in individual apps, including what appear to be settings for phone call permissions. These settings would allow users to pick and choose which app capabilities they want to allow Gemini to access, potentially giving users an option to opt out of receiving incoming automated calls from Gemini. However, as Android Authority notes, it’s also possible Google might not publicly release this expansion or the granular Gemini app settings.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
