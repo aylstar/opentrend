@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Penguin Mail – open-source Rust email client for Linux with AI",
+  "summary": "78 points · 32 comments",
+  "content": "Gmail, Microsoft and any IMAP or POP3 account, with your calendar and contacts, in one fast app on your own computer.",
+  "url": "https://penguin-mail.com/",
+  "publishedAt": "2026-10-06T21:59:43.000Z",
+  "points": 78,
+  "id": "hacker-news-71d1d8ad",
+  "slug": "hacker-news-71d1d8ad",
+  "fetchedAt": "2026-10-07T02:33:02.355Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Penguin Mail – open-source Rust email client for Linux with AI",
+  "chineseSummary": "78 points · 32 comments",
+  "chineseContent": "Gmail, Microsoft and any IMAP or POP3 account, with your calendar and contacts, in one fast app on your own computer.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

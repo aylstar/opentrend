@@ -4108,3 +4108,101 @@
 {"type":"public_translation_error","at":"2026-10-06T03:11:26.671Z","id":"youtube-82d87bc0","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-10-06T03:11:27.043Z","id":"youtube-98352aa2","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-10-06T03:11:27.049Z","date":"2026-10-06","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-10-07T02:32:52.610Z","source":"Guardian","url":"https://content.guardianapis.com/search?api-key=test&show-fields=trailText,bodyText,headline&page-size=20&order-by=newest","error":"401 Unauthorized"}
+{"type":"source_error","at":"2026-10-07T02:33:02.346Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:02.850Z","id":"hacker-news-caf04e5","source":"Hacker News","url":"https://openai.com/index/sharing-ai-progress-in-mathematics/","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:02.973Z","id":"hacker-news-c58ef16d","source":"Hacker News","url":"https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.328Z","id":"product-hunt-d2fa3982","source":"Product Hunt","url":"https://www.producthunt.com/products/cosmic","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.797Z","id":"product-hunt-3a34eb81","source":"Product Hunt","url":"https://www.producthunt.com/products/iphone-use","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.798Z","id":"product-hunt-2082aef9","source":"Product Hunt","url":"https://www.producthunt.com/products/customer-service-ai-for-etsy","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.801Z","id":"product-hunt-769dc9f","source":"Product Hunt","url":"https://www.producthunt.com/products/review-2","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.808Z","id":"product-hunt-9890c37d","source":"Product Hunt","url":"https://www.producthunt.com/products/the-sentient-world","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.873Z","id":"product-hunt-383ee1fa","source":"Product Hunt","url":"https://www.producthunt.com/products/appto","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:03.875Z","id":"product-hunt-d7ec7ef5","source":"Product Hunt","url":"https://www.producthunt.com/products/floani","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:04.836Z","id":"financial-times-948a8193","source":"Financial Times","url":"https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:04.847Z","id":"financial-times-bd074c61","source":"Financial Times","url":"https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:04.853Z","id":"financial-times-64650f6b","source":"Financial Times","url":"https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:05.485Z","id":"marketwatch-2e0d359f","source":"MarketWatch","url":"https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:05.532Z","id":"marketwatch-2ef9c79e","source":"MarketWatch","url":"https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-07T02:33:06.447Z","id":"investing-f25d1bbe","source":"Investing","url":"https://www.investing.com/news/stock-market-news/hang-seng-oversold-at-23876-with-rsi-2796-live-levels-93CH-4930985","error":"403 Forbidden"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:07.080Z","id":"bbc-d6b09788","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:07.401Z","id":"bbc-bd7754de","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:07.643Z","id":"bbc-5b308f54","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:07.876Z","id":"bbc-a5ec1e54","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:08.190Z","id":"bbc-2930ba91","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:08.542Z","id":"bbc-a9a0c241","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:08.772Z","id":"bbc-7fbf7d2f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:09.076Z","id":"bbc-255b0897","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:09.289Z","id":"bbc-fec99433","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:09.520Z","id":"bbc-a0bf4182","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:09.786Z","id":"bbc-c2eaee4e","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:10.068Z","id":"bbc-31b95863","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:10.459Z","id":"bbc-5c3202fc","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:10.858Z","id":"bbc-2b09ea6","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:11.093Z","id":"bbc-ef314367","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:11.317Z","id":"bbc-d4eab0e","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:11.541Z","id":"bbc-f6de2d0a","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:11.925Z","id":"bbc-ec1f18c0","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:12.348Z","id":"bbc-ea835c","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:12.596Z","id":"bbc-5bc631e2","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:12.977Z","id":"hacker-news-c58ef16d","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:13.195Z","id":"hacker-news-52d806a8","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:13.489Z","id":"hacker-news-caf04e5","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:13.827Z","id":"hacker-news-dae22f5f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:14.087Z","id":"hacker-news-a6a47d78","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:14.397Z","id":"hacker-news-deb63cf","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:14.711Z","id":"hacker-news-71d1d8ad","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:15.045Z","id":"product-hunt-d2fa3982","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:15.375Z","id":"product-hunt-3a34eb81","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:15.660Z","id":"product-hunt-2082aef9","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:15.934Z","id":"product-hunt-9890c37d","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:16.158Z","id":"product-hunt-769dc9f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:16.411Z","id":"product-hunt-d7ec7ef5","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:16.708Z","id":"product-hunt-383ee1fa","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:16.937Z","id":"the-verge-478bede9","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:17.262Z","id":"the-verge-dd13d2fc","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:17.541Z","id":"the-verge-5556305f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:17.901Z","id":"the-verge-1fd2507c","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:18.311Z","id":"the-verge-dc7bf74a","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:18.525Z","id":"the-verge-ceb99376","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:18.880Z","id":"bloomberg-e52388da","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:19.185Z","id":"bloomberg-6a4973aa","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:19.435Z","id":"bloomberg-cf93c7de","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:19.795Z","id":"bloomberg-a8c56067","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:20.051Z","id":"bloomberg-5b181ea7","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:20.337Z","id":"bloomberg-299e08fa","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:20.568Z","id":"reuters-859586dc","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:20.844Z","id":"reuters-f0610cae","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:21.167Z","id":"reuters-9a4205bd","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:21.433Z","id":"reuters-fedbb0f5","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:21.715Z","id":"reuters-7451b5d0","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:21.940Z","id":"reuters-7dd7d033","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:22.189Z","id":"financial-times-64650f6b","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:22.457Z","id":"financial-times-948a8193","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:22.682Z","id":"financial-times-bd074c61","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:22.983Z","id":"cnbc-6f41c4bb","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:23.205Z","id":"cnbc-4f301686","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:23.503Z","id":"cnbc-a00a2df3","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:23.856Z","id":"cnbc-4aac54e0","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:24.181Z","id":"cnbc-9dbceba9","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:24.411Z","id":"cnbc-5ed51425","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:24.729Z","id":"marketwatch-2ef9c79e","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:25.011Z","id":"marketwatch-2e0d359f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:25.311Z","id":"yahoo-finance-bf3fb3ab","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:25.615Z","id":"yahoo-finance-4bead281","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:25.945Z","id":"yahoo-finance-fa010b2a","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:26.184Z","id":"yahoo-finance-d349b1d6","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:26.485Z","id":"yahoo-finance-ff01a6e","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:26.730Z","id":"yahoo-finance-334f1d0d","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:26.943Z","id":"investing-f25d1bbe","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:27.232Z","id":"youtube-f8cee299","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:27.512Z","id":"youtube-6d549e16","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:27.815Z","id":"youtube-a842bb44","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:28.037Z","id":"youtube-29a7f7d5","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:28.305Z","id":"youtube-2cd16f85","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:28.529Z","id":"youtube-32601746","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:28.786Z","id":"youtube-7c5c859f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:29.147Z","id":"youtube-d38a9082","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:29.429Z","id":"youtube-82d87bc0","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-07T02:33:29.814Z","id":"youtube-98352aa2","error":"429 Too Many Requests"}
+{"type":"news_report_generated","at":"2026-10-07T02:33:29.823Z","date":"2026-10-07","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

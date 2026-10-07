@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+  "summary": "Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks",
+  "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-06T20:58:07.000Z",
+  "id": "financial-times-948a8193",
+  "slug": "financial-times-948a8193",
+  "content": "Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks",
+  "fetchedAt": "2026-10-07T02:33:02.365Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+  "chineseSummary": "Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks",
+  "chineseContent": "Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

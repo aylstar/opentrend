@@ -1,0 +1,60 @@
+{
+  "slug": "hunxbyts__ghosttrack",
+  "owner": "HunxByts",
+  "repo": "GhostTrack",
+  "name": "GhostTrack",
+  "fullName": "HunxByts/GhostTrack",
+  "description": "Useful tool to track location or mobile number",
+  "language": "Python",
+  "githubUrl": "https://github.com/HunxByts/GhostTrack",
+  "docsUrl": "",
+  "stars": 17231,
+  "forks": 2348,
+  "openIssues": 128,
+  "license": "",
+  "pushedAt": "2024-01-11T15:36:46Z",
+  "updatedAt": "2026-10-07T02:09:53Z",
+  "createdAt": "2023-04-15T07:20:47Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "安全隐私"
+  ],
+  "recommendation": 2,
+  "readmeExcerpt": "# GhostTrack\nUseful tool to track location or mobile number, so this tool can be called osint or also information gathering\n\n<img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png\"/>\n\nNew update :\n```Version 2.2```\n\n### Instalation on Linux (deb)\n```\nsudo apt-get install git\nsudo apt-get install python3\n```\n\n### Instalation on Termux\n```\npkg install git\npkg install python3\n```\n\n### Usage Tool\n```\ngit clone https://github.com/HunxByts/GhostTrack.git\ncd GhostTrack\npip3 install -r requirements.txt\npython3 GhostTR.py\n```\n\nDisplay on the menu ```IP Tracker```\n\n<img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png \" />\n\non the IP Track menu, you can combo with the seeker tool to get the target IP\n<details>\n<summary>:zap: Install Seeker :</summary>\n- <strong><a href=\"https://github.com/thewhiteh4t/seeker\">Get Seeker</a></strong>\n</details>\n\nDisplay on the menu ```Phone Tracker```\n\n<img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png\" />\n\non this menu you can search for information from the target phone number\n\nDisplay on the menu ```Username Tracker```\n\n<img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png\"/>\non this menu you can search for information from the target username on social media\n\n<details>\n<summary>:zap: Author :</summary>\n- <strong><a href=\"https://github.com/HunxByts\">HunxByts</a></strong>\n</details>\n",
+  "generatedAt": "2026-10-07T02:32:45.840Z",
+  "analysis": {
+    "oneLine": "GhostTrack 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
+    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
+    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "detailParagraphs": [
+      "GhostTrack 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
+      "如果把它放进实际使用场景，GhostTrack 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 17,231，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "公开信息风险排查",
+      "账号暴露核查",
+      "安全培训演示",
+      "企业攻击面初筛"
+    ],
+    "interpretation": "GhostTrack 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/HunxByts/GhostTrack.git",
+    "deployment": "重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "近期活跃度可能不足；此外，风险主要是合规、隐私和误报，需要配套人工复核机制。",
+    "recommendation": 2,
+    "tags": [
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-10-07T02:32:45.841Z"
+}

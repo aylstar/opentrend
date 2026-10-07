@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Sharing AI progress in mathematics",
+  "summary": "471 points · 396 comments",
+  "content": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints",
+  "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+  "publishedAt": "2026-10-06T22:17:21.000Z",
+  "points": 471,
+  "id": "hacker-news-caf04e5",
+  "slug": "hacker-news-caf04e5",
+  "fetchedAt": "2026-10-07T02:33:02.354Z",
+  "score": 78,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 3,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Sharing AI progress in mathematics",
+  "chineseSummary": "471 points · 396 comments",
+  "chineseContent": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

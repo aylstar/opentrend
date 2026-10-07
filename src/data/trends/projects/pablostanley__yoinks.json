@@ -1,0 +1,64 @@
+{
+  "slug": "pablostanley__yoinks",
+  "owner": "pablostanley",
+  "repo": "yoinks",
+  "name": "yoinks",
+  "fullName": "pablostanley/yoinks",
+  "description": "yoink any video from your terminal. no shady ads.",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/pablostanley/yoinks",
+  "docsUrl": "",
+  "stars": 4889,
+  "forks": 425,
+  "openIssues": 26,
+  "license": "MIT",
+  "pushedAt": "2026-07-17T06:40:05Z",
+  "updatedAt": "2026-10-07T02:29:39Z",
+  "createdAt": "2026-07-16T07:06:09Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "企业工具"
+  ],
+  "recommendation": 2,
+  "readmeExcerpt": "# yoinks\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\">\n  <img src=\"assets/logo-light.svg\" alt=\"yoinks\" width=\"288\">\n</picture>\n\nyoink any video. paste. yoink. done.\n\nDownload videos from YouTube, X/Twitter, Instagram, Threads, TikTok and\n1,800+ other sites — right from your terminal. Paste a url, pick a\nresolution (or audio-only mp3), done. No popups, no fake download buttons,\nno sketchy redirects.\n\n<img src=\"assets/home.png\" alt=\"yoinks home screen — paste a link and hit yoink\" width=\"100%\">\n\n## Install\n\n```sh\nnpm install -g yoinks\n```\n\nOr try it without installing anything:\n\n```sh\nnpx yoinks\n```\n\nRequires Node 18+. Everything else (yt-dlp, ffmpeg) is fetched or bundled\nautomatically.\n\n## Usage\n\n```sh\n$ yoinks https://youtu.be/dQw4w9WgXcQ    # straight to the format picker\n$ yoinks                                 # prompts for a url\n$ yoinks --theme light                   # force the light palette\n```\n\nyoinks takes over the terminal (full-screen, centered — and restores your\nscrollback on exit). Pick a format with ↑/↓ (or j/k, or number keys) and\nhit enter. `esc` goes back, `^c` quits. Or just use the mouse — the yoink\nbutton, the format list and the footer hints are all clickable, and\nclicking the logo takes you back home. Files are saved to `~/Downloads`,\nand the file path is printed to your terminal when you're done.\n\nThe default `auto` theme uses your terminal's own foreground and background,\nso it follows light and dark terminal themes without guessing. Press `^t` or\nclick the theme control in the footer to cycle through `auto`, `light`, and\n`dark` for the current session. Use `--theme auto`, `--theme light`, or\n`--theme dark` to choose the starting theme for one launch.\n\n<img src=\"assets/download-options.png\" alt=\"yoinks format picker — resolutions with estimated file sizes, plus audio-only mp3\" width=\"100%\">\n\n## How it works\n\n- Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp). On first run,\n  yoinks downloads the standalone yt-dlp binary to `~/.yoinks/bin` —\n  no Python required. If you already have yt-dlp installed, it uses yours.\n- ffmpeg (needed for merging high-res streams and mp3 extraction) is found\n  on your PATH, with `ffmpeg-static` as a bundled fallback.\n- The UI is [Ink](https://github.com/vadimdemedes/ink) — React for the\n  terminal.\n\n## Development\n\n```sh\nnpm install\nnpm run build        # bundle to dist/ with tsup\nnpm run dev          # rebuild on change\nnode dist/cli.js <url>\nnpm run typecheck\n```\n\nTo try it as a global command without publishing: `npm link`, then run\n`yoinks` anywhere.\n\n## Roadmap\n\n- [ ] `--best` / `--mp3` flags to skip the picker (scriptable mode)\n- [ ] `-o <dir>` to choose the output folder\n- [ ] Playlist / thread-with-multiple-videos support\n- [ ] Clipboard detection: launch bare and auto-suggest the url you copied\n- [ ] Self-update for the bundled yt-dlp binary (`yt-dlp -U`)\n- [x] Publish to npm (`npm i -g yoinks` / `npx yoinks`)\n- [ ] `curl yoinks.sh | ",
+  "generatedAt": "2026-10-07T02:32:45.398Z",
+  "analysis": {
+    "oneLine": "yoinks 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "yoinks 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，yoinks 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 4,889，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "yoinks 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "npm install -g yoinks\nnpm install\nnpm run build        # bundle to dist/ with tsup\nnpm run dev          # rebuild on change\nnpm run typecheck",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "近期活跃度可能不足；此外，风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2,
+    "tags": [
+      "AI",
+      "效率工具",
+      "企业工具"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-10-07T02:32:45.398Z"
+}
