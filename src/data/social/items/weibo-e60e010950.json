@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e60e010950",
+  "slug": "weibo-彭玉去世",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "彭玉去世",
+  "summary": "微博热榜第 2 位：彭玉去世，当前热度为 124万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BD%AD%E7%8E%89%E5%8E%BB%E4%B8%96%23",
+  "hotValue": "124万热度",
+  "author": "",
+  "publishedAt": "2026-10-08T02:44:21.745Z",
+  "fetchedAt": "2026-10-08T02:48:23.868Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-48722dbc4c",
+  "slug": "weibo-玉簟秋预告",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "玉簟秋预告",
+  "summary": "微博热榜第 39 位：玉簟秋预告，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%89%E7%B0%9F%E7%A7%8B%E9%A2%84%E5%91%8A%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-10-08T02:44:21.745Z",
+  "fetchedAt": "2026-10-08T02:48:23.868Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

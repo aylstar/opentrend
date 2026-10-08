@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+  "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+  "publishedAt": "2026-10-07T19:10:42.000Z",
+  "id": "the-verge-7db3decb",
+  "slug": "the-verge-7db3decb",
+  "content": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight different parts. [Image: ChatGPT generates a diagram showing the design of a seven-speed bicycle. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all] Another shows how ChatGPT can teach you to play Mahjong by generating visuals of each tile and placing them into categories that you can scroll through. You can also ask ChatGPT to generate tools for different tasks, such as a retirement savings calculator, retro game, or bill splitter. It will then generate the tool in-line with its response. OpenAI announced its first GPT-6 models last month, but now it’s bringing the Sol and Luna versions to ChatGPT. In addition to enabling Intelligent UI, OpenAI says its GPT-6 allows ChatGPT to perform better web searches and provide quicker, partial answers to users while it gathers information. The company notes that GPT-6 “showed stronger resistance to attempts to bypass its safety training” as well. [Video: ChatGPT Intelligent UI] GPT-6 with Intelligent UI is rolling out globally to ChatGPT Plus, Pro, Business, and Enterprise users starting today, but will expand to Go and free tiers on Thursday. While higher-tier subscribers will gain access to the mid-range GPT-6 Sol model, Go and free users will get to use the more efficient GPT-6 Luna.",
+  "fetchedAt": "2026-10-08T02:47:54.655Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+  "chineseSummary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
+  "chineseContent": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight different parts. [Image: ChatGPT generates a diagram showing the design of a seven-speed bicycle. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all] Another shows how ChatGPT can teach you to play Mahjong by generating visuals of each tile and placing them into categories that you can scroll through. You can also ask ChatGPT to generate tools for different tasks, such as a retirement savings calculator, retro game, or bill splitter. It will then generate the tool in-line with its response. OpenAI announced its first GPT-6 models last month, but now it’s bringing the Sol and Luna versions to ChatGPT. In addition to enabling Intelligent UI, OpenAI says its GPT-6 allows ChatGPT to perform better web searches and provide quicker, partial answers to users while it gathers information. The company notes that GPT-6 “showed stronger resistance to attempts to bypass its safety training” as well. [Video: ChatGPT Intelligent UI] GPT-6 with Intelligent UI is rolling out globally to ChatGPT Plus, Pro, Business, and Enterprise users starting today, but will expand to Go and free tiers on Thursday. While higher-tier subscribers will gain access to the mid-range GPT-6 Sol model, Go and free users will get to use the more efficient GPT-6 Luna.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
+  "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and […]",
+  "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+  "publishedAt": "2026-10-07T20:44:34.000Z",
+  "id": "the-verge-77301975",
+  "slug": "the-verge-77301975",
+  "content": "A common misconception I’ve seen with Googlebooks is that the Quick Insert and Google logo keys are new. They’re not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that’s ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and F3 keys are the old triangle, circle, and square navigation icons that first debuted on Android 5.0 Lollipop. These were the back, home, and app switcher buttons long before everything went to gesture-based navigation, and they’re still built into phones on Android 17 as an alternative. On Googlebook OS, these keys do what you expect: the left-pointing triangle goes back, the circle goes “home” by minimizing all open apps, and the square tiles your open apps like Mission Control on macOS / Task View on Windows. [Image: If I stare at these keys long enough, I can pretend I’m holding my old Nexus 6. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0003.jpg?quality=90&strip=all] It’s useful to have these buttons, and to have them matched across all Googlebooks. The back button seems sometimes necessary when using Android apps that aren’t really optimized for a desktop interface or mouse controls. I just wish a second press of the home button brought all your apps back to where they were, but that’s another feature called desktop peeking that uses a different keyboard shortcut. If you’re an Android nerd of yore, it’s kind of fun to see these buttons live on. But they’re also a reminder that you sometimes need a fallback when Android gets all Android on you.",
+  "fetchedAt": "2026-10-08T02:47:54.655Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
+  "chineseSummary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and […]",
+  "chineseContent": "A common misconception I’ve seen with Googlebooks is that the Quick Insert and Google logo keys are new. They’re not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that’s ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and F3 keys are the old triangle, circle, and square navigation icons that first debuted on Android 5.0 Lollipop. These were the back, home, and app switcher buttons long before everything went to gesture-based navigation, and they’re still built into phones on Android 17 as an alternative. On Googlebook OS, these keys do what you expect: the left-pointing triangle goes back, the circle goes “home” by minimizing all open apps, and the square tiles your open apps like Mission Control on macOS / Task View on Windows. [Image: If I stare at these keys long enough, I can pretend I’m holding my old Nexus 6. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0003.jpg?quality=90&strip=all] It’s useful to have these buttons, and to have them matched across all Googlebooks. The back button seems sometimes necessary when using Android apps that aren’t really optimized for a desktop interface or mouse controls. I just wish a second press of the home button brought all your apps back to where they were, but that’s another feature called desktop peeking that uses a different keyboard shortcut. If you’re an Android nerd of yore, it’s kind of fun to see these buttons live on. But they’re also a reminder that you sometimes need a fallback when Android gets all Android on you.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

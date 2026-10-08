@@ -1,0 +1,21 @@
+{
+  "id": "weibo-96f1356fe4",
+  "slug": "weibo-嫁金钗启宣",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "嫁金钗启宣",
+  "summary": "微博热榜第 16 位：嫁金钗启宣，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AB%81%E9%87%91%E9%92%97%E5%90%AF%E5%AE%A3%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-10-08T02:44:21.745Z",
+  "fetchedAt": "2026-10-08T02:48:23.868Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
