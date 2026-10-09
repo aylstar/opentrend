@@ -8,7 +8,7 @@
   "id": "product-hunt-651d70c4",
   "slug": "product-hunt-651d70c4",
   "content": "Your AI usage in dollars and liters of water Discussion | Link",
-  "fetchedAt": "2026-10-08T02:47:54.654Z",
+  "fetchedAt": "2026-10-09T03:00:10.131Z",
   "score": 79,
   "sourceWeight": 84,
   "tags": [
@@ -18,9 +18,9 @@
   ],
   "rank": 4,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Unprompt",
-  "chineseSummary": "Your AI usage in dollars and liters of water Discussion | Link",
-  "chineseContent": "Your AI usage in dollars and liters of water Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "无提示",
+  "chineseSummary": "您的 AI 使用量（以美元和升水计算） 讨论 |关联",
+  "chineseContent": "您的 AI 使用量（以美元和升水计算） 讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

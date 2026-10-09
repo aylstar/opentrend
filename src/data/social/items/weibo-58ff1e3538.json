@@ -1,0 +1,21 @@
+{
+  "id": "weibo-58ff1e3538",
+  "slug": "weibo-我的大学图书馆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "我的大学图书馆",
+  "summary": "微博热榜第 3 位：我的大学图书馆，当前热度为 70万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%23",
+  "hotValue": "70万热度",
+  "author": "",
+  "publishedAt": "2026-10-09T03:01:00.785Z",
+  "fetchedAt": "2026-10-09T03:01:38.773Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

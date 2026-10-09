@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ad56ae892e",
+  "slug": "weibo-李一桐重生了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "李一桐重生了",
+  "summary": "微博热榜第 42 位：李一桐重生了，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E9%87%8D%E7%94%9F%E4%BA%86%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-10-09T03:01:00.785Z",
+  "fetchedAt": "2026-10-09T03:01:38.773Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

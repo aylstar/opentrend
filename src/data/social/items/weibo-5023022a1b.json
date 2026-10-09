@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5023022a1b",
+  "slug": "weibo-请回答1988",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "请回答1988",
+  "summary": "微博热榜第 1 位：请回答1988，当前热度为 160万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B7%E5%9B%9E%E7%AD%941988%23",
+  "hotValue": "160万热度",
+  "author": "",
+  "publishedAt": "2026-10-09T03:01:00.785Z",
+  "fetchedAt": "2026-10-09T03:01:38.773Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

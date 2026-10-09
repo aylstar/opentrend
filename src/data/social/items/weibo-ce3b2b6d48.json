@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ce3b2b6d48",
+  "slug": "weibo-openai发布可交互界面",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "OpenAI发布可交互界面",
+  "summary": "微博热榜第 20 位：OpenAI发布可交互界面，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%8F%91%E5%B8%83%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-10-09T03:01:00.785Z",
+  "fetchedAt": "2026-10-09T03:01:38.773Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

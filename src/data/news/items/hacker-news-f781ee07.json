@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI withdraws three mathematical results",
+  "summary": "251 points · 546 comments",
+  "content": "We've updated our GitHub math repo with 6 new Lean formalizations, 19 modifications, and 3 withdrawals. The repo now has ~42% top-line results formalized. We will continue to update the repo with new formalizations and with any errata we notice. https://t.co/HI6otY2NTO",
+  "url": "https://twitter.com/danintheory/status/2108065033070789090",
+  "publishedAt": "2026-10-08T07:05:40.000Z",
+  "points": 251,
+  "id": "hacker-news-f781ee07",
+  "slug": "hacker-news-f781ee07",
+  "fetchedAt": "2026-10-09T03:00:10.129Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 撤回三项数学结果",
+  "chineseSummary": "251 分 · 546 条评论",
+  "chineseContent": "我们更新了 GitHub 数学存储库，包含 6 项新的精益形式化、19 项修改和 3 项撤回。该回购协议现已正式确定约 42% 的顶线结果。我们将继续使用新的形式和我们注意到的任何勘误表来更新存储库。 https://t.co/HI6otY2NTO",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

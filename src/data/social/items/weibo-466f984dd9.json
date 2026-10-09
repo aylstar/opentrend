@@ -1,0 +1,21 @@
+{
+  "id": "weibo-466f984dd9",
+  "slug": "weibo-王者2026周年庆",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "王者2026周年庆",
+  "summary": "微博热榜第 33 位：王者2026周年庆，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%852026%E5%91%A8%E5%B9%B4%E5%BA%86%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-10-09T03:01:00.785Z",
+  "fetchedAt": "2026-10-09T03:01:38.773Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

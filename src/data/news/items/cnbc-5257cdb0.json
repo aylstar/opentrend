@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+  "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+  "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+  "publishedAt": "2026-10-09T01:02:38.000Z",
+  "id": "cnbc-5257cdb0",
+  "slug": "cnbc-5257cdb0",
+  "content": "Australian AI data center operator Firmus, which is backed by Nvidia , has withdrawn its planned mega initial public offering, citing market volatility and conditions, the company said in an emailed statement to CNBC.\n\nFirmus said its board determined that the terms of the proposed offering did not adequately reflect the strength of its business and long-term growth outlook.\n\n\"The board therefore concluded that proceeding with the offer was not in the best interests of the company and its shareholders,\" Firmus said in a statement. \"Firmus will now pursue capital from the private markets and consider alternative public and private market options,\" it added.\n\nFirmus had reportedly planned to raise $5 billion in its IPO, pricing shares at A$11 apiece, which woul have made it the second-largest new share sale in Australia's history. The IPO valued the company at around $30.6 billion.\n\nIn August, the company announced a $2 billion funding round backed by Nvidia, Coatue Management, Blackstone and Jane Street, bringing its total equity raised over the preceding year to more than $3 billion and its valuation to over $10.5 billion.\n\nFirmus also announced agreements with Meta last month to provide GPU computing capacity at its AI data centers in Southeast Asia, built on Nvidia's DSX platform, to support Meta's AI research, model development and training.",
+  "fetchedAt": "2026-10-09T03:00:10.133Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "全球",
+    "金融"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "英伟达支持的澳大利亚 AI 公司 Firmus 以市场波动为由撤回历史性 IPO",
+  "chineseSummary": "由于市场波动，英伟达支持的澳大利亚人工智能数据中心运营商 Firmus 撤回了 IPO 计划。",
+  "chineseContent": "受到 Nvidia 支持的澳大利亚人工智能数据中心运营商 Firmus 在发给 CNBC 的电子邮件声明中表示，该公司已撤回其计划的大型首次公开募股，理由是市场波动和状况。\n\nFirmus 表示，董事会认为拟议发行的条款未能充分反映其业务实力和长期增长前景。\n\nFirmus 在一份声明中表示：“董事会因此得出结论，继续进行要约不符合公司及其股东的最佳利益。”它补充说：“Firmus 现在将从私人市场寻求资本，并考虑替代的公共和私人市场选择。”\n\n据报道，Firmus 计划通过 IPO 筹集 50 亿美元，每股定价为 11 澳元，这将使其成为澳大利亚历史上第二大新股发行。此次 IPO 对该公司的估值约为 306 亿美元。\n\n8 月，该公司宣布完成一轮 20 亿美元融资，由 Nvidia、Coatue Management、Blackstone 和 Jane Street 支持，使其上一年筹集的总股本超过 30 亿美元，估值超过 105 亿美元。\n\nFirmus 上个月还宣布与 Meta 达成协议，为其位于东南亚的人工智能数据中心提供 GPU 计算能力，该数据中心基于 Nvidia 的 DSX 平台构建，以支持 Meta 的人工智能研究、模型开发和培训。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

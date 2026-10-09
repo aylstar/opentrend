@@ -1,0 +1,94 @@
+{
+  "slug": "2026-10-09",
+  "date": "2026-10-09",
+  "title": "2026年10月09日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-10-09T02:59:59.695Z",
+  "stats": {
+    "totalProjects": 20,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.6
+  },
+  "sections": {
+    "recommended": [
+      "affaan-m__ecc",
+      "paperclipai__paperclip",
+      "vectorize-io__hindsight"
+    ],
+    "weekly": [
+      "boykopovar__anyps5",
+      "mvschwarz__openrig",
+      "heygen-com__hyperframes",
+      "epicgames__raddebugger",
+      "cursor__plugins",
+      "thedotmack__claude-mem",
+      "mattpocock__skills",
+      "panniantong__agent-reach",
+      "earthtojake__text-to-cad",
+      "duartesantos8__opengym"
+    ],
+    "monthly": [
+      "alibaba__open-code-review",
+      "debpalash__voicestudio",
+      "bilawalsidhu__gods-eye-view",
+      "anthropics__financial-services",
+      "paperclipai__paperclip",
+      "affaan-m__ecc",
+      "vectorize-io__hindsight",
+      "tencent__weknora",
+      "anthropics__claude-code",
+      "tencentcloud__octop"
+    ],
+    "commercial": [
+      "boykopovar__anyps5",
+      "mvschwarz__openrig",
+      "heygen-com__hyperframes",
+      "epicgames__raddebugger",
+      "cursor__plugins",
+      "thedotmack__claude-mem"
+    ],
+    "deployable": [
+      "boykopovar__anyps5",
+      "mvschwarz__openrig",
+      "heygen-com__hyperframes",
+      "epicgames__raddebugger",
+      "cursor__plugins",
+      "thedotmack__claude-mem"
+    ],
+    "risky": [
+      "boykopovar__anyps5",
+      "mvschwarz__openrig",
+      "heygen-com__hyperframes",
+      "epicgames__raddebugger",
+      "cursor__plugins",
+      "thedotmack__claude-mem"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 20 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "boykopovar__anyps5",
+    "mvschwarz__openrig",
+    "heygen-com__hyperframes",
+    "epicgames__raddebugger",
+    "cursor__plugins",
+    "thedotmack__claude-mem",
+    "mattpocock__skills",
+    "panniantong__agent-reach",
+    "earthtojake__text-to-cad",
+    "duartesantos8__opengym",
+    "alibaba__open-code-review",
+    "debpalash__voicestudio",
+    "bilawalsidhu__gods-eye-view",
+    "anthropics__financial-services",
+    "paperclipai__paperclip",
+    "affaan-m__ecc",
+    "vectorize-io__hindsight",
+    "tencent__weknora",
+    "anthropics__claude-code",
+    "tencentcloud__octop"
+  ]
+}

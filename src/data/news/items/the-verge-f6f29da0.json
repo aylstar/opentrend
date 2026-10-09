@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "AMD will bring FSR 4 to handhelds by the end of 2026",
+  "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds […]",
+  "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+  "publishedAt": "2026-10-08T21:01:18.000Z",
+  "id": "the-verge-f6f29da0",
+  "slug": "the-verge-f6f29da0",
+  "content": "It’s already possible to get AMD’s framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck — but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds by the end of the year. Which handhelds? It’s still not clear if it will come to existing handhelds, or if you’ll need a new one to get it — because it comes alongside news that AMD is releasing a new FSR4-capable chip. “We will expand the machine learning AI-based FSR4 technology, which was first introduced to existing external graphics cards, to the entire product line including APUs, gaming laptops, and handheld devices by the end of this year,” Huynh told Korean publication The Elec (via Google Translate). “We plan to respond in two directions: launching existing APUs and new product lines.” The Elec says that means both a new APU, and a lightweight FSR4 model for APUs, are coming by year’s end. (Previously, AMD had only promised FSR4 for desktop graphics cards, not APUs bound for laptops and handhelds.) But The Elec doesn’t seem to say if that lightweight FSR4 model is coming to handhelds specifically. Perhaps it’ll require AMD’s leaked upcoming Ryzen Z3 and/or “Gainsborough” handheld chips. Back when AMD threw a little cold water on the idea of FSR 4 for existing handhelds, exec David McAfee told Tom’s Guide that “we want to make sure the experience and the quality is right” and that AMD would need “a sufficient amount of compute within that product” for FSR 4 to make sense. Perhaps some older laptop chips will qualify, while some older handheld chips don’t. Valve worked with AMD to bring FSR 4 to the Steam Machine’s console-grade AMD APU, but it hasn’t yet committed to the same for the Steam Deck handhelds. AMD didn’t immediately respond to a request to clarify Huynh’s statement. [Media: https://www.youtube.com/watch?v=95N6-2U5YQo]",
+  "fetchedAt": "2026-10-09T03:00:10.131Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AMD 将于 2026 年底将 FSR 4 引入手持设备",
+  "chineseSummary": "与 Steam Deck 一样古老的手持设备上已经有可能获得 AMD 的帧率增强 FSR 4 提升 - 但在 6 月份，AMD 保留了不正式将 FSR 4 引入较旧手持设备而让手持游戏玩家失望的权利。现在，AMD 消费芯片老板 Jack Huynh 表示，他将把这项技术引入一些手持设备 [...]",
+  "chineseContent": "与 Steam Deck 一样古老的手持设备上已经有可能获得 AMD 的帧率增强 FSR 4 提升，但在 6 月份，AMD 保留了不正式将 FSR 4 引入较旧手持设备而让手持游戏玩家失望的权利。现在，AMD 消费芯片负责人 Jack Huynh 表示，他将在今年年底前将该技术引入到一些手持设备中。哪些手持设备？目前还不清楚它是否会出现在现有的手持设备上，或者您是否需要一个新的手持设备来获得它 - 因为它伴随着 AMD 正在发布一款支持 FSR4 的新芯片的消息。 Huynh 告诉韩国出版物 The Elec（通过谷歌翻译）：“我们将在今年年底前将基于机器学习 AI 的 FSR4 技术扩展到整个产品线，包括 APU、游戏笔记本电脑和手持设备，该技术首次引入现有的外部显卡。” “我们计划从两个方向做出回应：推出现有的 APU 和新产品线。” Elec 表示，这意味着新的 APU 和用于 APU 的轻量级 FSR4 型号将于今年年底推出。 （此前，AMD 只承诺将 FSR4 用于台式机显卡，而不是用于笔记本电脑和手持设备的 APU。）但 Elec 似乎没有透露这种轻量级 FSR4 型号是否会专门用于手持设备。也许它需要 AMD 泄露的即将推出的 Ryzen Z3 和/或“Gainsborough”手持芯片。当 AMD 对现有手持设备使用 FSR 4 的想法泼了一盆冷水时，执行官 David McAfee 告诉 Tom's Guide，“我们希望确保体验和质量是正确的”，并且 AMD 需要“该产品内有足够的计算量”才能让 FSR 4 发挥作用。也许一些较旧的笔记本电脑芯片符合条件，而一些较旧的手持设备芯片则不符合条件。 Valve 与 AMD 合作，将 FSR 4 引入 Steam Machine 的游戏机级 AMD APU，但尚未上市",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

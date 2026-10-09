@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Jevman – AI decision models play Pac-Man",
+  "summary": "39 points · 6 comments",
+  "content": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making. So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts. The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo: https://github.com/opper-ai/jevman-benchmark/blob/main/CONTR... You can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try. It's pretty fun to play and surprisingly difficult to beat jev's highscore. Any feedback is more than welcome!",
+  "url": "https://opper.ai/jevman-benchmark/",
+  "publishedAt": "2026-10-08T16:34:13.000Z",
+  "points": 39,
+  "id": "hacker-news-c3d21222",
+  "slug": "hacker-news-c3d21222",
+  "fetchedAt": "2026-10-09T03:00:10.128Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 12,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Jevman – AI 决策模型玩吃豆人",
+  "chineseSummary": "39 分 · 6 条评论",
+  "chineseContent": "Openai 刚刚推出了他们的决策端点，cloudflare 前一周推出了 clef，还有更多 jev 替代品。我们想要对流行的游戏进行测试，并认为吃豆人是简单快速决策的良好基准。所以我们让 jev 1.13、kev、clef、clef flash、GPT-6 Luna 和 Laya 玩吃豆人对抗机器人幽灵。这些模型的低延迟允许实时播放。我们让每个模型玩 100 场游戏，发布排行榜并开源存储库，以便任何人都可以运行自己的模型并加入排名。链接到repo：https://github.com/opper-ai/jevman-benchmark/blob/main/CONTR...你也可以加入游戏，自己玩吃豆人，幽灵就是模型，可以是模型的混合，也可以是所有的jev、kev、clef等。一个游戏的成本约为2美分，所有模型都通过我的启动opper运行，并且我们添加了免费积分供大家尝试。玩起来非常有趣，而且要击败 jev 的高分却出人意料地困难。非常欢迎任何反馈！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

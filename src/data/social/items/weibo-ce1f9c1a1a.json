@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ce1f9c1a1a",
+  "slug": "weibo-俄罗斯鼠疫",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "俄罗斯鼠疫",
+  "summary": "微博热榜第 16 位：俄罗斯鼠疫，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%BC%A0%E7%96%AB%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-10-09T03:01:00.785Z",
+  "fetchedAt": "2026-10-09T03:01:38.773Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
