@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Cloudflare acquires Deno",
+  "summary": "1082 points · 564 comments",
+  "content": "For years, we’ve been working to make building server software simpler. We questioned how modules could be distributed, what security guarantees a JavaScript runtime could provide, what belonged in a complete toolchain, and how easily an application could be distributed as a standalone executable. Compatibility with Node.js became an important part of that work too: our users wanted the Deno improvements while continuing to plug into the existing JS ecosystem. The team and community built a runtime that brought these capabilities together and challenged assumptions about what JS development could look like.\n\nToday we’re announcing that the entire Deno team is joining Cloudflare to take that work further.\n\nOur ambition has always extended beyond the runtime. I wrote about this in my JavaScript Containers blog post: compute, storage, and communication working together, without every application assembling its own infrastructure.\n\nWith Deno Deploy , we took another step towards that goal. We wanted to make running applications as straightforward as possible. But building and operating Deploy also showed us how much complexity remained underneath that developer experience. I wanted to simplify that layer, too.\n\nThis led to celld . Building on the Cloudflare Workers programming model, celld lets developers build distributed applications from the start while making the system simple to operate. What excites me greatly is that the scaling is built into the programming model, rather than infrastructure each app has to assemble itself.\n\nThe progression from Deno to Deno Deploy to celld explains why this move makes sense to us. At Cloudflare we’ll combine our work with that of the Workers and Durable Objects teams. We want to make this programming model the default way to build servers, whether you run on Cloudflare’s network or your own infrastructure.\n\nJoining also means choosing where to focus our effort. We’ve decided to put our future development work into this shared platform rather than continuing to develop a separate runtime and hosting service. We know this is a consequential change for people who have built on Deno.\n\nTo everyone who contributed code, built businesses on Deno, reported problems, and trusted our direction: thank you. Here’s what this means concretely:\n\nThe need for better abstractions is especially acute with AI. Durable Objects bring together capabilities that are particularly useful for agent harnesses: inexpensive, serverless execution, persistent state, WebSockets, and a high-level JavaScript interface. This is what I’m most excited to explore and why celld focuses on Durable Objects.\n\nKenton Varda and I explain more in our joint post on the Cloudflare blog . If you’re building agents at scale and want to run them on your own infrastructure, please reach me now at ry@cloudflare.com .",
+  "url": "https://deno.com/blog/cloudflare",
+  "publishedAt": "2026-10-09T13:03:48.000Z",
+  "points": 1082,
+  "id": "hacker-news-25fad743",
+  "slug": "hacker-news-25fad743",
+  "fetchedAt": "2026-10-10T02:29:49.648Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Cloudflare 收购 Deno",
+  "chineseSummary": "1082 分 · 564 条评论",
+  "chineseContent": "多年来，我们一直致力于让构建服务器软件变得更加简单。我们质疑如何分发模块、JavaScript 运行时可以提供哪些安全保证、完整工具链中包含哪些内容，以及应用程序作为独立可执行文件分发的容易程度。与 Node.js 的兼容性也成为这项工作的重要组成部分：我们的用户希望在继续插入现有 JS 生态系统的同时进行 Deno 改进。团队和社区构建了一个运行时，将这些功能整合在一起，并挑战了有关 JS 开发的假设。\n\n今天，我们宣布整个 Deno 团队将加入 Cloudflare 以进一步推进这项工作。\n\n我们的野心始终超出了运行时间。我在 JavaScript 容器博客文章中写到了这一点：计算、存储和通信协同工作，而不是每个应用程序都组装自己的基础设施。\n\n通过 Deno Deploy，我们朝着这个目标又迈出了一步。我们希望使运行应用程序尽可能简单。但构建和操作 Deploy 也向我们展示了开发人员体验背后还有多少复杂性。我也想简化该层。\n\n这导致了 celld 。 celld 基于 Cloudflare Workers 编程模型构建，允许开发人员从一开始就构建分布式应用程序，同时使系统易于操作。让我非常兴奋的是，扩展是内置于编程模型中的，而不是每个应用程序必须自行组装的基础设施。\n\n从 Deno 到 Deno Deploy 再到 celld 的进展解释了为什么这一举措对我们有意义。在 Cloudflare，我们将把我们的工作与 Workers 和 Durable Objects 团队的工作结合起来。我们希望使这种编程模型成为构建服务器的默认方式，无论您是在 Cloudflare 的网络上还是在您自己的基础设施上运行。\n\n加入还意味着选择我们的努力重点。我们决定将未来的开发工作放入这个共享平台中，而不是继续开发单独的运行时和托管服务。我们知道这对于基于 Deno 构建的人们来说是一个重大的改变。\n\n感谢所有贡献代码、在 Deno 上建立业务、报告问题并信任我们方向的人：谢谢你们。具体含义如下：\n\n人工智能对更好的抽象的需求尤其迫切。持久对象汇集了对代理工具特别有用的功能：廉价、无服务器执行、持久状态、WebSocket 和高级 JavaScript 接口。这是我最感兴趣的探索，也是 celld 专注于耐用物体的原因。\n\nKenton Varda 和我在 Cloudflare 博客上的联合帖子中解释了更多内容。如果您正在大规模构建代理并希望在自己的基础设施上运行它们，请立即通过 ry@cloudflare.com 与我联系。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

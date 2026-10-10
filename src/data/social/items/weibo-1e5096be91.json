@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1e5096be91",
+  "slug": "weibo-闫妮表情",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 12,
+  "title": "闫妮表情",
+  "summary": "微博热榜第 12 位：闫妮表情，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E8%A1%A8%E6%83%85%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-10-10T02:31:02.424Z",
+  "fetchedAt": "2026-10-10T02:31:19.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

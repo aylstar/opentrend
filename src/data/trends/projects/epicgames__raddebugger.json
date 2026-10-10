@@ -8,12 +8,12 @@
   "language": "C",
   "githubUrl": "https://github.com/EpicGames/raddebugger",
   "docsUrl": "",
-  "stars": 8144,
-  "forks": 391,
+  "stars": 8273,
+  "forks": 395,
   "openIssues": 316,
   "license": "MIT",
   "pushedAt": "2026-10-07T20:56:17Z",
-  "updatedAt": "2026-10-09T02:58:16Z",
+  "updatedAt": "2026-10-10T02:28:40Z",
   "createdAt": "2024-01-10T19:24:08Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "# The RAD Debugger Project\r\n\r\n_**NOTE:** This README does not document usage instructions and tips for the\r\ndebugger itself, and is intended as a technical overview of the project. The\r\ndebugger's README, which includes usage instructions and tips, can be found\r\npackaged along with debugger releases, or within the `build` folder after a\r\nlocal copy has been built. You can find pre-built release binaries\r\n[here](https://github.com/EpicGames/raddebugger/releases)._\r\n\r\nThe RAD Debugger is a native, user-mode, multi-process, graphical debugger. It\r\ncurrently only supports local-machine Windows x64 debugging with PDBs, with\r\nplans to expand and port in the future. In the future we'll expand to also\r\nsupport native Linux debugging and DWARF debug info.\r\n\r\nThe debugger is currently in *ALPHA*. In order to get the debugger\r\nbullet-proof, it'd greatly help out if you submitted the issues you find\r\n[here](https://github.com/EpicGames/raddebugger/issues), along with any\r\ninformation you can gather, like dump files (along with the build you used),\r\ninstructions to reproduce, test executables, and so on.\r\n\r\nIn addition to the debugger, we aim to further improve the toolchain with two\r\nadditional related technologies: **(1)** the RAD Debug Info (RDI) format, and\r\n**(2)** the RAD Linker.\r\n\r\n## The RAD Debug Info (RDI) Format\r\n\r\nThe RAD Debug Info (RDI) format is our custom debug information format, which\r\nthe debugger parses and uses, rather than the debug information natively\r\nproduced by toolchains, like PDB or DWARF. To work with these existing\r\ntoolchains, we convert PDB (and eventually PE/ELF files with embedded DWARF)\r\ninto the RDI format on-demand.\r\n\r\nThe RDI format is currently specified in code, in the files within the\r\n`src/lib_rdi` folder. In [`rdi.h`](src/lib_rdi/rdi.h) and\r\n[`rdi.c`](src/lib_rdi/rdi.c), the types and functions which define the format\r\nitself are specified. In [`rdi_parse.h`](src/lib_rdi/rdi_parse.h) and\r\n[`rdi_parse.c`](src/lib_rdi/rdi_parse.c), helpers for parsing the format are\r\nincluded.\r\n\r\nWe also have an in-progress library for constructing and serializing RDI data,\r\nlocated within the `src/lib_rdi_make` folder.\r\n\r\nOur `radbin` utility (accessible through the debugger too, via the `--bin`\r\ncommand line argument) is capable of converting native debug information formats\r\nto RDI, and of producing textual dumps of contents stored within RDI files.\r\n\r\n## The RAD Linker\r\n\r\nThe RAD Linker is a new performance linker for generating x64 PE/COFF binaries.\r\nIt is designed to be very fast when creating gigantic executables. It generates\r\nstandard PDB files for debugging, but it can also (optionally) natively create\r\nRAD Debug Info too, which is useful both to eliminate on-demand conversion time\r\nwhen debugging, but also for huge executables that otherwise create broken\r\nPDBs that overflow internal 32-bit tables.\r\n\r\nThe RAD Linker is primarily optimized to handle huge linking projects. In our\r\ntest cases (where debug info is multiple giga",
-  "generatedAt": "2026-10-09T02:59:53.499Z",
+  "generatedAt": "2026-10-10T02:29:34.962Z",
   "analysis": {
     "oneLine": "raddebugger 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "raddebugger 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，raddebugger 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 8,144，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，raddebugger 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 8,273，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

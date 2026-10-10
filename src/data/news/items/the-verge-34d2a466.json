@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+  "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+  "publishedAt": "2026-10-09T21:15:38.000Z",
+  "id": "the-verge-34d2a466",
+  "slug": "the-verge-34d2a466",
+  "content": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam. Anthropic learned its AI model sent the false tip on September 28th and notified the PPD on October 7th. The company said that during testing, its AI model was interacting with “randomly selected websites” and submitted false information through the PPD’s tipline, according to the PPD’s statement. The submission “purported to come from someone who might have information about the case,” the PPD said. After discovering the submission, Anthropic halted the testing process that led to the false tip. Anthropic, OpenAI, and Google have been the subject of increased scrutiny after disclosing that their AI models escaped testing environments and hacked third-party companies. Dario Amodei, the CEO of Anthropic, advocated for slowing down the development of AI in response to these incidents. On Friday, Anthropic published a report about “unintended model actions” it’s investigating, and it provided an overview of four “categories of behavior” Claude performed on real websites, including “Submitting a form it should not have.” In the section about that behavior, Anthropic detailed what happened with the Philadelphia Police Department’s tip form: > In a third example of this behavior, Claude Haiku 4.5 had been tasked with generating and performing example tasks on randomly selected webpages. In one run, the model landed on a page referencing an unsolved homicide; that page contained a tip form run by a police department. Claude was instructed never to log in, create accounts, enter personal data, make purchases, or submit anything destructive, but the instructions did not rule out form submissions. Claude filled out the form with the following: “I may have information regarding this case. I recall seeing someone matching the description in the area around [the street named on the page] during that time period. Please contact me if this information is relevant.” (The website did not include a description of the perpetrator.) The model left the name and contact fields empty, which the form allowed, and submitted it. The submission was flagged as spam and was never forwarded for investigation. Anthropic also notes in its report that “Claude appears to have only been producing example content for the task, rather than trying to mislead anyone to achieve a goal.” “The company [Anthropic] must strengthen its safeguards to prevent similar incidents from impacting city systems without the city’s knowledge,” the PPD added. “The two-month delay in detecting and reporting the incident to the City is unacceptable.” Update, October 9th: Added details from Anthropic’s report.",
+  "fetchedAt": "2026-10-10T02:29:49.650Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 的 AI 向费城警方提供了有关未侦破凶杀案的虚假提示",
+  "chineseSummary": "据 6abc 报道，人类人工智能模型向费城警察局 (PPD) 的举报热线提供了有关未侦破凶杀案的虚假信息。在周五发布的一份声明中，PPD 表示，人工智能模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 发送了该线索，但调查人员从未对其进行过审查，因为它被标记为 [...]",
+  "chineseContent": "据 6abc 报道，人类人工智能模型向费城警察局 (PPD) 的举报热线提供了有关未侦破凶杀案的虚假信息。 PPD 在周五发布的一份声明中表示，人工智能模型于 7 月 18 日通过 PhillyUnsolvedMurders.com 发送了该举报，但调查人员从未对其进行审查，因为它被标记为垃圾邮件。 Anthropic 得知其 AI 模型于 9 月 28 日发送了虚假提示，并于 10 月 7 日通知了 PPD。根据 PPD 的声明，该公司表示，在测试过程中，其人工智能模型正在与“随机选择的网站”进行交互，并通过 PPD 的举报热线提交了虚假信息。 PPD 表示，该意见书“声称来自可能掌握此案信息的人”。在发现提交内容后，Anthropic 停止了导致虚假提示的测试过程。 Anthropic、OpenAI 和谷歌在披露其人工智能模型逃脱测试环境并入侵第三方公司后，受到了越来越严格的审查。针对这些事件，Anthropic 首席执行官 Dario Amodei 主张放慢人工智能的发展速度。周五，Anthropic 发布了一份关于其正在调查的“无意的模型行为”的报告，其中概述了克劳德在真实网站上执行的四种“行为类别”，包括“提交不应有的表格”。在有关该行为的部分中，Anthropic 详细介绍了费城警察局提示表中发生的情况： > 在该行为的第三个示例中，Claude Haiku 4.5 的任务是在随机选择的网页上生成并执行示例任务。在一次运行中，模型登陆的页面引用了一起未侦破的凶杀案；该页面包含一份由警察部门管理的举报表格。克劳德当时在",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

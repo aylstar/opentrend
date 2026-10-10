@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6a989de9bb",
+  "slug": "weibo-小米高管实测高速爆胎",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "小米高管实测高速爆胎",
+  "summary": "微博热榜第 33 位：小米高管实测高速爆胎，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%AE%9E%E6%B5%8B%E9%AB%98%E9%80%9F%E7%88%86%E8%83%8E%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-10-10T02:31:02.424Z",
+  "fetchedAt": "2026-10-10T02:31:19.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

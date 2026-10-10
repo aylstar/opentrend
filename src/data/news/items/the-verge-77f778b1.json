@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Nikon microscopic video competition winner disqualified for using generative AI",
+  "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+  "publishedAt": "2026-10-09T18:06:57.000Z",
+  "id": "the-verge-77f778b1",
+  "slug": "the-verge-77f778b1",
+  "content": "Nikon says the video that originally won first place in its Small World in Motion contest “did not comply with the competition rules regarding generative AI.” BBC reports that the original first place video from Dr. Ning Xu claimed to show “tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.” Nikon said last week that it was reviewing the video following skepticism online about its authenticity. In a comment on LinkedIn, Dr. Xu admitted to using AI for the video: “An unsupervised neural-network method was subsequently used for AI-assisted post-processing to distinguish and visualize features in the reconstructed grayscale images from the super-resolution optical imaging.” Dr. Xu’s video has now been disqualified and appears to have been removed from Nikon’s website. A video from Nguyen Nam Nhat now holds first place, according to the contest’s updated rankings. Following the incident, Nikon says it plans to “revisit rules and evaluation procedures for future competition entries.” It also noted in its statement on the contest that the decision to disqualify Dr. Xu’s video “should not be interpreted as a judgment of the entrant’s professional reputation, scientific contributions, or intent.”",
+  "fetchedAt": "2026-10-10T02:29:49.651Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "视频"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "尼康显微视频大赛获胜者因使用生成 AI 而被取消资格",
+  "chineseSummary": "尼康表示，最初在“运动小世界”竞赛中获得第一名的视频“不符合生成人工智能的竞赛规则”。 BBC 报道称，徐宁博士最初的第一名视频声称显示“微小的毛发状结构，称为纤毛，在患有 […] 的儿童的气道中移动。",
+  "chineseContent": "尼康表示，最初在“动态小世界”竞赛中获得第一名的视频“不符合生成人工智能的竞赛规则”。 BBC 报道称，徐宁博士最初的第一名视频声称显示“一种名为纤毛的微小毛发状结构在患有呼吸系统疾病的儿童的气道中移动”。尼康上周表示，由于网上有人质疑该视频的真实性，该公司正在对其进行审查。在 LinkedIn 上的评论中，徐博士承认在视频中使用了人工智能：“随后使用无监督神经网络方法进行人工智能辅助后处理，以区分和可视化来自超分辨率光学成像的重建灰度图像中的特征。”徐博士的视频现已被取消资格，并且似乎已从尼康网站上删除。根据比赛的最新排名，阮南一 (Nguyen Nam Nhat) 的一段视频目前位居第一。事件发生后，尼康表示计划“重新审视未来参赛作品的规则和评估程序”。它还在竞赛声明中指出，取消徐博士视频资格的决定“不应被解释为对参赛者的专业声誉、科学贡献或意图的判断”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

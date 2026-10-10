@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc5dab0f55",
+  "slug": "weibo-张月cp粉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "张月cp粉",
+  "summary": "微博热榜第 34 位：张月cp粉，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88cp%E7%B2%89%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-10-10T02:31:02.424Z",
+  "fetchedAt": "2026-10-10T02:31:19.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

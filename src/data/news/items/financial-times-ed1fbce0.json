@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+  "summary": "First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi",
+  "url": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-09T18:38:06.000Z",
+  "id": "financial-times-ed1fbce0",
+  "slug": "financial-times-ed1fbce0",
+  "content": "First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi",
+  "fetchedAt": "2026-10-10T02:29:49.658Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "财经",
+    "产品"
+  ],
+  "rank": 12,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "飓风伊萨亚斯向海湾袭来，石油和天然气生产中断",
+  "chineseSummary": "本季第一场大西洋风暴威胁佛罗里达州、阿拉巴马州、佐治亚州和密西西比州",
+  "chineseContent": "本季第一场大西洋风暴威胁佛罗里达州、阿拉巴马州、佐治亚州和密西西比州",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

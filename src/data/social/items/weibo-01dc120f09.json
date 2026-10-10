@@ -1,0 +1,21 @@
+{
+  "id": "weibo-01dc120f09",
+  "slug": "weibo-飞天奖获奖名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "飞天奖获奖名单",
+  "summary": "微博热榜第 7 位：飞天奖获奖名单，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-10-10T02:31:02.424Z",
+  "fetchedAt": "2026-10-10T02:31:19.946Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
