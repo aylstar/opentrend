@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "publishedAt": "2026-10-10T22:10:17.000Z",
+  "id": "the-verge-8b66ddd0",
+  "slug": "the-verge-8b66ddd0",
+  "content": "In a lengthy post on X, Microsoft’s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a “set of nested black boxes” whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind “tamper-proof human readable evidence.” Many of his recommendations align with what we’ve heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It’s on that last point that he appears to go slightly farther than some others in the field, saying: > We must assume a model is compromised and contain it from the start. Think of it like an emergency brake. An authorized person should always be able to pause or shut down a model mid-task. More advanced models will require more advanced containment technologies that we need to standardize on. [Media: https://twitter.com/satyanadella/status/2108931348857827686?s=20] Unfortunately, Nadella also refers to AI as “super intelligence” throughout the post.",
+  "fetchedAt": "2026-10-11T02:01:41.443Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "视频"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "chineseSummary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+  "chineseContent": "In a lengthy post on X, Microsoft’s CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a “set of nested black boxes” whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind “tamper-proof human readable evidence.” Many of his recommendations align with what we’ve heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It’s on that last point that he appears to go slightly farther than some others in the field, saying: > We must assume a model is compromised and contain it from the start. Think of it like an emergency brake. An authorized person should always be able to pause or shut down a model mid-task. More advanced models will require more advanced containment technologies that we need to standardize on. [Media: https://twitter.com/satyanadella/status/2108931348857827686?s=20] Unfortunately, Nadella also refers to AI as “super intelligence” throughout the post.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ea20155f6d",
+  "slug": "weibo-梅艳芳骨灰被盗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "梅艳芳骨灰被盗",
+  "summary": "微博热榜第 4 位：梅艳芳骨灰被盗，当前热度为 105万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E8%A2%AB%E7%9B%97%23",
+  "hotValue": "105万热度",
+  "author": "",
+  "publishedAt": "2026-10-11T01:53:01.401Z",
+  "fetchedAt": "2026-10-11T02:02:10.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

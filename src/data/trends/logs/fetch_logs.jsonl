@@ -2976,3 +2976,24 @@
 {"time":"2026-10-10T02:29:39.386Z","level":"info","message":"processed Tencent/WeKnora"}
 {"time":"2026-10-10T02:29:39.776Z","level":"info","message":"processed anthropics/claude-code"}
 {"time":"2026-10-10T02:29:40.140Z","level":"info","message":"processed TencentCloud/Octop"}
+{"time":"2026-10-11T02:01:21.608Z","level":"info","message":"trend run started, limit=10"}
+{"time":"2026-10-11T02:01:23.538Z","level":"info","message":"processed boykopovar/AnyPS5"}
+{"time":"2026-10-11T02:01:23.891Z","level":"info","message":"processed mattpocock/skills"}
+{"time":"2026-10-11T02:01:24.281Z","level":"info","message":"processed EpicGames/raddebugger"}
+{"time":"2026-10-11T02:01:24.625Z","level":"info","message":"processed thedotmack/claude-mem"}
+{"time":"2026-10-11T02:01:25.004Z","level":"info","message":"processed heygen-com/hyperframes"}
+{"time":"2026-10-11T02:01:25.344Z","level":"info","message":"processed mvschwarz/openrig"}
+{"time":"2026-10-11T02:01:25.700Z","level":"info","message":"processed cursor/plugins"}
+{"time":"2026-10-11T02:01:26.019Z","level":"info","message":"processed earthtojake/text-to-cad"}
+{"time":"2026-10-11T02:01:26.354Z","level":"info","message":"processed flutter/flutter"}
+{"time":"2026-10-11T02:01:26.709Z","level":"info","message":"processed pingdotgg/t3code"}
+{"time":"2026-10-11T02:01:27.041Z","level":"info","message":"processed alibaba/open-code-review"}
+{"time":"2026-10-11T02:01:27.391Z","level":"info","message":"processed debpalash/VoiceStudio"}
+{"time":"2026-10-11T02:01:27.800Z","level":"info","message":"processed anthropics/financial-services"}
+{"time":"2026-10-11T02:01:28.182Z","level":"info","message":"processed paperclipai/paperclip"}
+{"time":"2026-10-11T02:01:28.534Z","level":"info","message":"processed affaan-m/ECC"}
+{"time":"2026-10-11T02:01:28.984Z","level":"info","message":"processed vectorize-io/hindsight"}
+{"time":"2026-10-11T02:01:29.348Z","level":"info","message":"processed Tencent/WeKnora"}
+{"time":"2026-10-11T02:01:29.753Z","level":"info","message":"processed anthropics/claude-code"}
+{"time":"2026-10-11T02:01:30.123Z","level":"info","message":"processed anthropics/knowledge-work-plugins"}
+{"time":"2026-10-11T02:01:30.511Z","level":"info","message":"processed TencentCloud/Octop"}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Knuth reward check",
+  "summary": "147 points · 53 comments",
+  "content": "It&rsquo;s been twenty years now that I&rsquo;ve gotten one of the best letters ever. Donald Knuth confirmed the error I had found in one of his books and sent me the coveted check!\n\nDonald Knuth and his reward for any error in one of his books (even typographical ones) are computer science folklore. Preposterous to think that I could possibly earn one! His books have been combed through by thousands and thousands of people. Smarter people than I am. More patient people.\n\nAnd then it happened. I thought I had found an error. But I did not report it right away, I waited and re-checked it for months, lest I make a fool of myself. I even told our local genius at university who did not care much and dismissed my excitement.\n\nSee, the error I found is in a very special place. The book is “Computer Modern Typefaces”, so it&rsquo;s a less read book (not the TeXbook or The Art of Computer Programmming), but still, practically everybody who has given that book a shot will have read over that error.\n\nBecause it&rsquo;s on page Arabic one. In the first paragraph. The very first word.\n\nThat&rsquo;s why the Memo field says “E1”: Computer Modern Typefaces is Volume E in the Computers & Typesetting series. Page 1.\n\nI have censored the check slightly, because Knuth is afraid someone might do bad things with those numbers, and he hasn&rsquo;t been handing out real checks for many years now. Today you get a fantasy certificate of a fantasy bank, the Bank of San Serriffe .\n\nBut why will you find me there with the entry “0x$1.20”, i.e. decimal $2.88? A few years later I sent in another proposed error, but I was wrong. Knuth actually wrote a few paragraphs why exactly I&rsquo;m wrong, but because he counted some throwaway sentence in my bug report as a good suggestion, I got another check for $0.32.",
+  "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+  "publishedAt": "2026-10-10T15:47:01.000Z",
+  "points": 147,
+  "id": "hacker-news-525bba45",
+  "slug": "hacker-news-525bba45",
+  "fetchedAt": "2026-10-11T02:01:41.441Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Knuth reward check",
+  "chineseSummary": "147 points · 53 comments",
+  "chineseContent": "It&rsquo;s been twenty years now that I&rsquo;ve gotten one of the best letters ever. Donald Knuth confirmed the error I had found in one of his books and sent me the coveted check!\n\nDonald Knuth and his reward for any error in one of his books (even typographical ones) are computer science folklore. Preposterous to think that I could possibly earn one! His books have been combed through by thousands and thousands of people. Smarter people than I am. More patient people.\n\nAnd then it happened. I thought I had found an error. But I did not report it right away, I waited and re-checked it for months, lest I make a fool of myself. I even told our local genius at university who did not care much and dismissed my excitement.\n\nSee, the error I found is in a very special place. The book is “Computer Modern Typefaces”, so it&rsquo;s a less read book (not the TeXbook or The Art of Computer Programmming), but still, practically everybody who has given that book a shot will have read over that error.\n\nBecause it&rsquo;s on page Arabic one. In the first paragraph. The very first word.\n\nThat&rsquo;s why the Memo field says “E1”: Computer Modern Typefaces is Volume E in the Computers & Typesetting series. Page 1.\n\nI have censored the check slightly, because Knuth is afraid someone might do bad things with those numbers, and he hasn&rsquo;t been handing out real checks for many years now. Today you get a fantasy certificate of a fantasy bank, the Bank of San Serriffe .\n\nBut why will you find me there with the entry “0x$1.20”, i.e. decimal $2.88? A few years later I sent in another proposed error, but I was wrong. Knuth actually wrote a few paragraphs why exactly I&rsquo;m wrong, but because he counted some throwaway sentence in my bug report as a good suggestion, I got another check for $0.32.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -8,18 +8,18 @@
   "id": "reuters-54bdf385",
   "slug": "reuters-54bdf385",
   "content": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-10-09T03:00:10.142Z",
-  "score": 90,
+  "fetchedAt": "2026-10-11T02:01:41.453Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "AI",
     "财经"
   ],
-  "rank": 8,
+  "rank": 18,
   "contentStatus": "article-extracted",
-  "chineseTitle": "早盘竞价：随着 AI 占据地盘，主权债券被抛在一边",
-  "chineseSummary": "早盘竞价：随着人工智能占据地盘，主权债券被抛在一边 路透",
-  "chineseContent": "早盘竞价：随着人工智能占据地盘，主权债券被抛在一边 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf",
+  "chineseSummary": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf &nbsp;&nbsp; Reuters",
+  "chineseContent": "Morning Bid: Sovereign bonds shouldered aside as AI takes their turf &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c7b994d4ee",
+  "slug": "weibo-华为整体成本涨了1400元",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "华为整体成本涨了1400元",
+  "summary": "微博热榜第 18 位：华为整体成本涨了1400元，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%95%B4%E4%BD%93%E6%88%90%E6%9C%AC%E6%B6%A8%E4%BA%861400%E5%85%83%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-10-11T01:53:01.401Z",
+  "fetchedAt": "2026-10-11T02:02:10.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

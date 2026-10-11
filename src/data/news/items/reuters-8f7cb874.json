@@ -8,8 +8,8 @@
   "id": "reuters-8f7cb874",
   "slug": "reuters-8f7cb874",
   "content": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-10-09T03:00:10.143Z",
-  "score": 90,
+  "fetchedAt": "2026-10-11T02:01:41.453Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "AI",
@@ -17,11 +17,11 @@
     "金融",
     "产品"
   ],
-  "rank": 9,
+  "rank": 22,
   "contentStatus": "article-extracted",
-  "chineseTitle": "生物技术公司逆市低迷，英伟达支持的 Iambic Therapeutics 启动 IPO",
-  "chineseSummary": "Nvidia 支持的 Iambic Therapeutics 启动 IPO，生物技术公司克服市场低迷 - 路透中文网",
-  "chineseContent": "Nvidia 支持的 Iambic Therapeutics 启动 IPO，生物技术公司克服市场低迷 - 路透中文网",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom",
+  "chineseSummary": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom &nbsp;&nbsp; Reuters",
+  "chineseContent": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

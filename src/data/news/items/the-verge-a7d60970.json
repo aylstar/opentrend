@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Ledger wallet tampering suspected after reports of crypto thefts",
+  "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
+  "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+  "publishedAt": "2026-10-10T16:36:44.000Z",
+  "id": "the-verge-a7d60970",
+  "slug": "the-verge-a7d60970",
+  "content": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that “one of the impacted users’ devices contained an unauthorized hardware implant.” Photos and videos posted on X and Threads appear to show a small circuit board sandwiched under the screen. The implant allegedly intercepts anything displayed on the screen, including the seed passphrase shown during the initial setup. Using an embedded SIM card, the implant then sends that information back to the attacker, who can then siphon funds from user accounts. [Media: https://twitter.com/Ledger_Support/status/2108968264055345381?s=20] Reports indicate that whoever is behind the hack has stolen over $86 million worth of crypto from hundreds of wallets. There’s no indication that Ledger’s systems have been compromised or that wallets purchased directly from the company have been affected. Instead, the issue appears to be a supply chain attack primarily involving users in Southeast Asia and the CryptoBillis reseller. Ledger has provided guidance on how to check if your wallet has been tampered with. Update October 10th, 2026: Added additional statment from Ledger.",
+  "fetchedAt": "2026-10-11T02:01:41.443Z",
+  "score": 80,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Ledger wallet tampering suspected after reports of crypto thefts",
+  "chineseSummary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
+  "chineseContent": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that “one of the impacted users’ devices contained an unauthorized hardware implant.” Photos and videos posted on X and Threads appear to show a small circuit board sandwiched under the screen. The implant allegedly intercepts anything displayed on the screen, including the seed passphrase shown during the initial setup. Using an embedded SIM card, the implant then sends that information back to the attacker, who can then siphon funds from user accounts. [Media: https://twitter.com/Ledger_Support/status/2108968264055345381?s=20] Reports indicate that whoever is behind the hack has stolen over $86 million worth of crypto from hundreds of wallets. There’s no indication that Ledger’s systems have been compromised or that wallets purchased directly from the company have been affected. Instead, the issue appears to be a supply chain attack primarily involving users in Southeast Asia and the CryptoBillis reseller. Ledger has provided guidance on how to check if your wallet has been tampered with. Update October 10th, 2026: Added additional statment from Ledger.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

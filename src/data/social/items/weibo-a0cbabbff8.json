@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a0cbabbff8",
+  "slug": "weibo-王楚然接替金晨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "王楚然接替金晨",
+  "summary": "微博热榜第 15 位：王楚然接替金晨，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%8E%A5%E6%9B%BF%E9%87%91%E6%99%A8%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-10-11T01:53:01.401Z",
+  "fetchedAt": "2026-10-11T02:02:10.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

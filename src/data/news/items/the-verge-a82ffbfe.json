@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Anthropic is cutting off its internal evaluations from the internet",
+  "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+  "publishedAt": "2026-10-10T14:41:16.000Z",
+  "id": "the-verge-a82ffbfe",
+  "slug": "the-verge-a82ffbfe",
+  "content": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed “unintended model actions,” including submitting a false tip regarding an unsolved murder, that led to the decision. > Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section of this post) reliably catch behaviors like these. The ability to gain access to the live internet, even when models were supposed to be operating in isolation, has been an ongoing issue for AI companies. Many incidents, including the Hugging Face attack, involved agents that were supposed to be denied access to the internet. Yet, in case after case, the agents found creative solutions to bypass those restrictions. Physically removing internet access would certainly improve security around AI testing, but it would also limit its usefulness. The report also amounts to an admission that Anthropic is often unaware of what its agents are doing and does not have a reliable system for monitoring their behavior. Cutting off internet access is just the latest action the company has taken to try and rein in its agents, including temporarily pausing training its frontier models.",
+  "fetchedAt": "2026-10-11T02:01:41.443Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic is cutting off its internal evaluations from the internet",
+  "chineseSummary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+  "chineseContent": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed “unintended model actions,” including submitting a false tip regarding an unsolved murder, that led to the decision. > Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section of this post) reliably catch behaviors like these. The ability to gain access to the live internet, even when models were supposed to be operating in isolation, has been an ongoing issue for AI companies. Many incidents, including the Hugging Face attack, involved agents that were supposed to be denied access to the internet. Yet, in case after case, the agents found creative solutions to bypass those restrictions. Physically removing internet access would certainly improve security around AI testing, but it would also limit its usefulness. The report also amounts to an admission that Anthropic is often unaware of what its agents are doing and does not have a reliable system for monitoring their behavior. Cutting off internet access is just the latest action the company has taken to try and rein in its agents, including temporarily pausing training its frontier models.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
