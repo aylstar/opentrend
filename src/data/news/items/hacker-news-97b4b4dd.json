@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Total Annihilation, rebuilt for modern computers",
+  "summary": "379 points · 161 comments",
+  "content": "Play the original Total Annihilation demo in your browser with Nanolathe, an open-source 2.5D RTS engine. Install the native beta, play online with friends, explore the code and build on it.",
+  "url": "https://nanolathe.gg",
+  "publishedAt": "2026-10-11T18:04:47.000Z",
+  "points": 379,
+  "id": "hacker-news-97b4b4dd",
+  "slug": "hacker-news-97b4b4dd",
+  "fetchedAt": "2026-10-12T02:32:25.536Z",
+  "score": 65,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Total Annihilation, rebuilt for modern computers",
+  "chineseSummary": "379 points · 161 comments",
+  "chineseContent": "Play the original Total Annihilation demo in your browser with Nanolathe, an open-source 2.5D RTS engine. Install the native beta, play online with friends, explore the code and build on it.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

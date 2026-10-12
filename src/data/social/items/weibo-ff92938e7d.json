@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ff92938e7d",
+  "slug": "weibo-霸王茶姬买一送一",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "霸王茶姬买一送一",
+  "summary": "微博热榜第 1 位：霸王茶姬买一送一，当前热度为 200万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%23",
+  "hotValue": "200万热度",
+  "author": "",
+  "publishedAt": "2026-10-12T02:24:13.659Z",
+  "fetchedAt": "2026-10-12T02:33:00.767Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

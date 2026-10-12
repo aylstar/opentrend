@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c9b0bf3fe4",
+  "slug": "weibo-思译cp",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "思译cp",
+  "summary": "微博热榜第 44 位：思译cp，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%80%9D%E8%AF%91cp%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-10-12T02:24:13.659Z",
+  "fetchedAt": "2026-10-12T02:33:00.767Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

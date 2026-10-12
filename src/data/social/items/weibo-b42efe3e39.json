@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b42efe3e39",
+  "slug": "weibo-小s去bigbang演唱会",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "小S去BIGBANG演唱会",
+  "summary": "微博热榜第 47 位：小S去BIGBANG演唱会，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%8E%BBBIGBANG%E6%BC%94%E5%94%B1%E4%BC%9A%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-12T02:24:13.659Z",
+  "fetchedAt": "2026-10-12T02:33:00.767Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

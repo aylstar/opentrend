@@ -2997,3 +2997,23 @@
 {"time":"2026-10-11T02:01:29.753Z","level":"info","message":"processed anthropics/claude-code"}
 {"time":"2026-10-11T02:01:30.123Z","level":"info","message":"processed anthropics/knowledge-work-plugins"}
 {"time":"2026-10-11T02:01:30.511Z","level":"info","message":"processed TencentCloud/Octop"}
+{"time":"2026-10-12T02:32:01.359Z","level":"info","message":"trend run started, limit=10"}
+{"time":"2026-10-12T02:32:03.736Z","level":"info","message":"processed boykopovar/AnyPS5"}
+{"time":"2026-10-12T02:32:04.222Z","level":"info","message":"processed tester-army/e2e"}
+{"time":"2026-10-12T02:32:04.748Z","level":"info","message":"processed mattpocock/skills"}
+{"time":"2026-10-12T02:32:05.209Z","level":"info","message":"processed thedotmack/claude-mem"}
+{"time":"2026-10-12T02:32:05.762Z","level":"info","message":"processed EpicGames/raddebugger"}
+{"time":"2026-10-12T02:32:06.241Z","level":"info","message":"processed heygen-com/hyperframes"}
+{"time":"2026-10-12T02:32:06.763Z","level":"info","message":"processed cursor/plugins"}
+{"time":"2026-10-12T02:32:07.303Z","level":"info","message":"processed flutter/flutter"}
+{"time":"2026-10-12T02:32:07.775Z","level":"info","message":"processed earthtojake/text-to-cad"}
+{"time":"2026-10-12T02:32:08.245Z","level":"info","message":"processed mvschwarz/openrig"}
+{"time":"2026-10-12T02:32:08.785Z","level":"info","message":"processed alibaba/open-code-review"}
+{"time":"2026-10-12T02:32:09.357Z","level":"info","message":"processed debpalash/VoiceStudio"}
+{"time":"2026-10-12T02:32:09.959Z","level":"info","message":"processed anthropics/financial-services"}
+{"time":"2026-10-12T02:32:10.810Z","level":"info","message":"processed paperclipai/paperclip"}
+{"time":"2026-10-12T02:32:11.291Z","level":"info","message":"processed vectorize-io/hindsight"}
+{"time":"2026-10-12T02:32:11.822Z","level":"info","message":"processed affaan-m/ECC"}
+{"time":"2026-10-12T02:32:12.329Z","level":"info","message":"processed anthropics/knowledge-work-plugins"}
+{"time":"2026-10-12T02:32:12.802Z","level":"info","message":"processed anthropics/claude-code"}
+{"time":"2026-10-12T02:32:13.279Z","level":"info","message":"processed Tencent/WeKnora"}
