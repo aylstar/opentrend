@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0d6c661edb",
+  "slug": "weibo-无畏契约",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "无畏契约",
+  "summary": "微博热榜第 48 位：无畏契约，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-13T03:37:01.893Z",
+  "fetchedAt": "2026-10-13T03:42:50.521Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

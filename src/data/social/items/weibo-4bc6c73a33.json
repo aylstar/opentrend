@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4bc6c73a33",
+  "slug": "weibo-李佳琦持续掉粉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "李佳琦持续掉粉",
+  "summary": "微博热榜第 16 位：李佳琦持续掉粉，当前热度为 61万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8C%81%E7%BB%AD%E6%8E%89%E7%B2%89%23",
+  "hotValue": "61万热度",
+  "author": "",
+  "publishedAt": "2026-10-13T03:37:01.893Z",
+  "fetchedAt": "2026-10-13T03:42:50.521Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
