@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Shopify opens its catalog up to more AI agents",
+  "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists […]",
+  "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "publishedAt": "2026-10-13T19:42:42.000Z",
+  "id": "the-verge-bca338b",
+  "slug": "the-verge-bca338b",
+  "content": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions.&nbsp;&nbsp; Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify’s catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify announced it was partnering with Meta to allow its Muse agent to browse and purchase items on a human’s behalf; now, shoppers can use any agent without a partnership integration. To set up the feature, customers connect an agent with their account on Shop, a Shopify-owned platform that consolidates orders, tracks packages, and recommends products. Like the Muse partnership, customers use the one-click Shop Pay feature to check out within the conversation with the agent. Orders placed through the agent are funneled back to the Shop app. Shopify is marketing the feature as a “personal shopper” that humans can give rules to, like setting budget guardrails or only displaying products with fast shipping. Buyers must approve each purchase. E-commerce has become one of the battlegrounds in the era of AI — it’s no coincidence that many demos of agentic tools end with a transaction, whether it’s buying clothing, booking a flight, or ordering takeout on a human’s behalf. The tech industry, including big commerce players like Google and Amazon, are investing in AI-driven shopping tools where the end goal is an “agent” purchasing things for a human user. It’s also the basis of an ongoing fight between Amazon and AI companies like Perplexity — and more recently, Meta’s Muse — over whether agents should be able to shop on a customer’s behalf.",
+  "fetchedAt": "2026-10-14T02:01:27.362Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Shopify 向更多 AI 代理开放目录",
+  "chineseSummary": "更多人工智能代理很快将能够浏览 Shopify 列表并进行购买，这标志着该公司代理商务雄心的扩大。 Shopify 周二宣布，它将允许购物者配置他们的人工智能代理来代表他们购买产品，从而使更多代理能够访问 Shopify 目录中超过 10 亿的商品。 （目录包括[...]",
+  "chineseContent": "更多人工智能代理很快将能够浏览 Shopify 列表并进行购买，这标志着该公司代理商务雄心的扩大。   Shopify 周二宣布，它将允许购物者配置他们的人工智能代理来代表他们购买产品，从而使更多代理能够访问 Shopify 目录中超过 10 亿的商品。 （该目录包括 Shopify 店面内外的商品。）9 月，Shopify 宣布与 Meta 合作，允许其 Muse 代理代表人类浏览和购买商品；现在，购物者可以使用任何代理，无需合作伙伴整合。要设置该功能，客户将代理与他们在 Shop 上的帐户连接起来，这是 Shopify 拥有的平台，用于整合订单、跟踪包裹和推荐产品。与 Muse 合作伙伴关系一样，客户使用一键式 Shop Pay 功能在与代理的对话中结账。通过代理下的订单将被传送回商店应用程序。 Shopify 将该功能作为“个人购物者”进行营销，人类可以为其制定规则，例如设置预算护栏或仅显示快速发货的产品。买家必须批准每次购买。电子商务已经成为人工智能时代的战场之一——许多代理工具的演示都以交易结束，这并非巧合，无论是代表人类购买衣服、预订航班还是叫外卖。科技行业，包括谷歌和亚马逊等大型商业企业，正在投资人工智能驱动的购物工具，其最终目标是“代理”为人类用户购买商品。这也是亚马逊和 Perplexity 等人工智能公司（以及最近的 Meta 的 Muse）之间关于代理商是否应该能够代表客户购物的持续斗争的基础。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+  "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+  "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+  "publishedAt": "2026-10-14T01:35:51.000Z",
+  "id": "cnbc-46d2eec2",
+  "slug": "cnbc-46d2eec2",
+  "content": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.\n\n\"The Secretary of War branded Anthropic — an American AI company whose models help defend the nation— a national-security 'supply chain risk' because it declined to permit its models to be used for mass surveillance of Americans or lethal autonomous warfare and publicly explained those AI-safety commitments,\" Anthropic attorneys wrote in the petition filed on Tuesday. \"A divided panel upheld that extraordinary designation.\"\n\nThe Defense Department, led by Pete Hegseth, applied the supply chain risk label in March, a move that blocked defense contractors from using the company's technology in their work with the agency. That came after a breakdown in negotiations about how the military could use Anthropic's Claude AI models .\n\nAnthropic sued the Trump administration in an effort to undo that action. In September, the D.C. Circuit upheld the Pentagon's blacklisting. The 2-1 decision rejected Anthropic's argument that the Department of Defense's ban on its Claude models was arbitrary, unauthorized and unconstitutional.\n\nAnthropic's attorneys wrote in the Tuesday filing that the court ignored \"straightforward evidence the designation was retaliation for Anthropic's speech about AI safety.\"\n\nIn a parallel case, a San Francisco federal judge ruled in August that the DOD had violated Anthropic's First Amendment rights, and that its supply chain risk designation amounted to illegal retaliation.\n\nBefore the clash between the two sides spilled into the public's view earlier this year, Anthropic served as an early partner across many U.S. agencies, including the DOD. Anthropic signed a $200 million contract with the Pentagon in July of 2025, but as the company began negotiating Claude's deployment on the DOD's GenAI.mil AI platform that September, talks collapsed.\n\nA representative from Anthropic declined to comment beyond the filing. A Pentagon spokesperson told CNBC in an email that the agency doesn't comment on pending or ongoing litigation.\n\n— CNBC's Ashley Capoot contributed to this report.\n\nWATCH: Anthropic poised to disclose new revenue numbers",
+  "fetchedAt": "2026-10-14T02:01:27.363Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 敦促华盛顿特区法院重新审理五角大楼黑名单上诉",
+  "chineseSummary": "Anthropic 正在请求华盛顿特区的联邦法院重新审理其对五角大楼将该公司人工智能模型列入黑名单一案的上诉。",
+  "chineseContent": "Anthropic 正在请求华盛顿特区的联邦法院重新审理其对五角大楼将该公司人工智能模型列入黑名单一案的上诉。\n\nAnthropic 的律师在周二提交的请愿书中写道：“战争部长将 Anthropic（一家其模型有助于保卫国家的美国人工智能公司）列为国家安全的‘供应链风险’，因为它拒绝允许其模型用于对美国人的大规模监视或致命的自主战争，并公开解释了这些人工智能安全承诺。” “一个分裂的小组维持了这一非凡的称号。”\n\n由皮特·赫格斯 (Pete Hegseth) 领导的国防部于三月份应用了供应链风险标签，此举阻止国防承包商在与该机构的合作中使用该公司的技术。此前，关于军方如何使用 Anthropic 的 Claude AI 模型的谈判破裂。\n\nAnthropic 起诉特朗普政府，试图撤销这一行动。九月，华盛顿特区巡回法院维持了五角大楼的黑名单。 2-1 的裁决驳回了 Anthropic 的论点，即国防部对其克劳德模型的禁令是任意的、未经授权的和违宪的。\n\nAnthropic 的律师在周二的文件中写道，法院忽视了“直接证据，该指定是对 Anthropic 关于人工智能安全的演讲的报复”。\n\n在一个平行案件中，旧金山联邦法官八月份裁定，国防部侵犯了人类第一修正案的权利，其供应链风险指定相当于非法报复。\n\n在今年早些时候双方的冲突进入公众视野之前，Anthropic 曾是包括国防部在内的许多美国机构的早期合作伙伴。 Anthropic 于 2025 年 7 月与五角大楼签署了一份价值 2 亿美元的合同，但当该公司于 9 月开始就 Claude 在国防部 GenAI.mil 人工智能平台上的部署进行谈判时，谈判破裂了。\n\nAnthropic 的一位代表拒绝对文件之外的内容发表评论。五角大楼发言人在一封电子邮件中告诉 CNBC，该机构不会对未决或正在进行的诉讼发表评论。\n\n— CNBC 的 Ashley Capoot 对本报告做出了贡献。\n\n观看：Anthropic 准备披露新的收入数据",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

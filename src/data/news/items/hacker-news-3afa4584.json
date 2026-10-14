@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "We turned EmbeddingGemma 2 into a speech-to-text model",
+  "summary": "399 points · 86 comments",
+  "content": "Google's EmbeddingGemma 2 is an embedding model. We turned it into a speech-to-text model: an hour of audio in about 13 seconds on a base MacBook Air , entirely on device.\n\nCan an embedding model transcribe speech?\n\nEmbeddingGemma 2 is a multimodal embedding model: text, images, audio and video in one shared space. Say a word out loud and its audio lands close to the written word.\n\nSo we tried reading words straight out of that space.\n\nOnly the reader is trained: under two hours on 8×H100, on openly licensed English speech. The base model was never trained for speech-to-text.\n\n× real time: seconds of audio per second of processing. Rows 1–2: our tests on the same base M3 MacBook Air. Rows 3–5: FluidAudio's published benchmarks on larger, newer Macs and different audio. A rough guide, not a like-for-like ranking.\n\nIts word error rate is about 5% right now, against 2–3% for leading speech models. We believe a better-trained reader can close that gap; that's the next iteration.\n\nDrop in an audio file, or hold Right Option, speak and release to dictate into any app. It runs on the Mac's Neural Engine; your audio never leaves the machine.",
+  "url": "https://eg2.haku.sh/",
+  "publishedAt": "2026-10-13T11:27:14.000Z",
+  "points": 399,
+  "id": "hacker-news-3afa4584",
+  "slug": "hacker-news-3afa4584",
+  "fetchedAt": "2026-10-14T02:01:27.359Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我们将 EmbeddingGemma 2 转变为语音转文本模型",
+  "chineseSummary": "399 分 · 86 条评论",
+  "chineseContent": "Google 的 EmbeddingGemma 2 是一个嵌入模型。我们将其转变为语音转文本模型：在基本 MacBook Air 上，大约 13 秒即可播放一小时的音频，完全在设备上进行。\n\n嵌入模型可以转录语音吗？\n\nEmbeddingGemma 2 是一种多模态嵌入模型：文本、图像、音频和视频位于一个共享空间中。大声说出一个单词，其声音会接近书面单词。\n\n所以我们尝试直接从那个空间中读取单词。\n\n只有读者接受过培训：在 8×H100 上进行两小时内的公开许可英语演讲。基本模型从未接受过语音转文本训练。\n\n× 实时：每秒处理音频的秒数。第 1-2 行：我们在同一台 M3 MacBook Air 上进行的测试。第 3-5 行：FluidAudio 针对更大、更新的 Mac 和不同音频发布的基准测试。一个粗略的指南，而不是同类排名。\n\n目前它的单词错误率约为 5%，而领先的语音模型的错误率为 2-3%。我们相信，训练有素的读者可以缩小这一差距；这是下一次迭代。\n\n放入音频文件，或按住右侧选项，说出并释放以听写到任何应用程序。它在 Mac 的神经引擎上运行；您的音频永远不会离开机器。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-76e673584e",
+  "slug": "weibo-上海地铁",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "上海地铁",
+  "summary": "微博热榜第 36 位：上海地铁，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-10-14T01:59:16.494Z",
+  "fetchedAt": "2026-10-14T02:02:36.820Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

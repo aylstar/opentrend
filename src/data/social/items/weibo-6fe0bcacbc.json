@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6fe0bcacbc",
+  "slug": "weibo-红星照耀中国",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "红星照耀中国",
+  "summary": "微博热榜第 3 位：红星照耀中国，当前热度为 76万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD%23",
+  "hotValue": "76万热度",
+  "author": "",
+  "publishedAt": "2026-10-14T01:59:16.494Z",
+  "fetchedAt": "2026-10-14T02:02:36.820Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

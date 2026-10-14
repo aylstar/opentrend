@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/tester-army/e2e",
   "docsUrl": "https://tester.army/e2e",
-  "stars": 9649,
-  "forks": 459,
-  "openIssues": 107,
+  "stars": 10121,
+  "forks": 488,
+  "openIssues": 114,
   "license": "Apache-2.0",
-  "pushedAt": "2026-10-12T17:19:22Z",
-  "updatedAt": "2026-10-13T03:40:44Z",
+  "pushedAt": "2026-10-13T23:37:20Z",
+  "updatedAt": "2026-10-14T01:56:24Z",
   "createdAt": "2026-07-22T09:29:04Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<a href=\"https://tester.army/e2e?utm_source=e2e&utm_medium=github&utm_campaign=readme_banner\"><img src=\"./.github/assets/readme-banner.png\" alt=\"e2e, the open source AI testing framework by TesterArmy\" width=\"100%\" /></a>\n\n<p align=\"center\">\n  <a href=\"https://tester.army?utm_source=e2e&utm_medium=github&utm_campaign=readme_badge\"><img alt=\"Made by TesterArmy\" src=\"./.github/assets/made-by-testerarmy.svg\" /></a>\n  <a href=\"https://www.npmjs.com/package/e2e\"><img alt=\"npm version\" src=\"https://img.shields.io/npm/v/e2e.svg?style=for-the-badge&labelColor=000000\" /></a>\n  <a href=\"./LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/badge/license-Apache--2.0-green.svg?style=for-the-badge&labelColor=000000\" /></a>\n  <a href=\"https://tester.army/discord\"><img alt=\"Join the community on Discord\" src=\"https://img.shields.io/badge/Join%20the%20community-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://www.star-history.com/tester-army/e2e\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=tester-army/e2e&type=trending&theme=dark\" /><img alt=\"GitHub Trending Repository of the Day\" src=\"https://api.star-history.com/badge?repo=tester-army/e2e&type=trending\" /></picture></a>\n</p>\n\n# e2e\n\n[e2e](https://tester.army/e2e?utm_source=e2e&utm_medium=github&utm_campaign=readme_intro) is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test.\n\n```ts\n// tests/checkout.e2e.ts\nimport { test, expect } from 'e2e';\n\ntest('a member upgrades to Pro', async ({ app, agent, screen }) => {\n  await app.open('/settings/billing');\n\n  await agent.act('upgrade the workspace to the Pro plan');\n  await agent.assert('the invoice preview shows a prorated amount');\n\n  await expect(screen.getByRole('status')).toContainText('Pro');\n});\n```\n\nAn agent step that a later assertion verifies records its actions, and the\nnext run replays them with no model calls until the app changes. Tests\nwithout agent steps need no model. Bring your own subscription, API key, or\nlocal model.\n\n## Quick start\n\n```bash\nnpx e2e init\n```\n\n`init` asks for an engine, web or mobile, and a model provider, then writes a\nconfig and an example test. The\n[quickstart](https://e2e.tester.army/docs/quickstart) covers the rest.\n\nTo see a finished setup in your stack, open\n[`examples/`](https://github.com/tester-army/e2e/tree/main/examples):\nVite, Next.js, Astro, Expo, SwiftUI, Jetpack Compose, Kotlin Multiplatform,\nand Flutter, each a standalone project with a passing suite.\n\n## Packages\n\n| Package | What it does |\n| --- | --- |\n| [`e2e`](https://www.npmjs.com/package/e2e) | The SDK, runner, and CLI. |\n| [`@e2e-dev/web`](https://www.npmjs.com/package/@e2e-dev/web) | Browser engine: Chromium, Firefox, and WebKit through Playwright. |\n| [`@e2e-d",
-  "generatedAt": "2026-10-13T03:41:35.628Z",
+  "generatedAt": "2026-10-14T02:01:09.091Z",
   "analysis": {
     "oneLine": "e2e 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "e2e 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，e2e 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 9,649，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，e2e 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 10,121，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

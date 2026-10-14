@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4d08aad1f1",
+  "slug": "weibo-微信上线绿泡泡短剧",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "微信上线绿泡泡短剧",
+  "summary": "微博热榜第 27 位：微信上线绿泡泡短剧，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%8A%E7%BA%BF%E7%BB%BF%E6%B3%A1%E6%B3%A1%E7%9F%AD%E5%89%A7%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-10-14T01:59:16.494Z",
+  "fetchedAt": "2026-10-14T02:02:36.820Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

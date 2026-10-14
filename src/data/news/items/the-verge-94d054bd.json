@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex",
+  "summary": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. \"It suddenly became a little easier to breathe on many social platforms,\" Zelenskyy said Monday. \"There was less hate, less division, and fewer provocations.\" Zelenskyy isn't the first to assert that the […]",
+  "url": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy",
+  "publishedAt": "2026-10-13T18:31:31.000Z",
+  "id": "the-verge-94d054bd",
+  "slug": "the-verge-94d054bd",
+  "content": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia’s disinformation efforts. “It suddenly became a little easier to breathe on many social platforms,” Zelenskyy said Monday. “There was less hate, less division, and fewer provocations.” Zelenskyy isn’t the first to assert that the drone operation, which targeted data centers belonging to the Russian technology company Yandex, has cut down on spam and disinformation campaigns fomented by Russian bot farms. Social media users have claimed&nbsp; they’ve noticed less traffic on posts by MAGA-affiliated accounts, as well as those associated with the far-right Alternative for Germany (AfD) party. Some have even said they’ve noticed a steep drop in spam calls and messages. [Media: https://bsky.app/profile/antibot4navalny.bsky.social/post/3mxrlpxb4b22m] But these people are wrong. The drone strikes appear to have affected Yandex’s web crawlers, not any disinformation or political operations.&nbsp; In fact, the account antibot4navalny, which tracks state-sponsored troll farms, reports that bot traffic is steady as ever. On Monday, the same day Zelenskyy claimed that disinformation had died down, antibot4navalny reported that several Kremlin-aligned accounts posted videos falsely claiming that experts are demanding the European Union lift the ongoing sanctions on Russia. Danish analyst Valdemar Osted said interactions on MAGA and AfD accounts have actually increased since the strikes. And the charts purportedly showing a decline in bot activity appear to be AI-generated.&nbsp; Ironically, claims that the drone strikes hindered Russian disinformation campaigns appears to be a form of disinformation itself, no matter what Zelenskyy says.",
+  "fetchedAt": "2026-10-14T02:01:27.362Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "即使乌克兰无人机袭击了 Yandex，俄罗斯机器人农场仍在进行恶意攻击",
+  "chineseSummary": "乌克兰军用无人机摧毁了多个俄罗斯数据中心几天后，总统弗拉基米尔·泽伦斯基声称这次行动损害了俄罗斯的虚假信息努力。 “在许多社交平台上呼吸突然变得容易一些，”泽连斯基周一表示。 “仇恨、分裂和挑衅都减少了。”泽连斯基并不是第一个断言 [...]",
+  "chineseContent": "乌克兰军用无人机摧毁了多个俄罗斯数据中心几天后，总统弗拉基米尔·泽伦斯基声称这次行动损害了俄罗斯的虚假信息努力。 “在许多社交平台上呼吸突然变得容易一些，”泽连斯基周一表示。 “仇恨、分裂和挑衅都减少了。”泽伦斯基并不是第一个声称此次无人机行动针对的是俄罗斯科技公司 Yandex 旗下数据中心的无人机行动，该行动减少了俄罗斯机器人农场煽动的垃圾邮件和虚假信息活动。社交媒体用户声称，他们注意到 MAGA 附属帐户以及极右翼德国另类选择党 (AfD) 相关帐户的帖子流量减少。有些人甚至表示，他们注意到垃圾电话和短信的数量急剧下降。 [媒体：https://bsky.app/profile/antibot4navalny.bsky.social/post/3mxrlpxb4b22m]但这些人错了。无人机袭击似乎影响了 Yandex 的网络爬虫，而不是任何虚假信息或政治操作。  事实上，跟踪国家资助的巨魔农场的帐户 antibot4navalny 报告称，机器人流量一如既往地稳定。周一，就在泽伦斯基声称虚假信息已经消失的同一天，antibot4navalny 报道称，几个与克里姆林宫结盟的账户发布了视频，错误地声称专家要求欧盟取消对俄罗斯正在进行的制裁。丹麦分析师 Valdemar Osted 表示，自罢工以来，MAGA 和 AfD 账户上的互动实际上有所增加。据称显示机器人活动下降的图表似乎是人工智能生成的。  具有讽刺意味的是，无论泽伦斯基怎么说，无人机袭击阻碍俄罗斯虚假信息活动的说法本身似乎就是虚假信息的一种形式",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

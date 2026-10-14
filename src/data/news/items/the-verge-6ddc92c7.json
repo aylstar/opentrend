@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+  "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+  "publishedAt": "2026-10-13T20:45:25.000Z",
+  "id": "the-verge-6ddc92c7",
+  "slug": "the-verge-6ddc92c7",
+  "content": "An OpenAI engineer was arrested after the company said it discovered a “sophisticated recording device” hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department of Justice. OpenAI’s post about the incident says it used its AI models to “understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier.” [Image: The recording device recovered from a TV in OpenAI’s office. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-5.24.10-PM.png?quality=90&strip=all] As noted by the DOJ, OpenAI found the device plugged into a TV’s USB port in an executive conference room, where discussions about “highly confidential technical, commercial, and strategic information” often take place. Alfozan didn’t have access to this room, but CCTV footage allegedly showed him “near the executive conference room on multiple dates prior to the device’s discovery,” according to the DOJ. Footage also captured Alfozan appearing to look behind the TV where the device was installed, federal prosecutors claim. [Image: A photo allegedly showing Alfozan looking behind the TV where the device was installed. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-5.24.17-PM.png?quality=90&strip=all] The device was covered in toilet paper and installed on or around September 28th. Its contents were encrypted. Additionally, the DOJ claims OpenAI security discovered a bag Alfozan left in another room inside the company’s office, where they found his wallet, ID, and another recording device. OpenAI says it fired the employee and referred the incident to the FBI. Alfozan was arrested Friday and has remained in custody since, appearing in federal court for the first time on Tuesday. > We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI’s investigation is ongoing and we will continue to support their work. > At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data. The employee was terminated. > We take protecting our technology, data, and people seriously, and as a matter of national importance. Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats. Update, October 13th: Added information from the DOJ.",
+  "fetchedAt": "2026-10-14T02:01:27.361Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 员工因涉嫌在会议室植入窃听器而被捕",
+  "chineseSummary": "OpenAI 一名工程师在该公司表示在其办公室内发现了隐藏的“复杂录音设备”后被捕。该员工被确认为 35 岁的沙特国民 Abdulrahman Alfozan。根据该部门的一份新闻稿，阿尔福赞被指控使用或试图使用一种设备来拦截口头通信 [...]",
+  "chineseContent": "OpenAI 一名工程师在该公司表示在其办公室内发现了隐藏的“复杂录音设备”后被捕。该员工被确认为 35 岁的沙特国民 Abdulrahman Alfozan。根据司法部的一份新闻稿，阿尔福赞被指控使用或试图使用一种设备来拦截口头通信。 OpenAI 关于该事件的帖子称，它使用其人工智能模型来“了解该设备及其来源，并确定是一名特定员工在几天前种植的。” [图片：从 OpenAI 办公室的电视中恢复的录音设备。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-5.24.10-PM.png?quality=90&strip=all] 正如 DOJ 所指出的，OpenAI 在行政会议室中发现该设备插入电视的 USB 端口，该会议室经常进行有关“高度机密的技术、商业和战略信息”的讨论。据司法部称，阿尔福赞无法进入这个房间，但据称闭路电视录像显示他“在该设备被发现之前多次出现在行政会议室附近”。联邦检察官称，视频还捕捉到阿尔福赞似乎在观看安装该设备的电视机后面。 [图片：一张照片据称显示阿尔福赞在安装该设备的电视后面看着。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-at-5.24.17-PM.png?quality=90&strip=all] 该设备被卫生纸覆盖，并于 9 月 28 日左右安装。其内容已加密。此外，司法部声称 OpenAI 安全人员在公司办公室的另一个房间里发现了 Alfozan 留下的一个包，并在那里发现了他的钱包、身份证件和另一个录音设备",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

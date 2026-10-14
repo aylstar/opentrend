@@ -1,0 +1,21 @@
+{
+  "id": "weibo-65172b9751",
+  "slug": "weibo-中国互联网进入字节时间",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "中国互联网进入字节时间",
+  "summary": "微博热榜第 42 位：中国互联网进入字节时间，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E8%BF%9B%E5%85%A5%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-14T01:59:16.494Z",
+  "fetchedAt": "2026-10-14T02:02:36.820Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
