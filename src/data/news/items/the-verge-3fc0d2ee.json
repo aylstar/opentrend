@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "McKinsey is making job applicants spar with a fake AI client",
+  "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
+  "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+  "publishedAt": "2026-10-14T22:53:31.000Z",
+  "id": "the-verge-3fc0d2ee",
+  "slug": "the-verge-3fc0d2ee",
+  "content": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation “aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,” the WSJ says, and it isn’t designed to “mimic an unhinged client.” The AI won’t score the candidates — humans will be in the room to assess the candidates and see how well they deal with the simulated situations. The McKinsey tool will be in testing for undergrads seeking business-analyst jobs in “some” offices in North America this fall, and the WSJ says “hundreds” may use it. Other companies are also building tools to use AI avatars as part of the job interview process, and my colleague Hayden Field tried some of them out for a video we published in March.",
+  "fetchedAt": "2026-10-15T01:36:48.667Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "麦肯锡让求职者与假 AI 客户发生争执",
+  "chineseSummary": "据《华尔街日报》报道，咨询公司麦肯锡公司将要求一些入门级候选人与人工智能模拟客户进行 10 分钟的对话，作为面试过程的一部分。 AI 模拟“旨在反映麦肯锡顾问在日常工作中可能遇到的 80% 的场景”，[…]",
+  "chineseContent": "据《华尔街日报》报道，咨询公司麦肯锡公司将要求一些入门级候选人与人工智能模拟客户进行 10 分钟的对话，作为面试过程的一部分。 《华尔街日报》表示，人工智能模拟“旨在反映麦肯锡顾问在日常工作中可能遇到的 80% 的场景”，它并不是为了“模仿精神错乱的客户”而设计的。人工智能不会对候选人进行评分——人类将在房间里评估候选人，看看他们处理模拟情况的能力如何。麦肯锡的工具将于今年秋天在北美的“一些”办事处对寻求商业分析师工作的本科生进行测试，《华尔街日报》称“数百人”可能会使用它。其他公司也在构建使用人工智能化身作为求职面试过程一部分的工具，我的同事 Hayden Field 在我们三月份发布的视频中尝试了其中的一些工具。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

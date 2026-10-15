@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+  "summary": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+  "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+  "publishedAt": "2026-10-14T20:19:25.000Z",
+  "id": "cnbc-dbc95cb0",
+  "slug": "cnbc-dbc95cb0",
+  "content": "Dell shares plummeted 11% on Wednesday and dragged down other data center equipment names on mounting concerns that enterprise spending on artificial intelligence won't justify the AI buildout.\n\nHewlett-Packard Enterprise , Oracle and Super Micro all joined in the downward slide.\n\nIn a report to clients on Wednesday, analysts at Barclays downgraded its rating on Dell, HPE and NetApp , \"after a significant run and on enterprise AI timing.\"\n\nMakers of data center servers and other backend equipment have been favored on Wall Street this year on optimism that they'll be selling huge volumes of gear tied to demand for AI chips and systems for years into the future. Dell has been one of the top performers on the market, up more than 300% this year, while HPE has jumped about 160% and NetApp has doubled.\n\nHowever, sentiment toward the AI infrastructure space has shifted of late due in part to concerning revenue figures out of OpenAI and more broadly out of fear that rising interest rates will create a challenging environment as so much of the buildout is reliant on debt. Oracle, a heavy borrower, dropped 9% on Wednesday and is now down 33% for the year while neocloud CoreWeave plunged 15%, wiping out its gains for 2026.\n\nThe Barclays analysts said they haven't seen a \"meaningful AI inflection\" when it comes to enterprise spending for Dell, HPE and NetApp, lowering the rating on each to the equivalent of a hold from buy. They instead attribute increased revenue to the global memory shortage and noted that infrastructure companies have passed the higher price of memory along to customers.\n\n\"There is growing sentiment about enterprise AI adoption creating a hardware refresh,\" the Barclays analysts wrote, adding that businesses are typically allocating just 5% of their IT budgets to AI. \"We believe the strong enterprise revenues are more of a function of memory costs than a move to enterprise AI at this time.\"\n\nThe Barclays analysts also found that only about a quarter of total enterprise AI spend is going towards hardware. They said normalizing and eventually declining memory prices could weigh on infrastructure-related revenue.\n\nMemory is a notoriously cyclical business, and stocks were hit this week after China's ChangXin Memory Technologies, or CXMT, reported progress over the weekend on a new chip structure. Micron is down 11% for the week, while South Korea's SK Hynix has tumbled 13% in U.S. trading and Western Digital has dropped more than 8%.\n\nWATCH: HPE isn’t Dell, but its lower valuation gives it more upside, says Jim Cramer",
+  "fetchedAt": "2026-10-15T01:36:48.668Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "由于对“企业 AI 时机”的担忧加剧，戴尔股价暴跌 11%，引领数据中心抛售",
+  "chineseSummary": "由于担心企业人工智能采用滞后，巴克莱下调了戴尔、HPE 和 NetApp 的评级。",
+  "chineseContent": "由于人们越来越担心企业在人工智能上的支出无法证明人工智能建设的合理性，戴尔股价周三暴跌 11%，并拖累其他数据中心设备品牌。\n\n惠普企业(Hewlett-Packard Enterprise)、甲骨文(Oracle)和超微(Super Micro)都加入了下滑行列。\n\n在周三给客户的一份报告中，巴克莱分析师下调了对戴尔、HPE 和 NetApp 的评级，“在经历了一次大规模的运行和企业人工智能时机选择之后”。\n\n数据中心服务器和其他后端设备制造商今年在华尔街受到青睐，因为他们乐观地认为，他们将在未来几年内销售大量与人工智能芯片和系统需求相关的设备。戴尔一直是市场上表现最好的公司之一，今年股价上涨了 300% 以上，而 HPE 则上涨了约 160%，NetApp 则上涨了一倍。\n\n然而，人们对人工智能基础设施领域的情绪最近发生了转变，部分原因是对 OpenAI 的收入数据的担忧，更广泛的是担心利率上升将创造一个充满挑战的环境，因为大部分建设都依赖于债务。借贷大户甲骨文周三股价下跌 9%，目前全年股价下跌 33%，而 Neocloud CoreWeave 则暴跌 15%，抹去了 2026 年的涨幅。\n\n巴克莱分析师表示，在戴尔、HPE 和 NetApp 的企业支出方面，他们没有看到“有意义的人工智能变化”，因此将各自的评级下调至相当于买入的“持有”。相反，他们将收入增加归因于全球内存短缺，并指出基础设施公司已将更高的内存价格转嫁给了客户。\n\n巴克莱分析师写道：“越来越多的人认为企业采用人工智能会带来硬件更新。”他补充说，企业通常只将 5% 的 IT 预算分配给人工智能。 “我们认为，强劲的企业收入更多地是内存成本的结果，而不是目前转向企业人工智能的结果。”\n\n巴克莱分析师还发现，企业人工智能总支出中只有约四分之一用于硬件。他们表示，内存价格正常化并最终下降可能会对基础设施相关收入造成压力。\n\n内存是众所周知的周期性行业，中国长鑫内存技术公司（CXMT）周末报告了新芯片结构的进展，本周股市受到重创。美光本周下跌 11%，韩国 SK 海力士在美国交易中下跌 13%，西部数据下跌超过 8%。\n\n观看：吉姆·克莱默 (Jim Cramer) 表示，HPE 不是戴尔，但其较低的估值赋予其更大的上涨空间",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

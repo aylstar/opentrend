@@ -1,0 +1,27 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+  "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
+  "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+  "publishedAt": "2026-10-15T01:07:01.000Z",
+  "id": "cnbc-bbbfd7a5",
+  "slug": "cnbc-bbbfd7a5",
+  "content": "A sell-off in global technology hardware stocks deepened Thursday, with Asian chipmakers tracking Wall Street losses as concerns over further Federal Reserve interest rate hikes, financing of artificial intelligence investments weigh on sentiment .\n\nSouth Korean chip giant SK Hynix plunged over 10%, while rival Samsung Electronics fell 7.1%. Other South Korean chip-related stocks also came under pressure. LG Innotek sank 8.1%, Seoul Semiconductor shed 7.7% and Samsung SDI declined 6.8%.\n\nIn Japan, technology investment giant SoftBank Group tumbled 7.9%. Semiconductor testing equipment maker Advantest dropped 6.9%, while chipmaking equipment supplier Tokyo Electron lost 5.4%. Renesas Electronics declined 5.4%.\n\nThe declines come as investors grow increasingly concerned that higher borrowing costs could weigh on the massive capital spending required to build out AI infrastructure, putting pressure on technology companies that have benefited from the AI investment boom.\n\nChief executives of Broadcom and Intel warned on Monday that financing could become a major headwind to the AI boom, with Broadcom's Hock Tan saying it could be bigger challenge to AI expansion than shortages of chips or electricity.\n\nThe sell-off followed a bruising session on Wall Street Wednesday, where technology shares led broader market losses after hotter-than-expected U.S. inflation data fueled concerns that the Federal Reserve could raise interest rates further.\n\nThe tech-heavy Nasdaq Composite dropped 1.88% to close at 26,692.87, while the S&P 500 shed 1.11% to end at 7,718.94. The Dow Jones Industrial Average slipped 0.09%.\n\nDan Ives, tech analyst at Yorkville Ives, said the latest sell-off in AI-related stocks reflects growing concerns over the cost of financing massive infrastructure projects as U.S. Treasury yields climb above 5%, but added that underlying demand for AI computing power remains robust.\n\n\"Higher yields raise the cost of financing these builds, and investors are right to focus on balance sheets and contract structure, but rates are a financing question, not a demand question,\" Ives said in a note.\n\nThe latest pullback presents a buying opportunity, Ives said, adding that the AI infrastructure boom remained in its early stages despite mounting concerns over funding costs.\n\n\"What would change our view is a demand signal, not a rate signal,\" he said, pointing to potential cuts in hyperscaler capital expenditure plans, canceled contracts or falling GPU rental prices as warning signs.",
+  "fetchedAt": "2026-10-15T01:36:48.668Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "由于美联储加息担忧和 AI 融资担忧加剧，SK海力士股价在亚洲科技股暴跌中暴跌10%",
+  "chineseSummary": "周四，全球科技硬件股的抛售加剧。",
+  "chineseContent": "周四，全球科技硬件股的抛售加剧，亚洲芯片制造商追踪华尔街损失，因对美联储进一步加息的担忧、人工智能投资融资打压市场情绪。\n\n韩国芯片巨头SK海力士股价下跌超过10%，而竞争对手三星电子股价下跌7.1%。其他韩国芯片相关股票也面临压力。 LG Innotek 下跌 8.1%，首尔半导体下跌 7.7%，三星 SDI 下跌 6.8%。\n\n日本科技投资巨头软银集团股价下跌 7.9%。半导体测试设备制造商Advantest下跌6.9%，芯片制造设备供应商Tokyo Electron下跌5.4%。瑞萨电子下跌 5.4%。\n\n股价下跌之际，投资者越来越担心借贷成本上升可能会给建设人工智能基础设施所需的巨额资本支出带来压力，从而给受益于人工智能投资热潮的科技公司带来压力。\n\n博通和英特尔的首席执行官周一警告称，融资可能成为人工智能繁荣的主要阻力，博通的 Hock Tan 表示，这对人工智能扩张来说可能是比芯片或电力短缺更大的挑战。\n\n周三华尔街股市遭遇惨重抛售，美国通胀数据超出预期，引发人们对美联储可能进一步加息的担忧，科技股领跌大盘。\n\n以科技股为主的纳斯达克综合指数下跌 1.88%，收于 26,692.87 点；标准普尔 500 指数下跌 1.11%，收于 7,718.94 点。道琼斯工业平均指数下跌 0.09%。\n\nYorkville Ives科技分析师丹·艾夫斯(Dan Ives)表示，随着美国国债收益率攀升至5%以上，人工智能相关股票的最新抛售反映了人们对大型基础设施项目融资成本的日益担忧，但他补充说，对人工智能计算能力的潜在需求仍然强劲。\n\n艾夫斯在一份报告中表示：“较高的收益率提高了这些建设的融资成本，投资者关注资产负债表和合同结构是正确的，但利率是一个融资问题，而不是需求问题。”\n\n艾夫斯表示，最新的回调提供了一个买入机会，并补充说，尽管人们对融资成本的担忧日益加剧，但人工智能基础设施的繁荣仍处于早期阶段。\n\n他表示：“改变我们观点的是需求信号，而不是利率信号。”他指出，超大规模资本支出计划可能被削减、合同取消或 GPU 租赁价格下降都是警告信号。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

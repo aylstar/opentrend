@@ -1,0 +1,21 @@
+{
+  "id": "weibo-46fdde00fc",
+  "slug": "weibo-网传李飞朋友圈",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "网传李飞朋友圈",
+  "summary": "微博热榜第 33 位：网传李飞朋友圈，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%8E%E9%A3%9E%E6%9C%8B%E5%8F%8B%E5%9C%88%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-10-15T01:28:08.395Z",
+  "fetchedAt": "2026-10-15T01:37:41.928Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

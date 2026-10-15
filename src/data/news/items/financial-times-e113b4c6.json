@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+  "summary": "Rapid growth is slower than some anticipated as fears about the AI trade rattle markets",
+  "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-15T00:59:36.000Z",
+  "id": "financial-times-e113b4c6",
+  "slug": "financial-times-e113b4c6",
+  "content": "Rapid growth is slower than some anticipated as fears about the AI trade rattle markets",
+  "fetchedAt": "2026-10-15T01:36:48.673Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "金融",
+    "财经"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Anthropic 告诉投资者，IPO 前季度收入增长 50% 至 168 亿美元",
+  "chineseSummary": "由于对人工智能贸易的担忧扰乱了市场，快速增长速度低于一些人的预期",
+  "chineseContent": "由于对人工智能贸易的担忧扰乱了市场，快速增长速度低于一些人的预期",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

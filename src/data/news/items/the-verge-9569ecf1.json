@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+  "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that […]",
+  "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+  "publishedAt": "2026-10-14T18:47:54.000Z",
+  "id": "the-verge-9569ecf1",
+  "slug": "the-verge-9569ecf1",
+  "content": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI’s bankruptcy case “to put all parties on notice of the regulatory issues that will need to be addressed in any sale or transfer of the Debtor’s business or assets.” Character.AI announced Tuesday it was filing for Chapter 11 and selling some assets to Disney. But the AGs warn there could be serious risk involved in the transfer of the technology due to the “highly sensitive nature of the conversations many users have with Character.AI chatbot characters, the large number of minors who use the product, the serious risks posed by specific features of the product.” The filing also reveals that several of the states had been mid-investigation when Character.AI filed for bankruptcy. The states say they opened a probe into consumer protection and privacy concerns in 2024, following a lawsuit from the mother of a 14-year-old who died by suicide allegedly “seconds” after talking with the chatbot. “The investigations uncovered exceptionally serious dangers and potentially unlawful conduct from Character.AI, particularly its treatment of children, including chatbots posing as licensed professionals, exposure to sexual and violent content, weak age checks, misleading safety claims, and potential violations of state privacy laws,” according to a press release from James’ office. The states were working to address these issues with Character.AI, but didn’t reach an agreement before the company filed for bankruptcy. Character.AI and Disney did not immediately respond to requests for comment. The states are urging the judge to require the purchaser of Character.AI’s assets to implement procedures that will safeguard the sensitive information the company maintained. Those include effective age-assurance systems, restrictions on how minors can engage with the chatbots, implementing “Crisis safeguards,” and letting users delete their data. “This company collected some of the most private thoughts children have ever shared, and now those conversations could be sold off to the highest bidder,” James said in a statement. “I am fighting to make sure any buyer puts children’s safety first and puts real protections in place.”",
+  "fetchedAt": "2026-10-15T01:36:48.667Z",
+  "score": 90,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "现在，Character.AI 即将破产，其所有用户数据会怎样？",
+  "chineseSummary": "纽约总检察长 Letitia James 透露了针对 Character.AI 的长达数年的多州调查，他们现在寻求要求保护通过破产程序出售的消费者数据。 James 是 40 名两党 AG 中的一员，他们就 Character.AI 的破产案提交了利益通知，“让所有各方都注意到监管问题 [...]",
+  "chineseContent": "纽约总检察长 Letitia James 透露了针对 Character.AI 的长达数年的多州调查，他们现在寻求要求保护通过破产程序出售的消费者数据。 James 是在 Character.AI 破产案中提交利益通知的 40 名两党 AG 之一，“目的是让所有各方注意在债务人业务或资产的任何出售或转让中需要解决的监管问题。” Character.AI 周二宣布，它将根据美国破产法第 11 章申请破产保护，并将部分资产出售给迪士尼。但 AG 警告称，由于“许多用户与 Character.AI 聊天机器人角色进行的对话高度敏感，使用该产品的未成年人数量众多，以及该产品的特定功能带来的严重风险”，技术转让可能存在严重风险。该文件还显示，当Character.AI 申请破产时，一些州正在进行调查。各州表示，他们于 2024 年对消费者保护和隐私问题展开调查，此前一名 14 岁男孩的母亲提起诉讼，据称该女孩在与聊天机器人交谈“几秒钟”后自杀身亡。詹姆斯办公室的一份新闻稿称，“调查发现了Character.AI异常严重的危险和潜在的非法行为，特别是其对待儿童的方式，包括冒充专业人士的聊天机器人、接触性和暴力内容、薄弱的年龄检查、误导性的安全声明以及可能违反国家隐私法的行为。”各州正在努力解决 Character.AI 的这些问题，但在该公司申请破产之前尚未达成协议。 Character.AI 和迪士尼没有立即回应置评请求。各州",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

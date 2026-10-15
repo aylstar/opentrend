@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c66fd746d0",
+  "slug": "weibo-宝蓝结婚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "宝蓝结婚",
+  "summary": "微博热榜第 13 位：宝蓝结婚，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E8%93%9D%E7%BB%93%E5%A9%9A%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-10-15T01:28:08.395Z",
+  "fetchedAt": "2026-10-15T01:37:41.928Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

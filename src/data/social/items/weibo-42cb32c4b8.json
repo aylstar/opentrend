@@ -1,0 +1,21 @@
+{
+  "id": "weibo-42cb32c4b8",
+  "slug": "weibo-deepseek崩了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "DeepSeek崩了",
+  "summary": "微博热榜第 15 位：DeepSeek崩了，当前热度为 25万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%B4%A9%E4%BA%86%23",
+  "hotValue": "25万热度",
+  "author": "",
+  "publishedAt": "2026-10-15T01:28:08.395Z",
+  "fetchedAt": "2026-10-15T01:37:41.928Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

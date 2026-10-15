@@ -1,0 +1,21 @@
+{
+  "id": "weibo-de68047213",
+  "slug": "weibo-美ai科技股暴跌",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "美AI科技股暴跌",
+  "summary": "微博热榜第 4 位：美AI科技股暴跌，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8EAI%E7%A7%91%E6%8A%80%E8%82%A1%E6%9A%B4%E8%B7%8C%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-10-15T01:28:08.395Z",
+  "fetchedAt": "2026-10-15T01:37:41.928Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

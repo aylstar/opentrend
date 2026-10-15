@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "YouTube sticks new labels on AI-generated songs",
+  "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+  "publishedAt": "2026-10-14T18:22:56.000Z",
+  "id": "the-verge-bd89f30",
+  "slug": "the-verge-bd89f30",
+  "content": "YouTube is adding a “Made with AI” label to tracks that were “altered or fully generated” using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn’t sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it includes things like “using a generative model to create the composition and vocals.” In its rules for music partners who upload their songs, YouTube lays out how to disclose generative AI use, and says that if there’s no disclosure, it may use “other signals” to decide if a song is AI-generated. The label is rolling out starting today in the YouTube Music app, and expanding to the main YouTube app later. You’ll be able to see more details by tapping the label on the player page: > When you listen to a track on YouTube Music where AI played a significant role, you’ll see a label directly on the player page. Tapping the label opens a simple menu that shares more information. > We’re teaming up with music partners and using our own detection tools to identify AI-generated tracks, applying the same labeling principles already used across YouTube. Our goal is to make it as easy as possible for viewers and listeners to have the right information and clarity when it comes to the music they listen to. Spotify launched a voluntary AI label earlier this year and said that it wouldn’t recommend songs from “AI personas,” and Apple Music is also reportedly getting an AI tag. Other music platforms are taking things even further to push back against AI-generated music — Deezer added a switch for filtering out AI tracks, and Bandcamp banned AI music outright earlier this year.",
+  "fetchedAt": "2026-10-15T01:36:48.667Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "YouTube 为 AI 生成的歌曲贴上新标签",
+  "chineseSummary": "YouTube 正在为使用人工智能“更改或完全生成”的曲目添加“人工智能制造”标签，其方法与将人工智能标签应用于视频的现有流程类似。听起来这并不适用于制作音乐时人工智能工具的任何和所有使用，但根据 YouTube 的说法，它 [...]",
+  "chineseContent": "YouTube 正在为使用人工智能“更改或完全生成”的曲目添加“人工智能制造”标签，其方法与将人工智能标签应用于视频的现有流程类似。听起来这并不适用于在制作音乐时使用人工智能工具的任何情况，但根据 YouTube 的说法，它包括“使用生成模型来创作乐曲和人声”之类的内容。 YouTube 在其针对上传歌曲的音乐合作伙伴的规则中规定了如何披露人工智能生成的使用情况，并表示如果没有披露，它可能会使用“其他信号”来决定歌曲是否是人工智能生成的。该唱片公司从今天开始在 YouTube Music 应用中推出，稍后将扩展到 YouTube 主应用。您可以通过点击播放器页面上的标签来查看更多详细信息： > 当您在 YouTube Music 上收听人工智能发挥重要作用的曲目时，您将直接在播放器页面上看到标签。点击标签会打开一个简单的菜单，其中共享更多信息。 > 我们正在与音乐合作伙伴合作，使用我们自己的检测工具来识别人工智能生成的曲目，并应用 YouTube 上已经使用的相同标签原则。我们的目标是让观众和听众在听到音乐时尽可能轻松地获得正确的信息和清晰度。 Spotify 今年早些时候推出了一个自愿的人工智能标签，并表示不会推荐来自“人工智能角色”的歌曲，据报道 Apple Music 也获得了人工智能标签。其他音乐平台正在进一步抵制人工智能生成的音乐——Deezer 添加了一个过滤人工智能曲目的开关，Bandcamp 今年早些时候彻底禁止了人工智能音乐。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

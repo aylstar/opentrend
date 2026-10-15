@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: I wrote an email app that accepts only one sender per inbox",
+  "summary": "83 points · 59 comments",
+  "content": "Infinite inboxes, so nobody ever gets your real address. Give every company its own — when one leaks, you delete it, not your life.\n\nPick one based on who you're handing the address to.\n\nThe first person or company to write claims the address for good. Everyone else is rejected at the door — so a resold or breached list is worth nothing.\n\nSet a lifetime — an hour for a download link, a month for a trial. When it's up the inbox turns mail away, and can wipe what it holds.\n\nClaim a prefix of five characters or more, then anything you add after it already works — no setup, and no dash needed. Each address still locks to its first sender.\n\n* Limits are 100 messages per day in the Free plan and 1000 in Pro and Business. Limits subject to change.\n\nConnect Claude, Cursor or any assistant that speaks MCP, and hand it the inbox chores: a fresh address for a sign-up, the code that just arrived, every receipt from March. It gets only the permissions you give it.\n\nMake me an address for the gym trial, and tell me the code they send.\n\nWe don't sell it, we don't read it and we don't track you. You can export your entire dataset at any time, on any plan.\n\nHow the three inbox types work together in one mailbox.",
+  "url": "https://clova.email/",
+  "publishedAt": "2026-10-14T17:00:59.000Z",
+  "points": 83,
+  "id": "hacker-news-9130d747",
+  "slug": "hacker-news-9130d747",
+  "fetchedAt": "2026-10-15T01:36:48.664Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：我编写了一个电子邮件应用程序，每个收件箱仅接受一个发件人",
+  "chineseSummary": "83 分 · 59 条评论",
+  "chineseContent": "无限的收件箱，所以没有人知道您的真实地址。给每家公司自己的权利——当一家公司泄露时，你会删除它，而不是你的生命。\n\n根据您要将地址交给谁来选择一个。\n\n第一个写信的人或公司将永久声明该地址。其他人都被拒绝在门口——因此转售或泄露的名单毫无价值。\n\n设置生命周期——下载链接一小时，试用一个月。当它启动时，收件箱会将邮件拒之门外，并可以擦除其中包含的内容。\n\n声明一个包含五个或更多字符的前缀，然后在它已经起作用后添加任何内容 - 无需设置，也不需要破折号。每个地址仍然锁定其第一个发件人。\n\n* 免费计划中的消息限制为每天 100 条，专业版和商业版中的消息限制为每天 1000 条。限制可能会发生变化。\n\n连接 Claude、Cursor 或任何会说 MCP 的助手，然后将收件箱的琐事交给它：新的注册地址、刚刚到达的代码、3 月份的每张收据。它仅获得您授予它的权限。\n\n给我一个健身房试用的地址，并告诉我他们发送的代码。\n\n我们不出售它，我们不阅读它，我们也不跟踪您。您可以随时按照任何计划导出整个数据集。\n\n三种收件箱类型如何在一个邮箱中协同工作。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

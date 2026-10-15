@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+  "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to […]",
+  "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+  "publishedAt": "2026-10-14T20:03:43.000Z",
+  "id": "the-verge-e3e51d83",
+  "slug": "the-verge-e3e51d83",
+  "content": "We’ve all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you’ll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan’s National Police Agency, it tracked scam activity back to a marketplace called YAM Store and a pair of phishing kits, CoGUI and Iron Man: > Since January 2026, YAM Store, CoGUI and Iron Man have collectively enabled more than one billion malicious messages targeting over 75,000 organizations worldwide, including more than 750 million messages geared toward Microsoft customers alone. These messages have been used to target consumers, healthcare organizations, financial institutions, and other businesses in more than 150 countries, generating tens of millions of dollars for their operators. According to Microsoft’s report, scammers could buy stolen or fraudulent Microsoft and Google accounts on YAM Store and use the phishing kits to send scam messages. Microsoft says YAM Store also hijacked real organizations’ expired web domains and created websites for nonexistent organizations, which it used to get Microsoft accounts it could resell. The Iron Man platform was also offering over 2,300 templates scammers could use to impersonate organizations like banks and police departments. Microsoft says it disabled over 20,000 accounts connected to YAM Store and blocked over 100,000 web domains being used for impersonation and fraud. With health sector cybersecurity non-profit Health-ISAC, Microsoft also seized and redirected web domains that were powering all three platforms.",
+  "fetchedAt": "2026-10-15T01:36:48.667Z",
+  "score": 90,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "金融",
+    "安全"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软和日本捣毁了超过十亿条诈骗消息背后的网络犯罪网络",
+  "chineseSummary": "我们都收到过关于不存在的停车罚单或虚假包裹递送的诈骗短信，但希望您会看到更少的此类短信。微软表示，它帮助摧毁了像世界各地那样发送网络钓鱼消息的诈骗者市场。通过与日本国家警察厅的调查，它追踪到诈骗活动可以追溯到 [...]",
+  "chineseContent": "我们都收到过关于不存在的停车罚单或虚假包裹递送的诈骗短信，但希望您会开始看到更少的此类短信。微软表示，它帮助摧毁了像世界各地那样发送网络钓鱼消息的诈骗者市场。通过与日本国家警察厅的调查，该公司将诈骗活动追溯到一个名为 YAM Store 的市场以及一对网络钓鱼工具包 CoGUI 和 Iron Man： > 自 2026 年 1 月以来，YAM Store、CoGUI 和 Iron Man 总共启用了超过 10 亿条针对全球 75,000 多个组织的恶意消息，其中仅针对 Microsoft 客户的消息就超过 7.5 亿条。这些消息已被用于针对 150 多个国家/地区的消费者、医疗保健组织、金融机构和其他企业，为其运营商创造了数千万美元的收入。根据微软的报告，诈骗者可以在 YAM Store 上购买被盗或欺诈的微软和谷歌帐户，并使用网络钓鱼工具包发送诈骗消息。微软表示，YAM Store 还劫持了真实组织的过期网络域名，并为不存在的组织创建了网站，并用这些网站获取可以转售的微软帐户。 Iron Man 平台还提供了 2,300 多个模板，诈骗者可以用来冒充银行和警察部门等组织。微软表示，它禁用了超过 20,000 个连接到 YAM Store 的帐户，并阻止了超过 100,000 个用于冒充和欺诈的网络域。通过卫生部门网络安全非营利组织 Health-ISAC，微软还占领并重定向了为所有三个平台提供支持的 Web 域。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
