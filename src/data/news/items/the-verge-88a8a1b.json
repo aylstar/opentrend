@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Trump posts AI-edited photo to brag about White House restoration work",
+  "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
+  "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+  "publishedAt": "2026-10-15T21:09:33.000Z",
+  "id": "the-verge-88a8a1b",
+  "slug": "the-verge-88a8a1b",
+  "content": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House — but one of them appears to be modified with AI. The picture, which compares an old White House column to a “restored” one, has several discrepancies and was flagged by Google’s AI detector as “made or edited with OpenAI.” As pointed out by users on Reddit, the picture of the “restored” column has an uneven number of steps on both sides of the structure. The number of steps also doesn’t match up with the ones in the “before” photo. Additionally, the before and after photos appear nearly identical in angle and detail; the reflection in the windows is nearly the same, and the protective cardboard at the bottom of the column seems to be in the same spot as well. Not to mention that the “newly-painted” one looks unnaturally smooth. [Image: Google’s SynthID detector flagged it as made or edited with OpenAI’s tools. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/white-house-picture-synth-id.png?quality=90&strip=all] The Verge can confirm that the photo posted to Truth Social is flagged as AI-generated when uploaded to Google’s SynthID Detector, which scans images, videos, and audio for an invisible watermark that indicates it was “created or edited” with AI. Real pictures show people painting the front of the White House in June, so it’s possible the column actually did get a fresh coat of paint — the White House didn’t immediately respond to a request for comment. The SynthID watermark wasn’t detected on other pictures Trump posted, which show the White House facade and heliport. Trump is no stranger to AI tools, though, as he often posts AI-generated caricatures of himself, while the White House has been known to post racist AI memes and at least one photo deceptively edited to make a protester appear distraught.",
+  "fetchedAt": "2026-10-16T01:32:27.545Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Trump posts AI-edited photo to brag about White House restoration work",
+  "chineseSummary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
+  "chineseContent": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House — but one of them appears to be modified with AI. The picture, which compares an old White House column to a “restored” one, has several discrepancies and was flagged by Google’s AI detector as “made or edited with OpenAI.” As pointed out by users on Reddit, the picture of the “restored” column has an uneven number of steps on both sides of the structure. The number of steps also doesn’t match up with the ones in the “before” photo. Additionally, the before and after photos appear nearly identical in angle and detail; the reflection in the windows is nearly the same, and the protective cardboard at the bottom of the column seems to be in the same spot as well. Not to mention that the “newly-painted” one looks unnaturally smooth. [Image: Google’s SynthID detector flagged it as made or edited with OpenAI’s tools. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/white-house-picture-synth-id.png?quality=90&strip=all] The Verge can confirm that the photo posted to Truth Social is flagged as AI-generated when uploaded to Google’s SynthID Detector, which scans images, videos, and audio for an invisible watermark that indicates it was “created or edited” with AI. Real pictures show people painting the front of the White House in June, so it’s possible the column actually did get a fresh coat of paint — the White House didn’t immediately respond to a request for comment. The SynthID watermark wasn’t detected on other pictures Trump posted, which show the White House facade and heliport. Trump is no stranger to AI tools, though, as he often posts AI-generated caricatures of himself, while the White House has been known to post racist AI memes and at least one photo deceptively edited to make a protester appear distraught.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Bluesky’s AI tool now lets you make games and apps to share on social",
+  "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
+  "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+  "publishedAt": "2026-10-15T19:57:16.000Z",
+  "id": "the-verge-ca8274f6",
+  "slug": "the-verge-ca8274f6",
+  "content": "Bluesky’s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as “social vibe coding or vibe coding for your community.” [Media: https://bsky.app/profile/did:plc:v7lt2fu7igydcjszoexxrvl2/post/3mxwnz4gbzk2r] You can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples like a “Flappy Butterfly” Flappy Bird clone, a drum machine, a quiz, and an idle clicker about a celery man, and each has a custom link on the attie.site domain and attribution for who made the social app at the bottom of the page. The apps I’ve messed around with are pretty lightweight novelties, though I liked the drum machine.",
+  "fetchedAt": "2026-10-16T01:32:27.545Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Bluesky’s AI tool now lets you make games and apps to share on social",
+  "chineseSummary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
+  "chineseContent": "Bluesky’s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as “social vibe coding or vibe coding for your community.” [Media: https://bsky.app/profile/did:plc:v7lt2fu7igydcjszoexxrvl2/post/3mxwnz4gbzk2r] You can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples like a “Flappy Butterfly” Flappy Bird clone, a drum machine, a quiz, and an idle clicker about a celery man, and each has a custom link on the attie.site domain and attribution for who made the social app at the bottom of the page. The apps I’ve messed around with are pretty lightweight novelties, though I liked the drum machine.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

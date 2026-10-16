@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3cae6627ee",
+  "slug": "weibo-尚公主-剧宣",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "尚公主 剧宣",
+  "summary": "微博热榜第 6 位：尚公主 剧宣，当前热度为 45万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB+%E5%89%A7%E5%AE%A3%23",
+  "hotValue": "45万热度",
+  "author": "",
+  "publishedAt": "2026-10-16T01:29:38.410Z",
+  "fetchedAt": "2026-10-16T01:32:55.984Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

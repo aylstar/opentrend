@@ -8,12 +8,12 @@
   "language": "",
   "githubUrl": "https://github.com/twostraws/SwiftUI-Agent-Skill",
   "docsUrl": "",
-  "stars": 5972,
-  "forks": 218,
-  "openIssues": 13,
+  "stars": 6099,
+  "forks": 221,
+  "openIssues": 15,
   "license": "MIT",
   "pushedAt": "2026-10-07T13:39:28Z",
-  "updatedAt": "2026-10-15T01:27:39Z",
+  "updatedAt": "2026-10-16T01:26:29Z",
   "createdAt": "2026-03-05T20:13:14Z",
   "archived": false,
   "trendWindows": [
@@ -25,14 +25,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n    <img src=\"assets/logo.svg\" alt=\"SwiftUI Pro - Agent Skill for Claude Code, Codex, and Gemini\" height=\"100\" />\n</p>\n\n<h1 align=\"center\">SwiftUI Agent Skill for AI Coding Assistants</h1>\n\n<p align=\"center\">\n    <img src=\"https://img.shields.io/badge/iOS-26+-2980b9.svg\" alt=\"Designed for iOS 26 and later.\" />\n    <img src=\"https://img.shields.io/badge/swift-6.4+-8e44ad.svg\" alt=\"Designed for Swift 6.4 and later.\" />\n    <a href=\"https://twitter.com/twostraws\">\n        <img src=\"https://img.shields.io/badge/Contact-@twostraws-95a5a6.svg?style=flat\" alt=\"Twitter: @twostraws\" />\n    </a>\n</p>\n\nAn agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigation, layout, animations, state management, VoiceOver, deprecated API, and more, targeting the mistakes LLMs actually make.\n\nAlso available:\n\n- [SwiftData Pro](https://github.com/twostraws/SwiftData-Agent-Skill)\n- [Swift Concurrency Pro](https://github.com/twostraws/Swift-Concurrency-Agent-Skill)\n- [Swift Testing Pro](https://github.com/twostraws/Swift-Testing-Agent-Skill)\n\nFind more agent skills for Swift and Apple platform development at [Swift Agent Skills](https://github.com/twostraws/Swift-Agent-Skills).\n\nThe skill builds upon my existing [AGENTS.md](https://github.com/twostraws/SwiftAgents) file, meaning that you can bring years of knowledge and practical experience into your coding agent of choice in just a few minutes. It uses the [Agent Skills](https://agentskills.io/home) format, so it works smoothly with Claude Code, Codex, Gemini, Cursor, and more.\n\n\n## Installing SwiftUI Pro\n\nYou can install this skill into Claude Code, Codex, Gemini, Cursor, and more by using npx:\n\n```bash\nnpx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro\n```\n\nIf you get the error `npx: command not found`, it means you don’t currently have Node installed. You need to run this command to install Node through Homebrew:\n\n```bash\nbrew install node\n```\n\nAnd if *that* fails it usually means you need to [install Homebrew](https://brew.sh) first.\n\nWhen using `npx`, you can select exactly which agents you want to use during the installation. You can also select whether the skill should be installed just for one project, or whether it should be made available for all your projects.\n\nClaude Code users can add the SwiftUI Agent Skill marketplace then install the plugin directly through Claude, like this:\n\n```\n/plugin marketplace add twostraws/SwiftUI-Agent-Skill\n/plugin install swiftui-pro@swiftui-agent-skill\n```\n\nAlternatively, you can clone this whole repository and install it however you want.\n\nIf you’re using Xcode, watch the YouTube video on [How to Install and Use Agent Skills in Xcode](https://www.youtube.com/watch?v=nKVZBKoB6P4) for a walkthrough.\n\n\n## Using SwiftUI Pro\n\nThe skill is called SwiftUI Pro, and can be triggered in various ways. For example",
-  "generatedAt": "2026-10-15T01:36:32.786Z",
+  "generatedAt": "2026-10-16T01:32:12.844Z",
   "analysis": {
     "oneLine": "SwiftUI-Agent-Skill 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "SwiftUI-Agent-Skill 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，SwiftUI-Agent-Skill 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 5,972，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能被团队持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，SwiftUI-Agent-Skill 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 6,099，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能被团队持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
