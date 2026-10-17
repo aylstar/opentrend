@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e83787e285",
+  "slug": "weibo-特斯拉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "特斯拉",
+  "summary": "微博热榜第 24 位：特斯拉，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-10-17T01:21:25.106Z",
+  "fetchedAt": "2026-10-17T01:24:39.945Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

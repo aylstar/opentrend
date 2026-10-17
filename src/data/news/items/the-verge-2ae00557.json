@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+  "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+  "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+  "publishedAt": "2026-10-16T22:51:22.000Z",
+  "id": "the-verge-2ae00557",
+  "slug": "the-verge-2ae00557",
+  "content": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn’t pull X or Grok from the App Store, though it told senators that it threatened to yank Grok. At Apple’s WWDC event in June, protestors also called on Apple to “remove Grok, X, and all nudify technology from the App Store,” and in July, a San Francisco city attorney ordered Apple to remove 13 “nudify” apps, which it said it did. As part of updates announced Friday, Apple says that developers “must proactively prevent and remove” nonconsensual, sexual images as part of its content moderation requirements for App Store apps. Developers who “fail to implement adequate safeguards” or “don’t remedy violations after notice” may be removed from the App Store. Apple also clarified a rule that bars “bait-and-switch” apps, or apps that add or change features, including “nudification,” after they have been approved. Apple’s rules also more clearly spell out that any apps that “facilitate human trafficking or the exploitation of children” will be pulled from the App Store and “blocked from alternative distribution.”",
+  "fetchedAt": "2026-10-17T01:23:13.839Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果更新的应用商店规则针对“裸露”AI 应用",
+  "chineseSummary": "苹果的应用商店规则现在更明确地禁止所谓的“裸体”应用程序，这些应用程序在未经人们同意的情况下使用人工智能工具生成人们的亲密图像。今年早些时候，X 用户使用 Grok 制作未经同意的、性化的 Deepfake（包括未成年人）后，苹果受到了严厉批评，随后规则发生了变化。苹果没有从应用程序中删除 X 或 Grok [...]",
+  "chineseContent": "苹果的应用程序商店规则现在更明确地禁止所谓的“裸体”应用程序，这些应用程序在未经人们同意的情况下使用人工智能工具生成人们的亲密图像。今年早些时候，X 用户使用 Grok 制作未经同意的、性化的 Deepfake（包括未成年人）后，苹果受到了严厉批评，随后规则发生了变化。苹果并没有将 X 或 Grok 从 App Store 下架，尽管它告诉参议员，它威胁要下架 Grok。在苹果 6 月的 WWDC 活动上，抗议者还呼吁苹果“从 App Store 中删除 Grok、X 和所有裸体技术”，7 月，旧金山市检察官命令苹果删除 13 款“裸体”应用，苹果也表示确实这么做了。作为周五宣布的更新的一部分，苹果表示，开发者“必须主动阻止和删除”未经同意的色情图片，作为其对 App Store 应用程序内容审核要求的一部分。 “未能实施足够的保障措施”或“在收到通知后不纠正违规行为”的开发者可能会被从 App Store 中删除。苹果还澄清了一项规则，禁止“诱饵和转换”应用程序，或在获得批准后添加或更改功能（包括“裸体”）的应用程序。苹果的规则还更明确地规定，任何“促进人口贩运或剥削儿童”的应用程序都将从应用程序商店中下架，并“禁止以其他方式分发”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

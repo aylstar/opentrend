@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+  "summary": "192 points · 47 comments",
+  "content": "Your PS5 runs the language model. Every device on your network uses it. llama.cpp on the console's GPU, with OpenAI and Anthropic APIs and a screen made for the TV.\n\nGet the app · Website · Get started · Issues\n\nNew: decision models, powered by Ollaya . PS5LM now runs Jev-like decision models (d1, Clef, OpenJev and more) on the GPU and answers the same /v1/systemone API as Ollaya: typed decisions with calibrated probabilities, in a fraction of a second.\n\nPS5LM is for anyone with a jailbroken PS5 who wants a private model server at home. It loads a GGUF model onto the console's GPU and serves it to your laptop, your phone and your coding tools. It needs no PC while it runs, no cloud and no account.\n\nQwen 3.5 9B answering requests from a laptop on a PS5 Slim. Click for the video.\n\nHome, Models, Console, API and Settings on the TV.\n\nOllaya runs open decision models on a PC the way Ollama runs language models. PS5LM brings the same idea to the console: a decision model reads a state and answers typed questions in one forward pass, with no text generated.\n\nThe Suggested list has d1 Omni 600M, d1 3B and Clef Flash. Any GGUF that carries llama.cpp's decision metadata loads the same way, and the app labels it a decision model.\n\nYou need a PS5 on firmware 7.00 to 13.60, jailbroken, with these payloads loaded:\n\nTo update, copy the new folder over the old one. Settings, models and downloads stay in /data/PS5LM . Using it from coding tools (opencode, Codex, Claude Code) is in docs/CLI.md .\n\nC++ on ps5-homebrew-ui , llama.cpp with ggml-vulkan on PS5_Vulkan 's RADV, built on Linux.\n\nBuilding · Console notes · Porting · Research · Models that fit · Roadmap · Changelog · The original payload\n\nGPL-3.0-or-later, see LICENSE . llama.cpp keeps its MIT licence, Manrope its OFL. No Sony SDK files, keys, firmware or model weights are in this repository.\n\nPS5LM is not affiliated with Sony Interactive Entertainment. \"PlayStation\" and \"PS5\" are trademarks of Sony Interactive Entertainment.",
+  "url": "https://github.com/cobanov/PS5LM",
+  "publishedAt": "2026-10-16T18:32:35.000Z",
+  "points": 192,
+  "id": "hacker-news-b37257ac",
+  "slug": "hacker-news-b37257ac",
+  "fetchedAt": "2026-10-17T01:23:13.835Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "越狱 PS5 上的 Llama.cpp：在控制台上本地运行任何 GGUF 模型",
+  "chineseSummary": "192 分 · 47 条评论",
+  "chineseContent": "您的 PS5 运行语言模型。网络上的每个设备都使用它。控制台 GPU 上的 llama.cpp，带有 OpenAI 和 Anthropic API 以及专为电视制作的屏幕。\n\n获取应用程序 · 网站 · 开始使用 · 问题\n\n新：决策模型，由 Ollaya 提供支持。 PS5LM 现在在 GPU 上运行类似 Jev 的决策模型（d1、Clef、OpenJev 等），并回答与 Ollaya 相同的 /v1/systemone API：在不到一秒的时间内用校准概率键入决策。\n\nPS5LM 适合拥有越狱 PS5 并希望在家中拥有私人模型服务器的任何人。它将 GGUF 模型加载到控制台的 GPU 上，并将其提供给您的笔记本电脑、手机和编码工具。它运行时不需要电脑，不需要云，也不需要帐户。\n\nQwen 3.5 9B 在 PS5 Slim 上应答笔记本电脑的请求。点击观看视频。\n\n电视上的主页、型号、控制台、API 和设置。\n\nOllaya 在 PC 上运行开放决策模型，就像 Ollama 运行语言模型一样。 PS5LM 为控制台带来了相同的想法：决策模型读取状态并在一次前向传递中回答输入的问题，而不生成任何文本。\n\n建议列表有 d1 Omni 600M、d1 3B 和 Clef Flash。任何携带 llama.cpp 决策元数据的 GGUF 都以相同的方式加载，并且应用程序将其标记为决策模型。\n\n您需要一台固件版本为 7.00 至 13.60 且已越狱的 PS5，并加载以下有效负载：\n\n要更新，请将新文件夹复制到旧文件夹上。设置、模型和下载保留在 /data/PS5LM 中。从编码工具（opencode、Codex、Claude Code）使用它位于 docs/CLI.md 中。\n\nps5-homebrew-ui 上的 C++，llama.cpp 以及 PS5_Vulkan 的 RADV 上的 ggml-vulkan，在 Linux 上构建。\n\n构建 · 控制台说明 · 移植 · 研究 · 适合的模型 · 路线图 · 变更日志 · 原始有效负载\n\nGPL-3.0 或更高版本，请参阅许可证。 llama.cpp 保留其 MIT 许可证，Manrope 保留 OFL。此存储库中没有索尼 SDK 文件、密钥、固件或模型权重。\n\nPS5LM 不隶属于索尼互动娱乐公司。 “PlayStation”和“PS5”是索尼互动娱乐公司的商标。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

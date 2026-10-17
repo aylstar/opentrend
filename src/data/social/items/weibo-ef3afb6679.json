@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ef3afb6679",
+  "slug": "weibo-京城大师赛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "京城大师赛",
+  "summary": "微博热榜第 18 位：京城大师赛，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-10-17T01:21:25.106Z",
+  "fetchedAt": "2026-10-17T01:24:39.945Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

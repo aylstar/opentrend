@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Oil hits five-month high of $110 on new escalation in Middle East",
+  "summary": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
+  "url": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-16T22:57:43.000Z",
+  "id": "financial-times-2ff09ad8",
+  "slug": "financial-times-2ff09ad8",
+  "content": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
+  "fetchedAt": "2026-10-17T01:23:13.846Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "财经"
+  ],
+  "rank": 19,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "中东局势再度升级，油价触及五个月高点 110 美元",
+  "chineseSummary": "有报道称沙特阿拉伯领导的部队拦截并摧毁了针对关键能源中心的导弹，布伦特原油价格上涨",
+  "chineseContent": "有报道称沙特阿拉伯领导的部队拦截并摧毁了针对关键能源中心的导弹，布伦特原油价格上涨",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

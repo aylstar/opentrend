@@ -1,0 +1,26 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+  "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+  "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+  "publishedAt": "2026-10-16T19:28:10.000Z",
+  "id": "cnbc-a461f0b4",
+  "slug": "cnbc-a461f0b4",
+  "content": "The sell-off in AI-related stocks pushed the Cboe Volatility Index (VIX) above 22 for the first time in four months. A cluster of trades suggests it could go even higher.\n\nIn a series of eyebrow raising trades, investors purchased a number of November VIX calls that payoff if the index stays elevated through November. Specifically, one trader bought 9200 of the November 18, 20-strike calls for $1.7 million and 12,500 of the November 18, 23-strike calls for $1.1 million, wagering that the VIX will close above 23 by the third week of November.\n\n\"The speed at which VIX increased today, combined with elevated VIX options volume suggests traders are actively monetizing October VIX positions and rolling to hedge a larger market downturn. We note several +$1 million call VIX prints for November,\" said Brent Kochuba, founder of SpotGamma and a CNBC contributor.\n\nCracks in the AI complex and fears around neo-cloud provider CoreWeave caused the Nasdaq to shed 2%, its worst day since June 5th. CoreWeave lost 13%.\n\nOf the top ten most popular VIX contracts to buy in Friday's session, nine were calls, and six were at strikes above where the VIX fell to after its initial spike. Nearly $27M in premium was traded across those nine contracts, or just about 36% of the total premium traded in VIX options on the day.\n\nThe market faces a key test next week when Tesla, SpaceX and Meta report earnings.",
+  "fetchedAt": "2026-10-17T01:23:13.841Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 21,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "华尔街的恐惧指数正在急剧上升。交易员认为价格会更高",
+  "chineseSummary": "人工智能相关股票的抛售推动 VIX 指数四个月来首次突破 22。一系列交易表明它可能会走得更高。",
+  "chineseContent": "人工智能相关股票的抛售推动芝加哥期权交易所波动率指数 (VIX) 四个月来首次突破 22。一系列交易表明它可能会走得更高。\n\n在一系列令人惊讶的交易中，投资者购买了许多 11 月 VIX 看涨期权，如果该指数在 11 月保持高位，就会获得回报。具体来说，一名交易员以 170 万美元买入 9200 手 11 月 18 日 20 次执行看涨期权，并以 110 万美元买入 12,500 手 11 月 18 日 23 次执行看涨期权，押注 VIX 到 11 月第三周将收于 23 以上。\n\nSpotGamma 创始人兼 CNBC 撰稿人布伦特·科楚巴 (Brent Kochuba) 表示：“今天 VIX 上涨的速度，加上 VIX 期权交易量的增加，表明交易者正在积极将 10 月份 VIX 头寸货币化，并滚动以对冲更大的市场低迷。我们注意到 11 月份有几份价值超过 100 万美元的看涨期权 VIX 图表。”\n\n人工智能综合体的裂缝以及对新云提供商 CoreWeave 的担忧导致纳斯达克指数下跌 2%，这是自 6 月 5 日以来最糟糕的一天。 CoreWeave 下跌 13%。\n\n在周五交易中最受欢迎的十大 VIX 合约中，有 9 个是看涨期权，其中 6 个合约的执行价格高于 VIX 最初飙升后下跌的水平。这 9 份合约的溢价交易量接近 2700 万美元，仅占当天 VIX 期权交易溢价总额的 36% 左右。\n\n下周，特斯拉、SpaceX 和 Meta 公布财报时，市场将面临关键考验。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
