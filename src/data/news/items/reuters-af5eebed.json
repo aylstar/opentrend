@@ -8,8 +8,8 @@
   "id": "reuters-af5eebed",
   "slug": "reuters-af5eebed",
   "content": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-10-17T01:23:13.851Z",
-  "score": 98,
+  "fetchedAt": "2026-10-18T01:17:54.848Z",
+  "score": 92,
   "sourceWeight": 94,
   "tags": [
     "全球",
@@ -17,9 +17,9 @@
   ],
   "rank": 1,
   "contentStatus": "article-extracted",
-  "chineseTitle": "独家：消息人士称，随着战争颠覆市场，中石油将创下创纪录的交易利润",
-  "chineseSummary": "独家：消息人士称，随着战争颠覆市场，中石油的交易利润将创历史新高 路透",
-  "chineseContent": "独家：消息人士称，随着战争颠覆市场，中石油的交易利润将创历史新高 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say",
+  "chineseSummary": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say &nbsp;&nbsp; Reuters",
+  "chineseContent": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

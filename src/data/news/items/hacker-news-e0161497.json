@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "summary": "250 points · 77 comments",
+  "content": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+  "url": "https://llmspeed.dev/",
+  "publishedAt": "2026-10-17T04:36:53.000Z",
+  "points": 250,
+  "id": "hacker-news-e0161497",
+  "slug": "hacker-news-e0161497",
+  "fetchedAt": "2026-10-18T01:17:54.840Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+  "chineseSummary": "250 points · 77 comments",
+  "chineseContent": "Pick hardware and a model, and feel the real speed of a local LLM before you buy. Simulates tokens/sec and time-to-first-token from verified benchmarks for GPUs, Macs, and more.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

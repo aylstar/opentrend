@@ -8,17 +8,17 @@
   "id": "reuters-2adc0128",
   "slug": "reuters-2adc0128",
   "content": "MSCI freezes certain Turkey index changes, warns of potential market downgrade &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-10-17T01:23:13.850Z",
-  "score": 90,
+  "fetchedAt": "2026-10-18T01:17:54.848Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "金融"
   ],
-  "rank": 9,
+  "rank": 25,
   "contentStatus": "article-extracted",
-  "chineseTitle": "MSCI 冻结某些土耳其指数变化，警告潜在的市场评级下调",
-  "chineseSummary": "MSCI 冻结某些土耳其指数变化，警告市场评级可能下调 路透",
-  "chineseContent": "MSCI 冻结某些土耳其指数变化，警告市场评级可能下调 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "MSCI freezes certain Turkey index changes, warns of potential market downgrade",
+  "chineseSummary": "MSCI freezes certain Turkey index changes, warns of potential market downgrade &nbsp;&nbsp; Reuters",
+  "chineseContent": "MSCI freezes certain Turkey index changes, warns of potential market downgrade &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

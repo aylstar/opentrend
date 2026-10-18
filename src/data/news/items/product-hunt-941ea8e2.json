@@ -1,0 +1,24 @@
+{
+  "source": "Product Hunt",
+  "category": "ai-tech",
+  "originalTitle": "Sparrow",
+  "summary": "Self-hosted webhook delivery. One binary, just Postgres. Discussion | Link",
+  "url": "https://www.producthunt.com/products/sparrow-10",
+  "publishedAt": "2026-10-15T10:10:10.000Z",
+  "id": "product-hunt-941ea8e2",
+  "slug": "product-hunt-941ea8e2",
+  "content": "Self-hosted webhook delivery. One binary, just Postgres. Discussion | Link",
+  "fetchedAt": "2026-10-18T01:17:54.840Z",
+  "score": 73,
+  "sourceWeight": 84,
+  "tags": [
+    "全球"
+  ],
+  "rank": 11,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Sparrow",
+  "chineseSummary": "Self-hosted webhook delivery. One binary, just Postgres. Discussion | Link",
+  "chineseContent": "Self-hosted webhook delivery. One binary, just Postgres. Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -8,18 +8,18 @@
   "id": "product-hunt-e61d7f5d",
   "slug": "product-hunt-e61d7f5d",
   "content": "NVIDIA’s open multimodal model for specialized agents Discussion | Link",
-  "fetchedAt": "2026-10-17T01:23:13.837Z",
+  "fetchedAt": "2026-10-18T01:17:54.840Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 6,
+  "rank": 8,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Nemotron 3.5 超级 VL",
-  "chineseSummary": "NVIDIA 面向专业代理的开放多模式模型 讨论 |关联",
-  "chineseContent": "NVIDIA 面向专业代理的开放多模式模型 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Nemotron 3.5 Super VL",
+  "chineseSummary": "NVIDIA’s open multimodal model for specialized agents Discussion | Link",
+  "chineseContent": "NVIDIA’s open multimodal model for specialized agents Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
