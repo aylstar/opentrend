@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+  "summary": "546 points · 257 comments",
+  "content": "The Search API and the Fetch API give agents and RAG applications access to live web content:\n\nBoth are raw JSON APIs. They use the same bearer authentication as the DeepSeek API.\n\nThe base URL is https://api.deepseek.com :\n\nSee the Search API Reference and Fetch API Reference for the complete request and response schemas.\n\nSend your API key and the JSON content type in the request headers:\n\nUnknown fields in the request body are ignored.\n\nThe query is forwarded with its search syntax intact. The examples below combine operators with a search term; you can combine multiple operators in one query.\n\nA successful request returns HTTP 200 with a results array. A normal search with no matches returns an empty array.\n\nFetching is subject to the target site's availability and access policies.\n\nErrors follow the OpenAI-compatible error format. The param field is always null .\n\nSearch and Fetch are read-only. For HTTP 408, 429, or 5xx errors, wait and retry. For HTTP 402, top up your account before retrying. Do not retry other 4xx errors without changing the request.\n\nSearch and Fetch are billed per successful request, not by tokens or by the number of returned results:\n\nA request is billable only when it returns HTTP 200 and produces a result (Search must return a non-empty results array, and Fetch must return page content). Failed requests, empty search results, and timeouts are not billed. count only controls how many results are returned and does not affect the per-request price.\n\nNote: when you use the DeepSeek API through DeepSeek Harness, Claude Code, or Codex, server-side tool calls already hit the Search and Fetch APIs. These calls are currently free of charge; per-request billing starts at 00:00 Beijing time on November 1, 2026.\n\nFor each account, Search and Fetch are limited independently, and traffic to one does not consume the other's quota:\n\nThe QPS (requests per second) limits are calculated at the account level, regardless of which API key is used, and are separate from the model concurrency limits. Requests above the account-level QPS limit receive HTTP 429. In addition to the account-level limit, Fetch is also subject to a per-domain QPS limit, and requests above that limit also receive HTTP 429.",
+  "url": "https://api-docs.deepseek.com/guides/search/",
+  "publishedAt": "2026-10-18T06:50:36.000Z",
+  "points": 546,
+  "id": "hacker-news-dc94cd9e",
+  "slug": "hacker-news-dc94cd9e",
+  "fetchedAt": "2026-10-19T01:27:23.531Z",
+  "score": 67,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
+  "chineseSummary": "546 分 · 257 条评论",
+  "chineseContent": "搜索 API 和 Fetch API 使代理和 RAG 应用程序能够访问实时 Web 内容：\n\n两者都是原始 JSON API。它们使用与 DeepSeek API 相同的承载身份验证。\n\n基本 URL 是 https://api.deepseek.com ：\n\n有关完整的请求和响应架构，请参阅搜索 API 参考和获取 API 参考。\n\n在请求标头中发送您的 API 密钥和 JSON 内容类型：\n\n请求正文中的未知字段将被忽略。\n\n查询将以其搜索语法完好无损地转发。下面的示例将运算符与搜索词结合起来；您可以在一个查询中组合多个运算符。\n\n成功的请求将返回 HTTP 200 和结果数组。没有匹配项的普通搜索会返回一个空数组。\n\n获取取决于目标站点的可用性和访问策略。\n\n错误遵循 OpenAI 兼容的错误格式。 param 字段始终为 null 。\n\n搜索和获取是只读的。对于 HTTP 408、429 或 5xx 错误，请等待并重试。对于 HTTP 402，请在重试之前为您的帐户充值。在不更改请求的情况下，请勿重试其他 4xx 错误。\n\n搜索和获取按成功请求计费，而不是按令牌或返回结果数计费：\n\n仅当请求返回 HTTP 200 并生成结果时才计费（搜索必须返回非空结果数组，并且 Fetch 必须返回页面内容）。失败的请求、空的搜索结果和超时不会计费。 count 仅控制返回的结果数量，不会影响每个请求的价格。\n\n注意：当您通过 DeepSeek Harness、Claude Code 或 Codex 使用 DeepSeek API 时，服务器端工具调用已经到达搜索和获取 API。这些电话目前是免费的；北京时间2026年11月1日00:00开始按次计费。\n\n对于每个帐户，搜索和获取是独立限制的，并且一个帐户的流量不会消耗另一个帐户的配额：\n\n无论使用哪个 API 密钥，QPS（每秒请求数）限制都是在帐户级别计算的，并且与模型并发限制分开。高于帐户级别 QPS 限制的请求会收到 HTTP 429。除了帐户级别限制之外，Fetch 还受到每个域 QPS 限制的约束，并且高于该限制的请求也会收到 HTTP 429。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

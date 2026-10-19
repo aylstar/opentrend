@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "summary": "241 points · 85 comments",
+  "content": "“You can outsource your thinking, but not your understanding .”\n\nSphinx is a Git hook for agent-assisted development. Before your agent’s code ships, it asks you a question about what that code actually does.\n\nBuilt to run on minimal tokens, from your existing coding agent, OpenRouter, or any OpenAI-compatible endpoint.\n\nYour webhook handler now saves the event ID before calling charge() . Stripe times out and sends the same event again. What happens on the retry?\n\nIt runs twice, so the customer is charged twice.\n\nNot quite. The retry finds the saved ID and returns 200 without charging. But that ID is stored before the charge succeeds. If charge() fails, what does the next retry do?\n\nIt skips the charge, so the customer is never billed.\n\nAn illustrative exchange. Real questions come from your diff.\n\nOr your agent does. Git pauses on the branches you protect.\n\nA reviewer that never saw your chat reads the diff and asks what the change does when things go wrong.\n\nGet it wrong and you learn why, then try a new scenario. Get it right and the push continues.\n\nWorks with Codex, Claude Code, Cursor, OpenCode, and Pi , or plain Git. Your answers never reach the coding agent, and .env files and keys are never opened. In a hurry? sphinx yolo lets pushes through, and every skip is logged.\n\nsphinx install connects Git and your coding agents and asks which model should review. Read the docs for everything else.",
+  "url": "https://sphinx-six-theta.vercel.app/",
+  "publishedAt": "2026-10-18T04:33:49.000Z",
+  "points": 241,
+  "id": "hacker-news-2d073bcc",
+  "slug": "hacker-news-2d073bcc",
+  "fetchedAt": "2026-10-19T01:27:23.532Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+  "chineseSummary": "241 分 · 85 条评论",
+  "chineseContent": "“你可以外包你的思考，但不能外包你的理解。”\n\nSphinx 是一个用于代理辅助开发的 Git 挂钩。在您的代理代码发布之前，它会询问您一个有关该代码实际用途的问题。\n\n专为在现有编码代理、OpenRouter 或任何 OpenAI 兼容端点上运行最少的令牌而构建。\n\n您的 webhook 处理程序现在会在调用 charge() 之前保存事件 ID。 Stripe 超时并再次发送相同的事件。重试时会发生什么？\n\n它运行两次，因此客户需要支付两次费用。\n\n不完全是。重试找到保存的ID，返回200，不计费。但该 ID 在充电成功之前就已存储。如果 charge() 失败，下次重试会做什么？\n\n它跳过收费，因此客户永远不会被计费。\n\n一个说明性的交流。真正的问题来自于你的差异。\n\n或者你的经纪人也这么做。 Git 会在您保护的分支上暂停。\n\n从未见过您聊天的审阅者会阅读差异并询问当出现问题时更改会起到什么作用。\n\n犯错后你会了解原因，然后尝试新的场景。做对了，推动就会继续。\n\n适用于 Codex、Claude Code、Cursor、OpenCode 和 Pi 或普通 Git。您的答案永远不会到达编码代理，并且 .env 文件和密钥永远不会打开。匆忙？ sphinx yolo 让推送通过，并且每次跳过都会被记录。\n\nsphinx install 连接 Git 和您的编码代理，并询问应审查哪个模型。阅读文档了解其他所有内容。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

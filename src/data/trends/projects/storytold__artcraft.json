@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/storytold/artcraft",
   "docsUrl": "https://getartcraft.com",
-  "stars": 31799,
-  "forks": 5037,
-  "openIssues": 454,
+  "stars": 32755,
+  "forks": 5189,
+  "openIssues": 455,
   "license": "Apache-2.0",
-  "pushedAt": "2026-10-15T02:48:37Z",
-  "updatedAt": "2026-10-18T01:17:18Z",
+  "pushedAt": "2026-10-18T19:26:55Z",
+  "updatedAt": "2026-10-19T01:24:39Z",
   "createdAt": "2022-03-31T23:19:12Z",
   "archived": false,
   "trendWindows": [
@@ -27,14 +27,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<h1 align=\"center\">ArtCraft</h1>\n<p align=\"center\"><strong>The IDE for artists.</strong></p>\n\n<!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go\n     GitHub media issue: https://github.com/storytold/artcraft/issues/1951 -->\n\nhttps://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11\n\n<p align=\"center\">\n  <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/artcraft\"><img alt=\"Discord members online\" src=\"https://img.shields.io/discord/1359579021108842617?style=for-the-badge&amp;label=Discord&amp;color=5865F2&amp;logo=discord&amp;logoColor=white\"></a>\n  <a href=\"https://www.youtube.com/@OfficialArtCraftStudios\"><img alt=\"YouTube\" src=\"https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white\"></a>\n  <a href=\"https://x.com/get_artcraft\"><img alt=\"X\" src=\"https://img.shields.io/badge/X-181717?style=for-the-badge&amp;logo=x&amp;logoColor=white\"></a>\n  <a href=\"https://www.linkedin.com/company/artcraft-ai\"><img alt=\"LinkedIn\" src=\"https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://getartcraft.com/\">Download ArtCraft</a> ·\n  <a href=\"https://github.com/storytold/artcraft/releases\">GitHub releases</a> ·\n  <a href=\"./_docs/dev_setup.md\">Build from source</a>\n</p>\n\nArtCraft is the IDE for interactive AI image and video creation. Compose in 2D, stage scenes in 3D, and choose the models that fit your work. Turn prompting into *crafting* with visual tools for precise, repeatable results.\n\n## Show, Don't Tell: Advanced Crafting Features\n\nArtists need control over composition, character identity, and camera placement. Build the scene before you generate it. Click any preview to view it at full size.\n\n| Feature                                                                                                             | Preview                                                                                                                                                                                                                                                                                                           |\n| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **Image to Location**<br>Place virtual actors in a consistent environment and plan multiple shots in the same room. | <a href=\"https://github.com/user-attachments/assets/21f103e3-cc19-4882-a630-9caa1b76ae31\"><img src=\"https://github.com/user-attachments/assets/21f103e3-cc19-4882-a630",
-  "generatedAt": "2026-10-18T01:17:31.798Z",
+  "generatedAt": "2026-10-19T01:27:07.069Z",
   "analysis": {
     "oneLine": "artcraft 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
     "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
     "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
     "detailParagraphs": [
       "artcraft 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
-      "如果把它放进实际使用场景，artcraft 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 31,799，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，artcraft 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 32,755，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

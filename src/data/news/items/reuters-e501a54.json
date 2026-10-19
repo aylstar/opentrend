@@ -8,17 +8,17 @@
   "id": "reuters-e501a54",
   "slug": "reuters-e501a54",
   "content": "Take Five: Earnings, an election and an MSCI headache &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-10-17T01:23:13.851Z",
-  "score": 90,
+  "fetchedAt": "2026-10-19T01:27:23.544Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "财经"
   ],
-  "rank": 12,
+  "rank": 26,
   "contentStatus": "article-extracted",
-  "chineseTitle": "要点五：盈利、选举和 MSCI 令人头疼的问题",
-  "chineseSummary": "五点：盈利、选举和 MSCI 令人头疼的问题 路透",
-  "chineseContent": "五点：盈利、选举和 MSCI 令人头疼的问题 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Take Five: Earnings, an election and an MSCI headache",
+  "chineseSummary": "Take Five: Earnings, an election and an MSCI headache &nbsp;&nbsp; Reuters",
+  "chineseContent": "Take Five: Earnings, an election and an MSCI headache &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }
