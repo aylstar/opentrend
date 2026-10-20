@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8ba002cec1",
+  "slug": "weibo-c罗主动承认指控",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "C罗主动承认指控",
+  "summary": "微博热榜第 5 位：C罗主动承认指控，当前热度为 54万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%B8%BB%E5%8A%A8%E6%89%BF%E8%AE%A4%E6%8C%87%E6%8E%A7%23",
+  "hotValue": "54万热度",
+  "author": "",
+  "publishedAt": "2026-10-20T01:50:47.259Z",
+  "fetchedAt": "2026-10-20T01:58:20.481Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "US bans DeepSeek AI from government use as tech tension with China continues",
+  "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+  "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-10-19T18:21:54.000Z",
+  "id": "bbc-1fbb1b08",
+  "slug": "bbc-1fbb1b08",
+  "content": "The US has ordered all artificial intelligence (AI) technology from the Chinese firm DeepSeek to be removed from most government systems.\n\nThe Department of Homeland Security (DHS) has banned all use of DeepSeek within civilian government agencies, and any technology built with the aid of its AI models.\n\nAs a powerful AI model that is open source - meaning it is free to access and less expensive to use - DeepSeek has been seen as a disruptive force in the ongoing AI technology race.\n\nWhile the DHS notice did not detail the exact security concerns surrounding DeepSeek, the White House has this year criticised AI firms from China.\n\nThe DHS, DeepSeek, and the Chinese embassy in Washington DC have been contacted for comment.\n\nThe DHS made the order public on Monday, but the ban took effect from the end of July.\n\nThe order is specific to civilian agencies, including the Department of the Treasury, the Department of State and the Department of Justice. However, agencies within the Department of Defense are excluded.\n\nThe ban follows criticism of Chinese AI from the Trump administration, and from American firms.\n\nWhite House tech lead Michael Kratsios wrote earlier this year in an internal memo that \"malicious exploitation\" of American AI firms had been occurring, mainly by rival firms in China.\n\nAnthropic and OpenAI, both of which are poised to list on the public stock market in the coming months, have also claimed to have had their AI models essentially copied by some Chinese AI firms, including DeepSeek.\n\nUS president Donald Trump has made clear that he sees China as the key US rival when it comes to development of AI, something he sees as crucial to the future of the country.\n\nDeepSeek has grown in popularity since its initial public release in 2025, with models being in such demand that the company's servers have gone down at times.\n\nWhile DeepSeek's free chatbot app is one of the most downloaded apps in the Apple App Store rankings, its AI models are also used by US tech companies. Companies like Snowflake, Vercel and OpenRouter all incorporate DeepSeek in their offerings to customers.\n\nStartups have flocked to open source models like DeepSeek.\n\nFor a technology or AI developer, using DeepSeek in their work costs a fraction of what a closed model like Google's Google's Gemini, Anthropic's Claude or OpenAI's Codex would.\n\nSimilarly, the expense borne by DeepSeek to develop its models has been astronomically less than what it has cost US AI firms to develop their own.\n\nLast year, DeepSeek said it took about $6m (£4.5m) to train the debut version of its model, while the costs associated with OpenAI's GPT-4 were roughly $100m. Such revelations sent tech stocks tumbling .\n\nThe most recent version of DeepSeek was released last week. Users of the model have praised it online, saying it beats even the most advanced AI tools out of OpenAI on common tasks for AI tools like computer software coding.\n\nTrump and Xi come face-to-face as US and China battle to win the AI race\n\nWhy are there concerns AI could threaten humanity, and how real are they?",
+  "fetchedAt": "2026-10-20T01:57:23.460Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "由于与中国的技术紧张局势持续，美国禁止政府使用 DeepSeek AI",
+  "chineseSummary": "DeepSeek是中国推出的一种功能强大、流行且相对便宜的人工智能模型。",
+  "chineseContent": "美国已下令将中国公司 DeepSeek 的所有人工智能 (AI) 技术从大多数政府系统中删除。\n\n美国国土安全部 (DHS) 已禁止在民事政府机构内使用 DeepSeek，以及任何借助其人工智能模型构建的技术。\n\n作为一个强大的开源人工智能模型（这意味着它可以免费访问且使用成本更低），DeepSeek 被视为正在进行的人工智能技术竞赛中的颠覆力量。\n\n虽然国土安全部的通知没有详细说明围绕 DeepSeek 的确切安全问题，但白宫今年批评了来自中国的人工智能公司。\n\n已联系国土安全部、DeepSeek 和中国驻华盛顿大使馆请其置评。\n\n国土安全部周一公布了该命令，但该禁令从 7 月底开始生效。\n\n该命令专门针对民事机构，包括财政部、国务院和司法部。但是，国防部内的机构不包括在内。\n\n这项禁令是在特朗普政府和美国公司对中国人工智能提出批评之后发布的。\n\n白宫技术负责人 Michael Kratsios 今年早些时候在一份内部备忘录中写道，美国人工智能公司的“恶意利用”一直在发生，主要是来自中国的竞争对手公司。\n\nAnthropic 和 OpenAI 都准备在未来几个月内在股票市场上市，它们也声称其人工智能模型基本上被包括 DeepSeek 在内的一些中国人工智能公司复制。\n\n美国总统唐纳德·特朗普明确表示，他将中国视为美国在人工智能发展方面的主要竞争对手，他认为这对美国的未来至关重要。\n\n自 2025 年首次公开发布以来，DeepSeek 越来越受欢迎，模型的需求如此之大，以至于该公司的服务器有时会出现故障。\n\n虽然 DeepSeek 的免费聊天机器人应用程序是苹果应用商店排名中下载次数最多的应用程序之一，但其人工智能模型也被美国科技公司使用。 Snowflake、Vercel 和 OpenRouter 等公司都将 DeepSeek 纳入其向客户提供的产品中。\n\n初创公司纷纷涌向 DeepSeek 等开源模型。\n\n对于技术或人工智能开发人员来说，在工作中使用 DeepSeek 的成本只是 Google 的 Google Gemini、Anthropic 的 Claude 或 OpenAI 的 Codex 等封闭模型的一小部分。\n\n同样，DeepSeek 开发模型的费用比美国人工智能公司开发自己的模型的费用要低得多。\n\n去年，DeepSeek 表示，训练其模型的首次版本花费了约 600 万美元（450 万英镑），而与 OpenAI 的 GPT-4 相关的成本约为 1 亿美元。此类爆料导致科技股暴跌。\n\nDeepSeek 的最新版本于上周发布。该模型的用户在网上称赞它，称在计算机软件编码等人工智能工具的常见任务上，它甚至击败了 OpenAI 中最先进的人工智能工具。\n\n特朗普和习近平面对面，美国和中国争夺人工智能竞赛的胜利\n\n为什么人们担心人工智能可能威胁人类？这种担心有多真实？",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

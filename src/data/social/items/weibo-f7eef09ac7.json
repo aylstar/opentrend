@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f7eef09ac7",
+  "slug": "weibo-圆通深夜致歉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "圆通深夜致歉",
+  "summary": "微博热榜第 9 位：圆通深夜致歉，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%9C%86%E9%80%9A%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-10-20T01:50:47.259Z",
+  "fetchedAt": "2026-10-20T01:58:20.481Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

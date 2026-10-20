@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+  "summary": "244 points · 77 comments",
+  "content": "Let's Encrypt is adding two new remote perspectives for domain validation. This change is motivated by the fact that increased perspectives provide more domain validation security and is required by the Baseline Requirements which is quoted below. Increasing the number and coverage of our domain validation perspectives improves visibility and protection against BGP attacks.\n\nBR 3.2.2.9 Multi Perspective Issuance Corroboration Effective 2026-12-15, the CA MUST implement Multi-Perspective Issuance Corroboration using at least five (5) remote Network Perspectives. The CA MUST ensure that the requirements defined in Quorum Requirements Table are satisfied, and the remote Network Perspectives that corroborate the Primary Network Perspective fall within the service regions of at least two (2) distinct Regional Internet Registries. If the requirements are not satisfied, then the CA MUST NOT proceed with issuance of the Certificate.\n\nDuring domain validation, this means that we will make seven total validation requests, one from the primary datacenter and six from remote perspectives (previously four) . For validation to succeed, the primary server and a quorum of remote perspectives must receive the correct challenge response. This makes it more difficult for attackers to hijack validation requests. To learn more about multi-perspective domain validation, please see our earlier blog post when Let's Encrypt first added new perspectives.\n\nWe expect little to no impact to users. Let's Encrypt will begin performing domain validation with the new regions in staging on Tuesday, October 27th, 2026 . Assuming all goes well, we will do the production rollout on Tuesday, November 10th, 2026 . Updates will be posted in this thread.",
+  "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+  "publishedAt": "2026-10-19T10:53:39.000Z",
+  "points": 244,
+  "id": "hacker-news-7b0d7a4",
+  "slug": "hacker-news-7b0d7a4",
+  "fetchedAt": "2026-10-20T01:57:23.464Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+  "chineseSummary": "244 points · 77 comments",
+  "chineseContent": "Let's Encrypt is adding two new remote perspectives for domain validation. This change is motivated by the fact that increased perspectives provide more domain validation security and is required by the Baseline Requirements which is quoted below. Increasing the number and coverage of our domain validation perspectives improves visibility and protection against BGP attacks.\n\nBR 3.2.2.9 Multi Perspective Issuance Corroboration Effective 2026-12-15, the CA MUST implement Multi-Perspective Issuance Corroboration using at least five (5) remote Network Perspectives. The CA MUST ensure that the requirements defined in Quorum Requirements Table are satisfied, and the remote Network Perspectives that corroborate the Primary Network Perspective fall within the service regions of at least two (2) distinct Regional Internet Registries. If the requirements are not satisfied, then the CA MUST NOT proceed with issuance of the Certificate.\n\nDuring domain validation, this means that we will make seven total validation requests, one from the primary datacenter and six from remote perspectives (previously four) . For validation to succeed, the primary server and a quorum of remote perspectives must receive the correct challenge response. This makes it more difficult for attackers to hijack validation requests. To learn more about multi-perspective domain validation, please see our earlier blog post when Let's Encrypt first added new perspectives.\n\nWe expect little to no impact to users. Let's Encrypt will begin performing domain validation with the new regions in staging on Tuesday, October 27th, 2026 . Assuming all goes well, we will do the production rollout on Tuesday, November 10th, 2026 . Updates will be posted in this thread.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

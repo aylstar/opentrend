@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Goldman Sachs sends a stern warning to stock market investors",
+  "summary": "The latest outlook comes with an interesting twist.",
+  "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-sends-a-stern-warning-to-stock-market-investors?.tsrc=rss",
+  "publishedAt": "2026-10-20T01:47:00.000Z",
+  "id": "yahoo-finance-4ea8eccc",
+  "slug": "yahoo-finance-4ea8eccc",
+  "content": "The latest outlook comes with an interesting twist.",
+  "fetchedAt": "2026-10-20T01:57:23.468Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "金融",
+    "财经"
+  ],
+  "rank": 24,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Goldman Sachs sends a stern warning to stock market investors",
+  "chineseSummary": "The latest outlook comes with an interesting twist.",
+  "chineseContent": "The latest outlook comes with an interesting twist.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

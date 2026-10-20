@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "The Annotated VT100 Firmware (2022)",
+  "summary": "69 points · 3 comments",
+  "content": "The VT100 terminal, launched in 1978, was DEC’s first ANSI-compatible terminal and their first that moved from discrete logic to a microprocessor, the Intel 8080. Slight modifications to the supported escape sequences were made for the cost-reduced follow-on models, the VT101 and VT102, and those changes became the definition of “VT100 compatible,” in DEC’s internal Video Systems Reference Manual , used for the next 15 years.\n\nThis set of documents takes the original 8 KiB firmware for the VT100 and attempts to explain the workings. There is a fully annotated disassembly with links to the Technical Manual and the print set.",
+  "url": "https://vt100.net/dec/vt100/rom/",
+  "publishedAt": "2026-10-19T02:40:04.000Z",
+  "points": 69,
+  "id": "hacker-news-64a0ff2c",
+  "slug": "hacker-news-64a0ff2c",
+  "fetchedAt": "2026-10-20T01:57:23.465Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "The Annotated VT100 Firmware (2022)",
+  "chineseSummary": "69 points · 3 comments",
+  "chineseContent": "The VT100 terminal, launched in 1978, was DEC’s first ANSI-compatible terminal and their first that moved from discrete logic to a microprocessor, the Intel 8080. Slight modifications to the supported escape sequences were made for the cost-reduced follow-on models, the VT101 and VT102, and those changes became the definition of “VT100 compatible,” in DEC’s internal Video Systems Reference Manual , used for the next 15 years.\n\nThis set of documents takes the original 8 KiB firmware for the VT100 and attempts to explain the workings. There is a fully annotated disassembly with links to the Technical Manual and the print set.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
