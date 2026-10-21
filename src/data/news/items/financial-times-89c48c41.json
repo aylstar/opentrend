@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "AI debt worries spark surge in default insurance trading",
+  "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
+  "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-20T04:00:19.000Z",
+  "id": "financial-times-89c48c41",
+  "slug": "financial-times-89c48c41",
+  "content": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
+  "fetchedAt": "2026-10-21T01:46:18.656Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "科技"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "AI 债务担忧引发违约保险交易激增",
+  "chineseSummary": "随着投资者寻求保护以防止繁荣崩溃，与大型科技集团相关的信用违约掉期交易量激增",
+  "chineseContent": "随着投资者寻求保护以防止繁荣崩溃，与大型科技集团相关的信用违约掉期交易量激增",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/morluto/rea",
   "docsUrl": "https://rea.tools",
-  "stars": 337381,
-  "forks": 85189,
-  "openIssues": 1265,
+  "stars": 348435,
+  "forks": 87646,
+  "openIssues": 1499,
   "license": "MIT",
-  "pushedAt": "2026-10-20T01:54:55Z",
-  "updatedAt": "2026-10-20T01:57:03Z",
+  "pushedAt": "2026-10-21T00:19:03Z",
+  "updatedAt": "2026-10-21T01:45:51Z",
   "createdAt": "2026-04-14T00:51:32Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n**English** · [简体中文](docs/readme/README_zh.md) · [繁體中文](docs/readme/README_zh-TW.md) · [日本語](docs/readme/README_ja.md) · [한국어](docs/readme/README_ko.md) · [Türkçe](docs/readme/README_tr.md) · [Русский](docs/readme/README_ru.md) · [Tiếng Việt](docs/readme/README_vi.md) · [ไทย](docs/readme/README_th.md) · [Deutsch](docs/readme/README_de.md) · [Español](docs/readme/README_es.md) · [Français](docs/readme/README_fr.md) · [Українська](docs/readme/README_uk.md) · [Polski](docs/readme/README_pl.md) · [Português (Brasil)](docs/readme/README_pt-BR.md) · [العربية](docs/readme/README_ar.md) · [فارسی](docs/readme/README_fa.md) · [Bahasa Indonesia](docs/readme/README_id.md) · [Italiano](docs/readme/README_it.md)\n· [Ελληνικά](docs/readme/README_el.md) · [മലയാളം](docs/readme/README_ml.md)\n\n# REA: Reverse Engineer Anything\n\n### One MCP for reverse engineering across binaries, applications, and runtime behavior.\n\n**See a feature you like. Understand how it works, down to the binary level.**\n\n[![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)\n[![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](docs/mcp-contracts.md#generated-catalog)\n[![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#what-you-can-analyze)\n[![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)\n[![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](LICENSE)\n[![Discord](https://img.shields.io/discord/1556595354999332884?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/GkcryMnJDM)\n\n<a href=\"https://trendshift.io/repositories/82054?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-82054\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/82054\" alt=\"morluto%2Frea | Trendshift\" width=\"250\" height=\"55\"/></a>\n\n**[Website](https://rea.tools/) · [Guides](https://rea.tools/guides/) · [Showcases](https://rea.tools/showcase/)**\n\n[Quick start](#quick-start) · [How REA works](#how-rea-works) · [What you can analyze](#what-you-can-analyze) · [Showcases](#showcases) · [FAQ](#faq) · [Documentation](#documentation)\n\n<code>npx rea-agents setup</code>\n\n</div>\n\n> [!IMPORTANT]\n> Get REA from [morluto/rea](https://github.com/morluto/rea),\n> [rea.tools](https://rea.tools/), or the [rea-agents npm package](https://www.npmjs.com/package/rea-agents).\n> Follow the installation and release links from these official sources. A similar\n> repository name or copied README does not establish that a download is official.\n\n<div align=\"center\">\n\n<br />\n\n<img src=\"docs/assets/rea-hopper-analysis.png\" alt=\"REA launching its analysis bridge inside Hopper while inspecting a native binary\" width=\"1200\" />\n\n<br /><br /",
-  "generatedAt": "2026-10-20T01:57:05.709Z",
+  "generatedAt": "2026-10-21T01:46:00.197Z",
   "analysis": {
     "oneLine": "rea 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "rea 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，rea 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 337,381，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，rea 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 348,435，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

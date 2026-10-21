@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Facebook Pages require paid subscription to post more than two links per month",
+  "summary": "419 points · 379 comments",
+  "content": "Attached: 1 image Facebook achieving absurd new heights of enshittification by now charging a subscription of at least $50/mo to... post more than two links a month to your own Facebook page. Covers comments too. Subscription not even available in UK yet. Don't know why we bother with them. Their documentation about this: https://www.facebook.com/help/1929252614431792",
+  "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+  "publishedAt": "2026-10-20T15:06:08.000Z",
+  "points": 419,
+  "id": "hacker-news-d0abe72e",
+  "slug": "hacker-news-d0abe72e",
+  "fetchedAt": "2026-10-21T01:46:18.646Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Facebook 页面需要付费订阅才能每月发布两个以上链接",
+  "chineseSummary": "419 分 · 379 条评论",
+  "chineseContent": "附：1 张图片 Facebook 现在收取至少 50 美元/月的订阅费用，从而达到了荒谬的 enshittiification 新高度……每月向您自己的 Facebook 页面发布两个以上链接。也涵盖评论。在英国甚至还无法订阅。不知道我们为什么要打扰他们。他们关于此的文档：https://www.facebook.com/help/1929252614431792",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

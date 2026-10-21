@@ -1,0 +1,90 @@
+{
+  "slug": "2026-10-21",
+  "date": "2026-10-21",
+  "title": "2026年10月21日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-10-21T01:46:07.677Z",
+  "stats": {
+    "totalProjects": 16,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.5
+  },
+  "sections": {
+    "recommended": [
+      "paperclipai__paperclip",
+      "vectorize-io__hindsight",
+      "debpalash__voicestudio"
+    ],
+    "weekly": [
+      "morluto__rea",
+      "madslorentzen__ai-job-search",
+      "anthropics__claude-plugins-official",
+      "mksglu__context-mode",
+      "nationalsecurityagency__ghidra",
+      "k-dense-ai__scientific-agent-skills",
+      "heygen-com__hyperframes",
+      "debpalash__voicestudio",
+      "ruvnet__ruflo",
+      "android__skills"
+    ],
+    "monthly": [
+      "mksglu__context-mode",
+      "nationalsecurityagency__ghidra",
+      "heygen-com__hyperframes",
+      "debpalash__voicestudio",
+      "paperclipai__paperclip",
+      "vectorize-io__hindsight",
+      "anthropics__financial-services",
+      "cloudflare__security-audit-skill",
+      "nvidia__openshell",
+      "anthropics__knowledge-work-plugins"
+    ],
+    "commercial": [
+      "morluto__rea",
+      "madslorentzen__ai-job-search",
+      "mksglu__context-mode",
+      "nationalsecurityagency__ghidra",
+      "k-dense-ai__scientific-agent-skills",
+      "heygen-com__hyperframes"
+    ],
+    "deployable": [
+      "morluto__rea",
+      "madslorentzen__ai-job-search",
+      "anthropics__claude-plugins-official",
+      "mksglu__context-mode",
+      "nationalsecurityagency__ghidra",
+      "k-dense-ai__scientific-agent-skills"
+    ],
+    "risky": [
+      "morluto__rea",
+      "madslorentzen__ai-job-search",
+      "anthropics__claude-plugins-official",
+      "mksglu__context-mode",
+      "nationalsecurityagency__ghidra",
+      "k-dense-ai__scientific-agent-skills"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 16 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "morluto__rea",
+    "madslorentzen__ai-job-search",
+    "anthropics__claude-plugins-official",
+    "mksglu__context-mode",
+    "nationalsecurityagency__ghidra",
+    "k-dense-ai__scientific-agent-skills",
+    "heygen-com__hyperframes",
+    "debpalash__voicestudio",
+    "ruvnet__ruflo",
+    "android__skills",
+    "paperclipai__paperclip",
+    "vectorize-io__hindsight",
+    "anthropics__financial-services",
+    "cloudflare__security-audit-skill",
+    "nvidia__openshell",
+    "anthropics__knowledge-work-plugins"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google’s more personalized Gemini AI is heading to your car",
+  "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+  "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+  "publishedAt": "2026-10-20T22:11:34.000Z",
+  "id": "the-verge-2d72b640",
+  "slug": "the-verge-2d72b640",
+  "content": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you’re driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to “take me to my doctor’s appointment” instead of pulling up directions manually, or ask it to “find the car wash from the photo I took last week and navigate there.” [Video: Personal Intelligence in cars] Google brought its Gemini assistant to Android Auto last year before rolling it out to cars with Google built-in in April. Several carmakers—including Ford, GM, Honda, Nissan, Volvo, and Polestar—have shipped newer cars with Google built-in, which adds support for native Android apps. Google says it will connect your apps to Gemini only if you enable its Personal Intelligence setting. It will also share personalized responses only if you have your phone connected to your car. “If you don’t use Personal Intelligence, everything in the car still works: You can use navigation, listen to music, make calls, and ask questions, but the answers won’t be tailored to you,” Google says. Personal Intelligence is rolling out to Android Auto today, with support coming to cars with Google built-in in the coming months.",
+  "fetchedAt": "2026-10-21T01:46:18.649Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "视频"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌更加个性化的 Gemini AI 即将进入你的汽车",
+  "chineseSummary": "谷歌正在为汽车中的 Gemini AI 带来个人智能。通过此更新，Android Auto 中的 Gemini 和内置 Google 的汽车可以跨 Google 应用程序访问您的信息，包括 Gmail、日历、地图、照片、YouTube 和搜索。举个例子，谷歌表示，如果你正在开车，你可以向 Gemini 询问你的航班状态 [...]",
+  "chineseContent": "谷歌正在为汽车中的 Gemini AI 带来个人智能。通过此更新，Android Auto 中的 Gemini 和内置 Google 的汽车可以跨 Google 应用程序访问您的信息，包括 Gmail、日历、地图、照片、YouTube 和搜索。举个例子，谷歌表示，如果你开车去机场，你可以向 Gemini 询问你的航班状态。人工智能助手可以从 Gmail 中的确认消息中提取您的航班详细信息，然后使用该信息来查找状态。您还可以要求 Gemini“带我去看医生”，而不是手动调取路线，或者要求它“从我上周拍摄的照片中找到洗车场并导航到那里”。 [视频：汽车中的个人智能] 谷歌去年将其 Gemini 助手引入 Android Auto，然后于 4 月份将其推广到内置谷歌的汽车。包括福特、通用汽车、本田、日产、沃尔沃和 Polestar 在内的几家汽车制造商已经推出了内置谷歌的新款汽车，这增加了对原生 Android 应用程序的支持。谷歌表示，只有当您启用其个人智能设置时，它才会将您的应用程序连接到 Gemini。仅当您将手机连接到汽车时，它才会分享个性化回复。谷歌表示：“如果你不使用个人智能，车内的一切仍然有效：你可以使用导航、听音乐、打电话和提问，但答案不会为你量身定制。” Personal Intelligence 现已在 Android Auto 上推出，并在未来几个月内为内置 Google 的汽车提供支持。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

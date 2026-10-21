@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Google Cloud outage affects almost all banking and other operations in Europe",
+  "summary": "338 points · 168 comments",
+  "content": "338 points · 168 comments",
+  "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+  "publishedAt": "2026-10-20T10:26:02.000Z",
+  "points": 338,
+  "id": "hacker-news-961ef587",
+  "slug": "hacker-news-961ef587",
+  "fetchedAt": "2026-10-21T01:46:18.645Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 9,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Google Cloud 中断影响了欧洲几乎所有银行和其他业务",
+  "chineseSummary": "338 分 · 168 条评论",
+  "chineseContent": "338 分 · 168 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

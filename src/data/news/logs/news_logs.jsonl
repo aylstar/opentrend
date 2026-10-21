@@ -5005,3 +5005,29 @@
 {"type":"public_translation_error","at":"2026-10-20T01:58:17.961Z","id":"youtube-3b66b8d8","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-10-20T01:58:18.362Z","id":"youtube-c25aaf84","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-10-20T01:58:18.371Z","date":"2026-10-20","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-10-21T01:46:08.716Z","source":"Guardian","url":"https://content.guardianapis.com/search?api-key=test&show-fields=trailText,bodyText,headline&page-size=20&order-by=newest","error":"401 Unauthorized"}
+{"type":"source_error","at":"2026-10-21T01:46:18.637Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"fetch failed"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:19.171Z","id":"product-hunt-daf87f12","source":"Product Hunt","url":"https://www.producthunt.com/products/lugh-xtudio","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:19.173Z","id":"product-hunt-571c4dd3","source":"Product Hunt","url":"https://www.producthunt.com/products/bonds-2","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:19.176Z","id":"product-hunt-38aec274","source":"Product Hunt","url":"https://www.producthunt.com/products/intel","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:19.915Z","id":"hacker-news-961ef587","source":"Hacker News","url":"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:20.228Z","id":"product-hunt-c6cb035f","source":"Product Hunt","url":"https://www.producthunt.com/products/the-new-beings","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:20.230Z","id":"product-hunt-79215ec9","source":"Product Hunt","url":"https://www.producthunt.com/products/sorcerer","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:20.231Z","id":"product-hunt-3912f130","source":"Product Hunt","url":"https://www.producthunt.com/products/praex","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:20.232Z","id":"product-hunt-74053fcc","source":"Product Hunt","url":"https://www.producthunt.com/products/call4me","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:21.151Z","id":"financial-times-89c48c41","source":"Financial Times","url":"https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:22.065Z","id":"marketwatch-b5dc146c","source":"MarketWatch","url":"https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:22.698Z","id":"marketwatch-3724a353","source":"MarketWatch","url":"https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:22.976Z","id":"investing-db2eaede","source":"Investing","url":"https://www.investing.com/news/commodities-news/gold-falls-near-4110-as-iran-peace-hopes-fade-fed-rate-outlook-clouds-demand-4961463","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-21T01:46:23.115Z","id":"investing-acc709a3","source":"Investing","url":"https://www.investing.com/analysis/global-markets-rebound-as-tech-stocks-lead-the-gains-200689905","error":"403 Forbidden"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:34.781Z","id":"youtube-532a8525","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:35.143Z","id":"youtube-2ab0b98e","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:35.407Z","id":"youtube-dd2de79e","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:35.815Z","id":"youtube-503d52d1","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:36.210Z","id":"youtube-64328678","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:36.518Z","id":"youtube-643a779c","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:36.908Z","id":"youtube-a703e6e1","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:37.267Z","id":"youtube-404dd7ec","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:37.576Z","id":"youtube-c6011522","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-21T01:47:37.830Z","id":"youtube-c25aaf84","error":"429 Too Many Requests"}
+{"type":"news_report_generated","at":"2026-10-21T01:47:37.840Z","date":"2026-10-21","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

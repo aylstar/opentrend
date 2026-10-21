@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Upcoming Critical PHP Security Release",
+  "summary": "50 points · 4 comments",
+  "content": "50 points · 4 comments",
+  "url": "https://news-web.php.net/php.announce/509",
+  "publishedAt": "2026-10-20T20:15:50.000Z",
+  "points": 50,
+  "id": "hacker-news-77c58d73",
+  "slug": "hacker-news-77c58d73",
+  "fetchedAt": "2026-10-21T01:46:18.646Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 11,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "即将发布的关键 PHP 安全版本",
+  "chineseSummary": "50 分 · 4 条评论",
+  "chineseContent": "50 分 · 4 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

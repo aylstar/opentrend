@@ -1,0 +1,21 @@
+{
+  "id": "weibo-50145610fc",
+  "slug": "weibo-南海",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "南海",
+  "summary": "微博热榜第 35 位：南海，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-10-21T01:41:21.351Z",
+  "fetchedAt": "2026-10-21T01:47:40.121Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

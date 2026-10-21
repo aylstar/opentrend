@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Good type against all odds",
+  "summary": "3 points · 0 comments",
+  "content": "This is not italics. This is not even oblique . This is a side effect of how those displays work. Instead of a whole rectangle of pixels being changed at once, the display is updated line by line, starting from the top one. As it’s moving towards the bottom, the internal horizontal position might have already advanced, the subsequent lines will be drawn slightly to the left, and it all leads to a slanted appearance. (This is in effect the same problem as rolling shutter in photography.)\n\nThe interesting thing is that it could’ve gone the other way. Twice. In English or German, we treat scrolling left to be natural, and we consider only one direction of italic slant appropriate. The first has to do with the direction of reading. I believe the second is, like many things in typography, customary; there’s nothing inherently better than right-leaning letters, except we’re used to them since those are the only ones we ever see.\n\nBut, the person putting it all together could’ve just as well done it the other way: scrolling to the right, or slanting to the left (by updating the display bottom to top – not as unusual as you might think!). Were those intentional choices, or was it a default? I’m not sure, but it points to the value of knowing this stuff, or creating a culture where this stuff is treasured. Often, more craft will require more work. Sometimes, however, you will get it for free – but only if you choose the right fork in the road.\n\nWhile we’re here, how about a few other examples of delightful moments in typography where I did not expect them? These, I believe, will be all intentional. But whether you consider them craft, or even good, I don’t know.\n\nHere are some surprising small caps:\n\nHere’s a cute depiction of a train carriage, somewhat hampered by the limitations of a similar workhorse 5×7 pixel font display:\n\nBut here’s something even better. This icon of a stadium cleverly leaned into the same limitations. It’s so delightful. These are, I believe, four characters side by side:\n\nHere, someone added nice decoration to fill out the space:\n\nHere, someone removed all the line height to create a fascinating vertical ligature. This is Gorton and the letters are carved into the plastic, so this required some effort!\n\nSpeaking of obliques, this NOT is too thick, and slightly too large, but you have to appreciate someone actually slanting the text rather than underlining it, or decorating in a simpler way:\n\nEven if you underline, you can go a little… well, below and beyond:\n\nOr, here, with maybe the most impressive, three-dimensional underline I’ve ever seen:\n\nThis I spotted on an old typesetting machine, and I would like to believe this is an intentional easter egg:\n\nThis was on a computer keyboard. You don’t expect hyphenation in this context…\n\n…and you definitely don’t expect an old-fashioned contraction:",
+  "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+  "publishedAt": "2026-10-21T01:45:07.000Z",
+  "points": 3,
+  "id": "hacker-news-5d5a48b5",
+  "slug": "hacker-news-5d5a48b5",
+  "fetchedAt": "2026-10-21T01:46:18.645Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克服一切困难的好类型",
+  "chineseSummary": "3 分 · 0 条评论",
+  "chineseContent": "这不是斜体。这还不是斜的。这是这些显示器工作方式的副作用。显示不是立即更改整个像素矩形，而是从顶部开始逐行更新。当它向底部移动时，内部水平位置可能已经提前，后续的线条会稍微向左绘制，这都会导致倾斜的外观。 （这实际上与摄影中的卷帘快门相同。）\n\n有趣的是，事情可能会走向相反的方向。两次。在英语或德语中，我们认为向左滚动是自然的，并且我们认为只有斜体倾斜的一个方向是合适的。第一个与阅读方向有关。我相信，像印刷术中的许多事情一样，第二个是习惯性的。本质上没有什么比右倾字母更好的了，只不过我们已经习惯了它们，因为这是我们唯一见过的字母。\n\n但是，将所有内容放在一起的人也可以用另一种方式完成：向右滚动或向左倾斜（通过将显示从下到上更新 - 并不像您想象的那么不寻常！）。这些是有意的选择，还是默认的？我不确定，但它指出了了解这些东西或创造一种珍惜这些东西的文化的价值。通常，更多的工艺需要更多的工作。然而，有时您会免费获得它——但前提是您选择了正确的岔路口。\n\n既然我们在这里，那么还有一些我意想不到的排版中令人愉快的时刻的例子怎么样？我相信，这些都是故意的。但我不知道你是否认为它们是工艺品，甚至是好东西。\n\n以下是一些令人惊讶的小型大写字母：\n\n这是对火车车厢的可爱描绘，但由于类似的主力 5×7 像素字体显示的限制而受到一定程度的阻碍：\n\n但这里有更好的东西。这个体育场的标志巧妙地受到了同样的限制。真是令人愉快。我相信，这是四个并排的字符：\n\n在这里，有人添加了漂亮的装饰来填充空间：\n\n在这里，有人删除了所有的行高来创建一个迷人的垂直连字。这是戈顿，字母是刻在塑料上的，所以这需要一些努力！\n\n说到斜线，这不是太厚，而且有点太大，但你必须欣赏有人实际上倾斜文本而不是在它下划线，或者以更简单的方式装饰：\n\n即使你划线，你也可以稍微……好吧，低于和超越：\n\n或者，这里可能是我见过的最令人印象深刻的三维下划线：\n\n这是我在一台旧排版机上发现的，我愿意相信这是一个故意的复活节彩蛋：\n\n这是在电脑键盘上。您不会期望在这种情况下出现连字符......\n\n……你绝对不会想到老式的收缩：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
