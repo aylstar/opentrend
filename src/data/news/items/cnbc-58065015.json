@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+  "summary": "Economists polled by Reuters had forecast the Bank of Korea to hold rates.",
+  "url": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+  "publishedAt": "2026-10-22T01:28:13.000Z",
+  "id": "cnbc-58065015",
+  "slug": "cnbc-58065015",
+  "content": "South Korea's central bank expectedly kept its policy rate steady at 3% on Thursday, after two straight hikes, with analysts pointing that it does not signal a change in policy stance as inflation stays elevated.\n\nEconomists polled by Reuters had forecast the Bank of Korea to hold rates and the decision comes after President Lee Jae Myung reportedly called for an \"all out effort\" to boost housing supply.\n\nInflation in Asia's fourth-largest economy came in at 2.9% in September, staying at or above the BOK's 2% target for 13 months.\n\nThe Kospi was trading 1.23% lower, while the won strengthened marginally against the dollar to trade at 1,326.1.\n\nAnalysts from Dutch bank ING said that the pause was unlikely to mark the end of the tightening cycle, as inflation remains above target and economic growth was relatively resilient.\n\nGrowth for South Korea has been largely supported by exports of semiconductors as demand for chips to power the AI boom continues.\n\nExports for September skyrocketed at a record 83.7% year on year, with semiconductors spiking over 262% compared to the same period last year.\n\nThe IMF has projected the country's growth at 3.3% for the whole of 2026. GDP growth for the country came in at 3.8% and 3.7% for the first and second quarters respectively, both times beating expectations.",
+  "fetchedAt": "2026-10-22T01:39:59.144Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "李总统呼吁增加住房供应后韩国央行维持利率不变",
+  "chineseSummary": "路透社调查的经济学家预测韩国央行将维持利率不变。",
+  "chineseContent": "韩国央行在连续两次加息后，周四预计将政策利率稳定在 3%，分析师指出，随着通胀保持在高位，这并不意味着政策立场会发生变化。\n\n路透社调查的经济学家曾预测韩国央行将维持利率不变，据报道韩国总统李在明呼吁“全力以赴”增加住房供应。\n\n亚洲第四大经济体 9 月份通胀率为 2.9%，连续 13 个月保持或高于韩国央行 2% 的目标。\n\nKospi 指数下跌 1.23%，而韩元兑美元小幅走强，至 1,326.1。\n\n荷兰银行ING的分析师表示，此次暂停不太可能标志着紧缩周期的结束，因为通胀仍高于目标且经济增长相对有弹性。\n\n随着人工智能热潮对芯片的需求持续增长，韩国的增长在很大程度上受到半导体出口的支持。\n\n9月份出口同比猛增83.7%，创下历史新高，其中半导体出口同比猛增262%以上。\n\n国际货币基金组织预计该国2026年全年经济增速为3.3%。第一季度和第二季度GDP增速分别为3.8%和3.7%，均超出预期。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2d74ee9f79",
+  "slug": "weibo-独行侠vs火箭",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "独行侠vs火箭",
+  "summary": "微博热榜第 37 位：独行侠vs火箭，当前热度为 23万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E7%81%AB%E7%AE%AD%23",
+  "hotValue": "23万热度",
+  "author": "",
+  "publishedAt": "2026-10-22T01:32:46.367Z",
+  "fetchedAt": "2026-10-22T01:40:55.497Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d376e1a5c2",
+  "slug": "weibo-张小斐-救场",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "张小斐 救场",
+  "summary": "微博热榜第 16 位：张小斐 救场，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90+%E6%95%91%E5%9C%BA%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-10-22T01:32:46.367Z",
+  "fetchedAt": "2026-10-22T01:40:55.496Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

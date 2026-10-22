@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "PHP 8.2.35",
+  "summary": "970 points · 534 comments",
+  "content": "There was an error while loading. Please reload this page .\n\nThe PHP development team announces the immediate availability of PHP 8.2.35. This is a security release fixing two critical vulnerabilities (CVE-2026-109618, CVE-2026-109619) that can allow unauthenticated remote code execution. All PHP 8.2 users are strongly encouraged to update immediately.\n\nThere are no complete mitigations, updating is the only safe choice. See the security advisory for details.\n\nPHP 8.2 reaches end of life on 31 December 2026 and will receive no further security fixes after that date. Please plan your upgrade to a supported version.\n\nFor source downloads of PHP 8.2.35 please visit our downloads page , Windows source and binaries can also be found there . The list of changes is recorded in the ChangeLog .",
+  "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+  "publishedAt": "2026-10-21T13:45:33.000Z",
+  "points": 970,
+  "id": "hacker-news-904adc48",
+  "slug": "hacker-news-904adc48",
+  "fetchedAt": "2026-10-22T01:39:59.139Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "PHP 8.2.35",
+  "chineseSummary": "970 分 · 534 条评论",
+  "chineseContent": "加载时出错。请重新加载此页面。\n\nPHP 开发团队宣布 PHP 8.2.35 立即可用。此安全版本修复了两个严重漏洞（CVE-2026-109618、CVE-2026-109619），这些漏洞可能允许未经身份验证的远程代码执行。强烈建议所有 PHP 8.2 用户立即更新。\n\n没有完全的缓解措施，更新是唯一安全的选择。有关详细信息，请参阅安全公告。\n\nPHP 8.2 将于 2026 年 12 月 31 日终止生命周期，在此日期之后将不再收到进一步的安全修复。请计划升级到受支持的版本。\n\n如需 PHP 8.2.35 的源代码下载，请访问我们的下载页面，Windows 源代码和二进制文件也可以在那里找到。更改列表记录在 ChangeLog 中。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b27299e0da",
+  "slug": "weibo-科莫vs曼联",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 47,
+  "title": "科莫VS曼联",
+  "summary": "微博热榜第 47 位：科莫VS曼联，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E8%8E%ABVS%E6%9B%BC%E8%81%94%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-10-22T01:32:46.367Z",
+  "fetchedAt": "2026-10-22T01:40:55.497Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Data centers could erase decades of air quality gains",
+  "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+  "publishedAt": "2026-10-21T22:33:44.000Z",
+  "id": "the-verge-b3873476",
+  "slug": "the-verge-b3873476",
+  "content": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand — with gas turbines or renewable energy — will determine just how dirty things will get. So far, though, things are looking grim. Tech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into the electricity grid in Texas and be powered by the anticipated grid mix, soot and smog-forming pollutants would skyrocket, according to a new report from the Houston Advanced Research Center (HARC). In just five years, it would be enough pollution to wipe out decades of gains in air quality. In that scenario, fine particle pollution or soot from the power sector would more than triple, reaching its highest level since 2006. Smog-forming NOx emissions would increase 136 percent, approaching pollution levels from 2004. Planet-heating carbon dioxide pollution would climb 90 percent above what they were in 2025. That’s not set in stone, of course. HARC modeled different outcomes based on three different projections for data center energy demand. Many proposed data center projects are speculative and could fall by the wayside. And developers can limit the environmental impact of a data center by building solar and wind farms onsite. NOx emissions could be up to 10 times lower if data centers pair grid power with renewable electricity generated onsite. But if developers decide to build gas engines on site to power their data centers as a way to avoid long wait times to connect to the grid, the opposite could also play out, resulting in the highest pollution levels possible. Data center capacity is typically measured by how much power they draw, and Texas has become the leading data center market in this measure with 26 gigawatts of existing and under-construction capacity. Texas is also bracing for four times more proposed data center capacity running on power generated onsite than any other state, according to a separate Wood Mackenzie report published in March. And in many cases, developers are turning to less efficient gas turbine technology in order to speed construction — another trend that’s making the data center boom more polluting than it needs to be. “There is a good chance that our children and grandchildren will breathe dirtier air than we did,” John Hall, HARC CEO, said in a press release. “The transportation sector, the state, and other stakeholders have been working for decades to successfully bring these [emissions] numbers down, and that progress is now at risk.”",
+  "fetchedAt": "2026-10-22T01:39:59.142Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "数据中心可能抹去数十年来空气质量的进步",
+  "chineseSummary": "新数据中心的涌现可能会使德克萨斯州的空气污染回到 2000 年代以来的最高水平，该州已成为生成人工智能背后的物理基础设施的归零地。新的和拟建的数据中心需要大量的电力。开发商和公用事业公司如何通过天然气满足这一需求[...]",
+  "chineseContent": "新数据中心的涌现可能会使德克萨斯州的空气污染回到 2000 年代以来的最高水平，该州已成为生成人工智能背后的物理基础设施的归零地。新的和拟建的数据中心需要大量的电力。开发商和公用事业公司如何利用燃气轮机或可再生能源来满足这一需求将决定事情会变得多么肮脏。但到目前为止，情况看起来很严峻。科技公司和数据中心开发商正在设计新的方法来获得足够的电力，包括建立自己的电源。但根据休斯敦高级研究中心 (HARC) 的一份新报告，如果所有计划中的数据中心项目都接入德克萨斯州的电网并由预期的电网组合供电，烟灰和烟雾形成的污染物将会飙升。短短五年内，污染就足以抹去几十年来空气质量的进步。在这种情况下，来自电力部门的细颗粒污染或烟尘将增加两倍以上，达到 2006 年以来的最高水平。形成烟雾的氮氧化物排放量将增加 136%，接近 2004 年的污染水平。导致地球升温的二氧化碳污染将比 2025 年增加 90%。当然，这并不是一成不变的。 HARC 根据数据中心能源需求的三种不同预测对不同的结果进行了建模。许多拟议的数据中心项目都是投机性的，可能会半途而废。开发商可以通过现场建设太阳能和风电场来限制数据中心对环境的影响。如果数据中心将电网电源与现场产生的可再生电力结合起来，氮氧化物排放量可能会降低 10 倍。但如果开发商决定在现场建造燃气发动机来为他们的数据中心提供动力",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
