@@ -8,16 +8,15 @@
   "language": "Java",
   "githubUrl": "https://github.com/NationalSecurityAgency/ghidra",
   "docsUrl": "",
-  "stars": 92655,
-  "forks": 10382,
-  "openIssues": 2138,
+  "stars": 93176,
+  "forks": 10452,
+  "openIssues": 2140,
   "license": "Apache-2.0",
-  "pushedAt": "2026-10-20T12:16:20Z",
-  "updatedAt": "2026-10-22T01:39:18Z",
+  "pushedAt": "2026-10-22T13:16:26Z",
+  "updatedAt": "2026-10-23T01:40:13Z",
   "createdAt": "2019-03-01T03:27:48Z",
   "archived": false,
   "trendWindows": [
-    "weekly",
     "monthly"
   ],
   "tags": [
@@ -29,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\">\n\n# Ghidra Software Reverse Engineering Framework\nGhidra is a software reverse engineering (SRE) framework created and maintained by the \n[National Security Agency][nsa] Research Directorate. This framework includes a suite of \nfull-featured, high-end software analysis tools that enable users to analyze compiled code on a \nvariety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, \nassembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra \nsupports a wide variety of processor instruction sets and executable formats and can be run in both \nuser-interactive and automated modes. Users may also develop their own Ghidra extension components \nand/or scripts using Java or Python.\n\nIn support of NSA's Cybersecurity mission, Ghidra was built to solve scaling and teaming problems \non complex SRE efforts, and to provide a customizable and extensible SRE research platform. NSA has \napplied Ghidra SRE capabilities to a variety of problems that involve analyzing malicious code and \ngenerating deep insights for SRE analysts who seek a better understanding of potential \nvulnerabilities in networks and systems.\n\nIf you are a U.S. citizen interested in projects like this, to develop Ghidra and other \ncybersecurity tools for NSA to help protect our nation and its allies, consider applying for a \n[career with us][career].\n\n## Security Warning\n**WARNING:** There are known security vulnerabilities within certain versions of Ghidra.  Before \nproceeding, please read through Ghidra's [Security Advisories][security] for a better understanding \nof how you might be impacted.\n\n## Install\nTo install an official pre-built multi-platform Ghidra release:  \n* Install [JDK 25 64-bit][jdk]\n* Download a Ghidra [release file][releases]\n  - **NOTE:** The official multi-platform release file is named \n    `ghidra_<version>_<release>_<date>.zip` which can be found under the \"Assets\" drop-down.\n    Downloading either of the files named \"Source Code\" is not correct for this step.\n* Extract the Ghidra release file\n  - **NOTE:** Do not extract on top of an existing installation\n* Launch Ghidra: `./ghidraRun` (`ghidraRun.bat` for Windows)\n  - or launch [PyGhidra][pyghidra]: `./support/pyghidraRun` (`support\\pyghidraRun.bat` for Windows)\n\nFor additional information and troubleshooting tips about installing and running a Ghidra release, \nplease refer to the [Getting Started][gettingstarted] document which can be found at the root of a \nGhidra installation directory. \n\n## Build\n[![Build Ghidra][build-ghidra-badge]][build-ghidra-action]\n\nTo create the latest development build for your platform from this source repository:\n\n##### Install build tools:\n* [JDK 25 64-bit][jdk]\n* [Gradle 9.1.0+][gradle] (or provided Gradle wrapper if Internet connection is available)\n* [Python3][python3] (version 3.9 to 3.15) with bundled pip\n* GCC or Clang, and make",
-  "generatedAt": "2026-10-22T01:39:44.422Z",
+  "generatedAt": "2026-10-23T01:42:26.138Z",
   "analysis": {
     "oneLine": "ghidra 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
     "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
     "audience": "研究人员、学生、行业分析师、知识工作者",
     "detailParagraphs": [
       "ghidra 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
-      "如果把它放进实际使用场景，ghidra 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 92,655，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Java 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ghidra 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 93,176，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Java 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cb5a045e57",
+  "slug": "weibo-阿信发文致谢刘宇宁",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "阿信发文致谢刘宇宁",
+  "summary": "微博热榜第 46 位：阿信发文致谢刘宇宁，当前热度为 17万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E5%8F%91%E6%96%87%E8%87%B4%E8%B0%A2%E5%88%98%E5%AE%87%E5%AE%81%23",
+  "hotValue": "17万热度",
+  "author": "",
+  "publishedAt": "2026-10-23T01:41:37.952Z",
+  "fetchedAt": "2026-10-23T01:43:42.108Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

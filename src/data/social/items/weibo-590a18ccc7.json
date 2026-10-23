@@ -1,0 +1,21 @@
+{
+  "id": "weibo-590a18ccc7",
+  "slug": "weibo-霜降",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "霜降",
+  "summary": "微博热榜第 25 位：霜降，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9C%9C%E9%99%8D%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-10-23T01:41:37.952Z",
+  "fetchedAt": "2026-10-23T01:43:42.107Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

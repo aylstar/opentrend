@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Meta turns Muse sharing back on",
+  "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]",
+  "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+  "publishedAt": "2026-10-22T20:24:04.000Z",
+  "id": "the-verge-4c630980",
+  "slug": "the-verge-4c630980",
+  "content": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company’s internal revenue review and a small business owner’s loan application. Researchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were named after a conversation’s title and written into public DNS. Ars Technica said Tuesday that Meta paused the sharing feature after it reached out about what was going on. In a post today on X, Meta’s David Singleton says that “The underlying issue is now fixed, and sharing is back on.” According to Singleton, the issue was with URLs for shared Muse artifacts, which Meta says are things like documents and images inside Muse, and wasn’t a flaw with chat sharing. “If you shared an artifact before the fix: it now has a new URL,” Singleton says. “Anyone visiting the old link will see a note asking them to get the new one from you. We know that’s a pain, and we’re sorry for the disruption — but protecting user data has to come first.”",
+  "fetchedAt": "2026-10-23T01:42:42.591Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融",
+    "安全"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Meta 重新开启 Muse 共享",
+  "chineseSummary": "在安全研究人员报告公共对话链接很容易找到后，Meta 重新启用了 Muse 共享。研究人员表示，他们已经能够找到 Muse 页面，例如营销公司的内部收入审查和小企业主的贷款申请。 Claroc 的研究人员本周早些时候报告称，Muse the web [...]",
+  "chineseContent": "在安全研究人员报告公共对话链接很容易找到后，Meta 重新启用了 Muse 共享。研究人员表示，他们已经能够找到 Muse 页面，例如营销公司的内部收入审查和小企业主的贷款申请。 Claroc 的研究人员本周早些时候报告称，Muse 共享对话的网址以对话标题命名，并写入公共 DNS。 Ars Technica 周二表示，Meta 在了解发生的情况后暂停了共享功能。 Meta 的 David Singleton 今天在 X 上发表的一篇文章中表示，“根本问题现已解决，共享又恢复了。”据 Singleton 称，问题出在共享 Muse 工件的 URL 上，Meta 称这些工件是 Muse 内的文档和图像之类的东西，并不是聊天共享的缺陷。 “如果您在修复之前共享了一个工件：它现在有一个新的 URL，”Singleton 说。 “任何访问旧链接的人都会看到一条说明，要求他们从您那里获取新链接。我们知道这很痛苦，对于造成的干扰我们深表歉意 - 但保护用户数据必须放在第一位。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

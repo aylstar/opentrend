@@ -5076,3 +5076,75 @@
 {"type":"public_translation_error","at":"2026-10-22T01:40:53.101Z","id":"youtube-503d52d1","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-10-22T01:40:53.503Z","id":"youtube-218b61be","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-10-22T01:40:53.512Z","date":"2026-10-22","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-10-23T01:42:27.374Z","source":"Guardian","url":"https://content.guardianapis.com/search?api-key=test&show-fields=trailText,bodyText,headline&page-size=20&order-by=newest","error":"401 Unauthorized"}
+{"type":"source_error","at":"2026-10-23T01:42:42.581Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"This operation was aborted"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:44.792Z","id":"hacker-news-dfce8e9e","source":"Hacker News","url":"https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:44.844Z","id":"product-hunt-e8f6f079","source":"Product Hunt","url":"https://www.producthunt.com/products/playad","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:45.518Z","id":"product-hunt-38622792","source":"Product Hunt","url":"https://www.producthunt.com/products/dadan","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:46.194Z","id":"product-hunt-8d0de4be","source":"Product Hunt","url":"https://www.producthunt.com/products/radaric","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:46.194Z","id":"product-hunt-d23db6f3","source":"Product Hunt","url":"https://www.producthunt.com/products/notif-2","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:46.196Z","id":"product-hunt-d6dced33","source":"Product Hunt","url":"https://www.producthunt.com/products/elevenlabs-realtime-translation","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:46.197Z","id":"product-hunt-835e4f1a","source":"Product Hunt","url":"https://www.producthunt.com/products/mistral-7b","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:46.234Z","id":"product-hunt-dc2da2da","source":"Product Hunt","url":"https://www.producthunt.com/products/sponkly","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:47.360Z","id":"financial-times-c6bb3387","source":"Financial Times","url":"https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:48.253Z","id":"marketwatch-a855ef04","source":"MarketWatch","url":"https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:48.319Z","id":"marketwatch-d2e839f7","source":"MarketWatch","url":"https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:48.344Z","id":"marketwatch-c41e61bd","source":"MarketWatch","url":"https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:49.109Z","id":"investing-37feb842","source":"Investing","url":"https://www.investing.com/analysis/equity-rebound-stutters-as-oil-spikes-again-yen-gains-from-ai-jitters-200690065","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-23T01:42:49.119Z","id":"investing-2abe7739","source":"Investing","url":"https://www.investing.com/analysis/crude-oil-technical-analysis-is-wti-targeting-110-200690054","error":"403 Forbidden"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:22.647Z","id":"product-hunt-e8f6f079","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:23.010Z","id":"hacker-news-be6ca32b","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:23.399Z","id":"hacker-news-cb86834","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:23.678Z","id":"hacker-news-f20d3e04","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:24.124Z","id":"hacker-news-8e4d95ae","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:24.443Z","id":"hacker-news-a0a11944","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:24.702Z","id":"product-hunt-38622792","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:25.128Z","id":"product-hunt-835e4f1a","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:25.605Z","id":"product-hunt-d6dced33","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:25.886Z","id":"product-hunt-8d0de4be","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:26.129Z","id":"product-hunt-d23db6f3","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:26.371Z","id":"product-hunt-dc2da2da","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:26.718Z","id":"the-verge-327ffd83","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:26.966Z","id":"the-verge-c2bc379c","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:27.299Z","id":"the-verge-332a55ef","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:27.575Z","id":"cnbc-39672eab","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:27.861Z","id":"reuters-4c0bb987","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:28.269Z","id":"bloomberg-8d313091","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:28.521Z","id":"bloomberg-12f88c74","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:28.914Z","id":"bloomberg-665780c","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:29.212Z","id":"bloomberg-d79643a5","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:29.591Z","id":"bloomberg-bfd4a60","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:29.843Z","id":"bloomberg-d979384d","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:30.197Z","id":"reuters-5a9bebdf","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:30.576Z","id":"reuters-63fa1973","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:30.877Z","id":"reuters-d17535f4","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:31.371Z","id":"reuters-3d3c7a5f","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:31.790Z","id":"reuters-a963316b","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:32.104Z","id":"financial-times-c6bb3387","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:32.569Z","id":"cnbc-74237e53","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:32.814Z","id":"cnbc-31fe661d","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:33.119Z","id":"cnbc-234d065c","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:33.457Z","id":"cnbc-36aae81b","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:33.789Z","id":"cnbc-3f504130","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:34.022Z","id":"marketwatch-a855ef04","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:34.251Z","id":"marketwatch-d2e839f7","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:34.619Z","id":"marketwatch-c41e61bd","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:34.843Z","id":"yahoo-finance-e238d5f6","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:35.091Z","id":"yahoo-finance-2764298d","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:35.311Z","id":"yahoo-finance-8fdfe150","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:35.674Z","id":"yahoo-finance-185c6eb6","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:35.969Z","id":"yahoo-finance-efbb0f5b","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:36.252Z","id":"yahoo-finance-e99dbc1b","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:36.613Z","id":"investing-37feb842","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:37.051Z","id":"investing-2abe7739","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:37.365Z","id":"youtube-f16a7123","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:37.615Z","id":"youtube-923431dd","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:38.046Z","id":"youtube-95981ac9","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:38.354Z","id":"youtube-794b02c8","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:38.642Z","id":"youtube-1ae030f7","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:39.089Z","id":"youtube-b470b260","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:39.328Z","id":"youtube-b68b2d19","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:39.696Z","id":"youtube-4c029f05","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:40.134Z","id":"youtube-c714b535","error":"429 Too Many Requests"}
+{"type":"public_translation_error","at":"2026-10-23T01:43:40.382Z","id":"youtube-17941482","error":"429 Too Many Requests"}
+{"type":"news_report_generated","at":"2026-10-23T01:43:40.388Z","date":"2026-10-23","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

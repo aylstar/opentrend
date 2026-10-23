@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+  "summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a […]",
+  "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+  "publishedAt": "2026-10-22T23:02:43.000Z",
+  "id": "the-verge-8362feea",
+  "slug": "the-verge-8362feea",
+  "content": "Spotify co-CEO Alex Norström confirmed on this week’s earnings call that the company is trying to catch Spotify Family plan users who don’t actually live together with a new QR code verification method that requires scanning the plan manager’s phone. TechCrunch reports that in response to a question about the “crackdown,” he called it a “routine improvement” instead: > This is not as much a crackdown as it is actually a routine improvement of our verification methods for our Family Plan. Family Plan has existed for a long while. It has been around for, I think it is now close to 12, 13 years in Spotify history, and it makes up a pretty significant proportion of our subscriber base. > As such, it is important for us to just make sure over time that we improve the verification methods that we have. There are certainly ways, over time, to find holes around it. As that happens, we figure out how to improve it over time. This is not something that has an end date. This is not an implementation that is going to complete. This is just ongoing routine. This isn’t the first time Spotify has tried to limit sharing Family plans, which it says are only for people living in the same household. The new QR code verification method has forced some users to get creative to stay on their shared Premium subscriptions — the code refreshes every few seconds and anyone who misses the seven-day window to scan it gets banned from joining a different Family or Duo plan for 12 months.",
+  "fetchedAt": "2026-10-23T01:42:42.590Z",
+  "score": 82,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "财经"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Spotify 表示是的，它正在打击人们过于广泛地使用家庭计划共享的行为",
+  "chineseSummary": "Spotify 联合首席执行官 Alex Norström 在本周的财报电话会议上证实，该公司正试图通过一种新的二维码验证方法来吸引那些实际上并不住在一起的 Spotify Family 计划用户，该方法需要扫描计划经理的手机。 TechCrunch 报道称，在回答有关“镇压”的问题时，他称其为 […]",
+  "chineseContent": "Spotify 联合首席执行官 Alex Norström 在本周的财报电话会议上证实，该公司正试图通过一种新的二维码验证方法来吸引那些实际上并不住在一起的 Spotify Family 计划用户，该方法需要扫描计划经理的手机。 TechCrunch 报道称，在回答有关“打击”的问题时，他将其称为“常规改进”： > 这与其说是打击，实际上是对我们家庭计划验证方法的常规改进。家庭计划已经存在很长时间了。它已经存在了，我想现在已经接近 Spotify 历史上的 12、13 年了，它在我们的用户群中占据了相当大的比例。 > 因此，对于我们来说，重要的是要确保随着时间的推移，我们改进现有的验证方法。随着时间的推移，肯定有办法找到它周围的漏洞。当这种情况发生时，我们就会想出如何随着时间的推移改进它。这不是有结束日期的事情。这不是一个即将完成的实施。这只是持续的例行公事。这并不是 Spotify 第一次尝试限制共享家庭计划，该公司表示，该计划仅适用于住在同一家庭的人。新的二维码验证方法迫使一些用户发挥创意，继续使用他们共享的高级订阅——代码每隔几秒钟刷新一次，任何错过 7 天扫描窗口的人都会被禁止在 12 个月内加入其他 Family 或 Duo 计划。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
