@@ -1,0 +1,21 @@
+{
+  "id": "douyin-3671400d3d",
+  "slug": "douyin-树说中国",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 10,
+  "title": "树说中国",
+  "summary": "抖音热榜第 10 位：树说中国，当前热度为 924万热度。",
+  "url": "https://www.douyin.com/search/%E6%A0%91%E8%AF%B4%E4%B8%AD%E5%9B%BD?type=general",
+  "hotValue": "924万热度",
+  "author": "",
+  "publishedAt": "2026-10-24T01:26:43.027Z",
+  "fetchedAt": "2026-10-24T01:46:29.564Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

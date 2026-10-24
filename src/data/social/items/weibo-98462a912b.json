@@ -1,0 +1,21 @@
+{
+  "id": "weibo-98462a912b",
+  "slug": "weibo-s16抽签-内战",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "S16抽签 内战",
+  "summary": "微博热榜第 10 位：S16抽签 内战，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23S16%E6%8A%BD%E7%AD%BE+%E5%86%85%E6%88%98%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-10-24T01:43:59.612Z",
+  "fetchedAt": "2026-10-24T01:46:29.784Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

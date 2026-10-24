@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6c4cef6773",
+  "slug": "weibo-黄多多正式进圈",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "黄多多正式进圈",
+  "summary": "微博热榜第 13 位：黄多多正式进圈，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%9C%88%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-10-24T01:43:59.612Z",
+  "fetchedAt": "2026-10-24T01:46:29.784Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

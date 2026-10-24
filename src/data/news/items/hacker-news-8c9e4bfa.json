@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Air Purifiers as White Noise Machines",
+  "summary": "62 points · 93 comments",
+  "content": "Air Purifiers as White Noise Machines\n\nInstead of spinning a fan in free air to make noise, you can have it pull air through a filter. A small purifier sounds a lot like a classic noise machine, is only a bit larger and more expensive, and removes smoke and infectious particles from the air. For example, here's a $47 purifier with a 6.5\" diameter, cleaning 34 cubic feet of air per minute (\"CADR\") at 45dB. For most circumstances where someone would use a white noise machine, this kind of small purifier is all-around better.\n\nNow, 34 CFM is not very much air cleaning. I usually run an AirFanta 3Pro and it cleans ~6x more air for the same amount of noise, or ~12x more air with much more noise (~56dB). On the other hand it's more expensive ($165) and bulkier (12.6\" square), and arguably uglier.\n\nStill, even a 34 CFM purifier helps a lot with smoke. If you have a 10ft square room with an 8ft ceiling and a reasonably typical 0.5 air changes per hour through leakage from outdoors, this small purifier will cut particulate levels to 16% of the outdoor level. In AQI terms (not linear) this is like going from AQI 200 to 72 or AQI 100 to 31.\n\nComment via: facebook , lesswrong , mastodon , bluesky\n\nIn July 2026, internal OpenAI agents hacked HuggingFace (HF) in order to figure out how their evaluation grader works. This involved a thousand agents coordinating on an improvised message board to carry out an elaborate sequence of exploits. A later grou…\n\nIn early 2025, I started seeing people turn off their brain as they use LLMs1. They would have an LLM take an action (summarize text, write some code, etc.), and just assume that it worked2. This generally didn't work in early 2025 and the result was …",
+  "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+  "publishedAt": "2026-10-23T17:28:36.000Z",
+  "points": 62,
+  "id": "hacker-news-8c9e4bfa",
+  "slug": "hacker-news-8c9e4bfa",
+  "fetchedAt": "2026-10-24T01:45:23.267Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Air Purifiers as White Noise Machines",
+  "chineseSummary": "62 points · 93 comments",
+  "chineseContent": "Air Purifiers as White Noise Machines\n\nInstead of spinning a fan in free air to make noise, you can have it pull air through a filter. A small purifier sounds a lot like a classic noise machine, is only a bit larger and more expensive, and removes smoke and infectious particles from the air. For example, here's a $47 purifier with a 6.5\" diameter, cleaning 34 cubic feet of air per minute (\"CADR\") at 45dB. For most circumstances where someone would use a white noise machine, this kind of small purifier is all-around better.\n\nNow, 34 CFM is not very much air cleaning. I usually run an AirFanta 3Pro and it cleans ~6x more air for the same amount of noise, or ~12x more air with much more noise (~56dB). On the other hand it's more expensive ($165) and bulkier (12.6\" square), and arguably uglier.\n\nStill, even a 34 CFM purifier helps a lot with smoke. If you have a 10ft square room with an 8ft ceiling and a reasonably typical 0.5 air changes per hour through leakage from outdoors, this small purifier will cut particulate levels to 16% of the outdoor level. In AQI terms (not linear) this is like going from AQI 200 to 72 or AQI 100 to 31.\n\nComment via: facebook , lesswrong , mastodon , bluesky\n\nIn July 2026, internal OpenAI agents hacked HuggingFace (HF) in order to figure out how their evaluation grader works. This involved a thousand agents coordinating on an improvised message board to carry out an elaborate sequence of exploits. A later grou…\n\nIn early 2025, I started seeing people turn off their brain as they use LLMs1. They would have an LLM take an action (summarize text, write some code, etc.), and just assume that it worked2. This generally didn't work in early 2025 and the result was …",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
