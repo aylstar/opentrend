@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b67d51df81",
+  "slug": "weibo-厉娜-许飞",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "厉娜 许飞",
+  "summary": "微博热榜第 8 位：厉娜 许飞，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C+%E8%AE%B8%E9%A3%9E%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

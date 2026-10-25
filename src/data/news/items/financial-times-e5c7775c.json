@@ -1,0 +1,24 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Ukraine military says Starlink service restrictions have been lifted",
+  "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+  "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+  "publishedAt": "2026-10-24T21:30:37.000Z",
+  "id": "financial-times-e5c7775c",
+  "slug": "financial-times-e5c7775c",
+  "content": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+  "fetchedAt": "2026-10-25T01:22:09.217Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "全球"
+  ],
+  "rank": 30,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "乌克兰军方表示星链服务限制已取消",
+  "chineseSummary": "无人机通信系统的放缓阻碍了基辅抵御俄罗斯袭击的能力",
+  "chineseContent": "无人机通信系统的放缓阻碍了基辅抵御俄罗斯袭击的能力",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

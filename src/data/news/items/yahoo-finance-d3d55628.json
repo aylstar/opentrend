@@ -1,25 +1,25 @@
 {
   "source": "Yahoo Finance",
   "category": "finance",
-  "originalTitle": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do Amid Mixed Signals",
-  "summary": "Dow Jones futures: The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
+  "originalTitle": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings In Doom-And-Bloom Market",
+  "summary": "The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
   "url": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
-  "publishedAt": "2026-10-23T23:09:22.000Z",
+  "publishedAt": "2026-10-24T15:08:44.000Z",
   "id": "yahoo-finance-d3d55628",
   "slug": "yahoo-finance-d3d55628",
-  "content": "Dow Jones futures: The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
-  "fetchedAt": "2026-10-24T01:45:23.271Z",
+  "content": "The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
+  "fetchedAt": "2026-10-25T01:22:09.211Z",
   "score": 90,
   "sourceWeight": 82,
   "tags": [
     "金融",
     "财经"
   ],
-  "rank": 26,
+  "rank": 9,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do Amid Mixed Signals",
-  "chineseSummary": "Dow Jones futures: The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
-  "chineseContent": "Dow Jones futures: The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "道琼斯期货：微软、谷歌、亚马逊在末日与繁荣市场中引领盈利",
+  "chineseSummary": "标准普尔 500 指数和纳斯达克指数均低于关键水平，但许多非人工智能股票正在发出买入信号。微软、谷歌、亚马逊迫在眉睫。",
+  "chineseContent": "标准普尔 500 指数和纳斯达克指数均低于关键水平，但许多非人工智能股票正在发出买入信号。微软、谷歌、亚马逊迫在眉睫。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
 }

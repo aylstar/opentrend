@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1a26efbf48",
+  "slug": "weibo-t1回应被dk翻盘",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "T1回应被DK翻盘",
+  "summary": "微博热榜第 35 位：T1回应被DK翻盘，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23T1%E5%9B%9E%E5%BA%94%E8%A2%ABDK%E7%BF%BB%E7%9B%98%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

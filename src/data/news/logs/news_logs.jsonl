@@ -5228,3 +5228,19 @@
 {"type":"public_translation_error","at":"2026-10-24T01:46:27.157Z","id":"youtube-b9f5c72d","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-10-24T01:46:27.553Z","id":"youtube-4800ea44","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-10-24T01:46:27.563Z","date":"2026-10-24","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-10-25T01:21:58.299Z","source":"Guardian","url":"https://content.guardianapis.com/search?api-key=test&show-fields=trailText,bodyText,headline&page-size=20&order-by=newest","error":"401 Unauthorized"}
+{"type":"source_error","at":"2026-10-25T01:22:09.199Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:10.883Z","id":"product-hunt-7212586a","source":"Product Hunt","url":"https://www.producthunt.com/products/1password","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:11.223Z","id":"product-hunt-5b226c58","source":"Product Hunt","url":"https://www.producthunt.com/products/sideos-ai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:11.224Z","id":"product-hunt-e4085c14","source":"Product Hunt","url":"https://www.producthunt.com/products/monish","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:11.229Z","id":"product-hunt-b0667b85","source":"Product Hunt","url":"https://www.producthunt.com/products/basedash","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:11.229Z","id":"product-hunt-38e77ec5","source":"Product Hunt","url":"https://www.producthunt.com/products/monid","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:11.268Z","id":"product-hunt-1f6ca90","source":"Product Hunt","url":"https://www.producthunt.com/products/shogunai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:11.270Z","id":"product-hunt-fe1b9f5b","source":"Product Hunt","url":"https://www.producthunt.com/products/instant-search-2","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:12.728Z","id":"investing-39e4cff","source":"Investing","url":"https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:13.322Z","id":"investing-588b0b8","source":"Investing","url":"https://www.investing.com/analysis/the-pain-trade-bites-hard-as-long-ai-short-bonds-comes-apart-at-the-seams-200690117","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:13.344Z","id":"investing-cf9469b8","source":"Investing","url":"https://www.investing.com/analysis/ai-stocks-face-renewed-pressure-as-oil-prices-surge-gold-falls-below-4100-200690155","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:13.353Z","id":"financial-times-a0837286","source":"Financial Times","url":"https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:13.484Z","id":"financial-times-71538321","source":"Financial Times","url":"https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-10-25T01:22:13.496Z","id":"financial-times-e5c7775c","source":"Financial Times","url":"https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8","error":"403 Forbidden"}
+{"type":"news_report_generated","at":"2026-10-25T01:23:34.578Z","date":"2026-10-25","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

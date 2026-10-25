@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2c0f022be2",
+  "slug": "weibo-ig战胜tsw",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "iG战胜TSW",
+  "summary": "微博热榜第 42 位：iG战胜TSW，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CTSW%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

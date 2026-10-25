@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fe0e3ae4b0",
+  "slug": "weibo-李雪健已无法说话",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "李雪健已无法说话",
+  "summary": "微博热榜第 27 位：李雪健已无法说话，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E6%97%A0%E6%B3%95%E8%AF%B4%E8%AF%9D%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

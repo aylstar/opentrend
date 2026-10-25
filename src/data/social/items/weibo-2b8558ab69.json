@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2b8558ab69",
+  "slug": "weibo-al",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "al",
+  "summary": "微博热榜第 45 位：al，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23al%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

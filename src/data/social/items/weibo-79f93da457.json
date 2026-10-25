@@ -1,0 +1,21 @@
+{
+  "id": "weibo-79f93da457",
+  "slug": "weibo-祖海态度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "祖海态度",
+  "summary": "微博热榜第 15 位：祖海态度，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%A5%96%E6%B5%B7%E6%80%81%E5%BA%A6%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

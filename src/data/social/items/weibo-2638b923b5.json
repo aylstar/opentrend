@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2638b923b5",
+  "slug": "weibo-sakee-郭德纲",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 36,
+  "title": "sakee 郭德纲",
+  "summary": "微博热榜第 36 位：sakee 郭德纲，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23sakee+%E9%83%AD%E5%BE%B7%E7%BA%B2%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

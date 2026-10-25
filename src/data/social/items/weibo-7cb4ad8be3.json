@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7cb4ad8be3",
+  "slug": "weibo-hle-gen",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "HLE GEN",
+  "summary": "微博热榜第 7 位：HLE GEN，当前热度为 29万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23HLE+GEN%23",
+  "hotValue": "29万热度",
+  "author": "",
+  "publishedAt": "2026-10-25T01:23:13.173Z",
+  "fetchedAt": "2026-10-25T01:23:36.347Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
