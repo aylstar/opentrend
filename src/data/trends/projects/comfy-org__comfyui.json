@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/Comfy-Org/ComfyUI",
   "docsUrl": "https://www.comfy.org/",
-  "stars": 142362,
-  "forks": 16786,
-  "openIssues": 5335,
+  "stars": 142948,
+  "forks": 16875,
+  "openIssues": 5347,
   "license": "GPL-3.0",
-  "pushedAt": "2026-10-24T00:24:39Z",
-  "updatedAt": "2026-10-24T01:37:46Z",
+  "pushedAt": "2026-10-25T23:41:43Z",
+  "updatedAt": "2026-10-26T01:25:42Z",
   "createdAt": "2023-01-17T03:15:56Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<div align=\"center\">\n\n# ComfyUI\n**The most powerful and modular AI engine for content creation.**\n\n\n[![Website][website-shield]][website-url]\n[![Dynamic JSON Badge][discord-shield]][discord-url]\n[![Twitter][twitter-shield]][twitter-url]\n[![Matrix][matrix-shield]][matrix-url]\n<br>\n[![][github-release-shield]][github-release-link]\n[![][github-release-date-shield]][github-release-link]\n[![][github-downloads-shield]][github-downloads-link]\n[![][github-downloads-latest-shield]][github-downloads-link]\n\n[matrix-shield]: https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white\n[matrix-url]: https://app.element.io/#/room/%23comfyui_space%3Amatrix.org\n[website-shield]: https://img.shields.io/badge/ComfyOrg-4285F4?style=flat\n[website-url]: https://www.comfy.org/\n<!-- Workaround to display total user from https://github.com/badges/shields/issues/4500#issuecomment-2060079995 -->\n[discord-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fcomfyorg%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Discord&color=green&suffix=%20total\n[discord-url]: https://discord.com/invite/comfyorg\n[twitter-shield]: https://img.shields.io/twitter/follow/ComfyUI\n[twitter-url]: https://x.com/ComfyUI\n\n[github-release-shield]: https://img.shields.io/github/v/release/comfyanonymous/ComfyUI?style=flat&sort=semver\n[github-release-link]: https://github.com/comfyanonymous/ComfyUI/releases\n[github-release-date-shield]: https://img.shields.io/github/release-date/comfyanonymous/ComfyUI?style=flat\n[github-downloads-shield]: https://img.shields.io/github/downloads/comfyanonymous/ComfyUI/total?style=flat\n[github-downloads-latest-shield]: https://img.shields.io/github/downloads/comfyanonymous/ComfyUI/latest/total?style=flat&label=downloads%40latest\n[github-downloads-link]: https://github.com/comfyanonymous/ComfyUI/releases\n\n<img width=\"1590\" height=\"795\" alt=\"ComfyUI Screenshot\" src=\"https://github.com/user-attachments/assets/36e065e0-bfae-4456-8c7f-8369d5ea48a2\" />\n<br>\n</div>\n\nComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more...\n- ComfyUI natively supports the latest open-source state of the art models.\n- It is by far the most optimized inference engine for diffusion models in the world with a focus on local consumer hardware.\n- Can run even the biggest open source models on as low as 4GB vram + 8GB ram relatively quickly (saturating your GPU compute) using our state of the art asynchronous weight streaming technology.\n- [Partner nodes](https://docs.comfy.org/tutorials/partner-nodes/overview#partner-nodes) provide access to the best closed source models such as Nano Banana, Seedance, Hunyuan3D, etc.\n- It is available on Windows, Linux, and macOS, locally with our [desktop applicati",
-  "generatedAt": "2026-10-24T01:45:07.751Z",
+  "generatedAt": "2026-10-26T01:25:54.748Z",
   "analysis": {
     "oneLine": "ComfyUI 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "ComfyUI 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，ComfyUI 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 142,362，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ComfyUI 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 142,948，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

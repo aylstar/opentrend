@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "r/opensource just banned AI, non-English speakers, and more",
+  "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "publishedAt": "2026-10-25T13:25:32.000Z",
+  "id": "the-verge-9b55117",
+  "slug": "the-verge-9b55117",
+  "content": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.” The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there’s nuance and room for selective enforcement, such as “software that incidentally has accessibility features that use AI,” including automatic captioning. But that hasn’t slowed complaints from the community who feel the new rules are too broad, misguided, or vague. Many have pointed out that the Linux kernel now contains some AI-generated code, and so projects using it could be banned under the new rules. While the AI ban is getting most of the attention, mods are placing other restrictions on posts as well. Projects submitted must be at least one year old, actively maintained, and have multiple contributors. That would bar solo developers with new projects from looking for help. The mods even say “we can no longer field requests asking for maintainers or people to contribute.” The mods also effectively banned any non-English-speaking members of the community. “If you don’t speak English, you need to find a different community,” the post reads. “We cannot distinguish between AI-written and AI-translated. Since you don’t speak English, you can’t even verify yourself if it translated correctly.” [Media: https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/]",
+  "fetchedAt": "2026-10-26T01:26:08.892Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "r/opensource just banned AI, non-English speakers, and more",
+  "chineseSummary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+  "chineseContent": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.” The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource. Moderator Wolvereness has waded into the comments to explain that there’s nuance and room for selective enforcement, such as “software that incidentally has accessibility features that use AI,” including automatic captioning. But that hasn’t slowed complaints from the community who feel the new rules are too broad, misguided, or vague. Many have pointed out that the Linux kernel now contains some AI-generated code, and so projects using it could be banned under the new rules. While the AI ban is getting most of the attention, mods are placing other restrictions on posts as well. Projects submitted must be at least one year old, actively maintained, and have multiple contributors. That would bar solo developers with new projects from looking for help. The mods even say “we can no longer field requests asking for maintainers or people to contribute.” The mods also effectively banned any non-English-speaking members of the community. “If you don’t speak English, you need to find a different community,” the post reads. “We cannot distinguish between AI-written and AI-translated. Since you don’t speak English, you can’t even verify yourself if it translated correctly.” [Media: https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/]",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

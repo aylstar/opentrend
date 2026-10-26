@@ -1,0 +1,21 @@
+{
+  "id": "weibo-46bca64778",
+  "slug": "weibo-武契奇承认败选",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "武契奇承认败选",
+  "summary": "微博热榜第 1 位：武契奇承认败选，当前热度为 134万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%89%BF%E8%AE%A4%E8%B4%A5%E9%80%89%23",
+  "hotValue": "134万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

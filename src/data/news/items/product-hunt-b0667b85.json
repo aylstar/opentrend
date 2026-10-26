@@ -8,17 +8,17 @@
   "id": "product-hunt-b0667b85",
   "slug": "product-hunt-b0667b85",
   "content": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link",
-  "fetchedAt": "2026-10-25T01:22:09.209Z",
+  "fetchedAt": "2026-10-26T01:26:08.892Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 10,
+  "rank": 11,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Basedash 计划 CSV 导出",
-  "chineseSummary": "问一次。每周在 Slack 或电子邮件中获取新的 CSV。讨论 |关联",
-  "chineseContent": "问一次。每周在 Slack 或电子邮件中获取新的 CSV。讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Basedash Scheduled CSV Exports",
+  "chineseSummary": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link",
+  "chineseContent": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

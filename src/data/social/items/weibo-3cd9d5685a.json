@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3cd9d5685a",
+  "slug": "weibo-巴西大选",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "巴西大选",
+  "summary": "微博热榜第 48 位：巴西大选，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%80%89%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

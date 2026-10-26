@@ -8,18 +8,18 @@
   "id": "product-hunt-5b226c58",
   "slug": "product-hunt-5b226c58",
   "content": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
-  "fetchedAt": "2026-10-25T01:22:09.209Z",
+  "fetchedAt": "2026-10-26T01:26:08.892Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 9,
+  "rank": 12,
   "contentStatus": "fetch-failed",
   "chineseTitle": "sideOS.ai",
-  "chineseSummary": "用于听写、会议、后台任务等的本地人工智能关联",
-  "chineseContent": "用于听写、会议、后台任务等的本地人工智能关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseSummary": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
+  "chineseContent": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

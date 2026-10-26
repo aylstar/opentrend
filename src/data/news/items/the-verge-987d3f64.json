@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+  "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
+  "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+  "publishedAt": "2026-10-25T21:40:27.000Z",
+  "id": "the-verge-987d3f64",
+  "slug": "the-verge-987d3f64",
+  "content": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo’s folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it’s the best score the site has given to a foldable yet. The internal screen’s matte nano-texture cover doesn’t just make it more readable in bright sunlight; it also helps mask the crease by scattering reflections. When looking at the display under a microscope, iFixit also found oval-shaped subpixels arranged at various angles, which the site believes are designed to reduce artifacts and further mask the crease down the middle of the display. [Media: https://youtu.be/WOVIjFnivJA] The nano-texture outer layer is relatively easy to replace without swapping out the OLED underneath. If you do need to repair the display itself, however, good luck. As is the case with other foldables, it’s an expensive nightmare. Dust did make it into the USB-C port, speaker grills, and the hinge — making it a bit crunchy. But noticeably less of the glow dust found its way inside the phone than the Z Fold8 or Pixel 11 Pro Fold. As for reports of damaged screens and cracking hinges, iFixit has some theories. The hinge on the iPhone Duo is incredibly complex, and they suspect part of it sometimes isn’t descending properly. There is also an accordion cable that passes over that exact spot, and it’s near the edge of the battery. It’s possible this is concentrating pressure and leading to the “audible crack” reported by some and the broken screens. Apple did not immediately return a request for comment.",
+  "fetchedAt": "2026-10-26T01:26:08.892Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+  "chineseSummary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
+  "chineseContent": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo’s folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it’s the best score the site has given to a foldable yet. The internal screen’s matte nano-texture cover doesn’t just make it more readable in bright sunlight; it also helps mask the crease by scattering reflections. When looking at the display under a microscope, iFixit also found oval-shaped subpixels arranged at various angles, which the site believes are designed to reduce artifacts and further mask the crease down the middle of the display. [Media: https://youtu.be/WOVIjFnivJA] The nano-texture outer layer is relatively easy to replace without swapping out the OLED underneath. If you do need to repair the display itself, however, good luck. As is the case with other foldables, it’s an expensive nightmare. Dust did make it into the USB-C port, speaker grills, and the hinge — making it a bit crunchy. But noticeably less of the glow dust found its way inside the phone than the Z Fold8 or Pixel 11 Pro Fold. As for reports of damaged screens and cracking hinges, iFixit has some theories. The hinge on the iPhone Duo is incredibly complex, and they suspect part of it sometimes isn’t descending properly. There is also an accordion cable that passes over that exact spot, and it’s near the edge of the battery. It’s possible this is concentrating pressure and leading to the “audible crack” reported by some and the broken screens. Apple did not immediately return a request for comment.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

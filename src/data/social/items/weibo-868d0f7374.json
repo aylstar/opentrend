@@ -1,0 +1,21 @@
+{
+  "id": "weibo-868d0f7374",
+  "slug": "weibo-钟文泽-控制变量",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "钟文泽 控制变量",
+  "summary": "微博热榜第 50 位：钟文泽 控制变量，当前热度为 12万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%96%87%E6%B3%BD+%E6%8E%A7%E5%88%B6%E5%8F%98%E9%87%8F%23",
+  "hotValue": "12万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

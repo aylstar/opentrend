@@ -1,0 +1,21 @@
+{
+  "id": "weibo-11b7eeca05",
+  "slug": "weibo-f1",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 39,
+  "title": "F1",
+  "summary": "微博热榜第 39 位：F1，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23F1%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

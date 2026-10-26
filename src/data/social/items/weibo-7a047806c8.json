@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7a047806c8",
+  "slug": "weibo-韩网热议tes胜g2",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "韩网热议TES胜G2",
+  "summary": "微博热榜第 38 位：韩网热议TES胜G2，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AETES%E8%83%9CG2%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

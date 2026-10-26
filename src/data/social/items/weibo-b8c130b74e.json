@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b8c130b74e",
+  "slug": "weibo-ig战胜hle",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "iG战胜HLE",
+  "summary": "微博热榜第 24 位：iG战胜HLE，当前热度为 30万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CHLE%23",
+  "hotValue": "30万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

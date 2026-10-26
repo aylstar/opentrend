@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b5e9c5a642",
+  "slug": "weibo-巴西总统卢拉赢得连任",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 4,
+  "title": "巴西总统卢拉赢得连任",
+  "summary": "微博热榜第 4 位：巴西总统卢拉赢得连任，当前热度为 51万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%8D%A2%E6%8B%89%E8%B5%A2%E5%BE%97%E8%BF%9E%E4%BB%BB%23",
+  "hotValue": "51万热度",
+  "author": "",
+  "publishedAt": "2026-10-26T01:26:17.963Z",
+  "fetchedAt": "2026-10-26T01:26:48.415Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
