@@ -1,0 +1,21 @@
+{
+  "id": "weibo-f2b8c70df3",
+  "slug": "weibo-ios27-2",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "iOS27.2",
+  "summary": "微博热榜第 16 位：iOS27.2，当前热度为 45万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23iOS27.2%23",
+  "hotValue": "45万热度",
+  "author": "",
+  "publishedAt": "2026-10-27T02:11:22.510Z",
+  "fetchedAt": "2026-10-27T02:14:42.618Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

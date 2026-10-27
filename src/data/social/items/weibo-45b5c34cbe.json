@@ -1,0 +1,21 @@
+{
+  "id": "weibo-45b5c34cbe",
+  "slug": "weibo-金球奖排名",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "金球奖排名",
+  "summary": "微博热榜第 1 位：金球奖排名，当前热度为 113万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%90%83%E5%A5%96%E6%8E%92%E5%90%8D%23",
+  "hotValue": "113万热度",
+  "author": "",
+  "publishedAt": "2026-10-27T02:11:22.510Z",
+  "fetchedAt": "2026-10-27T02:14:42.618Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

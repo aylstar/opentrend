@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The RealReal won’t let AI agents hog designer clothing",
+  "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]",
+  "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+  "publishedAt": "2026-10-26T17:30:55.000Z",
+  "id": "the-verge-4539679e",
+  "slug": "the-verge-4539679e",
+  "content": "The RealReal, a secondhand luxury fashion consignment retailer, said it’s updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal’s item reserve system. On the retailer’s website, an item goes “on hold” and is unavailable for other customers to buy for 20 minutes once it’s placed in a user’s shopping cart. Using Meta’s Muse, The Verge was able to instruct the AI agent to continuously re-add The RealReal listings in a shopping cart as soon as the 20-minute hold had expired, effectively blocking other shoppers from purchasing products for hours or longer. After publication, chief technology officer Luke Friang said in an email that the company had addressed the Muse use case flagged by The Verge’s story. The RealReal’s bot defense configuration now makes it much more difficult for all agents to log in, add items to cart, and check out, Friang said. Agents will still be able to surface listings from The RealReal and direct Muse users to product pages, Friang said, adding that the company will continue to strengthen protections as AI-powered online shopping evolves. Meta didn’t immediately respond to a request for comment. [Media: https://bsky.app/profile/miasato.bsky.social/post/3myhrm5myek2k] Technology companies are selling agents as personalized assistants for billions of people — always-on, compliant entities that will schedule meetings, throw parties, and purchase things for human users. So far, agents and shopping seem to go hand in hand; Meta said in its Q3 earnings call this month that it was the most common use case for Muse so far, and that purchases were over $200 on average. Muse has been a hit for Meta and could signal a turning point for AI agents: The company said 10 million people in the US had downloaded the app in 40 days. But robots shopping for things instead of humans has the potential to upend the balance of the web as we know it. For one, if humans stop visiting websites directly and instead access the web through chatbots, businesses become one step removed from their customers. Retailers — most notably Amazon — have recognized that reality could disrupt their bottom line, especially advertising revenue, and have blocked agents from shopping on their sites. An influx of AI agents accessing consumer platforms could also break or complicate even the most unexpected things shoppers take for granted, like the reserve system of a used clothing website. There is, of course, a realistic limit to how long a person is willing to spend adding and re-adding designer clothing to their shopping cart if they’re indecisive. An agent in contrast does not care. It is perhaps precisely the type of busywork a fashion-forward person might pay an actual personal assistant to do on their behalf. Now, a capability like this is at the fingertips of millions of consumers, and they are just beginning to learn how to take advantage of it. Retailers, too, are playing catch-up.",
+  "fetchedAt": "2026-10-27T02:13:40.596Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "The RealReal 不会让 AI 代理霸占名牌服装",
+  "chineseSummary": "二手奢侈品时尚寄售零售商 The RealReal 表示，它正在更新其机器人防御系统，这实际上使人工智能代理更难在其网站上购物。这一变化是在 The Verge 报道人工智能代理可用于利用 The RealReal 的物品储备系统几天后发生的。在零售商的网站上，[...]",
+  "chineseContent": "二手奢侈时尚寄售零售商 The RealReal 表示，它正在更新其机器人防御系统，这实际上使人工智能代理更难在其网站上购物。这一变化是在 The Verge 报道人工智能代理可用于利用 The RealReal 的物品储备系统几天后发生的。在零售商的网站上，商品一旦放入用户的购物车，就会“暂停”，其他顾客在 20 分钟内无法购买。使用 Meta 的 Muse，The Verge 能够指示 AI 代理在 20 分钟保留期满后不断地将 The RealReal 商品重新添加到购物车中，从而有效地阻止其他购物者在数小时或更长时间内购买产品。文章发表后，首席技术官 Luke Friang 在一封电子邮件中表示，该公司已经解决了 The Verge 报道中标记的 Muse 用例。 Friang 说，RealReal 的机器人防御配置现在使所有代理登录、将商品添加到购物车和结账变得更加困难。 Friang 表示，代理商仍将能够显示 The RealReal 的列表，并将 Muse 用户引导至产品页面，并补充说，随着人工智能在线购物的发展，该公司将继续加强保护。 Meta 没有立即回应置评请求。 [媒体：https://bsky.app/profile/miasato.bsky.social/post/3myhrm5myek2k] 科技公司正在销售作为数十亿人个性化助理的代理——永远在线、合规的实体，为人类用户安排会议、举办派对和购买东西。到目前为止，代理和购物似乎是齐头并进的。 Meta 在本月的第三季度财报电话会议上表示，这是迄今为止 Muse 最常见的用例，平均购买量超过 200 美元。 Muse 受到 Meta 和 cou 的欢迎",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

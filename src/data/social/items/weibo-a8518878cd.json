@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a8518878cd",
+  "slug": "weibo-爱笑-al",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "爱笑 AL",
+  "summary": "微博热榜第 44 位：爱笑 AL，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%AC%91+AL%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-10-27T02:11:22.510Z",
+  "fetchedAt": "2026-10-27T02:14:42.618Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

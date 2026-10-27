@@ -1,0 +1,21 @@
+{
+  "id": "weibo-caf8ff4bf3",
+  "slug": "weibo-hope-al",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "Hope AL",
+  "summary": "微博热榜第 6 位：Hope AL，当前热度为 69万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Hope+AL%23",
+  "hotValue": "69万热度",
+  "author": "",
+  "publishedAt": "2026-10-27T02:11:22.510Z",
+  "fetchedAt": "2026-10-27T02:14:42.618Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,25 +1,24 @@
 {
   "source": "Bloomberg",
   "category": "finance",
-  "originalTitle": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips",
-  "summary": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips &nbsp;&nbsp; Bloomberg.com",
+  "originalTitle": "Musk Claims $40 Billion Chips Debt Closed, Yet Talks Ongoing",
+  "summary": "Musk Claims $40 Billion Chips Debt Closed, Yet Talks Ongoing &nbsp;&nbsp; Bloomberg.com",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVAyZmZTRzViZmxwNzRUSGd5MXpWNlRFLWlzT3RBMWx2cUhhaFhXUGRHeHRjam9LUldoZUpJNnVyTk9JcGdzVC1FTzNhQWVnWUJlV2hEZ1lFRzR6aE1TWXFiUG1tYWF1c3FjX00tX3FoMXk5bUtrNm1Sd2k3QTd1b0dYUUlhbHBJRDRabHg5VmdyLTV5TXRtZ1ZMWmJIeF9iYWh5T1dqMUZYbkF0ZlVBaWtn?oc=5",
-  "publishedAt": "2026-10-25T22:38:58.000Z",
+  "publishedAt": "2026-10-26T03:54:00.000Z",
   "id": "bloomberg-ed6b08d7",
   "slug": "bloomberg-ed6b08d7",
-  "content": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips &nbsp;&nbsp; Bloomberg.com",
-  "fetchedAt": "2026-10-26T01:26:08.897Z",
+  "content": "Musk Claims $40 Billion Chips Debt Closed, Yet Talks Ongoing &nbsp;&nbsp; Bloomberg.com",
+  "fetchedAt": "2026-10-27T02:13:40.602Z",
   "score": 90,
   "sourceWeight": 95,
   "tags": [
-    "AI",
     "全球"
   ],
-  "rank": 1,
+  "rank": 4,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips",
-  "chineseSummary": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips &nbsp;&nbsp; Bloomberg.com",
-  "chineseContent": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips &nbsp;&nbsp; Bloomberg.com",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "马斯克声称已结清 400 亿美元筹码债务，但谈判仍在进行中",
+  "chineseSummary": "马斯克声称已结清 400 亿美元筹码债务，但谈判仍在继续 Bloomberg.com",
+  "chineseContent": "马斯克声称已结清 400 亿美元筹码债务，但谈判仍在继续 Bloomberg.com",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
 }

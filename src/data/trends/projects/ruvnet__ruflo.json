@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/ruvnet/ruflo",
   "docsUrl": "https://Cognitum.One",
-  "stars": 79287,
-  "forks": 9306,
-  "openIssues": 986,
+  "stars": 79562,
+  "forks": 9344,
+  "openIssues": 985,
   "license": "MIT",
-  "pushedAt": "2026-10-25T23:12:50Z",
-  "updatedAt": "2026-10-26T01:18:42Z",
+  "pushedAt": "2026-10-27T00:39:20Z",
+  "updatedAt": "2026-10-27T02:12:38Z",
   "createdAt": "2025-06-02T21:24:20Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n<a href=\"https://cognitum.one/agentic-engineering\"><img src=\"ruflo/assets/ruflo-neon-flicker.gif\" alt=\"Ruflo animated neon sign\" width=\"100%\"></a>\n\n**An agent meta-harness for Claude Code and Codex.**\n\n<!-- Try Ruflo — the 3 badges first-time visitors actually act on -->\n[![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/ruflo)\n[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)\n[![Star on GitHub](https://img.shields.io/github/stars/ruvnet/claude-flow?style=for-the-badge&logo=github&color=gold)](https://github.com/ruvnet/claude-flow)\n[![Follow @rUv on X](https://img.shields.io/badge/Follow-@rUv-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rUv)\n\n<p align=\"center\">\n<a href=\"docs/harness-origins.md\"><img src=\"https://raw.githubusercontent.com/ruvnet/ruflo/e69e4b95aa08d65ea0f7715489bbf8e62a83a0d2/docs/assets/readme/badges/first-commit.svg\" width=\"300\" height=\"76\" alt=\"Claude Flow lineage: first commit June 2, 2025 by rUv; inspect the evidence\"></a>\n<a href=\"data/npm-downloads.latest.json\"><img src=\"https://raw.githubusercontent.com/ruvnet/ruflo/275aff65a198af758923669acff36f03d1f41623/docs/assets/readme/badges/downloads.svg\" width=\"300\" height=\"76\" alt=\"Illustrative download counter starts at 98,000,000 and adds varied amounts each second in a 30 second loop. Verified dataset: 97,022,120 download events.\"></a>\n<br>\n<a href=\"https://github.com/ruvnet/claude-flow\"><img src=\"https://raw.githubusercontent.com/ruvnet/ruflo/d1e80400bdefe01d3b13e70395f88fffab76bb18/docs/assets/readme/badges/claude.svg\" width=\"300\" height=\"76\" alt=\"Claude Code plugin\"></a>\n<a href=\"https://www.npmjs.com/package/@claude-flow/codex\"><img src=\"https://raw.githubusercontent.com/ruvnet/ruflo/d1e80400bdefe01d3b13e70395f88fffab76bb18/docs/assets/readme/badges/codex.svg\" width=\"300\" height=\"76\" alt=\"Codex plugin\"></a>\n<a href=\"https://chatgpt.com/plugins/plugin_asdk_app_6ab674ff53c48191bb37040c343e31f3\"><img src=\"docs/assets/readme/badges/chatgpt.svg\" width=\"300\" height=\"76\" alt=\"ChatGPT plugin: RuFlo Federation\"></a>\n</p>\n\n</div>\n\n<a id=\"start-here\"></a>\n\n## <img src=\"docs/assets/readme/icons/terminal.svg\" width=\"32\" height=\"32\" alt=\"\"> Get started with Ruflo\n\n<img src=\"docs/assets/readme/icons/plugins.svg\" width=\"28\" height=\"28\" alt=\"\"> **Start in Claude Code** with core tools, the visual console and runtime mods. Requires Claude Code **2.1.287 or later**. Run inside Claude Code:\n\n```text\n/plugin marketplace add ruvnet/ruflo\n/plugin install ruflo-core@ruflo\n/plugin install ruflo-console@ruflo\n/plugin install ruflo-mods@ruflo\n/reload-plugins\n/ruflo\n```\n\n**Core** provides foundation tools. **Console** opens the agent cockpit. **Mods** add routing and policy enforcement inside Claude Code. Mods run with your account's permissions; review their code before installing.\n\n<img ",
-  "generatedAt": "2026-10-26T01:25:50.591Z",
+  "generatedAt": "2026-10-27T02:13:25.154Z",
   "analysis": {
     "oneLine": "ruflo 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
     "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
     "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
     "detailParagraphs": [
       "ruflo 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
-      "如果把它放进实际使用场景，ruflo 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 79,287，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ruflo 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 79,562，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

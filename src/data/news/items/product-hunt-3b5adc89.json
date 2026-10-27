@@ -8,7 +8,7 @@
   "id": "product-hunt-3b5adc89",
   "slug": "product-hunt-3b5adc89",
   "content": "One local AI server for all your Windows apps Discussion | Link",
-  "fetchedAt": "2026-10-26T01:26:08.891Z",
+  "fetchedAt": "2026-10-27T02:13:40.594Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
@@ -16,11 +16,11 @@
     "科技",
     "全球"
   ],
-  "rank": 9,
+  "rank": 12,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Llama Windows",
-  "chineseSummary": "One local AI server for all your Windows apps Discussion | Link",
-  "chineseContent": "One local AI server for all your Windows apps Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "呼叫窗口",
+  "chineseSummary": "一台本地 AI 服务器可用于您的所有 Windows 应用程序关联",
+  "chineseContent": "一台本地 AI 服务器可用于您的所有 Windows 应用程序关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

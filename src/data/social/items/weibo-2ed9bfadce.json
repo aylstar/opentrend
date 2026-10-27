@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2ed9bfadce",
+  "slug": "weibo-bigwei连续两年16强",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "Bigwei连续两年16强",
+  "summary": "微博热榜第 10 位：Bigwei连续两年16强，当前热度为 63万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Bigwei%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B416%E5%BC%BA%23",
+  "hotValue": "63万热度",
+  "author": "",
+  "publishedAt": "2026-10-27T02:11:22.510Z",
+  "fetchedAt": "2026-10-27T02:14:42.618Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

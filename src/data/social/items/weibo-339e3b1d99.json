@@ -1,0 +1,21 @@
+{
+  "id": "weibo-339e3b1d99",
+  "slug": "weibo-al淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 40,
+  "title": "AL淘汰",
+  "summary": "微博热榜第 40 位：AL淘汰，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23AL%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-10-27T02:11:22.510Z",
+  "fetchedAt": "2026-10-27T02:14:42.618Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
