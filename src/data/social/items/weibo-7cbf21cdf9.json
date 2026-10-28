@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7cbf21cdf9",
+  "slug": "weibo-2027鹅厂片单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "2027鹅厂片单",
+  "summary": "微博热榜第 2 位：2027鹅厂片单，当前热度为 94万热度。",
+  "url": "https://s.weibo.com/weibo?q=%232027%E9%B9%85%E5%8E%82%E7%89%87%E5%8D%95%23",
+  "hotValue": "94万热度",
+  "author": "",
+  "publishedAt": "2026-10-28T02:21:05.863Z",
+  "fetchedAt": "2026-10-28T02:29:52.270Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

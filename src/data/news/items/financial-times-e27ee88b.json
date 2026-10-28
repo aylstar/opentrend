@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "SK Hynix profits soar amid roaring AI chip demand",
+  "summary": "South Korean group posts better than expected operating profit for third quarter and announces stock buybacks",
+  "url": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+  "publishedAt": "2026-10-28T01:15:00.000Z",
+  "id": "financial-times-e27ee88b",
+  "slug": "financial-times-e27ee88b",
+  "content": "South Korean group posts better than expected operating profit for third quarter and announces stock buybacks",
+  "fetchedAt": "2026-10-28T02:28:48.631Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 12,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "AI 芯片需求旺盛，SK海力士利润飙升",
+  "chineseSummary": "韩国集团第三季度营业利润好于预期并宣布股票回购",
+  "chineseContent": "韩国集团第三季度营业利润好于预期并宣布股票回购",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

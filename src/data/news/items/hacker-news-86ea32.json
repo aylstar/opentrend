@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Amazon Is Gutting Its AI Division After Sustained Failure",
+  "summary": "276 points · 195 comments",
+  "content": "By now, you’d be hard pressed to find anyone who isn’t broadly familiar with the AI heavyweights and their flagship models. OpenAI has ChatGPT, Anthropic has Claude, Google has Gemini. But what does Amazon have?\n\nNot a whole lot, it turns out. Unlike its competitors in the tech megacorp scene, Amazon’s standout AI model — organized under the name “Nova” — is about the farthest thing from a household name. And that’s not likely to change anytime soon, because the ecommerce giant is now gutting its in-house AI labs, Bloomberg reports .\n\nPer the outlet, Amazon is scaling back the ambitions of most of its Nova AI models and reorganizing its AI development teams as part of an effort to narrow its focus on “highest priority” goals, after its power-hungry large language models turned out to be a bust.\n\nAccordingly, the company has put most of its AI models on ice, Amazon insiders told Bloomberg . This includes its text-based Nova models, as well as video- and image-generating models, all of which have been placed in a state of “keep the lights on,” meaning they’re technically still supported, but only receive the bare minimum resources needed to sustain them.\n\nInstead, labor and computing power are being diverted toward a singular “frontier-model effort” led by Pieter Abbeel, director of the Berkeley Robot Learning Lab whose robotics company Covariant was hoovered up by Amazon in 2024. At the time Abbeel joined the tech giant, Covariant’s founders were working on AI models for robots, which lines up pretty well with Amazon’s push to automate everything it possibly can.\n\nNews of the shift in Amazon’s strategic focus comes a week after it closed one of its key AI offices in San Francisco, an 80-person site specializing in research on artificial general intelligence, the supposed next-level of AI development where the tech obtains human-level intelligence and reasoning skills.\n\nWith urgent questions swirling over whether LLMs can ever usher in a return on investment — let alone AGI — it may be that Amazon is jumping out of the AI hype cycle while it still can.\n\nMore on Amazon: Amazon’s AI-Generated Animated Series Canceled After Relentless Derision",
+  "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+  "publishedAt": "2026-10-27T16:25:30.000Z",
+  "points": 276,
+  "id": "hacker-news-86ea32",
+  "slug": "hacker-news-86ea32",
+  "fetchedAt": "2026-10-28T02:28:48.621Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "亚马逊在持续失败后正在剥离其 AI 部门",
+  "chineseSummary": "276 分 · 195 条评论",
+  "chineseContent": "到目前为止，你很难找到不广泛熟悉人工智能重量级人物及其旗舰模型的人。 OpenAI 有 ChatGPT，Anthropic 有 Claude，Google 有 Gemini。但亚马逊有什么？\n\n事实证明，并不是很多。与科技巨头中的竞争对手不同，亚马逊出色的人工智能模型——以“Nova”为名——距离家喻户晓还差得很远。据彭博社报道，这种情况不太可能很快改变，因为这家电子商务巨头现在正在拆除其内部人工智能实验室。\n\n据该媒体报道，在其耗电的大型语言模型被证明失败后，亚马逊正在缩减其大部分 Nova AI 模型的雄心，并重组其 AI 开发团队，以将其重点缩小到“最优先”目标上。\n\n亚马逊内部人士告诉彭博社，因此，该公司已将其大部分人工智能模型搁置。这包括基于文本的 Nova 模型，以及视频和图像生成模型，所有这些模型都处于“保持亮灯”状态，这意味着它们在技术上仍然受到支持，但只获得维持它们所需的最低限度资源。\n\n相反，劳动力和计算能力正被转移到由伯克利机器人学习实验室主任 Pieter Abbeel 领导的单一“前沿模型工作”上，他的机器人公司 Covariant 于 2024 年被亚马逊收购。Abbeel 加入这家科技巨头时，Covariant 的创始人正在研究机器人的人工智能模型，这与亚马逊推动一切可能的自动化的努力非常吻合。\n\n亚马逊战略重心发生转变的消息传出一周前，该公司关闭了位于旧金山的一个主要人工智能办公室，该办公室有 80 名员工，专门从事通用人工智能研究，所谓的人工智能发展的下一个阶段，该技术将获得人类水平的智能和推理技能。\n\n随着法学硕士能否带来投资回报这一紧迫问题——更不用说 AGI 了——亚马逊可能正在跳出人工智能炒作周期，而它仍然可以。\n\n有关亚马逊的更多信息：亚马逊人工智能生成的动画系列在无情的嘲笑后被取消",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

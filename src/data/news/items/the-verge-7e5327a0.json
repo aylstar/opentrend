@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
+  "summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" however Ukrainian officials have denied that happened, or that it […]",
+  "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+  "publishedAt": "2026-10-27T19:24:06.000Z",
+  "id": "the-verge-7e5327a0",
+  "slug": "the-verge-7e5327a0",
+  "content": "Elon Musk claims Ukraine violated Starlink’s terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” however Ukrainian officials have denied that happened, or that it is actually possible for them to do. The statement comes nearly two weeks after Ukrainian officials accused SpaceX of putting limits on the military’s satellite internet service that disrupted its drone missions and operations. As reported by Axios, Ukraine uses Starlink for communications, logistics, and to defend against incoming drones. For offensive missions, officials say that Ukraine uses Starshield, the US military-controlled variant of Starlink. Musk points to a post from Ukrainian President Volodymyr Zelenskyy, which said Ukraine uses “Starlink from mid-range strikes against enemy military targets,” in violation of Starlink’s policies. However, Serhii Beskrestnov, a defense technology advisor for Zelenskyy, pushed back on this in a post on Telegram, saying Starlink’s systems can only connect to devices traveling between 70 and 90 kilometers per hour (around 43 and 55 miles per hour) and don’t work in Russia. “Therefore, we physically cannot use commercial Starlink for deep strikes or medium-range strikes,” Beskrestnov wrote. Ars Technica also points out a tweet from another former Ukrainian advisor, Serhii Sternenko, that went into more detail, saying that while stationary terminals could be registered (with Starlink) by military personnel or civilians, “for any satellite terminal to work while on the move, it had to be added to a special list and connected to the military Starshield system… In other words, using civilian Starlink for drone missions was technically impossible. All drone missions that required satellite communication could only be carried out using Starshield.” Zelenskyy said on Saturday that Starlink and Starshield services had been fully restored. With the restriction lifted, Ukraine’s military can now connect to devices traveling at speeds of more than 400km/h (248mph), the Kyiv Independent reports. Though Musk initially offloaded the blame for the slowdown in Ukraine onto the US government, President Donald Trump responded by saying he “wasn’t involved” and didn’t know who throttled SpaceX’s services. A report from The Wall Street Journal later said Trump asked Musk to lift restrictions on Ukraine.",
+  "fetchedAt": "2026-10-28T02:28:48.623Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "埃隆·马斯克称乌克兰军方违反了星链服务条款",
+  "chineseSummary": "据 Ars Technica 早些时候报道，埃隆·马斯克声称乌克兰在最近的速度放缓之前违反了星链的服务条款。据马斯克称，“乌克兰军方违反了星链服务条款，并将其用于进攻性无人机袭击以杀人。该漏洞已于上周被堵住，”但乌克兰官员否认发生过这种情况，或者说它[…]",
+  "chineseContent": "据 Ars Technica 早些时候报道，埃隆·马斯克声称乌克兰在最近的速度放缓之前违反了星链的服务条款。据马斯克称，“乌克兰军方违反了星链服务条款，并将其用于进攻性无人机袭击以杀人。该漏洞已于上周被堵住。”但乌克兰官员否认发生过这种情况，或者说他们实际上有可能这样做。近两周前，乌克兰官员指责 SpaceX 对军方卫星互联网服务施加限制，扰乱了其无人机任务和运营。据 Axios 报道，乌克兰利用星链进行通信、后勤以及防御来袭无人机。官员称，乌克兰使用“星盾”（Starshield）执行进攻任务，这是美国军方控制的“星链”变体。马斯克指出，乌克兰总统弗拉基米尔·泽连斯基 (Volodymyr Zelenskyy) 发帖称，乌克兰使用“星链技术对敌方军事目标进行中程打击”，这违反了星链政策。然而，泽连斯基的国防技术顾问谢尔希·贝斯克雷斯特诺夫(Serhii Beskrestnov)在 Telegram 上发帖反驳了这一说法，称星链系统只能连接到时速 70 至 90 公里（约 43 至 55 英里/小时）的设备，并且无法在俄罗斯运行。 “因此，我们实际上无法使用商业星链进行深度打击或中程打击，”贝斯克雷斯诺夫写道。 Ars Technica 还指出了另一位前乌克兰顾问 Serhii Sternenko 的推文，该推文更详细地表示，虽然固定终端可以由军事人员或平民注册（通过星链），“为了让任何卫星终端在移动时工作，必须将其添加到特殊列表中并连接到军用星盾系统……换句话说，我们",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

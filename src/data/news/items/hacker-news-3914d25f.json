@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Wikipedia's Cleanup of AI-Generated Content",
+  "summary": "458 points · 211 comments",
+  "content": "AI-generated text is harder to spot, but that hasn’t deterred them\n\nEliza Strickland is IEEE Spectrum's features editor. She also covers AI and biomedical engineering.\n\nEllia Lebleu is a cofounder of the WikiProject AI Cleanup effort to keep Wikipedia human-written.",
+  "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "publishedAt": "2026-10-27T11:08:15.000Z",
+  "points": 458,
+  "id": "hacker-news-3914d25f",
+  "slug": "hacker-news-3914d25f",
+  "fetchedAt": "2026-10-28T02:28:48.621Z",
+  "score": 78,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "维基百科对 AI 生成内容的清理",
+  "chineseSummary": "458 分 · 211 条评论",
+  "chineseContent": "人工智能生成的文本更难被发现，但这并没有阻止他们\n\nEliza Strickland 是 IEEE Spectrum 的专题编辑。她还涵盖人工智能和生物医学工程。\n\nEllia Lebleu 是 WikiProject AI Cleanup 项目的联合创始人，该项目致力于让维基百科保持人工编写。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

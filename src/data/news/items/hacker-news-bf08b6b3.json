@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "summary": "195 points · 104 comments",
+  "content": "Survival LLM is a free AI assistant and emergency library that runs entirely on your own computer. Ask it how to keep food safe in a blackout, treat a burn, or purify water, and it answers from trusted sources and shows you exactly where each answer came from.\n\nFree and open source. Set it up while you have internet; after that it needs none.\n\nThe AI model and the library live on your computer. Nothing you ask leaves it.\n\nEvery answer lists the articles it read. Click one to read it yourself, with the exact passage highlighted.\n\nMedical references, FEMA and CDC guidance, survival manuals, how-to guides, repair guides and about 930,000 Wikipedia articles.\n\nThe app is the same everywhere. When it opens, it checks your computer's memory and downloads the AI model that fits. More memory means a smarter model.\n\n\"Right\" means it got the main point of official guidance right on 22 blackout and first-aid questions, graded blind, in our tests on an earlier build of the library ( how we tested ). Smaller models make more mistakes, so the app always shows the source to check.\n\nPlus the library: a 9 GB download for everything (19 GB once installed), or 1.3 GB (3 GB installed) without Wikipedia and iFixit. Free disk space needed: the model's size plus 5 GB, plus about 27 GB while the full library installs (10 GB for the smaller one). Apple Silicon Macs (M1 or newer) with macOS 14 Sonoma or newer, and 64-bit Windows 10 or 11.\n\nSetup takes 20 minutes to about 2½ hours, depending on your computer and your internet speed. You only click for about 5 minutes; the rest is downloading.\n\nPlain-text copies of openly licensed (some for non-commercial use only) and public-domain references, searchable in a fraction of a second:\n\nEach source keeps its own license, shown with every article; see the full list with licenses .\n\nAI models make mistakes, the small ones more often. Every answer shows the articles it used, so you can check.\n\nNo account, no tracking. Your questions never leave your computer, and once set up it works with the internet off.\n\nAdd PDFs, Word documents, ebooks and notes, like your generator's manual or your family's emergency plan, and the AI searches them too. They stay on your computer.\n\nCheck for updates, at the bottom of the app, installs a new version in one click and keeps your models, library and files.\n\nOn a MacBook Pro we measured about 100 W while it answers, for 5 to 40 seconds per question: a full battery answers roughly 100 to 300. A small generator or power station runs it easily.\n\nAlready have it? Click Check for updates at the bottom of the app.",
+  "url": "https://www.brangus.io/survival-llm",
+  "publishedAt": "2026-10-27T19:55:06.000Z",
+  "points": 195,
+  "id": "hacker-news-bf08b6b3",
+  "slug": "hacker-news-bf08b6b3",
+  "fetchedAt": "2026-10-28T02:28:48.621Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Survival LLM：在您自己的计算机上运行的 AI 助手和应急库",
+  "chineseSummary": "195 分 · 104 条评论",
+  "chineseContent": "Survival LLM 是一个免费的人工智能助手和应急库，完全在您自己的计算机上运行。当询问它如何在停电时保证食品安全、治疗烧伤或净化水时，它会从可信来源给出答案，并准确地向您显示每个答案的来源。\n\n免费且开源。在有互联网的情况下进行设置；之后就不需要了。\n\nAI 模型和库位于您的计算机上。你所问的一切都不会离开它。\n\n每个答案都列出了它阅读的文章。单击其中一篇即可自行阅读，并突出显示确切的段落。\n\n医学参考资料、FEMA 和 CDC 指南、生存手册、操作指南、维修指南以及大约 930,000 篇维基百科文章。\n\n该应用程序到处都是一样的。当它打开时，它会检查您计算机的内存并下载适合的人工智能模型。更多内存意味着更智能的模型。\n\n“正确”意味着在我们对早期版本的库进行的测试中（我们的测试方式），它在 22 个停电和急救问题上得到了官方指导的要点，并且进行了盲评分。较小的模型会犯更多错误，因此应用程序始终显示要检查的来源。\n\n加上库：所有内容下载 9 GB（安装后 19 GB），或 1.3 GB（安装 3 GB），不含维基百科和 iFixit。所需的可用磁盘空间：模型大小加上 5 GB，再加上安装完整库时的约 27 GB（较小的库为 10 GB）。配备 macOS 14 Sonoma 或更高版本以及 64 位 Windows 10 或 11 的 Apple Silicon Mac（M1 或更高版本）。\n\n安装过程需要 20 分钟到大约 2.5 小时，具体取决于您的计算机和互联网速度。您只需点击约5分钟；其余的正在下载。\n\n公开许可的纯文本副本（有些仅供非商业用途）和公共领域参考文献，可在几分之一秒内搜索：\n\n每个来源都有自己的许可证，每篇文章都会显示；查看带有许可证的完整列表。\n\n人工智能模型更容易犯错误，而且是小错误。每个答案都显示了它使用的文章，因此您可以检查。\n\n没有帐户，没有跟踪。您的问题永远不会离开您的计算机，并且一旦设置完毕，它就可以在互联网关闭的情况下工作。\n\n添加 PDF、Word 文档、电子书和笔记，例如发电机手册或家庭应急计划，人工智能也会搜索它们。它们保留在您的计算机上。\n\n在应用程序底部检查更新，一键安装新版本并保留您的模型、库和文件。\n\n在 MacBook Pro 上，我们测量了它回答问题时的功率约为 100 瓦，每个问题持续 5 到 40 秒：充满电的电池大约回答 100 到 300 个问题。小型发电机或发电站可以轻松运行它。\n\n已经有了？单击应用程序底部的检查更新。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
