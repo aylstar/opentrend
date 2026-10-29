@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Akai is embracing vibe-coded mods with an open-source MPC",
+  "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
+  "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+  "publishedAt": "2026-10-28T21:34:04.000Z",
+  "id": "the-verge-2738e0c",
+  "slug": "the-verge-2738e0c",
+  "content": "The MPC Sample Key isn’t even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run some version of the same software found on the MPC Sample, but with tweaks to accommodate the traditional keyboard, pitch, and mod wheels. Unlike the higher-end MPC Key 37, however, the Sample Key doesn’t have pads. Instead, you play back samples with the keys. [Media: https://www.instagram.com/p/DfCxlYVsggC/] In the short Instagram Reels posted last night and today, Akai shows a number of vibe-coded mods that add synths, including Native Instruments Massive, to the device, as well as virtual analog and FM synths. One is even shown running a completely custom OS, with “several different synths in it.” [Media: https://www.instagram.com/reel/DfA8SCfRQnG/] According to the clips, the same “community” features will come to the regular MPC Sample, which is also shown running a few vibe-coded synths built by Claude. That could mean Akai plans to open-source the entire MPC Sample platform. CEO Jack O’Donnell told The Verge that inMusic brands, especially Akai, would be looking to embrace the modding community by seeding early devices to developers. These efforts will also include open-sourcing some software and providing an SDK.",
+  "fetchedAt": "2026-10-29T02:35:22.373Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Akai 正在采用带有开源 MPC 的 vivi 编码模组",
+  "chineseSummary": "MPC 示例密钥尚未正式公布，但 Akai 已经展示了改装社区正在通过氛围编码打造的内容。 Akai 决定拥抱黑客和定制固件开发人员的爆炸式增长，让他们尽早访问该设备，该设备将具有开源固件。它可能会运行[...]",
+  "chineseContent": "MPC 示例密钥尚未正式公布，但 Akai 已经展示了改装社区正在通过氛围编码打造的内容。 Akai 决定拥抱黑客和定制固件开发人员的爆炸式增长，让他们尽早访问该设备，该设备将具有开源固件。它可能会运行 MPC Sample 上相同软件的某些版本，但会进行一些调整以适应传统的键盘、音高和调制轮。然而，与高端 MPC Key 37 不同的是，Sample Key 没有打击垫。相反，您可以使用按键播放样本。 [媒体：https://www.instagram.com/p/DfCxlYVsggC/] 在昨晚和今天发布的 Instagram Reels 短片中，Akai 展示了许多振动编码的 mod，这些 mod 向设备添加了合成器，包括 Native Instruments Massive，以及虚拟模拟和 FM 合成器。其中甚至显示运行一个完全定制的操作系统，其中“有几个不同的合成器”。 [媒体：https://www.instagram.com/reel/DfA8SCfRQnG/] 根据剪辑，相同的“社区”功能将出现在常规 MPC 样本中，该样本还显示运行一些由 Claude 构建的振动编码合成器。这可能意味着 Akai 计划开源整个 MPC Sample 平台。首席执行官 Jack O’Donnell 告诉 The Verge，inMusic 品牌，尤其是 Akai，将寻求通过向开发者提供早期设备来拥抱模组社区。这些努力还将包括开源一些软件并提供 SDK。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

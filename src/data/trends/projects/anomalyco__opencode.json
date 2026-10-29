@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/anomalyco/opencode",
   "docsUrl": "https://opencode.ai",
-  "stars": 222406,
-  "forks": 29767,
-  "openIssues": 3870,
+  "stars": 222781,
+  "forks": 29845,
+  "openIssues": 3900,
   "license": "MIT",
-  "pushedAt": "2026-10-28T02:27:57Z",
-  "updatedAt": "2026-10-28T02:28:16Z",
+  "pushedAt": "2026-10-29T02:34:53Z",
+  "updatedAt": "2026-10-29T02:34:19Z",
   "createdAt": "2025-04-30T20:08:00Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <a href=\"https://opencode.ai\">\n    <picture>\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-dark.svg\" media=\"(prefers-color-scheme: dark)\">\n      <source srcset=\"packages/console/app/src/asset/logo-ornate-light.svg\" media=\"(prefers-color-scheme: light)\">\n      <img src=\"packages/console/app/src/asset/logo-ornate-light.svg\" alt=\"OpenCode logo\">\n    </picture>\n  </a>\n</p>\n<p align=\"center\">The open source AI coding agent.</p>\n<p align=\"center\">\n  <a href=\"https://opencode.ai/discord\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord\" /></a>\n  <a href=\"https://www.npmjs.com/package/@opencode/cli\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@opencode/cli?style=flat-square\" /></a>\n  <a href=\"https://github.com/anomalyco/opencode/actions/workflows/release.yml\"><img alt=\"Build status\" src=\"https://img.shields.io/github/actions/workflow/status/anomalyco/opencode/release.yml?style=flat-square&branch=dev\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"README.md\">English</a> |\n  <a href=\"README.zh.md\">简体中文</a> |\n  <a href=\"README.zht.md\">繁體中文</a> |\n  <a href=\"README.ko.md\">한국어</a> |\n  <a href=\"README.de.md\">Deutsch</a> |\n  <a href=\"README.es.md\">Español</a> |\n  <a href=\"README.fr.md\">Français</a> |\n  <a href=\"README.it.md\">Italiano</a> |\n  <a href=\"README.da.md\">Dansk</a> |\n  <a href=\"README.ja.md\">日本語</a> |\n  <a href=\"README.pl.md\">Polski</a> |\n  <a href=\"README.ru.md\">Русский</a> |\n  <a href=\"README.bs.md\">Bosanski</a> |\n  <a href=\"README.ar.md\">العربية</a> |\n  <a href=\"README.no.md\">Norsk</a> |\n  <a href=\"README.br.md\">Português (Brasil)</a> |\n  <a href=\"README.th.md\">ไทย</a> |\n  <a href=\"README.tr.md\">Türkçe</a> |\n  <a href=\"README.uk.md\">Українська</a> |\n  <a href=\"README.bn.md\">বাংলা</a> |\n  <a href=\"README.gr.md\">Ελληνικά</a> |\n  <a href=\"README.vi.md\">Tiếng Việt</a>\n</p>\n\n[![OpenCode Terminal UI](packages/web/src/assets/lander/screenshot.png)](https://opencode.ai)\n\n---\n\n### Installation\n\n```bash\n# YOLO\ncurl -fsSL https://opencode.ai/v2/install | bash\n\n# Package managers\nnpm i -g @opencode/cli@latest      # or bun/pnpm/yarn\nbrew install anomalyco/tap/opencode-v2 # macOS and Linux (recommended, always up to date)\nbrew install opencode              # macOS and Linux (official brew formula, updated less)\nsudo pacman -S opencode            # Arch Linux (Stable)\nparu -S opencode-beta              # Arch Linux (Latest from AUR)\nmise use -g opencode               # Any OS\nnix run github:anomalyco/opencode  # Nix\n```\n\n> [!TIP]\n> Remove versions older than 0.1.x before installing.\n\n### Desktop App (BETA)\n\nOpenCode is also available as a desktop application. Download it from [opencode.ai/download](https://opencode.ai/download).\n\n| Platform              | Download                           |\n| --------------------- | ---------------------------------- |\n| macOS (Apple Silicon) | `opencode-desktop-mac-arm64.dmg`   |\n| macOS (Intel)         | `opencode-desktop-mac-x64",
-  "generatedAt": "2026-10-28T02:28:35.103Z",
+  "generatedAt": "2026-10-29T02:35:02.539Z",
   "analysis": {
     "oneLine": "opencode 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
     "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
     "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
     "detailParagraphs": [
       "opencode 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
-      "如果把它放进实际使用场景，opencode 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 222,406，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，opencode 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 222,781，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

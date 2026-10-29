@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a1fe25eaf0",
+  "slug": "weibo-theshy状态",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "TheShy状态",
+  "summary": "微博热榜第 49 位：TheShy状态，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23TheShy%E7%8A%B6%E6%80%81%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-10-29T02:30:25.814Z",
+  "fetchedAt": "2026-10-29T02:36:30.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

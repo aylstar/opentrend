@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3df1c80650",
+  "slug": "weibo-三丽鸥致歉",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "三丽鸥致歉",
+  "summary": "微博热榜第 1 位：三丽鸥致歉，当前热度为 152万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%BD%E9%B8%A5%E8%87%B4%E6%AD%89%23",
+  "hotValue": "152万热度",
+  "author": "",
+  "publishedAt": "2026-10-29T02:30:25.814Z",
+  "fetchedAt": "2026-10-29T02:36:30.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

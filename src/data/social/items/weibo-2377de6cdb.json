@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2377de6cdb",
+  "slug": "weibo-电视剧铁证",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 41,
+  "title": "电视剧铁证",
+  "summary": "微博热榜第 41 位：电视剧铁证，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E9%93%81%E8%AF%81%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-10-29T02:30:25.814Z",
+  "fetchedAt": "2026-10-29T02:36:30.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

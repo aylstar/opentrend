@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Apple's git still trusts the compromised eMudhra certificates",
+  "summary": "1051 points · 378 comments",
+  "content": "Apple was notified of the eMudhra incident on 17th October. As of 28th October, the developer tools Apple ships with macOS, including git, curl and python3, still trust the compromised certificates.\n\nWorse, macOS 27.2, released on 26th October, did not fix the issue and undid the workaround that users had applied by hand, leaving them vulnerable again.\n\nMeanwhile, dozens of other projects , many run by volunteers, shipped fixes days ago.\n\nAnyone can intercept any HTTPS connection these tools make.\n\nFor git, that means clones and pulls from https:// remotes can deliver attacker-chosen code, pushes can be altered in transit, and your credentials, such as GitHub tokens, can be intercepted.\n\nTo check whether your git is affected, run:\n\nA certificate error means your git is protected. If git lists a commit, your git is affected. Your connections to GitHub, or any other https:// git remote, can be intercepted and tampered with.\n\nTo see an attack end to end, run the command below in a temporary directory. It clones a repository from a test server impersonating GitHub. The -c option redirects github.com to our test server for this one command only. The server presents a github.com certificate issued by one of the compromised eMudhra intermediates.\n\nA patched git will refuse with a certificate error. If the clone succeeds, you'll see a README.md starting with INTERCEPTED .\n\nA real attacker would not need the extra option. Anyone on the network path between you and GitHub can redirect your traffic themselves.\n\nYou can replace the demo repository with any other, public or private. Keep the fake-user@ prefix. Without it, git would send your GitHub credentials to the test server. For example:\n\ncurl, python3 and the other tools Apple ships are affected in the same way. To check curl, run:\n\nA certificate error means curl is protected.\n\nApple has already protected Safari and other apps built on its networking framework.\n\nApple needs to ship a fix for macOS developers as soon as possible, for example by removing the affected roots from /etc/ssl/cert.pem .\n\nWhat can developers do in the meantime?\n\nThe affected roots can be removed by hand. The macOS workaround on the main page walks through the steps. Apple's guidance states that macOS updates may revert the fix, so developers need to repeat the checks above and the workaround after every update until Apple ships a fix.\n\nSecurity teams should also consider whether macOS runners are used in their CI or other build infrastructure and evaluate the supply chain risk.\n\nSite published by Dennis Jackson . This site is the work of many contributors from the community. The source is on GitHub and PRs are welcome. Licensed under the Apache License, Version 2.0 .",
+  "url": "https://emudhra.we-have-a-problem.com/apple.html",
+  "publishedAt": "2026-10-28T11:03:40.000Z",
+  "points": 1051,
+  "id": "hacker-news-cc0f1bd3",
+  "slug": "hacker-news-cc0f1bd3",
+  "fetchedAt": "2026-10-29T02:35:22.370Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Apple 的 git 仍然信任受损的 eMudhra 证书",
+  "chineseSummary": "1051 分 · 378 条评论",
+  "chineseContent": "Apple 于 10 月 17 日收到有关 eMudhra 事件的通知。截至 10 月 28 日，Apple 随 macOS 附带的开发人员工具（包括 git、curl 和 python3）仍然信任受损的证书。\n\n更糟糕的是，10 月 26 日发布的 macOS 27.2 没有解决该问题，并取消了用户手动应用的解决方法，使他们再次容易受到攻击。\n\n与此同时，其他数十个项目（其中许多是由志愿者运营）几天前就发布了修复程序。\n\n任何人都可以拦截这些工具建立的任何 HTTPS 连接。\n\n对于 git，这意味着从 https:// 远程克隆和拉取可以传递攻击者选择的代码，推送可以在传输过程中更改，并且您的凭据（例如 GitHub 令牌）可以被拦截。\n\n要检查您的 git 是否受到影响，请运行：\n\n证书错误意味着您的 git 受到保护。如果 git 列出了某个提交，那么您的 git 就会受到影响。您与 GitHub 或任何其他 https://git 远程连接的连接可能会被拦截和篡改。\n\n要查看端到端的攻击，请在临时目录中运行以下命令。它从模拟 GitHub 的测试服务器克隆存储库。 -c 选项仅针对这一命令将 github.com 重定向到我们的测试服务器。服务器提供由受感染的 eMudhra 中间体之一颁发的 github.com 证书。\n\n修补过的 git 将拒绝并显示证书错误。如果克隆成功，您将看到以 INTERCEPTED 开头的 README.md 。\n\n真正的攻击者不需要额外的选项。您和 GitHub 之间网络路径上的任何人都可以自行重定向您的流量。\n\n您可以将演示存储库替换为任何其他公共或私有存储库。保留 fake-user@ 前缀。如果没有它，git 会将您的 GitHub 凭据发送到测试服务器。例如：\n\ncurl、python3 和 Apple 发布的其他工具也受到同样的影响。要检查卷曲，请运行：\n\n证书错误意味着curl 受到保护。\n\n苹果已经保护了 Safari 和其他基于其网络框架构建的应用程序。\n\nApple 需要尽快为 macOS 开发人员提供修复程序，例如从 /etc/ssl/cert.pem 中删除受影响的根目录。\n\n开发人员在此期间可以做什么？\n\n受影响的根可以用手去除。主页上的 macOS 解决方法逐步介绍了这些步骤。 Apple 的指南指出，macOS 更新可能会恢复修复程序，因此开发人员需要在每次更新后重复上述检查和解决方法，直到 Apple 发布修复程序。\n\n安全团队还应考虑 macOS 运行程序是否在其 CI 或其他构建基础设施中使用，并评估供应链风险。\n\n网站由丹尼斯·杰克逊发布。该网站是社区许多贡献者的成果。来源位于 GitHub 上，欢迎 PR。根据 Apache 许可证 2.0 版获得许可。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

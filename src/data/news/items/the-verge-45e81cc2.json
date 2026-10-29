@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+  "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+  "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+  "publishedAt": "2026-10-28T20:03:00.000Z",
+  "id": "the-verge-45e81cc2",
+  "slug": "the-verge-45e81cc2",
+  "content": "Google has released its latest frontier model, Gemini 4 Carbon, offering “significant gains” in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon’s top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It’s currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program. [Image: Carbon sits ahead of Claude Opus 5.5 and GPT-6 Astra. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Artificial-Analysis-Intelligence-Index-Score-28-Oct-26.png?quality=90&strip=all] The company says Carbon reflects the “pace at which we’re pushing the frontier forward,” coming with a “significant leap” in cyberdefense that makes it better at finding vulnerabilities and generating secure code. Carbon currently holds the number one spot on SEC-bench Pro, a benchmark that measures an AI model’s ability to discover real-world bugs, and ExploitGym, which measures how a model can turn a vulnerability into exploits. [Image: Gemini 4 Carbon also beat GPT-6 Astra on the SEC-bench Pro cybersecurity benchmark. https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-3.57.19-PM.png?quality=90&strip=all] Google says Gemini 4 Carbon is built for completing longer tasks, adding that its internal teams have seen it “run for days to persist through dead ends to tackle complex, multi-step engineering tasks.” It’s also better at avoiding shortcuts, resisting prompt injection attacks, and collaborating with users, according to Google. Carbon is supposed to offer more “transparency and honesty” as well, by cutting “unsupported claims” by two times when compared to Argon. It will launch at the same competitive introductory price as Argon, at $2 per million input tokens and $10 per million output tokens.",
+  "fetchedAt": "2026-10-29T02:35:22.374Z",
+  "score": 80,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "安全",
+    "产品"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌推出 Gemini 4 Carbon，在网络安全方面实现“重大飞跃”",
+  "chineseSummary": "谷歌发布了最新的前沿模型 Gemini 4 Carbon，在编码、代理任务和网络安全方面提供了“显着收益”。在周三的一份声明中，谷歌强调了 Carbon 在人工智能分析智能指数 (v5.0) 基准测试中名列前茅，Claude Opus 5.5 和 GPT-6 Astra 紧随其后。全新 Gemini 4 Carbon 型号的改进 [...]",
+  "chineseContent": "谷歌发布了最新的前沿模型 Gemini 4 Carbon，在编码、代理任务和网络安全方面提供了“显着收益”。在周三的一份声明中，谷歌强调了 Carbon 在人工智能分析智能指数 (v5.0) 基准测试中名列前茅，Claude Opus 5.5 和 GPT-6 Astra 紧随其后。新的 Gemini 4 Carbon 型号比谷歌本月早些时候发布的 Argon 有所改进。目前仅适用于特定的网络安全防御公司，但最终将扩展到 Fairwind 计划的其他合作伙伴。 [图片：Carbon 领先于 Claude Opus 5.5 和 GPT-6 Astra。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Artificial-Analysis-Intelligence-Index-Score-28-Oct-26.png?quality=90&strip=all]该公司表示，Carbon 反映了“我们推动前沿发展的速度”，在网络防御方面带来了“重大飞跃”，使其能够更好地发现漏洞和生成安全代码。 Carbon 目前在 SEC-bench Pro 和 ExploitGym 上排名第一，SEC-bench Pro 是衡量人工智能模型发现现实世界错误的能力的基准，而 ExploitGym 则是衡量模型如何将漏洞转化为漏洞利用的能力。 [图片：Gemini 4 Carbon 还在 SEC-bench Pro 网络安全基准测试中击败了 GPT-6 Astra。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-3.57.1​​9-PM.png?quality=90&strip=all] 谷歌表示，Gemini 4 Carbon 是为完成较长的任务而设计的，并补充说，其内部团队已经看到它“连续几天坚持穿过死胡同，以解决复杂的、多步骤的工程任务。”据谷歌称，它还能够更好地避免走捷径、抵御即时注入攻击以及与用户协作。碳应该",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

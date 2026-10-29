@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fb688003f1",
+  "slug": "weibo-macbookpro",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "MacBookPro",
+  "summary": "微博热榜第 42 位：MacBookPro，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23MacBookPro%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-10-29T02:30:25.814Z",
+  "fetchedAt": "2026-10-29T02:36:30.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

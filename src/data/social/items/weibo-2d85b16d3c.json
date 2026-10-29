@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2d85b16d3c",
+  "slug": "weibo-现在就出发",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "现在就出发",
+  "summary": "微博热榜第 2 位：现在就出发，当前热度为 90万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%23",
+  "hotValue": "90万热度",
+  "author": "",
+  "publishedAt": "2026-10-29T02:30:25.814Z",
+  "fetchedAt": "2026-10-29T02:36:30.412Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
