@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Binance temporarily suspends withdrawals after apparent hack",
+  "summary": "Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue",
+  "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-30T01:02:58.000Z",
+  "id": "financial-times-f5d04457",
+  "slug": "financial-times-f5d04457",
+  "content": "Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue",
+  "fetchedAt": "2026-10-30T02:44:28.174Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "全球",
+    "财经",
+    "安全"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "明显遭到黑客攻击后，币安暂时停止提款",
+  "chineseSummary": "全球最大的加密货币交易所调查安全问题，Tether 和 Circle 冻结了价值数十亿美元的代币",
+  "chineseContent": "全球最大的加密货币交易所调查安全问题，Tether 和 Circle 冻结了价值数十亿美元的代币",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

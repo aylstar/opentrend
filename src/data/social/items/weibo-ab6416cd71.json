@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ab6416cd71",
+  "slug": "weibo-三丽鸥",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "三丽鸥",
+  "summary": "微博热榜第 33 位：三丽鸥，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%BD%E9%B8%A5%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-10-30T02:43:06.460Z",
+  "fetchedAt": "2026-10-30T02:45:33.223Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

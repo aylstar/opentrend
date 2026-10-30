@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Patrick Stewart has died",
+  "summary": "2480 points · 525 comments",
+  "content": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart",
+  "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+  "publishedAt": "2026-10-29T19:41:39.000Z",
+  "points": 2480,
+  "id": "hacker-news-41c30c19",
+  "slug": "hacker-news-41c30c19",
+  "fetchedAt": "2026-10-30T02:44:28.169Z",
+  "score": 92,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 1,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "帕特里克·斯图尔特去世",
+  "chineseSummary": "2480 分 · 525 条评论",
+  "chineseContent": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

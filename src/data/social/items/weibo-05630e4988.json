@@ -1,0 +1,21 @@
+{
+  "id": "weibo-05630e4988",
+  "slug": "weibo-红果红了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "红果红了",
+  "summary": "微博热榜第 22 位：红果红了，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%BA%A2%E4%BA%86%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-10-30T02:43:06.460Z",
+  "fetchedAt": "2026-10-30T02:45:33.223Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

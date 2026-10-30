@@ -1,0 +1,24 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+  "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+  "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+  "publishedAt": "2026-10-30T00:38:13.000Z",
+  "id": "cnbc-6ea29eb4",
+  "slug": "cnbc-6ea29eb4",
+  "content": "Microsoft on Thursday announced plans to raise $25 billion in bonds, taking advantage of its healthy credit rating to support its infrastructure expansion.\n\nThe software maker holds a top-tier AAA rating with S&P, a credit agency. Management is targeting $170 billion in 2026 capital expenditures, as the company looks to meet heavy demand from artificial intelligence labs Anthropic and OpenAI, as well as other clients.\n\n\"Microsoft intends to use the net proceeds from the offering for general corporate purposes, which may include, among other things, funding for working capital, capital expenditures, repurchases of capital stock, acquisitions, and repayment of existing debt,\" according to a statement . The offerings should close on Nov. 4, the company said.\n\nAmazon and Alphabet have engaged the bond market to support infrastructure projects this year, and AI-focused cloud CoreWeave has also relied on the debt market to broaden its data center footprint. Investors have turned more skittish on companies with tall debt piles as central bankers raise interest rates to fight inflation.\n\nMicrosoft will access additional funding sources to complement its own cash flow generation when conditions are attractive, Amy Hood, its finance chief, said on the company's earnings call on Wednesday.\n\n\"There's a form of financing called leasing, and we've been using that one as a vehicle,\" she said. \"We're fortunate to have access in the debt markets, given where our ratings are, and we haven't yet tapped that.\"\n\nMicrosoft reported positive free cash flow on Wednesday, differentiating itself from Alphabet, whose cash flow was negative for the second quarter in a row. Last week Meta said it had negative free cash flow, and on Thursday Amazon reported negative free cash flow.\n\nAlso on Wednesday, Oracle unveiled plans to raise $10 billion in new debt and said it anticipates a return to positive free cash flow in the second half of its 2028 fiscal year.\n\nWATCH: We need AI token prices to come down, says Citi's Heath Terry",
+  "fetchedAt": "2026-10-30T02:44:28.171Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软计划筹集 250 亿美元债务以推进 AI 发展",
+  "chineseSummary": "与 Meta、Alphabet 和亚马逊不同，微软拥有强大的信用评级，并设法保持正的自由现金流。",
+  "chineseContent": "微软周四宣布计划筹集 250 亿美元债券，利用其健康的信用评级来支持其基础设施扩张。\n\n该软件制造商拥有信用机构标准普尔 (S&P) 的顶级 AAA 评级。管理层的目标是 2026 年资本支出达到 1700 亿美元，因为该公司希望满足人工智能实验室 Anthropic 和 OpenAI 以及其他客户的巨大需求。\n\n一份声明称：“微软打算将此次发行的净收益用于一般企业用途，其中可能包括营运资金、资本支出、回购股本、收购和偿还现有债务等。”该公司表示，此次发行将于 11 月 4 日结束。\n\n亚马逊和 Alphabet 今年已经利用债券市场来支持基础设施项目，而专注于人工智能的云 CoreWeave 也依靠债务市场来扩大其数据中心的覆盖范围。随着央行行长提高利率以应对通胀，投资者对负债累累的公司变得更加不安。\n\n微软首席财务官艾米·胡德(Amy Hood)在周三的公司财报电话会议上表示，当条件有吸引力时，微软将获得额外的资金来源，以补充自己的现金流生成。\n\n“有一种称为租赁的融资形式，我们一直将其用作一种工具，”她说。 “考虑到我们的评级，我们很幸运能够进入债务市场，但我们尚未利用这一点。”\n\n微软周三公布了正的自由现金流，这与 Alphabet 不同，Alphabet 的现金流连续第二个季度为负。上周 Meta 表示其自由现金流为负，周四亚马逊报告自由现金流为负。\n\n同样在周三，甲骨文公布了筹集 100 亿美元新债的计划，并表示预计 2028 财年下半年将恢复正自由现金流。\n\n花旗银行的 Heath Terry 表示，我们需要降低人工智能代币的价格",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

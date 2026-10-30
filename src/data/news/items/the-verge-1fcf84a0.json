@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "GM to pay $220 million to resolve claims it sold driving habits data",
+  "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"express consent\" from […]",
+  "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+  "publishedAt": "2026-10-29T19:19:28.000Z",
+  "id": "the-verge-1fcf84a0",
+  "slug": "the-verge-1fcf84a0",
+  "content": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain “express consent” from drivers before collecting their information. The allegations surround GM’s now-discontinued Smart Driver program, which collected data about driving habits, including acceleration, braking, and trip length. GM allegedly passed this information to data brokers, enabling insurance companies to purchase the data and raise premiums. The states also accused GM of failing to notify drivers that they were enrolled in its Smart Driver program, and that the carmaker was collecting their data. “This agreement addresses Smart Driver, a product we ended in 2024, and reinforces steps we’ve taken to strengthen our privacy practices,” GM spokesperson Charlotte McCoy said in an emailed statement to The Verge. “Safer, more helpful and personalized experiences are enabled by connected vehicle data, and GM is committed to being clear about what information is used, how it’s protected, and the choices customers have about what they share.” This settlement comes just months after GM agreed to pay $12.75 million to settle similar claims in California. Oregon AG Dan Rayfield and Washington AG Nick Brown co-led the states’ case against GM, which also included New York, Florida, Michigan, Nevada, Pennsylvania, and many others. “People bought a car, not a tracking device,” Rayfield says in a press release. “GM told drivers this program would help them drive more safely and promised it wouldn’t share their data with insurers without permission. Our investigation found GM sold that data anyway, and some drivers paid for it with higher premiums.” Update, October 29th: Added a statement from GM.",
+  "fetchedAt": "2026-10-30T02:44:28.170Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "通用汽车将支付 2.2 亿美元解决其出售驾驶习惯数据的指控",
+  "chineseSummary": "据路透社早些时候报道，通用汽车已同意支付 2.2 亿美元，以了结其向数据经纪人非法出售驾驶员和位置信息的指控。该协议解决了 36 名美国总检察长联盟的投诉，要求通用汽车限制其收集的驾驶数据，并获得 [...] 的“明确同意”。",
+  "chineseContent": "据路透社早些时候报道，通用汽车已同意支付 2.2 亿美元，以了结其向数据经纪人非法出售驾驶员和位置信息的指控。该协议解决了 36 名美国总检察长联盟的投诉，要求通用汽车限制其收集的驾驶数据，并在收集信息之前获得驾驶员的“明确同意”。这些指控围绕通用汽车现已终止的智能驾驶员计划，该计划收集有关驾驶习惯的数据，包括加速、制动和行程长度。据称，通用汽车将这些信息传递给数据经纪人，使保险公司能够购买这些数据并提高保费。各州还指责通用汽车未能通知司机他们已加入其智能司机计划，并且该汽车制造商正在收集他们的数据。通用汽车发言人夏洛特·麦考伊（Charlotte McCoy）在发给 The Verge 的电子邮件声明中表示：“该协议涉及我们于 2024 年终止的 Smart Driver 产品，并强化了我们为加强隐私实践而采取的措施。” “互联车辆数据可实现更安全、更有用和个性化的体验，通用汽车致力于明确使用哪些信息、如何保护信息以及客户对共享内容的选择。”就在几个月前，通用汽车同意支付 1275 万美元来解决加州的类似索赔。俄勒冈州检察长丹·雷菲尔德和华盛顿州检察长尼克·布朗共同领导了针对通用汽车的各州案件，其中还包括纽约州、佛罗里达州、密歇根州、内华达州、宾夕法尼亚州等。 “人们买的是汽车，而不是跟踪设备，”雷菲尔德在一份新闻稿中说。 “通用汽车告诉司机，该计划将帮助他们更安全地驾驶，并承诺未经许可不会与保险公司分享他们的数据。我们的调查针对",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

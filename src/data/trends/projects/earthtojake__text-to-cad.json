@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/earthtojake/text-to-cad",
   "docsUrl": "https://www.texttocad.dev",
-  "stars": 23910,
-  "forks": 2304,
-  "openIssues": 35,
+  "stars": 24162,
+  "forks": 2321,
+  "openIssues": 40,
   "license": "MIT",
-  "pushedAt": "2026-10-29T02:14:17Z",
-  "updatedAt": "2026-10-29T02:32:43Z",
+  "pushedAt": "2026-10-29T23:21:24Z",
+  "updatedAt": "2026-10-30T02:42:09Z",
   "createdAt": "2026-04-22T01:09:45Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n<img src=\"apps/docs/public/brand/logo-texttocad-animated.svg\" alt=\"text-to-cad\" width=\"800\">\n\nDesign physical products with AI.\n\n[Website](https://www.texttocad.dev)\n\n[![cadgen](https://img.shields.io/pypi/v/cadgen?style=flat&logo=pypi&logoColor=white&label=cadgen)](https://pypi.org/project/cadgen/)\n[![Tests](https://img.shields.io/github/actions/workflow/status/earthtojake/text-to-cad/test.yml?branch=main&style=flat&logo=githubactions&logoColor=white&label=Tests)](https://github.com/earthtojake/text-to-cad/actions/workflows/test.yml?query=branch%3Amain)\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)](LICENSE)\n[![skills.sh](https://skills.sh/b/earthtojake/text-to-cad?style=flat)](https://skills.sh/earthtojake/text-to-cad)\n[![Downloads](https://img.shields.io/pepy/dt/cadgen?style=flat&logo=pypi&logoColor=white&label=downloads)](https://pepy.tech/projects/cadgen)\n\n[![Join Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/5FGB9DwJYU)\n[![Follow @earthtojake](https://img.shields.io/badge/Follow-%40earthtojake-000000?style=flat&logo=x)](https://x.com/earthtojake)\n[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/earthtojake)\n\n</div>\n\n# text-to-cad\n\nThe text-to-cad plugin gives your agent local workflows for generating 3D models\nas STEP, GLB, STL or 3MF files. It also does design for manufacturing checks,\ngenerates engineering drawings, and connects to popular 3D printing, sheet metal\nand CNC fabrication services.\n\nIt is supported by all popular agents that support plugins or the\n[skills](https://skills.sh) framework, including Claude Code, Codex, Cursor,\nGemini and Grok.\n\n### How it works\n\n1. Your agent writes each model as a Python script with [build123d](https://github.com/gumyr/build123d), built on [Open CASCADE](https://dev.opencascade.org).\n2. Running the script, `python model.py`, builds the model with cadgen's engine\n   into an `.xbf` document (its parts, names, colours, materials and joints) and\n   the STEP, GLB, STL or 3MF files the script declares. The engine keeps each\n   model's work in memory, so an edit rebuilds only what it changed.\n3. The CAD viewer shows the model in your agent app or your browser, and follows\n   every rebuild.\n\n## 💻 Install\n\n### Ask your agent (recommended)\n\nSend this message to your agent and it will install text-to-cad for you.\n\n```text\nInstall text-to-cad from https://github.com/earthtojake/text-to-cad\n```\n\nBy default, text-to-cad sends usage stats and crash reports, tagged with a random\nID and never including your files, paths or prompts; turn them off with\n`uvx --no-config --managed-python --python 3.13 --from cadgen==0.8.2 cadgen telemetry off`, or ask your agent to. [Telemetry](#telemetry) says\nthe rest.\n\nThe runtime supports Python 3.11+; the launch commands use uv-managed Python 3.13.\n\nOr install it ",
-  "generatedAt": "2026-10-29T02:35:03.584Z",
+  "generatedAt": "2026-10-30T02:44:15.629Z",
   "analysis": {
     "oneLine": "text-to-cad 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "text-to-cad 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，text-to-cad 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 23,910，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，text-to-cad 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 24,162，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

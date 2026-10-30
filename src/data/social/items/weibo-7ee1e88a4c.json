@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7ee1e88a4c",
+  "slug": "weibo-八尾",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "八尾",
+  "summary": "微博热榜第 50 位：八尾，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%B0%BE%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-10-30T02:43:06.460Z",
+  "fetchedAt": "2026-10-30T02:45:33.223Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

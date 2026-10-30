@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2b19417c92",
+  "slug": "weibo-viper状态",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 28,
+  "title": "Viper状态",
+  "summary": "微博热榜第 28 位：Viper状态，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Viper%E7%8A%B6%E6%80%81%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-10-30T02:43:06.460Z",
+  "fetchedAt": "2026-10-30T02:45:33.223Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

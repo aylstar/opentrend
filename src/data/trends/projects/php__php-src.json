@@ -1,0 +1,66 @@
+{
+  "slug": "php__php-src",
+  "owner": "php",
+  "repo": "php-src",
+  "name": "php-src",
+  "fullName": "php/php-src",
+  "description": "The PHP Interpreter",
+  "language": "C",
+  "githubUrl": "https://github.com/php/php-src",
+  "docsUrl": "https://www.php.net",
+  "stars": 41725,
+  "forks": 8490,
+  "openIssues": 2281,
+  "license": "BSD-3-Clause",
+  "pushedAt": "2026-10-30T01:10:28Z",
+  "updatedAt": "2026-10-30T02:23:37Z",
+  "createdAt": "2011-06-16T01:52:25Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "自动化办公"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<div align=\"center\">\n    <a href=\"https://www.php.net\">\n        <img\n            alt=\"PHP\"\n            src=\"https://www.php.net/images/logos/new-php-logo.svg\"\n            width=\"150\">\n    </a>\n</div>\n\n# The PHP Interpreter\n\nPHP is a popular general-purpose scripting language that is especially suited to\nweb development. Fast, flexible and pragmatic, PHP powers everything from your\nblog to the most popular websites in the world.\n\nPHP is distributed under the [Modified BSD License](LICENSE)\n(SPDX-License-Identifier: `BSD-3-Clause`).\n\n[![Test](https://github.com/php/php-src/actions/workflows/test.yml/badge.svg)](https://github.com/php/php-src/actions/workflows/test.yml)\n[![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/php.svg)](https://issues.oss-fuzz.com/issues?q=project:php)\n\n## Documentation\n\nThe PHP manual is available at [php.net/docs](https://www.php.net/docs).\n\n## Installation\n\n### Prebuilt packages and binaries\n\nPrebuilt packages and binaries can be used to get up and running fast with PHP.\n\nFor Windows, the PHP binaries can be obtained from\n[windows.php.net](https://windows.php.net). After extracting the archive the\n`*.exe` files are ready to use.\n\nFor other systems, see the [installation chapter](https://www.php.net/install).\n\n### Building PHP source code\n\n*For Windows, see [Build your own PHP on Windows](https://wiki.php.net/internals/windows/stepbystepbuild_sdk_2).*\n\nFor a minimal PHP build from Git, you will need autoconf, bison, and re2c. For\na default build, you will additionally need libxml2 and libsqlite3.\n\nOn Ubuntu, you can install these using:\n\n```shell\nsudo apt install -y pkg-config build-essential autoconf bison re2c libxml2-dev libsqlite3-dev\n```\n\nOn Fedora, you can install these using:\n\n```shell\nsudo dnf install re2c bison autoconf make ccache libxml2-devel sqlite-devel\n```\n\nOn MacOS, you can install these using `brew`:\n\n```shell\nbrew install autoconf bison re2c libiconv libxml2 sqlite\n```\n\nor with `MacPorts`:\n\n```shell\nsudo port install autoconf bison re2c libiconv libxml2 sqlite3\n```\n\nGenerate configure:\n\n```shell\n./buildconf\n```\n\nConfigure your build. `--enable-debug` is recommended for development, see\n`./configure --help` for a full list of options.\n\n```shell\n# For development\n./configure --enable-debug\n# For production\n./configure\n```\n\nBuild PHP. To speed up the build, specify the maximum number of jobs using the\n`-j` argument:\n\n```shell\nmake -j4\n```\n\nThe number of jobs should usually match the number of available cores, which\ncan be determined using `nproc`.\n\n## Testing PHP source code\n\nPHP ships with an extensive test suite, the command `make test` is used after\nsuccessful compilation of the sources to run this test suite.\n\nTests run in parallel by default, using up to 10 detected logical processors.\nSet `-jN` in `TEST_PHP_ARGS` or `TESTS` to override the worker count:\n\n```shell\nmake TEST_PHP_ARGS=-j4 test\n```\n\nThis runs `make test` with a maximum of 4 concurrent jobs. Alternatively,\nuse `-",
+  "generatedAt": "2026-10-30T02:44:10.910Z",
+  "analysis": {
+    "oneLine": "php-src 是一个多媒体生成或模型能力相关项目，适合用于验证图像、视频或模型生成能力在内容生产中的可用性。",
+    "problem": "内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程",
+    "audience": "AI 应用开发者、内容团队、设计团队、独立开发者",
+    "detailParagraphs": [
+      "php-src 更准确地说是一个多媒体生成或模型能力相关项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：内容团队和 AI 应用团队需要低成本评估新模型能否进入真实生产流程。",
+      "如果把它放进实际使用场景，php-src 的价值主要来自验证图像、视频或模型生成能力在内容生产中的可用性。当前 Star 约 41,725，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测。重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。当前最需要警惕的是：风险在算力成本、版权合规、模型稳定性和部署复杂度。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "AI 内容生产评测",
+      "视频生成工作流",
+      "模型私有化部署验证",
+      "创意工具原型"
+    ],
+    "interpretation": "php-src 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 C 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "brew install autoconf bison re2c libiconv libxml2 sqlite",
+    "deployment": "重点核对显存要求、模型权重下载、推理速度、许可证和国内网络可访问性。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "商业价值取决于生成质量、推理成本、版权边界和工作流集成能力，适合先做小样本评测；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在验证图像、视频或模型生成能力在内容生产中的可用性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 C 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在算力成本、版权合规、模型稳定性和部署复杂度。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "自动化办公"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-10-30T02:44:10.911Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9bc056efbf",
+  "slug": "weibo-谷歌-a股",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 17,
+  "title": "谷歌 A股",
+  "summary": "微博热榜第 17 位：谷歌 A股，当前热度为 35万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C+A%E8%82%A1%23",
+  "hotValue": "35万热度",
+  "author": "",
+  "publishedAt": "2026-10-30T02:43:06.460Z",
+  "fetchedAt": "2026-10-30T02:45:33.223Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

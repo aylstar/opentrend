@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6df806c710",
+  "slug": "weibo-blg对战tes",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 37,
+  "title": "BLG对战TES",
+  "summary": "微博热榜第 37 位：BLG对战TES，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98TES%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-10-30T02:43:06.460Z",
+  "fetchedAt": "2026-10-30T02:45:33.223Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

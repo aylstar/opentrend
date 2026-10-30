@@ -1,0 +1,70 @@
+{
+  "slug": "hugohe3__ppt-master",
+  "owner": "hugohe3",
+  "repo": "ppt-master",
+  "name": "ppt-master",
+  "fullName": "hugohe3/ppt-master",
+  "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+  "language": "Python",
+  "githubUrl": "https://github.com/hugohe3/ppt-master",
+  "docsUrl": "https://hugohe3.github.io/ppt-master-examples/",
+  "stars": 70894,
+  "forks": 5528,
+  "openIssues": 6,
+  "license": "MIT",
+  "pushedAt": "2026-10-29T13:58:25Z",
+  "updatedAt": "2026-10-30T02:43:03Z",
+  "createdAt": "2025-12-10T06:54:33Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "# PPT Master — AI generates native PowerPoint from any document\n\n[![Version](https://img.shields.io/github/v/release/hugohe3/ppt-master?label=version&color=blue)](https://github.com/hugohe3/ppt-master/releases)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![GitHub stars](https://img.shields.io/github/stars/hugohe3/ppt-master.svg)](https://github.com/hugohe3/ppt-master/stargazers)\n[![AtomGit stars](https://atomgit.com/hugohe3/ppt-master/star/badge.svg)](https://atomgit.com/hugohe3/ppt-master)\n[![The Agentic Leaderboard](https://www.theagenticleaderboard.com/badges/ppt-master.svg)](https://www.theagenticleaderboard.com/agent/?q=ppt-master)\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/25760?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25760\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/25760\" alt=\"hugohe3%2Fppt-master | Trendshift\" width=\"250\" height=\"55\"/></a>\n  <a href=\"https://www.star-history.com/hugohe3/ppt-master\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=hugohe3/ppt-master&type=rank&theme=dark\" /><img alt=\"Star History Rank\" src=\"https://api.star-history.com/badge?repo=hugohe3/ppt-master&type=rank\" width=\"186\" height=\"55\" /></picture></a>\n</p>\n\nEnglish | [中文](./README_CN.md)\n\n> 💼 **I'm open to new opportunities.** Investment background (CPA · CPV · Consulting Engineer), also building AI tools and open source. Happy to talk about any opportunity: [heyug3@gmail.com](mailto:heyug3@gmail.com) · [hehugo.com](https://www.hehugo.com/).\n\n> 🆕 **I built a construction project economic evaluation site: [cs.hehugo.com](https://cs.hehugo.com/)** (in Chinese) — the wind, solar and storage templates are now open to everyone; just register and use them (a comparable module in one commercial package sells for ¥100,000).\n\n## ❤️ Sponsors\n\nThis project is kept free and open source with the support of <a href=\"https://www.kimi.com/code/?aff=ppt-master\">Kimi</a>, <a href=\"https://www.packyapi.ai/register?aff=ppt-master\">PackyCode</a>, <a href=\"https://apikey.fan/register?aff=PPT-MASTER\">APIKEY.FAN</a>, <a href=\"https://runapi.host/register?aff=WMLJ\">RunAPI</a> and other sponsors.\n\n> **[Want to appear here?](SPONSORING.md)**\n\n<details open>\n<summary>Click to collapse</summary>\n\n<p align=\"center\">\n  <a href=\"https://www.kimi.com/code/?aff=ppt-master\"><img src=\"https://gcdn.moonshot.cn/growth-cdn/sponsor/kimi-en.png\" alt=\"Kimi\" width=\"100%\"></a>\n</p>\n\nThanks to [Kimi](https://www.kimi.com/code/?aff=ppt-master) for sponsoring this project! [Kimi K3](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) is the world's first open 3T-class model, featuring native vision and a 1-million-token context window. With PPT Master, K3 can understand source materials such as PDFs, DOCX files, and web pages, identify key points, structure the nar",
+  "generatedAt": "2026-10-30T02:44:13.142Z",
+  "analysis": {
+    "oneLine": "ppt-master 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
+    "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
+    "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
+    "detailParagraphs": [
+      "ppt-master 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
+      "如果把它放进实际使用场景，ppt-master 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 70,894，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "团队 AI 编码规范",
+      "Codex/Claude Code 工作流优化",
+      "代码评审清单",
+      "开发者培训材料"
+    ],
+    "interpretation": "ppt-master 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "brew install python\nbrew install pandoc\ngit clone https://github.com/hugohe3/ppt-master.git\npip install -r requirements.txt\npip install -r requirements.txt",
+    "deployment": "无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升 Claude Code 或同类编码 Agent 的执行稳定性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-10-30T02:44:13.143Z"
+}
