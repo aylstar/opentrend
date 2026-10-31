@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Exclusive details about Akai’s MPC Sample Key",
+  "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]",
+  "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+  "publishedAt": "2026-10-30T21:01:32.000Z",
+  "id": "the-verge-2914b0ee",
+  "slug": "the-verge-2914b0ee",
+  "content": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts’ delight. While there’s no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of the upcoming instrument that offer some details about its feature set. While the Sample Key shares many of the same controls as the MPC Sample — including the three context-sensitive encoders, a large main encoder — it seems designed for pitched sample playback, rather than chopping up drums. In fact, the “chop” button from the MPC Sample is missing entirely from the Sample Key. The dedicated pitch and mod wheels are another clue there. But there are also buttons for changing the octave range of the 25-key keyboard, as well as ones labeled “chord” and “arp.” Presumably, those enable a chord playback mode and an arpeggiator. While using an arpeggiator to play back drum samples can be a fun way to create rhythms, it’s more commonly used for melodic and bass parts. And a chord mode would be basically useless for drums. Those options also appear to replace the chop function from the standard MPC Sample. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01905_WEB.jpeg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01928_WEB-1.jpeg?quality=90&strip=all] There also appears to be a dedicated looper that could be useful for live performance and layering sounds. And, instead of the Flex Beat effects from the original MPC Sample, there’s something called “Swarm.” Though what that is isn’t exactly clear at the moment. Like the first entry in the Sample series, the Key has a built-in mic and speaker for all-in-one music production. While we haven’t gotten a glimpse at the back panel yet, the config options on the front suggest that, in addition to MIDI, the Sample Key will have CV outs for integrating with modular synths. Correction October 30th: The MPC Sample Key is 25 keys, not 37.",
+  "fetchedAt": "2026-10-31T02:34:45.208Z",
+  "score": 80,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "安全",
+    "产品"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "有关 Akai 的 MPC 示例密钥的独家详细信息",
+  "chineseSummary": "Akai 本周早些时候在 Instagram 上预告了其新的 MPC Sample Key，并表示计划开源其软件，以便模组社区可以尽情地破解它。虽然目前还没有关于该设备何时推出或售价多少的消息，但 The Verge 已经收到了 [...]",
+  "chineseContent": "Akai 本周早些时候在 Instagram 上调侃了其新的 MPC Sample Key，并表示计划开源其软件，以便模组社区可以尽情地破解它。虽然目前还没有关于该设备何时推出或售价多少的消息，但 The Verge 已经收到了即将推出的仪器的独家图片，其中提供了有关其功能集的一些详细信息。虽然 Sample Key 与 MPC Sample 共享许多相同的控件（包括三个上下文相关编码器、一个大型主编码器），但它似乎是为音高样本播放而设计的，而不是为击打鼓而设计的。事实上，MPC Sample 中的“chop”按钮在 Sample Key 中完全消失了。专用的音高轮和调制轮是另一个线索。但也有一些按钮可以更改 25 键键盘的八度范围，以及标记为“和弦”和“琶音”的按钮。据推测，这些启用了和弦播放模式和琶音器。虽然使用琶音器播放鼓样本可能是创建节奏的一种有趣方式，但它更常用于旋律和低音部分。和弦模式对于鼓来说基本上毫无用处。这些选项似乎还取代了标准 MPC 示例中的斩波功能。 [图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&strip=all] [图片： https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01905_WEB.jpeg?quality=90&strip=all] [图片： https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01928_WEB-1.jpeg?quality=90&strip=all] 似乎还有一个专用的循环器，可用于现场表演和分层声音。而且，不是原始 MPC 样本中的 Flex Beat 效果，而是一些校准的东西",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

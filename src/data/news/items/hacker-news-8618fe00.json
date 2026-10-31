@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Bunny CDN Security Incident",
+  "summary": "205 points · 40 comments",
+  "content": "205 points · 40 comments",
+  "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+  "publishedAt": "2026-10-30T19:05:22.000Z",
+  "points": 205,
+  "id": "hacker-news-8618fe00",
+  "slug": "hacker-news-8618fe00",
+  "fetchedAt": "2026-10-31T02:34:45.206Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "兔子CDN安全事件",
+  "chineseSummary": "205 分 · 40 条评论",
+  "chineseContent": "205 分 · 40 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

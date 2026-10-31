@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple Intelligence is finally coming to China with iOS 27.3",
+  "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
+  "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+  "publishedAt": "2026-10-30T22:32:53.000Z",
+  "id": "the-verge-5c04c3f5",
+  "slug": "the-verge-5c04c3f5",
+  "content": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that’s set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn’t bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Qwen chatbot in some experiences, which sounds similar to iOS’s integration with OpenAI’s ChatGPT that launched in 2024. Apple Intelligence was approved in China in July, which signalled that the launch of the AI tools was getting near. Apple trained its own LLM specifically for China, Reuters reported in August.",
+  "fetchedAt": "2026-10-31T02:34:45.208Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "产品"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Apple Intelligence 终于携 iOS 27.3 登陆中国",
+  "chineseSummary": "据 MacRumors 报道，苹果公司在其中文新闻编辑室网站上宣布，将通过 iOS 27.3 在中国推出 Apple Intelligence。 Apple Intelligence 功能将首先在定于 11 月 4 日发布的 iOS 27.3 测试版中提供，完整的 iOS 27.3 版本计划于 12 月发布。这次发布不会带来[...]",
+  "chineseContent": "据 MacRumors 报道，苹果公司在其中文新闻编辑室网站上宣布，将通过 iOS 27.3 在中国推出 Apple Intelligence。 Apple Intelligence 功能将首先在定于 11 月 4 日发布的 iOS 27.3 测试版中提供，完整的 iOS 27.3 计划于 12 月发布。此次发布并未将新的 Siri AI 引入中国。相反，苹果正在推出一些早期的 Apple Intelligence 功能，例如通知摘要、实时翻译、重写和校对工具、视觉智能以及从照片中删除对象。苹果还表示，已与阿里巴巴合作，在某些体验中增加了对其 Qwen 聊天机器人的支持，这听起来类似于 iOS 与 2024 年推出的 OpenAI 的 ChatGPT 的集成。Apple Intelligence 于 7 月在中国获得批准，这标志着人工智能工具的推出已经临近。据路透社八月报道，苹果公司专门为中国培养了自己的法学硕士。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

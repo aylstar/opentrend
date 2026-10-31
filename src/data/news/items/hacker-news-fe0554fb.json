@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Linode Security Incident",
+  "summary": "156 points · 84 comments",
+  "content": "156 points · 84 comments",
+  "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+  "publishedAt": "2026-10-30T21:57:40.000Z",
+  "points": 156,
+  "id": "hacker-news-fe0554fb",
+  "slug": "hacker-news-fe0554fb",
+  "fetchedAt": "2026-10-31T02:34:45.206Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "易量网络科技有限公司安全事件",
+  "chineseSummary": "156 分 · 84 条评论",
+  "chineseContent": "156 分 · 84 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

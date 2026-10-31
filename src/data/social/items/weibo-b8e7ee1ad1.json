@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b8e7ee1ad1",
+  "slug": "weibo-金球奖公布投票详情",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "金球奖公布投票详情",
+  "summary": "微博热榜第 30 位：金球奖公布投票详情，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%90%83%E5%A5%96%E5%85%AC%E5%B8%83%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-10-31T02:31:46.866Z",
+  "fetchedAt": "2026-10-31T02:36:16.679Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

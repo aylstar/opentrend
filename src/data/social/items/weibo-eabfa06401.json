@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eabfa06401",
+  "slug": "weibo-s16抽签",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "S16抽签",
+  "summary": "微博热榜第 8 位：S16抽签，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23S16%E6%8A%BD%E7%AD%BE%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-10-31T02:31:46.866Z",
+  "fetchedAt": "2026-10-31T02:36:16.679Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

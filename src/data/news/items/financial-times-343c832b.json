@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US tech stocks tumble as concerns over AI spending intensify",
+  "summary": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree",
+  "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-30T21:13:50.000Z",
+  "id": "financial-times-343c832b",
+  "slug": "financial-times-343c832b",
+  "content": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree",
+  "fetchedAt": "2026-10-31T02:34:45.214Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "由于对 AI 支出的担忧加剧，美国科技股暴跌",
+  "chineseSummary": "Anthropic 首次公开募股后可能获得垃圾级评级的消息加剧了人们对行业借贷热潮的担忧",
+  "chineseContent": "Anthropic 首次公开募股后可能获得垃圾级评级的消息加剧了人们对行业借贷热潮的担忧",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The biggest names in AI are backing a new way to opt out of scraping",
+  "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+  "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+  "publishedAt": "2026-10-30T20:26:10.000Z",
+  "id": "the-verge-26f2935c",
+  "slug": "the-verge-26f2935c",
+  "content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared “policy token” signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website’s robots.txt file, which has long signaled which web crawlers can and can’t scrape a site — whether for search indexing, archiving, or AI training. Currently, sites have to signal their AI training preferences separately to each AI company. The announcement comes as publishers grapple with the continuing influx of AI crawlers scraping their sites and feeding their content into AI models. Some companies and organizations have attempted to combat unauthorized scraping, with the Really Simple Licensing (RSL) standard giving publishers the ability to charge crawlers that visit their sites, and Cloudflare blocking AI crawlers by default. OpenAI, Google, Microsoft, and Anthropic say they will restrict their AI crawlers from accessing a site if they encounter the shared token. Meta communications head Andy Stone also signaled support for the new setting, but doesn’t say whether the company will honor it. “We believe creating a common signal that conveys such preferences to multiple providers at once is an important step,” Stone says. “And we look forward to working with other AI companies on the standards and their implementation across the industry.” Microsoft says it will offer granular controls that will give publishers the ability to opt out of AI training or AI grounding, the process of pointing an AI model to a verified source of information to reduce hallucinations. Microsoft notes that websites will still appear in Bing’s search results regardless of their preferences. Google previously implemented similar controls that allow sites to control whether their content appears in AI search features or is used for AI training, without impacting visibility in search. While Anthropic has already adopted the signal, Google and Microsoft plan to support it next year. OpenAI says it will implement it in the “coming months.” Update, October 30th: Added a comment from Meta.",
+  "fetchedAt": "2026-10-31T02:34:45.208Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 领域的知名人士正在支持一种选择退出抓取的新方式",
+  "chineseSummary": "正如搜索引擎圆桌会议早些时候报道的那样，OpenAI、谷歌、微软和 Anthropic 表示，他们将采用一项新标准，出版商可以使用该标准来选择不被人工智能抓取。通过这种控制，出版商可以将他们的人工智能培训偏好应用于多个人工智能公司，而不是单独设置。共享的“政策令牌”信号[...]",
+  "chineseContent": "正如搜索引擎圆桌会议早些时候报道的那样，OpenAI、谷歌、微软和 Anthropic 表示，他们将采用一项新标准，出版商可以使用该标准来选择不被人工智能抓取。通过这种控制，出版商可以将他们的人工智能培训偏好应用于多个人工智能公司，而不是单独设置。共享“策略令牌”信号是由 Anthropic 标准技术主管 Kevin Kelley 提出的，作为互联网工程任务组 (IETF) 的一部分。它将存在于网站的 robots.txt 文件中，该文件长期以来一直表明哪些网络爬虫可以和不能抓取网站——无论是用于搜索索引、存档还是人工智能训练。目前，网站必须分别向每个人工智能公司传达其人工智能培训偏好。这一消息发布之际，出版商正在努力应对不断涌入的人工智能爬虫，这些爬虫会抓取他们的网站并将其内容输入人工智能模型。一些公司和组织试图打击未经授权的抓取，真正简单许可 (RSL) 标准使发布商能够向访问其网站的爬虫收费，而 Cloudflare 默认情况下会阻止 AI 爬虫。 OpenAI、谷歌、微软和 Anthropic 表示，如果遇到共享令牌，他们将限制人工智能爬虫访问网站。 Meta 通讯主管安迪·斯通 (Andy Stone) 也表示支持新设置，但没有透露公司是否会遵守它。 “我们相信，创建一个共同信号，将此类偏好同时传达给多个提供商是重要的一步，”斯通说。 “我们期待与其他人工智能公司就标准及其在整个行业的实施进行合作。”微软表示将提供精细的控制，使出版商能够选择退出人工智能培训或人工智能地面",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

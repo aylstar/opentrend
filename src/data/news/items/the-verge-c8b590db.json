@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+  "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+  "publishedAt": "2026-10-30T20:48:43.000Z",
+  "id": "the-verge-c8b590db",
+  "slug": "the-verge-c8b590db",
+  "content": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it’s “terrible” to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI’s impact on math, Altman said: > “A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we’re going to be able to run them on our computers, and so we’re not going to need all the stuff in the data center. > But from a global allocation perspective, actually, it’s quite terrible to have everybody have a bunch of the world’s limited supply of DRAM sitting in their own computer and being used five percent of the time. > You want maximum utilization in the cloud if you’re trying to deal with this very supply constrained environment. And somehow everyone’s— many people’s intuition is the opposite of that.” [Media: https://www.youtube.com/watch?v=iMsUcCYNKqY&t=1747s] Whether Altman meant your gaming PC or developers working with something like the Surface RTX Spark Dev Box or the new touchscreen MacBook Pro, the outcome is the same. Right now, memory companies Samsung and SK Hynix have long term deals with cloud service operators and projects like OpenAI’s Stargate that have reserved much of the world’s RAM output over the next few years. And the billions they’re willing to lay out for chips is why the laptops, phones, and other tech you use are getting more expensive right now.",
+  "fetchedAt": "2026-10-31T02:34:45.208Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Sam Altman 表示，RAM 放在数据中心比放在办公桌上更好",
+  "chineseSummary": "当被问及供应链短缺（例如持续的 RAM 短缺）时，OpenAI 首席执行官 Sam Altman 在接受采访时表示，在个人电脑而不是数据中心使用 RAM 是“可怕的”。在出现在 Cheeky Pint 播客中时，他还评论了人工智能对数学的影响，他说：“很多人想要 […]",
+  "chineseContent": "当被问及供应链短缺（例如持续的 RAM 短缺）时，OpenAI 首席执行官 Sam Altman 在接受采访时表示，在个人电脑而不是数据中心使用 RAM 是“可怕的”。在他出现在 Cheeky Pint 播客中时，他还评论了人工智能对数学的影响，他说：>“很多人想要本地推理。不知何故，他们认为问题现在已经解决了，因为我们将拥有开源模型，我们将能够在我们的计算机上运行它们，所以我们不需要数据中心的所有东西。>但从全球分配的角度来看，实际上，让每个人都有一堆是非常可怕的世界上有限的 DRAM 存储在自己的计算机中，并且有 5% 的时间被使用 > 如果您试图应对这种供应非常有限的环境，那么您希望在云中实现最大利用率，但不知何故，许多人的直觉与此相反。” [媒体：https://www.youtube.com/watch?v=iMsUcCYNKqY&t=1747s] 无论 Altman 指的是您的游戏 PC 还是使用 Surface RTX Spark Dev Box 或新款触摸屏 MacBook Pro 等设备的开发人员，结果都是一样的。目前，存储公司三星和 SK 海力士与云服务运营商和 OpenAI 的 Stargate 等项目签订了长期协议，这些项目在未来几年保留了全球大部分 RAM 产量。他们愿意为芯片投入数十亿美元，这就是为什么你现在使用的笔记本电脑、手机和其他技术变得越来越贵的原因。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

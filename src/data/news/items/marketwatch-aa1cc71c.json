@@ -1,0 +1,25 @@
+{
+  "source": "MarketWatch",
+  "category": "finance",
+  "originalTitle": "This cybersecurity stock will be the next to join the S&P 500",
+  "summary": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+  "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+  "publishedAt": "2026-10-30T22:20:00.000Z",
+  "id": "marketwatch-aa1cc71c",
+  "slug": "marketwatch-aa1cc71c",
+  "content": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+  "fetchedAt": "2026-10-31T02:34:45.212Z",
+  "score": 90,
+  "sourceWeight": 84,
+  "tags": [
+    "金融",
+    "安全"
+  ],
+  "rank": 9,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "该网络安全股票将成为下一只加入标准普尔 500 指数的股票",
+  "chineseSummary": "Okta 将于周三加入该指数，取代 Kenvue。",
+  "chineseContent": "Okta 将于周三加入该指数，取代 Kenvue。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "How North Korea became a hacking superpower",
+  "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+  "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-30T11:20:19.000Z",
+  "id": "financial-times-3819f9f9",
+  "slug": "financial-times-3819f9f9",
+  "content": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+  "fetchedAt": "2026-10-31T02:34:45.214Z",
+  "score": 80,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "安全"
+  ],
+  "rank": 28,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "朝鲜如何成为黑客超级大国",
+  "chineseSummary": "因制裁而陷入资金短缺的国家已大力投资网络战以帮助自给自足",
+  "chineseContent": "因制裁而陷入资金短缺的国家已大力投资网络战以帮助自给自足",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

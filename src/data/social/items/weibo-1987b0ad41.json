@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1987b0ad41",
+  "slug": "weibo-女推",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "女推",
+  "summary": "微博热榜第 38 位：女推，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8E%A8%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-10-31T02:31:46.866Z",
+  "fetchedAt": "2026-10-31T02:36:16.680Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

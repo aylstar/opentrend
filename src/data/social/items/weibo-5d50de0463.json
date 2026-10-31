@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5d50de0463",
+  "slug": "weibo-波兰政变",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "波兰政变",
+  "summary": "微博热榜第 1 位：波兰政变，当前热度为 284万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%85%B0%E6%94%BF%E5%8F%98%23",
+  "hotValue": "284万热度",
+  "author": "",
+  "publishedAt": "2026-10-31T02:31:46.866Z",
+  "fetchedAt": "2026-10-31T02:36:16.679Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
