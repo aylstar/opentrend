@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5ef785491a",
+  "slug": "weibo-文吉儿-王子璇",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 22,
+  "title": "文吉儿 王子璇",
+  "summary": "微博热榜第 22 位：文吉儿 王子璇，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF+%E7%8E%8B%E5%AD%90%E7%92%87%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2cf3b9aeb9",
+  "slug": "weibo-儿童版迪丽热巴",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 27,
+  "title": "儿童版迪丽热巴",
+  "summary": "微博热榜第 27 位：儿童版迪丽热巴，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E7%89%88%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ca3a42a274",
+  "slug": "weibo-永夜星河",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "永夜星河",
+  "summary": "微博热榜第 19 位：永夜星河，当前热度为 34万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%23",
+  "hotValue": "34万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

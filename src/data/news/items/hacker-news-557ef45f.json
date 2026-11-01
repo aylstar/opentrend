@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "HackerTube: YouTube built from videos recommended by HN",
+  "summary": "762 points · 250 comments",
+  "content": "It was Friday night at 11pm, I was tired, I went to YouTube to watch something and realized that I was looking at an enshittified wall of slop. Insanely exaggerated thumbnails, dumb recommendations of the same tired topics, truly terrible idiocracy-grade content. I'm sure this algorithm works well for the median person on the internet, but it definitely does not work for me. So this morning (Saturday) I took a hold of my Opus 5.5 and gave it the task: Let's write our own YouTube clone based on whatever videos have been recommended on Hacker News. And Opus came back with: hackertube.org !\n\nOpus downloaded all comments of HackerNews, filtered them down, ran Sonnet over them in a workflow, got rid of spam and low grade content, and narrowed them down to just 40K comments recommending a YouTube video. In total, we get 6,454 YouTube videos that have been recommended by a few people on HN from 2007-2026 across 150 topics. Then we wrap it up in a YouTube UI, get a domain, push to a VPS, secure, harden, optimize and voila!\n\nThis takes ~2 hours now. I can breathe again. Thank you Opus 5.5 <3.",
+  "url": "https://karpathy.bearblog.dev/hacker-tube/",
+  "publishedAt": "2026-10-31T19:56:53.000Z",
+  "points": 762,
+  "id": "hacker-news-557ef45f",
+  "slug": "hacker-news-557ef45f",
+  "fetchedAt": "2026-11-01T02:23:45.495Z",
+  "score": 70,
+  "sourceWeight": 86,
+  "tags": [
+    "安全",
+    "视频"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "HackerTube：根据 HN 推荐的视频构建的 YouTube",
+  "chineseSummary": "762 分 · 250 条评论",
+  "chineseContent": "那是星期五晚上 11 点，我累了，我去 YouTube 上看一些东西，然后意识到我看到的是一堵肮脏的斜坡墙。疯狂夸张的缩略图，同样令人厌倦的主题的愚蠢推荐，真正可怕的白痴级内容。我确信这个算法对于互联网上的中间人来说效果很好，但它绝对不适合我。所以今天早上（星期六）我拿起我的 Opus 5.5 并给了它一个任务：让我们根据 Hacker News 上推荐的任何视频来编写我们自己的 YouTube 克隆版。 Opus 回来了：hackertube.org！\n\nOpus 下载了 HackerNews 的所有评论，对其进行过滤，在工作流程中对它们运行 Sonnet，去除垃圾邮件和低级内容，并将其范围缩小到仅 4 万条推荐 YouTube 视频的评论。从 2007 年到 2026 年，我们总共获得了 HN 上一些人推荐的 6,454 个 YouTube 视频，涉及 150 个主题。然后我们将其包装在 YouTube UI 中，获取域名，推送到 VPS，安全，强化，优化，瞧！\n\n现在这需要约 2 小时。我又可以呼吸了。谢谢 Opus 5.5 <3。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

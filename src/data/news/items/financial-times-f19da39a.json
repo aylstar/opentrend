@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Is this the first clear evidence of AI’s impact on the labour market?",
+  "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+  "url": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+  "publishedAt": "2026-10-31T05:00:31.000Z",
+  "id": "financial-times-f19da39a",
+  "slug": "financial-times-f19da39a",
+  "content": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+  "fetchedAt": "2026-11-01T02:23:45.504Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "科技",
+    "金融",
+    "产品"
+  ],
+  "rank": 5,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "这是 AI 对劳动力市场影响的第一个明确证据吗？",
+  "chineseSummary": "科技行业的生产率上升，就业率下降，但其他领域的情况则更加混乱",
+  "chineseContent": "科技行业的生产率上升，就业率下降，但其他领域的情况则更加混乱",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

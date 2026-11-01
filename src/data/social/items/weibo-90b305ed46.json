@@ -1,0 +1,21 @@
+{
+  "id": "weibo-90b305ed46",
+  "slug": "weibo-bin单杀zeus",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "Bin单杀Zeus",
+  "summary": "微博热榜第 24 位：Bin单杀Zeus，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Bin%E5%8D%95%E6%9D%80Zeus%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

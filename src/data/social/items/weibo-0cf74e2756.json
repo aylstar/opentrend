@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0cf74e2756",
+  "slug": "weibo-韩网热议hle遭blg淘汰",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "韩网热议HLE遭BLG淘汰",
+  "summary": "微博热榜第 5 位：韩网热议HLE遭BLG淘汰，当前热度为 65万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AEHLE%E9%81%ADBLG%E6%B7%98%E6%B1%B0%23",
+  "hotValue": "65万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

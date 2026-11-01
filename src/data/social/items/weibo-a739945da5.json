@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a739945da5",
+  "slug": "weibo-肖战史冠",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "肖战史冠",
+  "summary": "微博热榜第 10 位：肖战史冠，当前热度为 38万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8F%B2%E5%86%A0%23",
+  "hotValue": "38万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

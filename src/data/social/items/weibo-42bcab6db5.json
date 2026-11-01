@@ -1,0 +1,21 @@
+{
+  "id": "weibo-42bcab6db5",
+  "slug": "weibo-blg战胜hle",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "BLG战胜HLE",
+  "summary": "微博热榜第 15 位：BLG战胜HLE，当前热度为 36万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CHLE%23",
+  "hotValue": "36万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

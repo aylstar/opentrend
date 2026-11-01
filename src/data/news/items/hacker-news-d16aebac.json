@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Anthropic blocks users for anything touching training larger models",
+  "summary": "207 points · 118 comments",
+  "content": "Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked, Opus 5.5 downgrade…",
+  "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+  "publishedAt": "2026-10-31T19:39:19.000Z",
+  "points": 207,
+  "id": "hacker-news-d16aebac",
+  "slug": "hacker-news-d16aebac",
+  "fetchedAt": "2026-11-01T02:23:45.496Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+  "chineseSummary": "207 分 · 118 条评论",
+  "chineseContent": "为@DarioAmodei / Anthropic感到羞耻。我从来没有提炼过 Claude——推出来自强大的开源模型；克劳德只是帮助提交作业并进行分析。仍然被贴上“训练竞争对手”的标签，现在任何涉及 RFT、SFT 或训练更大模型的东西都会让我受阻，Opus 5.5 降级……",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

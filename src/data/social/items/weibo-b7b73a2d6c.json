@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b7b73a2d6c",
+  "slug": "weibo-中国机遇清单不断扩展",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "中国机遇清单不断扩展",
+  "summary": "微博热榜第 3 位：中国机遇清单不断扩展，当前热度为 67万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%E6%B8%85%E5%8D%95%E4%B8%8D%E6%96%AD%E6%89%A9%E5%B1%95%23",
+  "hotValue": "67万热度",
+  "author": "",
+  "publishedAt": "2026-11-01T02:15:12.745Z",
+  "fetchedAt": "2026-11-01T02:25:09.744Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
