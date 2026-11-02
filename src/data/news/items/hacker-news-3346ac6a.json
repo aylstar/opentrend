@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Domain hacks with unusual Unicode characters (2018)",
+  "summary": "58 points · 47 comments",
+  "content": "Unicode contains a range of symbols which don't get much use. For example, there are separate symbols for TradeMark - ™, Service Mark - ℠, and Prescriptions - ℞.\n\nNestling among the \"Letterlike Symbols\" are two curious entries. Both of these are single characters:\n\nWhat's interesting is both .tel and .no are Top-Level-Domains (TLD) on the Domain Name System (DNS).\n\nSo my contact site - https://edent.tel/ - can be written as - https://edent.℡/\n\nAnd the Norwegian domain name registry NORID can be accessed at https://www.norid.№/\n\nCopy and paste those links - they work in any browser!\n\nNo! This works ANYWHERE in a domain name. Copy and paste these examples:\n\nThere are a whole bunch more miscellaneous characters you can use:\n\nMagic! Which is to say, I think it is the browser doing the conversion. DNS Servers don't successfully reply to queries about .℡ domains.\n\nThe browser sees the .℡ and then follows the IDNA2008 process listed in RFC5895 to normalise it:\n\nmap characters to the \"Simple_Lowercase_Mapping\" property (the fourteenth column) in http://www.unicode.org/Public/UNIDATA/UnicodeData.txt >, if any.\n\n2121;TELEPHONE SIGN;So;0;ON; 0054 0045 004C;;;;N;T E L SYMBOL;;;;\n\nU+0054 is T, U+0045 is E, U+004C is L.\n\nYes! I asked people on Twitter whether they could access my website using a .℡ - and it appeared to work on every modern browser and operating system.\n\nIt even works on command line tools like wget and curl .\n\nIt does fail in some circumstances:\n\nObviously yes. This may be the most important discovery of the decade. You get cool looking URls and get to save a couple of characters on specific domains, at the minor expense of working inconsistently.\n\nIt could also be used for evading URl filters.\n\nEvery modern browser supports these \"fancy\" domain names - but most websites won't automatically link to them. So sharing on Facebook doesn't work.\n\nHere are the single characters which can be normalised down to a valid TLD. They're mostly country codes, but there are a few interesting exceptions:\n\nIf you can find any more, please stick a comment in the box below.\n\nYou can always reach this blog post at:",
+  "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+  "publishedAt": "2026-11-01T10:44:20.000Z",
+  "points": 58,
+  "id": "hacker-news-3346ac6a",
+  "slug": "hacker-news-3346ac6a",
+  "fetchedAt": "2026-11-02T02:38:45.832Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "使用不寻常的 Unicode 字符进行域名黑客攻击 (2018)",
+  "chineseSummary": "58 分 · 47 条评论",
+  "chineseContent": "Unicode 包含一系列没有太多用途的符号。例如，商标 - ™、服务标记 - ℠ 和处方 - ℞ 有单独的符号。\n\n在“类似字母的符号”之中有两个奇怪的条目。这两个都是单个字符：\n\n有趣的是 .tel 和 .no 都是域名系统 (DNS) 上的顶级域 (TLD)。\n\n所以我的联系网站 - https://edent.tel/ - 可以写成 - https://edent.℡/\n\n挪威域名注册机构 NORID 可以通过以下网址访问：https://www.norid.№/\n\n复制并粘贴这些链接 - 它们可以在任何浏览器中使用！\n\n不！这在域名中的任何地方都有效。复制并粘贴这些示例：\n\n您可以使用更多其他字符：\n\n魔法！也就是说，我认为是浏览器在进行转换。 DNS 服务器无法成功回复有关 .℡ 域的查询。\n\n浏览器看到 .℡，然后按照 RFC5895 中列出的 IDNA2008 流程对其进行标准化：\n\n将字符映射到 http://www.unicode.org/Public/UNIDATA/UnicodeData.txt > 中的“Simple_Lowercase_Mapping”属性（第十四列）（如果有）。\n\n2121;电话标志;所以;0;开; 0054 0045 004C;;;;N;电话符号;;;;\n\nU+0054 是 T，U+0045 是 E，U+004C 是 L。\n\n是的！我在 Twitter 上询问人们是否可以使用 .℡ 访问我的网站 - 它似乎适用于所有现代浏览器和操作系统。\n\n它甚至适用于 wget 和 curl 等命令行工具。\n\n在某些情况下它确实会失败：\n\n显然是的。这可能是十年来最重要的发现。您可以获得看起来很酷的 URL，并可以在特定域上保存几个字符，但会因工作不一致而付出很小的代价。\n\n它还可以用于逃避 UR1 过滤器。\n\n每个现代浏览器都支持这些“花哨”的域名 - 但大多数网站不会自动链接到它们。所以在 Facebook 上分享是行不通的。\n\n以下是可以标准化为有效 TLD 的单个字符。它们大多是国家/地区代码，但也有一些有趣的例外：\n\n如果您能找到更多内容，请在下面的框中发表评论。\n\n您可以随时访问此博客文章：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

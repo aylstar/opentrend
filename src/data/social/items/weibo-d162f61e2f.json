@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d162f61e2f",
+  "slug": "weibo-微信转账加一个动作",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "微信转账加一个动作",
+  "summary": "微博热榜第 1 位：微信转账加一个动作，当前热度为 173万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23",
+  "hotValue": "173万热度",
+  "author": "",
+  "publishedAt": "2026-11-02T02:32:12.918Z",
+  "fetchedAt": "2026-11-02T02:40:08.274Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

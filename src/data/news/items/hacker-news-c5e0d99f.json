@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+  "summary": "190 points · 154 comments",
+  "content": "AI hasn’t benefited the bottom line of any big corporations outside the tech industry, according to a note recently published by the chief economist at Apollo Global Management (the private equity giant that used to own TechCrunch).\n\nApollo’s Torsten Slok focuses on what he calls the S&P 493 — the S&P 500, minus Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla — finding that profit margins and revenue per worker appear to be flat, with no evidence that AI is improving productivity.\n\n“Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said.\n\nIs this simply a matter of non-tech companies lagging behind the tech giants? Slok sounded skeptical, arguing that it will be tough for corporate America to “turn increasingly cheap intelligence into higher revenue growth and higher profit margins.”\n\n“AI may be a great calculator, but in business, intelligence is mostly judgment,” he wrote, later adding, “AI does not understand accountability, trust, culture, unwritten rules, ethical trade-offs or fairness, all of which shape reputational risk and ultimately drive revenue growth and profit margins.”\n\nRecent studies have also found that AI has yet to deliver significant productivity gains .\n\nBuy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\n\nAI can make tech CEOs’ lives easier. What about everyone else?\n\nJudge allows NAACP lawsuit over xAI data center pollution to move forward\n\nOpenAI might rebrand its data centers as ‘AI compute campuses’\n\nApple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "publishedAt": "2026-11-01T22:10:45.000Z",
+  "points": 190,
+  "id": "hacker-news-c5e0d99f",
+  "slug": "hacker-news-c5e0d99f",
+  "fetchedAt": "2026-11-02T02:38:45.832Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "阿波罗经济学家表示，AI 为大多数公司带来“零财务回报”",
+  "chineseSummary": "190 分 · 154 条评论",
+  "chineseContent": "阿波罗全球管理公司（Apollo Global Management，曾经拥有 TechCrunch 的私募股权巨头）的首席经济学家最近发表的一份报告指出，人工智能并未给科技行业以外的任何大公司带来利润。\n\nApollo 的 Torsten Slok 专注于他所谓的 S&P 493（即 S&P 500，减去 Alphabet、亚马逊、苹果、Meta、微软、Nvidia 和特斯拉），发现利润率和人均收入似乎持平，没有证据表明人工智能正在提高生产力。\n\n斯洛克说：“尽管围绕人工智能进行了大量投资和广泛炒作，但该技术为科技以外的美国企业带来的财务回报为零。”\n\n这仅仅是非科技公司落后于科技巨头的问题吗？斯洛克听起来持怀疑态度，他认为美国企业界很难“将日益廉价的情报转化为更高的收入增长和更高的利润率”。\n\n他写道：“人工智能可能是一个很棒的计算器，但在商业中，智能主要是判断力。人工智能不理解责任、信任、文化、不成文规则、道德权衡或公平，所有这些都会影响声誉风险，并最终推动收入增长和利润率。”\n\n最近的研究还发现，人工智能尚未带来显着的生产力提升。\n\n买一张通行证，免费获得第二张 在 BOGO 优惠到期之前，带您的联合创始人或合作伙伴免费预订 TechCrunch 年度终极创始人训练营，了解更多内容\n\n人工智能可以让科技首席执行官的生活变得更轻松。其他人呢？\n\n法官允许全国有色人种协进会继续推进有关 xAI 数据中心污染的诉讼\n\nOpenAI 可能会将其数据中心重新命名为“AI 计算园区”\n\n苹果首席执行官表示公司不想“为了人工智能而推出人工智能”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

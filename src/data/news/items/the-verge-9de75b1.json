@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "North Korea linked to massive Binance crypto heist",
+  "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
+  "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+  "publishedAt": "2026-11-01T14:33:11.000Z",
+  "id": "the-verge-9de75b1",
+  "slug": "the-verge-9de75b1",
+  "content": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says: > North Korea Responsible for $6 Billion+ Binance Attack > The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.” > The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages. As expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack.",
+  "fetchedAt": "2026-11-02T02:38:45.834Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "安全"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "朝鲜与大规模币安加密货币抢劫案有关",
+  "chineseSummary": "FBI 表示，朝鲜是 10 月 29 日币安遭受价值 63 亿美元的大规模加密货币盗窃案的幕后黑手。美国联邦调查局将这一活动标记为“TraderTraitor”，并表示已观察到与该活动有关的黑客将代币转换为以太坊，并准备进一步洗钱。该机构提供了一些其他的[...]",
+  "chineseContent": "FBI 表示，朝鲜是 10 月 29 日币安遭受价值 63 亿美元的大规模加密货币盗窃案的幕后黑手。美国联邦调查局将该活动标记为“TraderTraitor”，并表示已观察到与该活动有关的黑客将代币转换为以太坊，并准备进一步洗钱。该机构几乎没有提供其他细节或证据。声明称： > 朝鲜对币安网价值超过 60 亿美元的攻击负有责任 > 美国联邦调查局 (FBI) 发布信息称，朝鲜民主主义人民共和国（朝鲜）应对 2026 年 10 月 29 日左右从加密货币交易所币安网盗窃超过 60 亿美元的虚拟资产负责。FBI 将朝鲜的这一特定恶意网络活动称为“TraderTraitor”。 > FBI 与 USSS 和 IRS-CI 的合作伙伴一起观察到 TraderTraitor 参与者主要将被盗资产转换为以太坊 (ETH)。预计这些资产将通过使用 DeFi 和即时交换服务进行转换来进一步洗钱，为进一步的洗钱阶段做好准备。正如预期的那样，币安在黑客事件发生后立即冻结了客户提款，今天重新开放了客户提款。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

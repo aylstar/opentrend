@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec8c185a9c",
+  "slug": "weibo-迪丽热巴w盛典口碑",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 48,
+  "title": "迪丽热巴w盛典口碑",
+  "summary": "微博热榜第 48 位：迪丽热巴w盛典口碑，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4w%E7%9B%9B%E5%85%B8%E5%8F%A3%E7%A2%91%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-11-02T02:32:12.918Z",
+  "fetchedAt": "2026-11-02T02:40:08.275Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

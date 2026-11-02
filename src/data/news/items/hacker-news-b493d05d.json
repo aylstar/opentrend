@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+  "summary": "173 points · 42 comments",
+  "content": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s. It's open source. AGPLv3. It's based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high. I'm still developing it. It's v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well. AI Disclosure: Yes, I do use AI. No, I do not vibecode.",
+  "url": "https://github.com/ivankovic/omnidiff",
+  "publishedAt": "2026-11-01T13:02:30.000Z",
+  "points": 173,
+  "id": "hacker-news-b493d05d",
+  "slug": "hacker-news-b493d05d",
+  "fetchedAt": "2026-11-02T02:38:45.832Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "全球",
+    "产品"
+  ],
+  "rank": 4,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：OmniDiff – 开源、超快、内容感知的 Git difftool，采用 Rust 语言",
+  "chineseSummary": "173 分 · 42 条评论",
+  "chineseContent": "我一直在根据开源存储库中的实际差异研究最终的差异工具是什么样子。 OmniDiff 可以比较：代码（25 种语言）、配置、图像、PDF、档案、光标、字体...速度很快。它可以在 2023 ThinkPad T14s 上在 100 毫秒内比较数万行的 C++ 文件。它是开源的。 AGPLv3。它基于真实的差异。在将每种内容类型的差异管道放在一起之前，我查看了 Gentoo 包中列出的 7400 个存储库，采样了 2000 个差异并手动解决它们，以便更好地了解所需内容。顺便说一句，这也构成了 CI 管道的基础，因此代码库的健壮性相当高。我还在开发它。现在是v0.3.0。但我已经每天使用它作为我的 git difftool 几个月了，而且效果很好。人工智能披露：是的，我确实使用人工智能。不，我没有 vivicode。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

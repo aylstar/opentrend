@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s HomeView could add security camera features",
+  "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly […]",
+  "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+  "publishedAt": "2026-11-01T17:16:07.000Z",
+  "id": "the-verge-877de169",
+  "slug": "the-verge-877de169",
+  "content": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly reads: “Your HomeView can be used as a security camera with HomeKit Secure Video.” Supposedly, the video feeds will only be visible to members of the home, and will both show an indicator light and play a sound when either someone is watching the camera feed or when it starts to record. Home members will also get a notification anytime settings are changed for the Secure Video mode. It will also include customizable options for what to detect, stream, or record, based on whether you’re home, away, or asleep. Some wondered why Apple did not allow HomeView to double as a security camera at launch, and the company hasn’t said anything to suggest the features are coming. But, considering how central privacy is to Apple’s marketing, the company may be waiting to fine-tune those features before launch.",
+  "fetchedAt": "2026-11-02T02:38:45.833Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果 HomeView 可能会添加安全摄像头功能",
+  "chineseSummary": "Reddit 用户 pdfu 在 HomeView 27.2 代码中发现了隐藏的暗示，表明苹果可能会在其智能家居中心添加安全摄像头功能。这些字符串描述了具有运动检测、实时流媒体和录制选项以及隐私功能的安全摄像头模式。根据 pdfu 的说法，有一个设置页面甚至明确 [...]",
+  "chineseContent": "Reddit 用户 pdfu 在 HomeView 27.2 代码中发现了隐藏的暗示，表明苹果可能会在其智能家居中心添加安全摄像头功能。这些字符串描述了具有运动检测、实时流媒体和录制选项以及隐私功能的安全摄像头模式。根据 pdfu 的说法，有一个设置页面甚至明确写道：“您的 HomeView 可以用作具有 HomeKit 安全视频的安全摄像头。”据称，视频源仅对家庭成员可见，并且当有人观看摄像机源或开始录制时，视频源会显示指示灯并播放声音。每当安全视频模式的设置发生更改时，家庭成员也会收到通知。它还将包括根据您是否在家、外出或睡觉来检测、流式传输或记录内容的可定制选项。一些人想知道为什么苹果在推出时不允许 HomeView 兼作安全摄像头，而且该公司也没有表示任何暗示该功能即将推出的信息。但是，考虑到隐私对于苹果营销的重要性，该公司可能会在发布之前等待对这些功能进行微调。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
