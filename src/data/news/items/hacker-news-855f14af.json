@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "WTF Ubuntu?",
+  "summary": "1375 points · 594 comments",
+  "content": "In case you missed it: CVE-2026-98432 is a critical (CVSS 9.8) bug in the Linux kernel's TCP code. It's been there since 2016, so virtually every Linux server on the planet has it, and it can be hit remotely. Anthropic says it built a working exploit that gets root on a server. A total takeover.\n\nDebian patched it on October 16 . Ubuntu still doesn't have a patch more than two weeks later. Every supported release, LTS included, is listed as \"Vulnerable\".\n\nUbuntu's website promises \"timely patches for critical vulnerabilities.\" Ubuntu hasn't shipped the patch nine days after it was rated 9.8 and six days after a working root exploit. Very fucking timely indeed.\n\nSoftware is full of this blabber where words mean nothing. Ubuntu uses words like these: \"Timely.\" \"Enterprise-grade.\" \"Production grade.\" \"Enterprise resilience. Developer velocity. Build with confidence on Ubuntu.\"\n\nSomebody, or perhaps worse, some special team at Canonical is dedicated to writing these........\n\nSo I'm asking again... What the fuck, Ubuntu?\n\nI'm moving all my servers off Ubuntu. I've completely lost trust in it. On the desktop I always hated it anyway. On servers I mostly used it because it's the default on most VPS providers, and I considered it the solid, no-drama LTS distro. Fuck that now.\n\nI can't express how crazy this is. I didn't have time to migrate my services and data when I learned about this, so I had to take all my servers that run Ubuntu offline.\n\nOh and btw, distros run by volunteers (Debian, Arch, Alpine...) hve shipped the fix. Meanwhile Ubuntu, made by a company that sells security subscriptions, hasn't. This is true as of 2026-11-02 14:48 UTC.",
+  "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+  "publishedAt": "2026-11-02T14:52:00.000Z",
+  "points": 1375,
+  "id": "hacker-news-855f14af",
+  "slug": "hacker-news-855f14af",
+  "fetchedAt": "2026-11-03T03:58:19.364Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 3,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "搞什么Ubuntu？",
+  "chineseSummary": "1375 分 · 594 条评论",
+  "chineseContent": "如果您错过了：CVE-2026-98432 是 Linux 内核 TCP 代码中的一个严重 (CVSS 9.8) 错误。它自 2016 年以来就一直存在，因此实际上地球上的每台 Linux 服务器都拥有它，并且可以远程攻击它。 Anthropic 表示，它构建了一个可以在服务器上获取 root 权限的有效漏洞。彻底接管。\n\nDebian 于 10 月 16 日对其进行了修补。两周多过去了，Ubuntu 仍然没有补丁。每个受支持的版本（包括 LTS）都被列为“易受攻击”。\n\nUbuntu 的网站承诺“及时修补关键漏洞”。 Ubuntu 在评级为 9.8 后九天、root 漏洞有效六天后仍未发布该补丁。确实非常及时。\n\n软件里充满了这些胡言乱语，言语毫无意义。 Ubuntu 使用这样的词：“及时”。 “企业级。” “生产级。” “企业弹性。开发人员速度。在 Ubuntu 上充满信心地构建。”\n\n有人，或者更糟糕的是，Canonical 的某个特殊团队致力于编写这些......\n\n所以我又问了...搞什么鬼，Ubuntu？\n\n我正在将所有服务器从 Ubuntu 上移走。我已经彻底失去了对它的信任。无论如何，在桌面上我总是讨厌它。在服务器上，我主要使用它，因为它是大多数 VPS 提供商的默认设置，而且我认为它是可靠的、无戏剧性的 LTS 发行版。现在去他妈的。\n\n我无法表达这有多疯狂。当我得知此事时，我没有时间迁移我的服务和数据，所以我不得不让所有运行 Ubuntu 的服务器离线。\n\n哦，顺便说一句，由志愿者运行的发行版（Debian、Arch、Alpine...）已经发布了修复程序。与此同时，由一家销售安全订阅的公司制造的 Ubuntu 却没有。截至 UTC 时间 2026 年 11 月 2 日 14:48 为止，情况属实。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

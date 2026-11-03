@@ -1,0 +1,26 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "What we know about the alert app hack in Ukraine and Russia",
+  "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
+  "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-11-02T14:24:25.000Z",
+  "id": "bbc-da349d7a",
+  "slug": "bbc-da349d7a",
+  "content": "Ukraine's emergency alert app issued a nationwide air raid warning, as well as alerts for a radiological threat, a chemical attack and street fighting in Kyiv on Sunday evening - all of which turned out to false.\n\nA few hours later, Russia said its equivalent app had also issued false alerts, with both countries claiming their systems had been hacked.\n\nIt is still unclear who is to blame for the cyber-attacks and whether the two incidents are connected - the BBC's cyber correspondent Joe Tidy explains what we know so far.",
+  "fetchedAt": "2026-11-03T03:58:19.359Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我们对乌克兰和俄罗斯的警报应用程序黑客攻击了解多少",
+  "chineseSummary": "乌克兰和俄罗斯均表示，他们的空袭警报应用程序遭到了网络攻击 - Joe Tidy 解释了我们目前所知的情况。",
+  "chineseContent": "乌克兰紧急警报应用程序于周日晚上发布了全国范围的空袭警报，以及基辅的放射性威胁、化学袭击和街头斗殴警报，但所有这些警报均被证明是错误的。\n\n几个小时后，俄罗斯表示其同类应用程序也发出了虚假警报，两国均声称其系统遭到黑客攻击。\n\n目前尚不清楚谁应对网络攻击负责，也不清楚这两起事件是否有关联——BBC 网络记者乔·蒂迪 (Joe Tidy) 解释了我们目前所知的情况。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

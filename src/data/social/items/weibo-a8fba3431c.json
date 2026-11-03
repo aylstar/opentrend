@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a8fba3431c",
+  "slug": "weibo-星巴克-老人",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "星巴克 老人",
+  "summary": "微博热榜第 13 位：星巴克 老人，当前热度为 47万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B+%E8%80%81%E4%BA%BA%23",
+  "hotValue": "47万热度",
+  "author": "",
+  "publishedAt": "2026-11-03T03:55:22.422Z",
+  "fetchedAt": "2026-11-03T03:59:09.627Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

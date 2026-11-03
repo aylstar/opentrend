@@ -1,0 +1,27 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
+  "summary": "Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday.",
+  "url": "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
+  "publishedAt": "2026-11-03T02:32:39.000Z",
+  "id": "yahoo-finance-9c0f8761",
+  "slug": "yahoo-finance-9c0f8761",
+  "content": "Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday.",
+  "fetchedAt": "2026-11-03T03:58:19.367Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 25,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货：随着 Marvell、Lumentum 暴跌，AI 交易跳水；苹果公司盈利因接下来的中期选举而大幅下滑",
+  "chineseSummary": "道琼斯期货：周一人工智能交易暴跌，而苹果股价因财报尾盘而下跌。中期选举将于周二举行。",
+  "chineseContent": "道琼斯期货：周一人工智能交易暴跌，而苹果股价因财报尾盘而下跌。中期选举将于周二举行。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

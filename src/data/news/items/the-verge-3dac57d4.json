@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI pitches data center power plants as a way to protect nearby areas",
+  "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+  "publishedAt": "2026-11-02T18:01:30.000Z",
+  "id": "the-verge-3dac57d4",
+  "slug": "the-verge-3dac57d4",
+  "content": "In an announcement on Monday, OpenAI says it will pilot its “Grid Protectors Program” at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to data centers spreads across the US, in response to massive projects that have begun development and construction, frequently with little or no input from local residents. In Utah, residents protested after Box Elder County commissioners signed off on a data center expected to consume more than double the state’s peak electricity demand in 2025, and spread hot air in the desert valley surrounding the data center. Now OpenAI’s approach is to pitch the construction of power plants that feed the electricity required by the new AI data centers it’s building as “a resource that utilities can call on when communities need it most.” Several states like Tennessee, Florida, Oklahoma, Oregon, and others have enacted laws that say they will prevent AI companies from passing energy costs on to residents, in addition to moratoriums and other restrictions. This is besides the environmental impacts, as a recent study by the Houston Advanced Research Center (HARC) said that powering proposed Texas data center projects could undo decades of air quality gains over just five years. OpenAI, which has switched to calling its AI data centers “compute campuses” in an effort to separate from their poor public reputation, claims it helps reduce costs for customers by operating year-round: “Electricity demand also rises and falls with the seasons, with different regions facing their biggest peaks at different times,” OpenAI’s announcement says. “Our compute campuses need power year-round. With the right agreements, that steady demand can help spread the grid’s fixed costs across more electricity sales, while flexibility lets us reduce demand when the system is busiest.” OpenAI says it’s going to continue working with policymakers and utility services to make “arrangements for our future campus to reduce electricity demand when the grid is under strain.” Along with its data center in Georgia, OpenAI is also partnering with Oracle and SoftBank to build its “Stargate” data centers across the US, including in Shackelford County, Texas; Doña Ana County, New Mexico; and Milam County, Texas.",
+  "fetchedAt": "2026-11-03T03:58:19.367Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 将数据中心发电厂作为保护附近地区的一种方式",
+  "chineseSummary": "OpenAI 在周一的一份声明中表示，将在佐治亚州埃芬汉县即将建成的数据中心试行其“电网保护者计划”，该公司承诺在极端天气或紧急情况下释放高达 1,000 兆瓦的电力，足以为大约 700,000 户家庭的空调供电。该公告是针对[...]的反对",
+  "chineseContent": "OpenAI 在周一的一份声明中表示，将在佐治亚州埃芬汉县即将建成的数据中心试行其“电网保护者计划”，该公司承诺在极端天气或紧急情况下释放高达 1,000 兆瓦的电力，足以为大约 700,000 户家庭的空调供电。这一消息发布之际，美国各地对数据中心的反对情绪正在蔓延，以应对已经开始开发和建设的大型项目，而当地居民的意见往往很少或根本没有。在犹他州，博克斯埃尔德县专员签署了一个数据中心的批准，该数据中心预计将在 2025 年消耗该州峰值电力需求的两倍以上，并在数据中心周围的沙漠山谷中传播热空气，引发居民抗议。现在，OpenAI 的方法是宣传发电厂的建设，为其正在建设的新人工智能数据中心提供所需的电力，并将其视为“公用事业公司在社区最需要时可以调用的资源”。田纳西州、佛罗里达州、俄克拉荷马州、俄勒冈州等几个州已经颁布了法律，除了暂停和其他限制外，还将阻止人工智能公司将能源成本转嫁给居民。这还不包括对环境的影响，休斯敦高级研究中心 (HARC) 最近的一项研究表明，为拟议的德克萨斯州数据中心项目供电可能会在短短五年内抵消数十年的空气质量改善。 OpenAI 已改称其人工智能数据中心为“计算园区”，以摆脱其糟糕的公众声誉，并声称通过全年运营有助于降低客户成本：“电力需求也会随着季节的变化而升降，不同地区在不同的时间面临最大的峰值，”OpenAI 的公告称。 “我们的计算",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

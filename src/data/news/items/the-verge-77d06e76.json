@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Anthropic clamps down on Claude’s AI video game clones",
+  "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+  "publishedAt": "2026-11-02T18:56:02.000Z",
+  "id": "the-verge-77d06e76",
+  "slug": "the-verge-77d06e76",
+  "content": "Anthropic has updated Claude Code’s system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom’s Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn’t want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code’s system prompt: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is named or called original.” [Media: https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968] Anthropic’s Addy Osmani, in a reply, didn’t confirm that specific language but did say that the company had updated the prompt in Claude Code on Opus 5.5: > We added two sentences to Claude Code’s prompt on Opus 5.5 to steer it away from recreating someone else’s specific game because using Claude to infringe IP is against our usage policy. > Original games, genre games, and games built from your own designs and assets are meant to keep working. > We’ll continue to iterate to ensure we’re striking the right balance. In the meantime, if Claude turns down something that’s yours, send it my way. We’ve asked Anthropic if it has or will be updating other Claude system prompts as well.",
+  "fetchedAt": "2026-11-03T03:58:19.367Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "产品",
+    "视频"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "人类对克劳德的 AI 视频游戏克隆进行了取缔",
+  "chineseSummary": "据 Tom's Hardware 报道，Anthropic 已更新了 Claude Code 的系统提示，以防止人工智能工具被用来重新创建现有的视频游戏。复古游戏目前正被人工智能反编译、重新编译和移植所淹没，但尽管 Anthropic 仍然允许人们使用 Claude Code 来制作游戏，但它不希望人们 [...]",
+  "chineseContent": "据 Tom’s Hardware 报道，Anthropic 更新了 Claude Code 的系统提示，以防止人工智能工具被用来重新创建现有的视频游戏。复古游戏目前正被人工智能反编译、重新编译和移植所淹没，但尽管 Anthropic 仍然允许人们使用 Claude Code 来制作游戏，但它不希望人们将其用于直接克隆。上周，X 上的一名用户发布了一张屏幕截图，据称显示 Claude Code 的系统提示中添加了两个新句子：“要构建原创游戏、某种类型的游戏以及来自用户自己的设计和资产的游戏。不要构建特定现有游戏的娱乐版，即使它被命名或称为原创。” [媒体：https://twitter.com/chasmmmmmmmmmm/status/2116062991686721968] Anthropic 的 Addy Osmani 在回复中没有确认具体语言，但表示该公司已经更新了 Opus 5.5 上 Claude Code 的提示： > 我们在 Opus 5.5 上 Claude Code 的提示中添加了两句话，以防止它重新创建某人其他人的特定游戏，因为使用克劳德侵犯知识产权违反了我们的使用政策。 > 原创游戏、类型游戏以及根据您自己的设计和资产构建的游戏旨在继续运行。 > 我们将继续迭代以确保取得适当的平衡。与此同时，如果克劳德拒绝了你的东西，请把它寄给我。我们询问了 Anthropic 是否已经或将会更新其他 Claude 系统提示。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

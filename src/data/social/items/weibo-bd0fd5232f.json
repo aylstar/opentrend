@@ -1,0 +1,21 @@
+{
+  "id": "weibo-bd0fd5232f",
+  "slug": "weibo-白小纯心虚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "白小纯心虚",
+  "summary": "微博热榜第 44 位：白小纯心虚，当前热度为 19万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%BF%83%E8%99%9A%23",
+  "hotValue": "19万热度",
+  "author": "",
+  "publishedAt": "2026-11-03T03:55:22.422Z",
+  "fetchedAt": "2026-11-03T03:59:09.627Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

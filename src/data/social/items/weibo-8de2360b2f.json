@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8de2360b2f",
+  "slug": "weibo-76人战胜公牛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "76人战胜公牛",
+  "summary": "微博热榜第 46 位：76人战胜公牛，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%2376%E4%BA%BA%E6%88%98%E8%83%9C%E5%85%AC%E7%89%9B%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-11-03T03:55:22.422Z",
+  "fetchedAt": "2026-11-03T03:59:09.627Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

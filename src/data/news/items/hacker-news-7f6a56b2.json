@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+  "summary": "226 points · 37 comments",
+  "content": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. You can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper). Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It's based on several open datasets, including: - OpenStreetMap ( https://www.openstreetmap.org/#map=6/52.02/19.14 ) - buildings, streets, sidewalks, tram tracks, etc - GUGiK / Geoportal ( https://www.geoportal.gov.pl/ ) - LiDAR for building heights and trees, aerial imagery for colours - Warsaw's city tree database ( https://mapa.um.warszawa.pl/ ) - individual tree species, used for seasonal foliage Open-source ( https://github.com/stared/warsaw-vibe-voxel ), so feel invited to (re)use it as you wish!",
+  "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+  "publishedAt": "2026-11-02T16:25:26.000Z",
+  "points": 226,
+  "id": "hacker-news-7f6a56b2",
+  "slug": "hacker-news-7f6a56b2",
+  "fetchedAt": "2026-11-03T03:58:19.364Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "显示 HN：以体素形式显示华沙 – 市中心的交互式 3D 地图",
+  "chineseSummary": "226 分 · 37 条评论",
+  "chineseContent": "以体素形式探索华沙市中心 - 受到 Minecraft 和 MagicaVoxel 的启发。你可以改变日期、一天中的时间和天气，探索城市，或者点击行人来控制他们（这里有一些来自《地下城守护者》的灵感）。在桌面上效果最好，但我尝试让它在移动设备上也可用。初始加载可能需要一段时间。它基于多个开放数据集，包括： - OpenStreetMap ( https://www.openstreetmap.org/#map=6/52.02/19.14 ) - 建筑物、街道、人行道、电车轨道等 - GUGiK / Geoportal ( https://www.geoportal.gov.pl/ ) - LiDAR 用于建筑物高度和树木、颜色航空图像 - 华沙的城市树木数据库 ( https://mapa.um.warszawa.pl/ ） - 单个树种，用于季节性树叶开源（ https://github.com/stared/warsaw-vibe-voxel ），因此请随意（重新）使用它！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

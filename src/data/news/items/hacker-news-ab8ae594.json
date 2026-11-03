@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Scaling Git at OpenAI",
+  "summary": "79 points · 26 comments",
+  "content": "79 points · 26 comments",
+  "url": "https://openai.com/index/scaling-git-at-openai/",
+  "publishedAt": "2026-11-02T23:47:56.000Z",
+  "points": 79,
+  "id": "hacker-news-ab8ae594",
+  "slug": "hacker-news-ab8ae594",
+  "fetchedAt": "2026-11-03T03:58:19.363Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 7,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "扩展 Git 和 OpenAI",
+  "chineseSummary": "79 分 · 26 条评论",
+  "chineseContent": "79 分 · 26 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
