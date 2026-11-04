@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cc20431419",
+  "slug": "weibo-尚公主被偷数据",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "尚公主被偷数据",
+  "summary": "微博热榜第 18 位：尚公主被偷数据，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E8%A2%AB%E5%81%B7%E6%95%B0%E6%8D%AE%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-11-04T02:59:21.915Z",
+  "fetchedAt": "2026-11-04T03:05:28.916Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

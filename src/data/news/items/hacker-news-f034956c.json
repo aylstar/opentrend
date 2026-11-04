@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Jailbreaking my car's navigation system just so I can change the time",
+  "summary": "640 points · 268 comments",
+  "content": "The car that I drive is a 2014 Renault Latitude. It's not a fancy car by any means and is starting to show its age, but it gets me from point A to point B and does everything else reasonably well so I've never really had any reason to complain. When I bought the car, the previous owner asked me whether I wanted a \"navigation map SD card\" with it. They mentioned that the car apparently needs this SD card just to change the time on the clock, but I didn't really find that believable - not that they were lying to me, but perhaps they couldn't figure out how to enter the correct settings menu. After all, videos of similar head units online showed the menu with the clock settings option right there. Since the maps on the SD card were apparently very out of date and didn't function properly, I decided I didn't need it and the previous owner tossed it.\n\nBorrowing a trick from kernel exploits",
+  "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+  "publishedAt": "2026-11-02T16:29:19.000Z",
+  "points": 640,
+  "id": "hacker-news-f034956c",
+  "slug": "hacker-news-f034956c",
+  "fetchedAt": "2026-11-04T03:04:22.844Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "全球"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "越狱我的汽车导航系统只是为了改变时间",
+  "chineseSummary": "640 分 · 268 条评论",
+  "chineseContent": "我开的车是 2014 款雷诺 Latitude。无论如何，它都不是一辆豪华的汽车，而且开始显示出它的年龄，但它让我从 A 点到 B 点，并且在其他一切方面都做得相当好，所以我从来没有真正有任何理由抱怨。买车的时候，前车主问我要不要配一张“导航地图SD卡”。他们提到汽车显然需要这张 SD 卡来改变时钟上的时间，但我真的觉得这不太可信——不是他们在骗我，但也许他们不知道如何进入正确的设置菜单。毕竟，在线类似主机的视频显示了带有时钟设置选项的菜单。由于 SD 卡上的地图显然已经过时并且无法正常工作，因此我决定不再需要它，并且前任所有者将其扔掉了。\n\n借鉴内核漏洞利用的技巧",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

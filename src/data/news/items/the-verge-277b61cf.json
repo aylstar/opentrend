@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+  "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers […]",
+  "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+  "publishedAt": "2026-11-03T22:04:02.000Z",
+  "id": "the-verge-277b61cf",
+  "slug": "the-verge-277b61cf",
+  "content": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers and how they work. Then, in September, another engineer was targeted by someone pretending to be interested in hiring them; that person set up a series of calls and multiple rounds of interviews, shared social media pages to build trust, and eventually prompted them to download a fake interview assignment that was actually malware. Binance claims that its security teams did detect the first installation of malware in June, and replaced the worker’s device, but that its security tools didn’t detect the second attack that deleted the pyenv executable and replaced it with a malicious version that gave them backdoor access: > The malware employed sophisticated obfuscation and evasion techniques, including replacing a legitimate development tool component with a malicious version to execute commands and establish communication with an attacker-controlled external server. The 0-day malware was not detected by the endpoint security protection tools at the time. The attacker also took steps to conceal the malicious activity and remove traces of the compromise, making detection and subsequent investigation more challenging. By October 20th, the story goes, the attackers, whom the FBI has identified as a North Korean unit dubbed “TraderTraitor,” used Binance’s own internal AI tool to gain control over wallets for the first engineer compromised in June, as well as a third employee, before logging into the third employee’s computer on October 29th and launching their attack. The postmortem also goes into why Binance wasn’t able to stop the transactions that occurred nearly two hours after the first unauthorized transfers, saying that “Because the hot wallet used Multi-Party Computation (MPC), there was no single private key that could be used to immediately revoke the malicious EIP-7702 authorizations.” Binance says that it has prevented 57 suspected North Korea-linked cyber threat cases, and CEO Richard Teng writes that no user is bearing the loss, with about $2.85 billion in stolen assets frozen or intercepted: “At this moment, 98% of impacted tokens had been replenished; we’re completing the remaining 2%. Withdrawals have broadly resumed.” What’s less clear is why this particular attack worked — the danger of job interviews that ask people to download and execute code on machines with access to employer material has been warned about for years, and there’s little detail on the “internal AI tool” that was used by the attackers and why it was able to help them in the first place. [Media: https://twitter.com/heyibinance/status/2117641073095033095]",
+  "fetchedAt": "2026-11-04T03:04:22.848Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "币安称黑客利用虚假求职面试和内部 AI 工具窃取了 63 亿美元资金",
+  "chineseSummary": "据币安称，迄今为止最大的加密货币盗窃案是通过在几个月的时间内结合一些众所周知的黑客技术而完成的。该公司的事后分析称，这一过程始于 6 月份，一名开发人员下载了一个显然是由恶意谷歌广告传播的被篡改的安装程序，暴露了有关工程师的详细信息 [...]",
+  "chineseContent": "据币安称，迄今为止最大的加密货币盗窃案是通过在几个月的时间内结合一些众所周知的黑客技术而完成的。该公司的事后调查显示，这一过程始于 6 月份，一名开发人员下载了一个显然是通过恶意谷歌广告传播的被篡改的安装程序，暴露了有关工程师及其工作方式的详细信息。然后，在 9 月份，另一名工程师成为了假装有兴趣雇用他们的人的目标；该人拨打了一系列电话并进行了多轮面试，分享了社交媒体页面以建立信任，并最终促使他们下载了一份实际上是恶意软件的虚假面试作业。币安声称，其安全团队确实在 6 月份检测到了恶意软件的第一次安装，并更换了工作人员的设备，但其安全工具没有检测到第二次攻击，即删除 pyenv 可执行文件并将其替换为允许后门访问的恶意版本： > 该恶意软件采用了复杂的混淆和规避技术，包括用恶意版本替换合法的开发工具组件来执行命令并与攻击者控制的外部服务器建立通信。当时端点安全防护工具未检测到该 0day 恶意软件。攻击者还采取措施隐藏恶意活动并消除入侵痕迹，使检测和后续调查更具挑战性。据报道，到 10 月 20 日，攻击者（美国联邦调查局 (FBI) 已将其确定为一个被称为“TraderTraitor”的朝鲜单位）使用币安自己的内部人工智能工具来控制 6 月份第一位受感染工程师以及第三名员工的钱包，然后于 10 月登录第三名员工的计算机",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

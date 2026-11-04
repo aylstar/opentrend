@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+  "summary": "64 points · 8 comments",
+  "content": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics. 1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have. We address this by using “System One” decision models in additional to traditional models such as XGBoost and logistic regression. This allows you to incorporate plain language questions such as “Is this a throwaway email” into your decisioning, bypassing the need for large amounts of labeled data. This also allows you to capture aspects of fraud that are more unstructured, which is something that XGBoost models struggle with. 2. Fraud teams are facing off with live players that are constantly changing their behavior to bypass the detection logic they have in place. You can train a detection model or define a ruleset once, but it will become obsolete in a matter of weeks as fraudsters figure out what your detection logic is. This means that you need a team regularly training models and updating rules based on new fraud patterns. Typically this takes a large data science/ML team. Kairos addresses this by introducing an MCP server, so that your agent (Claude Code, Cursor, Codex, etc.) can define a decision workflow, train models on your data, and pick the variant that performs best. You can self-host Kairos with Docker or use the hosted version at https://kairos.finic.ai",
+  "url": "https://github.com/finic-ai/kairos",
+  "publishedAt": "2026-11-03T21:16:48.000Z",
+  "points": 64,
+  "id": "hacker-news-26b0cf20",
+  "slug": "hacker-news-26b0cf20",
+  "fetchedAt": "2026-11-04T03:04:22.845Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 10,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Kairos – 开源风险和欺诈决策平台",
+  "chineseSummary": "64 分 · 8 条评论",
+  "chineseContent": "嘿，HN，我是来自 Finic 的 Ayan。我们正在推出 Kairos，这是 Sift、Sardine 和其他实时欺诈决策平台的开源替代品。 Kairos 解决了传统决策工具面临的两个最大问题：缺乏用于训练和应对不断改变策略的欺诈者的标记数据。 1. 传统的欺诈解决方案使用 XGBoost 等机器学习模型来检测欺诈，但这些模型依赖于许多企业不具备的质量标记数据。除了 XGBoost 和逻辑回归等传统模型之外，我们还通过使用“System One”决策模型来解决这个问题。这使您可以将诸如“这是一次性电子邮件吗”之类的简单语言问题纳入您的决策中，从而绕过对大量标记数据的需求。这还允许您捕获更加非结构化的欺诈行为，这是 XGBoost 模型难以解决的问题。 2. 欺诈团队面临着现场玩家，他们不断改变自己的行为以绕过他们现有的检测逻辑。您可以训练一个检测模型或定义一次规则集，但随着欺诈者弄清楚您的检测逻辑是什么，它会在几周内变得过时。这意味着您需要一个团队定期训练模型并根据新的欺诈模式更新规则。通常这需要大型数据科学/机器学习团队。 Kairos 通过引入 MCP 服务器来解决这个问题，以便您的代理（Claude Code、Cursor、Codex 等）可以定义决策工作流程、根据数据训练模型并选择性能最佳的变体。您可以使用 Docker 自行托管 Kairos 或使用 https://kairos.finic.ai 上的托管版本",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
