@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7d348b893c",
+  "slug": "weibo-延安大学",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "延安大学",
+  "summary": "微博热榜第 11 位：延安大学，当前热度为 41万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%A6%23",
+  "hotValue": "41万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.542Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US stocks post best day since August after Democrats sweep midterms",
+  "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
+  "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+  "publishedAt": "2026-11-05T03:11:55.000Z",
+  "id": "financial-times-312ca5a6",
+  "slug": "financial-times-312ca5a6",
+  "content": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
+  "fetchedAt": "2026-11-05T03:35:04.030Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "全球",
+    "金融",
+    "财经"
+  ],
+  "rank": 14,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "民主党横扫中期选举 美股创八月以来最佳单日表现",
+  "chineseSummary": "由于投资者对人工智能热潮的预期反弹，押注于赢家和输家，超大规模企业激增，芯片制造商下跌",
+  "chineseContent": "由于投资者对人工智能热潮的预期反弹，押注于赢家和输家，超大规模企业激增，芯片制造商下跌",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

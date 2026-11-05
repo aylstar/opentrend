@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d9b1312470",
+  "slug": "weibo-开拓者vs太阳",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "开拓者vs太阳",
+  "summary": "微博热榜第 44 位：开拓者vs太阳，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8B%93%E8%80%85vs%E5%A4%AA%E9%98%B3%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.543Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

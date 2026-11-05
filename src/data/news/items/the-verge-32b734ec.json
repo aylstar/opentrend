@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "X says its updated web app is way faster",
+  "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. […]",
+  "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+  "publishedAt": "2026-11-05T00:25:12.000Z",
+  "id": "the-verge-32b734ec",
+  "slug": "the-verge-32b734ec",
+  "content": "X is introducing a new version of its web app that it says is much faster than before, and it’s now rolling out the updated app “one country at a time” for signed-in users. “Open a profile on X.com over a slow connection,” principal engineer Yagiz Nizipli said in a blog post about the changes. “On the old web app, you’d stare at the X logo for more than 22 seconds before the first post appeared. On the new one, it shows up in 2.7.” The post also goes into technical detail about how the updated app “replaces the three servers we used to run for people, search crawlers, and link previews with one.” Security researcher Jane Manchun Wong posted that she had access to the updated app, and said it “feels snappy, loads fast and many parts are polished.” [Media: https://twitter.com/wongmjane/status/2118069935922680054] The new app is already available for the logged-out version of X.com and for the pages that are crawled by search engines, Nizipli said.",
+  "fetchedAt": "2026-11-05T03:35:04.024Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "X 表示其更新的网络应用程序速度更快",
+  "chineseSummary": "X 正在推出新版本的网络应用程序，据称速度比以前快得多，并且现在正在为登录用户“一次一个国家”推出更新后的应用程序。 “通过慢速连接在 X.com 上打开个人资料，”首席工程师 Yagiz Nizipli 在一篇关于这些变化的博客文章中说道。 […]",
+  "chineseContent": "X 正在推出新版本的网络应用程序，据称速度比以前快得多，并且现在正在为登录用户“一次一个国家”推出更新后的应用程序。 “通过慢速连接在 X.com 上打开个人资料，”首席工程师 Yagiz Nizipli 在一篇关于这些变化的博客文章中说道。 “在旧的网络应用程序上，在第一篇帖子出现之前，你会盯着 X 徽标超过 22 秒。在新的网络应用程序上，它出现在 2.7 中。”这篇文章还详细介绍了更新后的应用程序如何“用一台服务器取代我们过去为人员、搜索爬虫和链接预览运行的三台服务器”。安全研究员 Jane Manchun Wong 发帖表示，她可以访问更新后的应用程序，并表示它“感觉很敏捷，加载速度很快，而且许多部分都经过了精心设计。” [媒体：https://twitter.com/wongmjane/status/2118069935922680054] Nizipli 说，新应用程序已经可用于 X.com 的注销版本以及搜索引擎抓取的页面。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d67feab5a7",
+  "slug": "weibo-ruler谈ig",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "Ruler谈iG",
+  "summary": "微博热榜第 6 位：Ruler谈iG，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Ruler%E8%B0%88iG%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.542Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

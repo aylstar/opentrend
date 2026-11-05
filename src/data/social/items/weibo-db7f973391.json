@@ -1,0 +1,21 @@
+{
+  "id": "weibo-db7f973391",
+  "slug": "weibo-厉娜回应粉丝",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 23,
+  "title": "厉娜回应粉丝",
+  "summary": "微博热榜第 23 位：厉娜回应粉丝，当前热度为 31万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%23",
+  "hotValue": "31万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.542Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

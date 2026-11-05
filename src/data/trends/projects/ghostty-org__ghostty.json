@@ -1,0 +1,68 @@
+{
+  "slug": "ghostty-org__ghostty",
+  "owner": "ghostty-org",
+  "repo": "ghostty",
+  "name": "ghostty",
+  "fullName": "ghostty-org/ghostty",
+  "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+  "language": "Zig",
+  "githubUrl": "https://github.com/ghostty-org/ghostty",
+  "docsUrl": "https://ghostty.org",
+  "stars": 63562,
+  "forks": 3820,
+  "openIssues": 260,
+  "license": "MIT",
+  "pushedAt": "2026-11-04T22:29:54Z",
+  "updatedAt": "2026-11-05T03:32:33Z",
+  "createdAt": "2022-03-29T17:38:26Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "企业工具",
+    "自动化办公"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<!-- LOGO -->\n<h1>\n<p align=\"center\">\n  <img src=\"https://github.com/user-attachments/assets/fe853809-ba8b-400b-83ab-a9a0da25be8a\" alt=\"Logo\" width=\"128\">\n  <br>Ghostty\n</h1>\n  <p align=\"center\">\n    Fast, native, feature-rich terminal emulator pushing modern features.\n    <br />\n    A native GUI or embeddable library via <code>libghostty</code>.\n    <br />\n    <a href=\"#about\">About</a>\n    ·\n    <a href=\"https://ghostty.org/download\">Download</a>\n    ·\n    <a href=\"https://ghostty.org/docs\">Documentation</a>\n    ·\n    <a href=\"CONTRIBUTING.md\">Contributing</a>\n    ·\n    <a href=\"HACKING.md\">Developing</a>\n  </p>\n</p>\n\n## About\n\nGhostty is a terminal emulator that differentiates itself by being\nfast, feature-rich, and native. While there are many excellent terminal\nemulators available, they all force you to choose between speed,\nfeatures, or native UIs. Ghostty provides all three.\n\n**`libghostty`** is a cross-platform, zero-dependency C and Zig library\nfor building terminal emulators or utilizing terminal functionality\n(such as style parsing). Anyone can use `libghostty` to build a terminal\nemulator or embed a terminal into their own applications. See\n[Ghostling](https://github.com/ghostty-org/ghostling) for a minimal complete project\nexample or the [`examples` directory](https://github.com/ghostty-org/ghostty/tree/main/example)\nfor smaller examples of using `libghostty` in C and Zig.\n\nFor more details, see [About Ghostty](https://ghostty.org/docs/about).\n\n## Download\n\nSee the [download page](https://ghostty.org/download) on the Ghostty website.\n\n## Documentation\n\nSee the [documentation](https://ghostty.org/docs) on the Ghostty website.\n\n## Contributing and Developing\n\nIf you have any ideas, issues, etc. regarding Ghostty, or would like to\ncontribute to Ghostty through pull requests, please check out our\n[\"Contributing to Ghostty\"](CONTRIBUTING.md) document. Those who would like\nto get involved with Ghostty's development as well should also read the\n[\"Developing Ghostty\"](HACKING.md) document for more technical details.\n\n## Roadmap and Status\n\nGhostty is stable and in use by millions of people and machines daily.\n\nThe high-level ambitious plan for the project, in order:\n\n|  #  | Step                                                    | Status |\n| :-: | ------------------------------------------------------- | :----: |\n|  1  | Standards-compliant terminal emulation                  |   ✅   |\n|  2  | Competitive performance                                 |   ✅   |\n|  3  | Rich windowing features -- multi-window, tabbing, panes |   ✅   |\n|  4  | Native Platform Experiences                             |   ✅   |\n|  5  | Cross-platform `libghostty` for Embeddable Terminals    |   ✅   |\n|  6  | Ghostty-only Terminal Control Sequences                 |   ❌   |\n\nAdditional details for each step in the big roadmap below:\n\n#### Standards-Compliant Terminal Emulation\n\nGhostty implements all of the regularly used control sequences and\ncan run every mainstre",
+  "generatedAt": "2026-11-05T03:34:48.445Z",
+  "analysis": {
+    "oneLine": "ghostty 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
+    "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
+    "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
+    "detailParagraphs": [
+      "ghostty 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
+      "如果把它放进实际使用场景，ghostty 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 63,562，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Zig 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "公开信息风险排查",
+      "账号暴露核查",
+      "安全培训演示",
+      "企业攻击面初筛"
+    ],
+    "interpretation": "ghostty 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Zig 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "README 未识别出明确安装命令，需要人工核对官方文档。",
+    "deployment": "重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在支持安全研究、身份线索核查或风险排查，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Zig 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险主要是合规、隐私和误报，需要配套人工复核机制。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "企业工具",
+      "自动化办公"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-11-05T03:34:48.446Z"
+}

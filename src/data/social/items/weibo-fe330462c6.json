@@ -1,0 +1,21 @@
+{
+  "id": "weibo-fe330462c6",
+  "slug": "weibo-控kong聊天记录曝光",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 38,
+  "title": "控Kong聊天记录曝光",
+  "summary": "微博热榜第 38 位：控Kong聊天记录曝光，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A7Kong%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.543Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

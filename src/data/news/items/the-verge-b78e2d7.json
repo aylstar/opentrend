@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Gemini for Home now plugs into AT&T’s smart security system",
+  "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
+  "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+  "publishedAt": "2026-11-04T20:23:24.000Z",
+  "id": "the-verge-b78e2d7",
+  "slug": "the-verge-b78e2d7",
+  "content": "AT&T’s smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the “first” home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide detailed descriptions about events captured by your security cameras, such as who delivered a package and how many items they dropped off. You can also search recorded video footage using natural language questions, like “What dug up the yard last night?” or “Who let the dogs out?”, as well as review daily summaries of activity in and outside your home. These features are only available with AT&T’s professional $29.99 / month Connected Life monitoring plan. AT&T is also adding the ability to automatically arm or disarm your home based on your proximity to your home. AT&T launched its Connected Life system last December in partnership with Google and Abode. It’s now taking advantage of Google’s Gemini-powered Home APIs, which allow smart home brands and developers to build AI-powered features into their devices. ADT has also hinted at bringing Gemini for Home features into its security systems.",
+  "fetchedAt": "2026-11-05T03:35:04.025Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "金融",
+    "安全",
+    "产品",
+    "视频"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+  "chineseSummary": "AT&T 的智能家居安全系统现已与 Gemini for Home 集成。该公司表示，其 Connected Life 系统是“第一个”与 Google Home Premium 集成的家庭安全产品，支持一系列由 Gemini 支持的功能，可以总结家庭事件、搜索视频历史记录等。通过更新，Gemini for Home 可以提供 [...]",
+  "chineseContent": "AT&T 的智能家居安全系统现已与 Gemini for Home 集成。该公司表示，其 Connected Life 系统是“首款”与 Google Home Premium 集成的家庭安全产品，支持一系列由 Gemini 驱动的功能，可以总结家庭事件、搜索视频历史记录等。通过更新，Gemini for Home 可以提供有关安全摄像头捕获的事件的详细描述，例如谁交付了包裹以及他们投递了多少物品。您还可以使用自然语言问题搜索录制的视频片段，例如“昨晚是什么挖了院子？”或“谁把狗放出来了？”，以及查看家内外活动的每日摘要。这些功能仅适用于 AT&T 专业的 29.99 美元/月的 Connected Life 监控计划。 AT&T 还增加了根据您与家的距离自动布防或撤防您家的功能。去年 12 月，AT&T 与 Google 和 Abode 合作推出了 Connected Life 系统。它现在正在利用谷歌的 Gemini 支持的 Home API，它允许智能家居品牌和开发人员在他们的设备中构建人工智能支持的功能。 ADT 还暗示将 Gemini for Home 功能引入其安全系统。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

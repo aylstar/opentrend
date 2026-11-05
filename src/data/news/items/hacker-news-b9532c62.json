@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Kimi K3.1 Pro model weights are out",
+  "summary": "414 points · 114 comments",
+  "content": "📰&nbsp;&nbsp; Tech Blog | &nbsp;&nbsp;&nbsp; 🚀&nbsp;&nbsp; API Quickstart\n\nKimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series. With a 1-million-token context window, Kimi K3.1 Pro delivers substantial improvements in coding, 3D creation, financial research, factual accuracy, and other agentic capabilities.\n\n* Compared with Kimi K3, we replace the full-attention Gated MLA layers with Gated DeepSeek Sparse Attention (Gated DSA) layers for more efficient long-context modeling.\n\nUnless otherwise specified, all Kimi K3.1 Pro results use reasoning effort max , temperature = 1.0 , and top-p = 0.95 . A dash ( — ) means that the source table does not report a score. Higher scores are better except where the benchmark name explicitly states lower is better ; Elo scores and other benchmark-specific metrics are not directly comparable with accuracy or pass-rate scores.\n\nYou can access Kimi K3.1 Pro's API on https://platform.kimi.ai by selecting kimi-k3.1-pro , and we provide OpenAI/Anthropic-compatible API for you. Currently, Kimi K3.1 Pro is recommended to run on the following inference engines:\n\nThe thinking effort of Kimi K3.1 Pro is configured with the top-level reasoning_effort request field, which supports \"low\" , \"high\" , and \"max\" (default \"max\" ).\n\nFor multi-turn conversations and tool calls, Kimi K3.1 Pro requires the complete assistant message returned by the API to be passed back to messages as-is — including reasoning_content and tool_calls , not just content :\n\nFor full guides and examples (vision input, structured output, partial mode, tool choice, dynamic tool loading, context caching), see the Kimi K3.1 Pro Quickstart and Thinking Effort .\n\nKimi K3.1 Pro is released under the Kimi K3.1 Pro License .\n\nIf you have any questions, please reach out at support@moonshot.ai .\n\nModel tree for moonshotai/Kimi-K3.1-Pro\n\nSpaces using moonshotai/Kimi-K3.1-Pro 2",
+  "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+  "publishedAt": "2026-11-04T15:30:30.000Z",
+  "points": 414,
+  "id": "hacker-news-b9532c62",
+  "slug": "hacker-news-b9532c62",
+  "fetchedAt": "2026-11-05T03:35:04.021Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Kimi K3.1 Pro型号重量已出",
+  "chineseSummary": "414 分 · 114 条评论",
+  "chineseContent": "📰   技术博客 |     🚀   API 快速入门\n\nKimi K3.1 Pro 是一款开放重量、原生多模式代理模型，也是我们迄今为止功能最强大的 3T 级模型。它是 K3.1 系列中的第一个模型，由 Kimi K3 进行后训练，并在数百个下游领域进行大规模联合强化学习。 Kimi K3.1 Pro 拥有 100 万个令牌上下文窗口，在编码、3D 创建、金融研究、事实准确性和其他代理功能方面实现了重大改进。\n\n* 与 Kimi K3 相比，我们用 Gated DeepSeek Sparse Attention (Gated DSA) 层替换了全注意力 Gated MLA 层，以实现更高效的长上下文建模。\n\n除非另有说明，所有 Kimi K3.1 Pro 结果均使用推理工作 max 、温度 = 1.0 和 top-p = 0.95 。破折号 ( — ) 表示源表不报告分数。分数越高越好，除非基准名称明确指出分数越低越好； Elo 分数和其他特定于基准的指标不能直接与准确性或通过率分数进行比较。\n\n您可以通过选择 kimi-k3.1-pro 在 https://platform.kimi.ai 上访问 Kimi K3.1 Pro 的 API，我们为您提供 OpenAI/Anthropic 兼容的 API。目前，Kimi K3.1 Pro推荐运行在以下推理引擎上：\n\nKimi K3.1 Pro的thinkingeffort配置了顶级reasoning_effort请求字段，支持“low”、“high”、“max”（默认“max”）。\n\n对于多轮对话和工具调用，Kimi K3.1 Pro 要求 API 返回的完整辅助消息按原样传递回消息 - 包括 Reasoning_content 和 tool_calls ，而不仅仅是 content ：\n\n有关完整的指南和示例（视觉输入、结构化输出、部分模式、工具选择、动态工具加载、上下文缓存），请参阅 Kimi K3.1 Pro 快速入门和思考工作 。\n\nKimi K3.1 Pro 是根据 Kimi K3.1 Pro 许可证发布的。\n\n如果您有任何疑问，请联系support@moonshot.ai。\n\nMoonshotai/Kimi-K3.1-Pro 的模型树\n\n使用 Moonshotai/Kimi-K3.1-Pro 2 的空间",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

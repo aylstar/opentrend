@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a7275df91b",
+  "slug": "weibo-青稚降下神罚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "青稚降下神罚",
+  "summary": "微博热榜第 46 位：青稚降下神罚，当前热度为 15万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E9%99%8D%E4%B8%8B%E7%A5%9E%E7%BD%9A%23",
+  "hotValue": "15万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.543Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

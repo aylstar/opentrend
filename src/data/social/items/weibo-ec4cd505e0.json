@@ -1,0 +1,21 @@
+{
+  "id": "weibo-ec4cd505e0",
+  "slug": "weibo-后会友期还没录完",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "后会友期还没录完",
+  "summary": "微博热榜第 30 位：后会友期还没录完，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E8%BF%98%E6%B2%A1%E5%BD%95%E5%AE%8C%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.543Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

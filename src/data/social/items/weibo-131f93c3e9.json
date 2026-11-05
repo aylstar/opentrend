@@ -1,0 +1,21 @@
+{
+  "id": "weibo-131f93c3e9",
+  "slug": "weibo-a股今天继续大涨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "A股今天继续大涨",
+  "summary": "微博热榜第 19 位：A股今天继续大涨，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E7%BB%A7%E7%BB%AD%E5%A4%A7%E6%B6%A8%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-11-05T03:30:38.368Z",
+  "fetchedAt": "2026-11-05T03:36:15.542Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
