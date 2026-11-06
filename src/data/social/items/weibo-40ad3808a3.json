@@ -1,0 +1,21 @@
+{
+  "id": "weibo-40ad3808a3",
+  "slug": "weibo-荣耀700",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 34,
+  "title": "荣耀700",
+  "summary": "微博热榜第 34 位：荣耀700，当前热度为 22万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80700%23",
+  "hotValue": "22万热度",
+  "author": "",
+  "publishedAt": "2026-11-06T03:22:29.632Z",
+  "fetchedAt": "2026-11-06T03:31:24.776Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

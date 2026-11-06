@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Perplexity launches its own take on AI agents for work",
+  "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+  "publishedAt": "2026-11-05T22:26:50.000Z",
+  "id": "the-verge-4a640efc",
+  "slug": "the-verge-4a640efc",
+  "content": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup’s new always-on “Teammates” can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates “build on top” of Computer by offering the ability to collaborate and complete “ongoing, large-scale work.” You can assign each Teammate different jobs that they can perform simultaneously — much like OpenAI’s Dots and Claude Duet. Perplexity’s take on the feature is much more expensive, however, as it requires a subscription to its $200 / month Max plan. [Image: Each Teammate gets their own thread. https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/perplexity-teammates.png?quality=90&strip=all] Perplexity notes that you can keep tabs on Teammates’ progress through individual threads in the Perplexity app, as well as interact with them in Slack. “Over time, we envision every org having hundreds of teammates working for each person,” Perplexity CEO Aravind Srinivas says on X.",
+  "fetchedAt": "2026-11-06T03:30:22.679Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Perplexity 推出了自己的 AI 工作代理",
+  "chineseSummary": "Perplexity 正在通过自己的以工作为中心的人工智能代理来挑战 OpenAI 和 Anthropic。该初创公司全新的始终在线的“队友”可以在工作空间中扮演多个角色，同时从您已经使用的 Perplexity 工具中提取现有项目、技能和记忆。队友与 Perplexity Computer 集成，这是一个可以在您的设备上部署代理的人工智能系统 [...]",
+  "chineseContent": "Perplexity 正在通过自己的以工作为中心的人工智能代理来挑战 OpenAI 和 Anthropic。该初创公司全新的始终在线的“队友”可以在工作空间中扮演多个角色，同时从您已经使用的 Perplexity 工具中提取现有项目、技能和记忆。队友与 Perplexity Computer 集成，这是一个人工智能系统，可以在您的设备上部署代理来完成任务。但 Perplexity 表示，队友“建立在计算机之上”，提供协作和完成“正在进行的大规模工作”的能力。你可以为每个队友分配不同的工作，让他们同时执行——就像 OpenAI 的 Dots 和 Claude Duet 一样。然而，Perplexity 的该功能要贵得多，因为它需要订阅其 200 美元/月的 Max 套餐。 [图片：每个队友都有自己的线程。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/perplexity-teammates.png?quality=90&strip=all] Perplexity 指出，您可以通过 Perplexity 应用程序中的各个线程密切关注队友的进度，并在 Slack 中与他们进行交互。 Perplexity 首席执行官 Aravind Srinivas 在 X 上表示：“随着时间的推移，我们预计每个组织都会有数百名队友为每个人工作。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

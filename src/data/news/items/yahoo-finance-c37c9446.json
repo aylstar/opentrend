@@ -1,0 +1,26 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+  "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
+  "url": "https://finance.yahoo.com/m/0cd2227b-7753-3d54-a8c5-286efe82ac39/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+  "publishedAt": "2026-11-06T03:25:40.000Z",
+  "id": "yahoo-finance-c37c9446",
+  "slug": "yahoo-finance-c37c9446",
+  "content": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
+  "fetchedAt": "2026-11-06T03:30:22.679Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 26,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "道琼斯期货下跌，纳斯达克指数下跌 5.5%，科技股反弹； Nvidia、Sandisk、CoreWeave、SpaceX Plunge",
+  "chineseSummary": "Nvidia、CoreWeave、SpaceX 均暴跌，但股市抛售的范围远远超出了人工智能领域。十月份就业报告即将发布。",
+  "chineseContent": "Nvidia、CoreWeave、SpaceX 均暴跌，但股市抛售的范围远远超出了人工智能领域。十月份就业报告即将发布。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

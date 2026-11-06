@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "MCP Explained",
+  "summary": "257 points · 116 comments",
+  "content": "An open standard for connecting AI apps to the tools and data they use. A server says what it can do, the app shows that to the model, and when the model wants something the app calls the server and hands the result back.\n\nor jump to Tools · the spec time machine · Break it",
+  "url": "https://mcp-explained.com/",
+  "publishedAt": "2026-11-05T14:08:35.000Z",
+  "points": 257,
+  "id": "hacker-news-ed4b6e30",
+  "slug": "hacker-news-ed4b6e30",
+  "fetchedAt": "2026-11-06T03:30:22.677Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "MCP 解释",
+  "chineseSummary": "257 分 · 116 条评论",
+  "chineseContent": "用于将人工智能应用程序与其使用的工具和数据连接起来的开放标准。服务器说明它可以做什么，应用程序将其显示给模型，当模型需要某些东西时，应用程序调用服务器并将结果传回。\n\n或跳至工具·规格时间机器·打破它",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

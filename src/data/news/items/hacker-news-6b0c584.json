@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "sshole",
+  "summary": "2397 points · 592 comments",
+  "content": "back in old unix your password hash just sat in /etc/passwd , right next to your username. in a file everyone could read.\n\nin 1980 bill joy put a * there for an account called daemon . nobody's supposed to ever log in as it.\n\na * isn't a hash, so no password can match it. unix still does this today\n\nthe next field is the real name. he wrote \"the devil himself\"",
+  "url": "https://sshhole.com",
+  "publishedAt": "2026-11-05T12:19:02.000Z",
+  "points": 2397,
+  "id": "hacker-news-6b0c584",
+  "slug": "hacker-news-6b0c584",
+  "fetchedAt": "2026-11-06T03:30:22.676Z",
+  "score": 80,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 4,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "肖尔",
+  "chineseSummary": "2397 分 · 592 条评论",
+  "chineseContent": "回到旧的unix，你的密码哈希就位于 /etc/passwd 中，就在你的用户名旁边。在每个人都可以阅读的文件中。\n\n1980 年，Bill Joy 在一个名为 daemon 的帐户中添加了 * 。没有人应该以它的身份登录。\n\n* 不是哈希，因此没有密码可以匹配它。今天 UNIX 仍然这样做\n\n下一个字段是真实姓名。他写了“魔鬼本人”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

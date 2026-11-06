@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI is stepping back from NDAs for data center projects",
+  "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+  "publishedAt": "2026-11-06T00:37:56.000Z",
+  "id": "the-verge-d4599a13",
+  "slug": "the-verge-d4599a13",
+  "content": "Following this week’s midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won’t use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing “only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.” In October, Amazon announced it would no longer use NDAs with government agencies it works with on data center projects. OpenAI’s additional commitments include paying “the full cost” of electricity it uses and the “infrastructure needed to serve us.” It will make opportunities for local communities by publishing the jobs it expects to create and by reporting on hiring. And every future “compute campus” (its rebranding phrase for data centers) the company owns and operates will have a “local compact” that includes the commitments and will reflect “local priorities,” OpenAI says.",
+  "fetchedAt": "2026-11-06T03:30:22.679Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 退出数据中心项目的保密协议",
+  "chineseSummary": "继本周的中期选举后，选民强烈反对数据中心扩建，OpenAI 今天宣布对其正在开展数据中心项目的社区做出新的承诺，包括不会与公职人员签订保密协议 (NDA)。许多数据中心项目因依赖保密协议来隐藏讨论而受到审查 [...]",
+  "chineseContent": "继本周的中期选举后，选民强烈反对数据中心扩建，OpenAI 今天宣布对其正在开展数据中心项目的社区做出新的承诺，包括不会与公职人员使用保密协议 (NDA)。许多数据中心项目因依赖保密协议来隐藏开发商和当地官员之间的讨论而受到审查。然而，OpenAI 表示，它现在“只允许狭隘的保护，涵盖合法的安全信息、商业秘密、专有或竞争敏感信息”。十月，亚马逊宣布将不再与在数据中心项目上合作的政府机构使用保密协议。 OpenAI 的额外承诺包括支付其使用的“全部成本”以及“为我们服务所需的基础设施”。它将通过发布预期创造的就业机会和报告招聘情况，为当地社区创造机会。 OpenAI 表示，公司拥有和运营的每个未来“计算园区”（数据中心的更名短语）都将有一个“本地契约”，其中包括承诺并将反映“本地优先事项”。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

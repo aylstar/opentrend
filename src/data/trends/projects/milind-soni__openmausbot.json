@@ -1,0 +1,76 @@
+{
+  "slug": "milind-soni__openmausbot",
+  "owner": "milind-soni",
+  "repo": "OpenMausBot",
+  "name": "OpenMausBot",
+  "fullName": "milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "githubUrl": "https://github.com/milind-soni/OpenMausBot",
+  "docsUrl": "https://www.openmausbot.com/",
+  "stars": 13592,
+  "forks": 1882,
+  "openIssues": 718,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-11-06T03:02:05Z",
+  "updatedAt": "2026-11-06T03:29:34Z",
+  "createdAt": "2026-08-11T18:58:55Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "数据分析",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 3,
+  "readmeExcerpt": "<div align=\"center\">\n\n# OpenMausBot\n\n**The open-source Grok Bot alternative: your own team of AI bots, in a chat app.**\n\n[**openmausbot.com**](https://www.openmausbot.com) &nbsp;·&nbsp; [Download](https://www.openmausbot.com/download) &nbsp;·&nbsp; [Open source Grok Bot alternative, compared](https://www.openmausbot.com/blog/grok-bot-vs-openmausbot)\n\n<sub>OpenMausBot is an open-source Grok Bot alternative: an independent project inspired by **Grok Bot**, and the open-source alternative to **Meta Muse**, **OpenAI dots** and **Cue by Manus** — bring-your-own-agent, local-first, on the models you already have. Also known as **MausBot**; formerly **OpenGrokBot**. Not affiliated with xAI, Meta, OpenAI or Manus.</sub>\n\nEvery bot in the sidebar is a real agent — Claude or Codex running locally under the hood — with its own\npersonality, its own model, its own cloud computer, and its own connected apps.\nTalk to them like contacts. Watch them work. Approve what matters.\n\n![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)\n![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)\n![Electron](https://img.shields.io/badge/Electron-macOS%20%C2%B7%20Windows%20%C2%B7%20Ubuntu-2B2E3A?logo=electron&logoColor=9FEAF9)\n![Agents](https://img.shields.io/badge/agents-Claude%20·%20Codex-d97757)\n[![Release](https://img.shields.io/github/v/release/milind-soni/OpenMausBot?label=release&color=1084fe&cacheSeconds=300)](https://github.com/milind-soni/OpenMausBot/releases/latest)\n![PRs](https://img.shields.io/badge/PRs-welcome-38d591)\n\n<br>\n\n<a href=\"https://github.com/milind-soni/OpenMausBot/releases/latest/download/OpenMausBot.dmg\">\n  <img src=\"https://img.shields.io/github/v/release/milind-soni/OpenMausBot?style=for-the-badge&label=%E2%AC%87%EF%B8%8F%20%20Download%20for%20Mac%20%28Apple%20silicon%29&labelColor=070707&color=1084fe&cacheSeconds=300\" alt=\"Download the latest OpenMausBot for Mac with Apple silicon (.dmg)\" height=\"40\">\n</a>\n&nbsp;\n<a href=\"https://github.com/milind-soni/OpenMausBot/releases/latest/download/OpenMausBot-intel.dmg\">\n  <img src=\"https://img.shields.io/github/v/release/milind-soni/OpenMausBot?style=for-the-badge&label=%E2%AC%87%EF%B8%8F%20%20Download%20for%20Mac%20%28Intel%29&labelColor=070707&color=2a9d8f&cacheSeconds=300\" alt=\"Download the latest OpenMausBot for Intel Macs (.dmg)\" height=\"40\">\n</a>\n&nbsp;\n<a href=\"https://github.com/milind-soni/OpenMausBot/releases/latest/download/OpenMausBot-setup.exe\">\n  <img src=\"https://img.shields.io/github/v/release/milind-soni/OpenMausBot?style=for-the-badge&label=%E2%AC%87%EF%B8%8F%20%20Download%20for%20Windows&labelColor=070707&color=4cc2ff&cacheSeconds=300\" alt=\"Download the latest OpenMausBot for Windows (.exe)\" height=\"40\">\n</a>\n&nbsp;\n<a href=\"https://github.com/milind-soni/OpenMausBot/releases/latest/download/OpenMausBot-amd64.deb\">\n  <img src=\"https://img.shields.io/github/v/release/milind-soni/OpenMausBot?style=for-the-badge&lab",
+  "generatedAt": "2026-11-06T03:30:05.886Z",
+  "analysis": {
+    "oneLine": "OpenMausBot 是一个面向 AI Agent 的记忆管理组件，适合用于为智能体应用提供上下文记忆、长期状态和可复用会话能力。",
+    "problem": "多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层",
+    "audience": "AI 应用开发者、Agent 工作流团队、需要构建长期上下文能力的小型产品团队",
+    "detailParagraphs": [
+      "OpenMausBot 更准确地说是一个面向 AI Agent 的记忆管理组件，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：多数 Agent Demo 只能完成单轮任务，缺少可控、可追踪、可迁移的长期记忆层。",
+      "如果把它放进实际使用场景，OpenMausBot 的价值主要来自为智能体应用提供上下文记忆、长期状态和可复用会话能力。当前 Star 约 13,592，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成。需要核对数据库、向量存储、鉴权、清理策略和数据隔离能力，尤其要关注企业客户对隐私和审计的要求。当前最需要警惕的是：风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "客服 Agent 长期上下文",
+      "个人 AI 助手记忆层",
+      "企业知识工作流状态管理",
+      "Agent 框架二次开发"
+    ],
+    "interpretation": "OpenMausBot 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 TypeScript 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/milind-soni/OpenMausBot && cd OpenMausBot\npnpm install\npnpm dev:server    # harness server → 127.0.0.1:8799\npnpm dev           # app → http://127.0.0.1:5199\npnpm dev:desktop   # Electron shell; keep the two commands above running",
+    "deployment": "具备 Docker 线索，可能适合容器化部署，但仍需核对镜像、数据目录和配置项。",
+    "commercialValue": "如果接口清晰、存储可控，它可以成为 Agent 产品中的基础组件，而不是终端应用；商业复用重点在稳定性、可观测性和与现有数据系统的集成；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在为智能体应用提供上下文记忆、长期状态和可复用会话能力，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 TypeScript 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于记忆质量难评估、数据越权风险高、不同模型和工作流下效果波动较大。",
+    "recommendation": 3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "数据分析",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-11-06T03:30:05.887Z"
+}

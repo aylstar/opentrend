@@ -1,0 +1,21 @@
+{
+  "id": "weibo-e10b9f7668",
+  "slug": "weibo-文吉儿-陆翊",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "文吉儿 陆翊",
+  "summary": "微博热榜第 19 位：文吉儿 陆翊，当前热度为 28万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%90%89%E5%84%BF+%E9%99%86%E7%BF%8A%23",
+  "hotValue": "28万热度",
+  "author": "",
+  "publishedAt": "2026-11-06T03:22:29.632Z",
+  "fetchedAt": "2026-11-06T03:31:24.775Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

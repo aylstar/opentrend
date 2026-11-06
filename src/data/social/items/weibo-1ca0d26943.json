@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1ca0d26943",
+  "slug": "weibo-blg战胜dk",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "BLG战胜DK",
+  "summary": "微博热榜第 25 位：BLG战胜DK，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CDK%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-11-06T03:22:29.632Z",
+  "fetchedAt": "2026-11-06T03:31:24.775Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
