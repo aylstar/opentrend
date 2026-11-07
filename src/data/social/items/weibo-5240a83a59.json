@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5240a83a59",
+  "slug": "weibo-白小纯-青稚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "白小纯 青稚",
+  "summary": "微博热榜第 33 位：白小纯 青稚，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-11-07T02:55:52.082Z",
+  "fetchedAt": "2026-11-07T02:58:52.620Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

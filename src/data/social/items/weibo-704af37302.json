@@ -1,0 +1,21 @@
+{
+  "id": "weibo-704af37302",
+  "slug": "weibo-t1教练组",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 50,
+  "title": "T1教练组",
+  "summary": "微博热榜第 50 位：T1教练组，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23T1%E6%95%99%E7%BB%83%E7%BB%84%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-11-07T02:55:52.082Z",
+  "fetchedAt": "2026-11-07T02:58:52.620Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

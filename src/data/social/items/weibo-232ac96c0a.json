@@ -1,0 +1,21 @@
+{
+  "id": "weibo-232ac96c0a",
+  "slug": "weibo-t1下手太重了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "T1下手太重了",
+  "summary": "微博热榜第 6 位：T1下手太重了，当前热度为 43万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23T1%E4%B8%8B%E6%89%8B%E5%A4%AA%E9%87%8D%E4%BA%86%23",
+  "hotValue": "43万热度",
+  "author": "",
+  "publishedAt": "2026-11-07T02:55:52.082Z",
+  "fetchedAt": "2026-11-07T02:58:52.619Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

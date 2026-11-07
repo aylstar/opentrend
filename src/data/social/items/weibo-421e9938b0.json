@@ -1,0 +1,21 @@
+{
+  "id": "weibo-421e9938b0",
+  "slug": "weibo-t1战胜kc",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "T1战胜KC",
+  "summary": "微博热榜第 18 位：T1战胜KC，当前热度为 21万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CKC%23",
+  "hotValue": "21万热度",
+  "author": "",
+  "publishedAt": "2026-11-07T02:55:52.082Z",
+  "fetchedAt": "2026-11-07T02:58:52.620Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-7372c7d133",
+  "slug": "weibo-tf四代台历",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 35,
+  "title": "TF四代台历",
+  "summary": "微博热榜第 35 位：TF四代台历，当前热度为 18万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%8F%B0%E5%8E%86%23",
+  "hotValue": "18万热度",
+  "author": "",
+  "publishedAt": "2026-11-07T02:55:52.082Z",
+  "fetchedAt": "2026-11-07T02:58:52.620Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

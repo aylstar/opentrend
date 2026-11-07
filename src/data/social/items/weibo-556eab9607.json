@@ -1,0 +1,21 @@
+{
+  "id": "weibo-556eab9607",
+  "slug": "weibo-尚公主云包场",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "尚公主云包场",
+  "summary": "微博热榜第 49 位：尚公主云包场，当前热度为 14万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E4%BA%91%E5%8C%85%E5%9C%BA%23",
+  "hotValue": "14万热度",
+  "author": "",
+  "publishedAt": "2026-11-07T02:55:52.082Z",
+  "fetchedAt": "2026-11-07T02:58:52.620Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
