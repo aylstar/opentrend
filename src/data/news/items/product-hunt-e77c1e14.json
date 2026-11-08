@@ -1,25 +1,26 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "LifeVal",
-  "summary": "OpenAI's benchmark for everyday life tasks with AI Discussion | Link",
+  "originalTitle": "GPT‑6 Cyber",
+  "summary": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
   "url": "https://www.producthunt.com/products/openai",
-  "publishedAt": "2026-11-02T18:45:51.000Z",
+  "publishedAt": "2026-11-05T17:12:40.000Z",
   "id": "product-hunt-e77c1e14",
   "slug": "product-hunt-e77c1e14",
-  "content": "OpenAI's benchmark for everyday life tasks with AI Discussion | Link",
-  "fetchedAt": "2026-11-04T03:04:22.845Z",
+  "content": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
+  "fetchedAt": "2026-11-08T02:36:10.506Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
-    "全球"
+    "全球",
+    "安全"
   ],
-  "rank": 13,
+  "rank": 10,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "生命值",
-  "chineseSummary": "OpenAI 的人工智能日常生活任务基准讨论 |关联",
-  "chineseContent": "OpenAI 的人工智能日常生活任务基准讨论 |关联",
+  "chineseTitle": "GPT-6 网络",
+  "chineseSummary": "OpenAI 的网络模型，为防御者提供经过审查的访问权限关联",
+  "chineseContent": "OpenAI 的网络模型，为防御者提供经过审查的访问权限关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }

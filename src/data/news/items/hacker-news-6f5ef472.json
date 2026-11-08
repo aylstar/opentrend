@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+  "summary": "195 points · 131 comments",
+  "content": "195 points · 131 comments",
+  "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "publishedAt": "2026-11-07T20:45:32.000Z",
+  "points": 195,
+  "id": "hacker-news-6f5ef472",
+  "slug": "hacker-news-6f5ef472",
+  "fetchedAt": "2026-11-08T02:36:10.504Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码",
+  "chineseSummary": "195 分 · 131 条评论",
+  "chineseContent": "195 分 · 131 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -8,17 +8,17 @@
   "id": "reuters-fc283445",
   "slug": "reuters-fc283445",
   "content": "Fed policymakers consider rate hike after strong jobs report &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-11-07T02:57:59.520Z",
-  "score": 90,
+  "fetchedAt": "2026-11-08T02:36:10.518Z",
+  "score": 84,
   "sourceWeight": 94,
   "tags": [
     "金融"
   ],
-  "rank": 10,
+  "rank": 24,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Fed policymakers consider rate hike after strong jobs report",
-  "chineseSummary": "Fed policymakers consider rate hike after strong jobs report &nbsp;&nbsp; Reuters",
-  "chineseContent": "Fed policymakers consider rate hike after strong jobs report &nbsp;&nbsp; Reuters",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "强劲的就业报告后美联储政策制定者考虑加息",
+  "chineseSummary": "就业报告强劲后美联储政策制定者考虑加息 路透",
+  "chineseContent": "就业报告强劲后美联储政策制定者考虑加息 路透",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
 }

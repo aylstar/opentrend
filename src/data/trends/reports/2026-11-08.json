@@ -1,0 +1,91 @@
+{
+  "slug": "2026-11-08",
+  "date": "2026-11-08",
+  "title": "2026年11月08日 GitHub 趋势项目报告",
+  "description": "汇总 GitHub 周榜和月榜项目，面向国内用户提供中文解读、部署判断和商业价值筛选。",
+  "generatedAt": "2026-11-08T02:35:58.967Z",
+  "stats": {
+    "totalProjects": 17,
+    "weeklyProjects": 10,
+    "monthlyProjects": 10,
+    "averageRecommendation": 2.4
+  },
+  "sections": {
+    "recommended": [
+      "debpalash__voicestudio",
+      "milind-soni__openmausbot",
+      "morluto__rea"
+    ],
+    "weekly": [
+      "thedotmack__claude-mem",
+      "max-sixty__worktrunk",
+      "donchitos__claude-code-game-studios",
+      "renhuai123__ziwei-doushu",
+      "pingdotgg__t3code",
+      "anthropics__skills",
+      "nutlope__hallmark",
+      "milind-soni__openmausbot",
+      "d4vinci__scrapling",
+      "calesthio__openmontage"
+    ],
+    "monthly": [
+      "thedotmack__claude-mem",
+      "pingdotgg__t3code",
+      "nutlope__hallmark",
+      "morluto__rea",
+      "storytold__artcraft",
+      "cloudflare__security-audit-skill",
+      "boykopovar__anyps5",
+      "debpalash__voicestudio",
+      "heygen-com__hyperframes",
+      "pbakaus__impeccable"
+    ],
+    "commercial": [
+      "thedotmack__claude-mem",
+      "max-sixty__worktrunk",
+      "donchitos__claude-code-game-studios",
+      "renhuai123__ziwei-doushu",
+      "pingdotgg__t3code",
+      "anthropics__skills"
+    ],
+    "deployable": [
+      "thedotmack__claude-mem",
+      "max-sixty__worktrunk",
+      "donchitos__claude-code-game-studios",
+      "renhuai123__ziwei-doushu",
+      "pingdotgg__t3code",
+      "anthropics__skills"
+    ],
+    "risky": [
+      "thedotmack__claude-mem",
+      "max-sixty__worktrunk",
+      "donchitos__claude-code-game-studios",
+      "renhuai123__ziwei-doushu",
+      "pingdotgg__t3code",
+      "anthropics__skills"
+    ]
+  },
+  "summary": {
+    "overview": "本期共纳入 17 个项目，其中周趋势 10 个、月趋势 10 个。筛选重点不是热度本身，而是项目是否具备明确场景、可部署性、商业复用价值和持续跟踪意义。",
+    "conclusion": "建议先把高推荐项目作为选型观察池，再对部署成本、许可协议、数据安全和国内网络依赖进行人工复核。对商业用户而言，真正有价值的是把热门项目转化为可验证的内部效率工具、客户解决方案或学习样本。"
+  },
+  "projectSlugs": [
+    "thedotmack__claude-mem",
+    "max-sixty__worktrunk",
+    "donchitos__claude-code-game-studios",
+    "renhuai123__ziwei-doushu",
+    "pingdotgg__t3code",
+    "anthropics__skills",
+    "nutlope__hallmark",
+    "milind-soni__openmausbot",
+    "d4vinci__scrapling",
+    "calesthio__openmontage",
+    "morluto__rea",
+    "storytold__artcraft",
+    "cloudflare__security-audit-skill",
+    "boykopovar__anyps5",
+    "debpalash__voicestudio",
+    "heygen-com__hyperframes",
+    "pbakaus__impeccable"
+  ]
+}

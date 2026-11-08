@@ -5627,3 +5627,23 @@
 {"type":"public_translation_error","at":"2026-11-07T02:58:50.357Z","id":"youtube-71684c47","error":"429 Too Many Requests"}
 {"type":"public_translation_error","at":"2026-11-07T02:58:50.663Z","id":"youtube-dcfa0ce0","error":"429 Too Many Requests"}
 {"type":"news_report_generated","at":"2026-11-07T02:58:50.672Z","date":"2026-11-07","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}
+{"type":"source_error","at":"2026-11-08T02:35:59.956Z","source":"Guardian","url":"https://content.guardianapis.com/search?api-key=test&show-fields=trailText,bodyText,headline&page-size=20&order-by=newest","error":"401 Unauthorized"}
+{"type":"source_error","at":"2026-11-08T02:36:10.498Z","source":"GDELT","url":"https://api.gdeltproject.org/api/v2/doc/doc?query=(world%20OR%20economy%20OR%20technology%20OR%20policy)&mode=ArtList&format=json&maxrecords=30&sort=HybridRel","error":"429 Too Many Requests"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.769Z","id":"product-hunt-9a8083f7","source":"Product Hunt","url":"https://www.producthunt.com/products/google-omni-1-2-flash","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.778Z","id":"product-hunt-8c42930e","source":"Product Hunt","url":"https://www.producthunt.com/products/meta-ai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.788Z","id":"hacker-news-6f5ef472","source":"Hacker News","url":"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.852Z","id":"hacker-news-4b4e6e66","source":"Hacker News","url":"https://mceglowski.substack.com/p/how-long-can-life-wait","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.889Z","id":"product-hunt-65c3ef6","source":"Product Hunt","url":"https://www.producthunt.com/products/the-writer-s-quarter","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.892Z","id":"product-hunt-ca286650","source":"Product Hunt","url":"https://www.producthunt.com/products/instagram","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.895Z","id":"product-hunt-e7cd9de3","source":"Product Hunt","url":"https://www.producthunt.com/products/switchy","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.902Z","id":"product-hunt-e77c1e14","source":"Product Hunt","url":"https://www.producthunt.com/products/openai","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:11.938Z","id":"product-hunt-3e09491f","source":"Product Hunt","url":"https://www.producthunt.com/products/plainmail","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:12.103Z","id":"financial-times-248397bf","source":"Financial Times","url":"https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:12.665Z","id":"marketwatch-edabf609","source":"MarketWatch","url":"https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories","error":"401 HTTP Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:13.318Z","id":"investing-73ccadb2","source":"Investing","url":"https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:14.085Z","id":"investing-c6de8cd0","source":"Investing","url":"https://www.investing.com/analysis/robust-us-jobs-market-boosts-december-rate-hike-chances-200691016","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:14.252Z","id":"financial-times-3d175c66","source":"Financial Times","url":"https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1","error":"403 Forbidden"}
+{"type":"article_fetch_error","at":"2026-11-08T02:36:14.260Z","id":"investing-92c57c5a","source":"Investing","url":"https://www.investing.com/analysis/the-election-aftermath-let-the-market-finish-voting-200690919","error":"403 Forbidden"}
+{"type":"public_translation_error","at":"2026-11-08T02:37:10.969Z","id":"bloomberg-383cdf73","error":"500 Internal Server Error"}
+{"type":"public_translation_error","at":"2026-11-08T02:37:11.549Z","id":"bloomberg-feccb205","error":"429 Too Many Requests"}
+{"type":"news_report_generated","at":"2026-11-08T02:37:23.221Z","date":"2026-11-08","total":80,"global":20,"aiTech":20,"finance":30,"youtube":10}

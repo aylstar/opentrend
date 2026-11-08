@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+  "summary": "193 points · 42 comments",
+  "content": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers. Things that were fun to get right: - Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes. - Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities. - Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real. Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io. Feedback welcome, especially from anyone who has seen these devices in the field!",
+  "url": "https://github.com/hedgerow-dev/coldframe",
+  "publishedAt": "2026-11-07T17:27:30.000Z",
+  "points": 193,
+  "id": "hacker-news-a15da1f9",
+  "slug": "hacker-news-a15da1f9",
+  "fetchedAt": "2026-11-08T02:36:10.505Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 14,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：Coldframe，一个伪装成超市冰箱控制器的蜜罐",
+  "chineseSummary": "193 分 · 42 条评论",
+  "chineseContent": "我构建了 Coldframe，一个伪装成超市制冷控制器的蜜罐。受到过去几周工业冰箱安装事件的启发，我想看看人们会采取什么措施来对抗令人信服的假货。为了了解更多信息，我构建了一个与 Danfoss AK-SM 800A 和 Dixell XWEB 界面完美相似的蜜罐。它们都被 Shodan 识别为真实的（而不是蜜罐）。这是一个仅使用标准库的 Python 文件，它基于 eppser/danfoss-ak-sm-decoy 以及 Synacktiv、Claroty 和 Ironhackers 的公共研究构建。做对的事情很有趣： - 匹配真实的单位。我使用真实设备的 Shodan 记录来匹配标头顺序、页面标题、证书字段和 TLS 版本。 Danfoss 角色按照与真实 AK-SM 800A 相同的顺序发送 nginx 标头。 Dixell 角色不发送服务器标头，并将其页面填充到正好 8,202 字节。 - 识别利用尝试。它可以识别丹佛斯“每日代码”登录旁路 CVE-2025-41450，并记录今天提交的代码是否正确。它还标记了针对其他三个丹佛斯 CVE 和 XWEB 漏洞的尝试。 - 让他们进来。默认登录会打开一个带有除霜按钮的假商店仪表板，因此您可以看到第二个动作，而不仅仅是第一个。其背后没有什么是真实的。两个实例已上线一天。到目前为止，他们只看到了通用扫描仪和 Shodan 的爬虫（名为冰箱.census.shodan.io）。欢迎提供反馈，尤其是来自在现场见过这些设备的任何人的反馈！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "The US let Nvidia sell chips to an empty office in China",
+  "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+  "publishedAt": "2026-11-07T15:43:45.000Z",
+  "id": "the-verge-bbcf410d",
+  "slug": "the-verge-bbcf410d",
+  "content": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company’s H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, “a hollow gray shell with wires dangling from the ceiling where lights should be.” In fact, the paper could find little evidence that the company exists in any meaningful way: > Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not include the firm. At the nearby property management agency for the industrial park, a receptionist and a manager both said they had no record of the company. What little information can be found about New Matrix is concerning. Its owners have ties to a Chinese private equity firm that has been blacklisted by the US government since 2024. And according to the Times, this is not a rare lapse in oversight, but a troubling pattern of companies connected to entities with national-security-related trade restrictions being approved to purchase Nvidia chips. Nvidia had been restricted from selling chips to China during the Biden presidency. But the Trump administration relaxed those limits after Nvidia agreed to give the government a 15-percent cut of all sales. The company’s CEO, Jensen Huang, also launched an intense lobbying campaign and was apparently targeted by China’s Ministry of State Security in a spying plot.",
+  "fetchedAt": "2026-11-08T02:36:10.508Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美国允许英伟达向中国空置办公室出售芯片",
+  "chineseSummary": "人们担心美国商务部和英伟达在审查获准处理该公司 H200 人工智能芯片的中国公司时都没有尽职调查。据《纽约时报》报道，New Matrix 已列入获批公司名单，但其办公室却是空的，“一个空心的灰色外壳 […]",
+  "chineseContent": "人们担心美国商务部和英伟达在审查获准处理该公司 H200 人工智能芯片的中国公司时都没有尽职调查。据《纽约时报》报道，New Matrix 位于已获批准的公司名单上，但其办公室却是空的，“一个空心的灰色外壳，天花板上应该有灯的地方垂着电线。”事实上，该论文几乎找不到任何证据表明该公司以任何有意义的方式存在： > 在网上只能找到很少的关于 New Matrix 的信息，该公司成立于 17 个月前。在 New Matrix 列出的地址所在的大楼中，公司目录中不包含该公司。在附近的工业园区物业管理机构，一名接待员和一名经理均表示没有该公司的记录。关于 New Matrix 的信息很少，令人担忧。其所有者与一家中国私募股权公司有联系，该公司自 2024 年以来已被美国政府列入黑名单。据《泰晤士报》报道，这并不是罕见的监管失误，而是与受到国家安全相关贸易限制的实体有关联的公司获准购买 Nvidia 芯片的一种令人不安的模式。在拜登担任总统期间，英伟达曾被限制向中国出售芯片。但在英伟达同意政府将所有销售额削减 15% 后，特朗普政府放宽了这些限制。该公司首席执行官黄仁勋也发起了激烈的游说活动，显然成为中国国家安全部间谍阴谋的目标。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

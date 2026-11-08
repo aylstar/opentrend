@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+  "summary": "27 points · 12 comments",
+  "content": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe. Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are. EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection. Most importantly it works completely local no internet required.",
+  "url": "https://eyesrhythm.com/",
+  "publishedAt": "2026-11-07T21:47:47.000Z",
+  "points": 27,
+  "id": "hacker-news-e495f72d",
+  "slug": "hacker-news-e495f72d",
+  "fetchedAt": "2026-11-08T02:36:10.505Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "source-fulltext",
+  "chineseTitle": "Show HN：帮助保持健康的眨眼节奏的离线桌面伴侣",
+  "chineseSummary": "27 分 · 12 条评论",
+  "chineseContent": "像软件工程师、机械/图形设计师这样的职业会给你的眼睛带来很大的压力，长时间观察屏幕上的微小细节可以显着降低眨眼频率，你甚至可能不会注意到，直到它变得不可逆转的疼痛，让你的眼睛干涩。我已经是它的受害者了，作为一名计算机视觉研究工程师工作了 20 年，放大像素级细节来手工制作算法。现在医生说，只有定期使用润滑滴剂才能保证眼睛的安全。现在，有了人工智能和可用的出色库，您就可以安全行事，这样您的身体就不会为您的职业付出代价。 EyesRhythm 旨在通过提供小型音频/视觉指示来帮助您保持健康的眨眼节奏，以保持健康的眨眼节奏，不仅通过监控健康的眨眼频率，而且还密切关注它们的节奏。 EyeRhythm 还具有颈部运动的视觉日志。它还能够使用办公桌上可能有的多个网络摄像头自动跟踪面部，以获得眼睛的最佳视图，从而准确检测眨眼。最重要的是，它完全可以在本地运行，无需互联网。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
