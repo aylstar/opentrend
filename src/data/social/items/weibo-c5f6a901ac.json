@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c5f6a901ac",
+  "slug": "weibo-faker太夸张了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "Faker太夸张了",
+  "summary": "微博热榜第 6 位：Faker太夸张了，当前热度为 53万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Faker%E5%A4%AA%E5%A4%B8%E5%BC%A0%E4%BA%86%23",
+  "hotValue": "53万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

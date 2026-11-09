@@ -1,0 +1,21 @@
+{
+  "id": "weibo-679b1c7501",
+  "slug": "weibo-faker尽力了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 29,
+  "title": "Faker尽力了",
+  "summary": "微博热榜第 29 位：Faker尽力了，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Faker%E5%B0%BD%E5%8A%9B%E4%BA%86%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

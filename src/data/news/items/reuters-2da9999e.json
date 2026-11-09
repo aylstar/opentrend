@@ -8,7 +8,7 @@
   "id": "reuters-2da9999e",
   "slug": "reuters-2da9999e",
   "content": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-11-08T02:36:10.519Z",
+  "fetchedAt": "2026-11-09T02:49:55.677Z",
   "score": 84,
   "sourceWeight": 94,
   "tags": [
@@ -16,9 +16,9 @@
   ],
   "rank": 27,
   "contentStatus": "article-extracted",
-  "chineseTitle": "国际货币基金组织格奥尔基耶娃表示，AI 驱动的增长放缓将成为央行面临的因素",
-  "chineseSummary": "国际货币基金组织 (IMF) 格奥尔基耶娃 (Georgieva) 表示，人工智能驱动的增长放缓将成为各国央行面临的因素 路透",
-  "chineseContent": "国际货币基金组织 (IMF) 格奥尔基耶娃 (Georgieva) 表示，人工智能驱动的增长放缓将成为各国央行面临的因素 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks",
+  "chineseSummary": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks &nbsp;&nbsp; Reuters",
+  "chineseContent": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

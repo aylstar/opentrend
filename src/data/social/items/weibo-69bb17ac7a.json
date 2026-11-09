@@ -1,0 +1,21 @@
+{
+  "id": "weibo-69bb17ac7a",
+  "slug": "weibo-黄乐",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 25,
+  "title": "黄乐",
+  "summary": "微博热榜第 25 位：黄乐，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B9%90%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

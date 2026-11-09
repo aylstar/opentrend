@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d17567a504",
+  "slug": "weibo-blg对战gen预测",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "BLG对战GEN预测",
+  "summary": "微博热榜第 32 位：BLG对战GEN预测，当前热度为 32万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98GEN%E9%A2%84%E6%B5%8B%23",
+  "hotValue": "32万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,12 +8,12 @@
   "language": "Shell",
   "githubUrl": "https://github.com/Donchitos/Claude-Code-Game-Studios",
   "docsUrl": "https://code.claude.com/docs",
-  "stars": 36618,
-  "forks": 4834,
-  "openIssues": 95,
+  "stars": 37057,
+  "forks": 4881,
+  "openIssues": 96,
   "license": "MIT",
   "pushedAt": "2026-10-19T02:43:42Z",
-  "updatedAt": "2026-11-08T02:28:44Z",
+  "updatedAt": "2026-11-09T02:48:07Z",
   "createdAt": "2026-02-12T05:21:38Z",
   "archived": false,
   "trendWindows": [
@@ -30,14 +30,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<p align=\"center\">\n  <h1 align=\"center\">Claude Code Game Studios</h1>\n  <p align=\"center\">\n    Turn a single Claude Code session into a full game development studio.\n    <br />\n    49 agents. 74 skills. One coordinated AI team.\n  </p>\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-blue.svg\" alt=\"MIT License\"></a>\n  <a href=\".claude/agents\"><img src=\"https://img.shields.io/badge/agents-49-blueviolet\" alt=\"49 Agents\"></a>\n  <a href=\".claude/skills\"><img src=\"https://img.shields.io/badge/skills-74-green\" alt=\"74 Skills\"></a>\n  <a href=\".claude/hooks\"><img src=\"https://img.shields.io/badge/hooks-15-orange\" alt=\"15 Hooks\"></a>\n  <a href=\".claude/rules\"><img src=\"https://img.shields.io/badge/rules-14-red\" alt=\"14 Rules\"></a>\n  <a href=\"https://code.claude.com/docs\"><img src=\"https://img.shields.io/badge/built%20for-Claude%20Code-f5f5f5?logo=anthropic\" alt=\"Built for Claude Code\"></a>\n  <a href=\"https://www.buymeacoffee.com/donchitos3\"><img src=\"https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20this%20project-FFDD00?logo=buymeacoffee&logoColor=black\" alt=\"Buy Me a Coffee\"></a>\n  <a href=\"https://github.com/sponsors/Donchitos\"><img src=\"https://img.shields.io/badge/GitHub%20Sponsors-Support%20this%20project-ea4aaa?logo=githubsponsors&logoColor=white\" alt=\"GitHub Sponsors\"></a>\n</p>\n\n---\n\n## Why This Exists\n\nBuilding a game solo with AI is powerful — but a single chat session has no structure. No one stops you from hardcoding magic numbers, skipping design docs, or writing spaghetti code. There's no QA pass, no design review, no one asking \"does this actually fit the game's vision?\"\n\n**Claude Code Game Studios** solves this by giving your AI session the structure of a real studio. Instead of one general-purpose assistant, you get 49 specialized agents organized into a studio hierarchy — directors who guard the vision, department leads who own their domains, and specialists who do the hands-on work. Each agent has defined responsibilities, escalation paths, and quality gates.\n\nThe result: you still make every decision, but now you have a team that asks the right questions, catches mistakes early, and keeps your project organized from first brainstorm to launch.\n\n---\n\n## Table of Contents\n\n- [What's Included](#whats-included)\n- [Studio Hierarchy](#studio-hierarchy)\n- [Slash Commands](#slash-commands)\n- [Does it produce games, or documents?](#does-it-produce-games-or-documents)\n- [Getting Started](#getting-started)\n- [Configuration](#configuration)\n- [Upgrading](#upgrading)\n- [Project Structure](#project-structure)\n- [How It Works](#how-it-works)\n- [Design Philosophy](#design-philosophy)\n- [Customization](#customization)\n- [Platform Support](#platform-support)\n- [Community](#community)\n- [Supporting This Project](#supporting-this-project)\n- [License](#license)\n\n---\n\n## What's Included\n\n| Category | Count | Description |\n|----------|-------|-------------|\n| **Agents** | 49 | Specialized subagents acr",
-  "generatedAt": "2026-11-08T02:35:53.210Z",
+  "generatedAt": "2026-11-09T02:49:36.811Z",
   "analysis": {
     "oneLine": "Claude-Code-Game-Studios 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "Claude-Code-Game-Studios 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，Claude-Code-Game-Studios 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 36,618，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Claude-Code-Game-Studios 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 37,057，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Shell 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

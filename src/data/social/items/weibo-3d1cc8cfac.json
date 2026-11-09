@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3d1cc8cfac",
+  "slug": "weibo-blg对战t1",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 24,
+  "title": "BLG对战T1",
+  "summary": "微博热榜第 24 位：BLG对战T1，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

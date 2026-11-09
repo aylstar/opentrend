@@ -8,18 +8,18 @@
   "id": "product-hunt-e7cd9de3",
   "slug": "product-hunt-e7cd9de3",
   "content": "Mac controls, deploys, 2FA & AI limits in your menu bar Discussion | Link",
-  "fetchedAt": "2026-11-08T02:36:10.506Z",
+  "fetchedAt": "2026-11-09T02:49:55.665Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "全球"
   ],
-  "rank": 12,
+  "rank": 13,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "开关",
-  "chineseSummary": "Mac 在菜单栏中控制、部署、2FA 和 AI 限制 讨论 |关联",
-  "chineseContent": "Mac 在菜单栏中控制、部署、2FA 和 AI 限制 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Switchy",
+  "chineseSummary": "Mac controls, deploys, 2FA & AI limits in your menu bar Discussion | Link",
+  "chineseContent": "Mac controls, deploys, 2FA & AI limits in your menu bar Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

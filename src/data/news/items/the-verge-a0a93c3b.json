@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Epic Games Launcher is coming to SteamOS",
+  "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]",
+  "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+  "publishedAt": "2026-11-08T20:52:05.000Z",
+  "id": "the-verge-a0a93c3b",
+  "slug": "the-verge-a0a93c3b",
+  "content": "In October, Epic Games said that it was “investigating” making Fortnite compatible with Valve’s Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response to a question about the AppImage being replaced with Debian / Ubuntu .deb downloads, Jones said: > “The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We’re testing and evaluating packaging formats for distribution, and we’ll restore AppImage this month.” That doesn’t necessarily mean Fortnite will come to SteamOS. Easy Anti-Cheat (EAC) Linux v2 support still remains an open question. When it announced its work to bring Fortnite to Linux, the company said that the Steam Deck “does not support the required features for our EAC v2 solution, but we are actively talking with Valve and hope to support it in the future.”",
+  "fetchedAt": "2026-11-09T02:49:55.667Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "产品"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Epic Games Launcher is coming to SteamOS",
+  "chineseSummary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]",
+  "chineseContent": "In October, Epic Games said that it was “investigating” making Fortnite compatible with Valve’s Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response to a question about the AppImage being replaced with Debian / Ubuntu .deb downloads, Jones said: > “The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We’re testing and evaluating packaging formats for distribution, and we’ll restore AppImage this month.” That doesn’t necessarily mean Fortnite will come to SteamOS. Easy Anti-Cheat (EAC) Linux v2 support still remains an open question. When it announced its work to bring Fortnite to Linux, the company said that the Steam Deck “does not support the required features for our EAC v2 solution, but we are actively talking with Valve and hope to support it in the future.”",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

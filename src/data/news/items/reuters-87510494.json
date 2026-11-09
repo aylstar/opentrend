@@ -8,7 +8,7 @@
   "id": "reuters-87510494",
   "slug": "reuters-87510494",
   "content": "Risk-off mood sweeps European stocks as AI concerns deepen &nbsp;&nbsp; Reuters",
-  "fetchedAt": "2026-11-08T02:36:10.518Z",
+  "fetchedAt": "2026-11-09T02:49:55.676Z",
   "score": 84,
   "sourceWeight": 94,
   "tags": [
@@ -17,11 +17,11 @@
     "金融",
     "财经"
   ],
-  "rank": 25,
+  "rank": 26,
   "contentStatus": "article-extracted",
-  "chineseTitle": "随着 AI 担忧加深，避险情绪席卷欧洲股市",
-  "chineseSummary": "随着人工智能担忧加深，避险情绪席卷欧洲股市 路透",
-  "chineseContent": "随着人工智能担忧加深，避险情绪席卷欧洲股市 路透",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Risk-off mood sweeps European stocks as AI concerns deepen",
+  "chineseSummary": "Risk-off mood sweeps European stocks as AI concerns deepen &nbsp;&nbsp; Reuters",
+  "chineseContent": "Risk-off mood sweeps European stocks as AI concerns deepen &nbsp;&nbsp; Reuters",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

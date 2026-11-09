@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8335d4c3ae",
+  "slug": "weibo-bin回应击败t1",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "Bin回应击败T1",
+  "summary": "微博热榜第 49 位：Bin回应击败T1，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Bin%E5%9B%9E%E5%BA%94%E5%87%BB%E8%B4%A5T1%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

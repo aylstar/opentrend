@@ -1,0 +1,21 @@
+{
+  "id": "weibo-4bdd628883",
+  "slug": "weibo-bin-世一上",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "Bin 世一上",
+  "summary": "微博热榜第 8 位：Bin 世一上，当前热度为 50万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Bin+%E4%B8%96%E4%B8%80%E4%B8%8A%23",
+  "hotValue": "50万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-68053ada9b",
+  "slug": "weibo-透过关键词解码进博会",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "透过关键词解码进博会",
+  "summary": "微博热榜第 3 位：透过关键词解码进博会，当前热度为 144万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%80%8F%E8%BF%87%E5%85%B3%E9%94%AE%E8%AF%8D%E8%A7%A3%E7%A0%81%E8%BF%9B%E5%8D%9A%E4%BC%9A%23",
+  "hotValue": "144万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

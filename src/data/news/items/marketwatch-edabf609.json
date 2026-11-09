@@ -1,25 +1,25 @@
 {
   "source": "MarketWatch",
   "category": "finance",
-  "originalTitle": "Second-guessing my adviser: Is an annuity the right move in this market?",
+  "originalTitle": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
   "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
   "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-  "publishedAt": "2026-11-07T20:36:00.000Z",
+  "publishedAt": "2026-11-09T00:30:00.000Z",
   "id": "marketwatch-edabf609",
   "slug": "marketwatch-edabf609",
   "content": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
-  "fetchedAt": "2026-11-08T02:36:10.511Z",
+  "fetchedAt": "2026-11-09T02:49:55.671Z",
   "score": 90,
   "sourceWeight": 84,
   "tags": [
     "科技",
     "金融"
   ],
-  "rank": 8,
+  "rank": 5,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "重新审视我的顾问：年金在这个市场上是正确的举措吗？",
-  "chineseSummary": "“我还没有致力于该战略，希望有一些独立的观点。”",
-  "chineseContent": "“我还没有致力于该战略，希望有一些独立的观点。”",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+  "chineseSummary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+  "chineseContent": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

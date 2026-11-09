@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1a6084a902",
+  "slug": "weibo-张本智和法兰克福站冠军",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "张本智和法兰克福站冠军",
+  "summary": "微博热榜第 20 位：张本智和法兰克福站冠军，当前热度为 33万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E7%AB%99%E5%86%A0%E5%86%9B%23",
+  "hotValue": "33万热度",
+  "author": "",
+  "publishedAt": "2026-11-09T02:42:55.507Z",
+  "fetchedAt": "2026-11-09T02:50:43.267Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
