@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+  "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+  "publishedAt": "2026-11-09T19:09:58.000Z",
+  "id": "the-verge-7de65e0",
+  "slug": "the-verge-7de65e0",
+  "content": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to “Buy More Usage” for a one-time purchase price of $49.99, as spotted by 9to5Mac.&nbsp; It has a built-in AI assistant to do things like “start a new song, set up a vocal track from a single prompt, or refine an active project.” These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intelligence features that have usage limits because they rely on cloud-based AI models from OpenAI or Google Gemini.&nbsp; The Usage Packs can only be used by the Apple Account that purchased them (Family Sharing isn’t supported) and, as Apple explains on its website, any unused additional usage will roll over from month to month, but will expire 12 months after it was purchased. For Logic Pro, Apple says the usage limit is “impacted by the complexity of conversations you have with the assistant.” Users finding themselves running out of access can find the option to buy an Intelligence Usage Pack in the Intelligence Features > Show Usage section of the app’s main menu. Currently, only Logic Pro has the option to buy more usage, but it’s expected to be added to other Apple Creator Studio apps this month, including Pixelmator Pro, Final Cut Pro, Motion, plus Pages, Keynote, and Numbers that are getting access to Apple’s AI chatbot.",
+  "fetchedAt": "2026-11-10T04:42:24.302Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+  "chineseSummary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+  "chineseContent": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to “Buy More Usage” for a one-time purchase price of $49.99, as spotted by 9to5Mac.&nbsp; It has a built-in AI assistant to do things like “start a new song, set up a vocal track from a single prompt, or refine an active project.” These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intelligence features that have usage limits because they rely on cloud-based AI models from OpenAI or Google Gemini.&nbsp; The Usage Packs can only be used by the Apple Account that purchased them (Family Sharing isn’t supported) and, as Apple explains on its website, any unused additional usage will roll over from month to month, but will expire 12 months after it was purchased. For Logic Pro, Apple says the usage limit is “impacted by the complexity of conversations you have with the assistant.” Users finding themselves running out of access can find the option to buy an Intelligence Usage Pack in the Intelligence Features > Show Usage section of the app’s main menu. Currently, only Logic Pro has the option to buy more usage, but it’s expected to be added to other Apple Creator Studio apps this month, including Pixelmator Pro, Final Cut Pro, Motion, plus Pages, Keynote, and Numbers that are getting access to Apple’s AI chatbot.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

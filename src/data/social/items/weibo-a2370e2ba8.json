@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a2370e2ba8",
+  "slug": "weibo-华为matebook",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 44,
+  "title": "华为MateBook",
+  "summary": "微博热榜第 44 位：华为MateBook，当前热度为 20万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMateBook%23",
+  "hotValue": "20万热度",
+  "author": "",
+  "publishedAt": "2026-11-10T04:41:47.423Z",
+  "fetchedAt": "2026-11-10T04:42:55.610Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

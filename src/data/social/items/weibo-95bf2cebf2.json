@@ -1,0 +1,21 @@
+{
+  "id": "weibo-95bf2cebf2",
+  "slug": "weibo-blg回应樊振东",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 33,
+  "title": "BLG回应樊振东",
+  "summary": "微博热榜第 33 位：BLG回应樊振东，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23BLG%E5%9B%9E%E5%BA%94%E6%A8%8A%E6%8C%AF%E4%B8%9C%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-11-10T04:41:47.423Z",
+  "fetchedAt": "2026-11-10T04:42:55.610Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

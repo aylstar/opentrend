@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5494959d89",
+  "slug": "weibo-这居然是宋祖儿",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "这居然是宋祖儿",
+  "summary": "微博热榜第 21 位：这居然是宋祖儿，当前热度为 39万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%AE%8B%E7%A5%96%E5%84%BF%23",
+  "hotValue": "39万热度",
+  "author": "",
+  "publishedAt": "2026-11-10T04:41:47.423Z",
+  "fetchedAt": "2026-11-10T04:42:55.609Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

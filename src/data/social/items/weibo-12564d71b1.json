@@ -1,0 +1,21 @@
+{
+  "id": "weibo-12564d71b1",
+  "slug": "weibo-合肥地震",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 30,
+  "title": "合肥地震",
+  "summary": "微博热榜第 30 位：合肥地震，当前热度为 24万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87%23",
+  "hotValue": "24万热度",
+  "author": "",
+  "publishedAt": "2026-11-10T04:41:47.423Z",
+  "fetchedAt": "2026-11-10T04:42:55.609Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
