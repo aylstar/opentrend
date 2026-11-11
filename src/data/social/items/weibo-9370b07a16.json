@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9370b07a16",
+  "slug": "weibo-rtx5080暴跌4000元",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "RTX5080暴跌4000元",
+  "summary": "微博热榜第 10 位：RTX5080暴跌4000元，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23RTX5080%E6%9A%B4%E8%B7%8C4000%E5%85%83%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-11-11T02:52:00.401Z",
+  "fetchedAt": "2026-11-11T02:54:27.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

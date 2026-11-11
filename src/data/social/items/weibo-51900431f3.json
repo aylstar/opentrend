@@ -1,0 +1,21 @@
+{
+  "id": "weibo-51900431f3",
+  "slug": "weibo-金鸡奖获奖名单",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "金鸡奖获奖名单",
+  "summary": "微博热榜第 8 位：金鸡奖获奖名单，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-11-11T02:52:00.401Z",
+  "fetchedAt": "2026-11-11T02:54:27.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

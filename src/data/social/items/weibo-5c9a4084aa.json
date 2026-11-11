@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5c9a4084aa",
+  "slug": "weibo-ming-青稚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "Ming 青稚",
+  "summary": "微博热榜第 6 位：Ming 青稚，当前热度为 40万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23Ming+%E9%9D%92%E7%A8%9A%23",
+  "hotValue": "40万热度",
+  "author": "",
+  "publishedAt": "2026-11-11T02:52:00.401Z",
+  "fetchedAt": "2026-11-11T02:54:27.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d0829977e3",
+  "slug": "weibo-野桃-青稚",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "野桃 青稚",
+  "summary": "微博热榜第 20 位：野桃 青稚，当前热度为 26万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E6%A1%83+%E9%9D%92%E7%A8%9A%23",
+  "hotValue": "26万热度",
+  "author": "",
+  "publishedAt": "2026-11-11T02:52:00.401Z",
+  "fetchedAt": "2026-11-11T02:54:27.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

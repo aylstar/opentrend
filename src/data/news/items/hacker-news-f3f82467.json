@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "$30M Raised to Redo the CPU",
+  "summary": "37 points · 27 comments",
+  "content": "As of today, Tendrils has completed a $30M round led by Benchmark to rebuild general-purpose computing.\n\nContemporary CPUs are made under the constraint of backwards compatibility with sequential, single-core chips. Accumulated layers of historical designs are locking engineers into decisions dating back to the 1970s. As a result, all existing CPUs are bottlenecked by complex cache coherency protocols and elaborate reorder buffers. CPU scaling is sabotaged from the start. At Tendrils, we believe that the future of general-purpose computing lies beyond legacy architectures for legacy software.\n\nTendrils is answering the question: what if we redo the CPU? Instead of starting from a sequential design, we’re building our processor to have thousands of cores operating in parallel. This requires moving beyond the notion of shared mutable memory and linear instruction sequences. To make this possible, we’re working in tandem on the open-source language Vine , which has been designed from the beginning to target a new wave of parallel-first architectures.\n\nWe’re delighted to announce that Tendrils has raised $30 million to support this vision. This round is led by Benchmark, with significant participation from Visionaries Club, the UK Sovereign AI Fund, FR8, Antimatter, Cloudberry VC, Conviction, Embassy Ventures, and SV Angels. We are grateful for additional support provided by all of our angel investors. Additionally, we wish to extend a warm welcome to our newest board member, Jack Altman.\n\nWith thanks to all who have supported us, The Tendrils Team\n\nAt Tendrils, we insist that the chips of the future will be a result of close collaboration between hardware and software engineers. If this strikes you, consider joining us .",
+  "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+  "publishedAt": "2026-11-10T22:14:03.000Z",
+  "points": 37,
+  "id": "hacker-news-f3f82467",
+  "slug": "hacker-news-f3f82467",
+  "fetchedAt": "2026-11-11T02:53:24.133Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "筹集 3000 万美元重做 CPU",
+  "chineseSummary": "37 分 · 27 条评论",
+  "chineseContent": "截至今天，Tendrils 已完成由 Benchmark 领投的 3000 万美元融资，用于重建通用计算。\n\n现代 CPU 是在向后兼容顺序单核芯片的约束下制造的。历史设计的累积层数让工程师不得不做出可以追溯到 20 世纪 70 年代的决策。因此，所有现有的 CPU 都受到复杂的缓存一致性协议和精心设计的重新排序缓冲区的瓶颈。 CPU 缩放从一开始就遭到破坏。在 Tendrils，我们相信通用计算的未来超越了遗留软件的遗留架构。\n\nTendrils 正在回答这个问题：如果我们重做 CPU 会怎样？我们不是从顺序设计开始，而是构建具有数千个并行运行核心的处理器。这需要超越共享可变内存和线性指令序列的概念。为了实现这一目标，我们正在共同开发开源语言 Vine，该语言从一开始就旨在针对新一波的并行优先架构。\n\n我们很高兴地宣布，Tendrils 已筹集 3000 万美元来支持这一愿景。本轮融资由 Benchmark 领投，Visionaries Club、英国主权人工智能基金、FR8、Antimatter、Cloudberry VC、Conviction、Embassy Ventures 和 SV Angels 等参与。我们感谢所有天使投资者提供的额外支持。此外，我们热烈欢迎我们最新的董事会成员 Jack Altman。\n\n感谢所有支持我们的人，卷须团队\n\n在 Tendrils，我们坚信未来的芯片将是硬件和软件工程师密切合作的结果。如果您对此感兴趣，请考虑加入我们。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

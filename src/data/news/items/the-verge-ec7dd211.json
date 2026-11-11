@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Starlink Mini 2 adds a swappable battery",
+  "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes […]",
+  "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+  "publishedAt": "2026-11-10T19:19:12.000Z",
+  "id": "the-verge-ec7dd211",
+  "slug": "the-verge-ec7dd211",
+  "content": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes a full year of Roam Unlimited service that SpaceX values at $2,100. The Starlink Mini 2 will run for up to 4.5 hours on a full charge, SpaceX claims, but that can be expanded by hot-swapping in additional batteries that will be sold separately, or by connecting the dish to a 60W power source over USB-C. Despite the addition of an integrated battery, the Starlink Mini 2 dish is thinner than the original Mini. SpaceX has managed to slim it down to 23.1mm thick, while the previous version of the Mini was 38.5mm. The Starlink Mini 2 is slightly heavier at around 3.5 pounds as a result of the added battery weight, but carries forward an IP67 dust- and waterproof rating so it’s still safe to use outdoors. Preorders are now open “by invitation for select US customers,” according to the Starlink website, but “coming soon” to more customers and countries.",
+  "fetchedAt": "2026-11-11T02:53:24.136Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Starlink Mini 2 增加了可更换电池",
+  "chineseSummary": "SpaceX 宣布推出新版一体式卫星互联网终端，将碟形天线、Wi-Fi 路由器和电池集成到一个笔记本电脑大小的设备中。据 X 上一些分享了 Starlink Mini 2 订购邀请截图的用户称，这道菜的售价为 999 美元，其中包括 […]",
+  "chineseContent": "SpaceX 宣布推出新版一体式卫星互联网终端，将碟形天线、Wi-Fi 路由器和电池集成到一个笔记本电脑大小的设备中。据 X 上分享了 Starlink Mini 2 订购邀请截图的一些用户称，该盘的售价为 999 美元，其中包括 SpaceX 估价 2100 美元的全年 Roam Unlimited 服务。 SpaceX 声称，Starlink Mini 2 充满电后可运行长达 4.5 小时，但可以通过热插拔额外的电池（单独出售）或通过 USB-C 将碟形天线连接到 60W 电源来扩展运行时间。尽管添加了集成电池，Starlink Mini 2 碟形天线还是比原来的 Mini 更薄。 SpaceX 已成功将其厚度减至 23.1 毫米，而之前版本的 Mini 厚度为 38.5 毫米。由于电池重量增加，Starlink Mini 2 稍重，约为 3.5 磅，但具有 IP67 防尘防水等级，因此在户外使用仍然安全。据 Starlink 网站称，预订现已“通过邀请特定美国客户”开放，但“即将推出”更多客户和国家。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

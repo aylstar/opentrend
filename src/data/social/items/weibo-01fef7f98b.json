@@ -1,0 +1,21 @@
+{
+  "id": "weibo-01fef7f98b",
+  "slug": "weibo-高迪-大美",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 42,
+  "title": "高迪 大美",
+  "summary": "微博热榜第 42 位：高迪 大美，当前热度为 13万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%BF%AA+%E5%A4%A7%E7%BE%8E%23",
+  "hotValue": "13万热度",
+  "author": "",
+  "publishedAt": "2026-11-11T02:52:00.401Z",
+  "fetchedAt": "2026-11-11T02:54:27.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b7bac5bf92",
+  "slug": "weibo-今天是太阳雨",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 9,
+  "title": "今天是太阳雨",
+  "summary": "微博热榜第 9 位：今天是太阳雨，当前热度为 27万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%23",
+  "hotValue": "27万热度",
+  "author": "",
+  "publishedAt": "2026-11-11T02:52:00.401Z",
+  "fetchedAt": "2026-11-11T02:54:27.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
