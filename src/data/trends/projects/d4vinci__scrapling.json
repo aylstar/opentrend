@@ -8,12 +8,12 @@
   "language": "Python",
   "githubUrl": "https://github.com/D4Vinci/Scrapling",
   "docsUrl": "https://scrapling.readthedocs.io/en/latest/",
-  "stars": 100668,
-  "forks": 10514,
-  "openIssues": 22,
+  "stars": 101719,
+  "forks": 10600,
+  "openIssues": 24,
   "license": "BSD-3-Clause",
-  "pushedAt": "2026-11-09T10:36:37Z",
-  "updatedAt": "2026-11-10T04:41:54Z",
+  "pushedAt": "2026-11-11T19:16:10Z",
+  "updatedAt": "2026-11-12T03:57:14Z",
   "createdAt": "2024-10-13T20:29:53Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<!-- mcp-name: io.github.D4Vinci/Scrapling -->\n\n<h1 align=\"center\">\n    <a href=\"https://scrapling.readthedocs.io\">\n        <picture>\n          <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_dark.svg?sanitize=true\">\n          <img alt=\"Scrapling Poster\" src=\"https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover_light.svg?sanitize=true\">\n        </picture>\n    </a>\n    <br>\n    <small>Effortless Web Scraping for the Modern Web</small>\n</h1>\n\n<p align=\"center\">\n    <a href=\"https://trendshift.io/repositories/14244\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/14244\" alt=\"D4Vinci%2FScrapling | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n    <a href=\"https://www.star-history.com/d4vinci/scrapling\"><img src=\"https://api.star-history.com/badge?repo=D4Vinci/Scrapling&type=rank\" alt=\"Star History Rank\" style=\"height: 55px;\" height=\"55\"/></a>\n    <br/>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_AR.md\"><img alt=\"README بالعربية\" title=\"README بالعربية\" src=\"https://img.shields.io/badge/Arabic-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_ES.md\"><img alt=\"README en Español\" src=\"https://img.shields.io/badge/Español-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_PT_BR.md\"><img alt=\"README em Português (Brasil)\" src=\"https://img.shields.io/badge/Português%20(Brasil)-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_FR.md\"><img alt=\"README en Français\" src=\"https://img.shields.io/badge/Français-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_DE.md\"><img alt=\"README auf Deutsch\" src=\"https://img.shields.io/badge/Deutsch-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_CN.md\"><img alt=\"简体中文版自述文件\" src=\"https://img.shields.io/badge/简体中文-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_JP.md\"><img alt=\"日本語のREADME\" src=\"https://img.shields.io/badge/日本語-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_RU.md\"><img alt=\"Русская версия README\" src=\"https://img.shields.io/badge/Русский-DFE0E5\"></a>\n    <a href=\"https://github.com/D4Vinci/Scrapling/blob/main/docs/README_KR.md\"><img alt=\"한국어 README\" src=\"https://img.shields.io/badge/한국어-DFE0E5\"></a>\n    <br/>\n    <a href=\"https://github.com/D4Vinci/Scrapling/actions/workflows/tests.yml\" alt=\"Tests\">\n        <img alt=\"Tests\" src=\"https://github.com/D4Vinci/Scrapling/actions/workflows/tests.yml/badge.svg\"></a>\n    <a href=\"https://badge.fury.io/py/Scrapling\" alt=\"PyPI version\">\n        <img alt=\"PyPI version\" src=\"https://badge.fury.io/py/Scrapling.svg\"></a>\n    <a href=\"https://hub.docker.com/r/pyd4vinci/scrapling\" target=\"_blank\">\n        <img alt=\"Docker Pulls\" src=\"https://img.shie",
-  "generatedAt": "2026-11-10T04:42:07.938Z",
+  "generatedAt": "2026-11-12T03:57:50.036Z",
   "analysis": {
     "oneLine": "Scrapling 是一个偏反检测场景的自动化浏览器项目，适合用于提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。",
     "problem": "常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程",
     "audience": "自动化测试团队、数据采集团队、浏览器自动化开发者",
     "detailParagraphs": [
       "Scrapling 更准确地说是一个偏反检测场景的自动化浏览器项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：常规 Playwright 或 Chromium 在部分站点容易被自动化检测拦截，影响测试和合规采集流程。",
-      "如果把它放进实际使用场景，Scrapling 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 100,668，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，Scrapling 的价值主要来自提升自动化浏览器在测试、采集和复杂网页交互中的兼容性。当前 Star 约 101,719，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为自动化链路的底层工具，但在商业化使用前必须明确合规边界，不能把反检测能力直接用于绕过平台规则。应重点核对浏览器补丁来源、运行镜像、系统依赖、并发稳定性和服务器资源消耗。当前最需要警惕的是：合规风险和安全风险高于普通工具，必须避免用于违反目标网站条款的场景。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

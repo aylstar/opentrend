@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5e63ccaf7f",
+  "slug": "weibo-wta年终总决赛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 46,
+  "title": "WTA年终总决赛",
+  "summary": "微博热榜第 46 位：WTA年终总决赛，当前热度为 16万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23WTA%E5%B9%B4%E7%BB%88%E6%80%BB%E5%86%B3%E8%B5%9B%23",
+  "hotValue": "16万热度",
+  "author": "",
+  "publishedAt": "2026-11-12T03:50:51.708Z",
+  "fetchedAt": "2026-11-12T03:59:02.075Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

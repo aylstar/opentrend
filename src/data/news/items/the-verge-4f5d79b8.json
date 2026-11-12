@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "United won’t let your AI agent book your flight",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "publishedAt": "2026-11-11T21:54:21.000Z",
+  "id": "the-verge-4f5d79b8",
+  "slug": "the-verge-4f5d79b8",
+  "content": "United says it won’t let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn’t yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned that agents could expose customers’ information or make purchases they didn’t intend, and potentially skirt federal rules about the kind of information airlines need to share with customers — like having them attest that their bags don’t have explosives. While agents can still show users United flights, they won’t be able to actually complete the transaction on their behalf. The decision, and others like it, could limit the potential usefulness of newer personal AI assistants like Meta’s Muse and OpenAI’s Dots. “To be honest, I don’t want to create another middleman,” United CEO Scott Kirby said at an event on Tuesday, according to the Journal. Across sectors, businesses are grappling with whether to let AI agents transact on their sites, and United is not alone in blocking access for unauthorized agents. eBay appeared to block agents from browsing the site, and several major banks have also placed restrictions on them. United suggests it could reconsider its decision based on future advancements. “As third-party AI agents advance, we see the opportunities they present. However, at the same time, allowing them to interact directly with a United account or booking could involve sensitive actions, and we want to make sure we have established protections for travelers first.”",
+  "fetchedAt": "2026-11-12T03:58:04.633Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "安全"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美联航不会让你的 AI 代理为你预订航班",
+  "chineseSummary": "美联航表示，出于隐私和监管方面的考虑，它不会让个人人工智能助理在该航空公司预订机票。据《华尔街日报》报道，该公司表示，尚未看到很多人尝试使用人工智能代理来预订航班，这与 Doordash 等其他企业的观察结果一致。但曼联担心[...]",
+  "chineseContent": "美联航表示，出于隐私和监管方面的考虑，它不会让个人人工智能助理在该航空公司预订机票。据《华尔街日报》报道，该公司表示，尚未看到很多人尝试使用人工智能代理来预订航班，这与 Doordash 等其他企业的观察结果一致。但美联航担心，代理商可能会泄露客户的信息或进行非预期的购买，并且可能会规避有关航空公司需要与客户分享的信息的联邦规定，例如让他们证明自己的行李中没有爆炸物。虽然代理商仍然可以向用户展示美联航航班，但他们无法代表用户实际完成交易。这一决定以及其他类似的决定可能会限制 Meta 的 Muse 和 OpenAI 的 Dots 等新型个人人工智能助手的潜在用途。据《华尔街日报》报道，美联航首席执行官斯科特·柯比 (Scott Kirby) 在周二的一次活动中表示：“说实话，我不想再创建一个中间人。”各个行业的企业都在努力考虑是否允许人工智能代理在其网站上进行交易，而美联航并不是唯一一家阻止未经授权代理访问的公司。 eBay 似乎阻止代理商浏览该网站，几家主要银行也对他们施加了限制。联合航空表示，可以根据未来的进展重新考虑其决定。 “随着第三方人工智能代理的进步，我们看到了他们带来的机会。然而，与此同时，允许他们直接与美联航账户或预订互动可能会涉及敏感行为，我们希望确保首先为旅客建立保护措施。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-17b7ab9592",
+  "slug": "weibo-何以中国壮美八桂",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "何以中国壮美八桂",
+  "summary": "微博热榜第 3 位：何以中国壮美八桂，当前热度为 62万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%A3%AE%E7%BE%8E%E5%85%AB%E6%A1%82%23",
+  "hotValue": "62万热度",
+  "author": "",
+  "publishedAt": "2026-11-12T03:50:51.708Z",
+  "fetchedAt": "2026-11-12T03:59:02.075Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

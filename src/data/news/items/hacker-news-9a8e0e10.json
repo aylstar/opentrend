@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Tools for exploring the souls of large language models",
+  "summary": "41 points · 11 comments",
+  "content": "There is that old joke told by Woody Allen describing his experience as a university student: “I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.” If he’d managed to pass his course, Woody Allen might have been ahead of his time. Metaphysics is becoming a popular topic today, and it seems now everyone desperately wants to look for souls in large language models (LLMs). A recent conference last April was held by Anthropic with religious scholars and philosophical thinkers to discuss the nature of the soul when it came to their latest Claude models. It seems they needed guidance that Dario Amodei was unable to provide. The time seems ripe to dig into how we might actually peer into the mind of the LLM sitting next to you. There’s been a lot of ongoing research; however, the self-same foundation model companies, Anthropic and OpenAI among them, have been criticized for dedicating more compute dollars into better models rather than the safety research. Mechanistic interpretability, the field of AI research devoted to exploring what goes on inside these models, has grown from a handful of researchers in 2021 to hundreds of active contributors. Yet, in spite of funding gaps and the lack of larger colloquiums, the research community has been coming up with some interesting insights and tools to help do the “peering.” Rather than sit on the sidelines and wonder how this could be done, I thought it would be interesting to create a tool that would allow more people to join the party. And that is what led to the development of the “TinyGPT Visualizer.” The goals I had for this were modest. I wanted a tool I could use to survey the field and try the actual techniques to learn how they work. Being a visual person, I began thinking about an X-ray machine—something able to see inside a real model. Not a toy model. A real one, but one small enough to see on a screen with all its working parts. Let me show what it looks like: Your browser does not support embedded video. Download the video. TinyGPT Visualizer walkthrough: inside the network We may wonder where the consciousness can be found in the collection of numeric matrices that our models comprise; the numbers are there to see. Unlike the brains of humans, we can stop and look at the numbers as the thoughts are formed without killing the patient, and, unlike human brains, we can search those numbers for patterns and algorithms which explain the results these models emit as well-formed prose, code, music, and videos. Will we find well-formed emotions? If so, they will be in the numbers. Will philosophy and religion help us? These disciplines haven’t had to rely on numbers and calculations up to this point, but perhaps they now have new ground to pound. TinyGPT Visualizer is open source. You can find the code, setup instructions, and documentation on GitHub: github.com/oshea00/tinygpt-viz.",
+  "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+  "publishedAt": "2026-11-11T20:45:50.000Z",
+  "points": 41,
+  "id": "hacker-news-9a8e0e10",
+  "slug": "hacker-news-9a8e0e10",
+  "fetchedAt": "2026-11-12T03:58:04.630Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "探索大型语言模型灵魂的工具",
+  "chineseSummary": "41 分 · 11 条评论",
+  "chineseContent": "伍迪·艾伦曾讲过一个老笑话，描述他作为一名大学生的经历：“我因形而上学考试作弊而被大学开除；我观察了坐在我旁边的男孩的灵魂。”如果伍迪·艾伦能够成功通过他的课程，他可能会领先于他的时代。形而上学正在成为当今的热门话题，似乎现在每个人都迫切希望在大语言模型（LLM）中寻找灵魂。去年四月，Anthropic 与宗教学者和哲学思想家举行了一次最近的会议，讨论了他们最新的克劳德模型的灵魂本质。看来他们需要达里奥·阿莫代无法提供的指导。现在似乎时机已经成熟，可以深入了解我们如何真正了解坐在您旁边的法学硕士的想法。有很多正在进行的研究；然而，同样的基础模型公司（其中包括 Anthropic 和 OpenAI）因将更多的计算资金投入到更好的模型而不是安全研究上而受到批评。机械可解释性是人工智能研究领域，致力于探索这些模型内部发生的事情，已经从 2021 年的少数研究人员发展到数百名活跃贡献者。然而，尽管存在资金缺口和缺乏更大规模的研讨会，研究界已经提出了一些有趣的见解和工具来帮助进行“对等”。我认为创建一个允许更多人加入的工具会很有趣，而不是坐在一旁思考如何做到这一点。这就是“TinyGPT Visualizer”开发的原因。我为此设定的目标很有限。我想要一个可以用来调查该领域并尝试实际技术以了解其工作原理的工具。作为一个视觉型的人，",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

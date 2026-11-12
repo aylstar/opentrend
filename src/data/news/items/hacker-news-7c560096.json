@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "93% of paint splatters are valid Perl programs (2019)",
+  "summary": "229 points · 34 comments",
+  "content": "TLDR: read the paper and view the gallery of pretty Perl programs .\n\nIn this paper, we aim to answer a long-standing open problem in the programming languages community: is it possible to smear paint on the wall without creating valid Perl?\n\nWe answer this question in the affirmative: it is possible to smear paint on the wall without creating a valid Perl program. We employ an empirical approach, using optical character recognition (OCR) software, which finds that merely 93% of paint splatters parse as valid Perl. We analyze the properties of paint-splatter Perl programs, and present seven examples of paint splatters which are not valid Perl programs.\n\nAccepted for publication at SIGBOVIK 2019, held April 1st 2019 in Pittsburgh. Winner of a Unwitting Participation Ribbon, &ldquo;an unwelcome brand we’ve affixed to each paper determined after careful scrutiny to have included a genuine artifact, thereby furthering the admirable causes of open science and fruitful procrastination.&rdquo;\n\nRead it on Google Docs or download a PDF . Or grab the entire SIGBOVIK 2019 proceedings ; I&rsquo;m on page 174.\n\nHere&rsquo;s all the paint splatters on a single page, along with the valid Perl source code corresponding to each. &ldquo;Not valid&rdquo; is written in red for those images which did not parse as valid Perl programs. If different OCR settings recognized multiple valid Perl programs, I chose the one that seemed the most &ldquo;interesting&rdquo;, according to my own aesthetic sense.\n\nHere&rsquo;s a tarball of 100 paint-splatter images that were used as the main dataset for this paper.\n\n(source code not available yet because i am bad at GitHub)\n\nThere are a few paint splatter Perl programs that I didn&rsquo;t recognize as &ldquo;interesting&rdquo; until after the SIGBOVIK submission deadline. For example, this splatter is recognized by OCR as the string lerzfijglpFiji-j , which evaluates to the number 0 in Perl:\n\nThe image below is recognized as the string -*? , which also evaluates to the number 0 in Perl:\n\nAnother surprising program is shown below; OCR recognizes this image as the string ;i;c;;#\\\\?z{;?;;fn':.; , which evaluates to the string c in Perl:\n\nFinally, this image is recognized as the string ;E,'__' , which evaluates to the string E__ in Perl:",
+  "url": "https://www.mcmillen.dev/sigbovik/",
+  "publishedAt": "2026-11-11T22:34:23.000Z",
+  "points": 229,
+  "id": "hacker-news-7c560096",
+  "slug": "hacker-news-7c560096",
+  "fetchedAt": "2026-11-12T03:58:04.629Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "93% 的油漆飞溅都是有效的 Perl 程序 (2019)",
+  "chineseSummary": "229 分 · 34 条评论",
+  "chineseContent": "TLDR：阅读本文并查看漂亮的 Perl 程序库。\n\n在本文中，我们的目标是回答编程语言社区中一个长期存在的开放性问题：是否可以在不创建有效的 Perl 的情况下在墙上涂抹油漆？\n\n我们对这个问题的回答是肯定的：无需创建有效的 Perl 程序就可以在墙上涂抹油漆。我们采用经验方法，使用光学字符识别 (OCR) 软件，发现只有 93% 的油漆飞溅被解析为有效的 Perl。我们分析了油漆泼溅 Perl 程序的属性，并提供了七个不是有效 Perl 程序的油漆泼溅示例。\n\n已于 2019 年 4 月 1 日在匹兹堡举行的 SIGBOVIK 2019 上接受发表。无意中参与丝带的获奖者，“我们在每一篇经过仔细审查后确定包含真正人工制品的论文上都贴上了一个不受欢迎的品牌，从而进一步推动了开放科学和卓有成效的拖延的令人钦佩的事业。”\n\n在 Google Docs 上阅读或下载 PDF 版本。或者获取整个 SIGBOVIK 2019 会议记录；我在第174页。\n\n这是单个页面上的所有油漆泼溅，以及与每个油漆泼溅相对应的有效 Perl 源代码。对于那些未解析为有效 Perl 程序的图像，“无效”以红色书写。如果不同的 OCR 设置识别多个有效的 Perl 程序，我会根据自己的审美感觉选择看起来最“有趣”的一个。\n\n这是包含 100 个油漆飞溅图像的 tarball，用作本文的主要数据集。\n\n（源代码尚未提供，因为我不太擅长 GitHub）\n\n有一些油漆泼溅的 Perl 程序，直到 SIGBOVIK 提交截止日期之后我才认为它们“有趣”。例如，此泼溅被 OCR 识别为字符串 lerzfijglpFiji-j ，在 Perl 中计算结果为数字 0：\n\n下图被识别为字符串-*? ，在 Perl 中也计算为数字 0：\n\n另一个令人惊讶的程序如下所示； OCR 将此图像识别为字符串 ;i;c;;#\\\\?z{;?;;fn':.; ，其计算结果为 Perl 中的字符串 c：\n\n最后，该图像被识别为字符串 ;E,'__' ，其计算结果为 Perl 中的字符串 E__：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

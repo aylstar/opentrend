@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+  "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "publishedAt": "2026-11-11T16:00:00.000Z",
+  "id": "the-verge-709f9677",
+  "slug": "the-verge-709f9677",
+  "content": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more. “Just add in your links, files and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,” Google Labs design and engineering lead Roman Nurik said in the blog post. “Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time like a Google Doc.” [Video: Google Labs Tabletop AI] Access to the Tabletop beta is rolling out via a waitlist, and currently limited to people over the age of 18 in the US. Some of the example use cases that Nurik provides in his video above would clearly require giving kids or teens access to Tabletop, however, and using this for personal family planning looks like a compelling alternative to stuffy workplace software, so that age requirement might only be in place while Tabletop is in public testing.",
+  "fetchedAt": "2026-11-12T03:58:04.633Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌的桌面 AI 实验可让您构建自定义协作应用程序",
+  "chineseSummary": "谷歌开发了一种名为 Tabletop 的新实验性人工智能工具，它可以生成定制的协作中心，帮助你与家人和朋友进行协调。 Tabletop 平台与 Asana 和 Monday 等工作场所管理应用程序在视觉上有一些相似之处，但具有内置的 AI 功能，允许您通过描述 [...]",
+  "chineseContent": "谷歌开发了一种名为 Tabletop 的新实验性人工智能工具，它可以生成定制的协作中心，帮助你与家人和朋友进行协调。 Tabletop 平台与 Asana 和 Monday 等工作场所管理应用程序在视觉上有一些相似之处，但具有内置的 AI 功能，允许您通过描述它们来对个性化交互式工具进行 vibecode，例如储蓄跟踪器、家务图表、活动计划等。 “只需添加您的链接、文件和想法，然后提示@tabletop - 或选择一个入门模板 - 即可生成自定义的交互式旅行行程、晚餐民意调查、费用分摊和锦标赛括号，”谷歌实验室设计和工程主管 Roman Nurik 在博客文章中说。 “一旦您的空间准备就绪，请将邀请链接放入群聊中，让每个人都可以像 Google 文档一样同时加入并使用它。” [视频：Google Labs Tabletop AI] Tabletop 测试版通过等候名单推出，目前仅限美国 18 岁以上的用户。 Nurik 在上面的视频中提供的一些示例用例显然需要让儿童或青少年能够访问 Tabletop，但是，将其用于个人计划生育似乎是乏味工作场所软件的一个引人注目的替代方案，因此年龄要求可能只有在 Tabletop 进行公开测试时才会生效。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/vercel-labs/agent-desktop",
   "docsUrl": "https://agent-browser.dev/desktop",
-  "stars": 21459,
-  "forks": 1597,
-  "openIssues": 209,
+  "stars": 22213,
+  "forks": 1653,
+  "openIssues": 220,
   "license": "Apache-2.0",
-  "pushedAt": "2026-11-11T02:49:20Z",
-  "updatedAt": "2026-11-11T02:51:56Z",
+  "pushedAt": "2026-11-11T06:09:45Z",
+  "updatedAt": "2026-11-12T03:52:28Z",
   "createdAt": "2026-02-19T18:00:49Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# agent-desktop\n\nComputer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree.\n\n<p>\n  <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm version: agent-desktop\" src=\"https://img.shields.io/npm/v/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://github.com/vercel-labs/agent-desktop/blob/main/LICENSE\"><img alt=\"License: Apache-2.0\" src=\"https://img.shields.io/github/license/vercel-labs/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a>\n  <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm downloads per month: agent-desktop\" src=\"https://img.shields.io/npm/dm/agent-desktop.svg?style=for-the-badge&amp;labelColor=000000&amp;label=npm%20downloads\" height=\"28\"></a>\n</p>\n\nagent-desktop gives an AI agent computer use without screenshots or pixel matching. It reads the accessibility tree of a desktop app and returns it as JSON, with a ref for every element the agent can act on. The agent clicks or types on a ref, reads the UI again to check the result, and repeats. The loop lives in your agent; agent-desktop has no model inside. It ships as a CLI and a C library.\n\nSnapshots, clipboard reads, screenshots, command output, and debug artifacts can contain private desktop content. Keep them out of public logs and uploads.\n\n## Install\n\n```bash\nnpm install -g agent-desktop\nagent-desktop status                # platform, permissions, supported surfaces\nagent-desktop permissions --guide   # macOS: walks you through the Accessibility grant\n```\n\nBun, Yarn and pnpm can install the same package. It includes native binaries and platform helpers for x64 and ARM64.\nFor direct execution without a JavaScript launcher, download the matching native archive from\n[GitHub Releases](https://github.com/vercel-labs/agent-desktop/releases) and keep its helper beside the executable.\n\nOn macOS and Linux, Homebrew also works: `brew install agent-desktop`. There is no official Scoop package yet.\nThe repository no longer maintains a custom Homebrew tap or Scoop bucket.\n\nRelease archives and building from source are covered in [Installation](https://agent-browser.dev/desktop/installation).\n\n## Quick start\n\n```bash\nagent-desktop snapshot --app Finder -i      # interactive elements, each with a ref\nagent-desktop click @s8f3k2p9:e8            # act on a ref from that snapshot\nagent-desktop snapshot --app Finder -i      # observe again to verify\n```\n\nEach command prints one JSON envelope. A trimmed snapshot:\n\n```json\n{\n  \"version\": \"2.6\",\n  \"ok\": true,\n  \"command\": \"snapshot\",\n  \"data\": {\n    \"app\": \"Finder\",\n    \"snapshot_id\": \"s8f3k2p9\",\n    \"ref_count\": 59,\n    \"complete\": true,\n    \"tree\": {\n      \"role\": \"window\",",
-  "generatedAt": "2026-11-11T02:53:04.656Z",
+  "generatedAt": "2026-11-12T03:57:47.698Z",
   "analysis": {
     "oneLine": "agent-desktop 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "agent-desktop 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，agent-desktop 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 21,459，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，agent-desktop 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 22,213，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
