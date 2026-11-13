@@ -1,0 +1,21 @@
+{
+  "id": "weibo-42f1b1283d",
+  "slug": "weibo-天涯共此诗",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 3,
+  "title": "天涯共此诗",
+  "summary": "微博热榜第 3 位：天涯共此诗，当前热度为 67万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97%23",
+  "hotValue": "67万热度",
+  "author": "",
+  "publishedAt": "2026-11-13T03:28:43.770Z",
+  "fetchedAt": "2026-11-13T03:29:40.936Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

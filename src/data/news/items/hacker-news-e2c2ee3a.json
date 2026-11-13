@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Libreagi – Save OSS Models",
+  "summary": "135 points · 25 comments",
+  "content": "Open models should outlive the places that host them. LibreAGI is a private BitTorrent tracker where members keep copies of the models most likely to disappear.\n\n$ mktorrent -p -s libreagi -l 24 ./model\n\nCredit grows with size and time, and a model with one copy earns four times the base rate. The rare ones need the most help.\n\nAny format, from safetensors and GGUF to ONNX, under Apache-2.0, MIT or the Qwen Community License. Each file is checked against its source commit, and staff review every model.\n\nA signed public catalog lists every model, hash and source, so anyone can rebuild the swarms if this site goes away.\n\nThe public channel is open to anyone, with no account needed. Come and ask questions before you apply.",
+  "url": "https://libreagi.com/",
+  "publishedAt": "2026-11-12T14:11:58.000Z",
+  "points": 135,
+  "id": "hacker-news-e2c2ee3a",
+  "slug": "hacker-news-e2c2ee3a",
+  "fetchedAt": "2026-11-13T03:29:04.721Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Libreagi – Save OSS Models",
+  "chineseSummary": "135 points · 25 comments",
+  "chineseContent": "Open models should outlive the places that host them. LibreAGI is a private BitTorrent tracker where members keep copies of the models most likely to disappear.\n\n$ mktorrent -p -s libreagi -l 24 ./model\n\nCredit grows with size and time, and a model with one copy earns four times the base rate. The rare ones need the most help.\n\nAny format, from safetensors and GGUF to ONNX, under Apache-2.0, MIT or the Qwen Community License. Each file is checked against its source commit, and staff review every model.\n\nA signed public catalog lists every model, hash and source, so anyone can rebuild the swarms if this site goes away.\n\nThe public channel is open to anyone, with no account needed. Come and ask questions before you apply.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

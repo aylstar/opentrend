@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google’s new Gemini model is better at understanding complicated questions",
+  "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+  "publishedAt": "2026-11-12T21:55:32.000Z",
+  "id": "the-verge-4a2eaab1",
+  "slug": "the-verge-4a2eaab1",
+  "content": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including “questions with multiple parts, hard-to-understand typos, or highly specific requests.” The new model can break down your questions and address each part in its responses. It’s available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it’s “now the new default model in AI Mode & being used for your hardest questions in AI Overviews.” Google says Gemini 4 Hydrogen also gives users a wider range of links in its responses by “conducting simultaneous queries across all the relevant subtopics.” Its responses have more visuals, too, like images, comparison tables, graphs, and maps. One of Stein’s examples shows the AI generating an interactive animated driving simulation in response to a user’s question about how phones locate which lane of a highway a car is on in areas without cell service. Google says the new model also has improved language understanding “across all supported AI Mode languages.” [Media: https://twitter.com/rmstein/status/2120941443359576166?a=NQ8Q5PwHUHcmejMYRl4&s=20] Users have more thinking level options with Gemini 4 Hydrogen, as well, including low, medium, high, and a new “xhigh” mode. According to Google, the new model “delivers significant leaps in both speed and intelligence” compared to Gemini Flash 3.8, and it “matches or outperforms some of the competing models in its class,” like Claude Sonnet 5.5 and GPT-6.1 Terra.",
+  "fetchedAt": "2026-11-13T03:29:04.723Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Google’s new Gemini model is better at understanding complicated questions",
+  "chineseSummary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+  "chineseContent": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including “questions with multiple parts, hard-to-understand typos, or highly specific requests.” The new model can break down your questions and address each part in its responses. It’s available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at Google Search, says it’s “now the new default model in AI Mode & being used for your hardest questions in AI Overviews.” Google says Gemini 4 Hydrogen also gives users a wider range of links in its responses by “conducting simultaneous queries across all the relevant subtopics.” Its responses have more visuals, too, like images, comparison tables, graphs, and maps. One of Stein’s examples shows the AI generating an interactive animated driving simulation in response to a user’s question about how phones locate which lane of a highway a car is on in areas without cell service. Google says the new model also has improved language understanding “across all supported AI Mode languages.” [Media: https://twitter.com/rmstein/status/2120941443359576166?a=NQ8Q5PwHUHcmejMYRl4&s=20] Users have more thinking level options with Gemini 4 Hydrogen, as well, including low, medium, high, and a new “xhigh” mode. According to Google, the new model “delivers significant leaps in both speed and intelligence” compared to Gemini Flash 3.8, and it “matches or outperforms some of the competing models in its class,” like Claude Sonnet 5.5 and GPT-6.1 Terra.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

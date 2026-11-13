@@ -1,25 +1,25 @@
 {
   "source": "MarketWatch",
   "category": "finance",
-  "originalTitle": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+  "originalTitle": "Opening trading-card packs has become a $2 billion market",
   "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
   "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-  "publishedAt": "2026-11-11T21:55:00.000Z",
+  "publishedAt": "2026-11-12T22:38:00.000Z",
   "id": "marketwatch-f8fc11d3",
   "slug": "marketwatch-f8fc11d3",
   "content": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-  "fetchedAt": "2026-11-12T03:58:04.637Z",
+  "fetchedAt": "2026-11-13T03:29:04.726Z",
   "score": 90,
   "sourceWeight": 84,
   "tags": [
     "科技",
     "金融"
   ],
-  "rank": 23,
+  "rank": 21,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "打开交易卡包已成为一个价值 20 亿美元的市场。新的应用程序正试图从中获利。",
-  "chineseSummary": "打包应用程序正在改变人们购买和销售卡牌的方式。但分析师表示，他们的“老虎机般的回报”会增加风险。",
-  "chineseContent": "打包应用程序正在改变人们购买和销售卡牌的方式。但分析师表示，他们的“老虎机般的回报”会增加风险。",
-  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "Opening trading-card packs has become a $2 billion market",
+  "chineseSummary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+  "chineseContent": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

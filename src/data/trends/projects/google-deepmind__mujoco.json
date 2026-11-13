@@ -1,0 +1,70 @@
+{
+  "slug": "google-deepmind__mujoco",
+  "owner": "google-deepmind",
+  "repo": "mujoco",
+  "name": "mujoco",
+  "fullName": "google-deepmind/mujoco",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "language": "C++",
+  "githubUrl": "https://github.com/google-deepmind/mujoco",
+  "docsUrl": "https://mujoco.org",
+  "stars": 17781,
+  "forks": 2180,
+  "openIssues": 393,
+  "license": "Apache-2.0",
+  "pushedAt": "2026-11-12T23:22:44Z",
+  "updatedAt": "2026-11-13T03:22:15Z",
+  "createdAt": "2021-08-27T12:25:48Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "数据分析",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.3,
+  "readmeExcerpt": "<h1>\n  <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a>\n</h1>\n\n<p>\n  <a href=\"https://mujoco.org\" alt=\"Website\">\n    <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\">\n  </a>\n  <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\">\n    <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\">\n  </a>\n  <a href=\"https://mujoco.readthedocs.io/\" alt=\"Documentation\">\n    <img src=\"https://readthedocs.org/projects/mujoco/badge/?version=latest\">\n  </a>\n  <a href=\"https://github.com/google-deepmind/mujoco/blob/main/LICENSE\" alt=\"License\">\n    <img src=\"https://img.shields.io/github/license/google-deepmind/mujoco\">\n  </a>\n</p>\n\n**MuJoCo** stands for **Mu**lti-**Jo**int dynamics with **Co**ntact. It is a\ngeneral purpose physics engine that aims to facilitate research and development\nin robotics, biomechanics, graphics and animation, machine learning, and other\nareas which demand fast and accurate simulation of articulated structures\ninteracting with their environment.\n\nThis repository is maintained by [Google DeepMind](https://www.deepmind.com/).\n\nMuJoCo has a C API and is intended for researchers and developers. The runtime\nsimulation module is tuned to maximize performance and operates on low-level\ndata structures that are preallocated by the built-in XML compiler. The library\nincludes interactive visualization in native desktop windows and web browsers.\nMuJoCo further exposes a large number of utility functions for computing\nphysics-related quantities.\n\nWe also provide [Python bindings] and a plug-in for the [Unity] game engine.\n\n## Documentation\n\nMuJoCo's documentation can be found at [mujoco.readthedocs.io]. Upcoming\nfeatures due for the next release can be found in the [changelog] in the\n\"latest\" branch.\n\n## Getting Started\n\n1. **Try MuJoCo in your browser.**\nVisit [mujoco.org](https://mujoco.org) to explore MuJoCo on desktop or mobile\nwith nothing to install, or open [live.mujoco.org](https://live.mujoco.org) to\ninspect and drag and drop your own models in the WebAssembly version of the\n[MuJoCo Studio] app (slower than native C, since it runs in WebAssembly).\n\n2. **Run a viewer on your machine.**\nFollow the [Getting Started] guide in the documentation to download a prebuilt\nrelease and run the [MuJoCo Studio] app or the classic `simulate` viewer (shown\nin [this video](https://www.youtube.com/watch?v=P83tKA1iz2Y)) on your machine.\n\n3. **Explore our online IPython notebooks.**\nIf you are a Python user, you might want to start with our tutorial notebooks\nrunning on Google Colab:\n\n - The **introductory** tutorial teaches MuJoCo basics:\n   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb)\n - The **Model Editing** tutorial shows how to create and edit models procedur",
+  "generatedAt": "2026-11-13T03:28:44.571Z",
+  "analysis": {
+    "oneLine": "mujoco 是一个面向学术研究或资料整理的效率工具，适合用于改善文献检索、阅读、整理和研究输出流程。",
+    "problem": "研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀",
+    "audience": "研究人员、学生、行业分析师、知识工作者",
+    "detailParagraphs": [
+      "mujoco 更准确地说是一个面向学术研究或资料整理的效率工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：研究工作中资料分散、阅读链路长、引用和笔记难以结构化沉淀。",
+      "如果把它放进实际使用场景，mujoco 的价值主要来自改善文献检索、阅读、整理和研究输出流程。当前 Star 约 17,781，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 C++ 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间。重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。当前最需要警惕的是：风险在于不同研究场景差异较大，自动化效果需要真实任务验证。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "文献阅读工作流",
+      "研究资料整理",
+      "行业报告素材管理",
+      "AI 辅助研究流程"
+    ],
+    "interpretation": "mujoco 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 C++ 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "pip install mujoco",
+    "deployment": "重点核对数据来源、文件格式、引用管理工具兼容性和本地化使用体验。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "适合包装成研究工作流模板或内部知识生产工具，付费价值取决于是否真正减少资料整理和写作前处理时间；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在改善文献检索、阅读、整理和研究输出流程，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 C++ 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于不同研究场景差异较大，自动化效果需要真实任务验证。",
+    "recommendation": 2.3,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "数据分析",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-11-13T03:28:44.572Z"
+}

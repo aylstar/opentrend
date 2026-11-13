@@ -1,0 +1,21 @@
+{
+  "id": "weibo-1cae9c6636",
+  "slug": "weibo-微软outlook服务宕机",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "微软Outlook服务宕机",
+  "summary": "微博热榜第 8 位：微软Outlook服务宕机，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E8%BD%AFOutlook%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-11-13T03:28:43.770Z",
+  "fetchedAt": "2026-11-13T03:29:40.936Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

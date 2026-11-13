@@ -1,0 +1,21 @@
+{
+  "id": "weibo-6b6ecd7f4a",
+  "slug": "weibo-卡里克-曼联",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 45,
+  "title": "卡里克 曼联",
+  "summary": "微博热榜第 45 位：卡里克 曼联，当前热度为 9万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E9%87%8C%E5%85%8B+%E6%9B%BC%E8%81%94%23",
+  "hotValue": "9万热度",
+  "author": "",
+  "publishedAt": "2026-11-13T03:28:43.770Z",
+  "fetchedAt": "2026-11-13T03:29:40.936Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

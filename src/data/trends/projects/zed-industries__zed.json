@@ -8,12 +8,12 @@
   "language": "Rust",
   "githubUrl": "https://github.com/zed-industries/zed",
   "docsUrl": "https://zed.dev",
-  "stars": 94736,
-  "forks": 11632,
-  "openIssues": 3071,
+  "stars": 94864,
+  "forks": 11670,
+  "openIssues": 3057,
   "license": "NOASSERTION",
-  "pushedAt": "2026-11-12T02:51:28Z",
-  "updatedAt": "2026-11-12T03:50:00Z",
+  "pushedAt": "2026-11-13T02:59:31Z",
+  "updatedAt": "2026-11-13T03:12:17Z",
   "createdAt": "2021-02-20T03:01:06Z",
   "archived": false,
   "trendWindows": [
@@ -25,14 +25,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "# Zed\n\n[![Zed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zed-industries/zed/main/assets/badge/v0.json)](https://zed.dev)\n[![CI](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml)\n\nWelcome to Zed, a high-performance, multiplayer code editor from the creators of [Atom](https://github.com/atom/atom) and [Tree-sitter](https://github.com/tree-sitter/tree-sitter).\n\n---\n\n### Installation\n\nOn macOS, Linux, and Windows you can [download Zed directly](https://zed.dev/download) or install Zed via your local package manager ([macOS](https://zed.dev/docs/installation#macos)/[Linux](https://zed.dev/docs/linux#installing-via-a-package-manager)/[Windows](https://zed.dev/docs/windows#package-managers)).\n\nOther platforms are not yet available:\n\n- Web ([tracking discussion](https://github.com/zed-industries/zed/discussions/26195))\n\n### Developing Zed\n\n- [Building Zed for macOS](./docs/src/development/macos.md)\n- [Building Zed for Linux](./docs/src/development/linux.md)\n- [Building Zed for Windows](./docs/src/development/windows.md)\n\n### Contributing\n\nSee [CONTRIBUTING.md](./CONTRIBUTING.md) for ways you can contribute to Zed.\n\nAlso... we're hiring! Check out our [jobs](https://zed.dev/jobs) page for open roles.\n\n### Licensing\n\nZed source code is licensed primarily under GPL-3.0-or-later, with Apache-2.0 components where marked.\n\nLicense information for third party dependencies must be correctly provided for CI to pass.\n\nWe use [`cargo-about`](https://github.com/EmbarkStudios/cargo-about) to automatically comply with open source licenses. If CI is failing, check the following:\n\n- Is it showing a `no license specified` error for a crate you've created? If so, add `publish = false` under `[package]` in your crate's Cargo.toml.\n- Is the error `failed to satisfy license requirements` for a dependency? If so, first determine what license the project has and whether this system is sufficient to comply with this license's requirements. If you're unsure, ask a lawyer. Once you've verified that this system is acceptable add the license's SPDX identifier to the `accepted` array in `script/licenses/zed-licenses.toml`.\n- Is `cargo-about` unable to find the license for a dependency? If so, add a clarification field at the end of `script/licenses/zed-licenses.toml`, as specified in the [cargo-about book](https://embarkstudios.github.io/cargo-about/cli/generate/config.html#crate-configuration).\n\n## Sponsorship\n\nZed is developed by **Zed Industries, Inc.**, a for-profit company.\n\nIf you’d like to financially support the project, you can do so via GitHub Sponsors.\nSponsorships go directly to Zed Industries and are used as general company revenue.\nThere are no perks or entitlements associated with sponsorship.\n",
-  "generatedAt": "2026-11-12T03:57:50.603Z",
+  "generatedAt": "2026-11-13T03:28:44.160Z",
   "analysis": {
     "oneLine": "zed 是一个 JavaScript 运行时和工具链项目，适合用于提升前端和 Node.js 生态中的构建、运行和包管理效率。",
     "problem": "传统 JavaScript 工具链链路长、配置多、启动和构建成本高",
     "audience": "前端工程团队、全栈开发者、追求构建速度的技术团队",
     "detailParagraphs": [
       "zed 更准确地说是一个 JavaScript 运行时和工具链项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：传统 JavaScript 工具链链路长、配置多、启动和构建成本高。",
-      "如果把它放进实际使用场景，zed 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 94,736，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，zed 的价值主要来自提升前端和 Node.js 生态中的构建、运行和包管理效率。当前 Star 约 94,864，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Rust 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，商业价值主要来自工程效率提升和基础设施降本，但大规模迁移要考虑生态兼容、CI 稳定性和团队学习成本。重点核对现有框架、依赖包、CI/CD、容器镜像和生产运行环境的兼容性。当前最需要警惕的是：风险在生态边界和迁移成本，不宜只因热度高就替换成熟工具链。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

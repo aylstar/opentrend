@@ -1,0 +1,21 @@
+{
+  "id": "weibo-35847bfe3c",
+  "slug": "weibo-白小纯-王子璇",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "白小纯 王子璇",
+  "summary": "微博热榜第 7 位：白小纯 王子璇，当前热度为 44万热度。",
+  "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF+%E7%8E%8B%E5%AD%90%E7%92%87%23",
+  "hotValue": "44万热度",
+  "author": "",
+  "publishedAt": "2026-11-13T03:28:43.770Z",
+  "fetchedAt": "2026-11-13T03:29:40.936Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -8,8 +8,8 @@
   "id": "product-hunt-571c4dd3",
   "slug": "product-hunt-571c4dd3",
   "content": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
-  "fetchedAt": "2026-11-12T03:58:04.630Z",
-  "score": 89,
+  "fetchedAt": "2026-11-13T03:29:04.722Z",
+  "score": 83,
   "sourceWeight": 84,
   "tags": [
     "AI",
@@ -18,9 +18,9 @@
   ],
   "rank": 1,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "债券聊天",
-  "chineseSummary": "如果你和你的朋友们崩溃，多人游戏人工智能就会死亡 讨论 |关联",
-  "chineseContent": "如果你和你的朋友们崩溃，多人游戏人工智能就会死亡 讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "bonds chat",
+  "chineseSummary": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
+  "chineseContent": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

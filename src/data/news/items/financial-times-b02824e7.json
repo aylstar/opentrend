@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+  "summary": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+  "url": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+  "publishedAt": "2026-11-12T18:03:44.000Z",
+  "id": "financial-times-b02824e7",
+  "slug": "financial-times-b02824e7",
+  "content": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+  "fetchedAt": "2026-11-13T03:29:04.729Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融"
+  ],
+  "rank": 15,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+  "chineseSummary": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+  "chineseContent": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
