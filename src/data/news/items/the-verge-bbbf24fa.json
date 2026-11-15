@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Work to replace old copper wire led to the FAA’s ground stop",
+  "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He […]",
+  "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+  "publishedAt": "2026-11-14T17:44:28.000Z",
+  "id": "the-verge-bbbf24fa",
+  "slug": "the-verge-bbbf24fa",
+  "content": "At a press conference today, Transportation Secretary Sean Duffy said that Friday’s nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a “remote FAA facility.” The secretary said that this was “routine maintenance,” rather than the result of a major modernization effort. He told reporters that it was “such an old wire that it was being discontinued, meaning that line was going to get shut down,” necessitating the upgrade. What wasn’t clear, according to Secretary Duffy, was the root cause of the problem. He said that it could have been faulty hardware, a misconfigured router, or “incompetence” on the part of contractor L3Harris. Regardless, what followed was the newly installed router “flooding” other routers in the Air Traffic Control system. Duffy said that there were “over 1,000 connection attempts every 4 to 5 seconds,” causing disruption to radar feeds and communication with planes. [Media: https://youtu.be/eVP8ae7ogxY] Secretary Duffy also took the opportunity to call on additional funding from Congress for modernizing the Air Traffic Control system, and to tout the work the FAA has done so far. “We are building, we are building safely, but we are building fast,” he said, but said that Congress had only given him a “partial payment” to complete the necessary work. In a statement posted to their site, L3Harris said: > L3Harris has been modernizing the communications infrastructure supporting the National Airspace System in close coordination with the FAA. With safety and reliability as our highest priorities, L3Harris, together with its telco partners and the FAA, has completed more than 70% of the planned airspace communications conversion from legacy copper wires to a fiber optic system. We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation’s air travel. L3Harris takes the nationwide ground stop and its impact on travelers, airlines and air traffic operations seriously. Update November 14th: Added a statement from L3Harris.",
+  "fetchedAt": "2026-11-15T02:54:26.354Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "更换旧铜线的工作导致美国联邦航空局停飞",
+  "chineseSummary": "在今天的新闻发布会上，交通部长肖恩·达菲 (Sean Duffy) 表示，美国联邦航空局 (FAA) 下令周五在全国范围内进行地面停车，涉及在“联邦航空局远程设施”用光纤线路更换过时的铜线的工作。部长表示，这是“例行维护”，而不是重大现代化努力的结果。他 […]",
+  "chineseContent": "在今天的新闻发布会上，交通部长肖恩·达菲 (Sean Duffy) 表示，美国联邦航空局 (FAA) 下令周五在全国范围内进行地面停车，与在“联邦航空局远程设施”中用光纤线路更换过时的铜线有关。部长表示，这是“例行维护”，而不是重大现代化努力的结果。他告诉记者，这是“一条非常旧的电线，即将停产，这意味着该线路将被关闭”，因此需要进行升级。达菲国务卿表示，尚不清楚问题的根本原因。他表示，这可能是硬件故障、路由器配置错误或承包商 L3Harris 的“无能”造成的。不管怎样，随之而来的是新安装的路由器“淹没”了空中交通管制系统中的其他路由器。达菲表示，“每 4 到 5 秒就有超过 1,000 次连接尝试”，导致雷达信号和与飞机的通信中断。 [媒体：https://youtu.be/eVP8ae7ogxY] 达菲部长还借此机会呼吁国会为空中交通管制系统现代化提供额外资金，并宣传联邦航空局迄今为止所做的工作。他说：“我们正在建设，我们正在安全地建设，但我们正在快速建设。”但他表示，国会只给了他“部分付款”来完成必要的工作。 L3Harris 在其网站上发布的一份声明中表示： > L3Harris 一直在与 FAA 密切合作，对支持国家空域系统的通信基础设施进行现代化改造。 L3Harris 将安全性和可靠性作为我们的首要任务，与其电信合作伙伴和 FAA 一起，已完成了 70% 以上的计划空域通信从传统铜线到光纤系统的转换。我们是",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

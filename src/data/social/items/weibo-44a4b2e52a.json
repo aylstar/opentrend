@@ -1,0 +1,21 @@
+{
+  "id": "weibo-44a4b2e52a",
+  "slug": "weibo-稚楚取证",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 49,
+  "title": "稚楚取证",
+  "summary": "微博热榜第 49 位：稚楚取证。",
+  "url": "https://s.weibo.com/weibo?q=%E7%A8%9A%E6%A5%9A%E5%8F%96%E8%AF%81",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "",
+  "fetchedAt": "2026-11-15T02:55:53.011Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "Weibo Web",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+  "summary": "28 points · 1 comments",
+  "content": "Today , along with the ACLU, EFF filed an amicus brief in the Sixth Circuit court of appeals in United States v. Sturdivant , a case where police warrantlessly tracked a suspect’s movements using Automated License Plate Reader (ALPR) data. Our brief details the vast, interconnected network of ALPRs that constantly track drivers around the country and argues that this tracking is a “search” under the meaning of the Fourth Amendment.\n\nSturdivant involves a series of robberies in and around Cleveland, Ohio. Using surveillance camera footage, police identified the make, model, and color of the robber’s car, but they did not know its license plate number. After running an open-ended search of two ALPR databases, Flock and ELSAG, officers learned a car belonging to the defendant had been tracked near sites of the robberies, eventually leading to his arrest. Faced with a motion to suppress the ALPR evidence, the district court held that Mr. Sturdivant had no reasonable expectation of privacy in his license plate number because it could be observed by members of the public, and that therefore he had no Fourth Amendment interest in not having his car tracked in public places.\n\nBut ALPRs are simply not comparable to observing an individual license plate on a passing car. As we’ve explained in many amicus briefs and in our lawsuits directly challenging ALPR use in San Jose, California and Wisconsin , ALPRs give law enforcement “ a virtual time machine to view suspects’, or anyone else’s, past movements (and much more) with just the click of a button.” Just last month, a federal district court agreed and held that ALPRs are a “ form of indiscriminate mass surveillance” that can violate the Fourth Amendment.\n\nWe hope the Sixth Circuit will reverse the lower court in this case and hold that ALPR searches require a warrant.",
+  "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+  "publishedAt": "2026-11-15T02:00:54.000Z",
+  "points": 28,
+  "id": "hacker-news-887d4635",
+  "slug": "hacker-news-887d4635",
+  "fetchedAt": "2026-11-15T02:54:26.353Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "我们请求上诉法院要求提供 ALPR 搜查令",
+  "chineseSummary": "28 分 · 1 条评论",
+  "chineseContent": "今天，EFF 与 ACLU 一起在美国诉 Sturdivant 案中向第六巡回上诉法院提交了一份法庭之友陈述，该案中警方利用自动车牌读取器 (ALPR) 数据在未经授权的情况下追踪嫌疑人的行踪。我们的简介详细介绍了庞大且相互关联的 ALPR 网络，该网络不断跟踪全国各地的司机，并认为这种跟踪是第四修正案含义下的“搜索”。\n\nSturdivant 涉及俄亥俄州克利夫兰及其周边地区的一系列抢劫案。警方利用监控录像确定了劫匪汽车的品牌、型号和颜色，但不知道其车牌号。在对 Flock 和 ELSAG 两个 ALPR 数据库进行开放式搜索后，警方获悉被告的一辆汽车在抢劫地点附近被追踪，最终将他逮捕。面对压制 ALPR 证据的动议，地区法院认为，Sturdivant 先生对他的车牌号码没有合理的隐私期望，因为公众可以观察到该号码，因此，根据第四修正案，他的汽车在公共场所不被追踪并无利益。\n\n但 ALPR 根本无法与观察过往汽车上的单个车牌相媲美。正如我们在许多法庭之友陈述中以及在直接质疑加利福尼亚州圣何塞和威斯康星州使用 ALPR 的诉讼中所解释的那样，ALPR 为执法部门提供了“一个虚拟时间机器，只需单击一个按钮即可查看嫌疑人或任何其他人过去的活动（以及更多信息）”。就在上个月，一家联邦地区法院同意并裁定 ALPR 是一种“不分皂白的大规模监视形式”，可能违反第四修正案。\n\n我们希望第六巡回法院在本案中推翻下级法院的判决，认为 ALPR 搜查需要搜查令。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

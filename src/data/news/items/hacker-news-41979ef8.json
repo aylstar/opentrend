@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: A custom font based on the Jamaican flag alphabet",
+  "summary": "5 points · 1 comments",
+  "content": "The flag of Jamaica looks like this:\n\nInspired by this Reddit post : if the flag is the letter X, what does the rest of the alphabet look like? Read the blog post about making this font .\n\nThis text box contains ordinary text that you can select, copy, and search. The colors and shapes are built directly into the font!\n\nThe Connected Variant joins letters together, using contextual font features to match background colors between letters and connecting certain glyphs. Learn more about how this font works .",
+  "url": "https://bobbiec.github.io/jamaican-font.html",
+  "publishedAt": "2026-11-15T00:56:45.000Z",
+  "points": 5,
+  "id": "hacker-news-41979ef8",
+  "slug": "hacker-news-41979ef8",
+  "fetchedAt": "2026-11-15T02:54:26.353Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "全球"
+  ],
+  "rank": 12,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：基于牙买加国旗字母的自定义字体",
+  "chineseSummary": "5 分 · 1 条评论",
+  "chineseContent": "牙买加的国旗是这样的：\n\n受到这篇 Reddit 帖子的启发：如果国旗是字母 X，那么字母表的其余部分是什么样子？阅读有关制作此字体的博客文章。\n\n此文本框包含您可以选择、复制和搜索的普通文本。颜色和形状直接内置于字体中！\n\n连接变体将字母连接在一起，使用上下文字体功能来匹配字母之间的背景颜色并连接某些字形。详细了解该字体的工作原理。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

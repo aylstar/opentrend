@@ -1,0 +1,21 @@
+{
+  "id": "weibo-da5321ab15",
+  "slug": "weibo-bin-世一上",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 21,
+  "title": "Bin 世一上",
+  "summary": "微博热榜第 21 位：Bin 世一上。",
+  "url": "https://s.weibo.com/weibo?q=Bin%20%E4%B8%96%E4%B8%80%E4%B8%8A",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "",
+  "fetchedAt": "2026-11-15T02:55:53.010Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "Weibo Web",
+  "sourceStatus": "live"
+}

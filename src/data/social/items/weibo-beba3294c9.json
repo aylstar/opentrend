@@ -1,0 +1,21 @@
+{
+  "id": "weibo-beba3294c9",
+  "slug": "weibo-gen对战blg",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 32,
+  "title": "GEN对战BLG",
+  "summary": "微博热榜第 32 位：GEN对战BLG。",
+  "url": "https://s.weibo.com/weibo?q=GEN%E5%AF%B9%E6%88%98BLG",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "",
+  "fetchedAt": "2026-11-15T02:55:53.010Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "Weibo Web",
+  "sourceStatus": "live"
+}
