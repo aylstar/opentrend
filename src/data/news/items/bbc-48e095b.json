@@ -1,0 +1,25 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "What we know so far about the Microsoft outage",
+  "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+  "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-11-13T11:43:27.000Z",
+  "id": "bbc-48e095b",
+  "slug": "bbc-48e095b",
+  "content": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.\n\nMicrosoft has said the problem was caused by a higher-than-usual stress on its servers but that systems were now showing \"early signs of stabilisation\" as work continued on a fix.\n\nThe BBC's technology reporter Shiona McCallum explains what we know.\n\nRead more about the Microsoft outage.",
+  "fetchedAt": "2026-11-16T02:54:34.512Z",
+  "score": 71,
+  "sourceWeight": 90,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "到目前为止我们对微软宕机的了解",
+  "chineseSummary": "Microsoft 的故障影响了 Teams、Outlook 和 AI 软件 Copilot 等服务。",
+  "chineseContent": "Microsoft 的故障影响了 Teams、Outlook 和 AI 软件 Copilot 等服务。\n\n微软表示，该问题是由于其服务器承受的压力高于平时造成的，但随着修复工作的继续，系统现在显示出“稳定的早期迹象”。\n\nBBC 科技记者 Shiona McCallum 解释了我们所知道的情况。\n\n了解有关 Microsoft 中断的更多信息。",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

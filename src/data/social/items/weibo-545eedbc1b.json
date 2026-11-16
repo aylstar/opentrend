@@ -1,0 +1,21 @@
+{
+  "id": "weibo-545eedbc1b",
+  "slug": "weibo-红果ai漫剧热播榜排名top10",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "红果AI漫剧热播榜排名TOP10",
+  "summary": "微博热榜第 5 位：红果AI漫剧热播榜排名TOP10。",
+  "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-15T17:46:32.739Z",
+  "fetchedAt": "2026-11-16T02:55:26.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

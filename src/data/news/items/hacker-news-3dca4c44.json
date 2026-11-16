@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Coles hit by a cybersecurity incident",
+  "summary": "48 points · 23 comments",
+  "content": "48 points · 23 comments",
+  "url": "https://www.colesgroup.com.au/updates/",
+  "publishedAt": "2026-11-16T01:14:35.000Z",
+  "points": 48,
+  "id": "hacker-news-3dca4c44",
+  "slug": "hacker-news-3dca4c44",
+  "fetchedAt": "2026-11-16T02:54:34.513Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 7,
+  "contentStatus": "summary-fallback",
+  "chineseTitle": "Coles遭遇网络安全事件",
+  "chineseSummary": "48 分 · 23 条评论",
+  "chineseContent": "48 分 · 23 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

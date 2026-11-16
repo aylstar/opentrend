@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9ce90ddf17",
+  "slug": "weibo-青稚聊天记录",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "青稚聊天记录",
+  "summary": "微博热榜第 2 位：青稚聊天记录。",
+  "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-15T17:46:32.739Z",
+  "fetchedAt": "2026-11-16T02:55:26.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

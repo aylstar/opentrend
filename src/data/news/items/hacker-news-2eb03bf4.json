@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "SpaceX catches the Starship to end Flight 15",
+  "summary": "1651 points · 1231 comments",
+  "content": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233",
+  "url": "https://www.spacex.com/launches/starship-flight-15",
+  "publishedAt": "2026-11-14T21:22:24.000Z",
+  "points": 1651,
+  "id": "hacker-news-2eb03bf4",
+  "slug": "hacker-news-2eb03bf4",
+  "fetchedAt": "2026-11-16T02:54:34.513Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "SpaceX 追上 Starship 结束 15 号航班",
+  "chineseSummary": "1651 分 · 1231 条评论",
+  "chineseContent": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

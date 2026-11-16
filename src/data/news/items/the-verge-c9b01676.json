@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s new study looks to improve the effectiveness of AI health tools",
+  "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+  "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+  "publishedAt": "2026-11-16T01:26:56.000Z",
+  "id": "the-verge-c9b01676",
+  "slug": "the-verge-c9b01676",
+  "content": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance. The app is now available for download, and enrollment starts today, with Apple looking for up to 200,000 people to contribute. Participants 21 and older must be based in the US, and although the app doesn’t use Apple Intelligence, it does require an iPhone 15 Pro running iOS 26 or later. Study participants can use the app to ask health-related questions and receive easily understandable responses with links to peer-reviewed clinical sources. The app relies on text-based prompts, and while dictation is an option using the iOS keyboard, the app isn’t integrated with Siri or Apple Intelligence. [Image: Participants in the study will be given the opportunity to rate responses to health questions from the app. https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy2.jpg?quality=90&strip=all] During enrolment, participants are given the option to share Apple HealthKit data, like their activity, sleep, or clinical lab results, so responses will include more context about their own personal health. But privacy is a priority, and Apple says it has taken measures to ensure users’ information remains confidential and the data collected won’t be used to train AI models. The aim is to improve the design and functionality of AI-powered health tools so they can deliver relevant health information that’s easier for users to understand and act on. “At Apple, we believe responsible innovation starts with scientific rigor and clinical grounding. Health is deeply personal, and conducting a dedicated research study is the most thoughtful way to understand how people engage with, comprehend, and evaluate health AI in everyday life. Insights from this study will help advance the broader scientific conversation and ensure that as technology evolves, we continue building trusted tools that genuinely support people wherever they are on their health journey,” said Sumbul Desai, MD, Apple’s vice president of Health and Fitness.",
+  "fetchedAt": "2026-11-16T02:54:34.514Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果的新研究旨在提高 AI 健康工具的有效性",
+  "chineseSummary": "苹果今天宣布了一项新研究，旨在更好地了解人们如何与对话式人工智能健康工具互动以及他们的反应实际上有多有用。该公司正在与 OpenEvidence 合作进行 Apple Health AI 使用研究，OpenEvidence 是医疗保健专业人员使用的临床 AI 平台，可根据医学生成答案 [...]",
+  "chineseContent": "苹果今天宣布了一项新研究，旨在更好地了解人们如何与对话式人工智能健康工具互动以及他们的反应实际上有多有用。该公司正在与 OpenEvidence 合作开展 Apple Health AI 使用研究，OpenEvidence 是医疗保健专业人员使用的临床 AI 平台，可根据《新英格兰医学杂志》等来源的医疗信息生成答案。参与者将使用新的 iOS 应用程序提出医疗问题，然后根据准确性、细节和相关性等标准对回答进行评分。该应用程序现已可供下载，并于今日开始注册，Apple 正在寻找最多 20 万人参与贡献。 21 岁及以上的参与者必须居住在美国，尽管该应用程序不使用 Apple Intelligence，但它确实需要运行 iOS 26 或更高版本的 iPhone 15 Pro。研究参与者可以使用该应用程序提出与健康相关的问题，并收到易于理解的答复，其中包含同行评审的临床资源的链接。该应用程序依赖于基于文本的提示，虽然可以使用 iOS 键盘进行听写，但该应用程序未与 Siri 或 Apple Intelligence 集成。 [图片：研究参与者将有机会对应用程序中健康问题的回答进行评分。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy2.jpg?quality=90&strip=all] 在注册过程中，参与者可以选择分享 Apple HealthKit 数据，例如他们的活动、睡眠或临床实验室结果，因此回复将包含更多有关他们自己个人健康的背景信息。但隐私是重中之重，苹果表示已采取措施确保用户信息保密，并且收集的数据不会用于训练人工智能模型。目的是提高",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b421887c5c",
+  "slug": "weibo-blg庆功宴",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "BLG庆功宴",
+  "summary": "微博热榜第 6 位：BLG庆功宴。",
+  "url": "https://s.weibo.com/weibo?q=BLG%E5%BA%86%E5%8A%9F%E5%AE%B4",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-15T17:46:32.739Z",
+  "fetchedAt": "2026-11-16T02:55:26.901Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

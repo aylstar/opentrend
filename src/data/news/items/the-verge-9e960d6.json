@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+  "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]",
+  "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+  "publishedAt": "2026-11-15T21:05:02.000Z",
+  "id": "the-verge-9e960d6",
+  "slug": "the-verge-9e960d6",
+  "content": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon’s competitor to SpaceX’s Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink into orbit. Today’s launch was supposed to be the first of 38 flights Amazon purchased from ULA. In a statement posted on X, ULA said, “Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.” [Media: https://twitter.com/ulalaunch/status/2122034531658076417] The company said it was currently unclear what caused the failure, but pledged transparency as it continues its investigation. Amazon projected confidence in its launch partner despite the failure, posting on X that, “ There is risk with any launch, and that’s especially true for inaugural missions like LV-01. ULA has been a trusted partner for Amazon, and we believe they’ll learn from this mission and deliver on their long-term plans for Vulcan.”",
+  "fetchedAt": "2026-11-16T02:54:34.515Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "产品"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "火神火箭失败，摧毁了 40 颗亚马逊狮子座卫星",
+  "chineseSummary": "据报道，联合发射联盟 (ULA) 遭遇了 20 年来的首次任务失败，未能将 40 颗亚马逊 Leo 卫星送入轨道。 Leo 是亚马逊 SpaceX 星链的竞争对手，但迄今为止它一直在努力起步，只投入了一小部分必要的卫星来挑战星链 […]",
+  "chineseContent": "据报道，联合发射联盟 (ULA) 遭遇了 20 年来的首次任务失败，未能将 40 颗亚马逊 Leo 卫星送入轨道。 Leo 是亚马逊 SpaceX 星链的竞争对手，但迄今为止它一直在努力起步，只将挑战星链所需的一小部分卫星送入轨道。今天的航班本应是亚马逊从 ULA 购买的 38 架航班中的第一架。 ULA 在 X 上发布的一份声明中表示，“根据我们的发射总监收到的数据，我们确认从 41 号太空发射中心发射的火神运载火箭在飞行 10 分钟后出现异常，未能将亚马逊任务送入轨道。” [媒体：https://twitter.com/ulalaunch/status/2122034531658076417]该公司表示，目前尚不清楚导致失败的原因，但承诺在继续调查过程中保持透明度。尽管失败，亚马逊仍对其发射合作伙伴充满信心，并在 X 上发帖称：“任何发射都存在风险，对于 LV-01 等首次任务尤其如此。ULA 一直是亚马逊值得信赖的合作伙伴，我们相信他们将从这次任务中吸取教训，并实现 Vulcan 的长期计划。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

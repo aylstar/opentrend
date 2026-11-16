@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+  "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+  "publishedAt": "2026-11-15T19:15:43.000Z",
+  "id": "the-verge-47a2f9f6",
+  "slug": "the-verge-47a2f9f6",
+  "content": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress. Senate Banking Committee Chairman Tim Scott has also sent letters to both Huang and Commerce Secretary Howard Lutnick calling on them to publicly testify to the committee. Bills such as the Remote Access Security Act, first introduced in the House in April 2025 but stalled in the Senate, are receiving renewed interest. While that specific bill might not become law, House Speaker Mike Johnson has said there is “growing consensus in Congress on limiting chip exports to China,” according to Reuters. Johnson has also said that he personally supports efforts to restrict China’s access to powerful AI chips from companies like Nvidia.",
+  "fetchedAt": "2026-11-16T02:54:34.515Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "英伟达间谍丑闻后，国会希望收紧 AI 芯片的出口规定",
+  "chineseSummary": "不出所料，在涉及英伟达前首席执行官黄仁勋和一名涉嫌中国间谍的丑闻之后，国会正在寻求进一步限制人工智能芯片的出口。民主党和共和党都表示支持各种收紧规则的措施和法案，并要求黄仁勋和其他英伟达领导人在国会作证。参议院少数派[...]",
+  "chineseContent": "不出所料，在涉及英伟达前首席执行官黄仁勋和一名涉嫌中国间谍的丑闻之后，国会正在寻求进一步限制人工智能芯片的出口。民主党和共和党都表示支持各种收紧规则的措施和法案，并要求黄仁勋和其他英伟达领导人在国会作证。参议院少数党领袖查克·舒默已经表示，黄和特朗普政府需要向国会负责。参议院银行委员会主席蒂姆·斯科特也致函黄仁勋和商务部长霍华德·卢特尼克，呼吁他们公开向委员会作证。 《远程访问安全法案》等法案于 2025 年 4 月首次在众议院提出，但在参议院陷入停滞，如今又重新受到关注。据路透社报道，虽然这项具体法案可能不会成为法律，但众议院议长迈克·约翰逊表示，“国会在限制对中国的芯片出口方面达成了越来越多的共识”。约翰逊还表示，他个人支持限制中国获得英伟达等公司强大的人工智能芯片的努力。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance",
+  "category": "finance",
+  "originalTitle": "Dow Jones Futures Waver As Jensen Huang Mulls Nvidia Return",
+  "summary": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead.",
+  "url": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures-waver-as.html?.tsrc=rss",
+  "publishedAt": "2026-11-16T02:49:49.000Z",
+  "id": "yahoo-finance-13d6a661",
+  "slug": "yahoo-finance-13d6a661",
+  "content": "Nvidia earnings are due as Jensen Huang reportedly mulls a return. The Anthropic IPO is ahead.",
+  "fetchedAt": "2026-11-16T02:54:34.515Z",
+  "score": 90,
+  "sourceWeight": 82,
+  "tags": [
+    "AI",
+    "财经"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "黄仁勋考虑英伟达回归，道琼斯期货波动",
+  "chineseSummary": "据报道，黄仁勋 (Jensen Huang) 正在考虑回报，英伟达 (Nvidia) 即将公布财报。 Anthropic IPO 即将到来。",
+  "chineseContent": "据报道，黄仁勋 (Jensen Huang) 正在考虑回报，英伟达 (Nvidia) 即将公布财报。 Anthropic IPO 即将到来。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "Microsoft outage 'stark reminder' of how much we rely on tech",
+  "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+  "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-11-13T21:15:41.000Z",
+  "id": "bbc-319802f0",
+  "slug": "bbc-319802f0",
+  "content": "Are we too reliant on big tech companies?\n\nA critical Microsoft outage lasting more than 22 hours has raised questions about how heavily vital services rely on a handful of major tech firms.\n\nThe disruption, which affected Microsoft 365 services such as Outlook, was caused by routine automated checks that took some servers offline, overloading the remaining ones with traffic.\n\nThe recovery took nearly a full day while engineers gradually restored services, highlighting how embedded the tech giant's services are in modern society.\n\nFlora Hamilton, executive director of the Small Business Charter, said the outage was a \"stark reminder\" of how much firms \"rely on digital systems\" - like Microsoft Outlook - \"to keep their operations running\".\n\n\"For many small and medium-sized enterprises (SMEs), access to email is fundamental to everything from communicating with customers and suppliers to generating income,\" she said.\n\nThe disruption was not just confined to businesses, but also affected organisations and public institutions around the world.\n\nAround 430 million people globally use Microsoft 365, and issues were reported across more than 70 countries.\n\nThe fallout from the outage had a wide-ranging effect , knocking out email systems for the US House of Representatives and Australian intelligence agencies, as well as disrupting court systems in Singapore and airline support desks in India.\n\nMicrosoft has since apologised for the issue, which it said was due to a technical failure rather than a cyber-attack.\n\nThere was no \"ETA\" for when services will be fully recovered, Microsoft added in a statement late on Friday (GMT).\n\nWalter Pasquarelli, an AI strategist, told the BBC that for governments, businesses and critical infrastructure, the outage had \"put their vulnerabilities and dependence in plain sight\".\n\n\"Looking ahead, as AI assistants are plugged into our email, calendars and files, a failure like this may spread even further,\" he said.\n\nMicrosoft says email queues 'approaching normal levels' after global outage hits Outlook and Teams users\n\nGergely Orosz, a former leading software engineer at several major tech companies, said while these kinds of outages weren't unheard of, what was unusual was the time it took for Microsoft to recover from it.\n\nA spokesperson for the US tech company said \"given the scale of demand\" it restored services gradually.\n\n\"While this took longer, it helped ensure a stable restoration,\" a spokesperson said.\n\nOrosz said the resulting upset showed \"our reliance on a few large US corporations\".\n\nHe said a solution for the future could be to split services per region to reduce the impact, something which already happens with Amazon's cloud computing service, AWS.\n\nFor now, Microsoft said it was reviewing what went wrong, with the findings expected to inform steps to prevent a similar disruption from happening again.\n\nCourts, spies and MPs: How the Microsoft outage has been felt around the world",
+  "fetchedAt": "2026-11-16T02:54:34.512Z",
+  "score": 71,
+  "sourceWeight": 90,
+  "tags": [
+    "科技"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "微软宕机“鲜明地提醒”我们对科技的依赖程度",
+  "chineseSummary": "微软已就该问题道歉，称这是由于技术故障造成的。",
+  "chineseContent": "我们是否过于依赖大型科技公司？\n\n微软一次持续超过 22 小时的严重宕机引发了人们的疑问：重要服务对少数几家主要科技公司的依赖程度如何。\n\n这次中断影响了 Outlook 等 Microsoft 365 服务，其原因是例行的自动检查导致一些服务器脱机，导致其余服务器流量超载。\n\n恢复过程花了近一整天的时间，工程师们逐渐恢复了服务，凸显了这家科技巨头的服务如何融入现代社会。\n\n小企业宪章执行董事弗洛拉·汉密尔顿 (Flora Hamilton) 表示，此次故障“鲜明地提醒”了企业有多少“依赖微软 Outlook 等数字系统”来“维持运营”。\n\n“对于许多中小型企业 (SME) 来说，访问电子邮件对于从与客户和供应商沟通到创收等一切事务至关重要，”她说。\n\n这种破坏不仅限于企业，还影响到世界各地的组织和公共机构。\n\n全球约有 4.3 亿人使用 Microsoft 365，70 多个国家/地区报告了问题。\n\n这次中断造成了广泛的影响，美国众议院和澳大利亚情报机构的电子邮件系统瘫痪，新加坡的法院系统和印度的航空公司支持台也受到干扰。\n\n微软随后就该问题道歉，称这是由于技术故障而不是网络攻击造成的。\n\n微软在周五晚些时候（格林威治标准时间）的一份声明中补充道，服务何时完全恢复尚无“预计时间”。\n\n人工智能策略师沃尔特·帕斯夸里利 (Walter Pasquarelli) 告诉 BBC，对于政府、企业和关键基础设施来说，这次中断“让他们的脆弱性和依赖性暴露无遗”。\n\n“展望未来，随着人工智能助手被插入我们的电子邮件、日历和文件中，这样的故障可能会进一步蔓延，”他说。\n\n微软表示 Outlook 和 Teams 用户全球停电后电子邮件队列“接近正常水平”\n\n几家大型科技公司的前首席软件工程师 Gergely Orosz 表示，虽然此类中断并非闻所未闻，但不同寻常的是微软从中恢复所需的时间。\n\n这家美国科技公司的发言人表示，“鉴于需求规模”，它正在逐步恢复服务。\n\n一位发言人表示：“虽然这需要更长的时间，但这有助于确保稳定的恢复。”\n\n奥罗斯表示，由此产生的不安表明“我们对几家美国大公司的依赖”。\n\n他表示，未来的解决方案可能是按区域划分服务以减少影响，亚马逊的云计算服务 AWS 已经采取了这种做法。\n\n目前，微软表示正在审查问题所在，预计调查结果将有助于采取措施防止类似的中断再次发生。\n\n法院、间谍和国会议员：世界各地对微软宕机事件的感受如何",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

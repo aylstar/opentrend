@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple’s first smart glasses are coming together",
+  "summary": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that \"glasses shipments would begin before the end of the […]",
+  "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+  "publishedAt": "2026-11-15T16:59:16.000Z",
+  "id": "the-verge-38fc3356",
+  "slug": "the-verge-38fc3356",
+  "content": "Apple’s smart glasses are among the worst-kept secrets in the tech world. Bloomberg’s Mark Gurman says the company’s first model, which will lack augmented reality features, will be announced at June’s WWDC next year. They likely won’t ship right away, however, with Gurman saying only that “glasses shipments would begin before the end of the year.” Key to their success will be the newly revamped Siri AI, which is adding fine-grained control over apps. By adding those features now and letting developers add support on the iPhone first, it’s hoping that its smart glasses will be able to hit the ground running. The prototypes, dubbed N50, are currently running a pared-down version of visionOS and a new processor based on its older smartwatch chips. They also have a MagSafe-like charger Gurman describes as “flat, rectangular” and “roughly the size of a Tic Tac,” which can be used even while still wearing the glasses. In addition to Apple putting an emphasis on style, privacy, and audio quality, the company is also hoping that Wi-Fi connectivity will grant them a certain amount of freedom, despite relying on an iPhone to actually execute many tasks: > The glasses have Wi-Fi, allowing certain functions outside of third-party apps to continue working when the iPhone isn’t nearby. Users could theoretically keep listening to audio over Wi-Fi after walking away from their phones, for instance, though the eyewear won’t operate as a fully independent device. Apple is also emphasizing the sound quality, which employees have said is industry-leading, with support for phone calls, music playback and FaceTime audio communication.",
+  "fetchedAt": "2026-11-16T02:54:34.515Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技",
+    "全球"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果首款智能眼镜即将面世",
+  "chineseSummary": "苹果的智能眼镜是科技界最保守的秘密之一。彭博社的马克·古尔曼 (Mark Gurman) 表示，该公司的首款机型将在明年 6 月的 WWDC 上发布，该机型将缺乏增强现实功能。然而，他们可能不会立即发货，古尔曼只是说“眼镜发货将在 [...] 结束之前开始。",
+  "chineseContent": "苹果的智能眼镜是科技界最保守的秘密之一。彭博社的马克·古尔曼 (Mark Gurman) 表示，该公司的首款机型将在明年 6 月的 WWDC 上发布，该机型将缺乏增强现实功能。不过，它们可能不会立即发货，古尔曼只是表示“眼镜将在今年年底前开始发货”。他们成功的关键是新改进的 Siri AI，它增加了对应用程序的细粒度控制。通过现在添加这些功能并让开发人员首先添加对 iPhone 的支持，它希望其智能眼镜能够立即投入使用。这些原型被称为 N50，目前运行的是 VisionOS 的精简版本和基于旧款智能手表芯片的新处理器。他们还有一个类似 MagSafe 的充电器，古尔曼将其描述为“扁平、矩形”，“大约有 Tic Tac 大小”，即使戴着眼镜也可以使用。除了强调风格、隐私和音频质量之外，该公司还希望 Wi-Fi 连接能够赋予他们一定程度的自由，尽管实际上要依靠 iPhone 来执行许多任务： > 眼镜具有 Wi-Fi，允许第三方应用程序之外的某些功能在 iPhone 不在附近时继续工作。例如，理论上，用户离开手机后可以继续通过 Wi-Fi 收听音频，尽管眼镜不能作为完全独立的设备运行。苹果还强调音质，员工称其音质处于行业领先水平，支持电话通话、音乐播放和 FaceTime 音频通信。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

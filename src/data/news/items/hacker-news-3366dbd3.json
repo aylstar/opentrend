@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "WebGL Flight Simulator with seed generated terrain",
+  "summary": "96 points · 12 comments",
+  "content": "Take off. Explore. Land it in one piece.\n\nInstall: tap Share then Add to Home Screen ✕\n\nFollow the white arrows from take-off to touchdown.\n\n← → category · ↑ ↓ choose · drag to look around · Esc back\n\nTap a tab and a card · drag the plane to look around\n\nYour browser or graphics driver doesn't support WebGL 2. Try the latest Chrome, Edge, Firefox or Safari, and make sure hardware acceleration is turned on.\n\nThe browser reset the graphics context. Hang on, restoring…",
+  "url": "https://baron.by.dai.studio/",
+  "publishedAt": "2026-11-15T20:20:05.000Z",
+  "points": 96,
+  "id": "hacker-news-3366dbd3",
+  "slug": "hacker-news-3366dbd3",
+  "fetchedAt": "2026-11-16T02:54:34.513Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 9,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "具有种子生成地形的 WebGL 飞行模拟器",
+  "chineseSummary": "96 分 · 12 条评论",
+  "chineseContent": "起飞。探索。将其连成一片。\n\n安装：点击“共享”，然后点击“添加到主屏幕”✕\n\n按照白色箭头从起飞到着陆。\n\n← → 类别 · ↑ ↓ 选择 · 拖动查看 · Esc 返回\n\n点击一个选项卡和一张卡片·拖动飞机环顾四周\n\n您的浏览器或图形驱动程序不支持 WebGL 2。尝试最新的 Chrome、Edge、Firefox 或 Safari，并确保硬件加速已打开。\n\n浏览器重置图形上下文。等一下，恢复中……",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

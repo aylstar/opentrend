@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+  "summary": "45 points · 6 comments",
+  "content": "Below are the major changes of the released versions and links to more detailed release notes.\n\nToday, we are releasing 0.4.9.17 , which includes a series of security fixes. One fix in particular is especially important for relay DoS defenses related to IPv6 handling.\n\nThis release comes in rapid response to the ongoing DDoS attack on the network, which has affected most relay operators. This is not an easy problem to address, as relays across the network are being overwhelmed by a massive flood of client circuits. We are actively evaluating additional defenses and so expect further releases in the near future.\n\nWe want to extend a huge thank you to all relay operators who have been helping us deal with this ongoing attack. The tor-relays@ mailing list has been very active and we are very grateful for your time, effort, and support. Please, continue doing so!\n\nIf you run a relay, please upgrade as soon as possible. No action item is required after upgrading.\n\nThank you to all… except our attacker(s).",
+  "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+  "publishedAt": "2026-11-16T00:21:54.000Z",
+  "points": 45,
+  "id": "hacker-news-f0977339",
+  "slug": "hacker-news-f0977339",
+  "fetchedAt": "2026-11-16T02:54:34.513Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "全球"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Tor 项目在持续的 DDoS 攻击中发布快速响应的 DoS 防御修复程序",
+  "chineseSummary": "45 分 · 6 条评论",
+  "chineseContent": "以下是已发布版本的主要更改以及更详细的发行说明的链接。\n\n今天，我们发布了 0.4.9.17 ，其中包含一系列安全修复程序。其中一项修复对于与 IPv6 处理相关的中继 DoS 防御尤为重要。\n\n此版本是对网络上持续的 DDoS 攻击的快速响应，该攻击影响了大多数中继运营商。这不是一个容易解决的问题，因为网络上的中继正在被大量的客户端电路淹没。我们正在积极评估额外的防御措施，因此预计在不久的将来会进一步发布。\n\n我们要向所有帮助我们应对这一持续攻击的中继运营商表示衷心的感谢。 tor-relays@ 邮件列表非常活跃，我们非常感谢您的时间、努力和支持。请继续这样做！\n\n如果您运行中继，请尽快升级。升级后无需执行任何操作。\n\n感谢所有人……除了我们的攻击者。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
