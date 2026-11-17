@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+  "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+  "publishedAt": "2026-11-16T20:41:28.000Z",
+  "id": "the-verge-e84b85a6",
+  "slug": "the-verge-e84b85a6",
+  "content": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. “I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,” Altman said today. “I think the home tinkering is great.” The comments were made onstage at Semafor’s Silicon Valley & The World summit on Monday. Altman’s remarks on RAM stirred up controversy last month. In an appearance on the Cheeky Pint podcast, Altman said that it’s “quite terrible” for everyone to have RAM in personal computers rather than in data centers. He later followed up on those comments in posts on X earlier this month, saying, “i want you to have so much ram” and saying the original remarks had been “taken out of context.” AI companies have been buying up the world’s memory supply for data centers, leading to ongoing price hikes on everything from phones to game consoles. Altman commented on supply chain issues, saying OpenAI has “been constrained by different things at different times,” like memory, rack assembly, data center capacity, or “some random component.” Onstage today, Altman went on to say that “a few years ago we started saying the world needs to build a lot more memory supply chain in particular.” He acknowledged how RAM prices have soared over recent months, saying: > “The world did not build out that much, and now we have seen DRAM prices — I don’t know exactly, but maybe they went up 5x, 7x, something like that. I think it would be much better if the world just had a lot of memory. That comment, which I think got misinterpreted, but there is a true part of it, which I will stand by is that, if we’re going to be in this memory supply shortage, then in some sense — whether or not we’ll decide to do it, because I think there are other tradeoffs like people having their own at-home inference — the optimal thing would be, can we share this memory and have it working 100 percent of the time rather than sometimes off in someone’s edge device? Again, optimal use of this limited supply. Maybe it’s not the reason to make the decision but that’s what I was trying to say.” Altman also commented on Jensen Huang’s resignation as Nvidia’s CEO, saying he “doesn’t know enough” to say if Huang should be reinstated.",
+  "fetchedAt": "2026-11-17T05:09:28.586Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Sam Altman 表示他希望每个人都“拥有大量内存”",
+  "chineseSummary": "OpenAI 首席执行官 Sam Altman 再次回应了他有关 PC RAM 购买的有争议的评论。 “我想澄清的是，我希望人们拥有大量内存，我认为每个人都应该能够为自己的计算机购买大量内存，”奥特曼今天表示。 “我认为家里的修补很棒。” […]",
+  "chineseContent": "OpenAI 首席执行官 Sam Altman 再次回应了他有关 PC RAM 购买的有争议的评论。 “我想澄清的是，我希望人们拥有大量 RAM，我认为每个人都应该能够为自己的计算机购买大量 RAM，”Altman 今天表示。 “我认为家里的修补很棒。”这些评论是周一在 Semafor 硅谷与世界峰会上发表的。奥特曼上个月关于 RAM 的言论引发了争议。 Altman 在 Cheeky Pint 播客上露面时表示，对于每个人来说，在个人电脑而不是数据中心拥有 RAM 是“非常可怕的”。随后，他在本月早些时候的 X 帖子中对这些评论进行了跟进，称“我希望你有这么多内存”，并表示最初的言论已“断章取义”。人工智能公司一直在购买全球数据中心的内存供应，导致从手机到游戏机等各种产品的价格持续上涨。 Altman 在评论供应链问题时表示，OpenAI “在不同时间受到不同因素的限制”，比如内存、机架组装、数据中心容量或“一些随机组件”。今天在台上，奥特曼接着说，“几年前，我们开始说世界特别需要建立更多的内存供应链。”他承认近几个月来 RAM 价格如何飙升，他说：“世界并没有建设那么多，现在我们已经看到 DRAM 价格 - 我不太清楚，但也许它们上涨了 5 倍、7 倍，类似的东西。我认为如果世界有大量内存那就更好了。我认为这个评论被误解了，但其中有一个真实的部分，我会坚持的是，如果我们要在这个内存供应中短缺，那么从某种意义上来说——无论我们是否决定这样做，因为我",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

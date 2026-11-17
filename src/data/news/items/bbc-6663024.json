@@ -1,0 +1,24 @@
+{
+  "source": "BBC",
+  "category": "global",
+  "originalTitle": "California sues OpenAI over Hugging Face attack",
+  "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+  "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+  "publishedAt": "2026-11-16T23:12:24.000Z",
+  "id": "bbc-6663024",
+  "slug": "bbc-6663024",
+  "content": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the ChatGPT-maker misled and endangered the public by developing artificial intelligence (AI) models without proper safeguards.\n\nIn the lawsuit, Bonta cited the July 2026 attack on the AI platform Hugging Face by experimental OpenAI agents which accessed the internet to breach that company's internal systems.\n\nBonta claimed OpenAI created a public nuisance and violated the state's unfair competition laws.\n\nOpenAI spokesperson Drew Pusateri told the BBC in a statement that Bonta's lawsuit \"appears to single out OpenAI over a challenge that's been identified by every major AI lab\".\n\nOther major AI developers including Anthropic, Meta, and Google have also said their models have staged similar attacks.\n\nBut Bonta's lawsuit, filed in San Francisco, where the company is headquartered, appears to be the first such suit filed by a US state.\n\nWarning shot or publicity stunt - how worried should we be about the OpenAI hack?\n\nOpenAI says its rogue AI tried to hack other companies\n\nHundreds of OpenAI agents coordinated the Hugging Face attack over two days even though they were supposed to be contained in a safe testing environment.\n\nThe incident drew added scrutiny because the agents went as far as attempting to cover their tracks.\n\nBonta announced an investigation into the incident in September, and served an investigative subpoena on OpenAI as part of its probe.\n\n\"The company knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it - this disregard for public safety violated California law,\" Bonta said in a statement on Monday.\n\nOpenAI said it has been transparent and responsive to the Attorney General's office.\n\n\"We take misalignment seriously, and we have engaged - and will continue to engage - constructively with the Attorney General's office to share information and advance strong, practical safety standards for the entire industry,\" the company said.\n\nThe company added that, since the Hugging Face incident, it has worked to understand and address \"misaligned model activity\" which industry figures often refer to as rogue agents.\n\nNathan Calvin, chief strategy officer at AI safety campaign group Encode AI, said the lawsuit \"recognises something we at Encode have long raised alarms about\".\n\n\"OpenAI and other companies developing frontier AI systems have safety and security practices that are insufficient to protect the public from risks that could be catastrophic,\" he said.\n\nUnexpected chat between OpenAI agents led to Hugging Face hack",
+  "fetchedAt": "2026-11-17T05:09:28.580Z",
+  "score": 77,
+  "sourceWeight": 90,
+  "tags": [
+    "AI"
+  ],
+  "rank": 10,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "加州因 Hugging Face 攻击起诉 OpenAI",
+  "chineseSummary": "司法部长 Rob Bonta 指控 OpenAI 误导并危害公众",
+  "chineseContent": "加州总检察长 Rob Bonta 周一起诉 OpenAI，指控 ChatGPT 制造商在没有适当保障措施的情况下开发人工智能 (AI) 模型，从而误导并危害公众。\n\n在诉讼中，Bonta 提到了 2026 年 7 月实验性 OpenAI 代理对人工智能平台 Hugging Face 发起的攻击，这些代理通过访问互联网来破坏该公司的内部系统。\n\nBonta 声称 OpenAI 制造了公害，并违反了该州的不公平竞争法。\n\nOpenAI 发言人 Drew Pusateri 在一份声明中告诉 BBC，Bonta 的诉讼“似乎是针对 OpenAI 的一个挑战，而每个主要人工智能实验室都发现了这一挑战”。\n\nAnthropic、Meta 和 Google 等其他主要人工智能开发商也表示，他们的模型也发起了类似的攻击。\n\n但邦塔在该公司总部所在地旧金山提起的诉讼似乎是美国各州提起的第一起此类诉讼。\n\n警告镜头或宣传噱头——我们应该对 OpenAI 黑客攻击有多担心？\n\nOpenAI 称其流氓人工智能试图攻击其他公司\n\n数百名 OpenAI 代理在两天内协调了 Hugging Face 攻击，尽管他们本应被包含在安全的测试环境中。\n\n这起事件引起了更多的关注，因为特工们甚至试图掩盖自己的踪迹。\n\nBonta 于 9 月宣布对此事件进行调查，并向 OpenAI 发出调查传票，作为调查的一部分。\n\n邦塔在周一的一份声明中表示：“该公司在没有适当监督或安全程序的情况下故意测试危险产品，并误导公众——这种对公共安全的漠视违反了加州法律。”\n\nOpenAI 表示，它一直保持透明，并对总检察长办公室做出了积极回应。\n\n该公司表示：“我们认真对待不一致的情况，我们已经并将继续与总检察长办公室进行建设性的接触，以共享信息并为整个行业推进强有力的、实用的安全标准。”\n\n该公司补充说，自“抱脸”事件以来，它一直致力于了解和解决“失调的模型活动”，业内人士通常将其称为流氓代理。\n\n人工智能安全运动组织 Encode AI 的首席战略官内森·卡尔文 (Nathan Calvin) 表示，这起诉讼“认识到我们 Encode 长期以来一直发出警报的事情”。\n\n“OpenAI 和其他开发前沿人工智能系统的公司的安全实践不足以保护公众免受可能是灾难性的风险，”他说。\n\nOpenAI 代理之间的意外聊天导致 Hugging Face 黑客攻击",
+  "whyItMatters": "这条信息属于全球新闻信号，适合用于观察外部环境、政策变化、地缘风险和市场情绪。",
+  "translationStatus": "translated"
+}

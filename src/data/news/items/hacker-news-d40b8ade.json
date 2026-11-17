@@ -1,0 +1,27 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+  "summary": "740 points · 620 comments",
+  "content": "740 points · 620 comments",
+  "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+  "publishedAt": "2026-11-16T18:31:30.000Z",
+  "points": 740,
+  "id": "hacker-news-d40b8ade",
+  "slug": "hacker-news-d40b8ade",
+  "fetchedAt": "2026-11-17T05:09:28.584Z",
+  "score": 79,
+  "sourceWeight": 86,
+  "tags": [
+    "科技",
+    "全球",
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "摩根大通技术问题导致美国银行网上银行业务延迟",
+  "chineseSummary": "740 分 · 620 条评论",
+  "chineseContent": "740 分 · 620 条评论",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3ce1705e71",
+  "slug": "weibo-apec",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 29,
+  "title": "APEC",
+  "summary": "微博热榜第 29 位：APEC。",
+  "url": "https://s.weibo.com/weibo?q=APEC",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "",
+  "fetchedAt": "2026-11-17T05:11:07.619Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "Weibo Web",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "United Airlines system outage disrupts departures just days after the big ground stop",
+  "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue […]",
+  "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+  "publishedAt": "2026-11-16T22:54:59.000Z",
+  "id": "the-verge-9ad84cd1",
+  "slug": "the-verge-9ad84cd1",
+  "content": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: > Earlier today we experienced a technology-related issue that impacted some departing flights. The issue has been resolved. Please check the latest status of your flight at united.com or the United app. The outage is also coming after last week’s global Microsoft Outlook shutdown, and the great-bank-outage-that-wasn’t earlier Monday afternoon. According to posts on social media, a number of people onboard the planes have heard from their pilots that a systemwide IT outage for United has caused problems with a weight and balance calculator that has stopped them from getting clearance to take off. United tweeted earlier that “We are troubleshooting a technology issue affecting departing flights. There is no impact on flights in progress, or on United Express flights.” Update, November 16th: Added note that United says the problem has been resolved.",
+  "fetchedAt": "2026-11-17T05:09:28.586Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "联合航空在大面积地面停靠几天后系统中断，导致航班起飞中断",
+  "chineseSummary": "空中交通管制通信和雷达问题导致美国联邦航空局停止全国范围内的起飞不到一周后，联合航空的出发航班也因停电而中断。美国东部时间下午 6:13，美联航表示问题已得到解决：今天早些时候，我们遇到了一个与技术相关的问题，影响了一些离港航班。这个问题[…]",
+  "chineseContent": "空中交通管制通信和雷达问题导致美国联邦航空局停止全国范围内的起飞不到一周后，联合航空的出发航班也因停电而中断。美国东部时间下午 6:13，美联航表示问题已得到解决： > 今天早些时候，我们遇到了一个与技术相关的问题，影响了一些离港航班。问题已经解决。请在 United.com 或美联航应用程序上查看您航班的最新状态。此次服务中断也是在上周微软 Outlook 全球关闭以及周一下午早些时候发生的银行大服务中断之后发生的。根据社交媒体上的帖子，飞机上的一些人从飞行员那里听说，美联航系统范围内的 IT 中断导致重量和平衡计算器出现问题，导致他们无法获得起飞许可。美联航早些时候在推特上表示，“我们正在解决影响离港航班的技术问题。对正在进行的航班或联航快运航班没有影响。” 11 月 16 日更新：添加了美联航表示问题已解决的注释。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

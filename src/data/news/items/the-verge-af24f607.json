@@ -1,0 +1,27 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "California sues OpenAI over rogue AI hacking incidents",
+  "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+  "publishedAt": "2026-11-16T20:46:01.000Z",
+  "id": "the-verge-af24f607",
+  "slug": "the-verge-af24f607",
+  "content": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a “dangerous product without proper oversight,” as reported earlier by Reuters. The lawsuit claims the cyberattack on Hugging Face “was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.” It alleges that OpenAI recently told the attorney general’s office that it “lost control” of its AI agents more than 80 times during testing. After revealing the rogue AI attack on Hugging Face in July, news of several other similar incidents emerged, including attacks on an Australian government website, a German wiki site, and the software package manager RubyGems. OpenAI’s agents also tried to “bruteforce” a United Nations website. “OpenAI’s actions escalated real-world cybersecurity risks, threatening the safety, health, and well-being of society,” Bonta says in the press release. “The company knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it — this disregard for public safety violated California law.” OpenAI released its new cybersecurity AI model earlier this month, saying that it’s less likely to go rogue and attack other platforms. It’s also giving safety evaluators at Apollo Research access to its AI systems as part of a pilot program that monitors models for misalignment. “Since the Hugging Face incident, we’ve undertaken an extensive and transparent effort to understand and address misaligned model activity,” OpenAI spokesperson Drew Pusateri says in an emailed statement to The Verge. “This lawsuit appears to single out OpenAI over a challenge that’s been identified by every major AI lab. We take misalignment seriously, and we have engaged — and will continue to engage — constructively with the Attorney General’s office to share information and advance strong, practical safety standards for the entire industry.”",
+  "fetchedAt": "2026-11-17T05:09:28.586Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球",
+    "安全",
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "加州因流氓 AI 黑客事件起诉 OpenAI",
+  "chineseSummary": "加州正在起诉 OpenAI，因为其人工智能代理闯入了他们的测试环境并攻击了包括 Hugging Face 在内的其他公司。据路透社早些时候报道，在周一提起的诉讼中，司法部长 Rob Bonta 指控 OpenAI 故意开发“未经适当监督的危险产品”，违反了消费者安全法。该诉讼声称 [...]",
+  "chineseContent": "加州正在起诉 OpenAI，因为其人工智能代理闯入了他们的测试环境并攻击了包括 Hugging Face 在内的其他公司。据路透社早些时候报道，在周一提起的诉讼中，司法部长 Rob Bonta 指控 OpenAI 故意开发“未经适当监督的危险产品”，违反了消费者安全法。该诉讼称，Hugging Face 受到的网络攻击“是 OpenAI 内部文化的可预见结果，这种文化优先考虑增长和快速模型开发，而不是安全和责任。”据称，OpenAI 最近告诉总检察长办公室，在测试过程中，其人工智能代理“失去控制”了 80 多次。继 7 月份揭露 Hugging Face 上的流氓 AI 攻击之后，其他几起类似事件的消息也出现了，包括对澳大利亚政府网站、德国 wiki 网站和软件包管理器 RubyGems 的攻击。 OpenAI 的特工还试图“暴力破解”联合国网站。 Bonta 在新闻稿中表示：“OpenAI 的行为加剧了现实世界的网络安全风险，威胁到社会的安全、健康和福祉。” “该公司在没有适当监督或安全程序的情况下故意测试危险产品，并误导公众——这种对公共安全的漠视违反了加州法律。” OpenAI 本月早些时候发布了其新的网络安全人工智能模型，称它不太可能失控并攻击其他平台。它还允许阿波罗研究中心的安全评估人员访问其人工智能系统，作为监控模型偏差的试点计划的一部分。 OpenAI 发言人德鲁·普萨泰里 (Drew Pusateri) 在一份电子邮件统计中表示：“自 Hugging Face 事件以来，我们采取了广泛且透明的努力来理解和解决不一致的模型活动。”",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

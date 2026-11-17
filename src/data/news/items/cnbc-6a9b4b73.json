@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+  "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+  "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+  "publishedAt": "2026-11-16T22:14:47.000Z",
+  "id": "cnbc-6a9b4b73",
+  "slug": "cnbc-6a9b4b73",
+  "content": "JPMorgan Chase reported a \"technical issue\" that was affecting some consumer banking services Monday.\n\nThe bank said a \"temporary issue related to a software bug in on-premise hardware systems\" was causing some customer transactions to take longer than usual, though it said customers can still access their accounts and funds.\n\n\"There is no evidence it is cyber-related,\" a JPMorgan spokesperson said in a statement to CNBC.\n\n\"This is not a systemic issue — other banks may have been impacted by slowness in transactions only to the extent that they were a party to a transaction with us,\" the spokesperson said. \"We're working diligently to resolve this by the end of the day today.\"\n\nCNBC's Eamon Javers reported there was no indication of bad actors involved.\n\nStill, other major banks were listed in outage reports as transactions between Chase and other institutions appeared to get held up. Users reported errors as early as 11:30 a.m. ET.\n\nA representative for U.S. Bank said that company was \"not directly impacted. However, clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays.\"\n\nZelle is the peer-to-peer payments system backed by many of the largest U.S. banks, including JPMorgan.\n\nThe outage reports come days after separate, widespread issues with Microsoft Outlook and communication systems used by air traffic control centers .\n\n— CNBC's Leslie Picker contributed to this report.",
+  "fetchedAt": "2026-11-17T05:09:28.587Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "科技",
+    "金融"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "摩根大通表示临时软件错误正在影响消费者银行业务",
+  "chineseSummary": "CNBC 的 Eamon Javers 报道称，没有迹象表明有不良行为者参与其中，同样也没有迹象表明某个漏洞同时影响了多家银行。",
+  "chineseContent": "摩根大通周一报告了一个影响部分消费者银行服务的“技术问题”。\n\n该银行表示，“与本地硬件系统中的软件错误相关的临时问题”导致一些客户交易时间比平时更长，但客户仍然可以访问他们的账户和资金。\n\n摩根大通发言人在给 CNBC 的一份声明中表示：“没有证据表明这与网络有关。”\n\n该发言人表示：“这不是一个系统性问题——其他银行可能会受到交易缓慢的影响，但仅限于它们是与我们进行交易的一方。” “我们正在努力工作，争取在今天结束之前解决这个问题。”\n\nCNBC 的埃蒙·贾弗斯 (Eamon Javers) 报道称，没有迹象表明有坏人参与其中。\n\n尽管如此，由于大通银行和其他机构之间的交易似乎受到阻碍，其他主要银行也被列入停机报告。用户早在美国东部时间上午 11:30 就报告了错误。\n\n美国银行的一位代表表示，该公司“没有受到直接影响。但是，尝试通过其他金融机构发送或接收 Zelle 付款的客户可能会遇到交易延迟。”\n\nZelle 是一种点对点支付系统，得到了包括摩根大通在内的许多美国最大银行的支持。\n\n几天前，空中交通管制中心使用的 Microsoft Outlook 和通信系统出现了单独的、广泛的问题。\n\n— CNBC 的莱斯利·皮克 (Leslie Picker) 对本报告做出了贡献。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}
