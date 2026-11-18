@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "US cyber security agency warns over vulnerability in Oracle’s Java",
+  "summary": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
+  "url": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+  "publishedAt": "2026-11-18T02:19:18.000Z",
+  "id": "financial-times-bf4d3a9f",
+  "slug": "financial-times-bf4d3a9f",
+  "content": "Companies told to update systems running on programming language widely used by corporate sector, banks and government agencies",
+  "fetchedAt": "2026-11-18T04:37:01.257Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "全球",
+    "金融",
+    "安全"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "美国网络安全机构对 Oracle Java 漏洞发出警告",
+  "chineseSummary": "公司被要求更新运行企业部门、银行和政府机构广泛使用的编程语言的系统",
+  "chineseContent": "公司被要求更新运行企业部门、银行和政府机构广泛使用的编程语言的系统",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

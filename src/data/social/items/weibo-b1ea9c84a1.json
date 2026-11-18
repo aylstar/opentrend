@@ -1,0 +1,21 @@
+{
+  "id": "weibo-b1ea9c84a1",
+  "slug": "weibo-豆包加聊天功能或威胁微信",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "豆包加聊天功能或威胁微信",
+  "summary": "微博热榜第 1 位：豆包加聊天功能或威胁微信。",
+  "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%8A%A0%E8%81%8A%E5%A4%A9%E5%8A%9F%E8%83%BD%E6%88%96%E5%A8%81%E8%83%81%E5%BE%AE%E4%BF%A1",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-17T20:08:44.647Z",
+  "fetchedAt": "2026-11-18T04:37:46.525Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "elementalsouls__claude-bughunter",
+  "owner": "elementalsouls",
+  "repo": "Claude-BugHunter",
+  "name": "Claude-BugHunter",
+  "fullName": "elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "githubUrl": "https://github.com/elementalsouls/Claude-BugHunter",
+  "docsUrl": "https://elementalsouls.github.io/Claude-BugHunter",
+  "stars": 9640,
+  "forks": 1386,
+  "openIssues": 12,
+  "license": "MIT",
+  "pushedAt": "2026-11-17T13:33:22Z",
+  "updatedAt": "2026-11-18T04:36:14Z",
+  "createdAt": "2026-05-05T11:22:32Z",
+  "archived": false,
+  "trendWindows": [
+    "weekly"
+  ],
+  "tags": [
+    "AI",
+    "效率工具",
+    "开发工具",
+    "NAS",
+    "自部署",
+    "企业工具",
+    "自动化办公",
+    "安全隐私"
+  ],
+  "recommendation": 2.5,
+  "readmeExcerpt": "![claude-bughunter banner](assets/banner-v2.svg)\n\n# claude-bughunter\n\n> A self-contained Claude skill bundle for bug hunting and external red-team work · **83 skills** · 15 slash commands · **681 disclosed-report patterns** (433 now individually cited & auditable) across 24 core vulnerability classes · enterprise identity + infrastructure attack matrices · engagement-folder scaffolding · Burp MCP integration · battle-tested across authorized red-team and bug-hunting engagements, plus public training platforms (DVWA, OWASP Juice Shop, Hacker101, testphp.vulnweb.com).\n\nBuilt by **[Sachin Sharma](https://www.linkedin.com/in/sachinsharma8080/)** — Bug Hunting & GenAI Security Research.\n\n<p align=\"center\">\n  <sub>SPONSORED BY</sub>\n  <br/>\n  <a href=\"https://www.apismart.ai/\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/sponsors/apismart-dark.png\">\n      <img alt=\"ApiSmart\" src=\"assets/sponsors/apismart-light.png\" height=\"30\">\n    </picture>\n  </a>\n  &nbsp;&nbsp;&nbsp;&nbsp;\n  <a href=\"https://threatwatch360.com\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/sponsors/tw360-dark.svg\">\n      <img alt=\"ThreatWatch360\" src=\"assets/sponsors/tw360-light.svg\" height=\"30\">\n    </picture>\n  </a>\n</p>\n\n---\n\n## What is this?\n\n`claude-bughunter` is a drop-in skill bundle for the [Claude Code skills system](https://docs.claude.com/en/docs/claude-code/skills). Install once and Claude Code stops being a chatbot and starts behaving like a senior bug-hunting researcher or red-team operator: it knows the techniques, the chain templates, the VRT mappings, the platform CVE chains, and the hygiene — and it stays in scope.\n\nFour layers stack:\n\n- **Think** — `bb-methodology` + `redteam-mindset`: the 5-phase non-linear workflow, critical-thinking framework, and red-team operator discipline.\n- **Hunt webapps** — 58 `hunt-*` skills curated from 681 disclosed HackerOne reports: per-class detection patterns, payloads, bypass tables, and chain templates.\n- **Hit the perimeter** — enterprise platform chains (M365/Entra, Okta, vCenter, SSL-VPN appliances, SharePoint, cloud IAM): current 2024–2026 CVE chains + post-credential escalation.\n- **Ship it** — `triage-validation` + reporting + `evidence-hygiene`: the 7-Question Gate, VRT-aware severity, OOS rebuttals, PII redaction, and red-team deliverables.\n\nAll triggered automatically by topic — describe what you're testing in plain English and the relevant skill loads. No invocation by name.\n\n---\n\n## Quickstart\n\n**Option A — install as a Claude Code plugin (recommended).** From inside Claude Code:\n\n```text\n/plugin marketplace add elementalsouls/Claude-BugHunter\n/plugin install claude-bughunter@elementalsouls\n```\n\nAll 83 skills + 15 commands load namespaced under `claude-bughunter:` and update when you bump the plugin version — no files copied into `~/.claude/`.\n\n**Option B — copy install (no plugin system / pin to a clone):**\n\n```bash\ngit clone https://github.com/el",
+  "generatedAt": "2026-11-18T04:36:44.435Z",
+  "analysis": {
+    "oneLine": "Claude-BugHunter 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
+    "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
+    "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
+    "detailParagraphs": [
+      "Claude-BugHunter 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
+      "如果把它放进实际使用场景，Claude-BugHunter 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 9,640，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Python 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
+    ],
+    "scenarios": [
+      "团队 AI 编码规范",
+      "Codex/Claude Code 工作流优化",
+      "代码评审清单",
+      "开发者培训材料"
+    ],
+    "interpretation": "Claude-BugHunter 的评估重点是产品形态、工程成熟度和场景适配，而不是 README 文案本身。对付费信息服务用户来说，它的价值在于帮助快速判断是否值得投入一次部署验证、是否有二次开发空间、是否能成为降本增效工具或商业服务组件。",
+    "installRequirements": "通常需要 Python 相关运行环境，具体版本以官方 README 为准。",
+    "installGuide": "git clone https://github.com/elementalsouls/Claude-BugHunter.git",
+    "deployment": "无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。暂未识别出明确 Docker Compose 部署路径，私有化部署成本需要进一步评估。",
+    "commercialValue": "它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流；由于关注度较高，适合作为竞品研究、工具选型或方案组件候选。",
+    "efficiencyValue": "如果项目与现有工作流匹配，效率价值主要体现在提升 Claude Code 或同类编码 Agent 的执行稳定性，并减少从零选型和重复开发的时间。",
+    "learningValue": "适合学习以 Python 为主的技术栈下同类项目的产品组织、工程结构、README 表达和社区反馈。",
+    "reuseValue": "具备二次开发可能，但需要结合许可证、代码结构、依赖复杂度、接口稳定性和维护节奏判断。",
+    "chinaNotes": "国内使用时要重点检查 GitHub、镜像源、模型服务、第三方 API 和 Docker 镜像访问稳定性。",
+    "risk": "风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。",
+    "recommendation": 2.5,
+    "tags": [
+      "AI",
+      "效率工具",
+      "开发工具",
+      "NAS",
+      "自部署",
+      "企业工具",
+      "自动化办公",
+      "安全隐私"
+    ],
+    "source": "rule-based-readme-analysis"
+  },
+  "firstSeenAt": "2026-11-18T04:36:44.436Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5aa3beddb1",
+  "slug": "weibo-字节被指只差聊天软件",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "字节被指只差聊天软件",
+  "summary": "微博热榜第 2 位：字节被指只差聊天软件。",
+  "url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%E8%A2%AB%E6%8C%87%E5%8F%AA%E5%B7%AE%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-17T20:08:44.647Z",
+  "fetchedAt": "2026-11-18T04:37:46.525Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

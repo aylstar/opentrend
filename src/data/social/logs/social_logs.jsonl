@@ -911,3 +911,7 @@
 {"type":"source_ok","at":"2026-11-17T05:11:07.133Z","platform":"douyin","source":"Douyin Web","url":"https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1","count":50}
 {"type":"source_ok","at":"2026-11-17T05:11:07.618Z","platform":"weibo","source":"Weibo Web","url":"https://weibo.com/ajax/side/hotSearch","count":51}
 {"type":"social_report_generated","at":"2026-11-17T05:11:07.625Z","date":"2026-11-17","stats":{"totalItems":111,"xiaohongshuItems":10,"douyinItems":50,"weiboItems":51},"sources":["Fallback","Douyin Web","Weibo Web"]}
+{"type":"source_ok","at":"2026-11-18T04:37:46.065Z","platform":"douyin","source":"UAPI Hotboard","url":"https://uapis.cn/api/v1/misc/hotboard?type=douyin","count":50}
+{"type":"source_ok","at":"2026-11-18T04:37:46.525Z","platform":"weibo","source":"UAPI Hotboard","url":"https://uapis.cn/api/v1/misc/hotboard?type=weibo","count":20}
+{"type":"source_ok","at":"2026-11-18T04:37:46.754Z","platform":"xiaohongshu","source":"60s API Rednote","url":"https://60s.viki.moe/v2/rednote","count":20}
+{"type":"social_report_generated","at":"2026-11-18T04:37:46.760Z","date":"2026-11-18","stats":{"totalItems":90,"xiaohongshuItems":20,"douyinItems":50,"weiboItems":20},"sources":["60s API Rednote","UAPI Hotboard"]}

@@ -8,12 +8,12 @@
   "language": "Ruby",
   "githubUrl": "https://github.com/we-promise/sure",
   "docsUrl": "https://sure.am",
-  "stars": 16060,
-  "forks": 1396,
-  "openIssues": 980,
+  "stars": 16301,
+  "forks": 1418,
+  "openIssues": 1026,
   "license": "AGPL-3.0",
-  "pushedAt": "2026-11-17T05:01:33Z",
-  "updatedAt": "2026-11-17T05:07:31Z",
+  "pushedAt": "2026-11-18T02:04:15Z",
+  "updatedAt": "2026-11-18T04:35:31Z",
   "createdAt": "2025-07-23T04:13:55Z",
   "archived": false,
   "trendWindows": [
@@ -31,14 +31,14 @@
   ],
   "recommendation": 3,
   "readmeExcerpt": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure)\n[![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL)\n[![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask)\n[![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](https://github.com/we-promise/sure/actions/workflows/pipelock.yml)\n\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/we-promise/sure/main/docs/screenshots/dashboard-dark.webp\">\n  <img alt=\"The Sure dashboard in two columns (cashflow, net worth, spending and outflows) beside the AI assistant answering a question about savings\" src=\"https://raw.githubusercontent.com/we-promise/sure/main/docs/screenshots/dashboard-light.webp\">\n</picture>\n\n<p align=\"center\">\n  <!-- Keep these links. Translations will automatically update with the README. -->\n  <a href=\"https://readme-i18n.com/de/we-promise/sure\">Deutsch</a> | \n  <a href=\"https://readme-i18n.com/es/we-promise/sure\">Español</a> | \n  <a href=\"https://readme-i18n.com/fr/we-promise/sure\">Français</a> | \n  <a href=\"https://readme-i18n.com/ja/we-promise/sure\">日本語</a> | \n  <a href=\"https://readme-i18n.com/ko/we-promise/sure\">한국어</a> | \n  <a href=\"https://readme-i18n.com/pt/we-promise/sure\">Português</a> | \n  <a href=\"https://readme-i18n.com/ru/we-promise/sure\">Русский</a> | \n  <a href=\"https://readme-i18n.com/zh/we-promise/sure\">中文</a>\n</p>\n\n# Sure: The personal finance app for everyone\n\n<b>Get\ninvolved: [Discord](https://discord.gg/36ZGBsxYEK) • [Website](https://sure.am) • [Issues](https://github.com/we-promise/sure/issues)</b>\n\n> [!IMPORTANT]\n> This repository is a community fork of the now-abandoned Maybe Finance project. <br />\n> Learn more in their [final release](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0) doc.\n\n## Backstory\n\nThe [Maybe Finance](https://github.com/maybe-finance/maybe) (archived/abandoned repo) team spent most of 2021–2022 building a full-featured personal finance and wealth management app. It even included an “Ask an Advisor” feature that connected users with a real CFP/CFA — all included with your subscription.\n\nThe business end of things didn't work out, and so they stopped developing the app in mid-2023.\n\nAfter spending nearly $1 million on development (employees, contractors, data providers, infra, etc.), the team open-sourced the app. Their goal was to let users self-host it for free — and eventually launch a hosted version for a small fee.\n\nThey actually did launch that hosted version … briefly.\n\nThat also didn’t work out — at least not as a sustainable B2C business — so now here we are: hosting a community-maintained fork to keep the codebase alive and see where this can go next.\n\nJoin us!\n\n## Hosting Sure\n\nSure is a fully ",
-  "generatedAt": "2026-11-17T05:09:07.273Z",
+  "generatedAt": "2026-11-18T04:36:43.172Z",
   "analysis": {
     "oneLine": "sure 是一个金融或交易分析相关开源项目，适合用于辅助市场研究、交易策略模拟或金融数据分析。",
     "problem": "金融研究和交易分析需要把数据、模型、信号和回测流程组织起来",
     "audience": "量化研究者、金融科技团队、投研人员、数据分析团队",
     "detailParagraphs": [
       "sure 更准确地说是一个金融或交易分析相关开源项目，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：金融研究和交易分析需要把数据、模型、信号和回测流程组织起来。",
-      "如果把它放进实际使用场景，sure 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 16,060，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Ruby 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，sure 的价值主要来自辅助市场研究、交易策略模拟或金融数据分析。当前 Star 约 16,301，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 Ruby 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，可作为研究样本或内部工具组件，但不能直接等同于可交易策略；商业使用要先验证数据质量、回测偏差和合规边界。重点核对行情数据源、API 依赖、模型假设、回测框架和结果可复现性。当前最需要警惕的是：风险在于过拟合、数据源不稳定、合规约束和收益宣传不可控。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

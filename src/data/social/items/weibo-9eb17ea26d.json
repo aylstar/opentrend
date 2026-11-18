@@ -1,0 +1,21 @@
+{
+  "id": "weibo-9eb17ea26d",
+  "slug": "weibo-小锁女装",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 20,
+  "title": "小锁女装",
+  "summary": "微博热榜第 20 位：小锁女装。",
+  "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%94%81%E5%A5%B3%E8%A3%85",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-17T20:08:44.647Z",
+  "fetchedAt": "2026-11-18T04:37:46.525Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

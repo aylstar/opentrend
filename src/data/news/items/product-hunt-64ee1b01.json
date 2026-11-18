@@ -1,25 +1,26 @@
 {
   "source": "Product Hunt",
   "category": "ai-tech",
-  "originalTitle": "LFM3 by Liquid AI",
-  "summary": "Six 2B-class models for phones, laptops and robots Discussion | Link",
+  "originalTitle": "Liquid d1.2",
+  "summary": "Decision models that return calibrated probabilities Discussion | Link",
   "url": "https://www.producthunt.com/products/lfm2",
-  "publishedAt": "2026-10-27T17:20:52.000Z",
+  "publishedAt": "2026-11-16T16:59:43.000Z",
   "id": "product-hunt-64ee1b01",
   "slug": "product-hunt-64ee1b01",
-  "content": "Six 2B-class models for phones, laptops and robots Discussion | Link",
-  "fetchedAt": "2026-10-29T02:35:22.371Z",
+  "content": "Decision models that return calibrated probabilities Discussion | Link",
+  "fetchedAt": "2026-11-18T04:37:01.250Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
-    "全球"
+    "全球",
+    "金融"
   ],
   "rank": 11,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Liquid AI 的 LFM3",
-  "chineseSummary": "六种适用于手机、笔记本电脑和机器人的 2B 级模型 讨论 |关联",
-  "chineseContent": "六种适用于手机、笔记本电脑和机器人的 2B 级模型 讨论 |关联",
+  "chineseTitle": "液体d1.2",
+  "chineseSummary": "返回校准概率的决策模型关联",
+  "chineseContent": "返回校准概率的决策模型关联",
   "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
   "translationStatus": "translated"
 }
