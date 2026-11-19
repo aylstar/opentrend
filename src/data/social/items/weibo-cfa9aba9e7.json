@@ -1,0 +1,21 @@
+{
+  "id": "weibo-cfa9aba9e7",
+  "slug": "weibo-中美元首握手",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 14,
+  "title": "中美元首握手",
+  "summary": "微博热榜第 14 位：中美元首握手。",
+  "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-18T10:21:26.566Z",
+  "fetchedAt": "2026-11-19T04:20:18.243Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
+  "summary": "Japanese tech group had already started to put money into arch-rival OpenAI",
+  "url": "https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1",
+  "publishedAt": "2026-11-18T07:56:06.000Z",
+  "id": "financial-times-86e21b8b",
+  "slug": "financial-times-86e21b8b",
+  "content": "Japanese tech group had already started to put money into arch-rival OpenAI",
+  "fetchedAt": "2026-11-19T04:19:08.263Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "金融"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "SoftBank regrets ‘mistake’ of not backing Anthropic, says Son",
+  "chineseSummary": "Japanese tech group had already started to put money into arch-rival OpenAI",
+  "chineseContent": "Japanese tech group had already started to put money into arch-rival OpenAI",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
