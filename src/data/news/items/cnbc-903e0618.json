@@ -1,0 +1,27 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+  "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
+  "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+  "publishedAt": "2026-11-19T21:00:57.000Z",
+  "id": "cnbc-903e0618",
+  "slug": "cnbc-903e0618",
+  "content": "Palo Alto Networks shares rose 6% on Thursday as businesses boosted spending on cybersecurity products and investors cheered the company's acquisition of a startup that pushes it into securing open-weight artificial intelligence models.\n\nThe company beat Wall Street's estimates for the fiscal first quarter. Revenue jumped 39% from a year ago and Palo Alto lifted its guidance for the year.\n\nRecent outages at Microsoft , banks and the Federal Aviation Administration have left businesses reeling. While U.S. officials haven't detected any malicious activity, the disruptions raise concerns over aging equipment and infrastructure. Many businesses are scrambling to patch vulnerabilities at a faster clip than ever before to keep pace with the growing risks of AI-powered cyberattacks.\n\nThose fears have led more businesses to consolidate platforms, which is fueling growth in areas like firewall and AI security, Palo Alto Networks CEO Nikesh Arora told CNBC's \" Mad Money \" on Wednesday.\n\n\"They're going to have to make sure they get the best players in the market to come support them because this is no longer child's play,\" Arora said.\n\nAlongside earnings, Palo Alto announced a $4.5 billion deal to buy Applied Compute, a startup that helps train customized open-weight models. It's one of several recent deals in Arora's aggressive acquisition spree and marks a significant shift beyond cybersecurity.\n\n\"Rather than being one player out of 10 in the industry serving compute, we want to be the one player with Palo Alto that delivers secure compute and security capability,\" Arora told CNBC.\n\nPalo Alto expects the deal to add more than $1 billion in annual recurring revenue to its next-generation security business by the 2029 fiscal year.\n\nAnalysts at Bank of America touted the deal as a \"bold move\" to expand beyond securing AI into training open-weight models, allowing Palo Alto to lead the next phase of the AI revolution.\n\nThis \"appears consistent with PANW's 'long-game' - become indispensable beyond cyber into multidisciplinary IT domains across AI-value-chain,\" wrote analysts at Citigroup.\n\nWATCH : Palo Alto Networks shares surge",
+  "fetchedAt": "2026-11-20T04:07:16.180Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 11,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "帕洛阿尔托股票因盈利增长和公司对开放权重模型的大赌注而上涨",
+  "chineseSummary": "Palo Alto Networks 公布第一季度业绩好于预期，并与人工智能初创公司 Applied Compute 签署了 45 亿美元的交易",
+  "chineseContent": "Palo Alto Networks 股价周四上涨 6%，原因是企业增加了网络安全产品的支出，并且投资者对该公司收购一家初创公司表示欢迎，该公司推动其确保开放权重人工智能模型的安全。\n\n该公司第一财季的表现超出了华尔街的预期。收入较去年同期增长 39%，帕洛阿尔托上调了今年的指引。\n\n微软、银行和联邦航空管理局最近出现的服务中断让企业陷入困境。尽管美国官员尚未发现任何恶意活动，但这些中断引发了人们对设备和基础设施老化的担忧。许多企业正以前所未有的速度争先恐后地修补漏洞，以应对人工智能驱动的网络攻击日益增长的风险。\n\nPalo Alto Networks 首席执行官 Nikesh Arora 周三在 CNBC 节目《Mad Money》中表示，这些担忧导致更多企业整合平台，从而推动防火墙和人工智能安全等领域的增长。\n\n“他们必须确保获得市场上最好的球员来支持他们，因为这不再是儿戏，”阿罗拉说。\n\n除了盈利之外，帕洛阿尔托还宣布斥资 45 亿美元收购 Applied Compute，这是一家帮助训练定制开放权重模型的初创公司。这是 Arora 最近大举收购的几笔交易之一，标志着网络安全领域的重大转变。\n\nArora 告诉 CNBC：“我们不想成为计算服务行业中十分之一的参与者，而是希望成为 Palo Alto 提供安全计算和安全功能的参与者之一。”\n\nPalo Alto 预计，到 2029 财年，该交易将为其下一代安全业务带来超过 10 亿美元的年度经常性收入。\n\n美国银行的分析师称赞这笔交易是“大胆的举动”，将人工智能扩展到训练开放权重模型，从而使帕洛阿尔托能够引领人工智能革命的下一阶段。\n\n花旗集团的分析师写道，这“似乎与 PANW 的‘长期目标’一致——超越网络领域，进入跨人工智能价值链的多学科 IT 领域。”\n\n观看：Palo Alto Networks 股价飙升",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

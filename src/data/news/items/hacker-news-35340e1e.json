@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Synology Security Advisory",
+  "summary": "119 points · 86 comments",
+  "content": "Publish Time: 2026-11-19 15:47:20 UTC+8\n\nLast Updated: 2026-11-19 15:50:54 UTC+8\n\nAffected Products Product Severity Fixed Release Availability APM 2.0 Not affected N/A APM 1.2 Not affected N/A BeeStation OS 1.5 Critical OnGoing DSM 7.4 Critical Upgrade to 7.4.1-90080-2 or above (scheduled for release by 2026-11-20). DSM 7.3 Critical Upgrade to 7.3.2-86009-6 or above (scheduled for release by 2026-11-20). DSM 7.2.2 Critical OnGoing (Upgrading to 7.3.2-86009-6 or above is recommended). DSM 7.2.1 Critical OnGoing (Upgrading to 7.3.2-86009-6 or above is recommended). DSM 7.1 Critical OnGoing DSM Enterprise 1.0 Not affected N/A SRM 1.3 Not affected N/A SRM 1.2 Not affected N/A\n\nDeactivate the OAuth Service package.\n\nRevision Revision Date Description 1 2026-11-19 Initial public release.",
+  "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+  "publishedAt": "2026-11-19T22:13:40.000Z",
+  "points": 119,
+  "id": "hacker-news-35340e1e",
+  "slug": "hacker-news-35340e1e",
+  "fetchedAt": "2026-11-20T04:07:16.177Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "安全"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Synology 安全警告",
+  "chineseSummary": "119 分 · 86 条评论",
+  "chineseContent": "发布时间：2026-11-19 15:47:20 UTC+8\n\n最后更新: 2026-11-19 15:50:54 UTC+8\n\n受影响产品 产品严重性 已修复版本可用性 APM 2.0 不受影响 N/A APM 1.2 不受影响 N/A BeeStation OS 1.5 严重 正在进行 DSM 7.4 重要 升级至 7.4.1-90080-2 或更高版本（计划于 2026 年 11 月 20 日发布）。 DSM 7.3 重要升级至 7.3.2-86009-6 或更高版本（计划于 2026 年 11 月 20 日发布）。 DSM 7.2.2 关键正在进行（建议升级到 7.3.2-86009-6 或更高版本）。 DSM 7.2.1 关键正在进行（建议升级到 7.3.2-86009-6 或更高版本）。 DSM 7.1 关键 正在进行 DSM Enterprise 1.0 不受影响 不适用 SRM 1.3 不受影响 不适用 SRM 1.2 不受影响 不适用\n\n停用 OAuth 服务包。\n\n修订 修订日期 说明 1 2026-11-19 首次公开发布。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

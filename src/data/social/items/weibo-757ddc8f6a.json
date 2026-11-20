@@ -1,0 +1,21 @@
+{
+  "id": "weibo-757ddc8f6a",
+  "slug": "weibo-小米18",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "小米18",
+  "summary": "微博热榜第 10 位：小米18。",
+  "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-20T03:43:02.652Z",
+  "fetchedAt": "2026-11-20T04:08:33.219Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

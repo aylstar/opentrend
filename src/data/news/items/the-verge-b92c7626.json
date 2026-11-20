@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Apple is hiring engineers to build its own AI agent",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "publishedAt": "2026-11-19T22:31:41.000Z",
+  "id": "the-verge-b92c7626",
+  "slug": "the-verge-b92c7626",
+  "content": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That’s according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta’s Muse, OpenAI’s Dots, Anthropic’s Duet, and Google’s Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same. Apple began rolling out its AI-upgraded Siri in September, which you can use to ask questions about what’s on your screen, as well as perform actions across apps. It looks like Apple is planning to give Siri more agentic capabilities, as a report from Bloomberg suggests the company could add the ability to rotate and crop images in Photos, or organize Safari tabs. This lines up with the company’s new job listing, which says the engineer will work closely with teams across its Siri, UI Frameworks, and Apple Foundation Models divisions. “People already do their most valuable work by moving fluidly between tools: a browser, a document, a terminal, an editor, a service,” the job listing says. “We’re building AI agents that can do the same… These agents plan and carry out multi-step tasks across apps, browsers, command lines, code, and APIs, and they can coordinate specialized sub-agents along the way.” With its upcoming iOS 27.3 update, Apple is also giving developers the ability to integrate Siri AI into “all apps.” This is rolling out as part of a Developer Preview and will eventually allow Siri to perform tasks across a wider range of apps.",
+  "fetchedAt": "2026-11-20T04:07:16.179Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "苹果正在招聘工程师来构建自己的 AI 代理",
+  "chineseSummary": "苹果正在开发自己的人工智能代理，它可以为你执行一系列任务，包括浏览网页、跨应用程序工作、编写代码和调用服务。这是根据彭博社发现的一份招聘清单显示的，该清单称苹果正在寻找一名工程师来领导智能人工智能助理的创建。 […]",
+  "chineseContent": "苹果正在开发自己的人工智能代理，它可以为你执行一系列任务，包括浏览网页、跨应用程序工作、编写代码和调用服务。这是根据彭博社发现的一份招聘清单显示的，该清单称苹果正在寻找一名工程师来领导智能人工智能助理的创建。苹果公司的人工智能代理将让这家 iPhone 制造商与 Meta 的 Muse、OpenAI 的 Dots、Anthropic 的 Duet 和谷歌的 Tasks 等公司竞争。 Muse、ChatGPT 和 Perplexity 已经可以通过其 Mac 应用程序控制计算机，而 Google 刚刚开始让 Gemini 也这样做。苹果于 9 月份开始推出经过人工智能升级的 Siri，您可以用它来询问有关屏幕上内容的问题，以及跨应用程序执行操作。看起来苹果正计划为 Siri 提供更多代理功能，彭博社的一份报告表明，该公司可以添加旋转和裁剪照片中的图像或组织 Safari 选项卡的功能。这与该公司的新职位清单相符，该职位清单称该工程师将与 Siri、UI 框架和 Apple Foundation Models 部门的团队密切合作。 “人们已经通过在浏览器、文档、终端、编辑器、服务等工具之间流畅地移动来完成最有价值的工作，”招聘清单上写道。 “我们正在构建可以做同样事情的人工智能代理......这些代理跨应用程序、浏览器、命令行、代码和 API 规划和执行多步骤任务，并且它们可以在此过程中协调专门的子代理。”通过即将推出的 iOS 27.3 更新，苹果还让开发者能够将 Siri AI 集成到“所有应用程序”中。这是作为开发者预览版的一部分推出的，最终将允许 Siri 在更广泛的应用程序中执行任务。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-2caf3fd03b",
+  "slug": "weibo-股市",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "股市",
+  "summary": "微博热榜第 13 位：股市。",
+  "url": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-20T03:43:02.652Z",
+  "fetchedAt": "2026-11-20T04:08:33.219Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

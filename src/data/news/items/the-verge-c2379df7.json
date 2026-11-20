@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google is putting AI chats right on the homepage",
+  "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+  "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "publishedAt": "2026-11-19T20:05:06.000Z",
+  "id": "the-verge-c2379df7",
+  "slug": "the-verge-c2379df7",
+  "content": "Google is updating its homepage to include AI searches. In a post on X, Google’s vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray bar that appears on the left side of your screen. From there, Google will show a list of the searches you’ve made using AI Mode, along with the ability to start a new thread, search your threads, or connect a Gemini Notebook. [Media: https://twitter.com/rmstein/status/2123500235930640844?a=G_K1GFwM3X4dzqZVU1A&s=20] It’s yet another big change for Google’s homepage, which has long presented you with a single bar to kick off your web search. The company brought its AI Mode button to its search bar last year, which opens up a chatbot-like search experience within Google. In May, Google updated its search box to accommodate longer queries and added AI-powered autocomplete. Stein says Google is rolling out the option because “people are coming to Search with more questions that aren’t just one and done,” adding that “in testing, this sidebar made a big difference for making progress & continuing to explore the web.” The new homepage is rolling out globally on desktop.",
+  "fetchedAt": "2026-11-20T04:07:16.179Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "产品"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌将 AI 聊天放在主页上",
+  "chineseSummary": "谷歌正在更新其主页以包含人工智能搜索。在 X 上的一篇帖子中，Google 产品副总裁 Robby Stein 展示了现在如何打开可折叠侧边栏来查看并继续 AI 聊天。根据 Stein 分享的 GIF，看起来您可以通过单击 [...]",
+  "chineseContent": "谷歌正在更新其主页以包含人工智能搜索。在 X 上的一篇文章中，Google 产品副总裁 Robby Stein 展示了现在如何打开可折叠侧边栏来查看并继续 AI 聊天。根据 Stein 分享的 GIF，看起来您可以通过单击屏幕左侧出现的灰色条来打开侧边栏。从那里，Google 将显示您使用 AI 模式进行的搜索列表，以及启动新线程、搜索线程或连接 Gemini 笔记本的功能。 [媒体：https://twitter.com/rmstein/status/2123500235930640844?a=G_K1GFwM3X4dzqZVU1A&s=20]这是谷歌主页的另一个重大变化，长期以来它一直为您提供一个单一的栏来启动您的网络搜索。该公司去年将人工智能模式按钮带到了搜索栏，这在谷歌内部开辟了类似聊天机器人的搜索体验。五月份，谷歌更新了其搜索框以适应更长的查询，并添加了人工智能驱动的自动完成功能。斯坦因表示，谷歌推出这一选项是因为“人们在搜索时会带着更多的问题，而这些问题不仅仅是一个问题”，他补充道，“在测试中，这个侧边栏对于取得进展和继续探索网络产生了很大的影响。”新主页正在全球桌面上推出。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
