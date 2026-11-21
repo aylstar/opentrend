@@ -1,0 +1,21 @@
+{
+  "id": "weibo-c567f105d6",
+  "slug": "weibo-美股-ai泡沫",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 15,
+  "title": "美股 AI泡沫",
+  "summary": "微博热榜第 15 位：美股 AI泡沫。",
+  "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%20AI%E6%B3%A1%E6%B2%AB",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-21T03:13:40.095Z",
+  "fetchedAt": "2026-11-21T04:07:29.005Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

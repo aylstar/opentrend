@@ -8,12 +8,12 @@
   "language": "TypeScript",
   "githubUrl": "https://github.com/ag-ui-protocol/ag-ui",
   "docsUrl": "https://ag-ui.com",
-  "stars": 20669,
-  "forks": 2123,
-  "openIssues": 595,
+  "stars": 20842,
+  "forks": 2126,
+  "openIssues": 599,
   "license": "MIT",
-  "pushedAt": "2026-11-19T22:12:16Z",
-  "updatedAt": "2026-11-20T04:02:10Z",
+  "pushedAt": "2026-11-20T23:29:54Z",
+  "updatedAt": "2026-11-21T03:53:00Z",
   "createdAt": "2025-05-07T12:49:37Z",
   "archived": false,
   "trendWindows": [
@@ -29,14 +29,14 @@
   ],
   "recommendation": 2.3,
   "readmeExcerpt": "<div align=\"center\">\n\n<a href=\"https://docs.ag-ui.com\"><img alt=\"AG-UI\" src=\".github/readme/wordmark.svg\" width=\"320\"></a>\n\n### The open protocol that connects any agent to any app.\n\n<a href=\"https://www.npmjs.com/package/@ag-ui/core\"><img src=\"https://img.shields.io/npm/v/%40ag-ui%2Fcore?logo=npm&logoColor=white&label=npm&color=6963ff\" alt=\"npm version\"></a>\n<a href=\"https://www.npmjs.com/package/@ag-ui/core\"><img src=\"https://img.shields.io/npm/dw/%40ag-ui%2Fcore?logo=npm&logoColor=white&label=downloads&color=6963ff\" alt=\"npm weekly downloads\"></a>\n<a href=\"https://pypi.org/project/ag-ui-protocol/\"><img src=\"https://img.shields.io/pypi/v/ag-ui-protocol?logo=pypi&logoColor=white&label=pypi&color=6963ff\" alt=\"PyPI version\"></a>\n<a href=\"https://discord.gg/Jd3FzfdJa8\"><img src=\"https://img.shields.io/discord/1379082175625953370?logo=discord&logoColor=white&label=discord&color=6963ff\" alt=\"Discord\"></a>\n<a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-6963ff\" alt=\"License: MIT\"></a>\n\n**[Docs](https://docs.ag-ui.com)** · **[Examples](https://dojo.ag-ui.com)** · **[Spec](https://docs.ag-ui.com/spec/1.0)** · **[Discord](https://discord.gg/Jd3FzfdJa8)**\n\n<a href=\"https://docs.ag-ui.com/talk-to-us\"><img alt=\"Running AG-UI in production? Talk to the team\" src=\".github/readme/talk-to-the-team.svg\" width=\"400\"></a>\n\n<a href=\"https://trendshift.io/repositories/27961?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-27961\"><img src=\"https://trendshift.io/api/badge/repositories/27961\" alt=\"ag-ui-protocol%2Fag-ui | Trendshift\" width=\"250\" height=\"55\"></a>\n\n</div>\n\n<br>\n\n**AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications.**\n\nAgents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagents, and every framework does it differently. AG-UI replaces that custom wiring with one bi-directional event stream: the agent emits typed events, and any client can render them, no matter which framework built the agent. The same agent can power a web app, a mobile app, a terminal, or Slack.\n\n<a href=\"https://docs.ag-ui.com\"><img alt=\"AG-UI connects any agent to any app: web apps, mobile, Slack and Teams, and terminal clients connect bi-directionally through AG-UI to agents built with LangChain, CrewAI, Mastra, Google ADK, Microsoft Agent Framework, Pydantic AI or any framework, with streaming chat, generative UI, shared state, human in the loop, frontend tools and subagents; AG-UI works alongside MCP for tools and A2A for agents.\" src=\".github/readme/overview.svg\" width=\"880\"></a>\n\n> [!IMPORTANT]\n> **AG-UI 1.0 is here.** The protocol now has a stable, frozen [specification](https://docs.ag-ui.com/spec/1.0) backed by a JSON Schema, and the TypeScript, Python, and .NET SDKs are generated from it. 1.0 is backwards compatible in both directions: 0.x agents work with 1.0 clients and vi",
-  "generatedAt": "2026-11-20T04:06:55.234Z",
+  "generatedAt": "2026-11-21T04:06:17.809Z",
   "analysis": {
     "oneLine": "ag-ui 是一个安全、隐私或 OSINT 方向工具，适合用于支持安全研究、身份线索核查或风险排查。",
     "problem": "安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面",
     "audience": "安全研究员、企业安全团队、风控人员、合规审查人员",
     "detailParagraphs": [
       "ag-ui 更准确地说是一个安全、隐私或 OSINT 方向工具，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：安全和风控场景需要更快汇集公开线索、识别异常暴露或验证攻击面。",
-      "如果把它放进实际使用场景，ag-ui 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 20,669，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，ag-ui 的价值主要来自支持安全研究、身份线索核查或风险排查。当前 Star 约 20,842，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 TypeScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，适合做成内部安全排查工具或咨询交付组件，但使用边界必须清晰，避免越权查询和隐私侵害。重点核对数据源合法性、调用频率限制、日志留存和敏感信息处理方式。当前最需要警惕的是：风险主要是合规、隐私和误报，需要配套人工复核机制。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [

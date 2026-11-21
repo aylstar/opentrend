@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Language Models Can Rewrite Their Own Weights",
+  "summary": "360 points · 113 comments",
+  "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
+  "url": "https://arxiv.org/abs/2611.21885",
+  "publishedAt": "2026-11-20T16:29:06.000Z",
+  "points": 360,
+  "id": "hacker-news-6fb868a5",
+  "slug": "hacker-news-6fb868a5",
+  "fetchedAt": "2026-11-21T04:06:37.704Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Language Models Can Rewrite Their Own Weights",
+  "chineseSummary": "360 points · 113 comments",
+  "chineseContent": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs .",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}
