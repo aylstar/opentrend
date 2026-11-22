@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Pandex – Official European Law for AI Agents, over MCP",
+  "summary": "45 points · 8 comments",
+  "content": "Legislation and highest-court decisions of the EU and seven European countries, straight from the institutions that publish them, ready for search and AI agents.\n\nWorks with the AI tools you already use.\n\nBuilt for software that has to get the law right.\n\nOne API and one MCP server for every jurisdiction we hold.\n\nCour de cassation, chambre sociale, 28 novembre 2018, n° 17-20.079\n\nBuilt for teams that work with the law.\n\nHow long does a German employer have to dismiss without notice?\n\nTwo weeks from learning of the facts that justify it.\n\nGround every answer in real law, with citations. Connect over MCP or the API.\n\nFollow every change to the law across jurisdictions: each article with its past versions and the date each one took effect.\n\nOne API and one schema across countries, instead of a scraper for every court.\n\nCoverage you can check, straight from the source.\n\nNational legislation with its past versions and the decisions of the highest courts, institution by institution. We publish what we hold of each one, and what we do not.\n\nThe decisions the court publishes only through Judilibre since 2020 (not in the DILA dumps) need a registered account there; the dumps run about two months behind.\n\nChamber decisions of 1998 to 2009 are only on the court's site, which refuses clients that are not a browser.\n\nStill loading: 2,270 of about 20,321 documents held so far.\n\nAbout 27,700 older decisions have no text at Rechtspraak; the council's own site shows them behind a Cloudflare challenge.\n\nAbout 900 judgments of 1996 to 2009 on the archived parliament.uk pages, which our server cannot reach; earlier ones are not online at an official site.\n\nStill loading: 1,218 of about 20,904 and 131,167 of about 179,723 documents held so far.\n\nThe older judgments are only behind the search of justice.public.lu, which asks for a proof-of-work challenge.\n\nThe texts of the amending Protocols are on the Treaty Office site, which answers our server with a Cloudflare block.\n\nFrom our institution register, 17 November 2026 . See it live .\n\nFree to start, priced by what you use.\n\nFor trying it and for small agents.\n\nFor products with users of their own.\n\nThe corpus itself, in your own systems.\n\nFor the first ten companies that build on Pandex. Cancel any month.\n\nIn return: your name on this page and two lines on what you built.\n\nA key is free and takes a minute. For more than that, tell us what you’re building.",
+  "url": "https://www.pandex.io",
+  "publishedAt": "2026-11-21T20:47:41.000Z",
+  "points": 45,
+  "id": "hacker-news-ad1fab8c",
+  "slug": "hacker-news-ad1fab8c",
+  "fetchedAt": "2026-11-22T03:18:59.862Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Pandex——基于 MCP 的 AI 代理欧洲官方法律",
+  "chineseSummary": "45 分 · 8 条评论",
+  "chineseContent": "欧盟和七个欧洲国家的立法和最高法院判决，直接来自发布机构，可供搜索和人工智能代理使用。\n\n可与您已使用的 AI 工具配合使用。\n\n专为必须遵守法律的软件而构建。\n\n我们拥有的每个司法管辖区都有一个 API 和一台 MCP 服务器。\n\n最高法院，社会法庭，2018 年 11 月 28 日，n° 17-20.079\n\n专为遵守法律的团队而打造。\n\n德国雇主必须在没有通知的情况下解雇员工多久？\n\n从了解证明其合理性的事实开始，需要两周的时间。\n\n每个答案都以真实法律为依据，并附有引文。通过 MCP 或 API 连接。\n\n关注各个司法管辖区法律的每一项变更：每项条款及其过去的版本以及每项条款的生效日期。\n\n跨国家使用一个 API 和一个模式，而不是每个法院都使用一个抓取工具。\n\n您可以直接从源头检查覆盖范围。\n\n各个机构的国家立法及其过去的版本和最高法院的裁决。我们会公布我们掌握的每一项资料和我们没有掌握的资料。\n\n自 2020 年以来，法院仅通过 Judilibre 发布的判决（不在 DILA 转储中）需要在那里注册帐户；垃圾场大约落后两个月。\n\n1998 年至 2009 年的分庭判决仅显示在法院网站上，该网站拒绝非浏览器的客户端。\n\n仍在加载：迄今已保存约 20,321 份文件中的 2,270 份。\n\n大约 27,700 项较早的决定在 Rechtspraak 中没有文本；该委员会自己的网站向我们展示了他们发起的 Cloudflare 挑战。\n\n存档的Parliament.uk 页面上有1996 年至2009 年的大约900 个判决，我们的服务器无法访问这些页面；早期的版本并未在官方网站上上线。\n\n仍在加载：迄今为止持有的约 20,904 份文件中的 1,218 份和约 179,723 份文件中的 131,167 份。\n\n较早的判决只是在justice.public.lu 的搜索背后，该搜索要求提出工作量证明挑战。\n\n修订协议的文本位于条约办公室网站上，该网站通过 Cloudflare 块回复我们的服务器。\n\n来自我们的机构登记册，2026 年 11 月 17 日。现场观看。\n\n免费开始，根据您的使用情况定价。\n\n对于尝试它和小代理。\n\n对于拥有自己用户的产品。\n\n语料库本身，在您自己的系统中。\n\n对于前十家基于 Pandex 构建的公司。取消任何一个月。\n\n作为回报：您在此页面上的名字以及您所构建的内容的两行。\n\n钥匙是免费的，需要一分钟。除此之外，请告诉我们您正在构建什么。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

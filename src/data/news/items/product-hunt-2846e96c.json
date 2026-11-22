@@ -8,19 +8,19 @@
   "id": "product-hunt-2846e96c",
   "slug": "product-hunt-2846e96c",
   "content": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
-  "fetchedAt": "2026-11-21T04:06:37.705Z",
-  "score": 79,
+  "fetchedAt": "2026-11-22T03:18:59.864Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "AI",
     "科技",
     "全球"
   ],
-  "rank": 5,
+  "rank": 10,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Mailpipe",
-  "chineseSummary": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
-  "chineseContent": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "邮件管道",
+  "chineseSummary": "Apple Mail 草稿回复与您本地的 AI 代理 CLI 讨论 |关联",
+  "chineseContent": "Apple Mail 草稿回复与您本地的 AI 代理 CLI 讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

@@ -8,17 +8,17 @@
   "id": "product-hunt-3c3ddcbc",
   "slug": "product-hunt-3c3ddcbc",
   "content": "A million virtual meters. A small pledge against hunger. Discussion | Link",
-  "fetchedAt": "2026-11-21T04:06:37.705Z",
-  "score": 79,
+  "fetchedAt": "2026-11-22T03:18:59.864Z",
+  "score": 73,
   "sourceWeight": 84,
   "tags": [
     "全球"
   ],
-  "rank": 6,
+  "rank": 11,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "Lumyna Community Challenge",
-  "chineseSummary": "A million virtual meters. A small pledge against hunger. Discussion | Link",
-  "chineseContent": "A million virtual meters. A small pledge against hunger. Discussion | Link",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "Lumyna 社区挑战",
+  "chineseSummary": "一百万个虚拟仪表。反对饥饿的小承诺。讨论 |关联",
+  "chineseContent": "一百万个虚拟仪表。反对饥饿的小承诺。讨论 |关联",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

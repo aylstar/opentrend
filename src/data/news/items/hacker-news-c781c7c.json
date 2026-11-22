@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Lean verification of the Riemann Hypothesis",
+  "summary": "885 points · 730 comments",
+  "content": "Lean verification of the Riemann Hypothesis\n\nJoint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.\n\nOn November 20, 2026, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code.\n\nWe have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement.\n\nThe codebase depends directly only on Mathlib. Over the past day, the Lean and Mathlib communities have rallied to verify the proof's correctness. We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct. The four criteria in https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/ are all satisfied.\n\nThanks are owed to everyone in the community who provided resources for the verification.\n\nWe look forward to all the activity in the mathematical community that will help explain the new ideas in this proof.",
+  "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+  "publishedAt": "2026-11-21T14:36:45.000Z",
+  "points": 885,
+  "id": "hacker-news-c781c7c",
+  "slug": "hacker-news-c781c7c",
+  "fetchedAt": "2026-11-22T03:18:59.862Z",
+  "score": 71,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Lean verification of the Riemann Hypothesis",
+  "chineseSummary": "885 points · 730 comments",
+  "chineseContent": "Lean verification of the Riemann Hypothesis\n\nJoint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.\n\nOn November 20, 2026, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code.\n\nWe have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement.\n\nThe codebase depends directly only on Mathlib. Over the past day, the Lean and Mathlib communities have rallied to verify the proof's correctness. We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct. The four criteria in https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/ are all satisfied.\n\nThanks are owed to everyone in the community who provided resources for the verification.\n\nWe look forward to all the activity in the mathematical community that will help explain the new ideas in this proof.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-eccd288ab2",
+  "slug": "weibo-白小纯粉丝群发言",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 6,
+  "title": "白小纯粉丝群发言",
+  "summary": "微博热榜第 6 位：白小纯粉丝群发言。",
+  "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%B2%89%E4%B8%9D%E7%BE%A4%E5%8F%91%E8%A8%80",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-22T02:04:25.956Z",
+  "fetchedAt": "2026-11-22T03:20:20.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

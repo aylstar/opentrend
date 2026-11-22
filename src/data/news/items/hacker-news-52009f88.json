@@ -2,24 +2,24 @@
   "source": "Hacker News",
   "category": "ai-tech",
   "originalTitle": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-  "summary": "2437 points · 1643 comments",
+  "summary": "2863 points · 2041 comments",
   "content": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
   "url": "https://alpo.ge/remark.pdf",
   "publishedAt": "2026-11-20T14:16:21.000Z",
-  "points": 2437,
+  "points": 2863,
   "id": "hacker-news-52009f88",
   "slug": "hacker-news-52009f88",
-  "fetchedAt": "2026-11-21T04:06:37.704Z",
-  "score": 92,
+  "fetchedAt": "2026-11-22T03:18:59.863Z",
+  "score": 86,
   "sourceWeight": 86,
   "tags": [
     "科技"
   ],
   "rank": 1,
   "contentStatus": "non-html",
-  "chineseTitle": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-  "chineseSummary": "2437 points · 1643 comments",
-  "chineseContent": "Related: Hurried Announcement: Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "Levent Alpöge 声称证明了广义黎曼猜想 [pdf]",
+  "chineseSummary": "2863 点·2041 条评论",
+  "chineseContent": "相关：紧急公告：Alessandro Masullo GRH - https://news.ycombinator.com/item?id=50579568",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

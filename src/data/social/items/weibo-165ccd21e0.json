@@ -1,0 +1,21 @@
+{
+  "id": "weibo-165ccd21e0",
+  "slug": "weibo-这居然是王子璇",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 13,
+  "title": "这居然是王子璇",
+  "summary": "微博热榜第 13 位：这居然是王子璇。",
+  "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-22T02:04:25.956Z",
+  "fetchedAt": "2026-11-22T03:20:20.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-8c58a1690e",
+  "slug": "weibo-朱瞻基-扫黄",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 5,
+  "title": "朱瞻基 扫黄",
+  "summary": "微博热榜第 5 位：朱瞻基 扫黄。",
+  "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA%20%E6%89%AB%E9%BB%84",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-22T02:04:25.956Z",
+  "fetchedAt": "2026-11-22T03:20:20.981Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

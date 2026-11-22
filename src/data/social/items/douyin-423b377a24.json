@@ -1,0 +1,21 @@
+{
+  "id": "douyin-423b377a24",
+  "slug": "douyin-今日小雪",
+  "platform": "douyin",
+  "platformLabel": "抖音",
+  "rank": 2,
+  "title": "今日小雪",
+  "summary": "抖音热榜第 2 位：今日小雪，当前热度为 1,162万热度。",
+  "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA?type=general",
+  "hotValue": "1,162万热度",
+  "author": "",
+  "publishedAt": "2026-11-22T01:23:19.079Z",
+  "fetchedAt": "2026-11-22T03:20:21.027Z",
+  "tags": [
+    "抖音",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
