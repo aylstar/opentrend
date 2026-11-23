@@ -1,0 +1,21 @@
+{
+  "id": "weibo-24a58da784",
+  "slug": "weibo-时代少年团新歌上线",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 19,
+  "title": "时代少年团新歌上线",
+  "summary": "微博热榜第 19 位：时代少年团新歌上线。",
+  "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-23T02:44:34.522Z",
+  "fetchedAt": "2026-11-23T03:52:57.796Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

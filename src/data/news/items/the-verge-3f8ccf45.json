@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+  "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "publishedAt": "2026-11-22T17:25:20.000Z",
+  "id": "the-verge-3f8ccf45",
+  "slug": "the-verge-3f8ccf45",
+  "content": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site. Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere. [Media: https://twitter.com/edmundmcmillen/status/2124169167880470745?s=20] Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed. While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt, likely because he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024. [Media: https://twitter.com/nicalis/status/2124241453266169887]",
+  "fetchedAt": "2026-11-23T03:52:08.066Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "chineseSummary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+  "chineseContent": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno’s site. Creator Edmund McMillen took to X to apologize and claimed he “had no idea” the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behind Repentance Plus, doesn’t appear to have mentioned the AI music anywhere. [Media: https://twitter.com/edmundmcmillen/status/2124169167880470745?s=20] Within hours of the discovery, Nicalis shared on X that Repentance Plus had been updated and the generated music files had been removed. While reviews on Steam have yet to rebound, and the game is still rated as “overwhelmingly negative,” users on X seem to be giving McMillen the benefit of the doubt, likely because he’s been quite outspoken on AI in game development, calling it “uninspired and bland” in a TikTok from 2024. [Media: https://twitter.com/nicalis/status/2124241453266169887]",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

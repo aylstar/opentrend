@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Delta flights in and out of Atlanta delayed due to system outage",
+  "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
+  "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+  "publishedAt": "2026-11-22T17:46:44.000Z",
+  "id": "the-verge-44d84b92",
+  "slug": "the-verge-44d84b92",
+  "content": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane’s weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta’s largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at Hartsfield-Jackson could potentially affect other airports and airlines if delays continue to pile up. The issues with Delta’s systems in Atlanta come just one week after an FAA outage led to a nationwide groundstop and thousands of canceled flights. According to The New York Times: > The system that went offline calculates the total weight of an airplane, including its airframe, fuel, passengers and their baggage. The system also allows pilots to determine the plane’s center of gravity and whether the weight is evenly distributed — data points that help ensure safe passage. > “Delta teams are using manual workarounds this morning to safely get flights departed while work continues to restore automation,” the airline said in a statement on Sunday.",
+  "fetchedAt": "2026-11-23T03:52:08.066Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Delta flights in and out of Atlanta delayed due to system outage",
+  "chineseSummary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
+  "chineseContent": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane’s weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta’s largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at Hartsfield-Jackson could potentially affect other airports and airlines if delays continue to pile up. The issues with Delta’s systems in Atlanta come just one week after an FAA outage led to a nationwide groundstop and thousands of canceled flights. According to The New York Times: > The system that went offline calculates the total weight of an airplane, including its airframe, fuel, passengers and their baggage. The system also allows pilots to determine the plane’s center of gravity and whether the weight is evenly distributed — data points that help ensure safe passage. > “Delta teams are using manual workarounds this morning to safely get flights departed while work continues to restore automation,” the airline said in a statement on Sunday.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Agent swarm trying to solve P vs. NP",
+  "summary": "128 points · 107 comments",
+  "content": "A coordinated AI agent fleet is attacking P vs NP in the open. Watch it live: every step, every refutation, every dead end is kept.",
+  "url": "https://pequalnp.com/",
+  "publishedAt": "2026-11-22T21:53:45.000Z",
+  "points": 128,
+  "id": "hacker-news-b823fc1f",
+  "slug": "hacker-news-b823fc1f",
+  "fetchedAt": "2026-11-23T03:52:08.064Z",
+  "score": 74,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Agent swarm trying to solve P vs. NP",
+  "chineseSummary": "128 points · 107 comments",
+  "chineseContent": "A coordinated AI agent fleet is attacking P vs NP in the open. Watch it live: every step, every refutation, every dead end is kept.",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

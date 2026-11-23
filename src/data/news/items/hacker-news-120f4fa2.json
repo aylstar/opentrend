@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+  "summary": "26 points · 6 comments",
+  "content": "We need new language to talk about large language models. 0rwx is my attempt. A labelling system is vital for domain experts to talk about AI in a clear way. The difference between the 4 levels is not necessarily about what TOOL you use, but your ability to scrutinise the generated work. I have employed this simple framework to discuss my and others' work with less judgement and confusion, and I hope the 0rwx framework makes it just a little easier for you too. They are:",
+  "url": "https://0rwx.com/",
+  "publishedAt": "2026-11-22T23:53:00.000Z",
+  "points": 26,
+  "id": "hacker-news-120f4fa2",
+  "slug": "hacker-news-120f4fa2",
+  "fetchedAt": "2026-11-23T03:52:08.064Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 14,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+  "chineseSummary": "26 points · 6 comments",
+  "chineseContent": "We need new language to talk about large language models. 0rwx is my attempt. A labelling system is vital for domain experts to talk about AI in a clear way. The difference between the 4 levels is not necessarily about what TOOL you use, but your ability to scrutinise the generated work. I have employed this simple framework to discuss my and others' work with less judgement and confusion, and I hope the 0rwx framework makes it just a little easier for you too. They are:",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
+}

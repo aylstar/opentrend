@@ -1,0 +1,21 @@
+{
+  "id": "weibo-a7b382ca60",
+  "slug": "weibo-青稚夺冠后直播热度",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 18,
+  "title": "青稚夺冠后直播热度",
+  "summary": "微博热榜第 18 位：青稚夺冠后直播热度。",
+  "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%A4%BA%E5%86%A0%E5%90%8E%E7%9B%B4%E6%92%AD%E7%83%AD%E5%BA%A6",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-23T02:44:34.522Z",
+  "fetchedAt": "2026-11-23T03:52:57.796Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

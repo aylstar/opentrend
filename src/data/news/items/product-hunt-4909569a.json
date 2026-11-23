@@ -8,18 +8,18 @@
   "id": "product-hunt-4909569a",
   "slug": "product-hunt-4909569a",
   "content": "Tech feed inside agent wait time Discussion | Link",
-  "fetchedAt": "2026-11-22T03:18:59.863Z",
+  "fetchedAt": "2026-11-23T03:52:08.065Z",
   "score": 73,
   "sourceWeight": 84,
   "tags": [
     "科技",
     "全球"
   ],
-  "rank": 6,
+  "rank": 11,
   "contentStatus": "fetch-failed",
-  "chineseTitle": "等待馈送",
-  "chineseSummary": "技术提要内代理等待时间讨论 |关联",
-  "chineseContent": "技术提要内代理等待时间讨论 |关联",
-  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
-  "translationStatus": "translated"
+  "chineseTitle": "WaitFeed",
+  "chineseSummary": "Tech feed inside agent wait time Discussion | Link",
+  "chineseContent": "Tech feed inside agent wait time Discussion | Link",
+  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
+  "translationStatus": "fallback"
 }

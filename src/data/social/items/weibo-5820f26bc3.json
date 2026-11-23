@@ -1,0 +1,21 @@
+{
+  "id": "weibo-5820f26bc3",
+  "slug": "weibo-a股",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 11,
+  "title": "A股",
+  "summary": "微博热榜第 11 位：A股。",
+  "url": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-23T02:44:34.522Z",
+  "fetchedAt": "2026-11-23T03:52:57.796Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
