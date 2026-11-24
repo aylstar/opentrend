@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Kagi Mail (public beta)",
+  "summary": "398 points · 307 comments",
+  "content": "We are proud to announce something that our small team of very dedicated people at Kagi has been building for a long time – the public beta of Kagi Mail . A private email and calendar with a @kagimail.com address, or with your own domains.\n\nIf you’ve already swapped Google Search for Kagi and Chrome for Orion, your inbox is probably the last big piece of your digital life still at Google. Now you can move that too.\n\n$99/year (+ Sales Tax) after that. Included with Kagi Ultimate.\n\nDoes the world need another email service? We asked ourselves that question more than once. There are great ones out there, and we’re fans of what Fastmail and Tuta are doing. We still built our own, for the same reason we build everything at Kagi: technology should do its job and then get out of your way .\n\nFor email, that job is to be fast, private, and secure. On top of that, it should help you stay on track with what’s important: bring forward what you need to act on, respond to, or acknowledge, and quietly handle the rest.\n\nKagi Mail also has to treat you the way Kagi Search and Orion do: no surveillance, no ads, open standards, and no lock-in.\n\nKagi Mail is included in Ultimate . Sign in with your Kagi account, and you’re set. AI features draw from your existing Allowance. On another plan, or no Kagi account yet? After the free 60-day trial, you can get Kagi Mail for $99/year (+ Sales Tax).\n\nHow it works: A service and a client, on open standards\n\nTo deliver the experience we believe in, we built the full stack: hosting for your addresses and domains, plus the mail and calendar apps. It runs on open standards and open-source infrastructure (the Stalwart server, IMAP, JMAP, and CalDAV), so you can use Kagi’s apps or any compatible client you already like.\n\nNo ads, ever. No profiling, no selling, no sharing your data.\n\nWe will keep adding new capabilities – here’s what to expect over the next few quarters.\n\nUntil the mobile apps arrive, use the mobile web app or any IMAP/JMAP client, such as Apple Mail or Thunderbird.\n\nLeaving Kagi Mail is as easy as joining it. Your mail, calendar, and workflows are yours, and you can export them at any time, through standard protocols and a one-click export experience. You’ll keep access to your mailbox for six months after leaving Kagi Mail. You can send and receive emails for the first 60 days, then read and export your mail with one click for the remaining four months. We build an ecosystem so things work better together for those who want it, not to trap anyone .\n\nWe want Kagi Mail to be the first email account we’d create for our children. We’re not there yet, but it is a high bar we hold ourselves to, and every feature in this beta is a step toward it: a calm, safe place to communicate, and a window onto an internet that treats you as a person, not a product who’s been tracked, targeted, and sold to.\n\nWe can build it this way because of you. Kagi has no ad business, and no one pushing us to monetize your inbox; you’re not a dataset for ads or AI. You are here because you believe the internet can be built differently. Thank you.",
+  "url": "https://blog.kagi.com/kagi-mail-public-beta",
+  "publishedAt": "2026-11-23T17:17:01.000Z",
+  "points": 398,
+  "id": "hacker-news-a80b5d64",
+  "slug": "hacker-news-a80b5d64",
+  "fetchedAt": "2026-11-24T07:00:23.298Z",
+  "score": 77,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 8,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "卡吉邮件（公开测试版）",
+  "chineseSummary": "398 分 · 307 条评论",
+  "chineseContent": "我们很自豪地宣布我们 Kagi 非常敬业的小团队长期以来一直在构建的东西——Kagi Mail 的公开测试版。带有 @kagimail.com 地址或您自己的域的私人电子邮件和日历。\n\n如果您已经将 Google 搜索换成 Kagi，将 Chrome 换成 Orion，那么您的收件箱可能是您在 Google 的数字生活中最后一个重要部分。现在你也可以移动它了。\n\n此后每年 99 美元（+ 销售税）。包含在 Kagi Ultimate 中。\n\n世界需要另一种电子邮件服务吗？我们不止一次问自己这个问题。那里有很多很棒的产品，我们是 Fastmail 和 Tuta 所做的事情的粉丝。我们仍然建造自己的，出于同样的原因，我们在 Kagi 建造一切：技术应该发挥其作用，然后不妨碍你。\n\n对于电子邮件来说，首要任务就是快速、私密且安全。最重要的是，它应该帮助你在重要的事情上保持正轨：提出你需要采取行动、回应或承认的事情，并安静地处理其余的事情。\n\nKagi Mail 还必须像 Kagi Search 和 Orion 一样对待您：无监控、无广告、开放标准、无锁定。\n\nKagi Mail 包含在 Ultimate 中。使用您的 Kagi 帐户登录即可。 AI 功能取自您现有的津贴。有另一个计划，或者还没有 Kagi 帐户？ 60 天免费试用后，您可以每年 99 美元（+ 销售税）获得 Kagi Mail。\n\n工作原理：基于开放标准的服务和客户端\n\n为了提供我们所相信的体验，我们构建了完整的堆栈：托管您的地址和域，以及邮件和日历应用程序。它在开放标准和开源基础设施（Stalwart 服务器、IMAP、JMAP 和 CalDAV）上运行，因此您可以使用 Kagi 的应用程序或任何您喜欢的兼容客户端。\n\n永远没有广告。不分析、不出售、不共享您的数据。\n\n我们将不断添加新功能——以下是未来几个季度的预期。\n\n在移动应用程序发布之前，请使用移动网络应用程序或任何 IMAP/JMAP 客户端，例如 Apple Mail 或 Thunderbird。\n\n离开 Kagi Mail 就像加入它一样简单。您的邮件、日历和工作流程都是您的，您可以通过标准协议和一键导出体验随时导出它们。离开 Kagi Mail 后，您将在六个月内保留对邮箱的访问权限。您可以在前 60 天内发送和接收电子邮件，然后在剩下的四个月内一键阅读和导出邮件。我们建立了一个生态系统，以便为那些想要它的人更好地协同工作，而不是让任何人陷入困境。\n\n我们希望 Kagi Mail 成为我们为孩子创建的第一个电子邮件帐户。我们还没有达到这个目标，但这是我们为自己设定的一个很高的标准，而这个测试版中的每一个功能都是朝着这个目标迈出的一步：一个平静、安全的交流场所，一个通往互联网的窗口，将你视为一个人，而不是一个被跟踪、瞄准和销售的产品。\n\n因为你，我们才能这样建造它。 Kagi 没有广告业务，也没有人推动我们通过您的收件箱获利；你不是广告或人工智能的数据集。您来到这里是因为您相信互联网可以以不同的方式构建。谢谢。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

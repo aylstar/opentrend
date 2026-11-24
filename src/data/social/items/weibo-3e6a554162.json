@@ -1,0 +1,21 @@
+{
+  "id": "weibo-3e6a554162",
+  "slug": "weibo-暮光之城",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 7,
+  "title": "暮光之城",
+  "summary": "微博热榜第 7 位：暮光之城。",
+  "url": "https://s.weibo.com/weibo?q=%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-24T05:35:58.619Z",
+  "fetchedAt": "2026-11-24T07:00:58.345Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

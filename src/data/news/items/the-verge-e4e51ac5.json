@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Google alternative Kagi launches an email service",
+  "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]",
+  "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+  "publishedAt": "2026-11-24T00:02:52.000Z",
+  "id": "the-verge-e4e51ac5",
+  "slug": "the-verge-e4e51ac5",
+  "content": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has “no surveillance, no ads, open standards, and no lock-in.” With Kagi Mail, you get an @kagimail.com address, but the service also supports unlimited aliases and domains. It also offers 50GB of storage and a built-in calendar. On the roadmap, you can expect contacts and an address book in Q1 2027, but native mobile apps aren’t expected to arrive until Q3 2027. “Does the world need another email service? We asked ourselves that question more than once,” Kagi says. “There are great ones out there, and we’re fans of what Fastmail and Tuta are doing. We still built our own, for the same reason we build everything at Kagi: technology should do its job and then get out of your way.” Kagi Mail is available now with a 60-day free trial before you have to pay $99 per year. The service is available as part of a $25 per month Kagi Ultimate subscription.",
+  "fetchedAt": "2026-11-24T07:00:23.299Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "产品"
+  ],
+  "rank": 17,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "谷歌替代品 Kagi 推出电子邮件服务",
+  "chineseSummary": "Kagi 已经提供了 Google 搜索的付费替代方案，并推出了自己的 Orion 浏览器作为 Chrome 的竞争对手，它正在挑战另一项 Google 服务：Gmail。今天，Kagi 宣布了 Kagi Mail 的公开测试版，这是一种“无监控、无广告、开放标准、无锁定”的新电子邮件服务。使用 Kagi Mail，您 [...]",
+  "chineseContent": "Kagi 已经提供了 Google 搜索的付费替代方案，并推出了自己的 Orion 浏览器作为 Chrome 的竞争对手，它正在挑战另一项 Google 服务：Gmail。今天，Kagi 宣布了 Kagi Mail 的公开测试版，这是一种“无监控、无广告、开放标准、无锁定”的新电子邮件服务。使用 Kagi Mail，您可以获得一个@kagimail.com 地址，但该服务还支持无限的别名和域。它还提供 50GB 存储空间和内置日历。在路线图上，你可以期待在 2027 年第一季度提供联系人和地址簿，但原生移动应用程序预计要到 2027 年第三季度才会出现。“世界需要另一种电子邮件服务吗？我们不止一次问自己这个问题，”卡吉说。 “那里有很多伟大的产品，我们是 Fastmail 和 Tuta 所做的事情的粉丝。我们仍然构建自己的产品，与我们在 Kagi 构建一切的原因相同：技术应该做好它的工作，然后不要妨碍你。” Kagi Mail 现已推出，提供 60 天免费试用期，之后每年需支付 99 美元。该服务作为每月 25 美元 Kagi Ultimate 订阅的一部分提供。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "weibo-0e8994de82",
+  "slug": "weibo-2026我的动物朋友",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 8,
+  "title": "2026我的动物朋友",
+  "summary": "微博热榜第 8 位：2026我的动物朋友。",
+  "url": "https://s.weibo.com/weibo?q=2026%E6%88%91%E7%9A%84%E5%8A%A8%E7%89%A9%E6%9C%8B%E5%8F%8B",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-24T05:35:58.619Z",
+  "fetchedAt": "2026-11-24T07:00:58.345Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Ladybird is now in alpha",
+  "summary": "1706 points · 398 comments",
+  "content": "Andreas Kling &mdash; Mon, 23 Nov 2026\n\nHello friends! Ladybird is now in alpha. You can download it for macOS and Linux.\n\nI’ve been looking forward to writing this post for a long time. :^)\n\nLadybird is a browser with a new engine. The engine is our own, built from the ground up, and not a fork. The browser around it is modest, but functional.\n\nWe want security nerds to hack it! A new browser gets hacked, over and over, and that’s part of the process, so we make no promises about security today. When you pwn us, please tell us how so we can harden Ladybird!\n\nThe alpha is a rolling channel, and we’ll be pushing out automatic updates regularly. This is the part I’m most excited about. Ladybird improves quickly, and until now you had to build it from source to see that.\n\nIf you build websites, try yours in Ladybird and tell us what breaks. It supports WebDriver for automated testing, as well as the Firefox DevTools protocol.\n\nThank you to our sponsors and donors, and to everyone who has tested, reported bugs, and written code over the years. There’s still a mountain of work ahead of us, but I’m very happy that you can finally try Ladybird for yourself!",
+  "url": "https://ladybird.org/posts/alpha/",
+  "publishedAt": "2026-11-23T16:13:12.000Z",
+  "points": 1706,
+  "id": "hacker-news-5c69400c",
+  "slug": "hacker-news-5c69400c",
+  "fetchedAt": "2026-11-24T07:00:23.298Z",
+  "score": 80,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Ladybird 现在处于 alpha 阶段",
+  "chineseSummary": "1706 分 · 398 条评论",
+  "chineseContent": "安德烈亚斯·克林 — 2026 年 11 月 23 日星期一\n\n朋友们大家好！ Ladybird 现在处于 alpha 阶段。您可以下载适用于 macOS 和 Linux 的它。\n\n我期待写这篇文章很久了。 :^)\n\nLadybird 是一款采用新引擎的浏览器。引擎是我们自己的，是从头开始构建的，而不是前叉。它周围的浏览器很朴素，但功能齐全。\n\n我们希望安全专家能够破解它！新的浏览器一次又一次地遭到黑客攻击，这是这个过程的一部分，所以我们今天不对安全性做出任何承诺。当你pw我们的时候，请告诉我们如何让Ladybird变硬！\n\nAlpha 版是滚动通道，我们将定期推出自动更新。这是我最兴奋的部分。 Ladybird 改进得很快，到目前为止，您必须从源代码构建它才能看到这一点。\n\n如果您建立网站，请在 Ladybird 中尝试一下，并告诉我们有什么问题。它支持用于自动化测试的 WebDriver 以及 Firefox DevTools 协议。\n\n感谢我们的赞助商和捐助者，以及多年来测试、报告错误和编写代码的每个人。我们前面还有大量的工作要做，但我很高兴您终于可以亲自尝试 Ladybird！",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

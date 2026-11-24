@@ -1,0 +1,24 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Ladybird, the first new browser engine in years, is now available to test",
+  "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]",
+  "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+  "publishedAt": "2026-11-23T22:38:09.000Z",
+  "id": "the-verge-57f6c992",
+  "slug": "the-verge-57f6c992",
+  "content": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. We’ve seen many engines emerge over time, but the most popular browsers use just three today: Gecko, Blink, and WebKit. While Gecko, now used in Mozilla Firefox, first appeared in Netscape 6 in 2000, Apple’s WebKit arrived in Safari in 2003 as a fork of KDE’s KHTML. A decade later, the Google-backed Chromium project forked WebKit to create Blink, which now powers Google Chrome, Microsoft Edge, Opera, and more. Ladybird is backed by a nonprofit organization with the goal of creating “an independent, fast and secure browser that respects user privacy and fosters an open web,” according to its website. Though Ladybird development initially began as part of a C++ project, its developers eventually began porting the code to Rust using AI. In his post announcing the alpha, Kling notes that the browser built around the Ladybird engine “is modest but functional,” adding that “some websites won’t work” during the alpha. A Windows version of Ladybird will arrive during a “later stage” of the project.",
+  "fetchedAt": "2026-11-24T07:00:23.300Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "产品"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Ladybird，多年来第一个新的浏览器引擎，现已可供测试",
+  "chineseSummary": "Ladybird，一款带有从头开始构建的引擎的独立网络浏览器，终于可以进行测试了。周一，Ladybird 开发者 Andreas Kling 宣布，经过四年多的开发，该浏览器将在 macOS 和 Linux 上推出 alpha 版。此次发布使 Ladybird 成为多年来首款配备全新引擎的浏览器。 […]",
+  "chineseContent": "Ladybird，一款带有从头开始构建的引擎的独立网络浏览器，终于可以进行测试了。周一，Ladybird 开发者 Andreas Kling 宣布，经过四年多的开发，该浏览器将在 macOS 和 Linux 上推出 alpha 版。此次发布使 Ladybird 成为多年来首款配备全新引擎的浏览器。随着时间的推移，我们已经看到许多引擎出现，但当今最流行的浏览器只使用三个：Gecko、Blink 和 WebKit。现在 Mozilla Firefox 中使用的 Gecko 于 2000 年首次出现在 Netscape 6 中，而 Apple 的 WebKit 于 2003 年作为 KDE KHTML 的分支出现在 Safari 中。十年后，Google 支持的 Chromium 项目分叉了 WebKit，创建了 Blink，现在为 Google Chrome、Microsoft Edge、Opera 等提供支持。 Ladybird 得到了一家非营利组织的支持，根据其网站介绍，该组织的目标是创建“一个独立、快速、安全的浏览器，尊重用户隐私并促进开放网络”。尽管 Ladybird 开发最初是作为 C++ 项目的一部分开始的，但其开发人员最终开始使用 AI 将代码移植到 Rust。克林在宣布 alpha 版的帖子中指出，围绕 Ladybird 引擎构建的浏览器“虽然朴素但功能齐全”，并补充说，在 alpha 版期间“某些网站将无法运行”。 Ladybird 的 Windows 版本将在该项目的“后期阶段”推出。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

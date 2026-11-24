@@ -1,25 +1,26 @@
 {
   "source": "The Verge",
   "category": "ai-tech",
-  "originalTitle": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-  "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+  "originalTitle": "Nvidia CEO Jensen Huang is back. What happens next?",
+  "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-  "publishedAt": "2026-11-09T23:07:59.000Z",
+  "publishedAt": "2026-11-23T22:10:32.000Z",
   "id": "the-verge-c8ca0ac5",
   "slug": "the-verge-c8ca0ac5",
-  "content": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues.",
-  "fetchedAt": "2026-11-10T04:42:24.301Z",
+  "content": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended with Huang’s resignation, and Nvidia CFO Colette Kress was installed as the new interim CEO. And then… Huang was back. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies. Saying it received input “from senior levels of the United States government,” Nvidia’s board announced his return as CEO on November 23rd, less than two weeks after his resignation. [Media: https://www.youtube.com/watch?v=TLTNkrfD-SM] Follow along below for all of the latest updates.",
+  "fetchedAt": "2026-11-24T07:00:23.300Z",
   "score": 80,
   "sourceWeight": 80,
   "tags": [
     "AI",
-    "全球"
+    "科技",
+    "产品"
   ],
   "rank": 6,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-  "chineseSummary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
-  "chineseContent": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security. In recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers. So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues.",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "英伟达首席执行官黄仁勋回来了。接下来会发生什么？",
+  "chineseSummary": "在身穿皮夹克的 Nvidia 首席执行官、总裁兼联合创始人黄仁勋 (Jensen Huang) 承认与 Megaspeed 高管 Alice Huang 有染后，他的公司最初宣布展开调查。然而，在《纽约时报》报道后，有证据表明另一起事件，这次是与一位直接向他汇报的 Nvidia 高管发生的，当晚的董事会会议结束了 […]",
+  "chineseContent": "在身穿皮夹克的 Nvidia 首席执行官、总裁兼联合创始人黄仁勋 (Jensen Huang) 承认与 Megaspeed 高管 Alice Huang 有染后，他的公司最初宣布展开调查。然而，在《纽约时报》报道后，有证据表明还有另一起事件，这次是与一位直接向他汇报的英伟达高管发生的，当晚的董事会会议以黄仁勋辞职而告终，英伟达首席财务官科莱特·克雷斯(Colette Kress)被任命为新的临时首席执行官。然后……黄回来了。近年来，英伟达已成为特朗普政府推动人工智能的关键部分，是有关中国可能获得尖端人工智能硬件的谈判的核心人物，也是一家利用其目前超过 4 万亿美元的市值为其他人工智能公司提供融资的公司。英伟达董事会表示收到了“美国政府高层”的意见，并于 11 月 23 日宣布他重新担任首席执行官，此时距离他辞职还不到两周。 [媒体：https://www.youtube.com/watch?v=TLTNkrfD-SM] 请跟随以下内容了解所有最新更新。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
 }

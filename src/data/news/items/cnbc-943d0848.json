@@ -1,0 +1,25 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+  "summary": "Nvidia break record for single stock options volume",
+  "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+  "publishedAt": "2026-11-23T23:24:02.000Z",
+  "id": "cnbc-943d0848",
+  "slug": "cnbc-943d0848",
+  "content": "One of the most dramatic about-faces in corporate America's history, Jensen Huang's return to the helm of AI chipmaker Nvidia spurred an equally historic record in the options market. More than 11 million options contracts traded on Nvidia stock Monday, the most active single day of trading for the stock's options in history. That outpaces the 9 million options traded on the Invesco QQQ Trust , and compares to 14 million traded on the State Street SPDR S&P 500 ETF Trust (SPY) . Despite Nvidia's monstrous 31% rally and options volume that was more than five times the 30-day average, positioning in the flows was not abnormally bullish. Of the top 10 trades by dollar amount, two big put sales stood out, but there were no likely outright call buys, based on data from Barchart and SpotGamma. If there was speculative call-buying, it was dwarfed by big trades between the 160 and 170 strikes, where four million options traded for almost $2 billion.\n\nNvidia closed near $165. \"People are mostly just trying to collect a lot of premiums through short vol trades and rolls once they heard about Jensen Huang, take advantage of the vol drop more than anything else,\" Jason DeLorenzo, founder of Volland, an options-analytics software, said by phone. \"It seems like options traders were all repricing, which created record volume, but did not create any obvious one-sidedness.\" Just under 6.7 million calls traded versus 4.3 million puts, according to Cboe LiveVol data. About 2.4 million calls were likely initiated by buyers, compared with 1.6 million purchasing puts, exchange data show. Open interest in calls was highest at the 170-strike, while open interest in puts was highest at the 150-strike, Barchart data show.",
+  "fetchedAt": "2026-11-24T07:00:23.301Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "英伟达在首席执行官复出后创下了期权交易记录。这里是大宗交易",
+  "chineseSummary": "英伟达打破单一股票期权交易量记录",
+  "chineseContent": "作为美国企业史上最戏剧性的转变之一，黄仁勋重新执掌人工智能芯片制造商英伟达，在期权市场创造了同样历史性的记录。周一，英伟达股票交易了超过 1100 万份期权合约，这是该股历史上期权交易最活跃的一天。这超过了景顺 QQQ 信托交易的 900 万份期权，而道富 SPDR S&P 500 ETF 信托 (SPY) 交易的期权为 1,400 万份。尽管英伟达股价上涨了 31%，期权交易量超过 30 天平均水平的五倍，但资金流中的仓位并没有异常看涨。根据 Barchart 和 SpotGamma 的数据，在按金额计算的前 10 笔交易中，有两笔大额看跌期权销售引人注目，但不太可能出现直接看涨期权买入。如果存在投机性看涨期权购买，那么与 160 至 170 次罢工之间的大笔交易相比，这也显得相形见绌，其中 400 万份期权的交易价格接近 20 亿美元。\n\nNvidia 收盘接近 165 美元。期权分析软件 Volland 的创始人杰森·德洛伦佐 (Jason DeLorenzo) 在电话中表示：“人们在听说黄仁勋的名字后，大多只是想通过做空波动率交易和展期来收取大量溢价，利用波动率下跌的机会比其他任何事情都重要。” “看来期权交易者都在重新定价，这创造了创纪录的交易量，但并没有造成任何明显的片面性。”根据 Cboe LiveVol 数据，看涨期权交易量略低于 670 万，而看跌期权交易量为 430 万。交易所数据显示，大约 240 万次看涨期权可能是由买家发起的，而买入看跌期权的数量为 160 万次。条形图数据显示，看涨期权的未平仓合约在 170 次行使价时最高，而看跌期权的未平仓合约在 150 次行使价时最高。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

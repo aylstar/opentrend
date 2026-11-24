@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+  "summary": "1517 points · 846 comments",
+  "content": "Dario's spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control. He left OpenAI because he wasn't going to have control. It's like the Ottoman Empire banning the printing press for Arabic so they would keep in control of th…",
+  "url": "https://twitter.com/ylecun/status/2124550037912920090",
+  "publishedAt": "2026-11-23T17:07:26.000Z",
+  "points": 1517,
+  "id": "hacker-news-59c512cd",
+  "slug": "hacker-news-59c512cd",
+  "fetchedAt": "2026-11-24T07:00:23.298Z",
+  "score": 91,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 2,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "“达里奥正在大肆宣传危险，因此 OSS 模型是非法的，而他仍处于控制之中”",
+  "chineseSummary": "1517 分 · 846 条评论",
+  "chineseContent": "自 GPT-2 以来，Dario 一直在大肆宣扬危险，以便将开放模型定为非法，而“他”将保持控制。他离开 OpenAI 是因为他不再拥有控制权。这就像奥斯曼帝国禁止阿拉伯语印刷机，这样他们就可以继续控制……",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
