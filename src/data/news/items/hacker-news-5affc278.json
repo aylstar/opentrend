@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "A training engine for your local model, using your idle compute",
+  "summary": "206 points · 64 comments",
+  "content": "A training engine for your local model, using your idle compute.\n\nInstall • How it works • Commands • Roadmap • Discord • Website\n\nUse your local model as usual through opencode, pi or any OpenAI-compatible tool. While you work, Songe notices what happens after each of the model's actions: the tool result, the error, your next message. When your agent is quiet, it teaches the model to see those coming. A new version is used only if it passes its checks, and nothing ever leaves your machine.\n\nWith uv or pipx (Python 3.11 or later):\n\nNo uv or pipx yet? Either installs in one line:\n\nBoth give Songe its own environment in a lasting place, which its background service needs.\n\nsonge init finds your model server and your agents, shows what it will change, and asks once:\n\nThen pick a Songe model in your agent (opencode lists them as songe/songe/ ), and work as usual.\n\npip install songe works inside a virtual environment; outside one, Homebrew's and most Linux distributions' Python refuse it.\n\nYou need a model served locally, and an agent:\n\nMachines without a GPU still serve and record, but do not train. Tried Songe on another setup? Share the result on the testing board .\n\nWith auto-dream on, Dreams start when your agent has been quiet for a while. Or press Dream in the dashboard ( songe open ). A Dream never just disappears: it keeps going on the page, or says why it stopped.\n\nBefore the first training Songe measures how much your computer can learn at once, and trains on what fits. See DESIGN.md .\n\nuv tool upgrade songe , pipx upgrade songe or brew upgrade songe : the service moves to the new version by itself in a quiet moment.\n\nsonge uninstall stops the service and restores your agent settings; add --purge to also delete its data and learned versions. Run it before brew uninstall songe .\n\nWhere Songe is going: ROADMAP.md . Ideas and bugs are welcome as issues . Questions and results from your nights go in Discord . To contribute, see CONTRIBUTING.md . Security reports: SECURITY.md .",
+  "url": "https://github.com/sous-labs/songe",
+  "publishedAt": "2026-11-24T15:03:40.000Z",
+  "points": 206,
+  "id": "hacker-news-5affc278",
+  "slug": "hacker-news-5affc278",
+  "fetchedAt": "2026-11-25T05:32:46.545Z",
+  "score": 75,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "全球"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "使用空闲计算来训练本地模型的引擎",
+  "chineseSummary": "206 分 · 64 条评论",
+  "chineseContent": "使用闲置计算来训练本地模型的引擎。\n\n安装 • 工作原理 • 命令 • 路线图 • Discord • 网站\n\n通过 opencode、pi 或任何 OpenAI 兼容工具照常使用本地模型。当您工作时，Songe 会注意到模型每次操作后发生的情况：工具结果、错误、您的下一条消息。当你的代理安静时，它会教模型看到那些来的人。新版本仅在通过检查后才会使用，并且任何内容都不会离开您的计算机。\n\n使用 uv 或 pipx（Python 3.11 或更高版本）：\n\n还没有 uv 或 pipx 吗？要么安装在一行中：\n\n两者都为 Songe 提供了一个持久的环境，这是其后台服务所需要的。\n\nSonge init 找到您的模型服务器和代理，显示它将更改的内容，并询问一次：\n\n然后在您的代理中选择一个 Songe 模型（opencode 将它们列为 songe/songe/ ），然后照常工作。\n\npip install songe 在虚拟环境中运行；除此之外，Homebrew 和大多数 Linux 发行版的 Python 都拒绝它。\n\n您需要一个本地服务的模型和一个代理：\n\n没有 GPU 的机器仍然可以提供服务和记录，但不会进行训练。尝试过 Songe 的其他设置吗？在测试板上分享结果。\n\n启用自动梦想后，当您的经纪人安静一段时间后，梦想就会开始。或者按仪表板中的 Dream（songe open）。梦想永远不会消失：它会一直在纸上继续，或者说为什么它停止了。\n\n在第一次训练之前，Songe 会测量您的计算机一次可以学习多少内容，并根据适合的内容进行训练。请参阅 DESIGN.md 。\n\nuv工具升级songe、pipx升级songe或brew升级songe：服务在安静的时刻自行移动到新版本。\n\nSonge uninstall 会停止服务并恢复您的代理设置；添加 --purge 也可以删除其数据和学习版本。在brew uninstall Songe之前运行它。\n\nSonge 要去哪里：ROADMAP.md 。欢迎提出想法和错误作为问题。您晚上提出的问题和结果会出现在 Discord 中。要做出贡献，请参阅 CONTRIBUTING.md 。安全报告：SECURITY.md。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

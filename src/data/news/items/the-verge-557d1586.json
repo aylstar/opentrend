@@ -1,0 +1,25 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "US financial crimes bureau discloses ‘cybersecurity incident’",
+  "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the […]",
+  "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+  "publishedAt": "2026-11-25T01:00:00.000Z",
+  "id": "the-verge-557d1586",
+  "slug": "the-verge-557d1586",
+  "content": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it’s investigating a “cybersecurity incident.” The bureau, which is part of the Treasury Department, said it’s looking into an “incident that resulted in unauthorized access to a limited subset of its systems.” It hasn’t offered any information about the full scope or source of the breach, but FinCEN has taken some systems offline as a precaution. The news comes hours after The New York Times reported that the Central Intelligence Agency and Office of the Director of National Security discovered a breach of an open source intelligence system, exposing unclassified information. The Department of Defense, whose National Geospatial-Intelligence Agency was also reportedly impacted by the breach, declined to comment. The CIA and ODNI did not immediately respond to requests for comment. It’s unclear if the FinCEN breach is related. Americans have been on high alert about security incidents after a series of seemingly unrelated outages earlier this month. FinCEN’s role is to protect the financial system from illegal activity, including by combatting money laundering and terrorism financing. The bureau maintains financial transaction data and distributes it for law enforcement purposes. FinCEN also houses reports of suspicious activity that financial institutions file as part of the Bank Secrecy Act. FinCEN says in its alert that banks can still file reports about suspicious activity online, but some services may not be immediately available. Filers that need to expedite their reports in the meantime can still call the Financial Institutions Hotline, which it says was not impacted by the disruption. Update, November 24th: Added response from Department of Defense.",
+  "fetchedAt": "2026-11-25T05:32:46.546Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "全球",
+    "安全"
+  ],
+  "rank": 15,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "美国金融犯罪局披露“网络安全事件”",
+  "chineseSummary": "金融犯罪执法网络 (FinCEN) 周二透露，它正在调查一起“网络安全事件”。该局隶属于财政部，表示正在调查“导致其部分系统遭到未经授权访问的事件”。它没有提供有关 [...] 的完整范围或来源的任何信息。",
+  "chineseContent": "金融犯罪执法网络 (FinCEN) 周二透露，正在调查一起“网络安全事件”。该局隶属于财政部，表示正在调查“导致其部分系统遭到未经授权访问的事件”。 FinCEN 没有提供有关泄露的全部范围或来源的任何信息，但作为预防措施，FinCEN 已将一些系统下线。该消息发布前几小时，《纽约时报》报道称，中央情报局和国家安全总监办公室发现开源情报系统遭到破坏，泄露了非机密信息。据报道，国防部的国家地理空间情报局也受到了此次泄露的影响，该机构拒绝发表评论。中央情报局和国家情报总监办公室没有立即回应置评请求。目前尚不清楚 FinCEN 违规行为是否与之相关。在本月早些时候发生了一系列看似无关的停电事件后，美国人一直对安全事件保持高度警惕。 FinCEN 的职责是保护金融体系免受非法活动的影响，包括打击洗钱和恐怖主义融资。该局维护金融交易数据并将其分发用于执法目的。 FinCEN 还保存金融机构根据《银行保密法》提交的可疑活动报告。 FinCEN 在警报中表示，银行仍然可以在线提交有关可疑活动的报告，但某些服务可能无法立即提供。与此同时，需要加快报告速度的申报人仍然可以拨打金融机构热线，该热线表示该热线并未受到此次中断的影响。 11 月 24 日更新：添加了国防部的回应。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

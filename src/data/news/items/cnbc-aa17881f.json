@@ -1,0 +1,27 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+  "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
+  "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+  "publishedAt": "2026-11-25T03:52:03.000Z",
+  "id": "cnbc-aa17881f",
+  "slug": "cnbc-aa17881f",
+  "content": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattles investors following an overnight sell-off on Wall Street.\n\nJapanese semiconductor stocks tied to the global AI supply chain were among the hardest hit. Advantest , a supplier of chip-testing equipment to Nvidia, plunged 13%. Tokyo Electron , which supplies chipmaking equipment to Nvidia's manufacturing partner TSMC, slumped 12.82%.\n\nTechnology-focused investor SoftBank Group shed 15%, while semiconductor inspection equipment maker Lasertec lost 11.23%.\n\nOther Japanese chip stocks also came under heavy selling pressure, with Disco Corporation falling 9.41% and Renesas Electronics losing 9%.\n\nTech stocks have seen heightened volatility over the past few months amid concerns over capital expenditure, skepticism over return on investments, circular AI financing, with Jensen Huang's ouster as Nvidia CEO adding fresh worries, and his return sparking a massive rally.\n\nRolf Bulk, an analyst at The Futurum Group, said the renewed sell-off largely reflects lingering concerns over the sustainability of AI spending beyond 2027, with Huang's return doing little to fundamentally alter the outlook.\n\n\"There are still concerns on the sustainability of AI demand, ability of the sector to finance the build-out, and questions around power supply,\" Bulk said, adding that Japanese chip equipment makers were particularly vulnerable to a potential slowdown in AI infrastructure spending, given the highly cyclical nature of their business.\n\nSpending on wafer fabrication equipment could decline materially if AI demand slows from 2028 onward, Bulk said. South Korean memory chipmakers, by contrast, could be relatively insulated due to supply shortages.\n\nThe country's memory chip giants Samsung Electronics and SK Hynix, however, plunged more than 8%. The two are key suppliers of the high-bandwidth memory chips used in AI accelerators. Other South Korean technology stocks also traded lower, with LG Innotek shedding 5%.\n\nWhile the memory industry is also cyclical, Bulk expects shortages to intensify over the next two years, making a return to equilibrium between supply and demand in 2028 unlikely.\n\nIn Taiwan, shares TSMC tumbled 7%, while Hon Hai Precision Industry plunged 8.6%. Electronic components maker Foxconn Technology shed 4.93%.\n\nSome Chinese technology stocks listed in Hong Kong bucked the broader regional sell-off, with Xiaomi jumping 4.6%, Kuaishou gaining 2.8% and Alibaba adding 0.7%. Tencent was marginally higher, while Meituan and Baidu was up 0.31% and 0.16% respectively.\n\nU.S. technology stocks fell overnight with the Nasdaq Composite giving back some of the sharp gains from the previous session that were fueled by Huang's return as Nvidia CEO.",
+  "fetchedAt": "2026-11-25T05:32:46.548Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "AI",
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 16,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "华尔街 AI 抛售波及亚洲科技公司，软银股价下跌 15%",
+  "chineseSummary": "由于对人工智能交易的新担忧令投资者感到不安，亚洲科技股周三暴跌，日本半导体股票暴跌。",
+  "chineseContent": "亚洲科技股周三暴跌，日本半导体股暴跌，原因是在华尔街隔夜抛售之后，对人工智能交易的新担忧令投资者感到不安。\n\n与全球人工智能供应链相关的日本半导体股票受到的打击最为严重。 Nvidia 芯片测试设备供应商 Advantest 股价下跌 13%。为英伟达制造合作伙伴台积电供应芯片制造设备的东京电子股价下跌 12.82%。\n\n专注于技术的投资者软银集团下跌 15%，而半导体检测设备制造商 Lasertec 下跌 11.23%。\n\n其他日本芯片股也面临沉重抛售压力，Disco Corporation 下跌 9.41%，瑞萨电子下跌 9%。\n\n过去几个月，由于对资本支出的担忧、对投资回报的怀疑、循环人工智能融资，科技股波动加剧，英伟达首席执行官黄仁勋的下台增添了新的担忧，而他的回归引发了大规模反弹。\n\nThe Futurum Group 分析师 Rolf Bulk 表示，新一轮抛售很大程度上反映了人们对 2027 年之后人工智能支出可持续性的持续担忧，黄仁勋的回归几乎没有从根本上改变前景。\n\nBulk 表示：“人们仍然担心人工智能需求的可持续性、该行业为扩建提供资金的能力以及有关电力供应的问题。”他补充说，鉴于日本芯片设备制造商业务的高度周期性，它们特别容易受到人工智能基础设施支出潜在放缓的影响。\n\nBulk 表示，如果从 2028 年起人工智能需求放缓，晶圆制造设备的支出可能会大幅下降。相比之下，韩国存储芯片制造商可能因供应短缺而相对免受影响。\n\n然而，该国存储芯片巨头三星电子和SK海力士的股价却下跌了8%以上。这两家公司是人工智能加速器中使用的高带宽存储芯片的主要供应商。其他韩国科技股也走低，其中 LG Innotek 下跌 5%。\n\n尽管内存行业也具有周期性，但 Bulk 预计未来两年内存短缺将加剧，导致 2028 年供需恢复平衡的可能性不大。\n\n在台湾，台积电股价下跌 7%，鸿海精密工业股价下跌 8.6%。电子元件制造商富士康科技下跌 4.93%。\n\n一些在香港上市的中国科技股逆势上扬，小米上涨 4.6%，快手上涨 2.8%，阿里巴巴上涨 0.7%。腾讯小幅上涨，美团和百度分别上涨0.31%和0.16%。\n\n美国科技股隔夜下跌，纳斯达克综合指数回吐了前一交易日因黄仁勋重新担任英伟达首席执行官而大幅上涨的部分涨幅。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

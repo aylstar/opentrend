@@ -1,0 +1,21 @@
+{
+  "id": "weibo-80e4e5112c",
+  "slug": "weibo-欧冠联赛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 10,
+  "title": "欧冠联赛",
+  "summary": "微博热榜第 10 位：欧冠联赛。",
+  "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-24T23:02:02.634Z",
+  "fetchedAt": "2026-11-25T05:33:34.263Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

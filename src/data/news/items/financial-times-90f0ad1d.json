@@ -1,0 +1,27 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Asian markets lose ground as AI fears return",
+  "summary": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+  "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+  "publishedAt": "2026-11-25T03:52:20.000Z",
+  "id": "financial-times-90f0ad1d",
+  "slug": "financial-times-90f0ad1d",
+  "content": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+  "fetchedAt": "2026-11-25T05:32:46.551Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "科技",
+    "金融",
+    "财经"
+  ],
+  "rank": 13,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "随着 AI 恐惧卷土重来，亚洲市场失势",
+  "chineseSummary": "华尔街的黄仁勋反弹消退后，东京和首尔的科技股遭受重创",
+  "chineseContent": "华尔街的黄仁勋反弹消退后，东京和首尔的科技股遭受重创",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

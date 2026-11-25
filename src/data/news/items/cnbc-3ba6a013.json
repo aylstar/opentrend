@@ -1,0 +1,24 @@
+{
+  "source": "CNBC",
+  "category": "finance",
+  "originalTitle": "Anthropic shares fall below IPO price. Traders see even more pain",
+  "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+  "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+  "publishedAt": "2026-11-24T19:47:42.000Z",
+  "id": "cnbc-3ba6a013",
+  "slug": "cnbc-3ba6a013",
+  "content": "Anthropic shares are back trading below the IPO price after a 13% sell-off Tuesday and a 1.5% drop Monday, despite a broad rally in most big tech artificial intelligence names. Trading under $76 on Tuesday, the stock's now 8.5% below its initial public offering level and 34% beneath its intraday high of $115.\n\nIt took just four days for ANT to fall under its offering price, compared with 21 trading days for SpaceX , which rallied out of the gate.\n\nOptions volume on the stock is picking up as the shares drop and implied volatility jumps to 96, according to ThinkOrSwim data. Almost 500,000 options traded by noon ET on Tuesday for a total premium of about $250 million, the sixth-most active single-stock options in the market, SpotGamma data shows.\n\nAlmost 300,000 puts traded versus about 200,000 calls, but the sentiment implied by the trades was not overtly bearish, and judging by the biggest single trades of the day, traders are divided on what happens next.\n\nThe biggest single option trade of the day was a $7.5 million purchase of almost 11,000 75-strike puts expiring in mid-December. The trader paid above the ask, suggesting an eagerness to get the trade done at a cost of $6.85, according to SpotGamma. With Anthropic trading at $77, the position needs Anthropic to drop 11% by expiry to pay off.\n\n\"Anthropic remains bumpy as investors add risk to other names,\" said noted tech analyst Dan Ives.\n\nOnly one obvious call purchase appeared among the top 10 trades: a 3,000-lot purchase of 85-strike calls expiring Jan. 15 that cost $7.10 each, for a total of $2.2 million. That trade needs Anthropic to rally 19% within the next two months to break even.\n\nArguably the most interesting action was a string of almost a dozen put sales, ranging from $400,000 to $1.6 million each, all within moments of each other, selling the 120-strike puts expiring Dec. 18. The puts bring in $40 each, meaning the breakeven for the trade is at $80. Selling in-the-money puts in high-volatility stocks is often a way for traders to get long stock without the capital requirements of buying the underlying equity.",
+  "fetchedAt": "2026-11-25T05:32:46.548Z",
+  "score": 90,
+  "sourceWeight": 88,
+  "tags": [
+    "金融"
+  ],
+  "rank": 20,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Anthropic 股价跌破 IPO 价格。交易员看到了更多的痛苦",
+  "chineseSummary": "随着期权活动激增，大量看跌期权购买、看涨期权购买和看跌期权销售表明市场出现分化，Anthropic 股价跌破 83 美元的 IPO 价格。",
+  "chineseContent": "尽管大多数大型科技人工智能公司普遍上涨，但在周二抛售 13% 和周一下跌 1.5% 后，Anthropic 股价又回到了 IPO 价格以下。周二，该股股价低于 76 美元，目前比首次公开募股水平低 8.5%，比盘中高点 115 美元低 34%。\n\nANT 仅用了四天时间就跌破了发行价，而 SpaceX 花了 21 个交易日才实现反弹。\n\nThinkOrSwim 数据显示，随着股价下跌，隐含波动率跃升至 96，该股期权交易量正在增加。 SpotGamma 数据显示，截至美国东部时间周二中午，近 50 万份期权交易，总溢价约为 2.5 亿美元，是市场上第六活跃的个股期权。\n\n看跌期权交易量接近 300,000 手，而看涨期权交易量约为 200,000 手，但这些交易所隐含的情绪并未明显看跌，而且从当天最大单笔交易来看，交易者对于接下来会发生什么存在分歧。\n\n当天最大的单笔期权交易是以 750 万美元购买了近 11,000 份将于 12 月中旬到期的 75 次执行看跌期权。据 SpotGamma 称，该交易员支付了高于要价的价格，表明他渴望以 6.85 美元的成本完成交易。由于 Anthropic 的交易价格为 77 美元，该头寸需要 Anthropic 在到期前下跌 11% 才能获得回报。\n\n科技分析师丹·艾夫斯 (Dan Ives) 表示，“随着投资者增加其他股票的风险，人类股票仍然坎坷不平。”\n\n在前 10 笔交易中，只有一项明显的看涨期权购买出现：购买 3,000 手 85 份行使价看涨期权，将于 1 月 15 日到期，每份价格为 7.10 美元，总计 220 万美元。该交易需要 Anthropic 在未来两个月内上涨 19% 才能实现收支平衡。\n\n可以说，最有趣的行动是一系列近十几笔看跌期权销售，每笔价格从 40 万美元到 160 万美元不等，所有这些都在瞬间完成，出售 12 月 18 日到期的 120 个执行权的看跌期权。每笔看跌期权带来 40 美元的收益，这意味着交易的盈亏平衡点为 80 美元。出售高波动性股票的价内看跌期权通常是交易者获得多头股票的一种方式，而无需购买标的股票的资本要求。",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

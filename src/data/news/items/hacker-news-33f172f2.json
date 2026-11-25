@@ -1,0 +1,26 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+  "summary": "10 points · 2 comments",
+  "content": "A cube with nine textures in five passes, as the first card with two texture units drew it.\n\nA torus with embossed bumps and a reflection, in two passes.\n\nA bubble of springs that mirrors its surroundings. Poke it.\n\nHold the steel plate to strike it: the bolt lights bumps, heats the metal and throws sparks.\n\nTrees grown from a few numbers, lit by fireflies.\n\nA logo taken apart and shaded again in six steps, from points to bump maps and reflections.\n\nA sea monster under caustic light, 500 fish that avoid it, and a laser.\n\nA meadow without an end: ten thousand blades bend in the wind and shine like hair.\n\nRipples in a wooden pool mirror photographs of a whole day around it. Click the water.\n\nTwo-tone paint with metal flakes and clear coat, and how it is built up layer by layer.\n\nA still life in pencil: hatching by tone, ink outlines, shadows in strokes.\n\nPaul Debevec’s balls of glass and gold, lit by a forest in high dynamic range.\n\nFur of shells and fins, lit along each hair, and a roar.\n\nAnimusic's machine plays itself: every note is a ball that has to land on time.\n\nSmoke and water simulated on the card itself. Stir it with the pointer.",
+  "url": "https://gpu-demo-gallery.pages.dev/",
+  "publishedAt": "2026-11-25T04:31:48.000Z",
+  "points": 10,
+  "id": "hacker-news-33f172f2",
+  "slug": "hacker-news-33f172f2",
+  "fetchedAt": "2026-11-25T05:32:46.544Z",
+  "score": 72,
+  "sourceWeight": 86,
+  "tags": [
+    "AI",
+    "科技"
+  ],
+  "rank": 13,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：旧的 Nvidia 和 ATI 技术演示，再次在浏览器中运行",
+  "chineseSummary": "10 分 · 2 条评论",
+  "chineseContent": "正如第一张具有两个纹理单元的卡片所绘制的那样，在五遍中具有九个纹理的立方体。\n\n具有浮雕凸点和反射的环面，分两次进行。\n\n泉水的气泡反映了周围的环境。戳它。\n\n握住钢板进行撞击：螺栓会发出碰撞，加热金属并发出火花。\n\n几棵树在萤火虫的照射下长成。\n\n从点到凹凸贴图和反射，一个徽标被拆开并再次着色，分六个步骤。\n\n焦散光下的海怪、躲避它的 500 条鱼和激光。\n\n没有尽头的草地：万片叶片在风中弯曲，像头发一样闪闪发光。\n\n木制水池中的涟漪反映了周围一整天的照片。单击水。\n\n带有金属薄片和透明涂层的双色涂料，以及它是如何逐层构建的。\n\n铅笔静物画：色调阴影、墨水轮廓、笔画阴影。\n\nPaul Debevec 的玻璃和金球，被高动态范围的森林照亮。\n\n贝壳和鳍的毛皮，沿着每根头发发光，并发出咆哮声。\n\nAnimusic 的机器会自动播放：每个音符都是一个必须按时落地的球。\n\n卡本身模拟了烟雾和水。用指针搅拌它。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
