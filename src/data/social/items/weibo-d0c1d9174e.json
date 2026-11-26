@@ -1,0 +1,21 @@
+{
+  "id": "weibo-d0c1d9174e",
+  "slug": "weibo-画地为牢终于来了",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 2,
+  "title": "画地为牢终于来了",
+  "summary": "微博热榜第 2 位：画地为牢终于来了。",
+  "url": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-26T05:02:59.504Z",
+  "fetchedAt": "2026-11-26T05:16:07.078Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

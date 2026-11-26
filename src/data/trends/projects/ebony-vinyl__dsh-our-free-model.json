@@ -8,12 +8,12 @@
   "language": "JavaScript",
   "githubUrl": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
   "docsUrl": "",
-  "stars": 86364,
-  "forks": 2442,
-  "openIssues": 236,
+  "stars": 87350,
+  "forks": 2473,
+  "openIssues": 233,
   "license": "NOASSERTION",
-  "pushedAt": "2026-11-24T11:19:33Z",
-  "updatedAt": "2026-11-25T05:31:49Z",
+  "pushedAt": "2026-11-26T03:23:15Z",
+  "updatedAt": "2026-11-26T05:14:23Z",
   "createdAt": "2026-09-24T16:17:19Z",
   "archived": false,
   "trendWindows": [
@@ -28,14 +28,14 @@
   ],
   "recommendation": 2.7,
   "readmeExcerpt": "<div align=\"center\">\n  <img src=\"icon.svg\" alt=\"Our Free Model — DeepSeek Harness 免费模型插件\" width=\"120\">\n\n# dsh-our-free-model\n\n**简体中文** | [English](README_EN.md)\n\n  <img alt=\"许可证\" src=\"https://img.shields.io/badge/license-MIT-263146?style=flat-square\">\n  <img alt=\"零依赖\" src=\"https://img.shields.io/badge/dependencies-zero-4b6fff?style=flat-square\">\n  <img alt=\"无构建步骤\" src=\"https://img.shields.io/badge/build%20step-none-7da1de?style=flat-square\">\n  <img alt=\"适配内核\" src=\"https://img.shields.io/badge/dsh-0.1.5--0.1.7--rc.2-2f6f4f?style=flat-square\">\n  <img alt=\"状态\" src=\"https://img.shields.io/badge/status-beta-f0a441?style=flat-square\">\n  <br>\n  <a href=\"https://trendshift.io/repositories/261203\"><img alt=\"GITHUB TRENDING 第 1 名，日榜仓库\" src=\"docs/images/trendshift-daily-laurel-gold.svg\" width=\"250\" height=\"55\"></a>\n  <a href=\"https://trendshift.io/weekly?language=JavaScript\"><img alt=\"Trendshift JavaScript 周榜第 1 名（2026-10-05 至 2026-10-11，更新中）\" src=\"docs/images/trendshift-weekly-2026-10-11-first-gold.svg\" width=\"250\" height=\"55\"></a>\n  <br>\n  <sub>Trendshift JavaScript 周榜第 1 · 2026-10-05 至 2026-10-11 · 更新中，截至 2026-10-11</sub>\n\n</div>\n\n<div align=\"center\">\n\n> 在 dsh 里装上插件即可使用免费车道，无需登录、注册或填写 API Key。\n>\n> *Install the plugin in dsh to use the free lane without signing in, creating an\n> account, or entering an API key.*\n>\n> 模型清单跟随上游刷新，可用性由**你自己这台机器的网络出口**实测得出，\n> 思考强度下发的是真实预算而不是提示词，另附一个 OpenAI 兼容的本地转发端口。\n>\n> 纯插件挂载：不改内核、无构建步骤、零依赖。\n\n</div>\n\n---\n\n## 交流群\n\n<div align=\"center\">\n  <img src=\"docs/images/qq-group-974582805.png\" alt=\"OFM技术交流[2群]入群二维码（群号：974582805）\" width=\"300\">\n  <br>\n  <b>QQ 群：974582805（OFM技术交流[2群]）</b>\n  <br>\n  扫码加入群聊，一起交流插件使用心得、反馈问题与分享玩法。\n</div>\n\n---\n\n## 亮点\n\n- **开箱即用，无配置环节**——不需要账号、不需要 Key、不需要在后台申请配额。\n- **上游来源公开透明**——免费车道来源为 [OpenCode 的 Zen 网关](https://opencode.ai)，Kilo 渠道来源为 [Kilo AI 的公共网关](https://kilo.ai)，均直连、不经任何第三方中转。请求由谁处理、数据发往何处，见「上游是哪些源」与「免责声明」。\n- **清单跟随上游**——模型集合、上下文长度与能力在每次刷新时向上游重新拉取，插件内不保存静态快照。\n- **选择器只广播可用的模型**——上游清单已声明但网关明确拒绝路由的模型（返回 `Model is unavailable`、或 404 找不到该 id）从下拉框移除，仅在设置页保留记录并注明拒因；网关自身故障（5xx）、配额限制（429）、超时与断网不属于对模型的判定，一律保持可达；被地区策略拦截的模型归入 region-limited 分组。整轮探测全部被拒时同样保留，选择器不会为空。\n- **公告中心 + 实时推送**——仓库维护者在仓库中编辑 JSON 并推送后，所有已安装实例最迟在一个轮询周期内收到；正文为白名单约束下的 HTML，支持图文排版；`urgent` 级别触发全屏弹窗；可选系统级通知。\n- **应用内升级**——设置页一键升级：下载 → SHA-256 校验 → 备份 → 原子替换 → 校验回读 → 热重载，任一步失败自动回滚至上一版本。\n- **热重载**——升级与代码变更即时生效，无需重启应用；也可在设置页手动触发，或启用文件监视自动重载。\n- **按响应体形状判定流式响应**——网关在高负载下会以 `application/json` 的 content-type 返回完整的 SSE 帧序列。插件按响应体形状判定，并将已嗅探的字节重新注入流，既不会导致整轮失败，也不会因 header 与实际内容不符而将可用模型判为不可用。\n- **思考强度实际生效**——两类模型两种控制：声明了思考档位的模型（如 DeepSeek V4.1 Flash、GLM 5.3 Flash）给出它自己的档位菜单（Off / Low / High / Max 等），选中值按原值下发到上游 `reasoning_effort`，上游会校验该字段、集合外的取值直接 400；没有档位菜单的模型（MiMo V2.6 等）走预算阶梯——Light / Balanced / Deep 对应输出 token 预算 2 048 / 8 192 / 模型上限，思考不可关闭的模型三档整体翻倍为 4 096 / 16 384 / 模型上限，因为思考与正文共享同一输出额度。两者都逐次调用留痕，设置页每张模型卡均标注档位或该档实际下发的上限（详见「思考强度：档位菜单与预算阶梯」）。\n- **不依赖浏览器界面**——插件仅将 llm 作为硬依赖，在没有 web server 的 composition（如 dsh-tui）中同样完成启动并输出模型；看板模块挂载在独立的 fiber 上，待 webServer 就绪后再注册路由",
-  "generatedAt": "2026-11-25T05:32:35.257Z",
+  "generatedAt": "2026-11-26T05:15:11.284Z",
   "analysis": {
     "oneLine": "dsh-our-free-model 是一个面向 AI 编程工作流的规则与提示词资产，适合用于提升 Claude Code 或同类编码 Agent 的执行稳定性。",
     "problem": "AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束",
     "audience": "使用 AI 编程的开发者、技术负责人、希望建立团队级 AI 编码规范的小团队",
     "detailParagraphs": [
       "dsh-our-free-model 更准确地说是一个面向 AI 编程工作流的规则与提示词资产，而不是一个只因为短期热度上榜的仓库。对国内用户来说，判断重点不应停留在 README 的自我描述，而要看它是否能解决一个真实、可复用、可持续维护的工作流问题：AI 编程工具容易在上下文、测试、回滚和任务边界上犯重复错误，需要可复用的工程约束。",
-      "如果把它放进实际使用场景，dsh-our-free-model 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 86,364，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
+      "如果把它放进实际使用场景，dsh-our-free-model 的价值主要来自提升 Claude Code 或同类编码 Agent 的执行稳定性。当前 Star 约 87,350，说明它已经具备一定社区关注度，但商业用户更需要继续验证三件事：是否能嵌入现有业务流程，是否能由团队基于 JavaScript 技术栈持续维护，以及是否能形成稳定交付而不是一次性 Demo。",
       "从商业化和私有化角度看，它更像知识资产而非软件系统，价值在于能否转化为团队开发规范、评审清单或定制化 Agent 工作流。无需复杂部署，但需要根据团队技术栈、代码规范和安全要求改写后才能稳定使用。当前最需要警惕的是：风险在于规则泛化过度，直接复制可能不适合本地项目；需要结合真实仓库测试迭代。因此建议先用一个小范围真实任务做部署测试，再决定它适合作为内部工具、客户方案组件，还是仅作为趋势观察样本。"
     ],
     "scenarios": [
