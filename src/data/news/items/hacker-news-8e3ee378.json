@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "OpenAI may be in cost control mode",
+  "summary": "308 points · 316 comments",
+  "content": "OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened?\n\nBased on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped.\n\nHere is a chart of high-level cost change from the GPT-6 to GPT 6.2:\n\nThe X axis in the above chart is the ratio of spending of the GPT model compared to opponents in our battle system for real work . The Y axis on the above chart is Elo from our leaderboard .\n\nThe moves in the chart are significant, here’s the same chart with confidence intervals:\n\nCompared to opponents, Astra and Sol seem to be reasoning a lot less. Here is a chart of how much models reason compared to opponents in the same battle. Above the line means more reasoning and below means less.\n\nYou can see that both Astra 6 and Sol 6.1 were pretty normal models, but Astra 6.2 and Sol 6.2 become outliers.\n\nWe can see the same effect with output tokens:\n\nAre these changes significant? The p-value on output dropping is 0.0055 for Sol and 0.022 for Astra. The p-value on reasoning dropping is 0.00013 for Sol and 0.0064 for Astra.\n\nIn conclusion, Astra and Sol appear to be cost tuned compared to their predecessors, and to a degree that makes them underthinking outliers.",
+  "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+  "publishedAt": "2026-11-26T07:33:12.000Z",
+  "points": 308,
+  "id": "hacker-news-8e3ee378",
+  "slug": "hacker-news-8e3ee378",
+  "fetchedAt": "2026-11-27T05:13:22.448Z",
+  "score": 76,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 7,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "OpenAI 可能处于成本控制模式",
+  "chineseSummary": "308 分 · 316 条评论",
+  "chineseContent": "OpenAI 最近发布的 Astra 6.2 和 Sol 6.2 受到了广泛的批评。发生了什么？\n\n根据我们的数据，它们似乎已经针对节省成本进行了调整。具体来说，每个任务的输出标记和每个任务的推理标记已下降。\n\n以下是从 GPT-6 到 GPT 6.2 的高级成本变化图表：\n\n上图中的X轴是实际工作中GPT模型与我们的战斗系统中的对手的花费比率。上图的 Y 轴是我们排行榜中的 Elo。\n\n图表中的变动很重要，这是带有置信区间的同一张图表：\n\n与对手相比，阿斯特拉和索尔的推理能力似乎要弱很多。这是一张图表，显示了在同一场战斗中模型与对手相比的推理程度。线以上意味着更多的推理，线以下意味着更少的推理。\n\n您可以看到 Astra 6 和 Sol 6.1 都是非常正常的模型，但 Astra 6.2 和 Sol 6.2 成为异常值。\n\n我们可以看到输出标记具有相同的效果：\n\n这些变化重要吗？ Sol 的输出下降 p 值为 0.0055，Astra 的输出下降 p 值为 0.022。 Sol 的推理下降 p 值为 0.00013，Astra 的推理下降 p 值为 0.0064。\n\n总之，与前代产品相比，Astra 和 Sol 似乎进行了成本调整，并且在一定程度上使它们低估了异常值。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

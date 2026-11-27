@@ -1,0 +1,26 @@
+{
+  "source": "The Verge",
+  "category": "ai-tech",
+  "originalTitle": "Android app developers will soon have to share their address publicly",
+  "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
+  "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+  "publishedAt": "2026-11-26T17:06:24.000Z",
+  "id": "the-verge-f25ebcfc",
+  "slug": "the-verge-f25ebcfc",
+  "content": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. Developers have until February 1st 2027 to declare whether or not they’re a “trader” under UK and European law. Broadly speaking, Google says the definition applies if you earn revenue from your apps, especially if that revenue is regular or at high volume. Developers are exempt if their apps are only a hobby or non-commercial, or if they simply don’t publish them in the UK or Europe. If they self-declare as a trader, developers’ contact details will be shared publicly starting March 1st, including a phone number and address. Google doesn’t accept PO boxes for developer payment profile addresses, meaning many independent developers without an office will either have to share their home address online or pay for a registered agent or other service that provides a business address. One independent developer told The Elec they were considering renting a private office solely to comply with the new rules. We’ve asked Google to confirm why developers aren’t permitted to publish a PO box address, and why details are being shared globally, and will update this article when we hear back. Apple is subject to the same regulations, but is handling them differently to Google. It will only display developer addresses within the relevant European countries, rather than publishing them worldwide. It’s also allowing developers to supply PO box addresses, so long as they provide Apple with a receipt or bill that links the PO box to their regular address. Update, November 26th: Added mention of developers’ option to use a registered agent service for a business address.",
+  "fetchedAt": "2026-11-27T05:13:22.450Z",
+  "score": 72,
+  "sourceWeight": 80,
+  "tags": [
+    "科技",
+    "全球",
+    "安全"
+  ],
+  "rank": 18,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Android 应用程序开发人员很快将不得不公开分享他们的地址",
+  "chineseSummary": "谷歌宣布，从明年开始，许多独立 Android 应用开发者将被要求公开分享电话号码和地址，之后他们开始担心自己的隐私。这一政策变化旨在满足欧盟《数字服务法》的规定，但谷歌表示，联系方式详细信息将在全球公开。 […]",
+  "chineseContent": "谷歌宣布，从明年开始，许多独立 Android 应用开发者将被要求公开分享电话号码和地址，之后他们开始担心自己的隐私。这一政策变化旨在满足欧盟《数字服务法》的规定，但谷歌表示，联系方式详细信息将在全球公开。开发商必须在 2027 年 2 月 1 日之前声明他们是否是英国和欧洲法律规定的“交易者”。从广义上讲，谷歌表示，如果您从应用程序中赚取收入，则该定义适用，特别是如果该收入是定期或大量的。如果开发者的应用程序只是出于爱好或非商业目的，或者只是不在英国或欧洲发布，则可以豁免。如果他们自我声明为交易者，开发商的联系方式将从 3 月 1 日开始公开，包括电话号码和地址。 Google 不接受使用邮政信箱作为开发者付款资料地址，这意味着许多没有办公室的独立开发者要么必须在线分享他们的家庭地址，要么向注册代理或提供营业地址的其他服务付费。一位独立开发商告诉 The Elec，他们正在考虑租用一间私人办公室，只是为了遵守新规定。我们已要求 Google 确认为何不允许开发者发布邮政信箱地址，以及为何在全球范围内共享详细信息，并将在收到回复后更新本文。苹果遵守相同的法规，但处理方式与谷歌不同。它只会显示相关欧洲国家内的开发者地址，而不是在全球范围内发布。它还允许开发人员提供邮政信箱地址，只要他们向苹果提供将邮政信箱链接到他们的常规地址的收据或账单。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

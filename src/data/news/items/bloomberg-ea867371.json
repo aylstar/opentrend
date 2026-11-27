@@ -1,14 +1,14 @@
 {
   "source": "Bloomberg",
   "category": "finance",
-  "originalTitle": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap",
-  "summary": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
+  "originalTitle": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap",
+  "summary": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEQtTUQwY0ZyTEpubU1fOUV6eVQzR2llam9uaF9UUnQ5LVNvcWJFT0dRYW9NRHM2cDQtYkpaOF9rS1ZuVE8zaDhmYWk0S1IzdU1sOER5aWJLOTQteFZFTjRkMUJwUTdta0ZnemNITTBEa1VVb1c1MGJkUnZoMFRKNDZjM1d6SDBqZ1g2NDZTenZfSEZK?oc=5",
-  "publishedAt": "2026-11-26T04:08:00.000Z",
+  "publishedAt": "2026-11-26T18:07:43.000Z",
   "id": "bloomberg-ea867371",
   "slug": "bloomberg-ea867371",
-  "content": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
-  "fetchedAt": "2026-11-26T05:15:22.825Z",
+  "content": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
+  "fetchedAt": "2026-11-27T05:13:22.458Z",
   "score": 90,
   "sourceWeight": 95,
   "tags": [
@@ -16,11 +16,11 @@
     "金融",
     "财经"
   ],
-  "rank": 7,
+  "rank": 3,
   "contentStatus": "article-extracted",
-  "chineseTitle": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap",
-  "chineseSummary": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
-  "chineseContent": "Asian Stocks Rise as Dip Buyers Stabilize AI Trade: Markets Wrap &nbsp;&nbsp; Bloomberg.com",
-  "whyItMatters": "该条目已进入今日趋势池，后续可在翻译服务恢复后自动补全中文解读。",
-  "translationStatus": "fallback"
+  "chineseTitle": "随着 AI 交易反弹，股票和纳斯达克期货上涨：市场总结",
+  "chineseSummary": "随着人工智能交易反弹，股票和纳斯达克期货上涨：市场结束    Bloomberg.com",
+  "chineseContent": "随着人工智能交易反弹，股票和纳斯达克期货上涨：市场结束    Bloomberg.com",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
 }

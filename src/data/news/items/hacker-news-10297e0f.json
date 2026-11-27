@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "AI made self-hosting fun again",
+  "summary": "454 points · 241 comments",
+  "content": "I’ve been self-hosting things for many years. There were times when I was quite enthusiastic about it, constantly trying out new software and tinkering with my infrastructure. But at some point, that enthusiasm faded a bit.",
+  "url": "https://janlukas.blog/posts/ai-self-hosting",
+  "publishedAt": "2026-11-26T21:47:45.000Z",
+  "points": 454,
+  "id": "hacker-news-10297e0f",
+  "slug": "hacker-news-10297e0f",
+  "fetchedAt": "2026-11-27T05:13:22.447Z",
+  "score": 78,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 5,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "AI 再次让自托管变得有趣",
+  "chineseSummary": "454 分 · 241 条评论",
+  "chineseContent": "我已经自我托管东西很多年了。有时我对此非常热衷，不断尝试新软件并修补我的基础设施。但到了某个时候，这种热情就消退了一些。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}
