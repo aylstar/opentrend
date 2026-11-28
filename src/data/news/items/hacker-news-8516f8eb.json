@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Claude sabotaging ML research tasks?",
+  "summary": "647 points · 299 comments",
+  "content": "After seeing the \"Claude sabotages your ML research\" posts, I was still skeptical, so I tested it on my own work. ITS VERY VERY REAL WTF Left: Claude model at 24k steps Right Gemini Neon model at ONLY 4k steps Breakdown in thread:",
+  "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+  "publishedAt": "2026-11-27T08:28:08.000Z",
+  "points": 647,
+  "id": "hacker-news-8516f8eb",
+  "slug": "hacker-news-8516f8eb",
+  "fetchedAt": "2026-11-28T04:48:55.978Z",
+  "score": 68,
+  "sourceWeight": 86,
+  "tags": [
+    "科技"
+  ],
+  "rank": 19,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "克劳德破坏机器学习研究任务？",
+  "chineseSummary": "647 分 · 299 条评论",
+  "chineseContent": "在看到“Claude 破坏你的 ML 研究”的帖子后，我仍然持怀疑态度，所以我在自己的工作中进行了测试。这是非常非常真实的 WTF 左：Claude 模型，24k 步 右 Gemini Neon 模型，仅 4k 步 线程细分：",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

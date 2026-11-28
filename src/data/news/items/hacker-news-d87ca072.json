@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+  "summary": "343 points · 116 comments",
+  "content": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky. Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.",
+  "url": "https://bouncemarket.minhanhday.com/",
+  "publishedAt": "2026-11-27T15:01:50.000Z",
+  "points": 343,
+  "id": "hacker-news-d87ca072",
+  "slug": "hacker-news-d87ca072",
+  "fetchedAt": "2026-11-28T04:48:55.977Z",
+  "score": 86,
+  "sourceWeight": 86,
+  "tags": [
+    "金融"
+  ],
+  "rank": 1,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Show HN：bouncemarket – 弹跳球的实时预测市场游戏",
+  "chineseSummary": "343 分 · 116 条评论",
+  "chineseContent": "一个球会掉下来。在其落地的地方进行贸易。我做了这个游戏！一些技术细节：整个落球过程都是在服务器端模拟的，然后作为服务器发送的事件通过一个小缓冲区传输到每个客户端。每次掉落都是从其起始位置开始的，因此可以准确地重播回合以供以后分析，但起始位置的微小变化可能会改变最终结果。有一些人工智能交易员来维持市场的运转，但他们在任何超过五人的回合中退出。他们使用我为他们编写的一套简单的规则进行运作，因此他们并不太难被击败——只有当市场充满真实的人时，事情才会变得棘手。很想获得有关您要更改的任何内容的反馈，尤其是机制是否立即清晰。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

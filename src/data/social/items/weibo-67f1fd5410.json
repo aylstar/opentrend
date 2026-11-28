@@ -1,0 +1,21 @@
+{
+  "id": "weibo-67f1fd5410",
+  "slug": "weibo-天霸-体坛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 16,
+  "title": "天霸 体坛",
+  "summary": "微博热榜第 16 位：天霸 体坛。",
+  "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%20%E4%BD%93%E5%9D%9B",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-28T04:32:28.687Z",
+  "fetchedAt": "2026-11-28T04:50:21.708Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}

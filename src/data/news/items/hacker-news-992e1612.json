@@ -1,0 +1,25 @@
+{
+  "source": "Hacker News",
+  "category": "ai-tech",
+  "originalTitle": "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "summary": "50 points · 9 comments",
+  "content": "Prospero is a native GUI application for Windows, macOS, and Linux that connects to an AI model provider, local or remote, allowing AI agents to drive your computer to develop software. It plows through intermittent errors and keeps at its task while unattended. It speaks the OpenAI Chat Completions API, used by llama.cpp, vLLM, LiteLLM, and providers with a compatible API. Also Anthropic's Messages API, with extended thinking and prompt caching. No providers are configured out of the box.\n\nThe UI is highly flexible, and you can rearrange the panes as you please with dragging and docking. Save your layouts for later in View -> Layouts. Unlike conventional ImGui applications, rendering is passive and will not consume resources while idle.\n\nIt is a single executable, written in C++. In the typical case the engine runs in the same process as the window, and needs no daemon or server. The same executable can run headless, on another machine over ssh, or in the background after its window closes. The engine is lean and portable, and runs on computers and operating systems a quarter century old. Imagine a coding harness on Windows XP.\n\nOnce it's connected to a provider, you can ask Prospero for help with itself . It will read its own embedded documentation, self-configure, and navigate you to any place in its UI.\n\nProspero's desktop control features allow it to effectively develop, test, and debug native GUI applications. On Windows, it especially works well in w64devkit , making use of its shell and tools if available.\n\nYou can start new sessions from the command line, even if there's already an instance, by invoking Prospero with a path where the new session will be rooted. For example, to start a session here:\n\nAfter no arguments, this is the second most common way to run Prospero.\n\nProspero also carries its own documentation, under Help, which an agent in it can read too.\n\nProspero is free and unencumbered software released into the public domain. See UNLICENSE .\n\nIts programs include third-party code under its own licenses: Dear ImGui (MIT), FreeType (FTL), md4c (MIT), SDL3 (zlib), cpp-httplib (MIT), Mbed TLS (Apache-2.0), and Wuffs (Apache-2.0 or MIT, at your option), which every program with the engine includes. The built-in model's network, src/gemma.cpp , is derived from gemma4.c and stays under its MIT license.",
+  "url": "https://github.com/skeeto/prospero",
+  "publishedAt": "2026-11-27T20:23:14.000Z",
+  "points": 50,
+  "id": "hacker-news-992e1612",
+  "slug": "hacker-news-992e1612",
+  "fetchedAt": "2026-11-28T04:48:55.977Z",
+  "score": 73,
+  "sourceWeight": 86,
+  "tags": [
+    "AI"
+  ],
+  "rank": 6,
+  "contentStatus": "article-extracted",
+  "chineseTitle": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+  "chineseSummary": "50 分 · 9 条评论",
+  "chineseContent": "Prospero 是适用于 Windows、macOS 和 Linux 的本机 GUI 应用程序，可连接到本地或远程的 AI 模型提供商，允许 AI 代理驱动您的计算机来开发软件。它会克服间歇性错误，并在无人值守的情况下继续执行任务。它使用 OpenAI Chat Completions API，由 llama.cpp、vLLM、LiteLLM 和具有兼容 API 的提供商使用。还有 Anthropic 的 Messages API，具有扩展思维和提示缓存。没有提供程序是现成配置的。\n\n用户界面高度灵活，您可以通过拖动和停靠来重新排列窗格。保存布局以供稍后在“视图”->“布局”中使用。与传统的 ImGui 应用程序不同，渲染是被动的，空闲时不会消耗资源。\n\n它是一个用 C++ 编写的单个可执行文件。在典型情况下，引擎与窗口在同一进程中运行，并且不需要守护程序或服务器。相同的可执行文件可以通过 ssh 在另一台计算机上无头运行，或者在窗口关闭后在后台运行。该引擎精简且便携，可在已有四分之一世纪历史的计算机和操作系统上运行。想象一下 Windows XP 上的编码工具。\n\n连接到提供商后，您可以向 Prospero 寻求有关自身的帮助。它将读取自己的嵌入式文档、自我配置，并将您导航到其 UI 中的任何位置。\n\nProspero 的桌面控制功能使其能够有效地开发、测试和调试本机 GUI 应用程序。在 Windows 上，它在 w64devkit 中尤其有效，可以利用其 shell 和工具（如果有）。\n\n即使已经存在实例，您也可以通过使用新会话的根路径调用 Prospero，从命令行启动新会话。例如，要在此处启动会话：\n\n毫无疑问，这是运行 Prospero 的第二常见方式。\n\nProspero 还在“帮助”下提供了自己的文档，其中的代理也可以阅读该文档。\n\nProspero 是发布到公共领域的免费且不受阻碍的软件。请参阅无许可证。\n\n其程序包括其自己许可下的第三方代码：Dear ImGui (MIT)、FreeType (FTL)、md4c (MIT)、SDL3 (zlib)、cpp-httplib (MIT)、Mbed TLS (Apache-2.0) 和 Wuffs（Apache-2.0 或 MIT，由您选择），每个带有引擎的程序都包含这些代码。内置模型的网络 src/gemma.cpp 源自 gemma4.c 并保留其 MIT 许可证。",
+  "whyItMatters": "这条信息属于 AI 与科技趋势信号，适合用于观察工具选型、产品机会、开发者关注点和技术路线变化。",
+  "translationStatus": "translated"
+}

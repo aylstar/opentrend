@@ -1,0 +1,25 @@
+{
+  "source": "Financial Times",
+  "category": "finance",
+  "originalTitle": "Can AI crack encryption?",
+  "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+  "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+  "publishedAt": "2026-11-27T18:16:51.000Z",
+  "id": "financial-times-8cad11e9",
+  "slug": "financial-times-8cad11e9",
+  "content": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+  "fetchedAt": "2026-11-28T04:48:55.982Z",
+  "score": 90,
+  "sourceWeight": 93,
+  "tags": [
+    "AI",
+    "金融"
+  ],
+  "rank": 11,
+  "contentStatus": "fetch-failed",
+  "chineseTitle": "AI 能破解加密吗？",
+  "chineseSummary": "新模型的先进能力引发了人们对银行和商业数据泄露风险的担忧",
+  "chineseContent": "新模型的先进能力引发了人们对银行和商业数据泄露风险的担忧",
+  "whyItMatters": "这条信息属于财经市场信号，适合用于观察利率、汇率、股债商品、金融机构和宏观政策变化。",
+  "translationStatus": "translated"
+}

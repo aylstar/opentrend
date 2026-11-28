@@ -1,0 +1,21 @@
+{
+  "id": "weibo-db17e874d1",
+  "slug": "weibo-梁靖崑加盟俄罗斯联赛",
+  "platform": "weibo",
+  "platformLabel": "微博",
+  "rank": 1,
+  "title": "梁靖崑加盟俄罗斯联赛",
+  "summary": "微博热榜第 1 位：梁靖崑加盟俄罗斯联赛。",
+  "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91%E5%8A%A0%E7%9B%9F%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E8%B5%9B",
+  "hotValue": "",
+  "author": "",
+  "publishedAt": "2026-11-28T04:32:28.687Z",
+  "fetchedAt": "2026-11-28T04:50:21.707Z",
+  "tags": [
+    "微博",
+    "社媒热榜",
+    "每日趋势"
+  ],
+  "source": "UAPI Hotboard",
+  "sourceStatus": "live"
+}
